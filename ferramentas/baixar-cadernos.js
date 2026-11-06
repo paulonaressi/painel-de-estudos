@@ -17,6 +17,8 @@ const HOSTS_OFICIAIS = ['documento.vunesp.com.br', 'vestibular.unesp.br'];
 const HOST_OBJETIVO = 'www.curso-objetivo.br';
 const HOST_FOCO = 'focomedicina.com.br';
 const UNESP_SO_NO_FOCO = ['2018/2', '2017', '2016', '2015', '2013', '2010'];
+// Cadernos que só o Foco tem, nas edições em que o Objetivo cobre o resto (autorizado em 06/11/2026).
+const FOCO_LACUNAS = { '2011': ['25-36'], '2010/2': ['1-12', '13-24'] };
 const soListar = process.argv.includes('--listar');
 const comCopias = process.argv.includes('--copias');
 
@@ -26,22 +28,44 @@ const manifesto = fs.existsSync(arquivoManifesto) ? JSON.parse(fs.readFileSync(a
 const esperar = ms => new Promise(r => setTimeout(r, ms));
 const slug = texto => texto.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
-// Um nome de arquivo estável por caderno: provas/<instituição>/<edição>_<rótulo>.pdf
+// Um alvo por caderno (mesmas questões e campos), com as fontes em ordem de preferência:
+// oficial; com --copias, o Objetivo e, onde autorizado, o Foco. Baixa só a primeira que funcionar
+// (o site da Vunesp passou a recusar downloads automatizados em 11/2026; aí vale a cópia).
+// Nome de arquivo estável por fonte: provas/<instituição>/<edição>_<rótulo>.pdf
 const alvos = [];
-const doHost = (ed, host) => (ed.cadernos || []).filter(c => new URL(c.url).host === host);
-function cadernosParaBaixar(ed) {
-  const oficiais = (ed.cadernos || []).filter(c => HOSTS_OFICIAIS.includes(new URL(c.url).host));
-  if (oficiais.length || !comCopias) return oficiais;
-  const objetivo = doHost(ed, HOST_OBJETIVO);
-  if (objetivo.length) return objetivo;
-  return ed.instituicao === 'UNESP' && UNESP_SO_NO_FOCO.includes(ed.edicao) ? doHost(ed, HOST_FOCO) : [];
+const hostDe = c => new URL(c.url).host;
+const ehOficial = c => HOSTS_OFICIAIS.includes(hostDe(c));
+
+function fontesPermitidas(ed, grupo) {
+  const oficiais = grupo.filter(ehOficial);
+  if (!comCopias) return oficiais;
+  const objetivo = grupo.filter(c => hostDe(c) === HOST_OBJETIVO);
+  const focoLiberado = ed.instituicao === 'UNESP' &&
+    (UNESP_SO_NO_FOCO.includes(ed.edicao) || (FOCO_LACUNAS[ed.edicao] || []).includes(grupo[0].questoes));
+  const foco = focoLiberado ? grupo.filter(c => hostDe(c) === HOST_FOCO) : [];
+  return [...oficiais, ...objetivo, ...foco];
 }
 
 for (const ed of pesquisa.edicoes) {
-  for (const cad of cadernosParaBaixar(ed)) {
+  const grupos = new Map();
+  for (const c of ed.cadernos || []) {
+    const chave = `${c.questoes || ''}|${[...(c.areas || [])].sort().join(',')}`;
+    if (!grupos.has(chave)) grupos.set(chave, []);
+    grupos.get(chave).push(c);
+  }
+  const temOficial = (ed.cadernos || []).some(ehOficial);
+  for (const grupo of grupos.values()) {
+    // Edição com caderno oficial: as cópias só entram como reserva do oficial correspondente.
+    if (temOficial && !grupo.some(ehOficial)) continue;
+    const fontes = fontesPermitidas(ed, grupo);
+    // Sem oficial e sem --copias não há o que baixar; sem oficial, o Objetivo de um grupo sem
+    // o Foco liberado basta; cada grupo independe dos outros.
+    if (!fontes.length) continue;
     const inst = slug(ed.instituicao.split(' ')[0]);
-    const nome = `${slug(ed.edicao)}_${slug(cad.rotulo).slice(0, 60)}.pdf`;
-    alvos.push({ url: cad.url, arquivo: `provas/${inst}/${nome}`, rotulo: `${ed.instituicao} ${ed.edicao} — ${cad.rotulo}` });
+    alvos.push({
+      rotulo: `${ed.instituicao} ${ed.edicao} — ${fontes[0].rotulo}`,
+      fontes: fontes.map(cad => ({ url: cad.url, arquivo: `provas/${inst}/${slug(ed.edicao)}_${slug(cad.rotulo).slice(0, 60)}.pdf` })),
+    });
   }
 }
 
@@ -70,28 +94,43 @@ async function baixar(alvo) {
   let feitos = 0;
   const falhas = [];
 
+  const baixado = f => manifesto[f.url] && fs.existsSync(path.join(raiz, manifesto[f.url].arquivo));
   for (const alvo of alvos) {
-    const jaTem = manifesto[alvo.url] && fs.existsSync(path.join(raiz, manifesto[alvo.url].arquivo));
-    try {
-      if (soListar) {
-        const t = await tamanho(alvo.url);
+    const jaTem = alvo.fontes.some(baixado);
+    if (soListar) {
+      const f = alvo.fontes[0];
+      try {
+        const t = await tamanho(f.url);
         total += t.bytes;
-        console.log(`${t.status} ${(t.bytes / 1e6).toFixed(1).padStart(5)} MB  ${alvo.arquivo}${jaTem ? '  (já baixado)' : ''}`);
+        console.log(`${t.status} ${(t.bytes / 1e6).toFixed(1).padStart(5)} MB  ${f.arquivo}${jaTem ? '  (já baixado)' : ''}`);
         if (t.status !== 200 || !/pdf/.test(t.tipo)) falhas.push(`${alvo.rotulo}: ${t.status} ${t.tipo}`);
-      } else if (!jaTem) {
-        const bytes = await baixar(alvo);
-        manifesto[alvo.url] = { arquivo: alvo.arquivo, bytes };
+      } catch (erro) { falhas.push(`${alvo.rotulo}: ${erro.message}`); }
+      await esperar(350);
+      continue;
+    }
+    if (jaTem) continue;
+    const erros = [];
+    for (const f of alvo.fontes) {
+      try {
+        const bytes = await baixar(f);
+        manifesto[f.url] = { arquivo: f.arquivo, bytes };
         fs.mkdirSync(pastaProvas, { recursive: true });
         fs.writeFileSync(arquivoManifesto, JSON.stringify(manifesto, null, 1));
         total += bytes;
         feitos++;
-        console.log(`ok ${(bytes / 1e6).toFixed(1).padStart(5)} MB  ${alvo.arquivo}`);
+        console.log(`ok ${(bytes / 1e6).toFixed(1).padStart(5)} MB  ${f.arquivo}${erros.length ? '  (reserva)' : ''}`);
+        erros.length = 0;
+        break;
+      } catch (erro) {
+        erros.push(`${new URL(f.url).host}: ${erro.message}`);
+      } finally {
+        await esperar(350);
       }
-    } catch (erro) {
-      falhas.push(`${alvo.rotulo}: ${erro.message}`);
-      console.log(`FALHOU  ${alvo.arquivo}: ${erro.message}`);
     }
-    await esperar(350);
+    if (erros.length) {
+      falhas.push(`${alvo.rotulo}: ${erros.join('; ')}`);
+      console.log(`FALHOU  ${alvo.rotulo}: ${erros.join('; ')}`);
+    }
   }
 
   console.log(soListar

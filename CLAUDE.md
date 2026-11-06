@@ -194,31 +194,42 @@ de PDF. Ou se monta um manifesto a partir da API, ou se baixam os PDFs do INEP d
 ## Estado
 
 - ENEM: 17 anos (2009–2025); resoluções só em 2025.
-- Vunesp: 79 edições no catálogo, 115 cadernos com questões extraídas, 2.353 questões na tela.
-  Unesp 29 edições (1.056 questões), Unifesp 465, Famema 288, Santa Casa 200, Famerp 160,
-  Einstein 140, FMJ 44.
-- `provas/`: 112 PDFs da Vunesp (52 oficiais, 42 do Curso Objetivo, 18 do Foco Medicina) e 8 do
-  INEP. As cópias de terceiros foram verificadas: sem JavaScript, ação automática ou anexo.
+- Vunesp (06/11/2026): 99 edições no catálogo, 138 cadernos com questões extraídas, 2.940 questões
+  na tela. Unesp 29 edições (1.092 questões), Unifesp 23 (855), Famema 11 (384), Famerp 12 (220),
+  Santa Casa 10 (200), Einstein 10 (145), FMJ 4 (44).
+- `provas/`: 148 PDFs da Vunesp (52 oficiais, 75 do Curso Objetivo, 21 do Foco Medicina) e 8 do
+  INEP, 245 MB. As cópias de terceiros foram verificadas: sem JavaScript, ação automática ou anexo.
+- Rodada de conteúdo de 06/11/2026: Einstein 2027; Famerp 2015–2017; Famema 2016–2017; Unifesp
+  2003–2017 (exceto 2007); Unesp 2011 (25–36) e 2010/2 (1–24) pelo Foco.
+- Desde 11/2026 o site da Vunesp recusa (403) o `fetch` do Node e o `curl`, nas listas e nos PDFs;
+  as listas de documentos ainda abrem num navegador de verdade. `baixar-cadernos.js` tenta o oficial
+  e, com `--copias`, cai para a cópia do mesmo caderno (foi assim no Einstein 2027).
 
 ### Lacunas conhecidas
 
 - Unesp 2016/2: só as questões 25–36 (o arquivo do Objetivo não traz o 1º dia; não há outra cópia).
-- Unesp 2011: 1–24 extraídas; 25–36 só como PDF do Foco Medicina (não baixado).
-- Unesp 2010/2: 25–36 extraídas; 1–24 só como PDF do Foco Medicina (não baixado).
 - Layout que o extrator não entende, abrem como PDF inteiro: Famema 2022 (diagramação própria do
   Objetivo, marcadores só com o número), Famema 2024 (arquivo com três partes e página confusa),
-  Einstein 2018 (provavelmente não é prova da Vunesp).
-- Sem caderno nenhum: Famema 2023, Famerp 2018.
+  Einstein 2018 (provavelmente não é prova da Vunesp); Unifesp 2003–2011 (questões sem o marcador
+  "Questão N"). O painel de navegador do app não desenha PDF em iframe; num navegador comum aparece.
+- Sem caderno nenhum: Famema 2023, Famerp 2018 (o Objetivo só tem a resolução).
+- Unifesp 2007: o único caderno discursivo (Objetivo) é um pacote PDF com JavaScript e anexos;
+  descartado. Unifesp 2004: sem o 2º dia.
+- Unesp 2005/2–2009/2: cadernos do 2º e 3º dias existem no Objetivo, mas a numeração recomeça a
+  cada dia, os números vêm como "10." e há versões por grupo de carreira (2005/2). Precisa de
+  extrator novo e de id com o dia (os ids da Unesp não levam caderno). Não incluídos.
 - Unesp: não há respostas esperadas oficiais para as discursivas; gabarito oficial só de 2021–2023.
-- Fora do catálogo: FMABC, UNILUS e outros vestibulares da Vunesp; edições 2027 de Famerp,
-  Famema, Einstein e Unifesp (sem caderno publicado em 05/10/2026).
+- Fora do catálogo: FMABC (só objetivas), Einstein de inverno 2017/2 e 2023/2 (só objetivas),
+  UNILUS e outros; edições 2027 de Famerp e Famema (inscrições abertas em 06/11/2026), Unifesp
+  2027 e Unesp 2027 (2ª fase ainda não aplicada).
 
 ## Combinado com o dono do projeto
 
 - **Downloads autorizados até aqui**: cadernos oficiais (Vunesp, Unesp, INEP); cópias do Curso
   Objetivo nas edições sem oficial; Foco Medicina **só** nas seis edições da Unesp que o Objetivo
-  não tem (2018/2, 2017, 2016, 2015, 2013, 2010). Usar o Foco em 2011 e 2010/2, ou qualquer outra
-  fonte nova, ainda não foi pedido a ele.
+  não tem (2018/2, 2017, 2016, 2015, 2013, 2010) e, desde 06/11/2026, nas lacunas da Unesp 2011
+  (25–36) e 2010/2 (1–24). Em 06/11/2026 ele pediu uma rodada de "caça" de cadernos faltantes e a
+  incorporação deles; uma fonte nova (fora Vunesp, Unesp, INEP, Objetivo e Foco) ainda pede aval.
 - **Direitos autorais**: as questões da Vunesp não são transcritas; a tela mostra o recorte do
   PDF, e o texto extraído serve só para classificar. Foi avisado que, se a plataforma for pública
   ou comercial, o licenciamento do conteúdo (Vunesp, cursinhos) é decisão dele.

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-05",
+  "gerado_em": "2026-11-06",
   "edicoes": [
     {
       "instituicao": "UNESP",
@@ -2491,6 +2491,71 @@
       "observacoes": "Estrutura conforme o índice de questões do Curso Objetivo (cadernos não foram abertos). Nos espelhos (host_oficial=false), áreas e numeração foram inferidas do rótulo/nome do arquivo e do índice de questões do Curso Objetivo; os PDFs não foram abertos."
     },
     {
+      "instituicao": "FAMEMA",
+      "edicao": "2017",
+      "ano": 2017,
+      "fase": "Prova I (discursiva) + Prova II (objetiva e redação)",
+      "formato": "mista",
+      "estrutura": "Prova I: 8 questões discursivas; Prova II: 40 questões objetivas + redação (num só caderno)",
+      "cadernos": [
+        {
+          "rotulo": "Prova (espelho Curso Objetivo)",
+          "areas": [],
+          "questoes": null,
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2017/famema2017_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/famema2017.aspx",
+          "http_status": 200
+        },
+        {
+          "fonte": "Curso Objetivo (PDF da resolução)",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2017/famema2017_gabarito.pdf",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo). Código Vunesp na capa (FMMA1502 em 2016)."
+    },
+    {
+      "instituicao": "FAMEMA",
+      "edicao": "2016",
+      "ano": 2016,
+      "fase": "Prova I (discursiva) + Prova II (objetiva e redação)",
+      "formato": "mista",
+      "estrutura": "Prova I: questões discursivas; Prova II: 40 questões objetivas + redação (num só caderno)",
+      "cadernos": [
+        {
+          "rotulo": "Prova (espelho Curso Objetivo)",
+          "areas": [],
+          "questoes": null,
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2016/famema2016_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/famema2016.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo). Código Vunesp na capa (FMMA1502 em 2016)."
+    },
+    {
       "instituicao": "FAMERP",
       "edicao": "2026",
       "ano": 2026,
@@ -2860,6 +2925,117 @@
       ],
       "respostas_esperadas": [],
       "observacoes": "Estrutura conforme o índice de questões do Curso Objetivo (cadernos não foram abertos). Áreas das questões discursivas não verificadas (só \"redacao\" consta do título oficial)."
+    },
+    {
+      "instituicao": "FAMERP",
+      "edicao": "2017",
+      "ano": 2017,
+      "fase": "2º dia (Conhecimentos Específicos e Redação)",
+      "formato": "mista",
+      "estrutura": "1º dia: questões objetivas (Conhecimentos Gerais); 2º dia: 20 questões discursivas (Conhecimentos Específicos) + redação",
+      "cadernos": [
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "redacao"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2017/2dia/famerp2017_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/FAMERP2017.aspx",
+          "http_status": 200
+        },
+        {
+          "fonte": "Curso Objetivo (PDF da resolução)",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2017/2dia/famerp2017.pdf",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "FAMERP",
+      "edicao": "2016",
+      "ano": 2016,
+      "fase": "2º dia (Conhecimentos Específicos e Redação)",
+      "formato": "mista",
+      "estrutura": "1º dia: questões objetivas (Conhecimentos Gerais); 2º dia: 20 questões discursivas (Conhecimentos Específicos) + redação",
+      "cadernos": [
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "redacao"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2016/2dia/famerp2016_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/FAMERP2016.aspx",
+          "http_status": 200
+        },
+        {
+          "fonte": "Curso Objetivo (PDF da resolução)",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2016/2dia/famerp2016.pdf",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "FAMERP",
+      "edicao": "2015",
+      "ano": 2015,
+      "fase": "2º dia (Conhecimentos Específicos e Redação)",
+      "formato": "mista",
+      "estrutura": "1º dia: questões objetivas (Conhecimentos Gerais); 2º dia: 20 questões discursivas (Conhecimentos Específicos) + redação",
+      "cadernos": [
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "redacao"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2015/2dia/famerp2015_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/FAMERP2015.aspx",
+          "http_status": 200
+        },
+        {
+          "fonte": "Curso Objetivo (PDF da resolução)",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2015/2dia/famerp2015.pdf",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
     },
     {
       "instituicao": "FCMSCSP (Santa Casa de SP)",
@@ -3291,6 +3467,56 @@
       ],
       "respostas_esperadas": [],
       "observacoes": "Estrutura conforme o índice de questões do Curso Objetivo (cadernos não foram abertos). No Objetivo a parte discursiva aparece como \"1º dia\" em 2018–2020 e como \"2º dia\" de 2021 em diante. Áreas das discursivas não verificadas. Nos espelhos (host_oficial=false), áreas e numeração foram inferidas do rótulo/nome do arquivo e do índice de questões do Curso Objetivo; os PDFs não foram abertos."
+    },
+    {
+      "instituicao": "FICSAE (Albert Einstein)",
+      "edicao": "2027",
+      "ano": 2027,
+      "fase": "Prova II (discursiva) e Redação — Medicina",
+      "formato": "mista",
+      "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
+      "cadernos": [
+        {
+          "rotulo": "Prova II (discursiva) — caderno de questões",
+          "areas": [
+            "redacao"
+          ],
+          "questoes": "51-55",
+          "url": "https://documento.vunesp.com.br/documento/stream/NzkxNzM3MA%3d%3d",
+          "host_oficial": true,
+          "http_status": null,
+          "content_type": null,
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova II (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "redacao"
+          ],
+          "questoes": "51-55",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2027/alberteinstein2027_prova_II.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/alberteinstein2027.aspx",
+          "http_status": 200
+        },
+        {
+          "fonte": "Curso Objetivo (PDF da resolução)",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2027/alberteinstein2027.pdf",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo). Código do concurso na Vunesp: FEAE2602 (cadernos publicados em 11/10/2026). O link oficial foi lido no navegador; o download automatizado do site da Vunesp responde 403 desde 11/2026, por isso a cópia local vem do Objetivo. O caderno numera as discursivas de 1 a 5."
     },
     {
       "instituicao": "FICSAE (Albert Einstein)",
@@ -4469,6 +4695,638 @@
       ],
       "respostas_esperadas": [],
       "observacoes": "Estrutura conforme o índice de questões do Curso Objetivo (cadernos não foram abertos). Nos espelhos (host_oficial=false), áreas e numeração foram inferidas do rótulo/nome do arquivo e do índice de questões do Curso Objetivo; os PDFs não foram abertos."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2017",
+      "ano": 2017,
+      "fase": "Provas Vunesp (1º dia objetiva + redação; 2º dia discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 45 questões objetivas (Língua Portuguesa e Língua Estrangeira) + redação; 2º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "1º dia — Língua Portuguesa, Língua Estrangeira e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-45",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2017/1dia/unifesp2017_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2017/2dia/unifesp2017_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2017.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2016",
+      "ano": 2016,
+      "fase": "Provas Vunesp (1º dia objetiva + redação; 2º dia discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 45 questões objetivas (Língua Portuguesa e Língua Estrangeira) + redação; 2º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "1º dia — Língua Portuguesa, Língua Estrangeira e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-45",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2016/1dia/unifesp2016_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2016/2dia/unifesp2016_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2016.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2015",
+      "ano": 2015,
+      "fase": "Provas Vunesp (1º dia objetiva + redação; 2º dia discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 45 questões objetivas (Língua Portuguesa e Língua Estrangeira) + redação; 2º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "1º dia — Língua Portuguesa, Língua Estrangeira e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-45",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2015/1dia/unifesp2015_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2015/2dia/unifesp2015_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2015.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2014",
+      "ano": 2014,
+      "fase": "Provas Vunesp (1º dia objetiva + redação; 2º dia discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 45 questões objetivas (Língua Portuguesa e Língua Estrangeira) + redação; 2º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "1º dia — Língua Portuguesa, Língua Estrangeira e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-45",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2014/1dia/unifesp2014_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2014/2dia/unifesp2014_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2014.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2013",
+      "ano": 2013,
+      "fase": "Provas Vunesp (1º dia objetiva + redação; 2º dia discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 45 questões objetivas (Língua Portuguesa e Língua Estrangeira) + redação; 2º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "1º dia — Língua Portuguesa, Língua Estrangeira e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-45",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2013/1dia/unifesp2013_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2013/2dia/unifesp2013_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2013.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2012",
+      "ano": 2012,
+      "fase": "Provas Vunesp (1º dia objetiva + redação; 2º dia discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 45 questões objetivas (Língua Portuguesa e Língua Estrangeira) + redação; 2º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "1º dia — Língua Portuguesa, Língua Estrangeira e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-45",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2012/1dia/unifesp2012_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2012/2dia/unifesp2012_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2012.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2011",
+      "ano": 2011,
+      "fase": "Provas Vunesp (1º dia objetiva + redação; 2º dia discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 45 questões objetivas (Língua Portuguesa e Língua Estrangeira) + redação; 2º dia: 20 questões discursivas (o caderno traz também História, Geografia e Língua Portuguesa)",
+      "cadernos": [
+        {
+          "rotulo": "1º dia — Língua Portuguesa, Língua Estrangeira e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-45",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2011/1dia/unifesp2011_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "humanas",
+            "natureza-matematica",
+            "linguagens"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2011/2dia/unifesp2011_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2011.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2010",
+      "ano": 2010,
+      "fase": "Provas Vunesp (1º dia objetiva + redação; 2º dia discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 45 questões objetivas (Língua Portuguesa e Língua Estrangeira) + redação; 2º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "1º dia — Língua Portuguesa, Língua Estrangeira e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-45",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2010/1dia/unifesp2010_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "2º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2010/2dia/unifesp2010_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2010.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2009",
+      "ano": 2009,
+      "fase": "Provas Vunesp (2º dia Português, Inglês e Redação; 3º dia Conhecimentos Específicos discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 90 questões objetivas (Conhecimentos Gerais); 2º dia: 50 questões objetivas de Português e Inglês + redação; 3º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "2º dia — Língua Portuguesa, Língua Inglesa e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2009/2dia/unifesp2009_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "3º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2009/3dia/unifesp2009_3dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2009.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2008",
+      "ano": 2008,
+      "fase": "Provas Vunesp (2º dia Português, Inglês e Redação; 3º dia Conhecimentos Específicos discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 90 questões objetivas (Conhecimentos Gerais); 2º dia: 50 questões objetivas de Português e Inglês + redação; 3º dia: 20 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "2º dia — Língua Portuguesa, Língua Inglesa e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2008/2dia/unifesp2008_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "3º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-20",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2008/3dia/unifesp2008_3dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2008.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2006",
+      "ano": 2006,
+      "fase": "Provas Vunesp (2º dia Português, Inglês e Redação; 3º dia Conhecimentos Específicos discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 90 questões objetivas (Conhecimentos Gerais); 2º dia: 50 questões objetivas de Português e Inglês + redação; 3º dia: 25 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "2º dia — Língua Portuguesa, Língua Inglesa e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2006/2dia/unifesp2006_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "3º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-25",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2006/3dia/unifesp2006_3dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2006.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2005",
+      "ano": 2005,
+      "fase": "Provas Vunesp (2º dia Português, Inglês e Redação; 3º dia Conhecimentos Específicos discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 90 questões objetivas (Conhecimentos Gerais); 2º dia: 50 questões objetivas de Português e Inglês + redação; 3º dia: 25 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "2º dia — Língua Portuguesa, Língua Inglesa e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2005/2dia/unifesp2005_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "3º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-25",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2005/3dia/unifesp2005_3dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2005.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2004",
+      "ano": 2004,
+      "fase": "Provas Vunesp (2º dia Português, Inglês e Redação; 3º dia Conhecimentos Específicos discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 90 questões objetivas (Conhecimentos Gerais); 2º dia: 50 questões objetivas de Português e Inglês + redação; 3º dia: 25 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "3º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-25",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2004/3dia/unifesp2004_3dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2004.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo). O Objetivo não traz o caderno do 2º dia desta edição."
+    },
+    {
+      "instituicao": "UNIFESP",
+      "edicao": "2003",
+      "ano": 2003,
+      "fase": "Provas Vunesp (2º dia Português, Inglês e Redação; 3º dia Conhecimentos Específicos discursiva)",
+      "formato": "mista",
+      "estrutura": "1º dia: 90 questões objetivas (Conhecimentos Gerais); 2º dia: 50 questões objetivas de Português e Inglês + redação; 3º dia: 25 questões discursivas (Biologia, Química, Física e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "2º dia — Língua Portuguesa, Língua Inglesa e Redação (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "redacao"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2003/2dia/unifesp2003_2dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "3º dia — Conhecimentos Específicos (discursiva) (espelho Curso Objetivo)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "1-25",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2003/3dia/unifesp2003_3dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/unifesp2003.aspx",
+          "http_status": 200
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Incluída em 06/11/2026: caderno aberto e conferido (capa, número de questões, sem JavaScript nem anexo)."
     }
   ],
   "fontes_consultadas": [
@@ -4552,10 +5410,15 @@
     "UNESP 2015, 2016 e 2017: o Curso Objetivo não lista PDF de prova da 2ª fase na página da edição; o único espelho é o Foco Medicina",
     "FAMERP, FAMEMA, Santa Casa e Einstein 2018–2022; UNIFESP 2018, 2019, 2021 e 2022: caderno oficial não localizado (os códigos Vunesp testados para esses anos não retornam lista de documentos); registrados só espelhos do Curso Objetivo",
     "FMJ antes de 2024: sem página no índice do Curso Objetivo e sem lista de documentos com caderno na Vunesp; não pesquisado além disso",
-    "Edições 2027 de FAMERP (FMRP2601), FAMEMA (FMMA2601), Einstein (FEAE2602) e UNIFESP: sem caderno publicado até 2026-10-05; não incluídas",
     "FICSAE (Albert Einstein) 2018: não foi confirmado que a prova tenha sido aplicada pela Vunesp",
     "Outros vestibulares Vunesp com prova discursiva (FMABC, UNILUS, entre outros) não foram catalogados por limite de esforço",
     "Fontes sugeridas e não aproveitadas: provasdevestibular.com.br (falha de DNS em todas as tentativas), guiadovestibulinho.com.br (página sem links diretos de PDF), Elite Campinas, Anglo, Etapa e Poliedro (não consultados por limite de esforço)",
-    "Formato por edição: a estrutura (número de questões por área) vem do índice de questões do Curso Objetivo e dos títulos dos documentos oficiais; nenhum PDF de prova foi aberto para conferência"
+    "Formato por edição: a estrutura (número de questões por área) vem do índice de questões do Curso Objetivo e dos títulos dos documentos oficiais; nenhum PDF de prova foi aberto para conferência",
+    "Edições 2027 de FAMERP (FMRP2601) e FAMEMA (FMMA2601): inscrições abertas em 06/11/2026, sem prova aplicada; UNIFESP 2027: código não localizado",
+    "UNIFESP 2007: o caderno discursivo (3º dia) do Objetivo é um pacote PDF com JavaScript e 2 anexos; descartado",
+    "UNIFESP 2003–2011: cadernos sem marcador \"Questão N\"; abrem como PDF inteiro",
+    "UNESP 2005/2–2009/2: cadernos do 2º e 3º dias no Objetivo (numeração recomeça a cada dia e há versões por grupo de carreira); não incluídos por ora",
+    "Somente objetivas, fora do escopo: Einstein 2017/2 e 2023/2 (inverno), FMABC 2027",
+    "Objetivo, 06/11/2026: FAMEMA 2023 e FAMERP 2018 (2º dia) seguem só com a resolução, sem o caderno"
   ]
 }

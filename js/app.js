@@ -780,7 +780,7 @@
       h('div.q-title-row', null,
         h('h1', null, `${ed.instituicao} ${ed.edicao}`),
         ed.formato ? h('span.tag.accent', null, ed.formato) : null),
-      ed.estrutura ? h('p.ed-meta', null, ed.estrutura) : null);
+      ed.estrutura ? h('p.ed-meta', null, ed.estrutura) : '');
 
     if (cadernos.length > 1) {
       wrap.append(h('div.chips', null, cadernos.map((c, i) =>
@@ -801,7 +801,7 @@
         fontes.length > 1
           ? h('p.outras', null, 'Outras cópias: ', fontes.slice(1).map((f, i) =>
               [i ? ' · ' : '', h('a', { href: f.url, target: '_blank', rel: 'noopener noreferrer' }, f.nome)]))
-          : null);
+          : ''); // append() escreveria "null" na tela
     }
 
     wrap.append(navegadorVunesp(ed));

@@ -1,0 +1,674 @@
+{
+ "https://documento.vunesp.com.br/documento/stream/NzY5NDg5Ng%3d%3d": {
+  "arquivo": "provas/unesp/2026-2_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.pdf",
+  "bytes": 2076907,
+  "indice": "data/questoes/unesp/2026-2_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.json",
+  "questoes": 24
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzY5NDkwOQ%3d%3d": {
+  "arquivo": "provas/unesp/2026-2_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.pdf",
+  "bytes": 1297791,
+  "indice": "data/questoes/unesp/2026-2_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.json",
+  "questoes": 12
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzUwMDI5Nw%3d%3d": {
+  "arquivo": "provas/unesp/2026_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.pdf",
+  "bytes": 2100199,
+  "indice": "data/questoes/unesp/2026_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.json",
+  "questoes": 24
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzUwMjkzMw%3d%3d": {
+  "arquivo": "provas/unesp/2026_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.pdf",
+  "bytes": 1382183,
+  "indice": "data/questoes/unesp/2026_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.json",
+  "questoes": 12
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzAwMTkyNQ%3d%3d": {
+  "arquivo": "provas/unesp/2025-2_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.pdf",
+  "bytes": 2095010,
+  "indice": "data/questoes/unesp/2025-2_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.json",
+  "questoes": 24
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzAwMTkyOA%3d%3d": {
+  "arquivo": "provas/unesp/2025-2_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.pdf",
+  "bytes": 1410698,
+  "indice": "data/questoes/unesp/2025-2_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.json",
+  "questoes": 12
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjYzODU2Nw%3d%3d": {
+  "arquivo": "provas/unesp/2025_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.pdf",
+  "bytes": 1765923,
+  "indice": "data/questoes/unesp/2025_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.json",
+  "questoes": 24
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjY0MjYwNA%3d%3d": {
+  "arquivo": "provas/unesp/2025_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.pdf",
+  "bytes": 1399891,
+  "indice": "data/questoes/unesp/2025_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.json",
+  "questoes": 12
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTkwMDc1Mw%3d%3d": {
+  "arquivo": "provas/unesp/2024-2_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.pdf",
+  "bytes": 2110605,
+  "indice": "data/questoes/unesp/2024-2_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.json",
+  "questoes": 24
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTkwMzczNQ%3d%3d": {
+  "arquivo": "provas/unesp/2024-2_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.pdf",
+  "bytes": 1243557,
+  "indice": "data/questoes/unesp/2024-2_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.json",
+  "questoes": 12
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTYyMzIwNw%3d%3d": {
+  "arquivo": "provas/unesp/2024_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.pdf",
+  "bytes": 2046867,
+  "indice": "data/questoes/unesp/2024_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.json",
+  "questoes": 24
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTYyODg1MA%3d%3d": {
+  "arquivo": "provas/unesp/2024_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.pdf",
+  "bytes": 1523568,
+  "indice": "data/questoes/unesp/2024_2-dia-conhecimentos-especificos-e-redacao-linguagens-e-suas-.json",
+  "questoes": 12
+ },
+ "https://documento.vunesp.com.br/documento/stream/MzIyMzMyMA%3d%3d": {
+  "arquivo": "provas/unesp/2023_prova-de-conhecimentos-especificos-versao-1-para-divulgacao-.pdf",
+  "bytes": 2291098,
+  "indice": "data/questoes/unesp/2023_prova-de-conhecimentos-especificos-versao-1-para-divulgacao-.json",
+  "questoes": 60
+ },
+ "https://documento.vunesp.com.br/documento/stream/MjYwMjQyNw%3d%3d": {
+  "arquivo": "provas/unesp/2022_prova-de-conhecimentos-especificos-versao-1-para-divulgacao-.pdf",
+  "bytes": 2244172,
+  "indice": "data/questoes/unesp/2022_prova-de-conhecimentos-especificos-versao-1-para-divulgacao-.json",
+  "questoes": 60
+ },
+ "https://vestibular.unesp.br/Home/2021/caderno_2afase_unesp2021_versao_1.pdf": {
+  "arquivo": "provas/unesp/2021_prova-de-conhecimentos-especificos-e-redacao-versao-1-cadern.pdf",
+  "bytes": 2636635,
+  "indice": "data/questoes/unesp/2021_prova-de-conhecimentos-especificos-e-redacao-versao-1-cadern.json",
+  "questoes": 60
+ },
+ "https://vestibular.unesp.br/Home/unesp-2a-fase-2020-caderno_ciencias_humanas.pdf": {
+  "arquivo": "provas/unesp/2020_conhecimentos-especificos-ciencias-humanas.pdf",
+  "bytes": 1543774,
+  "indice": "data/questoes/unesp/2020_conhecimentos-especificos-ciencias-humanas.json",
+  "questoes": 12
+ },
+ "https://vestibular.unesp.br/Home/unesp-2a-fase-2020-caderno_ciencias_natur_matem.pdf": {
+  "arquivo": "provas/unesp/2020_conhecimentos-especificos-ciencias-da-natureza-e-matematica.pdf",
+  "bytes": 1979543,
+  "indice": "data/questoes/unesp/2020_conhecimentos-especificos-ciencias-da-natureza-e-matematica.json",
+  "questoes": 12
+ },
+ "https://vestibular.unesp.br/Home/unesp-2a-fase-2020-caderno-linguagens.pdf": {
+  "arquivo": "provas/unesp/2020_conhecimentos-especificos-linguagens-e-codigos-e-redacao.pdf",
+  "bytes": 1941818,
+  "indice": "data/questoes/unesp/2020_conhecimentos-especificos-linguagens-e-codigos-e-redacao.json",
+  "questoes": 12
+ },
+ "https://vestibular.unesp.br/Home/2019/2fase_caderno_ci_humanas.pdf": {
+  "arquivo": "provas/unesp/2019_conhecimentos-especificos-ciencias-humanas.pdf",
+  "bytes": 1417996,
+  "indice": "data/questoes/unesp/2019_conhecimentos-especificos-ciencias-humanas.json",
+  "questoes": 12
+ },
+ "https://vestibular.unesp.br/Home/2019/2fase_caderno_c_natureza_e_matematica.pdf": {
+  "arquivo": "provas/unesp/2019_conhecimentos-especificos-ciencias-da-natureza-e-matematica.pdf",
+  "bytes": 1892104,
+  "indice": "data/questoes/unesp/2019_conhecimentos-especificos-ciencias-da-natureza-e-matematica.json",
+  "questoes": 12
+ },
+ "https://vestibular.unesp.br/Home/2019/2fase_caderno_linguagens.pdf": {
+  "arquivo": "provas/unesp/2019_conhecimentos-especificos-linguagens-e-codigos-e-redacao.pdf",
+  "bytes": 1469315,
+  "indice": "data/questoes/unesp/2019_conhecimentos-especificos-linguagens-e-codigos-e-redacao.json",
+  "questoes": 12
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzQ4NTE1Mg%3d%3d": {
+  "arquivo": "provas/famema/2026_prova-i-discursiva.pdf",
+  "bytes": 1459205,
+  "indice": "data/questoes/famema/2026_prova-i-discursiva.json",
+  "questoes": 8
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzQ4NTE1Mw%3d%3d": {
+  "arquivo": "provas/famema/2026_prova-ii-objetiva-com-gabarito-oficial-redacao-segundo-o-ind.pdf",
+  "bytes": 1191172,
+  "indice": "data/questoes/famema/2026_prova-ii-objetiva-com-gabarito-oficial-redacao-segundo-o-ind.json",
+  "questoes": 40
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjU5NjQyNQ%3d%3d": {
+  "arquivo": "provas/famema/2025_prova-i-discursiva.pdf",
+  "bytes": 1385169,
+  "indice": "data/questoes/famema/2025_prova-i-discursiva.json",
+  "questoes": 8
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjU5NjQyNg%3d%3d": {
+  "arquivo": "provas/famema/2025_prova-ii-objetiva-com-gabarito-oficial-redacao-segundo-o-ind.pdf",
+  "bytes": 731134,
+  "indice": "data/questoes/famema/2025_prova-ii-objetiva-com-gabarito-oficial-redacao-segundo-o-ind.json",
+  "questoes": 40
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzUyNDMyMQ%3d%3d": {
+  "arquivo": "provas/famerp/2026_2-dia-prova-de-conhecimentos-especificos-e-redacao.pdf",
+  "bytes": 1655765,
+  "indice": "data/questoes/famerp/2026_2-dia-prova-de-conhecimentos-especificos-e-redacao.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjY1MjgxOQ%3d%3d": {
+  "arquivo": "provas/famerp/2025_2-dia-prova-de-conhecimentos-especificos-e-redacao.pdf",
+  "bytes": 1531780,
+  "indice": "data/questoes/famerp/2025_2-dia-prova-de-conhecimentos-especificos-e-redacao.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTY0NDY2NQ%3d%3d": {
+  "arquivo": "provas/famerp/2024_2-dia-prova-de-conhecimentos-especificos-e-redacao.pdf",
+  "bytes": 1578165,
+  "indice": "data/questoes/famerp/2024_2-dia-prova-de-conhecimentos-especificos-e-redacao.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/MzIxMTgxMw%3d%3d": {
+  "arquivo": "provas/famerp/2023_2-dia-prova-de-conhecimentos-especificos-e-redacao.pdf",
+  "bytes": 1651367,
+  "indice": "data/questoes/famerp/2023_2-dia-prova-de-conhecimentos-especificos-e-redacao.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/Nzg4ODg5MQ%3d%3d": {
+  "arquivo": "provas/fcmscsp/2027_prova-de-conhecimentos-especificos-e-redacao-medicina.pdf",
+  "bytes": 978628,
+  "indice": "data/questoes/fcmscsp/2027_prova-de-conhecimentos-especificos-e-redacao-medicina.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzQ0MDY3MA%3d%3d": {
+  "arquivo": "provas/fcmscsp/2026_prova-de-conhecimentos-especificos-e-redacao-medicina.pdf",
+  "bytes": 1791844,
+  "indice": "data/questoes/fcmscsp/2026_prova-de-conhecimentos-especificos-e-redacao-medicina.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjUzODY3NQ%3d%3d": {
+  "arquivo": "provas/fcmscsp/2025_prova-de-conhecimentos-especificos-e-redacao-medicina.pdf",
+  "bytes": 1601974,
+  "indice": "data/questoes/fcmscsp/2025_prova-de-conhecimentos-especificos-e-redacao-medicina.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTIyMjY2Nw%3d%3d": {
+  "arquivo": "provas/fcmscsp/2024_prova-de-conhecimentos-especificos-medicina.pdf",
+  "bytes": 1579589,
+  "indice": "data/questoes/fcmscsp/2024_prova-de-conhecimentos-especificos-medicina.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/MzE1MTExNw%3d%3d": {
+  "arquivo": "provas/fcmscsp/2023_prova-de-conhecimentos-especificos-medicina.pdf",
+  "bytes": 1589252,
+  "indice": "data/questoes/fcmscsp/2023_prova-de-conhecimentos-especificos-medicina.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzQxNzE0Mg%3d%3d": {
+  "arquivo": "provas/ficsae/2026_prova-ii-discursiva-caderno-de-questoes-e-respostas.pdf",
+  "bytes": 1413406,
+  "indice": "data/questoes/ficsae/2026_prova-ii-discursiva-caderno-de-questoes-e-respostas.json",
+  "questoes": 5
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjU1NDk5Ng%3d%3d": {
+  "arquivo": "provas/ficsae/2025_prova-ii-discursiva-caderno-de-questoes-e-respostas.pdf",
+  "bytes": 1340157,
+  "indice": "data/questoes/ficsae/2025_prova-ii-discursiva-caderno-de-questoes-e-respostas.json",
+  "questoes": 5
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTI2MDA3OA%3d%3d": {
+  "arquivo": "provas/ficsae/2024_prova-ii-discursiva-caderno-de-questoes-e-respostas.pdf",
+  "bytes": 946565,
+  "indice": "data/questoes/ficsae/2024_prova-ii-discursiva-caderno-de-questoes-e-respostas.json",
+  "questoes": 5
+ },
+ "https://documento.vunesp.com.br/documento/stream/MzE1ODc4OQ%3d%3d": {
+  "arquivo": "provas/ficsae/2023_prova-ii-discursiva-caderno-de-questoes-e-respostas.pdf",
+  "bytes": 1340799,
+  "indice": "data/questoes/ficsae/2023_prova-ii-discursiva-caderno-de-questoes-e-respostas.json",
+  "questoes": 5
+ },
+ "https://documento.vunesp.com.br/documento/stream/Nzg4Njc5NQ%3d%3d": {
+  "arquivo": "provas/fmj/2027_prova-i-discursiva.pdf",
+  "bytes": 957437,
+  "indice": "data/questoes/fmj/2027_prova-i-discursiva.json",
+  "questoes": 8
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzM5NjcxNA%3d%3d": {
+  "arquivo": "provas/fmj/2026_prova-i-discursiva.pdf",
+  "bytes": 1462335,
+  "indice": "data/questoes/fmj/2026_prova-i-discursiva.json",
+  "questoes": 8
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjUzMTU4NQ%3d%3d": {
+  "arquivo": "provas/fmj/2025_prova-i-discursiva.pdf",
+  "bytes": 1621267,
+  "indice": "data/questoes/fmj/2025_prova-i-discursiva.json",
+  "questoes": 8
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzUzOTExNQ%3d%3d": {
+  "arquivo": "provas/unifesp/2026_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.pdf",
+  "bytes": 858424,
+  "indice": "data/questoes/unifesp/2026_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+  "questoes": 25
+ },
+ "https://documento.vunesp.com.br/documento/stream/NzUzOTcyNg%3d%3d": {
+  "arquivo": "provas/unifesp/2026_2-dia-prova-de-conhecimentos-especificos-discursiva.pdf",
+  "bytes": 2217779,
+  "indice": "data/questoes/unifesp/2026_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjY1NzAwMw%3d%3d": {
+  "arquivo": "provas/unifesp/2025_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.pdf",
+  "bytes": 1125718,
+  "indice": "data/questoes/unifesp/2025_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+  "questoes": 25
+ },
+ "https://documento.vunesp.com.br/documento/stream/NjY1NzE1MA%3d%3d": {
+  "arquivo": "provas/unifesp/2025_2-dia-prova-de-conhecimentos-especificos-discursiva.pdf",
+  "bytes": 2282543,
+  "indice": "data/questoes/unifesp/2025_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTY2MjYxOQ%3d%3d": {
+  "arquivo": "provas/unifesp/2024_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.pdf",
+  "bytes": 750691,
+  "indice": "data/questoes/unifesp/2024_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+  "questoes": 25
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTY2MzgzNg%3d%3d": {
+  "arquivo": "provas/unifesp/2024_2-dia-prova-de-conhecimentos-especificos-discursiva.pdf",
+  "bytes": 2093969,
+  "indice": "data/questoes/unifesp/2024_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/NTY5OTc3Nw%3d%3d": {
+  "arquivo": "provas/unifesp/2024_2-dia-prova-de-conhecimentos-especificos-reaplicacao.pdf",
+  "bytes": 2272461,
+  "indice": "data/questoes/unifesp/2024_2-dia-prova-de-conhecimentos-especificos-reaplicacao.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/MzI4MDIxMQ%3d%3d": {
+  "arquivo": "provas/unifesp/2023_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.pdf",
+  "bytes": 693620,
+  "indice": "data/questoes/unifesp/2023_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+  "questoes": 25
+ },
+ "https://documento.vunesp.com.br/documento/stream/MzI4MzY2Mg%3d%3d": {
+  "arquivo": "provas/unifesp/2023_2-dia-prova-de-conhecimentos-especificos-discursiva.pdf",
+  "bytes": 2191846,
+  "indice": "data/questoes/unifesp/2023_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+  "questoes": 20
+ },
+ "https://documento.vunesp.com.br/documento/stream/MTQ3NTY5Mg%3d%3d": {
+  "arquivo": "provas/unifesp/2020_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.pdf",
+  "bytes": 713546,
+  "indice": "data/questoes/unifesp/2020_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+  "questoes": 25
+ },
+ "https://documento.vunesp.com.br/documento/stream/MTQ3NjU5OQ%3d%3d": {
+  "arquivo": "provas/unifesp/2020_2-dia-prova-de-conhecimentos-especificos-discursiva.pdf",
+  "bytes": 2197592,
+  "indice": "data/questoes/unifesp/2020_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+  "questoes": 20
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-humanas2018.2.pdf": {
+  "arquivo": "provas/unesp/2018-2_ciencias-humanas-espelho-foco-medicina.pdf",
+  "bytes": 1453506,
+  "indice": "data/questoes/unesp/2018-2_ciencias-humanas-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-da-natureza-e-matematica-2018.2.pdf": {
+  "arquivo": "provas/unesp/2018-2_ciencias-da-natureza-e-matematica-espelho-foco-medicina.pdf",
+  "bytes": 1741605,
+  "indice": "data/questoes/unesp/2018-2_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/linguagens-e-codigo2018.2.pdf": {
+  "arquivo": "provas/unesp/2018-2_linguagens-e-codigos-espelho-foco-medicina.pdf",
+  "bytes": 1654085,
+  "indice": "data/questoes/unesp/2018-2_linguagens-e-codigos-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2018/2fase/UNESP2018_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2018_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 4969819,
+  "indice": "data/questoes/unesp/2018_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 36
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2017_2/2fase/UNESP2017_2_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2017-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 3198271,
+  "indice": "data/questoes/unesp/2017-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 36
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-humana2017.pdf": {
+  "arquivo": "provas/unesp/2017_ciencias-humanas-espelho-foco-medicina.pdf",
+  "bytes": 941712,
+  "indice": "data/questoes/unesp/2017_ciencias-humanas-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencia-da-natureza-e-matematica2017.pdf": {
+  "arquivo": "provas/unesp/2017_ciencias-da-natureza-e-matematica-espelho-foco-medicina.pdf",
+  "bytes": 1118710,
+  "indice": "data/questoes/unesp/2017_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/linguagens-de-codigo2017.pdf": {
+  "arquivo": "provas/unesp/2017_linguagens-e-codigos-espelho-foco-medicina.pdf",
+  "bytes": 894869,
+  "indice": "data/questoes/unesp/2017_linguagens-e-codigos-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2016_2/2fase/UNESP2016_2_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2016-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 2505085,
+  "indice": "data/questoes/unesp/2016-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-humans2016.pdf": {
+  "arquivo": "provas/unesp/2016_ciencias-humanas-espelho-foco-medicina.pdf",
+  "bytes": 903824,
+  "indice": "data/questoes/unesp/2016_ciencias-humanas-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-da-natureza-e-matematica2016.pdf": {
+  "arquivo": "provas/unesp/2016_ciencias-da-natureza-e-matematica-espelho-foco-medicina.pdf",
+  "bytes": 999679,
+  "indice": "data/questoes/unesp/2016_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/linguagens-e-codigo2016.pdf": {
+  "arquivo": "provas/unesp/2016_linguagens-e-codigos-espelho-foco-medicina.pdf",
+  "bytes": 885181,
+  "indice": "data/questoes/unesp/2016_linguagens-e-codigos-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2015_2/2fase/UNESP2015_2_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2015-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 1487121,
+  "indice": "data/questoes/unesp/2015-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 36
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-humanas2015.pdf": {
+  "arquivo": "provas/unesp/2015_ciencias-humanas-espelho-foco-medicina.pdf",
+  "bytes": 993654,
+  "indice": "data/questoes/unesp/2015_ciencias-humanas-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-da-natureza-matamatica2015.pdf": {
+  "arquivo": "provas/unesp/2015_ciencias-da-natureza-e-matematica-espelho-foco-medicina.pdf",
+  "bytes": 1127633,
+  "indice": "data/questoes/unesp/2015_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/linguafens-e-codigo2015.pdf": {
+  "arquivo": "provas/unesp/2015_linguagens-e-codigos-espelho-foco-medicina.pdf",
+  "bytes": 930676,
+  "indice": "data/questoes/unesp/2015_linguagens-e-codigos-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2014_2/2fase/UNESP2014_2_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2014-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 1389834,
+  "indice": "data/questoes/unesp/2014-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 36
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2014/2fase/UNESP2014_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2014_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 1546223,
+  "indice": "data/questoes/unesp/2014_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 36
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2013_2/2fase/UNESP2013_2_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2013-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 1360187,
+  "indice": "data/questoes/unesp/2013-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 36
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-humanas2013.pdf": {
+  "arquivo": "provas/unesp/2013_ciencias-humanas-espelho-foco-medicina.pdf",
+  "bytes": 2000935,
+  "indice": "data/questoes/unesp/2013_ciencias-humanas-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-da-natureza-e-matematica2013.pdf": {
+  "arquivo": "provas/unesp/2013_ciencias-da-natureza-e-matematica-espelho-foco-medicina.pdf",
+  "bytes": 1886687,
+  "indice": "data/questoes/unesp/2013_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/linguagens-e-codigos2013.pdf": {
+  "arquivo": "provas/unesp/2013_linguagens-e-codigos-espelho-foco-medicina.pdf",
+  "bytes": 1506784,
+  "indice": "data/questoes/unesp/2013_linguagens-e-codigos-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2012_2/2fase/UNESP_2012_2_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2012-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 2806985,
+  "indice": "data/questoes/unesp/2012-2_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 36
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2012/2fase/unesp2012_2fase_prova.pdf": {
+  "arquivo": "provas/unesp/2012_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 1263665,
+  "indice": "data/questoes/unesp/2012_prova-da-2-fase-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 36
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2011_2/2dia/UNESP_2011_2_2fase_prova_2dia.pdf": {
+  "arquivo": "provas/unesp/2011-2_1-dia-da-2-fase-espelho-curso-objetivo.pdf",
+  "bytes": 1890449,
+  "indice": "data/questoes/unesp/2011-2_1-dia-da-2-fase-espelho-curso-objetivo.json",
+  "questoes": 24
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2011_2/3dia/UNESP_2011_2_2fase_prova_3dia.pdf": {
+  "arquivo": "provas/unesp/2011-2_2-dia-da-2-fase-espelho-curso-objetivo.pdf",
+  "bytes": 877134,
+  "indice": "data/questoes/unesp/2011-2_2-dia-da-2-fase-espelho-curso-objetivo.json",
+  "questoes": 12
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2011/2fase/UNESP_2011_2fase_prova_1dia.pdf": {
+  "arquivo": "provas/unesp/2011_prova-da-2-fase-arquivo-rotulado-1dia-cobertura-nao-verifica.pdf",
+  "bytes": 1504457,
+  "indice": "data/questoes/unesp/2011_prova-da-2-fase-arquivo-rotulado-1dia-cobertura-nao-verifica.json",
+  "questoes": 24
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2010_2/3dia/UNESP_2010_2_prova_3dia.pdf": {
+  "arquivo": "provas/unesp/2010-2_2-dia-da-2-fase-espelho-curso-objetivo.pdf",
+  "bytes": 669087,
+  "indice": "data/questoes/unesp/2010-2_2-dia-da-2-fase-espelho-curso-objetivo.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-humanas2010.pdf": {
+  "arquivo": "provas/unesp/2010_ciencias-humanas-espelho-foco-medicina.pdf",
+  "bytes": 570247,
+  "indice": "data/questoes/unesp/2010_ciencias-humanas-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-da-natureza-e-matematica2010.pdf": {
+  "arquivo": "provas/unesp/2010_ciencias-da-natureza-e-matematica-espelho-foco-medicina.pdf",
+  "bytes": 1123210,
+  "indice": "data/questoes/unesp/2010_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://focomedicina.com.br/wp-content/uploads/2024/12/linguagens-e-codigos2010.pdf": {
+  "arquivo": "provas/unesp/2010_linguagens-e-codigos-espelho-foco-medicina.pdf",
+  "bytes": 493763,
+  "indice": "data/questoes/unesp/2010_linguagens-e-codigos-espelho-foco-medicina.json",
+  "questoes": 12
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2024/famema2024_prova.pdf": {
+  "arquivo": "provas/famema/2024_prova-espelho-curso-objetivo.pdf",
+  "bytes": 1658175,
+  "indice": "data/questoes/famema/2024_prova-espelho-curso-objetivo.json",
+  "questoes": 56
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2022/famema2022_prova.pdf": {
+  "arquivo": "provas/famema/2022_prova-espelho-curso-objetivo.pdf",
+  "bytes": 1028858,
+  "indice": "data/questoes/famema/2022_prova-espelho-curso-objetivo.json",
+  "questoes": 0
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2021/famema2021_prova.pdf": {
+  "arquivo": "provas/famema/2021_prova-espelho-curso-objetivo.pdf",
+  "bytes": 1048991,
+  "indice": "data/questoes/famema/2021_prova-espelho-curso-objetivo.json",
+  "questoes": 48
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2020/famema2020_prova.pdf": {
+  "arquivo": "provas/famema/2020_prova-espelho-curso-objetivo.pdf",
+  "bytes": 993897,
+  "indice": "data/questoes/famema/2020_prova-espelho-curso-objetivo.json",
+  "questoes": 48
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2019/famema2019_prova.pdf": {
+  "arquivo": "provas/famema/2019_prova-espelho-curso-objetivo.pdf",
+  "bytes": 1061662,
+  "indice": "data/questoes/famema/2019_prova-espelho-curso-objetivo.json",
+  "questoes": 48
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2018/famema2018_prova.pdf": {
+  "arquivo": "provas/famema/2018_prova-espelho-curso-objetivo.pdf",
+  "bytes": 2279513,
+  "indice": "data/questoes/famema/2018_prova-espelho-curso-objetivo.json",
+  "questoes": 48
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/2dia/famerp2022_2dia_prova.pdf": {
+  "arquivo": "provas/famerp/2022_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.pdf",
+  "bytes": 2278569,
+  "indice": "data/questoes/famerp/2022_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2021/2dia/famerp2021_2dia_prova.pdf": {
+  "arquivo": "provas/famerp/2021_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.pdf",
+  "bytes": 2938769,
+  "indice": "data/questoes/famerp/2021_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2020/2dia/famerp2020_2dia_prova.pdf": {
+  "arquivo": "provas/famerp/2020_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.pdf",
+  "bytes": 3644413,
+  "indice": "data/questoes/famerp/2020_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2019/2dia/famerp2019_2dia_prova.pdf": {
+  "arquivo": "provas/famerp/2019_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.pdf",
+  "bytes": 940075,
+  "indice": "data/questoes/famerp/2019_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2022/2dia/santacasa2022_2dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2022_conhecimentos-especificos-e-redacao-2-dia-no-objetivo-espelh.pdf",
+  "bytes": 2911630,
+  "indice": "data/questoes/fcmscsp/2022_conhecimentos-especificos-e-redacao-2-dia-no-objetivo-espelh.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2021/2dia/santacasa2021_2dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2021_conhecimentos-especificos-e-redacao-2-dia-no-objetivo-espelh.pdf",
+  "bytes": 3009764,
+  "indice": "data/questoes/fcmscsp/2021_conhecimentos-especificos-e-redacao-2-dia-no-objetivo-espelh.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2020/1dia/santacasa2020_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2020_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.pdf",
+  "bytes": 874828,
+  "indice": "data/questoes/fcmscsp/2020_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2019/1dia/santacasa2019_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2019_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.pdf",
+  "bytes": 3734555,
+  "indice": "data/questoes/fcmscsp/2019_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2018/1dia/santacasa2018_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2018_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.pdf",
+  "bytes": 2149346,
+  "indice": "data/questoes/fcmscsp/2018_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2022/alberteinstein2022_prova_II.pdf": {
+  "arquivo": "provas/ficsae/2022_prova-ii-discursiva-espelho-curso-objetivo.pdf",
+  "bytes": 2022997,
+  "indice": "data/questoes/ficsae/2022_prova-ii-discursiva-espelho-curso-objetivo.json",
+  "questoes": 5
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2021/alberteinstein2021_prova_II.pdf": {
+  "arquivo": "provas/ficsae/2021_prova-ii-discursiva-espelho-curso-objetivo.pdf",
+  "bytes": 2598766,
+  "indice": "data/questoes/ficsae/2021_prova-ii-discursiva-espelho-curso-objetivo.json",
+  "questoes": 5
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2020/alberteinstein2020_prova.pdf": {
+  "arquivo": "provas/ficsae/2020_prova-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 2243720,
+  "indice": "data/questoes/ficsae/2020_prova-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 55
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2019/alberteinstein2019_prova.pdf": {
+  "arquivo": "provas/ficsae/2019_prova-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 1984068,
+  "indice": "data/questoes/ficsae/2019_prova-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 55
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2018/alberteinstein2018_prova.pdf": {
+  "arquivo": "provas/ficsae/2018_prova-arquivo-unico-espelho-curso-objetivo.pdf",
+  "bytes": 9328305,
+  "indice": "data/questoes/ficsae/2018_prova-arquivo-unico-espelho-curso-objetivo.json",
+  "questoes": 37
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2024/fmj2024_prova_I.pdf": {
+  "arquivo": "provas/fmj/2024_prova-i-discursiva-espelho-curso-objetivo.pdf",
+  "bytes": 2360982,
+  "indice": "data/questoes/fmj/2024_prova-i-discursiva-espelho-curso-objetivo.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2022/1dia/unifesp2022_1dia_prova.pdf": {
+  "arquivo": "provas/unifesp/2022_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
+  "bytes": 772992,
+  "indice": "data/questoes/unifesp/2022_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+  "questoes": 25
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2022/2dia/unifesp2022_2dia_prova.pdf": {
+  "arquivo": "provas/unifesp/2022_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
+  "bytes": 3678002,
+  "indice": "data/questoes/unifesp/2022_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2021/1dia/unifesp2021_1dia_prova.pdf": {
+  "arquivo": "provas/unifesp/2021_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
+  "bytes": 1486072,
+  "indice": "data/questoes/unifesp/2021_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+  "questoes": 25
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2021/2dia/unifesp2021_2dia_prova.pdf": {
+  "arquivo": "provas/unifesp/2021_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
+  "bytes": 3021940,
+  "indice": "data/questoes/unifesp/2021_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2019/1dia/unifesp2019_1dia_prova.pdf": {
+  "arquivo": "provas/unifesp/2019_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
+  "bytes": 1235690,
+  "indice": "data/questoes/unifesp/2019_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+  "questoes": 45
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2019/2dia/unifesp2019_2dia_prova.pdf": {
+  "arquivo": "provas/unifesp/2019_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
+  "bytes": 2597836,
+  "indice": "data/questoes/unifesp/2019_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+  "questoes": 20
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2018/1dia/unifesp2018_1dia_prova.pdf": {
+  "arquivo": "provas/unifesp/2018_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
+  "bytes": 1398668,
+  "indice": "data/questoes/unifesp/2018_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+  "questoes": 45
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2018/2dia/unifesp2018_2dia_prova.pdf": {
+  "arquivo": "provas/unifesp/2018_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
+  "bytes": 2495305,
+  "indice": "data/questoes/unifesp/2018_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+  "questoes": 20
+ }
+}

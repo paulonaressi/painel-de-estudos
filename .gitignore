@@ -1,0 +1,8 @@
+# Os PDFs de provas/ são versionados: o site no GitHub Pages precisa deles para recortar as questões.
+
+# Material de trabalho (imagens e rascunhos das resoluções) e pacotes de exportação
+trabalho/
+exportar/
+
+__pycache__/
+.DS_Store

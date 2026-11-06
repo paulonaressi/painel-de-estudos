@@ -117,6 +117,10 @@ Casos que já deram trabalho e estão tratados (não desfazer sem testar):
   muitas páginas de largura inteira): a página é fatiada nos inícios da coluna esquerda e cada
   fatia é classificada (`segmentos_em_colunas`).
 - **Numeração que recomeça** no mesmo arquivo (Prova I e Prova II): vira `parte` 0, 1, 2…
+- **Cadernos antigos sem tarja** (Unesp 2005–2009, Unifesp 2003–2011): a questão começa com o número
+  em negrito, com dois dígitos ("01."); só vale no arquivo que não tem nenhuma "Questão N"
+  (`MARCA_POR_NUMERO`). Nesses, o nome da disciplina ("FÍSICA") encerra o bloco anterior e a coluna
+  direita é medida página a página. Itens da capa ("3. Esta prova…") têm um dígito e ficam de fora.
 - Marca-d'água "RASCUNHO" girada, marcador partido em dois pedaços ("questão" + "01"), marcador
   duplicado, "QUESTÃ" sem o O, instrução quebrada por hífen, redação sem título em texto.
 - O relatório do script lista `FALTAM [...]` quando a numeração não bate com o catálogo. Os da
@@ -132,7 +136,12 @@ inclusive em PDF com CropBox deslocada).
 - `local` só entra se o índice tiver numeração contínua e nenhuma questão reduzida à tarja;
   senão o caderno abre como PDF inteiro.
 - Com questões locais, as cópias redundantes saem da tela.
-- Unesp: `numeracao_unica` (1–36 ou 1–60 de ponta a ponta) e `faixas` por campo. Padrão
+- Unesp: `numeracao_unica` (1–36 ou 1–60 de ponta a ponta) e `faixas` por campo, exceto nas
+  edições marcadas `numeracao_por_caderno` (2005/2–2009/2: cada dia recomeça e o 2º dia tem três
+  versões por área), que funcionam como as outras instituições (o id leva o índice do caderno).
+- `partes` no caderno do levantamento dá nome e campos a cada parte de um arquivo (versões da Unesp
+  antiga, inglês/francês da Unifesp 2008–2011); `versao` separa versões em arquivos distintos com a
+  mesma numeração (Unesp 2005/2). Padrão
   confirmado pelas capas de 2011 em diante: Humanas 1–12, Natureza/Matemática 13–24, Linguagens
   25–36. Em 2010 era Natureza 1–12, Humanas 13–24. De 2021 a 2023 a 2ª fase foi objetiva
   (Linguagens 1–20, Humanas 21–40, Natureza/Matemática 41–60; ordem inferida, não conferida).
@@ -194,13 +203,13 @@ de PDF. Ou se monta um manifesto a partir da API, ou se baixam os PDFs do INEP d
 ## Estado
 
 - ENEM: 17 anos (2009–2025); resoluções só em 2025.
-- Vunesp (06/11/2026): 99 edições no catálogo, 138 cadernos com questões extraídas, 2.940 questões
-  na tela. Unesp 29 edições (1.092 questões), Unifesp 23 (855), Famema 11 (384), Famerp 12 (220),
+- Vunesp (06/11/2026): 108 edições no catálogo, 194 cadernos com questões extraídas, 4.290 questões
+  na tela. Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
   Santa Casa 10 (200), Einstein 10 (145), FMJ 4 (44).
-- `provas/`: 148 PDFs da Vunesp (52 oficiais, 75 do Curso Objetivo, 21 do Foco Medicina) e 8 do
-  INEP, 245 MB. As cópias de terceiros foram verificadas: sem JavaScript, ação automática ou anexo.
+- `provas/`: 168 PDFs da Vunesp (52 oficiais, 95 do Curso Objetivo, 21 do Foco Medicina) e 8 do
+  INEP, 255 MB. As cópias de terceiros foram verificadas: sem JavaScript, ação automática ou anexo.
 - Rodada de conteúdo de 06/11/2026: Einstein 2027; Famerp 2015–2017; Famema 2016–2017; Unifesp
-  2003–2017 (exceto 2007); Unesp 2011 (25–36) e 2010/2 (1–24) pelo Foco.
+  2003–2017 (exceto 2007); Unesp 2011 (25–36) e 2010/2 (1–24) pelo Foco; Unesp 2005/2–2009/2.
 - Desde 11/2026 o site da Vunesp recusa (403) o `fetch` do Node e o `curl`, nas listas e nos PDFs;
   as listas de documentos ainda abrem num navegador de verdade. `baixar-cadernos.js` tenta o oficial
   e, com `--copias`, cai para a cópia do mesmo caderno (foi assim no Einstein 2027).
@@ -210,14 +219,12 @@ de PDF. Ou se monta um manifesto a partir da API, ou se baixam os PDFs do INEP d
 - Unesp 2016/2: só as questões 25–36 (o arquivo do Objetivo não traz o 1º dia; não há outra cópia).
 - Layout que o extrator não entende, abrem como PDF inteiro: Famema 2022 (diagramação própria do
   Objetivo, marcadores só com o número), Famema 2024 (arquivo com três partes e página confusa),
-  Einstein 2018 (provavelmente não é prova da Vunesp); Unifesp 2003–2011 (questões sem o marcador
-  "Questão N"). O painel de navegador do app não desenha PDF em iframe; num navegador comum aparece.
+  Einstein 2018 (provavelmente não é prova da Vunesp). O painel de navegador do app não desenha PDF em iframe; num navegador comum aparece.
 - Sem caderno nenhum: Famema 2023, Famerp 2018 (o Objetivo só tem a resolução).
 - Unifesp 2007: o único caderno discursivo (Objetivo) é um pacote PDF com JavaScript e anexos;
   descartado. Unifesp 2004: sem o 2º dia.
-- Unesp 2005/2–2009/2: cadernos do 2º e 3º dias existem no Objetivo, mas a numeração recomeça a
-  cada dia, os números vêm como "10." e há versões por grupo de carreira (2005/2). Precisa de
-  extrator novo e de id com o dia (os ids da Unesp não levam caderno). Não incluídos.
+- Unesp 2006 e 2007 (3º dia): a proposta de redação não tem título e fica dentro do recorte da
+  questão 10. Unesp até 2005: o Objetivo só tem a 1ª fase (2005) ou nada (2001–2004/2).
 - Unesp: não há respostas esperadas oficiais para as discursivas; gabarito oficial só de 2021–2023.
 - Fora do catálogo: FMABC (só objetivas), Einstein de inverno 2017/2 e 2023/2 (só objetivas),
   UNILUS e outros; edições 2027 de Famerp e Famema (inscrições abertas em 06/11/2026), Unifesp

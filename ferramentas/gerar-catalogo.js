@@ -39,6 +39,15 @@ function copiasLocais(grupo) {
   return [];
 }
 
+// Unesp com as questões numeradas de ponta a ponta na 2ª fase (2010 em diante). Até 2009 cada dia
+// recomeçava do 1 e o 2º dia tinha versões por área: aí vale a numeração de cada caderno, como nas
+// outras instituições (o levantamento marca essas edições com numeracao_por_caderno).
+const unespContinua = ed => ed.instituicao === 'UNESP' && !ed.numeracao_por_caderno;
+
+// Cópias do mesmo caderno têm a mesma numeração e os mesmos campos; versões diferentes da prova
+// (ex.: por área de carreira) se distinguem pelo campo "versao" do levantamento.
+const chaveDoCaderno = c => `${c.questoes || ''}|${[...(c.areas || [])].sort().join(',')}|${c.versao || ''}`;
+
 const NOMES_AREA = {
   humanas: 'Ciências Humanas',
   'natureza-matematica': 'Natureza e Matemática',
@@ -68,7 +77,7 @@ function rotuloCurto(edicao, grupo) {
     .replace(/\s*\(espelho [^)]+\)/, '')
     .replace(/\(([^,;)]+)[,;][^)]*\)/g, '($1)')
     .trim();
-  if (edicao.instituicao !== 'UNESP') return base;
+  if (!unespContinua(edicao)) return base;
 
   const areas = ORDEM_AREA.filter(a => (principal.areas || []).includes(a));
   const conteudo = areas.filter(a => a !== 'redacao');
@@ -82,7 +91,7 @@ function rotuloCurto(edicao, grupo) {
 function agruparCadernos(edicao) {
   const grupos = new Map();
   for (const c of edicao.cadernos || []) {
-    let chave = `${c.questoes || ''}|${[...(c.areas || [])].sort().join(',')}`;
+    let chave = chaveDoCaderno(c);
     // Dois cadernos oficiais com a mesma numeração são provas diferentes (ex.: reaplicação), não cópias.
     if (c.host_oficial && (grupos.get(chave) || []).some(o => o.host_oficial)) chave += `|${c.rotulo}`;
     if (!grupos.has(chave)) grupos.set(chave, []);
@@ -93,7 +102,7 @@ function agruparCadernos(edicao) {
   const lista = [...grupos.values()].map(grupo => grupo.sort(oficialPrimeiro));
   lista.sort((a, b) => oficialPrimeiro(a[0], b[0]));
 
-  if (edicao.instituicao === 'UNESP') {
+  if (unespContinua(edicao)) {
     // Na Unesp a numeração é contínua: ordena pelo número da questão e deixa por último
     // o arquivo que cobre a prova inteira.
     const faixa = grupo => { const m = /(\d+)\D+(\d+)/.exec(grupo[0].questoes || ''); return m ? [+m[1], +m[2]] : [0, 0]; };
@@ -117,13 +126,18 @@ function agruparCadernos(edicao) {
     };
     const locais = copiasLocais(grupo);
     if (locais.length < 2) return [{ ...caderno, local: locais[0] || null }];
-    // um caderno por parte, cada um com a sua numeração
-    return locais.map((local, i) => ({
-      ...caderno,
-      rotulo: `${caderno.rotulo} · parte ${i + 1} (questões ${local.numeros[0]} a ${local.numeros[local.numeros.length - 1]})`,
-      areas: local.redacao ? ['redacao'] : [],
-      local,
-    }));
+    // um caderno por parte, cada um com a sua numeração; o levantamento pode dar nome e campos a cada parte
+    const nomes = grupo[0].partes || [];
+    return locais.map((local, i) => {
+      const info = nomes[local.parte];
+      const faixa = `questões ${local.numeros[0]} a ${local.numeros[local.numeros.length - 1]}`;
+      return {
+        ...caderno,
+        rotulo: info ? `${caderno.rotulo} · ${info.nome}` : `${caderno.rotulo} · parte ${i + 1} (${faixa})`,
+        areas: info && info.areas ? ORDEM_AREA.filter(a => info.areas.includes(a)) : (local.redacao ? ['redacao'] : []),
+        local,
+      };
+    });
   });
 }
 
@@ -162,9 +176,9 @@ function enxugar(ed, cadernos) {
   const restantes = cadernos.filter(c => {
     if (c.local) return false;
     const numeros = numerosDaFaixa(c.questoes);
-    return ed.instituicao === 'UNESP' && numeros.length > 0 && !numeros.every(n => cobertas.has(n));
+    return unespContinua(ed) && numeros.length > 0 && !numeros.every(n => cobertas.has(n));
   });
-  if (ed.instituicao === 'UNESP') {
+  if (unespContinua(ed)) {
     // arquivo que não traz o que o rótulo do catálogo promete passa a se chamar pelo que contém
     const total = ed.formato === 'objetiva' ? 60 : 36;
     for (const c of locais) {
@@ -193,7 +207,7 @@ const edicoes = pesquisa.edicoes.map(ed => {
     resolucoes: (ed.resolucoes || []).map(link),
     oficiais: (ed.respostas_esperadas || []).map(link),
   };
-  if (ed.instituicao === 'UNESP') {
+  if (unespContinua(ed)) {
     saida.numeracao_unica = true; // as questões são numeradas de ponta a ponta, mesmo em cadernos separados
     const faixas = faixasDaUnesp(ed, saida.cadernos);
     if (faixas) saida.faixas = faixas;

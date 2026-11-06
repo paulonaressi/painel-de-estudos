@@ -49,7 +49,7 @@ function fontesPermitidas(ed, grupo) {
 for (const ed of pesquisa.edicoes) {
   const grupos = new Map();
   for (const c of ed.cadernos || []) {
-    const chave = `${c.questoes || ''}|${[...(c.areas || [])].sort().join(',')}`;
+    const chave = `${c.questoes || ''}|${[...(c.areas || [])].sort().join(',')}|${c.versao || ''}`; // como em gerar-catalogo.js
     if (!grupos.has(chave)) grupos.set(chave, []);
     grupos.get(chave).push(c);
   }

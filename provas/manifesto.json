@@ -801,90 +801,210 @@
   "arquivo": "provas/unifesp/2011_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.pdf",
   "bytes": 723081,
   "indice": "data/questoes/unifesp/2011_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.json",
-  "questoes": 0
+  "questoes": 60
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2011/2dia/unifesp2011_2dia_prova.pdf": {
   "arquivo": "provas/unifesp/2011_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
   "bytes": 1953805,
   "indice": "data/questoes/unifesp/2011_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
-  "questoes": 0
+  "questoes": 35
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2010/1dia/unifesp2010_prova.pdf": {
   "arquivo": "provas/unifesp/2010_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.pdf",
   "bytes": 919699,
   "indice": "data/questoes/unifesp/2010_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.json",
-  "questoes": 0
+  "questoes": 60
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2010/2dia/unifesp2010_prova.pdf": {
   "arquivo": "provas/unifesp/2010_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
   "bytes": 2194775,
   "indice": "data/questoes/unifesp/2010_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
-  "questoes": 0
+  "questoes": 20
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2009/2dia/unifesp2009_2dia_prova.pdf": {
   "arquivo": "provas/unifesp/2009_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
   "bytes": 525056,
   "indice": "data/questoes/unifesp/2009_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
-  "questoes": 0
+  "questoes": 60
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2009/3dia/unifesp2009_3dia_prova.pdf": {
   "arquivo": "provas/unifesp/2009_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
   "bytes": 827977,
   "indice": "data/questoes/unifesp/2009_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
-  "questoes": 0
+  "questoes": 20
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2008/2dia/unifesp2008_2dia_prova.pdf": {
   "arquivo": "provas/unifesp/2008_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
   "bytes": 381501,
   "indice": "data/questoes/unifesp/2008_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
-  "questoes": 0
+  "questoes": 60
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2008/3dia/unifesp2008_3dia_prova.pdf": {
   "arquivo": "provas/unifesp/2008_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
   "bytes": 627852,
   "indice": "data/questoes/unifesp/2008_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
-  "questoes": 0
+  "questoes": 20
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2006/2dia/unifesp2006_2dia_prova.pdf": {
   "arquivo": "provas/unifesp/2006_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
   "bytes": 147816,
   "indice": "data/questoes/unifesp/2006_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
-  "questoes": 0
+  "questoes": 50
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2006/3dia/unifesp2006_3dia_prova.pdf": {
   "arquivo": "provas/unifesp/2006_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
   "bytes": 794937,
   "indice": "data/questoes/unifesp/2006_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
-  "questoes": 0
+  "questoes": 25
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2005/2dia/unifesp2005_2dia_prova.pdf": {
   "arquivo": "provas/unifesp/2005_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
   "bytes": 217906,
   "indice": "data/questoes/unifesp/2005_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
-  "questoes": 0
+  "questoes": 50
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2005/3dia/unifesp2005_3dia_prova.pdf": {
   "arquivo": "provas/unifesp/2005_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
   "bytes": 546218,
   "indice": "data/questoes/unifesp/2005_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
-  "questoes": 0
+  "questoes": 25
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2004/3dia/unifesp2004_3dia_prova.pdf": {
   "arquivo": "provas/unifesp/2004_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
   "bytes": 720543,
   "indice": "data/questoes/unifesp/2004_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
-  "questoes": 0
+  "questoes": 25
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2003/2dia/unifesp2003_2dia_prova.pdf": {
   "arquivo": "provas/unifesp/2003_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.pdf",
   "bytes": 170315,
   "indice": "data/questoes/unifesp/2003_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
-  "questoes": 0
+  "questoes": 50
  },
  "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unifesp/2003/3dia/unifesp2003_3dia_prova.pdf": {
   "arquivo": "provas/unifesp/2003_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.pdf",
   "bytes": 225715,
   "indice": "data/questoes/unifesp/2003_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
-  "questoes": 0
+  "questoes": 25
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2009_2/2dia/UNESP_2009_2_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2009-2_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.pdf",
+  "bytes": 1178231,
+  "indice": "data/questoes/unesp/2009-2_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.json",
+  "questoes": 75
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2009_2/3dia/UNESP_2009_2_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2009-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 298010,
+  "indice": "data/questoes/unesp/2009-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2009/2dia/unesp2009_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2009_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.pdf",
+  "bytes": 1054919,
+  "indice": "data/questoes/unesp/2009_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.json",
+  "questoes": 75
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2009/3dia/unesp2009_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2009_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 55332,
+  "indice": "data/questoes/unesp/2009_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2008_2/2dia/UNESP_2008_2_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2008-2_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.pdf",
+  "bytes": 673532,
+  "indice": "data/questoes/unesp/2008-2_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.json",
+  "questoes": 75
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2008_2/3dia/UNESP2008_2_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2008-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 52102,
+  "indice": "data/questoes/unesp/2008-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2008/2dia/unesp2008_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2008_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.pdf",
+  "bytes": 877611,
+  "indice": "data/questoes/unesp/2008_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.json",
+  "questoes": 75
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2008/3dia/UNESP2008_1_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2008_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 92317,
+  "indice": "data/questoes/unesp/2008_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2007_2/2dia/unesp2007_2_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2007-2_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.pdf",
+  "bytes": 2285004,
+  "indice": "data/questoes/unesp/2007-2_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.json",
+  "questoes": 75
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2007_2/3dia/UNESP2007_2_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2007-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 518399,
+  "indice": "data/questoes/unesp/2007-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2007/2dia/UNESP2007_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2007_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.pdf",
+  "bytes": 1085520,
+  "indice": "data/questoes/unesp/2007_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.json",
+  "questoes": 75
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2007/3dia/UNESP2007_1_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2007_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 397889,
+  "indice": "data/questoes/unesp/2007_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2006_2/2dia/UNESP2006_2_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2006-2_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.pdf",
+  "bytes": 853126,
+  "indice": "data/questoes/unesp/2006-2_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.json",
+  "questoes": 75
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2006_2/3dia/UNESP2006_2_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2006-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 39362,
+  "indice": "data/questoes/unesp/2006-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2006/2dia/UNESP2006_1_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2006_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.pdf",
+  "bytes": 871342,
+  "indice": "data/questoes/unesp/2006_2-dia-da-2-fase-conhecimentos-especificos-espelho-curso-obje.json",
+  "questoes": 75
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2006/3dia/UNESP2006_1_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2006_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 81258,
+  "indice": "data/questoes/unesp/2006_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2005_2/2dia/B_UNESP2005_2_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2005-2_2-dia-da-2-fase-conhecimentos-especificos-area-de-ciencias-b.pdf",
+  "bytes": 94604,
+  "indice": "data/questoes/unesp/2005-2_2-dia-da-2-fase-conhecimentos-especificos-area-de-ciencias-b.json",
+  "questoes": 25
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2005_2/2dia/E_UNESP2005_2_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2005-2_2-dia-da-2-fase-conhecimentos-especificos-area-de-ciencias-e.pdf",
+  "bytes": 86899,
+  "indice": "data/questoes/unesp/2005-2_2-dia-da-2-fase-conhecimentos-especificos-area-de-ciencias-e.json",
+  "questoes": 25
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2005_2/2dia/H_UNESP2005_2_2dia_prova.pdf": {
+  "arquivo": "provas/unesp/2005-2_2-dia-da-2-fase-conhecimentos-especificos-area-de-humanidade.pdf",
+  "bytes": 170203,
+  "indice": "data/questoes/unesp/2005-2_2-dia-da-2-fase-conhecimentos-especificos-area-de-humanidade.json",
+  "questoes": 25
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2005_2/3dia/UNESP2005_2_3dia_prova.pdf": {
+  "arquivo": "provas/unesp/2005-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.pdf",
+  "bytes": 44936,
+  "indice": "data/questoes/unesp/2005-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
+  "questoes": 10
  }
 }

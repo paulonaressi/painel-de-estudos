@@ -34,6 +34,21 @@ RE_FAIXA_ENEM = re.compile(r'^(ENEM\d{4}){3,}')
 
 MAX_SEGMENTOS = 8
 
+# Cadernos antigos (Unesp 2005–2009) não têm a tarja "Questão N": a questão começa com o número em
+# negrito seguido de ponto, sempre com dois dígitos ("01.", "10."). Esse marcador só vale no arquivo
+# que não tem nenhuma tarja, para não confundir com itens numerados dentro dos enunciados; as
+# instruções da capa ("3. Esta prova contém...") têm um dígito só. Definido por arquivo em preparar().
+RE_NUMERO_PONTO = re.compile(r'^(\d{2})\.(?:\s|$)')
+MARCA_POR_NUMERO = False
+# Nesses cadernos o nome da disciplina separa as questões; sem tratá-lo, ele ficaria no fim do
+# recorte da questão anterior.
+RE_DISCIPLINA = re.compile(r'^(biologia|qu[íi]mica|f[íi]sica|matem[áa]tica|hist[óo]ria|geografia|filosofia|sociologia|'
+                           r'literatura|l[íi]ngua portuguesa|l[íi]ngua inglesa|ingl[êe]s|franc[êe]s|espanhol)$', re.I)
+
+
+def negrito(span):
+    return 'bold' in span['font'].lower() or bool(span['flags'] & 16)
+
 
 def linhas_da_pagina(pag):
     """Linhas de texto horizontais da página, com posição. Texto girado (marca-d'água) fica de fora."""
@@ -46,8 +61,28 @@ def linhas_da_pagina(pag):
             if not texto:
                 continue
             x0, y0, x1, y1 = ln['bbox']
-            linhas.append({'x0': x0, 'y0': y0, 'x1': x1, 'y1': y1, 'texto': texto})
+            linha = {'x0': x0, 'y0': y0, 'x1': x1, 'y1': y1, 'texto': texto}
+            # "10." num pedaço em negrito só com o número (títulos como "2. Prova de..." não contam)
+            primeiro = next((s for s in ln['spans'] if s['text'].strip()), None)
+            m = RE_NUMERO_PONTO.match(texto)
+            if m and primeiro and negrito(primeiro) and re.fullmatch(r'\d{2}\.?', primeiro['text'].strip()):
+                linha['num_negrito'] = int(m.group(1))
+            linhas.append(linha)
     return linhas
+
+
+def numero_da_marca(ln):
+    """Número da questão que esta linha abre, ou None."""
+    m = RE_MARCA.match(ln['texto'])
+    if m:
+        return int(m.group(1))
+    if MARCA_POR_NUMERO and 'num_negrito' in ln:
+        return ln['num_negrito']
+    return None
+
+
+def eh_marca(ln):
+    return numero_da_marca(ln) is not None or bool(RE_MARCA_SEM_NUMERO.match(ln['texto']))
 
 
 def caixas_graficas(pag):
@@ -76,9 +111,10 @@ class Pagina:
         self.caixa_resposta = False
 
 
-def inicio_bruto(texto):
+def inicio_bruto(ln):
     """Linha que parece abrir uma questão, seção, texto de apoio ou a redação."""
-    return bool(RE_MARCA.match(texto) or RE_MARCA_SEM_NUMERO.match(texto) or RE_SECAO.match(texto) or RE_REDACAO.match(texto)
+    texto = ln['texto']
+    return bool(eh_marca(ln) or RE_SECAO.match(texto) or RE_REDACAO.match(texto)
                 or ('quest' in texto.lower() and RE_APOIO.search(texto) and RE_APOIO_VERBO.search(texto)))
 
 
@@ -89,7 +125,7 @@ def segmentos_em_colunas(p, esq, divisa, dir_):
     que aparecem na coluna esquerda; a fatia é de largura inteira quando tem texto cruzando a divisa
     e nada que indique uma coluna direita (marcador de questão ou linhas alinhadas na margem dela).
     """
-    cortes = sorted({ln['y0'] - 6 for ln in p.corpo if ln['x0'] < divisa - 5 and inicio_bruto(ln['texto'])})
+    cortes = sorted({ln['y0'] - 6 for ln in p.corpo if ln['x0'] < divisa - 5 and inicio_bruto(ln)})
     limites = [p.topo] + [c for c in cortes if p.topo + 4 < c < p.base - 4] + [p.base]
     cruzam = [ln for ln in p.corpo if ln['x0'] < divisa - 25 and ln['x1'] > divisa + 25]
     graficos = [c for c in p.caixas if c.x0 < divisa - 40 and c.x1 > divisa + 40 and c.height >= 12]
@@ -100,7 +136,7 @@ def segmentos_em_colunas(p, esq, divisa, dir_):
         textos = sum(1 for ln in cruzam if dentro(ln['y0'], ln['y1']))
         figuras = sum(1 for c in graficos if dentro(c.y0, c.y1))
         na_direita = [ln for ln in p.corpo if ln['x0'] >= divisa - 5 and dentro(ln['y0'], ln['y1'])]
-        if any(inicio_bruto(ln['texto']) for ln in na_direita):
+        if any(inicio_bruto(ln) for ln in na_direita):
             inteira = False  # marcador de questão na metade direita só existe em duas colunas
         elif textos >= 2:
             inteira = True
@@ -125,23 +161,27 @@ def segmentos_em_colunas(p, esq, divisa, dir_):
 
 
 def preparar(doc):
+    global MARCA_POR_NUMERO
     paginas = [Pagina(pag, i + 1) for i, pag in enumerate(doc)]
+
+    # Sem nenhuma tarja "Questão N" no arquivo e com vários "NN." em negrito: caderno antigo.
+    MARCA_POR_NUMERO = False
+    tarjas_no_arquivo = any(RE_MARCA.match(ln['texto']) or RE_MARCA_SEM_NUMERO.match(ln['texto']) for p in paginas for ln in p.linhas)
+    MARCA_POR_NUMERO = not tarjas_no_arquivo and sum('num_negrito' in ln for p in paginas for ln in p.linhas) >= 5
 
     # Duas colunas quando alguma página tem mais de um marcador de questão e um deles está na
     # metade direita. (Um marcador sozinho à direita é só a tarja da questão, que em alguns
     # cadernos de uma questão por página alterna de lado.)
     def tem_colunas(p):
-        marcas = [ln for ln in p.linhas if RE_MARCA.match(ln['texto']) or RE_MARCA_SEM_NUMERO.match(ln['texto'])]
+        marcas = [ln for ln in p.linhas if eh_marca(ln)]
         return len(marcas) > 1 and any(ln['x0'] > 0.45 * p.largura for ln in marcas)
     em_colunas = any(tem_colunas(p) for p in paginas)
 
     # Nos cadernos de uma questão por página, o conteúdo começa na tarja "Questão N";
     # acima dela ficam os códigos de barras do caderno de respostas.
-    tarjas = [ln['y0'] for p in paginas for ln in p.linhas
-              if ln['y0'] < 120 and (RE_MARCA.match(ln['texto']) or RE_MARCA_SEM_NUMERO.match(ln['texto']))]
+    tarjas = [ln['y0'] for p in paginas for ln in p.linhas if ln['y0'] < 120 and eh_marca(ln)]
     topo_pagina = min(tarjas) - 6.5 if tarjas else 46.0
 
-    eh_marca = lambda ln: RE_MARCA.match(ln['texto']) or RE_MARCA_SEM_NUMERO.match(ln['texto'])
     margens = {0: [], 1: []}
     marcas = {0: {'esq': [], 'dir': []}, 1: {'esq': [], 'dir': []}}
     for p in paginas:
@@ -184,6 +224,12 @@ def preparar(doc):
             # em relação ao texto (tarja "Questão") é o mesmo nas duas colunas.
             marca_esq = mediana(marcas[par]['esq'] or marcas[1 - par]['esq'], None)
             marca_dir = mediana(marcas[par]['dir'] or marcas[1 - par]['dir'], None)
+            if MARCA_POR_NUMERO:
+                # nos cadernos antigos a coluna direita muda alguns pontos de uma página para outra:
+                # vale o marcador da própria página, quando ela tem
+                proprias = [ln['x0'] for ln in p.corpo if eh_marca(ln) and ln['x0'] > 0.45 * p.largura]
+                if proprias:
+                    marca_dir = min(proprias)
             esq = esq_par - 8
             if marca_esq is None or marca_dir is None:
                 divisa = (esq_par + dir_par) / 2
@@ -206,7 +252,7 @@ def achar_inicios(paginas):
     parte = 0             # sobe quando a numeração recomeça dentro do arquivo (Prova I, Prova II...)
     vistos_na_parte = set()
     for p in paginas:
-        tem_questao = any(RE_MARCA.match(ln['texto']) or RE_MARCA_SEM_NUMERO.match(ln['texto']) for ln in p.corpo)
+        tem_questao = any(eh_marca(ln) for ln in p.corpo)
         texto_pagina = ' '.join(ln['texto'] for ln in p.corpo)
         # página em branco ou de rascunho encerra o que vinha antes (uma questão de enunciado curto não é "vazia")
         vazia = not tem_questao and (len(texto_pagina) < 40 or (len(texto_pagina) < 130 and p.imagens == 0))
@@ -217,9 +263,9 @@ def achar_inicios(paginas):
         for i, ln in enumerate(p.corpo):
             texto = ln['texto']
             ini = None
-            m = RE_MARCA.match(texto)
-            if m:
-                ini = {'tipo': 'questao', 'n': int(m.group(1)), 'y': ln['y0'] - 6}
+            n = numero_da_marca(ln)
+            if n is not None:
+                ini = {'tipo': 'questao', 'n': n, 'y': ln['y0'] - 6}
             elif RE_MARCA_SEM_NUMERO.match(texto):
                 # "questão" e o número vêm em pedaços separados na mesma linha
                 par = next((o for o in p.corpo if o is not ln and abs(o['y0'] - ln['y0']) < 6
@@ -235,6 +281,8 @@ def achar_inicios(paginas):
                 ini = {'tipo': 'secao', 'y': y - 3, 'idioma': (m.group(3) or '').lower() or None}
             elif RE_REDACAO.match(texto):
                 ini = {'tipo': 'redacao', 'y': ln['y0'] - 6}
+            elif MARCA_POR_NUMERO and RE_DISCIPLINA.match(texto):
+                ini = {'tipo': 'secao', 'y': ln['y0'] - 3, 'idioma': None}
             elif 'quest' in texto.lower() or texto.endswith('-'):
                 seguinte = p.corpo[i + 1]['texto'] if i + 1 < len(p.corpo) and p.corpo[i + 1]['col'] == ln['col'] else ''
                 anterior = p.corpo[i - 1]['texto'] if i > 0 and p.corpo[i - 1]['col'] == ln['col'] else ''
@@ -255,7 +303,7 @@ def achar_inicios(paginas):
                                 break
                             ant = p.corpo[i - volta]
                             if ant['col'] != ln['col'] or y - ant['y0'] > 16 or re.search(r'[.?!:)]$', ant['texto']) \
-                                    or RE_MARCA.match(ant['texto']) or RE_MARCA_SEM_NUMERO.match(ant['texto']) or RE_NUMERO.match(ant['texto']):
+                                    or eh_marca(ant) or RE_NUMERO.match(ant['texto']):
                                 break
                             y = ant['y0']
                         ini = {'tipo': 'apoio', 'de': de, 'ate': ate, 'y': y - 3}

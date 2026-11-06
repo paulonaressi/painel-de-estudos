@@ -147,6 +147,51 @@ h1, h2, h3, p { margin: 0; }
 :root[data-theme="dark"] .theme-toggle .ico-lua { color: var(--accent); }
 :root[data-theme="dark"] .theme-thumb { transform: translateX(30px); }
 
+/* ---------- Conta e sincronização ---------- */
+.conta-btn {
+  flex: none;
+  display: inline-flex; align-items: center; gap: 8px;
+  height: 32px;
+  padding: 0 12px 0 10px;
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  background: transparent;
+  font-size: 13px; font-weight: 500;
+  white-space: nowrap;
+}
+.conta-btn:hover { background: var(--surface-2); }
+.conta-btn .ponto { width: 8px; height: 8px; border-radius: 50%; background: var(--ink-3); flex: none; }
+.conta-btn[data-estado="ok"] .ponto { background: var(--ok); }
+.conta-btn[data-estado="sincronizando"] .ponto { background: var(--warn); }
+.conta-btn[data-estado="erro"] .ponto,
+.conta-btn[data-estado="offline"] .ponto { background: var(--bad); }
+.conta-btn .email { max-width: 160px; overflow: hidden; text-overflow: ellipsis; }
+
+.conta-dialogo {
+  width: min(92vw, 380px);
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: var(--shadow);
+}
+.conta-dialogo::backdrop { background: rgba(10, 12, 16, .45); }
+.conta-dialogo form, .conta-dialogo .conta-corpo { display: flex; flex-direction: column; gap: 14px; padding: 22px; }
+.conta-dialogo h2 { margin: 0; font-size: 18px; letter-spacing: -.01em; }
+.conta-dialogo p { margin: 0; font-size: 14px; line-height: 1.5; color: var(--ink-2); }
+.conta-dialogo label { display: flex; flex-direction: column; gap: 6px; font-size: 13px; font-weight: 600; }
+.conta-dialogo input {
+  padding: 10px 12px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+  background: var(--bg);
+  font-size: 15px; font-weight: 400;
+}
+.conta-dialogo input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.conta-dialogo .erro { padding: 8px 10px; border-radius: 8px; background: var(--bad-soft); color: var(--bad); font-size: 13px; }
+.conta-dialogo .acoes { display: flex; justify-content: flex-end; gap: 8px; }
+
 /* ---------- Estrutura em três colunas ---------- */
 .app {
   display: grid;
@@ -714,6 +759,8 @@ h1, h2, h3, p { margin: 0; }
 @media (max-width: 420px) {
   .brand-text span { display: none; }
   .pager .btn span { display: none; }
+  .conta-btn .email { display: none; }
+  .conta-btn { padding: 0 10px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -34,6 +34,7 @@
     </div>
     <div class="topbar-spacer"></div>
     <div class="resumo" id="resumo" aria-live="polite"></div>
+    <button class="conta-btn" id="btn-conta" type="button" aria-haspopup="dialog"></button>
     <button class="theme-toggle" id="btn-tema" type="button" role="switch" aria-checked="false" aria-label="Tema escuro">
       <svg class="ico-sol" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="currentColor"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
       <svg class="ico-lua" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5Z" fill="currentColor"/></svg>
@@ -47,9 +48,11 @@
     <section class="pane resposta" id="resposta" aria-label="Resposta e resolução"></section>
   </div>
   <div class="scrim" id="scrim" hidden></div>
+  <dialog class="conta-dialogo" id="dlg-conta" aria-labelledby="dlg-conta-titulo"></dialog>
 
   <script src="data/vunesp-catalogo.js"></script>
   <script src="js/util.js"></script>
+  <script src="js/sync.js"></script>
   <script src="js/enem.js"></script>
   <script src="js/classificador.js"></script>
   <script src="js/recortes.js"></script>

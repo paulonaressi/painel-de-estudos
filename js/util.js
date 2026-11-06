@@ -89,14 +89,46 @@
   window.addEventListener('pagehide', () => persistir.flush());
   document.addEventListener('visibilitychange', () => { if (document.hidden) persistir.flush(); });
 
+  // Ids mudados aqui e ainda não enviados à nuvem (js/sync.js). Sobrevivem a recarregar a página.
+  const CHAVE_PENDENTES = 'bq:pendentes:v1';
+  const pendentes = new Set(BQ.lerLocal(CHAVE_PENDENTES, []));
+  const gravarPendentes = () => BQ.gravarLocal(CHAVE_PENDENTES, [...pendentes]);
+  const ouvintes = [];
+
   BQ.store = {
     get: id => registros[id] || null,
     set(id, mudancas) {
       registros[id] = Object.assign({}, registros[id], mudancas, { t: Date.now() });
       persistir();
+      pendentes.add(id);
+      gravarPendentes();
+      ouvintes.forEach(f => f(id));
       return registros[id];
     },
     ids: () => Object.keys(registros),
+    aoMudar: f => ouvintes.push(f),
+
+    // Para a sincronização.
+    pendentes: () => [...pendentes],
+    marcarTodosPendentes() { Object.keys(registros).forEach(id => pendentes.add(id)); gravarPendentes(); },
+    // Só tira da lista o que não mudou de novo enquanto o envio estava em curso.
+    confirmarEnvio(enviados) {
+      for (const { id, t } of enviados) if (!registros[id] || registros[id].t === t) pendentes.delete(id);
+      gravarPendentes();
+    },
+    // Junta registros vindos da nuvem: em cada questão vale o mais recente. Devolve quantos mudaram.
+    aplicarRemotos(lista) {
+      let mudou = 0;
+      for (const { id, dados, t } of lista) {
+        const local = registros[id];
+        if (local && local.t >= t) continue;
+        registros[id] = Object.assign({}, dados, { t });
+        pendentes.delete(id);
+        mudou++;
+      }
+      if (mudou) { BQ.gravarLocal(CHAVE_REGISTROS, registros); gravarPendentes(); }
+      return mudou;
+    },
   };
 
   // Cache das questões baixadas (IndexedDB; cai para memória se o navegador bloquear).

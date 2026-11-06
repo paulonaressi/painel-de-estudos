@@ -969,6 +969,106 @@
     else if (ev.key === 'Enter' && ev.target.tagName !== 'BUTTON' && ev.target.tagName !== 'A') conferir(q);
   });
 
+  // ---------- Conta e sincronização ----------
+  const btnConta = document.getElementById('btn-conta');
+  const dlgConta = document.getElementById('dlg-conta');
+  const SYNC = BQ.sync;
+
+  function textoSituacao(info) {
+    if (info.estado === 'sincronizando') return 'Sincronizando…';
+    if (info.estado === 'offline') return 'Sem internet. As mudanças sobem quando a conexão voltar.';
+    if (info.estado === 'erro') return 'Não foi possível sincronizar agora. Tentaremos de novo.';
+    if (info.ultima) {
+      const hora = info.ultima.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+      return info.pendentes ? `Última sincronização às ${hora}.` : `Tudo sincronizado às ${hora}.`;
+    }
+    return 'Conectada.';
+  }
+
+  function renderConta() {
+    const info = SYNC.info();
+    btnConta.dataset.estado = info.logado ? info.estado : 'fora';
+    if (info.logado) {
+      btnConta.replaceChildren(h('span.ponto', { 'aria-hidden': 'true' }), h('span.email', null, info.email));
+      btnConta.setAttribute('aria-label', `Conta ${info.email}: ${textoSituacao(info)}`);
+      btnConta.title = textoSituacao(info);
+    } else {
+      btnConta.replaceChildren(h('span.ponto', { 'aria-hidden': 'true' }), h('span', null, 'Entrar'));
+      btnConta.setAttribute('aria-label', 'Entrar para sincronizar o progresso');
+      btnConta.title = 'Entre para levar o progresso a outros aparelhos';
+    }
+    if (dlgConta.open && info.logado && dlgConta.dataset.tela === 'conta') telaConta();
+  }
+
+  function telaEntrar() {
+    dlgConta.dataset.tela = 'entrar';
+    const email = h('input', { type: 'email', name: 'email', autocomplete: 'username', required: true, autocapitalize: 'none', spellcheck: 'false' });
+    const senha = h('input', { type: 'password', name: 'senha', autocomplete: 'current-password', required: true });
+    const erro = h('p.erro', { role: 'alert', hidden: true });
+    const btnEntrar = h('button.btn.primary', { type: 'submit' }, 'Entrar');
+    const form = h('form', { method: 'dialog' },
+      h('h2', { id: 'dlg-conta-titulo' }, 'Entrar'),
+      h('p', null, 'Com a conta aberta, as respostas e anotações acompanham você em qualquer aparelho. Sem entrar, tudo continua salvo só neste navegador.'),
+      h('label', null, 'E-mail', email),
+      h('label', null, 'Senha', senha),
+      erro,
+      h('div.acoes', null,
+        h('button.btn.ghost', { type: 'button', onclick: () => dlgConta.close() }, 'Cancelar'),
+        btnEntrar));
+    form.addEventListener('submit', async ev => {
+      ev.preventDefault();
+      erro.hidden = true;
+      btnEntrar.disabled = true;
+      btnEntrar.textContent = 'Entrando…';
+      try {
+        await SYNC.entrar(email.value, senha.value);
+        dlgConta.close();
+      } catch (e) {
+        erro.textContent = e.message;
+        erro.hidden = false;
+        btnEntrar.disabled = false;
+        btnEntrar.textContent = 'Entrar';
+      }
+    });
+    dlgConta.replaceChildren(form);
+    return email;
+  }
+
+  function telaConta() {
+    dlgConta.dataset.tela = 'conta';
+    const info = SYNC.info();
+    dlgConta.replaceChildren(h('div.conta-corpo', null,
+      h('h2', { id: 'dlg-conta-titulo' }, 'Sua conta'),
+      h('p', null, h('strong', null, info.email)),
+      h('p', { 'aria-live': 'polite' }, textoSituacao(info)),
+      h('div.acoes', null,
+        h('button.btn.ghost', { type: 'button', onclick: async () => { await SYNC.sair(); dlgConta.close(); } }, 'Sair'),
+        h('button.btn', { type: 'button', onclick: () => SYNC.sincronizar() }, 'Sincronizar agora'),
+        h('button.btn.primary', { type: 'button', onclick: () => dlgConta.close() }, 'Fechar'))));
+  }
+
+  btnConta.addEventListener('click', () => {
+    const foco = SYNC.info().logado ? (telaConta(), null) : telaEntrar();
+    dlgConta.showModal();
+    if (foco) foco.focus();
+  });
+  dlgConta.addEventListener('click', ev => { if (ev.target === dlgConta) dlgConta.close(); }); // clique fora
+
+  SYNC.aoMudar(renderConta);
+  renderConta();
+
+  // Progresso que chegou de outro aparelho: redesenha, sem atrapalhar quem está digitando.
+  window.addEventListener('bq:registros-remotos', () => {
+    const el = document.activeElement;
+    if (el && /^(INPUT|TEXTAREA)$/.test(el.tagName) && !dlgConta.contains(el)) {
+      renderSidebar();
+      renderResumo();
+      if (estado.prova === 'enem') atualizarNavegador();
+    } else {
+      renderTudo();
+    }
+  });
+
   // ---------- Início ----------
   aplicarTema(document.documentElement.getAttribute('data-theme') || 'light');
   ajustarCaderno();

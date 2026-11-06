@@ -55,7 +55,8 @@ def main():
         })
 
     for area, itens in por_area.items():
-        (destino / f'{area}.json').write_text(json.dumps(itens, ensure_ascii=False, indent=1), encoding='utf-8', newline='\n')
+        with open(destino / f'{area}.json', 'w', encoding='utf-8', newline='\n') as saida:  # write_text(newline=) só no 3.10+
+            saida.write(json.dumps(itens, ensure_ascii=False, indent=1))
         anuladas = sum(1 for i in itens if not i['gabarito'])
         print(f'{area}: {len(itens)} questões ({anuladas} anuladas)')
     print(f'material em {destino}')

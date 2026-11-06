@@ -24,6 +24,11 @@ def ler(caminho):
     return json.loads(Path(caminho).read_text(encoding='utf-8'))
 
 
+def gravar(caminho, texto):
+    with open(caminho, 'w', encoding='utf-8', newline='\n') as saida:  # write_text(newline=) só no 3.10+
+        saida.write(texto)
+
+
 def conferir(manifesto, entregue):
     problemas = []
     if len(entregue) != len(manifesto):
@@ -90,18 +95,18 @@ def main():
                 questoes[chave] = {'resolucao': r['resolucao'], 'confianca': r['confianca'], 'pendencia': r['pendencia']}
         destino = RAIZ / 'data' / 'resolucoes'
         destino.mkdir(parents=True, exist_ok=True)
-        (destino / f'enem-{ano}.json').write_text(json.dumps({
+        gravar(destino / f'enem-{ano}.json', json.dumps({
             'prova': 'enem',
             'ano': ano,
             'gerado_em': date.today().isoformat(),
             'origem': 'Geradas por IA (Claude) a partir do caderno oficial e do gabarito do INEP. Sem revisão humana.',
             'questoes': questoes,
-        }, ensure_ascii=False, indent=1), encoding='utf-8', newline='\n')
+        }, ensure_ascii=False, indent=1))
 
         arquivo_indice = destino / 'indice.json'
         indice = ler(arquivo_indice) if arquivo_indice.exists() else {}
         indice['enem'] = sorted(set(indice.get('enem', [])) | {ano}, reverse=True)
-        arquivo_indice.write_text(json.dumps(indice), encoding='utf-8', newline='\n')
+        gravar(arquivo_indice, json.dumps(indice))
         print(f'gravado: {len(questoes)} questões em data/resolucoes/enem-{ano}.json; anos com resolução: {indice["enem"]}')
 
 

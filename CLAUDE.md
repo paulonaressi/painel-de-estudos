@@ -59,7 +59,8 @@ python3 servidor.py                # http://localhost:5173
 | `data/vunesp-catalogo.js` | Catálogo que a página carrega. **Gerado**, não editar |
 | `data/questoes/<inst>/<arquivo>.json` | Índice de cada caderno: onde está cada questão no PDF + texto extraído. **Gerado** |
 | `data/enem/<ano>.json` | ENEM extraído de PDF (2024, 2025). **Gerado** |
-| `data/resolucoes/` | Resoluções comentadas (`enem-2025.json`) e `indice.json` com os anos que têm |
+| `data/resolucoes/` | Resoluções comentadas do ENEM (`enem-2024.json`, `enem-2025.json`) e `indice.json` com os anos que têm |
+| `data/respostas-modelo/` | Respostas-modelo das discursivas da Vunesp: um arquivo por caderno (mesmo caminho do índice em `data/questoes/`) e `indice.json`. **Gerado** por `ferramentas/respostas-modelo/validar.py` |
 | `provas/` | PDFs baixados (206 MB) e `manifesto.json` (url → arquivo local) |
 | `ferramentas/` | Scripts de download, extração, catálogo, avaliação e resoluções |
 
@@ -185,6 +186,11 @@ conferiu quatro contra a imagem da prova (128, 150, 167, 180) e leu outras duas 
 questão (61, 95); as demais não tiveram revisão. A tela avisa isso em cada uma e só mostra a
 resolução junto com o gabarito.
 
+ENEM 2024 (06/11/2026): mesmo roteiro, 182 resoluções, todas chegaram ao gabarito oficial;
+"media" em 28, 78, 90, 101 e 128 (na 24 o agente errou a primeira leitura e depois justificou o
+gabarito). Quem coordenou conferiu 121, 140 e 74 contra a imagem. `preparar.py` e `validar.py`
+foram ajustados para rodar no Python 3.9 do Mac.
+
 Para repetir em outro ano extraído de PDF:
 
 ```bash
@@ -200,9 +206,28 @@ Em aberto para 2009–2023: as questões vêm da API como texto + imagens por UR
 de PDF. Ou se monta um manifesto a partir da API, ou se baixam os PDFs do INEP desses anos — e aí
 é preciso confirmar que a numeração da API é a do caderno azul antes de casar resolução e questão.
 
+## Respostas-modelo das discursivas da Vunesp
+
+Não há resposta oficial publicada (exceto gabaritos de objetivas). Geradas por IA lendo a imagem
+de cada questão, em lotes de até 45, um agente por lote:
+
+```bash
+python3 ferramentas/respostas-modelo/preparar.py UNESP:2024-2026 FAMERP,FAMEMA,FCMSCSP,FICSAE,FMJ:2024-2027
+# um agente por lote-NN.json, seguindo ferramentas/respostas-modelo/instrucoes.md
+python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data> --mostrar unesp/2026-2_1-dia#0:15
+python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data> --gravar
+```
+
+- Só entram cadernos com questões recortadas; objetivas (4+ alternativas no texto) e redação ficam
+  de fora. Chave: `<caminho do índice>#<parte>:<número>`; na tela, `parte:número` no arquivo do caderno.
+- A tela mostra o botão "Ver resposta-modelo" no cartão Resolução; o "visto" fica no registro
+  (`modelo: true`) e sincroniza. Sempre com o aviso de IA, sem revisão humana.
+- Primeira rodada: 06/11/2026, 436 discursivas (Unesp 2024–2026/2; Famerp, Famema, Santa Casa,
+  Einstein e FMJ 2024–2027), escolha do dono do projeto, sem leitura prévia de amostra.
+
 ## Estado
 
-- ENEM: 17 anos (2009–2025); resoluções só em 2025.
+- ENEM: 17 anos (2009–2025); resoluções em 2024 e 2025.
 - Vunesp (06/11/2026): 108 edições no catálogo, 194 cadernos com questões extraídas, 4.290 questões
   na tela. Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
   Santa Casa 10 (200), Einstein 10 (145), FMJ 4 (44).
@@ -245,13 +270,13 @@ de PDF. Ou se monta um manifesto a partir da API, ou se baixam os PDFs do INEP d
 
 ## Próximos passos possíveis
 
-1. Resoluções do ENEM 2024 (mesmo roteiro), depois decidir o caminho para 2009–2023.
+1. Resoluções do ENEM 2009–2023: decidir o caminho (ver acima).
 2. Melhorar a classificação — as resoluções prontas dão um sinal melhor que palavras-chave — e
    medir o acerto contra uma amostra corrigida à mão.
 3. Filtro por disciplina também na Vunesp (hoje é só etiqueta por questão).
 4. Fechar as lacunas da Unesp (depende de autorização para novas fontes) e ensinar ao extrator os
    layouts que faltam.
-5. Respostas-modelo para as discursivas da Vunesp.
+5. Respostas-modelo para o resto da Vunesp (hoje: Unesp 2024–2026/2 e Medicina 2024–2027).
 6. Busca por texto, cópia offline do ENEM 2009–2023, contas de usuário/sincronização do progresso.
 
 ## Convenções

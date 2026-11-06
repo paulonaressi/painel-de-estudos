@@ -834,6 +834,32 @@
     return wrap;
   }
 
+  // ---------- Vunesp: respostas-modelo ----------
+  // data/respostas-modelo/indice.json lista os cadernos (caminho do índice em data/questoes/) que têm
+  // respostas; cada um tem um arquivo no mesmo caminho relativo, com as respostas por "parte:número".
+  let listaDeModelos = null;
+  const modelos = new Map(); // caminho do índice -> objeto carregado, null (não tem) ou undefined (carregando)
+  function modeloDaQuestao(local, numero) {
+    if (!modelos.has(local.indice)) {
+      modelos.set(local.indice, undefined);
+      if (!listaDeModelos) {
+        listaDeModelos = fetch('data/respostas-modelo/indice.json')
+          .then(r => (r.ok ? r.json() : []), () => []).then(lista => new Set(lista));
+      }
+      listaDeModelos
+        .then(lista => (lista.has(local.indice)
+          ? fetch('data/respostas-modelo/' + local.indice.replace(/^data\/questoes\//, '')).then(r => (r.ok ? r.json() : null), () => null)
+          : null))
+        .then(dados => {
+          modelos.set(local.indice, dados);
+          const atual = cadernoAtual(edicaoAtual());
+          if (dados && estado.prova === 'vunesp' && atual && atual.local && atual.local.indice === local.indice) renderResposta();
+        });
+    }
+    const dados = modelos.get(local.indice);
+    return (dados && dados.questoes[`${local.parte}:${numero}`]) || null;
+  }
+
   function respostaVunesp() {
     const v = estado.vunesp;
     const ed = edicaoAtual();
@@ -870,8 +896,27 @@
       h('a', { href: item.url, target: '_blank', rel: 'noopener noreferrer' },
         h('span', null, item.fonte || tipo, ' ', h('small', null, tipo)), icone('ext')));
 
+    // Resposta-modelo (gerada por IA), quando existe para esta questão: fica atrás de um botão,
+    // para a estudante escrever a dela antes de comparar.
+    const cad = cadernoAtual(ed);
+    const modelo = !ehRedacao && cad && cad.local ? modeloDaQuestao(cad.local, v.questao) : null;
+    let blocoModelo = null;
+    if (modelo && reg.modelo) {
+      blocoModelo = h('div.resolucao', null,
+        h('div.resolucao-texto', { html: md(modelo.resposta) }),
+        modelo.confianca !== 'alta' && modelo.pendencia
+          ? h('p.resolucao-alerta', null, h('b', null, modelo.confianca === 'baixa' ? 'Atenção. ' : 'Questão aberta ou discutível. '), modelo.pendencia) : null,
+        h('p.nota-rodape', null, 'Resposta-modelo gerada por IA a partir da imagem do caderno, sem revisão humana. Não há resposta oficial publicada: use como referência, não como gabarito. Pode conter erros.'),
+        h('div.acoes', null, h('button.btn.ghost.sm', { type: 'button', onclick: () => { store.set(id, { modelo: false }); renderResposta(); } }, 'Ocultar resposta-modelo')));
+    } else if (modelo) {
+      blocoModelo = h('div.gabarito.fechado', null,
+        h('span', null, reg.texto ? 'Compare com a sua resposta.' : 'Escreva a sua resposta antes de comparar.'),
+        h('button.btn.primary.sm', { type: 'button', onclick: () => { store.set(id, { modelo: true }); renderResposta(); } }, 'Ver resposta-modelo'));
+    }
+
     const cartaoResolucao = h('div.card', null,
-      h('h2', null, 'Resolução'),
+      h('h2', null, 'Resolução', modelo ? h('span.tag.accent', null, 'resposta-modelo') : null),
+      blocoModelo,
       oficiais.length || resolucoes.length
         ? h('ul.links', null, oficiais.map(i => link(i, 'resposta oficial')), resolucoes.map(i => link(i, 'resolução comentada')))
         : h('p.nota-rodape', { style: 'margin:0 0 12px' }, 'Nenhuma resolução catalogada para esta edição.'),

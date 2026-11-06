@@ -27,6 +27,8 @@ continuar no Mac.
 - O `localStorage` continua sendo a fonte da tela; `bq:pendentes:v1` guarda o que falta subir,
   `bq:sessao:v1` a sessão, `bq:sync:v1` o usuário e o último `atualizado_em` baixado.
 - Contas são criadas pelo dono no painel do Supabase (cadastro aberto deve ficar desligado).
+- Aviso "Leaked Password Protection Disabled" nos advisors do Supabase: aceito pelo dono
+  (06/11/2026). Exige plano pago e o projeto fica no gratuito; só há duas contas. Não reportar.
 - Sem conta, o site funciona como antes, só sem sincronizar.
 - Projeto fora do iCloud desde 06/11/2026 (`~/Developer/painel-de-estudos`); a pasta antiga no
   iCloud é só backup.

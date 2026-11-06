@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2021_conhecimentos-especificos-e-redacao-2-dia-no-objetivo-espelh.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O esgoto doméstico é rico em matéria orgânica e em **nutrientes minerais** (nitratos e fosfatos, inclusive de detergentes), que fertilizam a água e provocam a **proliferação das algas** (eutrofização). As algas se multiplicam tanto que formam uma camada na superfície e impedem a passagem de luz; as algas abaixo dela (e, depois, as da própria camada, ao esgotarem os nutrientes) não fazem fotossíntese suficiente e **morrem**. A decomposição dessa massa orgânica por bactérias aeróbias consome o oxigênio dissolvido, o que agrava a mortandade de algas e de outros organismos aquáticos.\n\n**b)** O agitador **areja o meio**: ao revolver o líquido, aumenta o contato com o ar e a dissolução de **oxigênio**. Com oxigênio disponível, a decomposição da matéria orgânica é feita por **bactérias aeróbias**, que a convertem em produtos não tóxicos (CO₂, água, sais), e as bactérias anaeróbias, inibidas pelo oxigênio, deixam de atuar; assim não se formam gases tóxicos e malcheirosos como o sulfeto de hidrogênio (H₂S) e o metano.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** As enzimas lisossômicas são proteínas produzidas no **retículo endoplasmático granuloso (rugoso)**, pelos ribossomos aderidos a ele, e depois modificadas e empacotadas no complexo golgiense, de onde brotam os lisossomos. Função dos lisossomos: **digestão intracelular**, isto é, digerir materiais englobados pela célula (heterofagia, como na fagocitose de bactérias) e componentes da própria célula desgastados (autofagia), além de participar da autólise.\n\n**b)** A **figura 2**. O gráfico mostra que as enzimas lisossômicas têm atividade máxima em **pH em torno de 5**, ou seja, em meio ácido, mais ácido que o citosol (pH próximo de 7). Para manter esse interior ácido, o lisossomo **bombeia íons H⁺** do citosol para dentro (transporte ativo por bombas de prótons), e é isso que a figura 2 representa. A entrada de bicarbonato (HCO₃⁻), como nas figuras 1 e 3, neutralizaria os H⁺ e elevaria o pH, reduzindo a atividade das enzimas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O anel mais antigo é o **3**, o mais central: os novos anéis são acrescentados por fora, de modo que o mais externo (1) é o mais recente. Anéis bem definidos se formam em **clima temperado** (com estações bem marcadas): na primavera e no verão o crescimento é rápido e forma lenho claro, de células grandes; no outono e no inverno ele é lento e forma lenho escuro, de células pequenas e paredes espessas, e o contraste delimita cada anel anual.\n\n**b)** O desenho continuará a **1 metro do solo**. O tronco não cresce em altura nessa região: o crescimento em comprimento (primário) ocorre apenas nas pontas, pelos **meristemas apicais** (primários). No tronco estão em atividade os **meristemas secundários**: o **câmbio vascular**, que produz xilema secundário (lenho, formando os anéis) e floema secundário, e o **felogênio**, que forma a periderme (súber/cortiça e feloderme). Eles promovem apenas o **crescimento em espessura**, que não desloca o desenho para cima.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** X é a **notocorda**, bastão de sustentação localizado logo abaixo do tubo neural, na região dorsal do anfioxo. Ela se origina do **mesoderma** (do cordomesoderma, a faixa dorsal do mesoderma).\n\n**b)** A vitamina é o **ácido fólico** (folato, vitamina B9); sua deficiência na gestação aumenta o risco de defeitos de fechamento do tubo neural, como a espinha bífida e a anencefalia. Do tubo neural originam-se o **encéfalo** e a **medula espinal** (basta citar um).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** As **microvilosidades** (microvilos): projeções da membrana plasmática na superfície livre das células epiteliais das vilosidades, formando a \"borda em escova\", característica do **intestino delgado**. Sua função é **aumentar a superfície de absorção** dos nutrientes digeridos (além de abrigar enzimas digestivas da membrana).\n\n**b)** Os **capilares sanguíneos** absorvem a maior parte dos nutrientes hidrossolúveis — monossacarídeos (glicose), aminoácidos, água, sais minerais e vitaminas hidrossolúveis — e os transportam, pelas vênulas e pela veia porta-hepática, ao fígado. O **vaso linfático** (lácteo ou quilífero) absorve os **lipídios**, na forma de quilomícrons (que contêm triglicerídeos e colesterol), e as **vitaminas lipossolúveis** (A, D, E, K), levando-os pela circulação linfática até o sangue.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A proporção 9 : 3 : 4 indica dois genes com segregação independente e **epistasia recessiva**. Seja A o alelo que permite a produção de pigmento (aa é epistático e determina flor branca) e B o alelo que determina cor vermelha (bb, amarela): A_B_ vermelha, A_bb amarela, aa__ branca.\n\nPlanta pura amarela: **AAbb**. Planta pura branca: **aaBB**. (F1: AaBb, 100% vermelhas.)\n\n**b)** Cruzamento-teste: AaBb × aabb. Gametas de F1: AB, Ab, aB, ab (1/4 cada), unidos a ab:\n\nAaBb (vermelha) 1/4; Aabb (amarela) 1/4; aaBb (branca) 1/4; aabb (branca) 1/4.\n\nResultado: **25% vermelhas, 25% amarelas e 50% brancas** (1 : 1 : 2).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** A **membrana plasmática**, formada por uma bicamada de fosfolipídios com proteínas inseridas (em bactérias como a *Acinetobacter*, gram-negativa, também a membrana externa da parede celular, de composição semelhante). Os álcoois dissolvem os lipídios da membrana e **desnaturam as proteínas**, alterando sua estrutura espacial e, portanto, sua função.\n\n**b)** Trata-se de **resistência adquirida** (resistência genética a agentes químicos, como desinfetantes), conferida por genes que a bactéria passa a possuir — muitas vezes localizados em **plasmídeos** — e selecionada pelo uso constante desses produtos. Na **transformação**, a bactéria **absorve do meio fragmentos de DNA livre**, liberados por outras bactérias que morreram e se romperam, e os **incorpora ao seu material genético** (por recombinação com o cromossomo ou como plasmídeo). Se esse DNA contém genes de resistência, a bactéria transformada e seus descendentes passam a expressá-los.",
+   "confianca": "media",
+   "pendencia": "No item b, a banca pode ter esperado outro nome para a \"forma de resistência\" (por exemplo, a referência a plasmídeos ou à resistência adquirida); a explicação da transformação é a parte central."
+  },
+  "0:8": {
+   "resposta": "**a)** Especiação **alopátrica** (geográfica). Ela se caracteriza pelo **isolamento geográfico** de populações de uma mesma espécie por uma barreira física (como montanhas, desertos ou rios), que impede o fluxo gênico entre elas. Isoladas, as populações acumulam diferenças por mutações, deriva genética e seleção natural em ambientes distintos, formando subespécies (raças geográficas) e, com o tempo, podendo chegar ao isolamento reprodutivo e a espécies diferentes.\n\n**b)** O isolamento etológico (comportamental) é um mecanismo **pré-zigótico** em que diferenças de comportamento de corte e acasalamento (cantos, danças, sinais) impedem que indivíduos de populações diferentes se reconheçam como parceiros e cruzem. O mecanismo pós-zigótico observado foi a **inviabilidade (mortalidade) do híbrido**: houve fecundação, mas o zigoto/embrião híbrido não se desenvolveu.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Na ureia, O=C(NH₂)₂, o carbono central faz uma ligação dupla com o oxigênio e duas simples com os nitrogênios, sem pares não ligantes: a geometria em torno do carbono é **trigonal plana**. A molécula é **polar**: as ligações C=O e C–N são polarizadas e os vetores não se anulam (o oxigênio, mais eletronegativo, concentra carga negativa).\n\n**b)** No ânodo ocorre a oxidação da ureia (inverte-se a semirreação de menor potencial); no cátodo, a redução do O₂ (multiplicada por 3/2 para igualar 6 e⁻):\n\nÂnodo: (NH₂)₂CO + 6 OH⁻ → N₂ + CO₂ + 5 H₂O + 6 e⁻\n\nCátodo: 3/2 O₂ + 3 H₂O + 6 e⁻ → 6 OH⁻\n\nGlobal: **2 (NH₂)₂CO (aq) + 3 O₂ (g) → 2 N₂ (g) + 2 CO₂ (g) + 4 H₂O (ℓ)**\n\nΔE° = E°(cátodo) − E°(ânodo) = +0,40 − (−0,746) = **+1,146 V** (≈ 1,15 V)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** O iodo pertence ao grupo dos **halogênios** (grupo 17 ou 7A). O fenômeno físico é a **sublimação**: passagem direta do estado sólido para o gasoso ao ser aquecido (e, na superfície fria da cápsula, a passagem inversa, de vapor a sólido, chamada ressublimação ou deposição, forma os cristais).\n\n**b)** Equação balanceada:\n\n**2 KNO₂ + 2 KI + 2 H₂SO₄ → 2 NO + I₂ + 2 K₂SO₄ + 2 H₂O**\n\nVariações de Nox: N passa de +3 (KNO₂) para +2 (NO), sofrendo redução; I passa de −1 (KI) para 0 (I₂), sofrendo oxidação. O **agente oxidante é o nitrito de potássio, KNO₂** (o N(+3) que se reduz).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** No CCl₄, o carbono (4 elétrons de valência) compartilha um par de elétrons com cada um dos quatro cloros (7 elétrons de valência cada); cada cloro fica com três pares não ligantes, e todos completam o octeto. Em fórmula de Lewis, o C fica no centro, ligado por quatro ligações simples (um par cada) a quatro Cl, e cada Cl tem três pares de elétrons livres:\n\nEsquema: C central com quatro ligações C–Cl (4 pares compartilhados) e 3 pares não ligantes em cada Cl, num total de 32 elétrons de valência.\n\nA solução de iodo em tetracloreto de carbono é a **fase 2 (inferior)**. O CCl₄ é imiscível com a água (ambos são de polaridades diferentes: CCl₄ apolar, água polar) e tem densidade 1,40 g/mL, maior que a da água (≈ 1,0 g/mL); por isso fica embaixo. O iodo, apolar, se dissolve preferencialmente no CCl₄, também apolar.\n\n**b)** Concentração em g/L: 100 mg em 5 mL → 0,100 g ÷ 0,005 L = **20 g/L**\n\nMassa molar do KI = 39 + 127 = 166 g/mol\n\nConcentração em mol/L: 20 ÷ 166 ≈ **0,12 mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O grupo circundado, –NH–C(=O)–CH₃, em que o nitrogênio está ligado diretamente a uma carbonila, caracteriza a função **amida**. O flúor (Z = 9) forma o íon fluoreto F⁻ ao ganhar um elétron; o íon ¹⁸F⁻ tem, portanto, 9 + 1 = **10 elétrons** (o número de massa 18 não altera o número de elétrons).\n\n**b)** Pelo gráfico, em 220 min resta 25% do flúor-18: 100% → 50% → 25% correspondem a 2 meias-vidas.\n\nt½ = 220 ÷ 2 = **110 min**\n\nNa emissão de pósitron, um próton se converte em nêutron: Z diminui 1 e A se mantém (Z = 9 → 8, o oxigênio):\n\n¹⁸₉F → ⁰₊₁β + ⁰₀ν + ¹⁸₈O",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** v = 108 km/h ÷ 3,6 = 30 m/s\n\na(média) = Δv ÷ Δt = (30 − 0) ÷ 6,0 = **5,0 m/s²**\n\n**b)** O impulso é igual à variação da quantidade de movimento (I = Δp), uma grandeza vetorial.\n\np(inicial) = m·v = 1 000 · 20 = 2,0 × 10⁴ kg·m/s (vertical, para cima na figura)\n\np(final) = 1 000 · 15 = 1,5 × 10⁴ kg·m/s (horizontal, para a direita)\n\nComo os vetores são perpendiculares, |Δp| = √[(2,0 × 10⁴)² + (1,5 × 10⁴)²] = √(6,25 × 10⁸)\n\n|I| = **2,5 × 10⁴ N·s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Pela lei de Hooke, a deformação da mola é:\n\nx = F ÷ k = 20 ÷ 500 = 0,04 m = 4 cm\n\nA mola comprimida mede 15 cm; seu comprimento natural é 15 + 4 = **19 cm**.\n\n**b)** O objeto perde contato com a mola quando ela volta ao comprimento natural (energia elástica nula). Pelo teorema da energia mecânica, o trabalho do atrito é a variação da energia mecânica:\n\nE(inicial) = 0,40 J (elástica; o objeto parte do repouso)\n\nE(final) = m·v² ÷ 2 = 0,50 · 1,0² ÷ 2 = 0,25 J\n\nτ(atrito) = 0,25 − 0,40 = **−0,15 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Na reflexão, o ângulo de incidência é igual ao de reflexão; por isso os triângulos formados pelos raios incidente e refletido com a superfície da água são semelhantes. A lâmpada está 3,0 m acima da superfície, a 4,0 m (na horizontal) do ponto de incidência; os olhos da criança estão a 1,6 m desse ponto:\n\nh ÷ 1,6 = 3,0 ÷ 4,0 → h = 1,6 · 0,75 = **1,2 m**\n\n**b)** Ângulo de incidência i com a normal: o cateto oposto (horizontal) é 4,0 m e o adjacente (vertical) é 3,0 m, então a hipotenusa é 5,0 m e sen i = 4,0 ÷ 5,0 = 0,80.\n\nLei de Snell: n(ar)·sen i = n(água)·sen θ\n\n1,0 · 0,80 = 1,3 · sen θ → sen θ = 0,80 ÷ 1,3 ≈ **0,62**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** R = U ÷ i = 220 ÷ 20 = **11 Ω**\n\nDois resistores iguais em paralelo: R(eq) = R ÷ 2 = 11 ÷ 2 = **5,5 Ω**\n\n**b)** Potência dissipada: P = U·i = 220 · 20 = 4 400 W, ou seja, 4 400 J por segundo, todos transferidos à água.\n\nQ = m·c·Δθ → 4 400 = m · 4,2 × 10³ · 10\n\nm = 4 400 ÷ 42 000 ≈ **0,10 kg** (≈ 0,105 kg de água por segundo)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Ao ouvirem que os produtos \"são fabricados com materiais selecionados de primeira qualidade\", os dois diretores caem na gargalhada, a ponto de chorar de rir; depois retomam a seriedade como se nada fosse. A reação indica que **a afirmação é falsa**: eles sabem que seus produtos não são feitos com materiais de primeira qualidade. A tira critica, com ironia, a **falta de compromisso da publicidade com a verdade** e o cinismo de quem a encomenda.\n\n**b)** Na voz ativa, o agente (a própria empresa, que fala do folheto) passa a sujeito:\n\n\"**Nós fabricamos nossos produtos com materiais selecionados de primeira qualidade.**\" (ou \"Fabricamos nossos produtos...\", ou ainda \"[Nome da empresa] fabrica seus produtos com materiais selecionados de primeira qualidade.\")\n\n\nOutras redações na voz ativa, com a empresa como agente da ação, também são aceitas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Duas características machadianas presentes: a **interlocução com o leitor** (o narrador se dirige diretamente a ele — \"Abane a cabeça, leitor\" —, prevê suas reações e brinca com elas, numa atitude metalinguística) e a **narração em 1ª pessoa memorialista e subjetiva**, com **análise psicológica** dos próprios sentimentos (o espanto, a \"sensação esquisita\", o ciúme antecipado do casamento de Capitu com outro). Também se notam a **ironia** e a postura de narrador pouco confiável, que insiste na própria veracidade. Basta citar duas; outras características bem justificadas também valem.\n\n**b)** Em \"se o tédio já **o** não obrigou a isso\", o pronome \"o\" retoma **o leitor** (o tédio não obrigou o leitor a deitar fora o livro). Em \"se **o** não fez antes\", o \"o\" é pronome demonstrativo com valor de \"isso\" e retoma **a ação de deitar fora o livro** (se o leitor não jogou fora o livro antes).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A contradição está em que o aquecimento global é **produzido pelos seres humanos, mas não é desejado por ninguém**: resulta de \"incontáveis ações humanas\", e no entanto \"não resulta de nenhuma intenção humana\". Cada ação individual, isolada, parece inofensiva e racional (consumir, produzir, ganhar o \"hambúrguer\"), mas a soma delas gera um efeito catastrófico que ninguém planejou nem assume. Daí o \"ardil da desrazão\": ações racionais em separado produzem, em conjunto, um resultado irracional, sem responsável aparente.\n\n**b)** \"**desrazão**\", com o prefixo **des-** (negação/oposição: ausência de razão), e \"**inofensivos**\" (ou \"imperceptível\", \"incontáveis\"), com o prefixo **in-/im-** (negação: que não ofende, que não se percebe).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A expressão é \"**torturadores inofensivos**\". Há paradoxo porque ela junta ideias que se excluem: um torturador, por definição, causa sofrimento, e \"inofensivo\" é aquele que não faz mal. No texto, a expressão faz sentido: cada pessoa que gira o botão provoca um efeito imperceptível (é, isoladamente, inofensiva), mas, somadas, essas ações eletrocutam a vítima (todas são torturadoras).\n\n**b)** Em \"de quem é a culpa?\", o sujeito é \"**a culpa**\" (\"de quem\" funciona como predicativo do sujeito: a culpa é de quem?).\n\nEm \"A quem interessa?\", o sujeito é **oculto (elíptico)**, retomando o que foi dito antes: \"**a mudança climática**\" ou \"essa espécie de eletrocussão da biosfera\" (Quem a deseja? A quem [ela] interessa?). \"A quem\" é objeto indireto.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

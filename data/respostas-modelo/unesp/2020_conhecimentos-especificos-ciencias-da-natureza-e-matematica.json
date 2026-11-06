@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2020_conhecimentos-especificos-ciencias-da-natureza-e-matematica.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:13": {
+   "resposta": "**a)** O carbono liberado como CO₂ na queima do etanol foi retirado da atmosfera pouco tempo antes, pela fotossíntese da cana-de-açúcar que o originou; na safra seguinte, novas plantas voltam a absorver CO₂. O ciclo é, portanto, aproximadamente fechado, e o saldo de CO₂ adicionado à atmosfera é pequeno. Já os combustíveis fósseis liberam carbono que estava estocado no subsolo havia milhões de anos, fora do ciclo atual, aumentando a concentração de CO₂ atmosférico. A bioeletricidade também diminui (ou evita aumentar) essa concentração: o CO₂ liberado na queima do bagaço e da palha foi igualmente captado pela fotossíntese da cana, e essa energia substitui eletricidade que seria gerada por usinas termelétricas a combustíveis fósseis; além disso, aproveita um resíduo que, de outra forma, se decomporia ou seria queimado sem gerar energia.\n\n**b)** O processo é a fermentação alcoólica, realizada por leveduras (fungos como Saccharomyces cerevisiae), que, em anaerobiose, degradam os açúcares do caldo (sacarose, glicose) em etanol. Além do etanol, é produzido gás carbônico (CO₂): C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Contando os pares de autossomos e os cromossomos sexuais de cada figura: figura 1 tem 38 pares de autossomos + XY = 78 cromossomos; figura 2 tem 22 pares + XY = 46; figura 3 tem 18 pares + XY = 38. Como o ser humano tem 46 e o gato tem menos cromossomos que o cão, os números diploides são: Homo sapiens 2n = 46, Canis familiaris 2n = 78 e Felis catus 2n = 38. Os cromossomos são metafásicos porque aparecem duplicados, cada um formado por duas cromátides-irmãs unidas pelo centrômero, e no grau máximo de condensação (curtos, grossos e bem individualizados).\n\n**b)** A forma e o tamanho dos cromossomos não revelam a sequência de nucleotídeos do DNA que eles contêm. Cromossomos de mesma morfologia podem carregar genes diferentes, alelos diferentes e sequências distintas, que codificam proteínas diferentes, além de diferenças na regulação e na expressão gênica (quando, onde e quanto cada gene é expresso). São essas diferenças no conteúdo genético, acumuladas por mutações ao longo da evolução separada das duas espécies, que determinam os fenótipos distintos de bois e bodes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Imagem 1: carrapato (febre maculosa); imagem 2: pulga (peste bubônica); imagem 3: barbeiro (doença de Chagas); imagem 4: mosquito-palha (leishmaniose). Respectivamente, Chagas, peste, leishmaniose e febre maculosa correspondem às imagens 3, 2, 4 e 1. A doença de Chagas não é transmitida pela picada: o barbeiro elimina o Trypanosoma cruzi nas fezes, perto do local da picada, e o parasita penetra quando a pessoa coça a região ou pelas mucosas (há também transmissão oral, por alimentos contaminados).\n\n**b)** A = 1 (carrapato); C e D = 2 (pulga) e 4 (mosquito-palha), que formam o grupo-irmão mais próximo — ambos são insetos holometábolos, ao passo que o barbeiro (B) é hemimetábolo. O carrapato ocupa a posição A, a primeira a divergir no cladograma, porque é um aracnídeo (classe Arachnida: quatro pares de patas, corpo em cefalotórax e abdome, sem antenas), enquanto os outros três artrópodes são insetos (classe Insecta: três pares de patas, antenas, corpo em cabeça, tórax e abdome). Os insetos compartilham um ancestral comum exclusivo, e o aracnídeo fica fora desse grupo.",
+   "confianca": "media",
+   "pendencia": "A posição de C e D (pulga e mosquito-palha) é intercambiável no cladograma; a resposta C = 2 e D = 4 é uma das possíveis, e a ordem inversa também deve ser aceita."
+  },
+  "0:16": {
+   "resposta": "**a)** Boas condutoras de eletricidade: Mg e Al, que são metais (ligação metálica, com elétrons livres). Apresentam ligações covalentes: NaHCO₃ e MgCO₃, compostos iônicos cujos ânions (HCO₃⁻ e CO₃²⁻) têm ligações covalentes entre os átomos de C, O e H.\n\n**b)** Considerando n mol de cada sólido, todo consumido:\n\nMg + 2 HCl → MgCl₂ + H₂ → n mol de gás\n\n2 Al + 6 HCl → 2 AlCl₃ + 3 H₂ → 1,5n mol de gás\n\nNaHCO₃ + HCl → NaCl + H₂O + CO₂ → n mol de gás\n\nMgCO₃ + 2 HCl → MgCl₂ + H₂O + CO₂ → n mol de gás\n\nO maior volume de gás foi produzido no tubo com alumínio (H₂), pois cada mol de Al libera 1,5 mol de H₂, contra 1 mol de gás nos demais tubos; nas mesmas condições de temperatura e pressão, o volume é proporcional à quantidade em mol.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Separação magnética (imantação): o ímã atrai os grãos escuros que contêm óxidos de ferro magnéticos, separando-os da fração clara.\n\nSoma das cargas positivas:\n\nCe³⁺: 0,494 × (+3) = +1,482\n\nLa³⁺: 0,24 × (+3) = +0,72\n\nNd³⁺: 0,20 × (+3) = +0,60\n\nTh⁴⁺: 0,05 × (+4) = +0,20\n\nTotal ≈ +3,0, que é compensado pela carga −3 do ânion fosfato (PO₄³⁻): +3 + (−3) = 0. Logo, a monazita é eletricamente neutra.\n\n**b)** Na emissão alfa, o núcleo perde 2 prótons e 2 nêutrons (partícula ⁴₂α):\n\n²³²₉₀Th → ⁴₂α + ²²⁸₈₈Ra\n\nO nuclídeo formado é o rádio-228. Número de nêutrons = A − Z = 228 − 88 = 140 nêutrons.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** O carbono quiral é o carbono da cadeia lateral ligado simultaneamente ao grupo NH₂, ao grupo carboxila (COOH), a um átomo de H e ao grupo CH₂ ligado ao anel indólico — quatro ligantes diferentes. A função amina primária é o grupo −NH₂ ligado a esse mesmo carbono (o NH do anel é amina secundária). A descarboxilação ocorre na transformação do triptofano em serotonina: o grupo carboxila (−COOH) é removido, liberando CO₂ (a serotonina não tem mais o COOH).\n\n**b)** Pelo gráfico, às 8 h a concentração de melatonina é de cerca de 23,2 pg/mL (entre 20 e 25 pg/mL).\n\nMassa em 1 mL: 23,2 pg = 23,2 × 10⁻¹² g\n\nn = m ÷ M = 23,2 × 10⁻¹² g ÷ 232 g/mol = 1,0 × 10⁻¹³ mol\n\nN = n × 6,0 × 10²³ = 1,0 × 10⁻¹³ × 6,0 × 10²³ = 6,0 × 10¹⁰ moléculas por mL de plasma.",
+   "confianca": "media",
+   "pendencia": "A última linha do item b está cortada na imagem; considerou-se o horário de 8 h da manhã, e a leitura do gráfico (cerca de 23 pg/mL) é aproximada, por isso valores próximos ao calculado também são aceitáveis."
+  },
+  "0:19": {
+   "resposta": "**a)** Pela figura, a placa ocupa os 4 m finais da haste (de 2 m a 6 m a partir de A), de modo que seu peso atua no centro dela, a 4 m de A. Forças na haste: peso da placa P = m·g = 30 × 10 = 300 N, vertical para baixo, a 4 m de A; tração T do fio, vertical para cima, em B (a 6 m de A); força da articulação F_A, vertical, em A.\n\nMomentos em relação a A:\n\nT · 6 = 300 · 4\n\nT = 1200 ÷ 6 = 200 N\n\n(Da soma das forças verticais, a articulação exerce F_A = 300 − 200 = 100 N, para cima.)\n\n**b)** Na figura 2, o fio faz 30° com a haste. Momentos em relação a A:\n\nT · sen 30° · 6 = 300 · 4\n\nT · 0,5 · 6 = 1200 → T = 400 N\n\nComponentes da tração: horizontal T·cos 30° = 400 · (√3/2) = 200√3 N ≈ 346 N, apontando para a parede; vertical T·sen 30° = 200 N, para cima.\n\nEquilíbrio da haste: a articulação aplica componente horizontal de 200√3 N, afastando a haste da parede, e componente vertical de 300 − 200 = 100 N, para cima.\n\nF = √[(200√3)² + 100²] = √(120 000 + 10 000) = √130 000 = 100√13 N ≈ 361 N.",
+   "confianca": "media",
+   "pendencia": "A posição da placa (nos 4 m finais da haste, com centro a 4 m da articulação) foi lida na figura, que não traz cotas; se o enunciado original indicar outra posição, os valores mudam."
+  },
+  "0:20": {
+   "resposta": "**a)** Dados: R = 160 cm, então f = 80 cm. O vértice R da placa está em C (160 cm do espelho) e, como a placa mede 40 cm e fica entre F e C, o lado PS está a 120 cm do espelho. Construção: do ponto P, traça-se um raio paralelo ao eixo principal, que se reflete passando por F; e um raio que passa por F (ou pelo centro C), que se reflete paralelo ao eixo (ou volta sobre si mesmo). O cruzamento dos raios refletidos dá P', abaixo do eixo, além de C; S' fica sobre o eixo principal, na vertical de P'. A imagem P'S' é real, invertida e maior que o objeto, porque é formada pelo cruzamento efetivo dos raios refletidos (e não de seus prolongamentos), à frente do espelho — o que ocorre porque o objeto está entre F e C.\n\n**b)** Imagem de PS (p = 120 cm):\n\n1/f = 1/p + 1/p'\n\n1/80 = 1/120 + 1/p' → 1/p' = 3/240 − 2/240 = 1/240 → p' = 240 cm\n\nImagem de QR (p = 160 cm, sobre o centro de curvatura): forma-se no próprio C, p' = 160 cm (1/80 − 1/160 = 1/160).\n\nDistância entre P'S' e Q'R': 240 − 160 = 80 cm.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**a)** Pela figura 2, o chuveiro está ligado entre as fases +110 V e −110 V, ou seja, sob 220 V, sua tensão nominal. Na potência econômica, P = 2 200 W:\n\ni = P ÷ U = 2 200 ÷ 220 = 10 A\n\nR = U² ÷ P = 220² ÷ 2 200 = 48 400 ÷ 2 200 = 22 Ω\n\n**b)** Cada lâmpada está ligada entre uma fase e o neutro (110 V), operando com 60 W.\n\nLâmpadas: E = 2 × 60 W × 0,5 h = 60 Wh = 0,06 kWh\n\nChuveiro (potência nominal, 20 min = 1/3 h): E = 6 000 W × (1/3) h = 2 000 Wh = 2 kWh\n\nEnergia total: 2 + 0,06 = 2,06 kWh\n\nGasto: 2,06 kWh × 0,50 real/kWh\n\nGasto = R$ 1,03",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**a)** Na figura 2: A(0, 0), B(0, 8) e C(15, 8); o setor I é o retângulo 1 ≤ x ≤ 3, 1 ≤ y ≤ 6, e o setor II é o retângulo 4 ≤ x ≤ 11, 5 ≤ y ≤ 7.\n\nPontos equidistantes de A e B estão na mediatriz de AB, a reta y = 4. Uma localização possível no setor I: (2, 4) (qualquer ponto com y = 4 e 1 ≤ x ≤ 3 serve).\n\nPontos equidistantes de B e C estão na mediatriz de BC, a reta x = 7,5. Uma localização possível no setor II: (7,5; 6) (qualquer ponto com x = 7,5 e 5 ≤ y ≤ 7 serve).\n\n**b)** Na figura 3, D(9, 0) e C(15, 8); a reta DC tem inclinação 8 ÷ 6 = 4/3. O ponto G está nessa reta com y = 6: x = 9 + 6 × (3/4) = 13,5, logo G(13,5; 6). F está na vertical de D: F(9, 6).\n\nFG = 13,5 − 9 = 4,5; como EDGF é paralelogramo, ED = FG = 4,5, e E(4,5; 0).\n\nDG = √(4,5² + 6²) = √(20,25 + 36) = √56,25 = 7,5 = EF\n\nPerímetro = 2 × (4,5 + 7,5) = 24 unidades\n\nEm metros: 24 × 200 = 4 800 m (4,8 km).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**a)** (c, m, y) = (1 − 1/4; 1 − 1/100; 1 − 0) = (3/4; 99/100; 1) = (0,75; 0,99; 1).\n\nDistância até o preto (1, 1, 1): √(0,25² + 0,01² + 0²) ≈ 0,25; até o vermelho (0, 1, 1): √(0,75² + 0,01²) ≈ 0,75; os demais vértices estão ainda mais longe. A cor mais próxima é o **preto**.\n\n**b)** Com (r, g, b) = (0,2; 0,5; 0,4) e (y, i, q) = (0,4; −0,15; −0,33):\n\n0,3·0,2 + 2β·0,5 + γ·0,4 = 0,4 → β + 0,4γ = 0,34\n\n3α·0,2 − β·0,5 − 0,3·0,4 = −0,15 → 0,6α − 0,5β = −0,03 → β = 1,2α + 0,06\n\nα·0,2 − 0,5·0,5 − 3γ·0,4 = −0,33 → 0,2α − 1,2γ = −0,08 → γ = (0,2α + 0,08) ÷ 1,2\n\nSubstituindo na primeira: 1,2α + 0,06 + 0,4·(0,2α + 0,08) ÷ 1,2 = 0,34 → 1,44α + 0,072 + 0,08α + 0,032 = 0,408 → 1,52α = 0,304 → α = 0,2\n\nβ = 1,2·0,2 + 0,06 = 0,3\n\nγ = (0,04 + 0,08) ÷ 1,2 = 0,1\n\nLogo, α = 0,2, β = 0,3 e γ = 0,1.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**a)** A meia-vida é 336 h = 14 dias = 2 semanas, e a quantidade decresce exponencialmente: Q(t) = Q₀·(1/2)^(t/14), com t em dias. Pontos do esboço: t = 0 → 1 200 000 UI; 2 semanas → 600 000 UI; 4 semanas → 300 000 UI, quando é aplicada a segunda dose e a quantidade salta para 300 000 + 1 200 000 = 1 500 000 UI; 6 semanas → 750 000 UI; 8 semanas → 375 000 UI. O gráfico é formado por dois arcos de curva exponencial decrescente (côncavos para cima), com um salto vertical na 4ª semana.\n\n**b)** Após 14 dias (uma meia-vida), a primeira dose caiu para 2 400 000 ÷ 2 = 1 200 000 UI. Logo após a segunda dose:\n\nQ = 1 200 000 + 2 400 000 = 3 600 000 UI\n\nQuantidade adequada: 3 600 000·(1/2)^(t/14) ≥ 300 000 → 2^(t/14) ≤ 12\n\n(t/14)·log 2 ≤ log 12 = 2·log 2 + log 3 = 0,60 + 0,48 = 1,08\n\nt/14 ≤ 1,08 ÷ 0,30 = 3,6 → t ≤ 50,4 dias\n\nO medicamento permanece em quantidade adequada durante 50 dias completos após a segunda dose.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

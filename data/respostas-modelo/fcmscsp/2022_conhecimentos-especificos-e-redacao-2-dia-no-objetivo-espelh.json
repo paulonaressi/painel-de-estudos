@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2022_conhecimentos-especificos-e-redacao-2-dia-no-objetivo-espelh.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Todas as outras **29 plantas** poderão ser prejudicadas. Como os cavaleiros foram retirados da mesma laranjeira, eles se originaram por reprodução assexuada (propagação vegetativa) e são clones: têm o mesmo genótipo. Assim, se um deles é suscetível à praga, todos os demais têm a mesma suscetibilidade, pois não há variabilidade genética entre eles.\n\n**b)** O cavaleiro produzirá **somente laranjas**, pois os frutos se formam a partir das flores do cavaleiro, cujas células têm o genoma da laranjeira; o cavalo não altera o material genético do enxerto. As raízes do cavalo sobrevivem porque recebem a matéria orgânica produzida na fotossíntese pelas folhas do cavaleiro: a seiva elaborada desce pelo floema, que se torna contínuo através da região de enxertia, e chega às raízes, onde parte dela é consumida e parte é armazenada (por exemplo, como amido).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O animal é uma minhoca, do filo **Annelida** (anelídeos). A repetição da organização interna ao longo do eixo anteroposterior chama-se **metameria** (corpo segmentado em metâmeros, ou segmentos, que repetem estruturas como os metanefrídios).\n\n**b)** O líquido X é o **líquido celomático** (fluido que preenche o celoma). Entre suas vantagens: funciona como **esqueleto hidrostático**, dando sustentação e permitindo a locomoção pela ação da musculatura sobre um líquido incompressível; além disso, transporta e distribui substâncias e recebe as excretas que são captadas pelo nefróstoma dos metanefrídios e eliminadas pelo nefridióporo, participando da excreção e da osmorregulação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Trata-se da **esquistossomose** (barriga-d'água), causada pelo *Schistosoma mansoni*, que tem o caramujo (*Biomphalaria*) como hospedeiro intermediário e penetra na pele humana na forma de cercária. Do ponto de vista do poder público, a melhor forma de prevenção é o **saneamento básico**: coleta e tratamento de esgoto, para que as fezes com ovos não cheguem às coleções de água, e fornecimento de água tratada. Também ajudam o controle dos caramujos, o tratamento dos doentes e campanhas educativas.\n\n**b)** O estágio **7**, que representa os vermes adultos (macho e fêmea acasalados) nos vasos sanguíneos do sistema porta-hepático. Nessa fase ocorre a **reprodução sexuada**: os gametas são produzidos por meiose, com permutação (crossing-over) e segregação independente dos cromossomos, e a fecundação combina gametas de dois indivíduos diferentes, o que gera descendentes com maior variabilidade genética. (As fases no caramujo se multiplicam assexuadamente e originam clones.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Foram adicionados pares formados pelas bases nitrogenadas do DNA: **adenina, timina, citosina e guanina** (A pareando com T, e C com G). Componentes específicos do DNA, ausentes no RNA: a base **timina** (no RNA ela é substituída pela uracila) ou o açúcar **desoxirribose** (no RNA o açúcar é a ribose). Basta citar um deles.\n\n**b)** Os telômeros localizam-se nas **extremidades (pontas) dos cromossomos**; são sequências repetitivas de DNA que não codificam proteínas e protegem os cromossomos. Em células somáticas adultas, a enzima telomerase é pouco ativa, e a cada duplicação do DNA (a cada divisão celular) a extremidade não é totalmente copiada, de modo que os telômeros **encurtam progressivamente**. Assim, telômeros mais curtos indicam que a célula já passou por muitas divisões, isto é, que está envelhecida; abaixo de um comprimento crítico, a célula para de se dividir (senescência) ou morre.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O órgão representado é a **medula espinal** (vê-se o corte com a substância cinzenta em forma de \"H\" ou borboleta). Ela é protegida pela **coluna vertebral**, alojada no canal vertebral formado pelas vértebras.\n\n**b)** A toxina atua em **nervos motores** (eferentes do sistema nervoso somático), que inervam a musculatura esquelética. Na junção neuromuscular, a toxina botulínica **impede a liberação de acetilcolina** pelo terminal do neurônio motor (bloqueia a exocitose das vesículas com o neurotransmissor). Sem acetilcolina, a fibra muscular não é estimulada e não se contrai: o músculo fica **relaxado/paralisado** (paralisia flácida), o que atenua as rugas de expressão.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A tradução é feita pelos **ribossomos** das células humanas (livres no citosol ou aderidos ao retículo endoplasmático granuloso), que leem os códons do RNA mensageiro com o auxílio dos RNA transportadores. O produto é uma **proteína** (o antígeno viral, por exemplo a proteína da espícula do coronavírus).\n\n**b)** São estimulados os **linfócitos T auxiliares (CD4)**, que coordenam a resposta; os **linfócitos B**, que se diferenciam em plasmócitos produtores de anticorpos específicos; e os **linfócitos T citotóxicos (CD8)**, que reconhecem e destroem células que exibem o antígeno. A imunidade é duradoura porque essa imunização ativa gera **células de memória** (linfócitos B e T de memória), de vida longa, que permanecem no organismo e, num contato futuro com o patógeno, desencadeiam uma resposta secundária mais rápida e intensa.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Os organismos formadores de micélios (redes de hifas) pertencem ao **reino Fungi**. A relação entre as árvores e esses fungos é de **mutualismo**: as raízes associadas aos fungos formam as **micorrizas**, associação em que os dois parceiros se beneficiam (a \"porcentagem\" cobrada pelos fungos, citada no texto, é a matéria orgânica que recebem da planta).\n\n**b)** As hifas do fungo ampliam muito a **superfície de absorção** das raízes e alcançam regiões do solo inacessíveis a elas, aumentando a absorção de **água e sais minerais**, especialmente fósforo e nitrogênio. Com mais nutrientes, a planta faz mais fotossíntese e sintetiza mais compostos (proteínas, ácidos nucleicos, clorofila), o que sustenta maior taxa de divisão celular nos meristemas e, portanto, maior crescimento. Em troca, a árvore fornece ao fungo açúcares produzidos na fotossíntese.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Ela não formará glândulas sudoríparas em nenhuma região do corpo; portanto **não transpira (anidrose)** e tem dificuldade de **regular a temperatura corporal**, ficando sujeita a hipertermia (superaquecimento) em ambientes quentes ou durante esforço físico. Genótipo: **XᵃXᵃ** (homozigota recessiva para o gene ligado ao X).\n\n**b)** O fenômeno é a **inativação de um dos cromossomos X** (lionização, que forma o corpúsculo de Barr). No início do desenvolvimento embrionário, em cada célula um dos dois X é inativado **ao acaso**, e todas as células derivadas dela mantêm o mesmo X inativo; assim, a mulher heterozigota é um mosaico: onde o X ativo traz o alelo dominante formam-se glândulas e onde traz o recessivo, não. Como a escolha do X inativado é aleatória em cada célula precursora, a distribuição dessas regiões varia de uma mulher para outra e dificilmente se repete igual em duas heterozigotas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** No HReO₄: (+1) + x + 4·(−2) = 0 → x = **+7**. O Re₂O₇ é um **óxido ácido** (anidrido do ácido perrênico): ao reagir com a água forma um ácido, conforme Re₂O₇ + H₂O → 2 HReO₄. (Óxidos de metais com Nox elevado, como +7, têm caráter ácido.)\n\n**b)** Óxido ácido + base → sal + água:\n\nRe₂O₇ (s) + 2 NaOH (aq) → 2 NaReO₄ (aq) + H₂O (ℓ)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Na emissão β, um nêutron se converte em próton: o número de massa se mantém e o número atômico aumenta uma unidade (Re tem Z = 75; o produto tem Z = 76, o ósmio):\n\n¹⁸⁶₇₅Re → ⁰₋₁β + ¹⁸⁶₇₆Os\n\nMeia-vida: de 0 a 12 dias a atividade cai de 500 para 62,5 MBq, isto é, 500 ÷ 62,5 = 8 = 2³ → 3 meias-vidas em 12 dias → **t½ = 4 dias**. (Confere com 6 dias = 1,5 meia-vida: 500 ÷ 2¹·⁵ ≈ 176,8 MBq.)\n\n**b)** Pelas equações, 4 Re → 2 Re₂O₇ → 4 HReO₄, ou seja, 1 mol de Re forma 1 mol de HReO₄.\n\nn(Re) = 0,930 g ÷ 186 g/mol = 5,0 × 10⁻³ mol\n\nn(HReO₄) = **5,0 × 10⁻³ mol** (usando a massa molar do rênio ≈ 186 g/mol, da tabela periódica).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O enxofre central tem dois pares de elétrons ligantes e dois pares não ligantes (quatro nuvens eletrônicas), o que dá à molécula de H₂S geometria **angular** (em \"V\"). Como as ligações S–H são polarizadas e a geometria angular não cancela os vetores de momento dipolar, a molécula é **polar**.\n\n**b)** Volume do laboratório: 72 m³ = 72 × 10³ L.\n\n0,05 ppm em volume → V(H₂S) = 72 × 10³ L × 0,05 × 10⁻⁶ = 3,6 × 10⁻³ L\n\nn = P·V ÷ (R·T), com T = 27 + 273 = 300 K\n\nn(H₂S) = (1 · 3,6 × 10⁻³) ÷ (0,08 · 300) = 3,6 × 10⁻³ ÷ 24 = 1,5 × 10⁻⁴ mol\n\nPela equação, 1 mol de FeS forma 1 mol de H₂S: n(FeS) = **1,5 × 10⁻⁴ mol**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O ácido de cadeia ramificada com 4 carbonos é o ácido metilpropanoico (C₄H₈O₂). Para formar o éster C₈H₁₆O₂, o álcool deve ter 4 carbonos (C₄H₁₀O); sendo secundário e de cadeia linear, é o **butan-2-ol**:\n\nCH₃–CH(OH)–CH₂–CH₃\n\nA oxidação de um álcool secundário produz uma **cetona** (no caso, a butanona); a função é cetona.\n\n**b)** A esterificação forma o metilpropanoato de butan-2-ila (sec-butila):\n\n(CH₃)₂CH–COO–CH(CH₃)–CH₂–CH₃\n\nou seja, CH₃–CH(CH₃)–C(=O)–O–CH(CH₃)–CH₂–CH₃.\n\nCombustão completa:\n\nC₈H₁₆O₂ + 11 O₂ → 8 CO₂ + 8 H₂O\n\nFormam-se **8 mol de água** por mol do éster (os 16 átomos de H dão 8 H₂O).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Dados: v₀ = 20 m/s, v = 0, a = −2,0 m/s².\n\nv = v₀ + a·t → 0 = 20 − 2,0·t → **t = 10 s**\n\nv² = v₀² + 2·a·Δs → 0 = 20² − 2·2,0·Δs → Δs = 400 ÷ 4 = **100 m**\n\n**b)** Sem deslizar, o bloco tem a mesma aceleração do caminhão (2,0 m/s²), e a única força horizontal sobre ele é o atrito estático:\n\nFat = m·a = 500 · 2,0 = **1,0 × 10³ N**\n\nA normal é N = m·g = 500 · 10 = 5,0 × 10³ N. Para não deslizar, Fat ≤ μₑ·N:\n\nμₑ ≥ 1,0 × 10³ ÷ 5,0 × 10³ → **μₑ mínimo = 0,20**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** O empuxo é uma força **vertical, orientada para cima** (vetor desenhado a partir do bloco apontando para a superfície do líquido). Em equilíbrio, com o bloco apoiado no fundo:\n\nE + N = P → E = 24,0 − 8,0 = **16,0 N**\n\n**b)** A face superior está a h = 20 cm = 0,20 m de profundidade. Pressão exercida pelo líquido (pressão hidrostática, sem contar a atmosfera):\n\np = ρ·g·h = 8,0 × 10² · 10 · 0,20 = **1,6 × 10³ Pa**\n\nForça na face superior:\n\nF = p·A = 1,6 × 10³ · 2,0 × 10⁻² = **32 N** (vertical, para baixo)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** A esfera vai de 20 °C a 70 °C (Δθ = 50 °C):\n\nQ(esfera) = m·c·Δθ = 600 · 0,20 · 50 = **6,0 × 10³ cal**\n\nCom capacidade térmica do calorímetro desprezível, o calor cedido pela água (de 90 °C a 70 °C) é igual ao absorvido pela esfera:\n\nm(água) · 1,0 · (90 − 70) = 6,0 × 10³ → m(água) = 6,0 × 10³ ÷ 20 = **300 g**\n\n**b)** Coeficiente de dilatação volumétrica: γ = 3·α = 3 · 2,0 × 10⁻⁵ = 6,0 × 10⁻⁵ °C⁻¹\n\nΔV = V₀·γ·Δθ = 200 · 6,0 × 10⁻⁵ · 50 = **0,60 cm³**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** P = U·i = 6,0 × 10⁵ · 5,0 × 10³ = **3,0 × 10⁹ W**\n\nEm 1 h = 3 600 s: E = P·Δt = 3,0 × 10⁹ · 3,6 × 10³ = **1,08 × 10¹³ J** (≈ 1,1 × 10¹³ J)\n\n**b)** Para fio retilíneo longo, B = μ₀·i ÷ (2π·r): o campo é inversamente proporcional à distância. O ponto P está a d do fio 1 (B = 6,0 × 10⁻⁴ T); o ponto Q está a 3d do fio 1:\n\nB₁(Q) = 6,0 × 10⁻⁴ ÷ 3 = **2,0 × 10⁻⁴ T**\n\nO fio 2 tem a mesma corrente e está a d de Q: B₂(Q) = 6,0 × 10⁻⁴ T.\n\nSentidos (regra da mão direita): a corrente do fio 1, saindo do plano, gera em Q (à sua direita) campo vertical para cima; a do fio 2, entrando no plano, gera em Q (também à sua direita) campo vertical para baixo. Os campos têm sentidos opostos:\n\nB(resultante) = 6,0 × 10⁻⁴ − 2,0 × 10⁻⁴ = **4,0 × 10⁻⁴ T** (vertical, para baixo na figura)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** O cartum explora o duplo sentido da expressão. Em sentido figurado, \"papo furado\" é conversa sem fundamento, fiada, sem valor; o desenho, porém, a toma **literalmente**: o balão de fala do personagem, que representa o \"papo\" (a conversa), aparece cheio de furos. A graça nasce da tradução visual da metáfora: o humor está em representar ao pé da letra uma expressão idiomática de sentido figurado.\n\n**b)** Linguagem formal: \"**conversa inconsistente**\" (ou \"discurso sem fundamento\", \"afirmação infundada\").\n\nLinguagem coloquial: \"**conversa fiada**\" (ou \"conversa mole\", \"lero-lero\", \"papo-furado\" equivale também a \"conversa pra boi dormir\").\n\n\nOutras expressões equivalentes, desde que adequadas ao registro pedido, também são aceitas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Entre as características da crônica presentes no texto: **tema extraído do cotidiano** (um aniversário esquecido, a rotina de escritório e as relações familiares e de trabalho) e **texto curto, de linguagem leve e próxima da coloquial** (\"uma droga\", \"noite besta\", \"borocoxô\"), com **desfecho surpreendente e bem-humorado** (a festa-surpresa organizada pela família com a secretária). Basta citar duas; outras características presentes no texto (narrador em 3ª pessoa, poucos personagens, linguagem simples) também valem.\n\n**b)** Em \"**noite besta**\". A palavra \"besta\" é originalmente um **substantivo** (animal de carga; por extensão, pessoa tola), mas na expressão passa a funcionar como **adjetivo**, qualificando \"noite\" (noite tola, enfadonha, sem graça), sem nenhuma alteração na forma. Nas demais expressões, as palavras \"mínima\", \"moral\", \"suaves\", \"amenas\" e \"prévia\" já são adjetivos e mantêm a sua classe.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Exemplos de discurso indireto livre (pensamentos da personagem inseridos na voz do narrador, sem verbo de elocução):\n\n\"Então era assim que a família o tratava?\"\n\n\"E não é que podiam mesmo?\"\n\n(Também servem, por exemplo, \"Pois então uma estranha se lembrava dele com tais requintes, e a mulher e os filhos, nada?\" ou \"Fazer anos é uma droga, ninguém gostava dele neste mundo\".)\n\n**b)** Discurso indireto: **Ao saírem, ele perguntou-lhe aonde ela preferia ir.**\n\nDiscurso direto: **No apartamento, ela apontou-lhe o banheiro e disse-lhe: — Use-o sem cerimônia.** (ou: \"— Fique à vontade, use o banheiro sem cerimônia.\")",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** O enunciado **2** é o mais impessoal. Nele não há marcas da pessoa do autor nem do leitor: os verbos estão na 3ª pessoa (\"significa\", \"era\") e a referência é a \"eles\", os gregos. No enunciado 1, o autor se coloca na 1ª pessoa do singular (\"digo\") e se inclui no plural (\"do que nós\"); no 3, emprega a 1ª pessoa do plural (\"pensaríamos\"), envolvendo a si e ao leitor.\n\n**b)** O recurso é a **pergunta retórica** (interrogações que não esperam resposta: \"por que preferir o movimento ao repouso?\", \"será que não estaremos mais disponíveis...?\" etc.). Com elas, o autor leva o leitor a questionar a valorização do trabalho como virtude e a refletir sobre o valor do repouso e do ócio, conduzindo-o, de forma persuasiva, à conclusão já embutida nas perguntas: a \"preguiça\" pode ser entendida como liberdade e disponibilidade para o que realmente importa.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

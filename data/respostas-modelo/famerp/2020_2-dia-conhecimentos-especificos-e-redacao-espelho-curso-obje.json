@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/famerp/2020_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A relação é de **predatismo** (predação): a planta captura e mata o inseto e se nutre dele. Para digeri-lo, as plantas secretam **enzimas digestivas** (principalmente proteases), produzidas por glândulas das folhas modificadas.\n\n**b)** São plantas **autótrofas**: têm clorofila e fazem fotossíntese, produzindo a própria matéria orgânica. Elas capturam insetos para obter **nutrientes minerais**, sobretudo **nitrogênio** (e também fósforo), escassos nos solos pobres e encharcados onde costumam viver. O nitrogênio das proteínas dos insetos é usado na síntese de aminoácidos, proteínas e ácidos nucleicos; os insetos não são sua fonte de energia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A absorção de água e minerais é feita pelos **pelos absorventes** da zona pilífera da raiz. Eles são prolongamentos de células da **epiderme** da raiz (tecido de revestimento originado da protoderme).\n\n**b)** Seca fisiológica é a situação em que a planta **não consegue absorver água**, embora haja água no solo, porque a solução do solo está mais concentrada (hipertônica) que o conteúdo das células da raiz. A água do mar tem alta concentração de sais; regando com ela, o solo ficou hipertônico em relação às células dos pelos absorventes. Por osmose, a água deixou de entrar na raiz e passou a sair dela, a planta desidratou-se, murchou e morreu, mesmo sendo regada todos os dias.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** No início da digestão, a **mastigação** (e o início da deglutição) é voluntária. No final, a **defecação** (eliminação das fezes, controlada pelo esfíncter externo do ânus) é voluntária.\n\n**b)** Os movimentos peristálticos são produzidos pela **musculatura lisa** (não estriada) da parede do tubo digestório.\n\nA chegada do alimento ao estômago, principalmente de proteínas, e a distensão de sua parede estimulam células da mucosa gástrica a liberar o hormônio **gastrina** no sangue. A gastrina estimula as glândulas gástricas a secretar suco gástrico (HCℓ e pepsinogênio). Quando o estômago se esvazia e o pH fica muito baixo, a liberação de gastrina diminui e a secreção cai: é um controle hormonal por retroalimentação negativa, auxiliado por reflexos nervosos autônomos, sem participação da vontade.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A cromatina sexual (corpúsculo de Barr) corresponde a um dos **cromossomos X**, que fica inativado e muito condensado. Ela é mais facilmente visualizada na fase **G1** da interfase, a mais longa, quando a célula ainda não duplicou o DNA e há um único X inativo bem condensado junto ao envoltório nuclear.\n\n**b)** O cromossomo X que forma a cromatina sexual está condensado (heterocromatina) e seus genes **não são transcritos**. Assim, a mulher, que tem dois X, passa a ter **apenas um X ativo**, como o homem (XY), que tem um único X. Os genes do X são expressos na mesma \"dose\" nos dois sexos, e a quantidade de proteínas codificadas por eles fica semelhante (compensação de dose).",
+   "confianca": "media",
+   "pendencia": "Algumas correções aceitam a interfase em geral (G1, ou G0 em células que não se dividem); G1 é a resposta mais comum para este item."
+  },
+  "0:5": {
+   "resposta": "**a)** É **Bruna**, com sangue tipo **AB** (houve aglutinação com anti-A e com anti-B). O critério é a **ausência de aglutininas** (anticorpos) anti-A e anti-B no plasma: por não ter esses anticorpos, ela pode receber hemácias de qualquer tipo do sistema ABO sem que haja aglutinação.\n\n**b)** Mariana é Rh⁻ e Pedro é Rh⁺. O procedimento é aplicar na mãe o **soro anti-Rh** (imunoglobulina anti-D) até cerca de 72 horas após o parto de cada filho Rh⁺ (e também em abortos ou durante a gestação, quando indicado). Os anticorpos injetados destroem as hemácias Rh⁺ do bebê que passaram para o sangue materno no parto antes que o sistema imune da mãe as reconheça. Assim, ela não é sensibilizada, não produz anticorpos anti-Rh nem células de memória, e na gestação seguinte não haverá anticorpos atravessando a placenta e destruindo as hemácias de um feto Rh⁺.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A **planta 2**: na intensidade luminosa em que ela está, a velocidade da fotossíntese é igual à da respiração (cruzamento das curvas), que é o ponto de compensação fótico. Outro fator ambiental que influencia a fotossíntese é a **concentração de CO₂** (também valem temperatura e disponibilidade de água).\n\n**b)** Morreria primeiro a **planta 1**. Ela está abaixo do ponto de compensação fótico: sua fotossíntese é menor que a respiração, então consome mais matéria orgânica do que produz e vive gastando reservas. Os fungos parasitas retiram ainda mais matéria orgânica, esgotando rapidamente essas reservas. A planta 2 está em equilíbrio (sem excedente) e a planta 3, acima do ponto de compensação, produz excedente que compensa por mais tempo a perda causada pelo parasita.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O erro é afirmar que os escorpiões são **insetos**. Escorpiões são artrópodes da classe dos **aracnídeos** (Arachnida): têm corpo dividido em cefalotórax e abdome, quatro pares de patas e não têm antenas. As baratas, sim, são insetos (três pares de patas, antenas, corpo em cabeça, tórax e abdome). A correção é dizer que os escorpiões são aracnídeos.\n\n**b)** Na partenogênese, o **óvulo** (gameta feminino) se desenvolve e forma um novo indivíduo **sem ser fecundado** por um espermatozoide; no escorpião-amarelo, as fêmeas geram filhotes (fêmeas) sem acasalamento. Nas abelhas, os descendentes da rainha originados por partenogênese são os **zangões** (machos, haploides).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** As estruturas observadas são os microtúbulos (organização 9 + 2) dos cílios. São importantes as **mitocôndrias**, que fornecem o ATP, produzido na respiração celular, usado pelas proteínas motoras (dineína) para o deslizamento dos microtúbulos e o batimento ciliar. Também participam os **centríolos**, que formam os corpúsculos basais na base de cada cílio e organizam os microtúbulos.\n\n**b)** Na traqueia, o batimento dos cílios empurra o muco que retém poeira e microrganismos para fora das vias respiratórias. Sem as proteínas dos microtúbulos (tubulina, dineína), os cílios ficam imóveis, o muco se acumula e surgem infecções e outros problemas respiratórios. O flagelo do espermatozoide tem a mesma estrutura interna dos cílios; sem essas proteínas, os espermatozoides não se movimentam, não chegam ao ovócito e o homem fica infértil.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** O hexano (d = 0,65 g/mL) fica por cima da água (d = 1,00 g/mL). Substância polar se dissolve na água e apolar se dissolve no hexano.\n\n**Fase A** (fase de baixo, violeta, no funil da esquerda): **água com KMnO₄** dissolvido (solução aquosa de permanganato de potássio).\n\n**Fase B** (fase de cima, violeta, no funil da direita): **hexano com I₂** dissolvido (solução de iodo em hexano).\n\n**b)** Na proveta, o butan-1-ol se dissolve todo no hexano.\n\nm(hexano) = 100 mL · 0,65 g/mL = 65 g\n\nm(butan-1-ol) = 50 mL · 0,8 g/mL = 40 g\n\n% em massa = 40 ÷ (65 + 40) · 100 = 40 ÷ 105 · 100 ≈ **38%**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Reação do gás carbônico com a água:\n\nCO₂(g) + H₂O(ℓ) ⇌ H₂CO₃(aq)\n\nA dissolução da amônia em água produz o hidróxido de amônio, **NH₄OH** (NH₃ + H₂O ⇌ NH₄⁺ + OH⁻).\n\n**b)** O agente redutor é o **H₂S**: o enxofre passa de Nox –2 (no H₂S) para 0 (no S), ou seja, sofre oxidação e provoca a redução do Fe³⁺ a Fe²⁺.\n\nA solução final é neutra porque os 2 H⁺ formados na reação I são neutralizados pelos 2 OH⁻ formados na reação II (H⁺ + OH⁻ → H₂O). Somando as duas equações, os íons de ferro e os H⁺/OH⁻ se cancelam e a reação global é:\n\nH₂S + ½ O₂ → S + H₂O\n\nsem sobra de H⁺ ou OH⁻ no meio.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Combustão completa do metano:\n\nCH₄(g) + 2 O₂(g) → CO₂(g) + 2 H₂O\n\nA molécula de metano tem geometria **tetraédrica** (carbono no centro, quatro H nos vértices, ângulos de cerca de 109,5°).\n\n**b)** Quantidade total de gás no biodigestor:\n\nn = P · V ÷ (R · T) = 747,6 · 200 ÷ (62,3 · 300)\n\nn = 149 520 ÷ 18 690 = 8,0 mol de biogás\n\nComo 60% em volume é metano (proporção em volume = proporção em mols):\n\nn(CH₄) = 0,60 · 8,0 = 4,8 mol\n\nPelo texto, a combustão desses 200 L de biogás produz 4 620 kJ:\n\nE por mol = 4 620 ÷ 4,8 ≈ **962,5 kJ/mol** de metano",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Fórmula eletrônica (de Lewis): o carbono fica no centro e faz quatro ligações simples, cada uma representada por um par de elétrons compartilhado, com três átomos de H e um átomo de Br. O bromo, além do par compartilhado com o carbono, tem **três pares de elétrons não ligantes**, completando o octeto:\n\nH : C : Br (com os outros dois H ligados ao C, acima e abaixo, e três pares isolados em volta do Br)\n\nA reação é exotérmica (ΔH < 0). O aumento da temperatura desloca o equilíbrio no sentido endotérmico, isto é, para a esquerda (reagentes); por isso o **rendimento diminui**.\n\n**b)** Reagiram 50% de 4 · 10⁻⁵ mol = 2 · 10⁻⁵ mol de CH₃Br, formando 2 · 10⁻⁵ mol de HBr, totalmente ionizado em H⁺ e Br⁻.\n\n[H⁺] = 2 · 10⁻⁵ mol ÷ 0,2 L = 1 · 10⁻⁴ mol/L\n\npH = –log 10⁻⁴ = 4\n\nComo 2 < pH < 8, a solução fica **amarela**.",
+   "confianca": "alta",
+   "pendencia": "A fórmula eletrônica deve ser desenhada com os pontos (ou pares) em volta de cada átomo; aqui ela está descrita em palavras."
+  },
+  "0:13": {
+   "resposta": "**a)** O alumínio tem número atômico 13 (13 elétrons no átomo neutro). O íon Aℓ³⁺ perdeu 3 elétrons: tem **10 elétrons**.\n\nHidróxido de alumínio: **Aℓ(OH)₃**\n\n**b)** Carga que passou:\n\nQ = i · t = 100 · 193 = 19 300 C\n\nn(e⁻) = 19 300 ÷ 96 500 = 0,2 mol\n\nAℓ → Aℓ³⁺ + 3 e⁻: 3 mol de e⁻ correspondem a 1 mol de Aℓ (27 g)\n\nn(Aℓ) = 0,2 ÷ 3 mol\n\nm(Aℓ) = (0,2 ÷ 3) · 27 = **1,8 g**",
+   "confianca": "alta",
+   "pendencia": "O número atômico (13) e a massa molar do alumínio (27 g/mol) não estão na questão; foram usados os valores da tabela periódica."
+  },
+  "0:14": {
+   "resposta": "**a)** O reagente 2 é a acrilamida (propenamida), que pertence à função **amida** (grupo –CO–NH₂).\n\nO reagente 1 (propenoato de potássio) é um sal obtido pela neutralização do **ácido propenoico** (ácido acrílico) por uma base como o KOH:\n\nH₂C = CH – COOH (a carboxila: carbono com C = O e ligado a OH)\n\nH₂C = CH – COOH + KOH → H₂C = CH – COO⁻K⁺ + H₂O\n\n**b)** Na adição, as duplas C = C se abrem e os monômeros se ligam em sequência:\n\n–[ CH₂ – CH(COO⁻K⁺) – CH₂ – CH(CONH₂) ]ₙ–\n\n(cadeia principal de carbonos; em carbonos alternados ficam pendurados um grupo –COO⁻K⁺ e um grupo –CONH₂)\n\nO copolímero absorve muita água porque tem grande quantidade de grupos **polares e iônicos** ao longo da cadeia. O carboxilato (–COO⁻) e o K⁺ fazem interações íon-dipolo com a água, e o grupo amida (–CONH₂) e o próprio carboxilato fazem **ligações de hidrogênio** com ela. As moléculas de água ficam retidas entre as cadeias, formando o gel.",
+   "confianca": "media",
+   "pendencia": "No enunciado, o reagente 2 aparece escrito como –COONH₂; a resposta o interpreta como a acrilamida (–CONH₂), monômero usado nesses hidrogéis."
+  },
+  "0:15": {
+   "resposta": "**a)** Pelo gráfico, a velocidade do ônibus passa de 10 m/s para 25 m/s em 10 s:\n\na = Δv ÷ Δt = (25 – 10) ÷ 10 = **1,5 m/s²**\n\nEquação horária (MUV, s₀ = 0, v₀ = 10 m/s), válida de 0 a 10 s:\n\ns = s₀ + v₀ · t + a · t² ÷ 2\n\n**s = 10t + 0,75t²** (SI)\n\n**b)** Em t = 10 s:\n\nÔnibus: s = 10 · 10 + 0,75 · 100 = 175 m\n\nAutomóvel (a = 30 ÷ 10 = 3 m/s², partindo do repouso): s = 3 · 10² ÷ 2 = 150 m\n\nO ônibus está 25 m à frente. Daí em diante, ambos em MU: automóvel a 30 m/s e ônibus a 25 m/s, aproximação relativa de 5 m/s:\n\nΔt = 25 ÷ 5 = 5 s → encontro em t = 15 s\n\nPosição do encontro: 150 + 30 · 5 = **300 m** das cabines (conferindo: 175 + 25 · 5 = 300 m).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Massa a partir do peso:\n\nm = P ÷ g = 3,3 × 10⁻² ÷ 10 = 3,3 × 10⁻³ kg\n\nDensidade do balão:\n\nd = m ÷ V = 3,3 × 10⁻³ ÷ 3,0 × 10⁻³ = 1,1 kg/m³\n\n**b)** O balão, encostado no teto e em repouso, sofre o empuxo do ar (para cima), o próprio peso (para baixo) e a força normal do teto (para baixo).\n\nE = d(ar) · V · g = 1,3 · 3,0 × 10⁻³ · 10 = 3,9 × 10⁻² N\n\nEquilíbrio: E = P + N\n\nN = 3,9 × 10⁻² − 3,3 × 10⁻² = 6,0 × 10⁻³ N\n\nO teto exerce sobre o balão uma força de **6,0 × 10⁻³ N**, vertical e para baixo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Altura de A em relação a P:\n\nEp = m · g · h → 3,2 × 10⁵ = 400 · 10 · h\n\nh = 3,2 × 10⁵ ÷ 4,0 × 10³ = 80 m\n\nVelocidade em P:\n\nEc = m · v² ÷ 2 → 1,8 × 10⁵ = 400 · v² ÷ 2\n\nv² = 900 → v = 30 m/s\n\n**b)** Nos 20 m de queda abaixo de A, o elevador parte do repouso.\n\nEnergia potencial perdida: m · g · Δh = 400 · 10 · 20 = 8,0 × 10⁴ J\n\nEnergia cinética ganha: 5,0 × 10⁴ J\n\nEnergia dissipada pelas forças de resistência: 8,0 × 10⁴ − 5,0 × 10⁴ = 3,0 × 10⁴ J\n\nPelo teorema da energia: |τ(resist.)| = F · d → 3,0 × 10⁴ = F · 20\n\nF = 1,5 × 10³ N\n\nA resultante média das forças de resistência nesse trecho vale **1,5 × 10³ N**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** As escalas são lineares: a 20 °C correspondem 40 °RP e cada 1,0 °C equivale a 1,5 °RP.\n\nDe 20 °C a 100 °C: Δθ(C) = 80 °C\n\nΔθ(RP) = 1,5 · 80 = 120 °RP\n\nθ(RP) = 40 + 120 = **160 °RP**\n\n**b)** Dilatação volumétrica do mercúrio:\n\nΔV = V₀ · γ · Δθ = 1,0 · 1,8 × 10⁻⁴ · 20\n\nΔV = 3,6 × 10⁻³ cm³\n\nDesprezando a dilatação do vidro, esse volume extra ocupa um trecho do capilar de seção A:\n\nΔV = A · Δℓ → Δℓ = 3,6 × 10⁻³ ÷ 1,2 × 10⁻³\n\nΔℓ = **3,0 cm** entre as marcas de 0 °C e 20 °C.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Na figura, o ângulo de 60° no meio A é medido entre o raio e a superfície de separação; logo, o ângulo de incidência (com a normal) é i = 90° − 60° = 30°. No meio B, o raio forma 45° com a superfície, então o ângulo de refração é r = 45°.\n\nLei de Snell: n(A) · sen 30° = n(B) · sen 45°\n\nn(A) · 0,50 = 2,00 · 0,71\n\nn(A) = 1,42 ÷ 0,50 ≈ **2,84**\n\n**b)** Na superfície B–C, o raio vai de um meio mais refringente (n = 2,00) para um menos refringente (n = 1,50), e o ângulo de incidência, medido com a normal, é 60°.\n\nÂngulo limite: sen L = n(C) ÷ n(B) = 1,50 ÷ 2,00 = 0,75 → L = 49°\n\nComo 60° > 49°, ocorre **reflexão total**: o raio não passa para o meio C e é inteiramente refletido de volta para o meio B, com ângulo de reflexão de 60°.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** E = F ÷ q = 1,6 × 10⁻¹⁴ ÷ 3,2 × 10⁻¹⁹\n\nE = 5,0 × 10⁴ N/C\n\nComo a carga é positiva, o campo elétrico tem a mesma orientação da força elétrica: **direção do eixo y, sentido positivo**, intensidade **5,0 × 10⁴ N/C**.\n\n**b)** A partícula está em MRU, então a resultante é nula: a força magnética deve ter 1,6 × 10⁻¹⁴ N, na direção y e no sentido negativo.\n\nF(mag) = q · v · B (v ⊥ B) → B = 1,6 × 10⁻¹⁴ ÷ (3,2 × 10⁻¹⁹ · 5,0 × 10⁴)\n\nB = 1,6 × 10⁻¹⁴ ÷ 1,6 × 10⁻¹⁴ = 1,0 T\n\n(equivale a B = E ÷ v = 5,0 × 10⁴ ÷ 5,0 × 10⁴ = 1,0 T)\n\nPara que v (sentido +x) produza força no sentido −y sobre carga positiva, pela regra da mão direita (x × z = −y), B deve estar na **direção do eixo z, sentido positivo** (para o lado indicado pela seta z da figura), com intensidade **1,0 T**.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

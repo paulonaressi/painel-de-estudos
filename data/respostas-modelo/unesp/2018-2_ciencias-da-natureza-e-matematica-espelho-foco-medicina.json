@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2018-2_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:13": {
+   "resposta": "**a)** Nas plantas vasculares, a seiva bruta (água e sais minerais) é conduzida pelo **xilema** (lenho) e a seiva elaborada (compostos orgânicos) pelo **floema** (líber). Em D. superba, o hadroma, que conduz seiva bruta, corresponde funcionalmente ao xilema, e o leptoma, que conduz seiva elaborada, corresponde ao floema; a diferença é que o hadroma não tem paredes lignificadas.\n\n**b)** Vantagem: a condução interna e mais eficiente de água, sais e nutrientes orgânicos permite que a planta distribua melhor esses recursos e alcance porte maior (D. superba é um dos maiores musgos), em vez de depender só da difusão de célula a célula. A lignina reforça e impermeabiliza as paredes dos vasos do xilema: dá rigidez e sustentação ao corpo da planta, permitindo grande porte, e impede o colapso dos vasos sob a tensão da coluna de água, tornando o transporte eficiente.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A técnica é a **clonagem** por transferência nuclear de célula somática (clonagem reprodutiva). Os dois filhotes são geneticamente idênticos (quanto ao DNA nuclear) ao **feto doador dos fibroblastos**, pois o núcleo das células reconstituídas veio dele; não são clones da doadora de óvulos nem da macaca que gestou os embriões.\n\n**b)** Porque as células têm DNA em dois locais. O DNA nuclear veio do fibroblasto do feto doador. Já o DNA mitocondrial veio principalmente do óvulo da macaca doadora: retirou-se só o núcleo do óvulo, e o citoplasma, com suas mitocôndrias (que têm DNA próprio), foi mantido na célula reconstituída. Assim, os filhotes têm DNA nuclear de um animal e DNA mitocondrial de outro (pode haver também algumas mitocôndrias do fibroblasto). A mãe de aluguel não contribui com DNA.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Os microrganismos pertencem ao Reino **Monera** (bactérias), o que se confirma por serem eliminados com antibiótico, que praticamente anula a mortalidade dos corais segundo o gráfico. A relação direta entre algas e microrganismos é de **comensalismo** (benéfica para as bactérias, indiferente para as algas): as bactérias aproveitam os polissacarídeos excedentes secretados pelas algas, sem prejudicá-las nem beneficiá-las.\n\n**b)** Os microrganismos são aeróbios e, alimentados pelos polissacarídeos em excesso, proliferam muito ao redor dos corais. Com intensa respiração aeróbia, consomem o oxigênio dissolvido na água junto aos corais, que morrem por falta de O₂ (hipóxia), embora as bactérias não os parasitem nem produzam toxinas. É, portanto, uma competição indireta pelo oxigênio.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** A alpaca é uma **mistura homogênea** (solução sólida): os metais estão uniformemente distribuídos e a liga apresenta uma única fase. Ela conduz corrente elétrica porque, na ligação metálica, os elétrons da camada de valência ficam livres (deslocalizados), formando um \"mar de elétrons\" entre os cátions; sob uma diferença de potencial, esses elétrons se movimentam de forma ordenada.\n\n**b)** Sim. A densidade da alpaca é uma média ponderada das densidades de seus componentes (Cu 8,9; Ni 8,9; Zn 7,1 g/cm³), portanto fica entre 7,1 e 8,9 g/cm³, abaixo de 8,9 g/cm³, pois contém zinco. Como a prata tem densidade 10,5 g/cm³, maior que a de todos os componentes da alpaca, medir a densidade do anel permite distinguir: valor próximo de 10,5 g/cm³ indica prata; valor menor que 8,9 g/cm³ indica alpaca.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** A etapa I é **endotérmica** (ΔH = +202 kJ/mol > 0: absorve calor) e a etapa II é **exotérmica** (ΔH = −99 kJ/mol < 0: libera calor).\n\n**b)** Etapa III: SO₃(g) + H₂O(g) → H₂SO₄(ℓ), proporção 1 mol : 1 mol.\n\nM(H₂SO₄) = 2·1 + 32 + 4·16 = 98 g/mol → 98 g = 1 mol de H₂SO₄\n\nM(SO₃) = 32 + 3·16 = 80 g/mol\n\n1 mol de H₂SO₄ exige 1 mol de SO₃ → massa mínima de SO₃ = 80 g",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Álcool etílico (etanol), C₂H₆O: dois carbonos ligados entre si, o primeiro com três hidrogênios e o segundo com dois hidrogênios e a hidroxila:\n\nH₃C–CH₂–OH (fórmula estrutural plana: H–C(H)(H)–C(H)(H)–O–H)\n\nÁcido acético (ácido etanoico), C₂H₄O₂: um grupo metila ligado à carboxila, cujo carbono tem dupla ligação com um oxigênio e ligação simples com o grupo OH:\n\nH₃C–COOH (H₃C–C(=O)–OH)\n\n**b)** Volume máximo de álcool (1,0% v/v) em 1,0 L = 1 000 mL:\n\nV = 0,010 × 1 000 mL = 10 mL de álcool\n\nMassa mínima de ácido acético (4,00 g / 100 mL) em 1 000 mL:\n\nm = 4,00 g × 10 = 40,0 g\n\nM(CH₃COOH) = 2·12 + 4·1 + 2·16 = 60 g/mol\n\nn = 40,0 ÷ 60 ≈ 0,67 mol de ácido acético",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Velocidade em unidades do SI:\n\nv = 2,88 × 10⁴ km/h ÷ 3,6 = 8,0 × 10³ m/s\n\nEnergia cinética:\n\nEc = m · v² / 2\nEc = 600 · (8,0 × 10³)² / 2\nEc = 300 · 6,4 × 10⁷\nEc = 1,92 × 10¹⁰ J\n\n**b)** Em movimento circular uniforme, a aceleração centrípeta é a = v · ω, com ω = 2π / T.\n\nT = 100 min = 6,0 × 10³ s\nω = 2 · 3 / 6,0 × 10³ = 1,0 × 10⁻³ rad/s\na = 8,0 × 10³ · 1,0 × 10⁻³\na = 8,0 m/s²\n\n(Equivalente: R = v · T / 2π = 8,0 × 10⁶ m e a = v² / R = 6,4 × 10⁷ / 8,0 × 10⁶ = 8,0 m/s².)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A carga é o produto da corrente pelo tempo de descarga:\n\ni = 4 000 mA = 4,0 A\nΔt = 1 h = 3 600 s\nQ = i · Δt = 4,0 · 3 600\nQ = 1,44 × 10⁴ C\n\n**b)** A energia armazenada é E = Q · U:\n\nE = 1,44 × 10⁴ · 5,0 = 7,2 × 10⁴ J\n\nDescarregando em 8,0 h:\n\nΔt = 8,0 · 3 600 = 2,88 × 10⁴ s\nP = E / Δt = 7,2 × 10⁴ / 2,88 × 10⁴\nP = 2,5 W",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**a)** Potência incidente no painel:\n\nP = 600 W/m² · 2,0 m² = 1 200 W\n\nEnergia incidente em 5,0 min (300 s):\n\nE = 1 200 · 300 = 3,6 × 10⁵ J\n\nRendimento:\n\nη = 1,8 × 10⁵ / 3,6 × 10⁵ = 0,50 → **50%**\n\n**b)** Calor necessário para aquecer a água:\n\nQútil = m · c · Δθ\nQútil = 250 · 4,0 × 10³ · (38 − 20)\nQútil = 1,8 × 10⁷ J\n\nComo só 90% do calor transferido é aproveitado:\n\n0,90 · Qtransf = 1,8 × 10⁷\nQtransf = 2,0 × 10⁷ J",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**a)** Em cada lado, o segmento lateral (AC ou BD = 10 cm) forma 6° com a vertical; sua projeção horizontal é o quanto AB excede CD de cada lado:\n\nx = 10 · sen 6° = 10 · 0,104 = 1,04 cm\n\nAB − CD = 2x = 2 · 1,04\nAB − CD = 2,08 cm\n\n**b)** A altura do trapézio é:\n\nh = 10 · cos 6° = 10 · 0,994 = 9,94 cm\n\nÁrea do trapézio:\n\nA = (AB + CD) · h / 2\n99,4 = (AB + CD) · 9,94 / 2\nAB + CD = 2 · 99,4 / 9,94\nAB + CD = 20 cm",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**a)** Período em dias:\n\nP = 1,99 · 365 = 726,35 dias\n\nPela fórmula P = 0,199 · α^(3/2):\n\nα^(3/2) = 726,35 / 0,199\nα^(3/2) = 3 650\n\n**b)** O eixo maior mede 32 milhões de km, então o semieixo maior é α = 16 (milhões de km).\n\nα^(3/2) = 16^(3/2) = (√16)³ = 4³ = 64\nP = 0,199 · 64\nP ≈ 12,7 dias (12,736 dias)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**a)** Pela figura, cada unidade dos eixos corresponde a 1 cm. Com O(0, 0), A(−4, 2) e B(6, 4):\n\nÁrea = |xA · yB − xB · yA| / 2\nÁrea = |(−4) · 4 − 6 · 2| / 2\nÁrea = |−16 − 12| / 2\nÁrea = 14 cm²\n\n**b)** O centro C(a, b) é equidistante de O, A e B.\n\nDe CO = CA: a² + b² = (a + 4)² + (b − 2)² → 8a − 4b + 20 = 0 → b = 2a + 5\n\nDe CO = CB: a² + b² = (a − 6)² + (b − 4)² → 12a + 8b = 52 → 3a + 2b = 13\n\nSubstituindo: 3a + 2(2a + 5) = 13 → 7a = 3 → a = 3/7\nb = 2 · 3/7 + 5 = 41/7\n\nCentro: **(3/7, 41/7)** ≈ (0,43; 5,86), o que é coerente com a figura (circunferência entre y = 0 e y ≈ 11,7).",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

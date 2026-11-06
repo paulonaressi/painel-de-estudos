@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2023_prova-ii-discursiva-caderno-de-questoes-e-respostas.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O analgésico de maior eficiência foi o **W**: sua curva é a que cai mais depressa e chega aos menores valores na escala de dor (cerca de 1,5 após 8 horas). A sensação de dor é interpretada no **encéfalo**, mais precisamente no **córtex cerebral** (área somatossensorial).\n\n**b)** O número **2**, que corresponde à fase de despolarização: os canais de sódio se abrem, o Na⁺ entra na célula e o potencial sobe de cerca de −55 mV (limiar) até +30 mV.\n\nSob efeito de um analgésico eficaz, a membrana do neurônio sensorial **não deve despolarizar até o limiar**: o potencial permanece próximo do repouso (cerca de −70 mV), por exemplo porque os canais de sódio ficam bloqueados. Assim não se forma o potencial de ação, o impulso não é conduzido ao sistema nervoso central e a dor não é percebida.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O n-hexano é um hidrocarboneto **apolar**, que só faz interações fracas de dipolo induzido. O ácido málico é muito **polar**: tem dois grupos carboxila e uma hidroxila, que fazem ligações de hidrogênio (por isso é muito solúvel em água). Como \"semelhante dissolve semelhante\", ele praticamente não se dissolve no solvente apolar.\n\nA outra função é **álcool** (hidroxila ligada a carbono saturado).\n\n**b)** Neutralização total (as duas carboxilas reagem; a hidroxila alcoólica não):\n\nHOOC–CH₂–CH(OH)–COOH + 2 NaOH → Na⁺ ⁻OOC–CH₂–CH(OH)–COO⁻ Na⁺ + 2 H₂O\n\nEm 100 mL de solução saturada:\n\nm = 592 g/L · 0,100 L = 59,2 g\n\nn(ácido) = 59,2 ÷ 134 ≈ 0,442 mol\n\nProporção 1 : 2 → n(NaOH) = 2 · 0,442 ≈ **0,88 mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** No trecho BC (de 6 s a 14 s), v cai de 20 m/s para 10 m/s:\n\na = Δv ÷ Δt = (10 − 20) ÷ (14 − 6) = −1,25 m/s² → intensidade **1,25 m/s²**\n\nPelo teorema da energia cinética, entre A e D:\n\nτ = m · (v_D² − v_A²) ÷ 2 = 1 000 · (10² − 20²) ÷ 2\n\n**τ = −1,5 × 10⁵ J**\n\n**b)** Em AB (velocidade constante de 20 m/s durante 6 s):\n\nL = 20 · 6 = 120 m\n\nEm CD, com 10 m/s: Δt = 120 ÷ 10 = 12 s → **t_D = 14 + 12 = 26 s**\n\nComprimento do arco BC = área sob o gráfico entre 6 s e 14 s:\n\nΔs = (20 + 10) · 8 ÷ 2 = 120 m\n\nO arco corresponde a um ângulo central de 60° = π/3 rad:\n\nΔs = R · π/3 → 120 = R · 3/3\n\n**R = 120 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Para B = 4:\n\nV = 0,836 · 4^1,5 = 0,836 · (√4)³ = 0,836 · 8 = **6,688 m/s**\n\nConversão: 1 nó = 1,852 km/h = 1,852 ÷ 3,6 m/s. Logo, V em nós = V em m/s · 3,6 ÷ 1,852:\n\nV(nós) = 0,836 · 3,6 ÷ 1,852 · B^1,5\n\n**V ≈ 1,625 · B^1,5** (V em nós)\n\n**b)** 29,26 = 0,836 · B^1,5\n\nB^1,5 = 29,26 ÷ 0,836 = 35\n\nB^(3/2) = 35 → B = 35^(2/3)\n\n**B = ∛(35²)** (n = 3, m = 2, p = 35), ou seja, B = ∛1225 ≈ 10,7.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O tema é a experiência de **famílias com filhos que fazem longas viagens de carro**, levando uma vida nômade por meses (como os Young, que viajam até seis meses por ano pelos EUA). Aspecto positivo: dá às crianças **maior consciência cultural** e uma experiência de aprendizado diferente, que, segundo o pai, leva a decisões melhores.\n\n**b)** Mudança na sociedade: **muito mais pessoas podem hoje trabalhar de forma flexível/remota** (também vale: após a pandemia, os pais ganharam experiência com ensino a distância e educação domiciliar).\n\nAspecto negativo, segundo LeVos: a **falta de rotina e de uma rede de apoio** mais ampla pode prejudicar as crianças, que, sobretudo pequenas, precisam de familiaridade, difícil de criar com mudanças de fuso horário, de ambiente e de contatos sociais.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

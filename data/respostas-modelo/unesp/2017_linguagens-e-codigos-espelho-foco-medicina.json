@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2017_linguagens-e-codigos-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:25": {
+   "resposta": "Aproximam-se tematicamente do soneto as citações **1 (Heráclito)** e **4 (Sêneca)**.\n\nO tema central do soneto é a mudança contínua e universal: \"todo o mundo é composto de mudança\", e tudo, inclusive o próprio ser, toma sempre novas qualidades. A citação de Heráclito expressa a mesma ideia de fluxo permanente: nem o rio nem o homem permanecem os mesmos. A de Sêneca afirma que tudo tem seu vaivém e se transforma no contrário, o que corresponde à visão camoniana de que as mudanças são imprevisíveis e muitas vezes contrárias ao que se esperava, como o doce canto convertido em choro.\n\nAs demais tratam de outros temas: a brevidade da vida (Horácio), a busca da alegria (Demócrito) e a morte como refúgio (Heródoto).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Os versos são \"O tempo cobre o chão de verde manto, / que já coberto foi de neve fria\". Eles se referem à passagem do **inverno** (a \"neve fria\") para a **primavera** (o \"verde manto\" da vegetação que renasce).\n\nPara o eu lírico, essa passagem **não é aprazível**. Embora na natureza a mudança represente renovação, o verso seguinte, \"e enfim converte em choro o doce canto\", mostra que, em sua vida, a mudança ocorre em sentido oposto: a alegria se transforma em tristeza. A renovação da natureza contrasta com a sua experiência, marcada pelas mágoas e pelas saudades, o que acentua seu desconsolo.",
+   "confianca": "media",
+   "pendencia": "A pergunta é interpretativa; uma leitura bem justificada que reconheça a renovação na natureza mas destaque o desencanto do eu lírico é a esperada."
+  },
+  "0:27": {
+   "resposta": "A elipse do verbo ocorre no verso \"e do bem – se algum houve –, as saudades\". O verbo omitido é **ficar** (\"ficam\"), já expresso no verso anterior: do mal ficam as mágoas; do bem **ficam** as saudades.\n\nA mudança que causa maior perplexidade ao eu lírico é a do último terceto: a própria mudança já não ocorre como costumava (\"que não se muda já como soía\"). Isso lhe faz \"mor espanto\", isto é, maior espanto, porque a mudança, que parecia a única lei constante do mundo, também mudou: em vez de alternar bem e mal, como a natureza que passa do inverno à primavera, ela agora só traz perdas para ele. Nem a lei da mudança é mais confiável.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A sinestesia ocorre no verso \"e enfim converte em choro o doce canto\". Em \"doce canto\", funde-se uma sensação do paladar (\"doce\") com uma percepção auditiva (\"canto\"): o som é qualificado por um atributo próprio do gosto, o que caracteriza a sinestesia.\n\nEm ordem direta, com o referente no lugar de \"que\": **\"O chão já foi coberto de neve fria.\"**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "O trecho em que a outra atividade se mostra mais evidente é \"a gente não vende mais nada\", que revela que Manolito trabalha no comércio (o armazém da família), vendendo mercadorias. A menção aos pedidos de \"Cocacola e Pepsi etc. e outras bebidas e cerveja e presunto\" reforça essa ideia.\n\nCorreção do trecho: **\"As lojas fecham mais tarde porque não escurece mais tão cedo.\"**\n\n(\"porque\" junto e sem acento, por ser conjunção explicativa/causal; \"escurece\" com c; \"tão cedo\" separado.)\n\nSem a redundância: **\"nós ficamos muito mais contentes com a chegada da primavera\"** (ou \"nós ficamos muito mais contentes com a primavera\").",
+   "confianca": "media",
+   "pendencia": "A leitura de trechos manuscritos da tira é difícil; outros trechos que mostrem o trabalho de Manolito no comércio também valem."
+  },
+  "0:30": {
+   "resposta": "Sim, há contradição. No início da cena, o Juiz diz não gostar de manter presos em casa porque eles podem fugir e depois dirão \"que o Juiz recebeu algum presente\", mostrando preocupação com a aparência de honestidade e com a acusação de corrupção. Logo em seguida, porém, aceita sem hesitar o cacho de bananas enviado por Manuel André de Sapiruruca, que o procura justamente por ser juiz, e ainda comenta que \"é bem bom ser Juiz de paz cá pela roça\", pois recebe com frequência galinhas, bananas e ovos. Assim, ele teme parecer corrupto, mas aceita presentes de quem pode depender de suas decisões, o que revela a hipocrisia e a falta de ética satirizadas por Martins Pena.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Participam da cena o **Juiz de paz**, o **preto** (escravo) que traz o cacho de bananas e a carta, e o **Escrivão**, que fala de dentro, anunciando sua chegada, no final.\n\nO pronome \"teu\" refere-se ao **preto** que entregou as bananas e a carta, a quem o Juiz dá um vintém de gorjeta para o tabaco.\n\nA carta tem a finalidade de **presentear o Juiz** com as bananas e, assim, conquistar sua simpatia e boa vontade. Por meio da linguagem bajuladora (\"seu venerador\"), Manuel André procura obter favores do Juiz, o que a peça apresenta de forma cômica como uma espécie de suborno disfarçado.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Não. Para o narrador, termos técnicos difíceis seriam palavras \"brilhantes e falsas\" que manchariam uma vida tão pobre e insignificante como a de Macabéa. A história, segundo ele, não tem técnica nem estilo e deve ser contada de modo simples, à altura da pobreza (material e existencial) da personagem; uma linguagem rebuscada seria inadequada e falsearia sua realidade.\n\nA frase que melhor explicita a inconsciência de Macabéa é **\"Nunca pensara em 'eu sou eu'.\"** Ela mostra que a personagem não tem consciência de si mesma, de sua identidade e de seu valor como indivíduo: vive como um \"acaso\", sem se perceber como sujeito, sem refletir sobre a própria existência.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A NCPE (Comissão Nacional para a Promoção da Igualdade) está preocupada com a **objetificação do corpo feminino na mídia**, inclusive na mídia on-line, isto é, com o tratamento da mulher como objeto, o que prejudica a igualdade de gênero.\n\nO pronunciamento foi motivado pelas **reclamações do público** recebidas pela Comissão nos últimos meses a respeito de vídeos e declarações que retratam as mulheres de maneira excessivamente sexualizada e que reforçam estereótipos de gênero negativos na sociedade.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Segundo o segundo parágrafo, a sexualização generalizada de mulheres e meninas na mídia reforça o **estereótipo** de que o valor da mulher é determinado por sua aparência física e de que seu papel principal é agradar aos homens.\n\nAs consequências são a manutenção de **relações desiguais** na sociedade, um impacto negativo direto sobre a **participação igualitária das mulheres** em todas as esferas da vida e o favorecimento do **assédio sexual**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "\"Teto de vidro\" significa uma **barreira invisível** que impede uma pessoa de alcançar maior sucesso, ou seja, de avançar além de certo ponto numa empresa ou de ser promovida a cargos mais altos de posição e poder.\n\nOs fatores frequentemente associados a esse fenômeno são a **idade**, o **gênero** e a **etnia** da pessoa. Ele ocorre com mais frequência no **ambiente de trabalho**, onde impede que certos grupos alcancem poder e sucesso equivalentes aos do grupo dominante; por exemplo, uma mulher mais qualificada que seus colegas homens é preterida nas promoções.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "No mundo empresarial, o \"teto de vidro\" se manifesta na ascensão das mulheres na hierarquia: em teoria nada as impede de ser promovidas, mas elas percebem que, quanto mais alto chegam na empresa, **menos promoções, aumentos salariais e oportunidades** recebem em relação ao que mereceriam. Em vez de alcançarem o mesmo sucesso dos colegas, são detidas por obstáculos invisíveis que as impedem de subir.\n\nEle é **difícil de identificar**, pois é uma forma de opressão velada, que não pode ser vista: não é uma barreira concreta e explícita, e persiste no ambiente de trabalho de maneiras muito sutis. Na prática, só se percebe pelos seus efeitos, como a desigualdade nas promoções e na remuneração.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

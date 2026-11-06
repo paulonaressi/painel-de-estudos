@@ -1,0 +1,47 @@
+{
+ "indice": "data/questoes/famema/2019_prova-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Nas duas substâncias a ligação intramolecular é **covalente** (compartilhamento de pares de elétrons entre átomos de não metais: C, H e O).\n\nO metanol tem ponto de ebulição maior por formar **ligações de hidrogênio** (pontes de hidrogênio) entre suas moléculas, graças ao grupo –OH; a propanona, sem H ligado a O, estabelece apenas interações dipolo-dipolo, mais fracas.\n\n**b)** Volume de cada líquido (considerando os volumes aditivos):\nV(metanol) = 31,6 g ÷ 0,79 g/mL = 40 mL\nV(propanona) = 85,8 g ÷ 0,78 g/mL = 110 mL\nV(total) = 40 + 110 = 150 mL = 0,150 L\n\nConcentração do metanol: C = 31,6 g ÷ 0,150 L ≈ **211 g/L** (210,7 g/L).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Na **etapa 1**: o sódio metálico, substância simples, passa do estado sólido diretamente para o gasoso, Na(s) → Na(g). Essa mudança de estado é a **sublimação**. (Na etapa 2 o Cl₂ não muda de estado: há quebra da ligação, formando átomos.)\n\n**b)** Pela Lei de Hess, X é a soma das variações de entalpia das cinco etapas:\n\nX = 107,3 + 122,0 + 495,8 + (−348,6) + (−787,0)\nX = 725,1 − 1 135,6\nX = **−410,5 kJ/mol**\n\nComo ΔH < 0 (a energia final é menor que a inicial e há liberação de calor), a reação de produção de NaCl(s) é **exotérmica**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O **NaOH** não terá sua massa alterada: é consumido na etapa 2 e regenerado na mesma quantidade na etapa 3 (2 mol consumidos e 2 mol formados), funcionando como um intermediário regenerado. A reação de neutralização ocorre na **etapa 2**, entre o ácido H₂CO₃ e a base NaOH, formando sal (Na₂CO₃) e água.\n\n**b)** Somando as três etapas, a reação global é:\nCO₂ + Ca(OH)₂ → CaCO₃ + H₂O\n\nA massa seca do filtro aumenta porque Ca(OH)₂ (74 g/mol) vira CaCO₃ (100 g/mol); a água formada não conta na massa seca. Aumento por mol de CO₂ absorvido: 100 − 74 = 26 g.\n\nn(CO₂) = 10 g ÷ 26 g/mol ≈ 0,385 mol\nV(CO₂) = 0,385 mol × 22,4 L/mol ≈ 8,6 L\n\nPorcentagem em volume: 8,6 L ÷ 448 L × 100 ≈ **1,9 %**\n\n(Se se considerasse que o aumento de 10 g corresponde só à massa de CO₂ retida, n = 10 ÷ 44 ≈ 0,227 mol, V ≈ 5,1 L e a porcentagem seria ≈ 1,1 %.)",
+   "confianca": "media",
+   "pendencia": "A interpretação do aumento de 10 g na massa seca muda o resultado: pela reação global (CaCO₃ no lugar de Ca(OH)₂) dá cerca de 1,9 %; tomando os 10 g como massa de CO₂ retida, cerca de 1,1 %. Justifique a hipótese que usar."
+  },
+  "0:4": {
+   "resposta": "**a)** Usando Kw = [H⁺]·[OH⁻] = 10⁻¹⁴:\n\nSolução A: [H⁺] = 10⁻⁸ mol/L → pH = 8 (> 7,6) → **azul**.\nSolução B: [OH⁻] = 10⁻⁹ mol/L → [H⁺] = 10⁻¹⁴ ÷ 10⁻⁹ = 10⁻⁵ mol/L → pH = 5 (< 6) → **amarela**.\nSolução C: [H⁺] = 10⁻⁷ mol/L → pH = 7 (entre 6 e 7,6) → **verde**.\n\nNa tabela: amarelo – B; verde – C; azul – A.\n\n**b)** O grupo –OH ligado diretamente ao anel aromático caracteriza a função **fenol**.\n\nO asterisco deve ser colocado no **carbono central sp³**, o que está ligado ao oxigênio do anel com enxofre, ao anel benzênico condensado e aos dois anéis aromáticos substituídos: é o único carbono com quatro ligações simples a grupos volumosos na molécula. Observação: os dois anéis com OH, Br, metil e isopropil têm os mesmos substituintes nas mesmas posições; a rigor, portanto, esse carbono não seria assimétrico, mas é o carbono que a questão aponta como quiral.",
+   "confianca": "media",
+   "pendencia": "Na estrutura dada, os dois anéis ligados ao carbono central são iguais, de modo que esse carbono, a rigor, não é quiral; a resposta marca o carbono central, que é o que o enunciado provavelmente pretende."
+  },
+  "0:5": {
+   "resposta": "**a)** O hormônio detectado no exame de gravidez é a **gonadotrofina coriônica humana (HCG)**, produzida pelo embrião (trofoblasto/placenta em formação). Normalmente é detectado na **urina** (testes de farmácia); também pode ser dosado no sangue (beta-HCG).\n\n**b)** Durante a gestação, a principal fonte de estrogênio e progesterona é a **placenta**. No parto a placenta é eliminada, e por isso os níveis desses hormônios esteroides caem.\n\nA **progesterona** (com o estrogênio) mantém o endométrio espesso e vascularizado e inibe as contrações do miométrio. Uma queda brusca e precoce desses hormônios leva à descamação do endométrio, onde o embrião está implantado, e ao aumento das contrações uterinas, o que provoca a expulsão do embrião ou feto: o aborto espontâneo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A muda (ecdise) é a **troca periódica do exoesqueleto** de quitina: a epiderme produz um novo exoesqueleto, ainda mole, sob o antigo, que se rompe e é abandonado; o animal então se expande antes de o novo exoesqueleto endurecer. A muda é controlada por hormônios (ecdisona).\n\nSua importância está no **crescimento**: o exoesqueleto rígido não acompanha o aumento de tamanho do corpo, e só durante a muda o animal pode crescer. Nos insetos, as mudas também acompanham as mudanças de forma da metamorfose.\n\n**b)** O número **4**, que marca a origem dos insetos, grupo em que os apêndices bucais apresentam enorme variação (mastigador, sugador, picador-sugador, lambedor, sugador maxilar etc.).\n\nEssa diversidade de aparelhos bucais permite explorar alimentos muito diferentes (folhas, néctar, sangue, seiva, outros animais), ocupando grande número de nichos ecológicos. Somam-se a isso o exoesqueleto (proteção contra desidratação), os apêndices articulados e especializados, as asas, o pequeno tamanho, a metamorfose (larvas e adultos sem competir pelo mesmo recurso) e a alta taxa reprodutiva, que explicam a grande biodiversidade do grupo.",
+   "confianca": "media",
+   "pendencia": "Se o critério for o surgimento das mandíbulas (Mandibulata), o ponto seria o 2; a resposta adota o 4, origem dos insetos, que têm a maior variedade de aparelhos bucais."
+  },
+  "0:7": {
+   "resposta": "**a)** Os agentes do sarampo e da poliomielite são **vírus**. Minimamente, os vírus são formados por um **ácido nucleico** (no caso desses dois vírus, RNA) envolto por uma cápsula de **proteínas** (capsídeo). Basta citar uma dessas moléculas: proteínas ou ácido nucleico.\n\n**b)** São ativados os **linfócitos B de memória** (células B de memória), formados na vacinação.\n\nPor já reconhecerem especificamente os antígenos do vírus, essas células respondem rapidamente ao novo contato: proliferam e se diferenciam em grande número de **plasmócitos**, que produzem anticorpos específicos em grande quantidade. É a resposta imune secundária, mais rápida e intensa que a primária, que neutraliza o vírus antes que a doença se manifeste.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** A molécula **3** (GAUGCAGUCGCGAGG). O RNAi é um RNA, e só a molécula 3 tem **uracila (U)**, base exclusiva do RNA; as moléculas 1 e 2 têm **timina (T)**, base exclusiva do DNA.\n\n**b)** O RNAi atua no **citoplasma** (citosol) da célula do inseto, onde se encontra o RNA mensageiro que seria traduzido pelos ribossomos.\n\nA técnica é chamada de silenciamento gênico porque o gene continua presente no DNA e é transcrito, mas o RNA mensageiro correspondente é destruído antes da tradução. Assim, a proteína codificada por esse gene não é produzida: o gene deixa de se expressar, ou seja, é \"silenciado\".",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

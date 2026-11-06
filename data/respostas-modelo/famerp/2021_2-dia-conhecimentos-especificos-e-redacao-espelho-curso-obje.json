@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/famerp/2021_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O mineral importante para a formação dos ossos é o **cálcio** (associado ao fosfato, que também é fornecido pelo leite). O componente proteico que confere imunidade passiva são os **anticorpos** (imunoglobulinas, principalmente IgA), produzidos pela mãe e transferidos ao bebê pelo leite.\n\n**b)** A sucção estimula receptores sensoriais do mamilo, que enviam impulsos nervosos ao hipotálamo. Em resposta, a **adeno-hipófise** passa a secretar mais **prolactina**, hormônio que estimula a produção de leite pelas glândulas mamárias, e a **neuro-hipófise** libera **ocitocina**, que provoca a contração das células que envolvem os alvéolos mamários, promovendo a ejeção (liberação) do leite. Quanto mais o bebê mama, maior o estímulo e maior a produção e a liberação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** As hemoglobinas ficam nas **hemácias** (eritrócitos). O gás oxigênio é usado na **respiração celular aeróbia**, nas mitocôndrias, como aceptor final de elétrons da cadeia respiratória.\n\n**b)** O valor provavelmente será **menor que 95%**. La Paz fica a grande altitude, onde o ar é rarefeito e a pressão parcial de O₂ é bem menor que ao nível do mar (Santos). Assim, menos oxigênio se difunde dos alvéolos para o sangue e a hemoglobina fica menos saturada. Nos primeiros dias o organismo ainda não está aclimatado: há aumento da frequência respiratória e cardíaca, mas o principal ajuste, o aumento da produção de hemácias estimulado pela eritropoetina, leva semanas para ocorrer.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Dois fatores bióticos que controlam uma população nativa: a **predação** (predadores naturais) e o **parasitismo**/doenças causadas por patógenos. Também valem a competição intra e interespecífica por alimento e abrigo.\n\n**b)** Ela teria mais dificuldade de capturar o **lagarto**. O órgão termorreceptor é a **fosseta loreal**, que detecta a radiação infravermelha (calor) emitida pelas presas, permitindo localizá-las no escuro. Roedor e filhote de ave são endotérmicos e mantêm a temperatura corporal alta (cerca de 37 °C a 40 °C), contrastando com o ambiente a 23 °C. O lagarto é ectotérmico: sua temperatura fica próxima da do ambiente, então ele quase não se destaca para a fosseta loreal.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Dois fatores que influenciam a atividade das enzimas proteicas: a **temperatura** e o **pH** do meio. (Também valem a concentração do substrato e da enzima e a presença de cofatores ou inibidores.)\n\n**b)** A enzima proteica exige duas etapas: a **transcrição**, em que o DNA é usado como molde para produzir o RNA mensageiro (que, em eucariotos, ainda é processado e levado ao citoplasma), e a **tradução**, em que os ribossomos leem o RNAm e encadeiam os aminoácidos, formando a proteína, que depois precisa se dobrar na forma ativa. A ribozima é o próprio RNA: basta a **transcrição** (e eventual processamento) para que ela exista, sem tradução. Por ter menos etapas, sua síntese é mais rápida.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A solução hipertônica é a **3**: as hemácias perderam água e ficaram murchas, enrugadas (crenadas). As modificações ocorreram por **osmose**, um tipo de transporte passivo de água através da membrana plasmática, do meio menos concentrado para o mais concentrado.\n\n**b)** A seta em 1 indica a **hemólise**: em meio hipotônico a hemácia ganha água por osmose até se romper. Lactobacilos são bactérias e possuem **parede celular** (de peptidoglicano) externa à membrana. A parede é rígida e resiste à pressão da água que entra, impedindo que a célula se rompa; ela apenas fica túrgida. As hemácias, que só têm membrana plasmática, não têm essa proteção.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O *Plasmodium vivax* causa a **malária** (forma terçã benigna). Na natureza, a transmissão mais comum é pela **picada da fêmea do mosquito *Anopheles*** infectada, que injeta as formas do parasita (esporozoítos) no sangue.\n\n**b)** A hemólise ocorre no momento **2**. Nesse ponto a temperatura, que estava normal (cerca de 36,5 °C), começa a subir bruscamente até cerca de 40 °C. O pico de febre é provocado pelo rompimento simultâneo das hemácias parasitadas, que libera merozoítos e substâncias tóxicas (pirogênicas) no sangue. Esse ciclo se repete a cada 48 horas, por isso os picos aparecem com esse intervalo; no momento 3 a temperatura está estável, fora da crise.",
+   "confianca": "media",
+   "pendencia": "No gráfico, a seta 1 também cai sobre um pico de febre; a resposta adota o momento 2, em que a temperatura começa a subir, como o instante da hemólise."
+  },
+  "0:7": {
+   "resposta": "**a)** A criança é do sexo masculino (XY) e recebeu o X da **mãe** (o pai lhe deu o Y). No X da criança estão os alelos a e **M**; o alelo dominante M veio, portanto, da mãe. O fenômeno é a **permutação (crossing-over)**: na meiose da mãe, que tem os alelos A e M em um X e a e m no outro, houve troca de segmentos entre os cromossomos homólogos, formando o cromossomo recombinante com a e M, que nenhum dos genitores possuía.\n\n**b)** A mãe tem os genes em ligação na posição cis (AM/am). Com distância de 26 UR, 26% dos ovócitos são recombinantes (Am e aM, 13% cada) e 74% são parentais (AM e am, 37% cada).\n\nOvócitos só com alelos recessivos (a m) = **37%**.\n\nA Segunda Lei de Mendel (segregação independente) vale para genes localizados em pares de cromossomos diferentes. Aqui os dois genes estão no **mesmo cromossomo** (X), ligados (*linkage*), e tendem a ser herdados juntos; por isso não se segregam de forma independente.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Os frutos **protegem as sementes** e ajudam na sua **dispersão** (por exemplo, atraindo animais que os comem e espalham as sementes). A estrutura da semente que origina a nova planta é o **embrião**.\n\n**b)** O carbono radioativo seria encontrado no **cipó-chumbo**. O carbono marcado é fixado pela árvore na fotossíntese e passa a fazer parte dos compostos orgânicos da seiva elaborada (floema). O cipó-chumbo é um **holoparasita**: não tem clorofila e não faz fotossíntese, por isso precisa retirar, com seus haustórios, a seiva elaborada da árvore, que é sua fonte de matéria orgânica e de energia. A erva-de-passarinho (hemiparasita) retira apenas seiva bruta, e a orquídea (epífita) só usa a árvore como apoio.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** O Fe₂O₃ (ferrugem) é um **óxido** (óxido básico) e o FeCℓ₃ (cloreto férrico) é um **sal**.\n\n**b)** Equação balanceada:\n\nFe₂O₃ + 6 HCℓ → 2 FeCℓ₃ + 3 H₂O\n\nSoma dos menores coeficientes inteiros: 1 + 6 + 2 + 3 = **12**\n\nM(FeCℓ₃) = 56 + 3 · 35,5 = 162,5 g/mol\n\nn(FeCℓ₃) = 0,65 ÷ 162,5 = 0,004 mol\n\nPela proporção 6 HCℓ : 2 FeCℓ₃ (3 : 1):\n\nn(HCℓ) = 3 · 0,004 = **0,012 mol** (1,2 · 10⁻² mol)",
+   "confianca": "alta",
+   "pendencia": "As massas molares (Fe = 56 g/mol, Cℓ = 35,5 g/mol) não estão na questão; foram usados os valores da tabela periódica."
+  },
+  "0:10": {
+   "resposta": "**a)** Após a abertura das válvulas, os gases se misturam completamente e formam uma mistura homogênea: o sistema é **monofásico** (uma fase). O gás que se difunde mais rápido é o **H₂**: na mesma pressão e temperatura, a densidade do gás é proporcional à massa molar, e o H₂ tem a menor (2 g/mol, contra 44 g/mol do CO₂ e 40 g/mol do Ar).\n\n**b)** Volume final (desprezando o volume dos tubos): 1,50 + 1,00 + 2,50 = 5,00 L. Com T constante, para o CO₂:\n\nP₁ · V₁ = P₂ · V₂\n\n3,00 · 1,50 = p(CO₂) · 5,00\n\np(CO₂) = **0,90 atm**\n\nNa mesma temperatura, o número de moléculas é proporcional a P · V:\n\nCO₂: 3,00 · 1,50 = 4,50 atm·L\n\nH₂: 0,8 · 1,00 = 0,80 atm·L\n\nAr: 1,25 · 2,50 = 3,125 atm·L\n\nOrdem crescente: **H₂ < Ar < CO₂**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O fenômeno é a **chuva ácida**.\n\nMassa de SO₂·H₂O em 1 L:\n\nm = 2,4 · 10⁻³ mol · 82 g/mol ≈ **0,197 g** (cerca de 0,2 g)\n\n**b)** O SO₂ entra na expressão pela pressão parcial e o SO₂·H₂O, pela concentração (a água líquida não entra):\n\n**K = [SO₂·H₂O] ÷ p(SO₂)**\n\np(SO₂) = [SO₂·H₂O] ÷ K = 2,4 · 10⁻³ ÷ 1,2 · 10⁻⁵ = 200 Pa\n\nComo 200 Pa está entre 160 e 330 Pa, a qualidade do ar era **moderada**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O eletrodo que sofre corrosão (oxidação) na eletrólise é o **ânodo** (polo positivo na eletrólise).\n\nFe(s) → Fe²⁺(aq) + 2 e⁻\n\n**b)** Hidrólise do cátion Fe²⁺, formando o hidróxido insolúvel:\n\nFe²⁺(aq) + 2 H₂O(ℓ) ⇌ Fe(OH)₂(s) + 2 H⁺(aq)\n\nA hidrólise do cátion libera íons H⁺ (H₃O⁺) no meio, então a solução fica com caráter **ácido**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Soda cáustica: **NaOH**.\n\nA cal virgem (CaO) é um **óxido básico**: em contato com a água forma hidróxido de cálcio, que se dissocia liberando íons OH⁻, o que torna o efluente alcalino.\n\nCaO + H₂O → Ca(OH)₂ → Ca²⁺ + 2 OH⁻\n\n**b)** pH = 12 → pOH = 14 – 12 = 2 → [OH⁻] = 10⁻² mol/L\n\nn(OH⁻) = 10⁻² mol/L · 200 L = 2 mol\n\nPela neutralização H⁺ + OH⁻ → H₂O, são necessários 2 mol de H⁺. Cada H₂CO₃ fornece 1 H⁺ na primeira ionização, e cada CO₂ forma 1 H₂CO₃:\n\nn(CO₂) = n(H₂CO₃) = n(H⁺) = 2 mol\n\nV(CO₂) = 2 mol · 25 L/mol = **50 L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** O reagente (2-metilpropan-2-ol) é um **álcool** (álcool terciário).\n\nUm isômero de posição é o **2-metilpropan-1-ol**, com a mesma cadeia e a hidroxila em outro carbono:\n\nH₃C – CH(CH₃) – CH₂ – OH\n\n**b)** No isobutileno, H₃C – C(CH₃) = CH₂, o carbono da dupla ligado a dois grupos metila é terciário e origina uma **cetona**; o carbono CH₂ é primário e vira CO₂. O composto orgânico formado é:\n\nH₃C – CO – CH₃ (a carbonila, C = O, fica no carbono central)\n\nNome: **propanona** (acetona).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Duração da viagem:\n\nΔt = 200 dias · 24 h/dia = **4 800 h**\n\nVelocidade média:\n\nv = Δs ÷ Δt = 4,80 · 10⁸ km ÷ 4 800 h = **1,0 · 10⁵ km/h**\n\n**b)** A máxima aproximação ocorre quando Terra e Marte ficam alinhados do mesmo lado do Sol. Entre dois alinhamentos, a Terra (mais rápida) dá exatamente uma volta a mais que Marte:\n\nΔt/T(Terra) – Δt/T(Marte) = 1\n\nΔt · (1/1 – 1/1,9) = 1\n\nΔt · (0,9/1,9) = 1 → Δt = 1,9 ÷ 0,9 ≈ 2,11 anos\n\nEm meses: 2,11 · 12 ≈ **25,3 meses** (cerca de 25 meses)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** v = 144 km/h ÷ 3,6 = 40 m/s\n\nEc = m · v² ÷ 2 = 2 500 · 40² ÷ 2 = 2 500 · 1 600 ÷ 2\n\nEc = **2,0 · 10⁶ J**\n\n**b)** A gravidade na superfície é g = G · M ÷ R². Para Marte, com M = M(Terra)/10 e R = R(Terra)/2:\n\ng(Marte) = G · (M/10) ÷ (R/2)² = (4/10) · g(Terra) = 0,4 · 10 = 4 m/s²\n\nEnergia potencial a 5,0 m da superfície:\n\nEp = m · g · h = 1,8 · 4 · 5,0 = **36 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** T = –23 + 273 = 250 K; P = 500 Pa; n = 1 mol\n\nP · V = n · R · T\n\nV = n · R · T ÷ P = 1 · 8,3 · 250 ÷ 500\n\nV = **4,15 m³** (≈ 4,2 m³)\n\n**b)** Área inicial: A₀ = 8,0 · 13 = 104 cm²\n\nCoeficiente de dilatação superficial: β = 2α = 4,4 · 10⁻⁵ °C⁻¹\n\nΔT = –23 – 27 = –50 °C\n\nΔA = A₀ · β · ΔT = 104 · 4,4 · 10⁻⁵ · (–50) ≈ –0,229 cm²\n\nA área diminui cerca de **0,23 cm²**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** O atrito é a única força horizontal, então ele é a resultante:\n\nF(at) = m · a = 0,80 · 2,0 = **1,6 N**\n\nNa superfície horizontal, a normal é igual ao peso: N = m · g = 0,80 · 10 = 8,0 N\n\nμ = F(at) ÷ N = 1,6 ÷ 8,0 = **0,20**\n\n**b)** Na colisão a quantidade de movimento do sistema se conserva. Antes: só A, com 8,0 kg·m/s no sentido +x. Depois: A está parada.\n\nEsfera B (6,0 kg·m/s, inclinada θ abaixo do eixo x):\n\nQ(Bx) = 6,0 · cos θ = 6,0 · 0,8 = 4,8 kg·m/s\n\nQ(By) = –6,0 · sen θ = –6,0 · 0,6 = –3,6 kg·m/s\n\nEsfera C:\n\nEixo x: 8,0 = 4,8 + Q(Cx) → **Q(Cx) = 3,2 kg·m/s**\n\nEixo y: 0 = –3,6 + Q(Cy) → **Q(Cy) = 3,6 kg·m/s** (sentido positivo de y)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** O **raio 1**, que incide paralelo ao eixo principal, reflete-se passando pelo **foco F**. O **raio 2**, que incide passando pelo **centro de curvatura C**, incide perpendicularmente à superfície e reflete-se **sobre si mesmo**, voltando pela mesma reta e passando de novo por C. Os dois raios refletidos se cruzam abaixo do eixo, entre C e F, onde se forma a imagem real e invertida.\n\n**b)** f = 30 cm; p = 90 cm; o = 6,0 cm\n\n1/f = 1/p + 1/p'\n\n1/30 = 1/90 + 1/p' → 1/p' = 3/90 – 1/90 = 2/90\n\np' = **45 cm** (imagem real, na frente do espelho)\n\ni ÷ o = –p' ÷ p → i ÷ 6,0 = –45 ÷ 90\n\ni = –3,0 cm → altura da imagem de **3,0 cm** (o sinal negativo indica imagem invertida).",
+   "confianca": "alta",
+   "pendencia": "O item a pede o esboço na figura da folha de resposta; aqui as trajetórias estão descritas em palavras."
+  },
+  "0:20": {
+   "resposta": "**a)** As baterias são ideais, então a ddp nos terminais da associação é igual à soma das fem, que vale a ddp no condutor:\n\n4 · ε = 12 V → **ε = 3,0 V** em cada bateria\n\nEm série, a mesma corrente atravessa todos os elementos: **1,5 A** em cada bateria.\n\n**b)** Resistência do condutor (1ª lei de Ohm):\n\nR = U ÷ i = 12 ÷ 1,5 = **8,0 Ω**\n\nResistividade (2ª lei de Ohm):\n\nR = ρ · L ÷ A → ρ = R · A ÷ L\n\nρ = 8,0 · 1,2 · 10⁻⁷ ÷ 2,0 = **4,8 · 10⁻⁷ Ω·m**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

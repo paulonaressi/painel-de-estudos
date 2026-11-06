@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2018_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A relação é de **herbivoria**: a lagarta do bicho-da-seda se alimenta das folhas da amoreira, sendo beneficiada, enquanto a planta é prejudicada. Os alcaloides são uma **defesa química** da amoreira: tóxicos para a maioria das lagartas, reduzem o ataque de herbívoros às suas folhas.\n\n**b)** Os alcaloides funcionaram como **agente de seleção natural**. Na população ancestral de lagartas havia variabilidade genética, originada por mutações; as que, por acaso, toleravam essas substâncias sobreviviam, comiam as folhas sem concorrência e deixavam mais descendentes, transmitindo essa característica. Ao longo das gerações, a resistência se tornou predominante. Ao mesmo tempo, a planta foi selecionada para defesas mais eficientes, num processo de **coevolução** (a \"corrida armamentista\").",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A doença é a **ascaridíase** (ascaridiose), causada pelo *Ascaris lumbricoides*. O verme pertence ao grupo dos **nematódeos** (filo Nematoda, os asquelmintos).\n\n**b)** Os ovos ingeridos eclodem no intestino e as larvas atravessam a parede intestinal, chegam ao sangue e são levadas aos **pulmões**, onde se desenvolvem (o que causa a infecção pulmonar). Depois sobem pelos brônquios e pela traqueia até a faringe. A **tosse** ajuda a levar as larvas até a faringe, de onde são deglutidas e voltam ao intestino delgado, onde se tornam vermes adultos e se reproduzem. Sem esse retorno, o ciclo não se completaria.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O sistema 1 é a **cadeia respiratória** (cadeia transportadora de elétrons, ligada à fosforilação oxidativa): os elétrons do NADH passam por uma série de transportadores, a energia liberada bombeia H⁺, e o aceptor final é o O₂. Ocorre na **mitocôndria**, nas cristas mitocondriais (membrana interna).\n\n**b)** O sistema 2 faz parte da **fotossíntese**, na etapa fotoquímica (fase clara), que ocorre nos tilacoides do cloroplasto: a água é quebrada (fotólise), libera O₂, e os elétrons energizados pela luz reduzem o NADP⁺ a NADPH. Os elétrons do NADPH são usados no ciclo de Calvin para produzir **glicose** a partir de CO₂. Essa glicose, degradada na glicólise e no ciclo de Krebs, transfere elétrons ao NAD⁺, formando o **NADH**, que leva os elétrons à cadeia respiratória da mitocôndria. Assim, a energia passa do sistema 2 ao sistema 1 por meio da matéria orgânica produzida na fotossíntese.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A doença é o **diabetes mellitus tipo 1** (insulinodependente), uma doença autoimune. Com a destruição das células-beta das ilhotas pancreáticas, deixa de ser produzida a **insulina**.\n\n**b)** Sem insulina, as células do fígado deixam de captar glicose e de armazená-la, ou seja, deixam de produzir **glicogênio** (glicogênese); por isso a glicose se acumula no sangue. Na terapia gênica, os vírus modificados funcionam como **vetores**: levam o gene de interesse para dentro das células do fígado, que passam a expressá-lo e a produzir a molécula que protege as células-beta.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A bomba substitui o **ventrículo esquerdo**. Ela recebe sangue arterial (oxigenado) do coração e o impulsiona para a **artéria aorta**, que o distribui para o corpo (circulação sistêmica), exatamente a função do ventrículo esquerdo.\n\n**b)** A peça análoga à valva entre duas câmaras é a **peça 2**, por onde o sangue entra na câmara de bombeamento; ela corresponde à **valva mitral** (bicúspide), entre o átrio e o ventrículo esquerdos. A peça 1, de saída, corresponde à valva aórtica. A valva mitral abre-se na diástole, deixando o sangue passar do átrio para o ventrículo, e fecha-se na sístole ventricular, **impedindo o refluxo** de sangue para o átrio, de modo que ele siga só para a aorta.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O mês ideal é **novembro**. Uma planta de dia longo floresce quando o período de claro é igual ou maior que o fotoperíodo crítico (15 h). Pelo gráfico, só em novembro o dia passa de 15 h (cerca de 16,5 h); em setembro (12 h) e outubro (cerca de 14,5 h) fica abaixo do crítico.\n\n**b)** Como breves períodos de luz durante a noite induzem a floração, conclui-se que o fator determinante é a **duração do período contínuo de escuro**, e não a do período de claro. A planta \"mede\" a noite (por meio do fitocromo): a interrupção divide a noite longa em dois períodos curtos de escuro, e a planta de dia longo, que na verdade é uma planta de **noite curta**, passa a florescer.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Os **neurônios A** controlam a contração do diafragma: eles disparam durante a inspiração, ao mesmo tempo que o nervo frênico. Com a contração, o diafragma desce, o volume da caixa torácica aumenta e a **pressão no interior dos pulmões diminui**, ficando menor que a atmosférica, o que faz o ar entrar.\n\n**b)** O aumento da pressão parcial de CO₂ eleva a formação de ácido carbônico (CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻), aumentando a concentração de H⁺: o **pH do sangue diminui**. Quimiorreceptores (no bulbo e nas artérias) detectam essa queda e estimulam o centro respiratório: os neurônios A e B passam a **disparar com maior frequência e a se alternar mais rapidamente**, tornando a respiração mais rápida e profunda, o que elimina o excesso de CO₂ e normaliza o pH.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Paula, com síndrome de Turner (45,X), tem **2n = 45** cromossomos. Marisa, com triplo X (47,XXX), tem **2n = 47** cromossomos.\n\n**b)** O zigoto era normal, 46,XX. Numa das primeiras **mitoses** do embrião ocorreu uma **não disjunção** das cromátides-irmãs de um cromossomo X: as duas cromátides foram para a mesma célula-filha. Uma célula ficou com três cromossomos X (47,XXX) e a outra com apenas um (45,X). Em seguida, o grupo de células se separou em dois embriões (gemelaridade monozigótica): o que veio da célula 45,X originou Paula, e o que veio da célula 47,XXX originou Marisa.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A rivastigmina apresenta **isomeria óptica**. Ela tem um **carbono quiral** (assimétrico): o carbono ligado ao anel benzênico, que tem quatro ligantes diferentes (o anel, o grupo –N(CH₃)₂, o –CH₃ e o –H). Por isso a molécula não é sobreponível à sua imagem especular e existem dois enantiômeros; a cunha no desenho indica que se representa um deles.\n\n**b)** A hidrólise do éster acetilcolina produz ácido acético e colina:\n\nCH₃–COOH (ácido etanoico)\n\nHO–CH₂–CH₂–N⁺(CH₃)₃ (colina)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** **pH > 7.** O íon bicarbonato, vindo de um ácido fraco (H₂CO₃), sofre hidrólise e libera OH⁻:\nHCO₃⁻ + H₂O ⇌ H₂CO₃ + OH⁻\nO Na⁺, de base forte, não hidrolisa. A solução fica básica.\n\n**b)** A perda de massa corresponde aos gases liberados (H₂O + CO₂):\nΔm = 4,200 − 2,805 = 1,395 g\nPela equação, 2 mol de NaHCO₃ (2 × 84 = 168 g) liberam 1 mol de H₂O + 1 mol de CO₂ (18 + 44 = 62 g).\nm(NaHCO₃) = 1,395 × 168 ÷ 62 = 3,780 g\nPureza = 3,780 ÷ 4,200 × 100%\n**Pureza = 90%**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Combustão completa do metano:\n\nCH₄(g) + 2 O₂(g) → CO₂(g) + 2 H₂O\n\nComo ΔH° = −800 kJ/mol (ΔH < 0), a reação libera calor: é **exotérmica**.\n\n**b)** Energia liberada por 1,2 t de propano:\n\nm(C₃H₈) = 1,2 × 10⁶ g\n\nn(C₃H₈) = 1,2 × 10⁶ ÷ 44 ≈ 2,73 × 10⁴ mol\n\nE = 2,73 × 10⁴ mol · 2 200 kJ/mol = 6,0 × 10⁷ kJ\n\nQuantidade de metano que libera a mesma energia:\n\nn(CH₄) = 6,0 × 10⁷ ÷ 800 = 7,5 × 10⁴ mol\n\nm(CH₄) = 7,5 × 10⁴ · 16 = 1,2 × 10⁶ g\n\nComo o biogás tem 60% em massa de metano:\n\nm(biogás) = 1,2 × 10⁶ ÷ 0,60 = 2,0 × 10⁶ g = **2,0 t de biogás**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** A oxidação ocorre no **compartimento 1**, onde o lítio metálico perde elétrons (Li → Li⁺ + e⁻); ele é o ânodo, pois o Li⁺/Li tem o menor potencial de redução. Pelo circuito externo (passando pelo marca-passo), os elétrons fluem **do compartimento 1 para o compartimento 2**, onde o I₂ é reduzido (cátodo).\n\n**b)** Multiplicando a semirreação do lítio por 2 e somando:\n\n2 Li → 2 Li⁺ + 2 e⁻\n\nI₂ + 2 e⁻ → 2 I⁻\n\nEquação global: 2 Li + I₂ → 2 Li⁺ + 2 I⁻ (ou 2 Li + I₂ → 2 LiI)\n\nΔE° = E°(cátodo) − E°(ânodo) = +0,54 − (−3,05) = **+3,59 V**\n\n(O potencial não se multiplica pelo coeficiente.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Período T = 2 s, logo:\n\nf = 1 ÷ T = 0,5 Hz = 0,5 rotação por segundo\n\nf = 0,5 · 60 = **30 rpm**\n\n**b)** Sem atrito, atuam no bloco o peso (vertical) e a normal, dirigida para o centro O da semiesfera, formando o ângulo α com a vertical. O raio da trajetória é r = R · sen α.\n\nVertical: N · cos α = m · g\n\nHorizontal (resultante centrípeta): N · sen α = m · ω² · R · sen α → N = m · ω² · R\n\nDividindo: cos α = g ÷ (ω² · R)\n\nω = 2π ÷ T = π rad/s → ω² = π² = 10 rad²/s²\n\ncos α = 10 ÷ (10 · 2) = 0,5\n\n**α = 60°**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Etapa 1: 2 L de água → m₁ = 2 kg, aquecida de 20 °C a 70 °C em 250 s.\n\nQ₁ = m₁ · c · Δθ = 2 · 4 × 10³ · (70 − 20) = 4,0 × 10⁵ J\n\nP = Q₁ ÷ Δt = 4,0 × 10⁵ ÷ 250 = **1,6 × 10³ W (1 600 W)**\n\n**b)** Etapa 2: toda a água (2 kg + m₂) vai de 40 °C a 80 °C em 500 s, com a mesma potência.\n\nQ₂ = P · Δt = 1 600 · 500 = 8,0 × 10⁵ J\n\nQ₂ = (2 + m₂) · c · Δθ → 8,0 × 10⁵ = (2 + m₂) · 4 × 10³ · 40\n\n2 + m₂ = 8,0 × 10⁵ ÷ 1,6 × 10⁵ = 5\n\n**m₂ = 3 kg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** v = c ÷ n, então v(ar) = c ÷ 1,0 e v(vidro) = c ÷ 1,5.\n\nv(vidro) ÷ v(ar) = 1,0 ÷ 1,5 ≈ 0,667\n\nRedução = 1 − 0,667 ≈ 0,333 → **cerca de 33%** (um terço).\n\n**b)** O raio entra perpendicularmente em AB, sem desvio, e desce na vertical até a face AC, na parte imersa na água. Como a normal a AC forma com a vertical o mesmo ângulo θ que AC forma com AB, o ângulo de incidência em AC é θ. Para que toda a luz siga para BC, deve haver **reflexão total** em AC (vidro → água):\n\nsen θ ≥ n(água) ÷ n(vidro) = 1,3 ÷ 1,5 ≈ 0,867\n\nPela tabela, sen 60° = 0,87 é o menor valor que atende à condição, logo **θ mínimo = 60°**.\n\nVerificação: com θ = 60°, o raio refletido atinge BC com incidência de 30°, menor que o ângulo limite vidro–água, e emerge por BC.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** A resistência máxima (4 Ω) corresponde ao maior comprimento de fio percorrido pela corrente. Pela 2ª lei de Ohm:\n\nR = ρ · L ÷ A → L = R · A ÷ ρ\n\nA = 0,75 mm² = 0,75 × 10⁻⁶ m²\n\nL = 4 · 0,75 × 10⁻⁶ ÷ 1,2 × 10⁻⁷ = **25 m**\n\n**b)** Com R = 0,4 Ω (mínima), pela lei de Pouillet:\n\ni = E ÷ (R + r) = 2,1 ÷ (0,4 + 0,2) = 3,5 A\n\nP = R · i² = 0,4 · 3,5² = 0,4 · 12,25 = **4,9 W**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Assemelham-se porque ambas são estados de **não saber**. Diferenciam-se pela consciência dessa falta: na ignorância, não sabemos que não sabemos, e as crenças que funcionam no dia a dia nos dão segurança, a ponto de acharmos que sabemos tudo; na incerteza, **descobrimos que somos ignorantes**, percebemos falhas nas crenças que nos orientavam e ficamos tomados por dúvida, perplexidade e insegurança.\n\n**b)** A novidade provoca espanto e admiração, porque as crenças e ideias que possuímos não dão conta dela. Esse choque nos faz perceber a própria ignorância e desperta o desejo de saber o que não sabíamos e de superar a incerteza. Esse desejo põe o pensamento em movimento: é a disposição chamada pela autora de **busca da verdade**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** \"Temos dúvidas e ficamos cheios de perplexidade, **de modo que** somos tomados pela insegurança.\"\n\nA locução conjuntiva consecutiva \"de modo que\" faz a última oração exprimir consequência. Também valem \"de sorte que\", \"de maneira que\" ou a estrutura \"Temos tantas dúvidas e ficamos tão cheios de perplexidade que somos tomados pela insegurança\".\n\n**b)** \"O espanto e a admiração nos fazem querer saber o que não sabemos, **para que** criemos o desejo de superar a incerteza.\"\n\nA locução final \"para que\" (ou \"a fim de que\") dá à oração do verbo \"criar\" valor de finalidade; o verbo passa ao subjuntivo. Outras construções corretas, como \"…a fim de que se crie em nós o desejo de superar a incerteza\", também são aceitáveis.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Na figura do anão coexistem a **pequenez infantil** e a **velhice/malícia adulta**: o narrador é uma criança de pouca idade, pequena, mas seu rosto parece velho, marcado por sulcos, com um sorriso \"pérfido\" e olhos que espreitam, cheios de \"segunda intenção\". É ao mesmo tempo menino e não menino, inocente pelo tamanho e já corrompido na expressão — daí a \"monstruosidade insubordinada\".\n\n**b)** O retrato de cabelos longos mostrava um menino de olhar manso, rosto franco, sem marcas, numa \"promessa de alma sem maldade\". O engano grave era essa promessa de pureza e bondade para o futuro: o menino não se tornaria o homem inocente que a imagem anunciava, tanto que o narrador adulto, já \"bem homem\", destrói o retrato com vergonha. Leituras que associem o engano também à imagem delicada, quase feminina, dada pelos cachos, contrastando com a masculinidade adulta, podem ser aceitas se bem justificadas.",
+   "confianca": "media",
+   "pendencia": "Questão de interpretação: o item b admite leituras diferentes da proposta, desde que apoiadas no texto."
+  },
+  "0:20": {
+   "resposta": "**a)** Derivação sufixal: **\"feiura\"** (feio + -ura); também servem \"tamanhinho\" (tamanho + -inho), \"brincadeiras\" (brincar + -deira) e \"recordação\" (recordar + -ção).\n\nDerivação prefixal: **\"recomecei\"** (re- + começar); também se aceita \"desemburrar\" (des- + emburrar).\n\n**b)** Trecho com desvio: \"**Me lembro** de uma fotografia minha desse tempo\". A norma-padrão não admite pronome oblíquo átono no início do período.\n\nReescrita: \"**Lembro-me** de uma fotografia minha desse tempo\" (ênclise).",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

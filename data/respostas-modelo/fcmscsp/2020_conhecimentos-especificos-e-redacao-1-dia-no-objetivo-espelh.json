@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2020_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Na menstruação é eliminado o **endométrio** (sua camada funcional), tecido que reveste internamente o útero e que se espessa e se vasculariza a cada ciclo; ele descama, com sangue, quando caem os níveis de progesterona e estrógeno. Nas cólicas, a musculatura uterina (o **miométrio**, de músculo liso) sofre **contrações** intensas, estimuladas sobretudo por prostaglandinas, que ajudam a expelir o endométrio descamado e podem reduzir o fluxo sanguíneo local, causando dor.\n\n**b)** O hormônio é o **FSH (hormônio folículo-estimulante)**, produzido pela adeno-hipófise, que estimula o desenvolvimento dos folículos ovarianos e o amadurecimento dos ovócitos (com a participação do LH na ovulação). O transplante entre mãe e filha tem maior viabilidade porque elas são **geneticamente aparentadas**: a filha herdou metade dos genes da mãe, inclusive dos genes do sistema **HLA (MHC)**, que determinam as proteínas de superfície reconhecidas pelo sistema imune. Com maior compatibilidade, o risco de **rejeição** do órgão é menor.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** As bases nitrogenadas complementares se unem por **ligações (pontes) de hidrogênio**: duas entre adenina e timina e três entre citosina e guanina. A fita complementar de 3'ATACTC5' é antiparalela e segue os pares A–T e C–G:\n\n**5'TATGAG3'**\n\n**b)** Porque a tradução segue o **código genético**: cada **códon** (trinca de bases) do RNA mensageiro especifica sempre o mesmo aminoácido, trazido pelo RNA transportador com o anticódon complementar. Os vários ribossomos de um polirribossomo leem a mesma molécula de RNAm, na mesma sequência de códons, a partir do mesmo códon de início (AUG); assim, todas as cadeias têm o mesmo número, tipo e sequência de aminoácidos. O término é indicado por um **códon de parada (terminação)**: UAA, UAG ou UGA, que não codificam aminoácido e provocam a liberação da proteína.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Exemplos de ciclostomados: a **lampreia** ou a **feiticeira** (peixe-bruxa). Os nós (círculos) representam os **ancestrais comuns** a partir dos quais os grupos divergiram: cada nó indica um evento de ramificação (especiação), em que uma linhagem ancestral originou duas linhagens descendentes.\n\n**b)** O número **2**: a mandíbula surge depois da separação dos ciclostomados (agnatos, sem mandíbula) e está presente nos peixes e em todos os grupos que se ramificam depois. A principal vantagem adaptativa foi permitir **apreender, cortar e triturar o alimento**, possibilitando a predação ativa de presas maiores e a exploração de novas fontes de alimento, o que favoreceu a diversificação dos vertebrados mandibulados (gnatostomados).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Nos fungos, o polissacarídeo de reserva é o **glicogênio**. Nas algas verdes, é o **amido**.\n\n**b)** No líquen, as **algas** são os únicos organismos fotossintetizantes: produzem a matéria orgânica (açúcares) da qual o fungo depende, já que este é heterótrofo. No escuro prolongado, as algas não fazem fotossíntese, consomem as próprias reservas na respiração e acabam morrendo; sem receber matéria orgânica, o fungo também deixa de ser nutrido. Assim, toda a associação é prejudicada e o líquen pode morrer.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Pelo texto, a classificação está relacionada à **mioglobina**: as fibras tipo I, ricas nela, são vermelhas (de contração lenta), e as tipo II, pobres nela, são brancas (de contração rápida). Em fisiologia, a distinção também se baseia na isoforma da **miosina** (velocidade de sua atividade ATPásica). A mioglobina é um pigmento que **armazena oxigênio** no músculo e o fornece às mitocôndrias para a respiração aeróbia, garantindo produção contínua de ATP e resistência à fadiga em atividades prolongadas.\n\n**b)** O **atleta 3**, com cerca de 80% de fibras tipo II, adequadas a esforços rápidos, intensos e de curta duração. Essas fibras formam ATP rapidamente sem depender do oxigênio: pela **fosfocreatina** (creatina-fosfato), que transfere fosfato ao ADP quase instantaneamente, e pela **glicólise anaeróbia (fermentação láctica)**, que degrada a glicose (do glicogênio muscular) a ácido láctico, gerando ATP com rapidez, embora com baixo rendimento.",
+   "confianca": "media",
+   "pendencia": "No item a, a banca pode ter esperado a mioglobina (fibras vermelhas e brancas, como sugere o texto) ou a miosina (velocidade de contração); a resposta cita as duas."
+  },
+  "0:6": {
+   "resposta": "**a)** O nitrogênio do ar está na forma de gás nitrogênio, **N₂**. O grupo de substâncias orgânicas nitrogenadas que atua na hereditariedade é o dos **ácidos nucleicos** (DNA e RNA), cujos nucleotídeos têm bases nitrogenadas.\n\n**b)** O número mínimo é **dois seres vivos**: a bactéria fixadora de nitrogênio e a soja. A soja é uma leguminosa que vive em mutualismo com bactérias do gênero *Rhizobium*, presentes em nódulos de suas raízes; essas bactérias transformam o N₂ do ar em amônia (NH₃), que é usada diretamente pela planta para fabricar aminoácidos e proteínas. Ao comer a soja, o ser humano obtém esse nitrogênio sem que ele precise passar por bactérias nitrificantes do solo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** No \"teste do pezinho\" coleta-se **sangue**, algumas gotas obtidas por punção no calcanhar do recém-nascido. A galactose é encontrada no **leite** (e em seus derivados), pois faz parte da lactose, dissacarídeo formado por glicose e galactose.\n\n**b)** As duas doenças são recessivas, pois a filha afetada tem pais normais. Sendo **a** o alelo da galactosemia e **f** o da fenilcetonúria, a mulher é **aaff**. Os pais, normais, são duplo-heterozigotos (AaFf).\n\nO irmão é normal para as duas doenças. Para cada gene, entre os normais, a chance de ser heterozigoto é 2/3 (AA : Aa : Aa).\n\nP(portador dos dois alelos) = 2/3 × 2/3 = **4/9** (≈ 44%), já que os genes segregam-se independentemente.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** A **árvore 3**, com ramos laterais mais curtos perto do ápice e mais longos na base, formando uma copa cônica. Perto da gema apical a inibição das gemas laterais é mais forte; longe dela é menor. O hormônio principal é a **auxina** (ácido indolilacético, AIA), produzida na gema apical e transportada em direção à base do caule.\n\n**b)** A poda da gema apical **interrompe o crescimento longitudinal** do caule naquele ramo, pois retira a região de multiplicação e alongamento celular do ápice. Com a retirada da gema apical, cessa a principal fonte de auxina que descia pelo caule; a concentração de auxina nas gemas laterais cai, **acaba a inibição** que ela exercia (com participação das citocininas, que passam a predominar), e as gemas laterais se desenvolvem em novos ramos, deixando a planta mais ramificada.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A substância mais polar é o **ácido butanoico**: tem o grupo carboxila (–COOH), muito polar, que faz ligações de hidrogênio com a água, e por isso é miscível com ela.\n\nSolubilidade do butan-1-ol: 90 g/L\nMassa em 250 mL = 90 g/L × 0,250 L = **22,5 g**\n\n**b)** C₄H₁₀O + 6 O₂ → 4 CO₂ + 5 H₂O\n\nO butan-1-ol tem o grupo –OH, cujo hidrogênio ligado ao oxigênio permite **ligações de hidrogênio** entre suas moléculas, interações intermoleculares fortes. A butanona não tem H ligado a O; suas moléculas interagem só por dipolo permanente–dipolo permanente, mais fracas. Para separar as moléculas do butan-1-ol é preciso mais energia, e por isso seu ponto de ebulição é maior.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A condutividade elétrica é **diretamente proporcional** à concentração de sais (de íons livres) na solução: quanto mais sais dissolvidos, maior a condutividade. Se a condutividade estiver alta, a solução está concentrada demais e deve-se adicionar **água**, diluindo-a.\n\n**b)** Massas molares: Ca(NO₃)₂ = 40 + 2 × 62 = 164 g/mol; KNO₃ = 39 + 14 + 48 = 101 g/mol.\n\n[Ca²⁺] = [Ca(NO₃)₂] = 0,738 g/L ÷ 164 g/mol = 4,5 × 10⁻³ mol/L\n[K⁺] = [KNO₃] = 0,505 g/L ÷ 101 g/mol = 5,0 × 10⁻³ mol/L\n\nO cátion de maior concentração em mol/L é o **K⁺**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O ânodo é de alumínio, que se oxida a Al³⁺; com os íons hidróxido forma-se o floculante **Al(OH)₃**. A técnica de separação em que as microbolhas de gás aderem aos flocos e os carregam para a superfície é a **flotação**.\n\n**b)** O gás X é o hidrogênio:\n2 H₂O + 2 e⁻ → H₂ + 2 OH⁻\n\n1 Faraday corresponde a 1 mol de elétrons; 2 mol de e⁻ produzem 1 mol de H₂.\n0,4 mol de e⁻ → 0,2 mol de H₂\nV = 0,2 mol × 22,4 L/mol = **4,48 L** de H₂ nas CNTP",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** No CO₂ (O=C=O) o carbono faz duas ligações duplas e não tem elétrons livres: geometria **linear** (180°). No carbonato orgânico, o carbono da carbonila faz uma dupla com o O e duas simples com os grupos –OR: geometria **trigonal plana** (≈ 120°).\n\n**b)** Com R = etil, o álcool que reage com o CO₂ é o **etanol** (CH₃–CH₂–OH). O carbonato formado é o carbonato de dietila:\n\nCH₃–CH₂–O–C(=O)–O–CH₂–CH₃\n\nou seja, um carbono central com dupla ligação ao oxigênio e ligado a dois grupos –O–CH₂–CH₃.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Ângulo descrito pelo pneu: Δφ = 360 voltas × 2π rad = 720π rad\nω média = Δφ ÷ Δt = 720π ÷ 30\n**ω = 24π rad/s**\n\n**b)** Força dos motores: P = F · v → F = 1,2 × 10⁷ ÷ 60 = 2,0 × 10⁵ N\nResultante horizontal (2ª lei de Newton): F − R = m · a\n2,0 × 10⁵ − R = 7,0 × 10⁴ × 2,0\n2,0 × 10⁵ − R = 1,4 × 10⁵\n**R = 6,0 × 10⁴ N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Pressão da água (hidrostática): p = d · g · h = 1,0 × 10³ × 10 × 0,80\n**p = 8,0 × 10³ Pa**\n\nPressão total no fundo: p = p_atm + d · g · h = 1,0 × 10⁵ + 0,08 × 10⁵\n**p = 1,08 × 10⁵ Pa**\n\n**b)** Densidade da esfera: d = m ÷ V = 3,0 ÷ 2,0 × 10⁻³\n**d_esfera = 1,5 × 10³ kg/m³**\n\nDensidade da mistura (esfera totalmente submersa): E = d_mist · V · g\n19 = d_mist × 2,0 × 10⁻³ × 10\n**d_mist = 9,5 × 10² kg/m³**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Pelo gráfico: B (6,0 × 10⁴ Pa; 3,0 × 10⁻² m³) e D (2,0 × 10⁴ Pa; 1,0 × 10⁻² m³).\nEquação geral dos gases: p_B · V_B ÷ T_B = p_D · V_D ÷ T_D\n(6,0 × 10⁴ × 3,0 × 10⁻²) ÷ 2 700 = (2,0 × 10⁴ × 1,0 × 10⁻²) ÷ T_D\n1 800 ÷ 2 700 = 200 ÷ T_D → T_D = 300 K\n**θ_D = 300 − 273 = 27 °C**\n\n**b)** O trabalho por ciclo é a área do retângulo:\nW = Δp · ΔV = (6,0 − 2,0) × 10⁴ × (3,0 − 1,0) × 10⁻² = 8,0 × 10² J\nNúmero de ciclos por segundo: n = P ÷ W = 1,2 × 10⁴ ÷ 8,0 × 10²\n**n = 15 ciclos por segundo**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Resistência do fio: R = U ÷ i = 1,5 ÷ 3,0 = 0,50 Ω\n2ª lei de Ohm: R = ρ · L ÷ A → ρ = R · A ÷ L\nρ = 0,50 × 2,0 × 10⁻⁶ ÷ 2,0\n**ρ = 5,0 × 10⁻⁷ Ω · m**\n\n**b)** Força magnética (B perpendicular ao fio): F = B · i · L = 0,10 × 3,0 × 2,0 = 0,60 N\nPela regra da mão direita, com a corrente no sentido do fundo da mesa e o campo para a direita, a força magnética é **vertical para baixo**, somando-se ao peso.\nEquilíbrio: N = P + F = 0,70 + 0,60\n**N = 1,3 N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Ao rever Recife, o eu lírico expressa **desencanto, frustração e certa revolta**: a cidade moderna e \"bonita\" já não é a terra de sua infância, que ele guardava na memória. O sentimento se confirma no último verso: \"Diabo leve quem pôs bonita a minha terra!\"\n\n**b)** De vez em quando me diziam que minha terra estava completamente mudada, que tinha avenidas, arranha-céus e que era, então, uma bonita cidade.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** \"Proprietário\" é o **banhista**, o ocupante da barraca (do guarda-sol) na praia; \"propriedade\" é o **círculo de sombra** que a barraca projeta na areia. Na cena, com o movimento aparente do sol a sombra se deforma em elipse, desloca-se e vai \"afinando\", e o banhista vê o seu pequeno território escapar sem fazer nada para detê-lo. O cronista ironiza a ideia de posse: na praia, que é de todos, a \"propriedade\" é provisória e escapa naturalmente.\n\n**b)** Na oração principal, \"a que eu habito é de todos\", o sujeito é **\"a que eu habito\"**, cujo núcleo é o pronome demonstrativo \"a\" (= a praia). Na oração subordinada adjetiva \"que eu habito\", o sujeito é **\"eu\"**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A contradição está em a revista dizer, num anúncio publicitário, que não persuade, apenas informa. O próprio anúncio é um ato de persuasão: ao negar que persuade, a revista tenta convencer o leitor de que é neutra, honesta e mais confiável que as outras. Ou seja, ela persuade justamente ao afirmar que não persuade.\n\n**b)** O \"-se\", pronome reflexivo, indica que a revista poderia estar tentando **exorcizar a si mesma**, isto é, livrar-se de um \"demônio\" que também está nela: a persuasão que ela pratica. Os parênteses e o ponto de interrogação marcam essa leitura como uma insinuação irônica do autor, uma dúvida: a revista expulsaria a persuasão do mundo ou de si própria?",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Trata-se de uma **antítese**: \"precário\" e \"eterno\" têm sentidos opostos e são atribuídos ao mesmo feitiço. Ele é precário porque, em cada indivíduo, a beleza e a juventude são passageiras; e é eterno porque é transmitido de um indivíduo a outro, perpetuando-se na espécie \"para os fins secretos da criação\". Também se aceita a leitura como paradoxo, pela união de qualidades opostas num só ser.\n\n**b)** A passagem é \"isto não é romance, em que o autor sobredoura a realidade e fecha os olhos às sardas e espinhas\". O movimento criticado é o **Romantismo**, e a característica criticada é a **idealização** da realidade, sobretudo da figura feminina, apresentada sem defeitos. Brás Cubas, em perspectiva realista, recusa esse embelezamento.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

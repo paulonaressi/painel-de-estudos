@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/famerp/2019_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Participaram **dois gametas**: um ovócito (óvulo) e um espermatozoide. Quíntuplas idênticas são monozigóticas: o único zigoto se dividiu e originou os cinco embriões, geneticamente iguais.\n\nO sexo foi definido pelo **espermatozoide**, que carregava o cromossomo X; o ovócito sempre traz um X, e o encontro de X com X originou meninas (XX).\n\n**b)** Havia **cinco cordões umbilicais**, um para cada embrião, todos ligados à mesma placenta.\n\nO âmnio é a membrana que forma a bolsa cheia de líquido amniótico em torno do embrião. Esse meio aquoso protege contra choques mecânicos e desidratação, ajuda a manter a temperatura estável e permite a movimentação e o desenvolvimento do embrião sem aderências.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O reflexo patelar é monossináptico e envolve o **neurônio sensitivo (aferente)**, que leva o impulso dos receptores do músculo/tendão até a medula espinal, e o **neurônio motor (eferente)**, que conduz a resposta da medula ao músculo da coxa (quadríceps), provocando sua contração.\n\n**b)** A resposta é integrada na **medula espinal**, sem precisar passar pelo encéfalo. O caminho é curto e tem poucas sinapses (no patelar, só uma), o que torna a resposta muito rápida. Ela é involuntária porque não depende do processamento consciente do córtex cerebral: a medula aciona o neurônio motor diretamente, e o encéfalo só é informado depois de a perna já ter se movido.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O parasita é o *Schistosoma mansoni*, causador da esquistossomose. As formas infectantes para o ser humano, as **cercárias**, são produzidas no **caramujo de água doce do gênero *Biomphalaria*** (hospedeiro intermediário).\n\nA contaminação ocorre quando a pessoa entra em contato com água doce contaminada (lagoas, rios, valas): as cercárias nadam livremente e **penetram ativamente pela pele**, chegam à circulação e se instalam no sistema porta-hepático.\n\n**b)** Na população de parasitas há variabilidade genética, gerada por mutações e recombinação na reprodução sexuada; por acaso, alguns indivíduos já possuem características que os tornam resistentes às drogas. O uso dos medicamentos funciona como agente de **seleção natural**: elimina os sensíveis e deixa sobreviver os resistentes, que se reproduzem e transmitem esses alelos. Com o passar das gerações, a frequência de parasitas resistentes aumenta e as drogas perdem a eficácia. O remédio não induz a resistência; apenas seleciona a que já existia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Fêmea MMbb produz só gametas Mb; macho mmBb produz mB e mb.\n\nDescendentes: MmBb e Mmbb, em proporção 1 : 1.\n\nFenótipos possíveis: **pelagem preta** (MmBb, com M e com deposição de pigmento) e **pelagem branca** (Mmbb, sem deposição de pigmento), metade de cada.\n\n**b)** No cruzamento-teste, o indivíduo testado é cruzado com o duplo recessivo; a fêmea branca é **mmbb**. Como nasceram filhotes pretos, marrons e brancos, o macho preto tem de produzir gametas com m e com b, além de M e B: ele é **MmBb**.\n\nMmBb × mmbb → MB, Mb, mB, mb (1/4 cada) com mb\n\nFilhote marrom = mmBb: 1/2 (mm) × 1/2 (Bb) = **1/4 (25%)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A população humana de país desenvolvido corresponde à **curva 3**: a mortalidade é baixa nas idades jovens e intermediárias e se concentra nas idades avançadas (curva do tipo I).\n\nUma descoberta farmacológica decisiva foi a dos **antibióticos**, como a penicilina, descoberta por Alexander Fleming, que permitiu combater infecções bacterianas.\n\n**b)** Inicialmente haverá **competição interespecífica** pelos recursos escassos (alimento, espaço, abrigo), já que ambas exploram o mesmo nicho.\n\nOutra consequência possível é a **exclusão competitiva**: a população mais eficiente tende a eliminar a outra daquele hábitat ou a forçá-la a migrar. Alternativamente, pode haver diferenciação de nichos (as espécies passam a explorar recursos ou horários diferentes) — respostas bem justificadas como essa também valem.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O experimento reforçou a teoria da **abiogênese** (geração espontânea). Segundo ela, seres vivos podem surgir a partir da matéria não viva, como caldos nutritivos ou matéria em decomposição, graças a um \"princípio ativo\" ou força vital presente nessa matéria e no ar. O caldo \"pululava de vida\" porque, para Needham, os micro-organismos teriam se formado ali, mesmo após o aquecimento.\n\n**b)** O gargalo curvado em \"S\" funcionava como uma armadilha: a poeira e os micro-organismos trazidos pelo ar ficavam retidos na curvatura (presos às gotículas de água condensada) e não alcançavam o caldo. Como o caldo havia sido esterilizado pela fervura e nenhum micro-organismo chegava a ele, nada se desenvolveu.\n\nManter o frasco aberto foi importante porque os defensores da abiogênese alegavam que o \"princípio ativo\" vinha do ar e que a vedação o impedia de agir. Com o ar circulando livremente até o caldo, Pasteur derrubou esse argumento e mostrou que os micro-organismos só surgem de outros preexistentes (biogênese).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O esquema é um ciclo **haplodiplobionte** (alternância de gerações), com esporófito diploide que produz esporos por meiose e gametófito haploide que produz gametas. Entre os grupos citados, realizam esse ciclo as **briófitas** e as **gimnospermas** (em todas as plantas há alternância de gerações). Bactérias se reproduzem por divisão binária, e nos cnidários a meiose é gamética (pólipo e medusa são diploides).\n\n**b)** A célula pertence ao **esporófito** (ou é o próprio zigoto, que dá origem a ele). Conclui-se isso porque o genótipo AaBbCcDd tem **dois alelos de cada gene**, um em cada cromossomo homólogo: a célula é diploide (2n). No ciclo, as únicas fases diploides são o zigoto e o esporófito; esporos, gametófito e gametas são haploides (n) e teriam apenas um alelo de cada gene.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** As células da última etapa realizam **fagocitose**: emitem pseudópodes, englobam as bactérias e as digerem em fagossomos fundidos a lisossomos. Leucócitos especializados nesse tipo de defesa: **neutrófilos** ou macrófagos (derivados dos monócitos).\n\n**b)** A **vasodilatação** aumenta o fluxo de sangue e a permeabilidade dos capilares no local lesionado; assim chegam mais leucócitos (que saem do vaso por diapedese), anticorpos, proteínas de defesa e nutrientes, acelerando o combate aos micro-organismos e o reparo do tecido.\n\nA **hipertermia** (aumento local da temperatura) acelera o metabolismo e a atividade das células de defesa, como a fagocitose e a ação enzimática, e cria um ambiente menos favorável à multiplicação de muitas bactérias.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Decomposição térmica:\n\n2 NaHCO₃(s) → Na₂CO₃(s) + H₂O(g) + CO₂(g)\n\nFórmula eletrônica (de Lewis) do CO₂: o carbono faz uma ligação dupla com cada oxigênio, e cada oxigênio fica com dois pares de elétrons não ligantes:\n\n:Ö::C::Ö: (estrutural: O=C=O)\n\n**b)** Massa de bicarbonato na colher:\n\nm = d · V = 2,24 g/mL · 15 mL = 33,6 g\n\nMassa molar do NaHCO₃ = 23 + 1 + 12 + 3 · 16 = 84 g/mol\n\nn = 33,6 ÷ 84 = 0,40 mol\n\nC = n ÷ V = 0,40 mol ÷ 1 L = **0,40 mol/L** (considerando o volume da solução igual a 1 L)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** O sistema inicial contém o vinagre (água + ácido acético) e o bicarbonato de sódio.\n\nSubstâncias: H₂O, CH₃COOH e NaHCO₃ → **3 substâncias**.\n\nElementos químicos: H, O, C e Na → **4 elementos**.\n\n**b)** Equação dos gases, com T = 27 + 273 = 300 K e V = 100 mL = 0,1 L:\n\nn = P · V ÷ (R · T) = 14,76 · 0,1 ÷ (0,082 · 300)\n\nn = 1,476 ÷ 24,6 = 0,060 mol de CO₂\n\nMassa molar do CO₂ = 12 + 2 · 16 = 44 g/mol\n\nm = 0,060 · 44 = **2,64 g** de CO₂",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Cobre (Z = 29) e zinco (Z = 30) estão no **4º período**; o cobre pertence ao **grupo 11** (1B) e o zinco ao **grupo 12** (2B).\n\nPor estarem no mesmo período, ambos têm **quatro camadas eletrônicas** ocupadas; por estarem no bloco d, entre os grupos 3 e 12, ambos são **metais de transição** (subnível mais energético do tipo d).\n\n**b)** Quantidade de H₂ produzida:\n\nn(H₂) = 0,5 L ÷ 25 L/mol = 0,02 mol\n\nPela equação, 1 mol de Zn produz 1 mol de H₂: n(Zn) = 0,02 mol\n\nm(Zn) = 0,02 · 65 = 1,3 g\n\nPorcentagem de zinco: 1,3 ÷ 3,25 · 100 = **40%**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Redução do magnésio:\n\nMg²⁺ + 2 e⁻ → Mg(l)\n\nOcorre no **cátodo**, o eletrodo ligado ao polo negativo do gerador, para onde migram os íons Mg²⁺.\n\n**b)** pH = 2 → [H⁺] = 10⁻² mol/L (**1,0 × 10⁻² mol/L**)\n\nEm 100 mL (0,1 L): n(H⁺) = n(HCℓ) = 10⁻² · 0,1 = 1,0 × 10⁻³ mol\n\nPela equação, 2 mol de HCℓ reagem com 1 mol de Mg(OH)₂:\n\nn(Mg(OH)₂) = 1,0 × 10⁻³ ÷ 2 = **5,0 × 10⁻⁴ mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** A solução de **ácido fórmico**. Com a mesma concentração e a mesma temperatura, o ácido de maior Ka (1,8 × 10⁻⁴) é o que mais se ioniza; assim, sua solução tem a maior concentração de íons livres (H⁺ e HCOO⁻), responsáveis pela condução de corrente elétrica.\n\n**b)** O grau de ionização do ácido acético **diminui**. O acetato de sódio é um sal solúvel que se dissocia totalmente e libera íons CH₃COO⁻, o mesmo ânion produzido na ionização do ácido (efeito do íon comum). Pelo princípio de Le Chatelier, o aumento da concentração de CH₃COO⁻ desloca o equilíbrio para a esquerda, no sentido de formar CH₃COOH não ionizado; portanto, uma fração menor do ácido fica ionizada (o Ka não muda, pois a temperatura é constante).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A glicose apresenta as funções **álcool** (grupos –OH ligados a carbonos saturados) e **aldeído** (grupo –CHO na extremidade da cadeia).\n\n**b)** Energia vinda da respiração celular:\n\nE = 0,60 · 12 600 = 7 560 kJ\n\nn(glicose) = 7 560 ÷ 2 800 = 2,7 mol\n\nMassa molar de C₆H₁₂O₆ = 6 · 12 + 12 · 1 + 6 · 16 = 180 g/mol\n\nm = 2,7 · 180 = **486 g** de glicose por dia",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Distância nas 20 voltas: 20 · 6,0 = 120 km, em 30 min.\n\nv(média) = 120 km ÷ 30 min = 4,0 km/min\n\nEm 5,0 min: d = 4,0 · 5,0 = **20 km**\n\n**b)** Na reta plana e horizontal, a energia potencial não varia; o trabalho útil é a variação da energia cinética:\n\nΔEc = m · (v² − v₀²) ÷ 2 = 1 000 · (80² − 60²) ÷ 2\n\nΔEc = 500 · (6 400 − 3 600) = 1,4 × 10⁶ J\n\nP(média) = ΔEc ÷ Δt = 1,4 × 10⁶ ÷ 10 = **1,4 × 10⁵ W**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** O núcleo de neodímio estava em repouso; o sistema é isolado durante a emissão, então a quantidade de movimento total continua nula:\n\nm(Ce) · v(Ce) = m(α) · v(α)\n\n35 · m(α) · v(Ce) = m(α) · 7,0 × 10⁶\n\nv(Ce) = 7,0 × 10⁶ ÷ 35 = **2,0 × 10⁵ m/s**\n\nA velocidade do cério tem a **mesma direção** de v(α) e **sentido oposto**: se v(α) aponta para a direita (→), v(Ce) aponta para a esquerda (←), com módulo 35 vezes menor.\n\n**b)** Massa da partícula alfa (2 prótons + 2 nêutrons):\n\nm(α) = 4 · 1,7 × 10⁻²⁷ = 6,8 × 10⁻²⁷ kg\n\nImpulso = variação da quantidade de movimento (a partícula parte do repouso):\n\nI = m(α) · v(α) = 6,8 × 10⁻²⁷ · 7,0 × 10⁶\n\nI ≈ **4,8 × 10⁻²⁰ N·s** (4,76 × 10⁻²⁰ N·s)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** O peso é o mesmo nas duas situações. Na figura 1, a área de apoio é 0,10 m · 0,15 m = 1,5 × 10⁻² m².\n\nP = p₁ · A₁ = 16 000 · 1,5 × 10⁻² = 240 N\n\nNa figura 2, A₂ = 0,15 m · 0,20 m = 3,0 × 10⁻² m²:\n\np₂ = 240 ÷ 3,0 × 10⁻² = **8 000 Pa**\n\n(Como a área dobrou, a pressão caiu à metade.)\n\n**b)** Volume do bloco: V = 0,10 · 0,15 · 0,20 = 3,0 × 10⁻³ m³\n\nEmpuxo (bloco totalmente imerso):\n\nE = d(água) · V · g = 1,0 × 10³ · 3,0 × 10⁻³ · 10 = 30 N\n\nEquilíbrio no fundo: N + E = P\n\nN = 240 − 30 = **210 N**, vertical e para cima.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Na isotérmica AB, T(B) = 327 + 273 = 600 K. A transformação BC é isovolumétrica, logo p ÷ T é constante:\n\np(B) ÷ T(B) = p(C) ÷ T(C)\n\n8,0 × 10⁵ ÷ 600 = 4,0 × 10⁵ ÷ T(C)\n\nT(C) = 300 K\n\nComo CD é isotérmica, a temperatura durante CD é **300 K**.\n\n**b)** Em CD o gás é comprimido (o volume diminui de C para D), então o trabalho é realizado sobre o gás: τ = −3 700 J (módulo igual à área S).\n\nSendo isotérmica, ΔU = 0. Pela 1ª lei: Q = τ + ΔU = −3 700 J\n\nO gás **libera 3 700 J** de calor nessa transformação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** O disco está na maior distância possível sem projetar sombra quando suas bordas tocam as retas que ligam cada extremidade da lâmpada ao ponto da mesa sobre a reta r. Forma-se um triângulo com vértice na mesa e base na lâmpada (90 cm, a 200 cm do vértice). O disco está a 200 − 180 = 20 cm da mesa.\n\nSemelhança de triângulos:\n\nD ÷ 90 = 20 ÷ 200\n\nD = **9,0 cm**\n\n**b)** A imagem é real (projetada na mesa) e quatro vezes menor; logo, p' = p ÷ 4. A soma das distâncias objeto–lente e lente–imagem é 200 cm:\n\np + p ÷ 4 = 200 → p = 160 cm e p' = 40 cm\n\nEquação de Gauss: 1/f = 1/p + 1/p'\n\n1/f = 1/160 + 1/40 = 1/160 + 4/160 = 5/160\n\nf = **32 cm**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Carga transferida:\n\nQ = n · e = 2,0 × 10¹¹ · 1,6 × 10⁻¹⁹ = 3,2 × 10⁻⁸ C\n\ni(média) = Q ÷ Δt = 3,2 × 10⁻⁸ ÷ 4,0 × 10⁻⁶\n\ni = **8,0 × 10⁻³ A**\n\n**b)** O ponto M está a 3,0 m do centro de cada esfera; as esferas condutoras se comportam, para pontos externos, como cargas puntiformes nos centros.\n\nE(A) = k · Q(A) ÷ d² = 9,0 × 10⁹ · 8,0 × 10⁻⁸ ÷ 3,0² = 80 N/C, apontando de A para B (afastando-se de A)\n\nE(B) = 9,0 × 10⁹ · 5,0 × 10⁻⁸ ÷ 9,0 = 50 N/C, apontando de B para A\n\nOs vetores têm sentidos opostos:\n\nE(resultante) = 80 − 50 = **30 N/C**, na direção da reta AB, com sentido de A para B.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

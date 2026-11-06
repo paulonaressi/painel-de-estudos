@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2022_prova-ii-discursiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Os fotorreceptores da retina são os **bastonetes** (visão em baixa luminosidade — por isso a cegueira noturna) e os **cones** (visão de cores). Os vasos sanguíneos são importantes porque levam às células da retina **oxigênio e nutrientes** (como a glicose), necessários à respiração celular e à intensa atividade metabólica dos fotorreceptores, e removem gás carbônico e excretas.\n\n**b)** Na herança autossômica dominante, o alelo estaria no **locus I**, no cromossomo 3 (autossomo); II e IV estão no X e III, no Y.\n\nA família compatível com herança recessiva ligada ao X é a **Andrade**: pais normais e apenas filhos homens afetados. (Na Oliveira, pais afetados têm filha normal — autossômica dominante; na Castro, pais normais têm filhas afetadas — autossômica recessiva.)\n\nPais Andrade: mãe portadora XᴬXᵃ e pai normal XᴬY.\n\nP(menino) = 1/2; P(receber Xᵃ da mãe) = 1/2\n\nP(menino com RP) = 1/2 · 1/2 = **1/4 (25%)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Ionização do ácido nítrico em água:\n\nHNO₃ + H₂O → H₃O⁺ + NO₃⁻\n\nNúmero de oxidação do N em HNO₃ (H = +1; O = −2):\n\n(+1) + x + 3 · (−2) = 0 → **x = +5**\n\n**b)** Massa de HNO₃ em 100 mL de nital (vinda dos 10 mL de ácido concentrado):\n\nm(solução concentrada) = 10 mL · 1,4 g/mL = 14 g\n\nm(HNO₃) = 0,65 · 14 = 9,1 g em 100 mL\n\nEm 1,5 L (15 vezes mais): m = 15 · 9,1 = 136,5 g\n\nn = 136,5 ÷ 63 ≈ **2,17 mol de HNO₃**\n\n(Massa molar do HNO₃ = 1 + 14 + 48 = 63 g/mol.)",
+   "confianca": "media",
+   "pendencia": "O cálculo supõe que os 10 mL de ácido e os 90 mL de etanol formam 100 mL de nital (volumes aditivos), como indica o enunciado."
+  },
+  "0:3": {
+   "resposta": "**a)** Em movimento uniforme a resultante é nula, então a tração equilibra o peso:\n\nT = m · g = 200 · 10 = 2 000 N\n\nτ = T · d = 2 000 · 3 = **6 000 J (6,0 × 10³ J)**\n\n**b)** O bloco tem duas componentes de velocidade perpendiculares entre si:\n\nHorizontal (rotação a 8 m do eixo): v_h = ω · r = 0,1 · 8 = 0,8 m/s\n\nVertical: v_v = 0,6 m/s\n\nv = √(0,8² + 0,6²) = √(0,64 + 0,36) = **1,0 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Doses ingeridas por Sérgio:\n\nN = 3 · 1 + 2 · 1,4 = 5,8 doses\n\nH = 23 h − 19 h = 4 h; M = 100 kg\n\nCAS = (10 · 5,8 − 7,5 · 4) ÷ (6,8 · 100) = (58 − 30) ÷ 680 = 28 ÷ 680 ≈ 0,0412\n\n**CAS ≈ 0,04**\n\n**b)** Pela fórmula, CAS = 0,015 · T.\n\nAndré (homem, 80 kg, T = 25 h): CAS = 0,375 → 10N_A − 7,5H = 0,375 · 6,8 · 80 = 204\n\nBruna (mulher, 40 kg, T = 20 h): CAS = 0,3 → 10N_B − 7,5H = 0,3 · 5,5 · 40 = 66\n\nComo H é o mesmo para os dois, subtraindo:\n\n10 · (N_A − N_B) = 204 − 66 = 138\n\n**N_A − N_B = 13,8 doses**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Sarah Jackson **discorda** do artigo. Para ela, longe de ser uma língua morta, o latim é hoje uma disciplina viva, que amplia a compreensão cultural e os horizontes educacionais (também serve: há demanda pelo latim entre os alunos, que o aprendem no ensino fundamental e esperam continuar no secundário).\n\n**b)** No primeiro parágrafo, as duas cartas destacam a **utilidade do latim para o estudo de línguas**: ajuda a entender o significado das palavras em inglês e é chave para aprender outras línguas europeias/românicas (além de servir a certas profissões e às ciências, no caso da terceira).\n\nNo segundo parágrafo, ambas argumentam com o **benefício prático para a vida**: a segunda diz que as disciplinas estudadas lhe deram habilidades úteis para toda a vida; a terceira, que ex-alunos se deram muito bem na vida graças ao conhecimento do latim.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

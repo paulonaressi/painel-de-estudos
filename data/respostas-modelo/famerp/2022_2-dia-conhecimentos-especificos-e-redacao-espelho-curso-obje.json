@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/famerp/2022_2-dia-conhecimentos-especificos-e-redacao-espelho-curso-obje.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** No escuro, sem fotossíntese, as células do embrião realizam **respiração celular (aeróbica)**, oxidando as substâncias de reserva da semente para obter a energia (ATP) usada no crescimento.\n\nO estiolamento (crescimento rápido do caule em comprimento, folhas pequenas e ausência de clorofila) é vantajoso porque a plântula **investe as reservas no alongamento do caule para alcançar a luz o mais depressa possível** (por exemplo, emergir do solo ou sair da sombra), sem gastar recursos em folhas e clorofila que ainda não poderiam fazer fotossíntese.\n\n**b)** Na maioria das angiospermas, o tecido de reserva é o **endosperma** (no feijão, as reservas são transferidas para os cotilédones).\n\nEle se origina da **dupla fecundação**: um dos núcleos espermáticos do tubo polínico funde-se com os dois núcleos polares da célula central do saco embrionário, formando a célula triploide (3n) que se divide e dá origem ao endosperma.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Os moluscos têm **simetria bilateral**. Exemplo de cefalópode: **polvo** (também lula, sépia ou náutilo).\n\n**b)** A rádula é uma estrutura em forma de fita com dentículos quitinosos, que funciona como uma lixa: serve para **raspar e triturar o alimento** (algas, tecidos vegetais ou presas) e levá-lo à boca.\n\nA rádula é um órgão **homólogo**. Pelo cladograma, ela surge uma única vez, no ancestral comum de todas as classes representadas, antes das ramificações; portanto, gastrópodes, cefalópodes e escafópodes a herdaram desse mesmo ancestral (mesma origem embrionária e evolutiva), e nos bivalves ela foi perdida secundariamente (\"perda da rádula\").",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Cadeia alimentar:\n**palmeira juçara (palmito) → macaco-prego-preto → onça** (ou harpia, gavião, jaguatirica)\n\nNessa cadeia, o macaco-prego-preto é **consumidor primário**, ocupando o **2º nível trófico**.\n\n**b)** Fator biótico que influencia a densidade populacional: **predação** (também valem competição intra ou interespecífica, disponibilidade de alimento, parasitismo e doenças).\n\nA densidade de macacos **não poderá aumentar indefinidamente**. Mesmo sem predadores, a população é limitada pela resistência do meio: os macacos matam as palmeiras das quais se alimentam, e a redução desse recurso alimentar, junto com o aumento da competição intraespecífica por alimento e espaço e a maior transmissão de doenças em alta densidade, faz a população atingir a capacidade de suporte do ambiente e depois estabilizar ou até diminuir.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** As valvas são encontradas na **veia safena** (as veias, especialmente as dos membros inferiores, possuem valvas). Sua função é **impedir o refluxo do sangue**, garantindo o fluxo em um único sentido, em direção ao coração, mesmo contra a gravidade e com a baixa pressão do sangue venoso.\n\n**b)** Implantada como ponte entre a aorta e a artéria coronária, a veia safena passa a ficar submetida a uma **pressão arterial elevada**, bem maior do que a pressão venosa para a qual sua parede (mais fina e com menos músculo e fibras elásticas) está adaptada. Isso favorece lesões e inflamação do endotélio.\n\nAs artérias coronárias levam ao **miocárdio** o **oxigênio e os nutrientes** necessários à respiração celular e à produção de ATP para a contração contínua do músculo cardíaco. Se elas são obstruídas, parte do miocárdio sofre isquemia e pode morrer (infarto).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A célula é diploide (2n) porque seus cromossomos formam **pares de homólogos**: há três pares (cada par com um cromossomo de origem materna e um de origem paterna, de mesmo tamanho e mesma posição do centrômero), ou seja, 2n = 6.\n\nComo cada um dos 6 cromossomos está representado com uma única cromátide, há **6 centrômeros**.\n\n**b)** Ao chegar à metáfase, a célula passou pela fase S no meio com timina radioativa. Cada um dos 6 cromossomos foi duplicado e passou a ter 2 cromátides-irmãs, num total de **12 cromátides, e todas apresentariam timina radioativa**.\n\nIsso se deve à **replicação semiconservativa** do DNA: cada molécula-filha conserva uma fita antiga e recebe uma fita nova, sintetizada com os nucleotídeos do meio, inclusive a timina radioativa. Como o segmento AAACGTTT (e sua fita complementar, TTTGCAAA) contém timina, toda cromátide formada tem uma fita nova com timina marcada.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A fecundação ocorre mais comumente na **tuba uterina** (trompa de Falópio), em sua porção mais dilatada, a ampola, no terço próximo ao ovário.\n\nEm uma mulher saudável, o pH vaginal é **ácido** (em torno de 3,8 a 4,5), mantido principalmente pelo ácido láctico produzido pelos lactobacilos da microbiota vaginal; essa acidez protege contra micro-organismos patogênicos.\n\n**b)** Hormônio: **progesterona sintética (progestágeno)**, em geral associada a um **estrogênio sintético** (como o etinilestradiol). Basta citar um.\n\nMantidos em níveis elevados no sangue, esses hormônios exercem **retroalimentação negativa** sobre o hipotálamo e a hipófise, que reduzem a secreção de FSH e LH. Sem o pico de LH (e sem o desenvolvimento folicular estimulado pelo FSH), **não ocorre a ovulação**. O progestágeno também torna o muco do colo do útero mais espesso, dificultando a passagem dos espermatozoides.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Na cor da pelagem ocorre **ausência de dominância** (herança intermediária, ou dominância incompleta). Pelo quadro, o heterozigoto MB tem fenótipo **creme**, diferente e intermediário entre os dois homozigotos (marrom, MM, e branco, BB): nenhum dos alelos domina o outro. Nos outros caracteres, ao contrário, o heterozigoto tem o mesmo fenótipo de um dos homozigotos (dominância completa).\n\n**b)** Como os genes segregam-se independentemente, os três pares de alelos estão em **loci de cromossomos diferentes** (pares de cromossomos homólogos distintos), seguindo a 2ª Lei de Mendel; cada par de alelos ocupa o mesmo locus nos cromossomos homólogos.\n\nGametas de cada animal (2ⁿ, n = número de pares heterozigotos):\nMBLℓCC: 2 × 2 × 1 = 4 tipos de gametas\nMBLℓCc: 2 × 2 × 2 = 8 tipos de gametas\n\nCombinações gaméticas no cruzamento: 4 × 8 = **32**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Dois fatores evolutivos que alteram a frequência gênica: **mutação** e **seleção natural**. (Também valem migração/fluxo gênico e deriva genética.)\n\n**b)** A soma das frequências dos alelos é 1:\nf(Iᴬ) + f(Iᴮ) + f(i) = 1\n0,3 + f(Iᴮ) + 0,4 = 1 → f(Iᴮ) = 0,3\n\nPelo equilíbrio de Hardy-Weinberg:\nTipo B heterozigoto (Iᴮi): 2 · f(Iᴮ) · f(i) = 2 × 0,3 × 0,4 = **0,24** (24 %)\nTipo AB (IᴬIᴮ): 2 · f(Iᴬ) · f(Iᴮ) = 2 × 0,3 × 0,3 = **0,18** (18 %)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** O hexano é apolar; entre suas moléculas atuam **interações de dipolo induzido** (forças de dispersão de London).\n\nO solvente orgânico mais solúvel em água é o **etanol**, pois seu grupo –OH forma **ligações de hidrogênio** com as moléculas de água (o etanol é, na verdade, miscível com a água em qualquer proporção).\n\n**b)** Quanto menor a temperatura de ebulição, mais volátil é a substância e maior sua pressão de vapor. Ordem crescente de pressão de vapor:\n**água (100 °C) < etanol (78 °C) < hexano (69 °C) < éter etílico (35 °C)**\n\nPara volumes iguais V (em mL):\nn(hexano) = 0,7·V ÷ 86\nn(etanol) = 0,8·V ÷ 46\n\nn(hexano) ÷ n(etanol) = (0,7 ÷ 86) ÷ (0,8 ÷ 46) = (0,7 × 46) ÷ (86 × 0,8) = 32,2 ÷ 68,8 ≈ **0,47**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A **solução 2 (glicose)** oferece maior resistência à corrente elétrica: a glicose é um composto molecular que se dissolve sem formar íons (solução não eletrolítica), enquanto as soluções de KF e HF contêm íons livres.\n\nReação entre o HF (soluto da solução 3) e uma base que forma KF:\n**HF(aq) + KOH(aq) → KF(aq) + H₂O(ℓ)**\n\n**b)** Desenho: o íon K⁺ no centro, cercado por várias moléculas de água (camada de solvatação). Cada molécula de água deve ser desenhada **angular** (ângulo H–O–H ≈ 104,5°), com o **átomo de oxigênio (polo parcial negativo, δ⁻) voltado para o K⁺** e os dois hidrogênios (δ⁺) apontando para fora. É uma interação íon-dipolo.\n\npH da solução 0,1 mol/L de HF:\n[H⁺] = α · M = 6 × 10⁻² × 0,1 = 6 × 10⁻³ mol/L\npH = −log (6 × 10⁻³) = 3 − log 6 = 3 − 0,8 = **2,2**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** A solução fica com caráter **ácido**. A substância responsável é o CO₂, um **óxido ácido**: a parte que se dissolve na água reage formando ácido carbônico, que se ioniza e libera H⁺.\n\nCO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻\n\n(O etanol, um álcool, é praticamente neutro e não altera o pH de forma apreciável.)\n\n**b)** Todo o CO₂ produzido vira BaCO₃ no recipiente 2:\n\nCO₂ + Ba(OH)₂ → BaCO₃ + H₂O (proporção 1 : 1)\n\nn(BaCO₃) = 35,46 ÷ 197 = 0,18 mol → n(CO₂) = 0,18 mol\n\nm(CO₂) = 0,18 · 44 = **7,92 g**\n\nRendimento: n(sacarose) = 17,1 ÷ 342 = 0,05 mol; pela equação, 1 mol de sacarose → 4 mol de CO₂, logo o teórico seria 0,05 · 4 = 0,20 mol de CO₂ (8,8 g).\n\nRendimento = 0,18 ÷ 0,20 = 0,90 → **90%**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O isômero de cadeia normal com isomeria geométrica é o **pent-2-eno**:\n\nH₃C – CH = CH – CH₂ – CH₃\n\nCada carbono da dupla tem dois ligantes diferentes, por isso existem as formas cis e trans. Entre o pent-1-eno e o pent-2-eno ocorre **isomeria plana de posição** (muda a posição da dupla-ligação).\n\n**b)** A reação libera 123 kJ/mol, então ΔH = –123 kJ/mol. Como o produto (pentano) está em –176 kJ/mol:\n\nΔH = H(produto) – H(reagentes)\n\n–123 = –176 – x → **x = –53 kJ/mol**\n\n(A entalpia de formação do H₂ é zero, então x corresponde à do pent-1-eno.)\n\nSem catalisador, o complexo ativado está em 200 kJ/mol; com catalisador ele fica 150 kJ mais baixo: 200 – 150 = **50 kJ/mol**. A nova curva parte do mesmo patamar x = –53 kJ/mol, sobe até um pico mais baixo, em **50 kJ/mol** (valor a marcar no eixo y), e termina no mesmo patamar dos produtos, –176 kJ/mol: o catalisador reduz a energia de ativação, mas não altera o ΔH.",
+   "confianca": "alta",
+   "pendencia": "O item b pede desenhar a curva no gráfico da folha de resposta; aqui ela está descrita em palavras."
+  },
+  "0:13": {
+   "resposta": "**a)** Magnésio, alumínio e zinco têm potencial de redução **menor** que o do ferro (–2,37 V, –1,66 V e –0,76 V contra –0,44 V), ou seja, oxidam-se com mais facilidade. Ligados ao ferro, eles sofrem a oxidação no lugar dele e cedem elétrons ao ferro, que fica protegido (funcionam como ânodo).\n\nPor eletrólise em solução aquosa só se obtém o **zinco**: o potencial de redução do Zn²⁺ (–0,76 V) é maior que o da água (–0,83 V), então o Zn²⁺ se reduz no cátodo antes da água. Já Mg²⁺ e Aℓ³⁺ têm potenciais menores que o da água; em solução aquosa quem se reduz é a água, liberando H₂, e esses metais só podem ser obtidos por eletrólise ígnea.\n\n**b)** Aℓ³⁺ + 3e⁻ → Aℓ: 3 mol de e⁻ (3 F) produzem 1 mol de Aℓ (27 g).\n\nn(Aℓ) = 0,24 ÷ 3 = 0,08 mol\n\nm(Aℓ) = 0,08 · 27 = **2,16 g**\n\nMesma massa de magnésio (Mg²⁺ + 2e⁻ → Mg; M = 24 g/mol):\n\nn(Mg) = 2,16 ÷ 24 = 0,09 mol → n(e⁻) = 0,18 mol\n\nQ = 0,18 · 96 500 = 17 370 C\n\nt = Q ÷ i = 17 370 ÷ 19,3 = **900 s** (15 min)",
+   "confianca": "alta",
+   "pendencia": "As massas molares (Aℓ = 27 g/mol, Mg = 24 g/mol) não estão na questão; foram usados os valores da tabela periódica."
+  },
+  "0:14": {
+   "resposta": "**a)** A matéria-prima orgânica do sabão é um triglicerídeo (óleo ou gordura), que pertence ao grupo dos **lipídeos**. A alquilação ocorre na **etapa 1**, em que a cadeia carbônica (alquila) é ligada ao anel benzênico.\n\n**b)** O NaOH é uma base forte necessária nos dois processos. No sabão, ele promove a hidrólise alcalina (saponificação) do éster, formando o sal de ácido carboxílico (carboxilato de sódio) e glicerol. No detergente, neutraliza o ácido sulfônico, formando o sulfonato de sódio. Em ambos os casos o produto é um **sal de sódio**, com uma extremidade iônica (polar, hidrofílica) e uma longa cadeia apolar, estrutura que lhe dá a ação tensoativa e a solubilidade em água.\n\nA cadeia alquílica é um grupo **orto-para dirigente**. Além do produto para (posição 4), mostrado na etapa 2, pode-se formar o produto **orto**: o grupo –SO₃H ligado ao carbono do anel vizinho (posição 2) àquele que carrega a cadeia alquílica (ácido 2-alquilbenzenossulfônico).",
+   "confianca": "alta",
+   "pendencia": "O item b pede desenhar o produto na molécula da folha de resposta; aqui a posição (orto) está descrita em palavras."
+  },
+  "0:15": {
+   "resposta": "**a)** Depois do salto, a única força sobre o gato 1 é o peso (resistência do ar desprezada), então sua aceleração é a da gravidade: **a = 10 m/s²**.\n\nA componente vertical parte de zero:\n\nv_y = g · t = 10 · 0,40 = **4,0 m/s**\n\n**b)** Na horizontal o gato 1 tem movimento uniforme:\n\nd = v₁ · t = 1,5 · 0,40 = **0,60 m**\n\nO gato 2 parte do repouso e percorre a mesma distância no mesmo tempo, em MUV:\n\nd = a₂ · t² ÷ 2\n\n0,60 = a₂ · (0,40)² ÷ 2 = a₂ · 0,08\n\na₂ = **7,5 m/s²**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Tempo para encher um reservatório:\n\nt = V ÷ vazão = 5 L ÷ 1,25 L/s = **4 s**\n\nVelocidade angular (uma volta = 2π rad em 80 s):\n\nω = 2π ÷ 80 = **π/40 rad/s ≈ 0,079 rad/s**\n\n**b)** No trajeto de 60° o reservatório desce da altura R · sen 60° (acima do eixo) até a altura do eixo:\n\nΔh = R · sen 60° = (√3/3) · (√3/2) = 3/6 = 0,5 m\n\nMassa de água: m = 5 L · 1 kg/L = 5 kg\n\n|ΔEp| = m · g · Δh = 5 · 10 · 0,5 = **25 J**\n\nEm cada volta os 20 reservatórios fazem esse trajeto (coerente com 20 · 4 s = 80 s por volta):\n\nE por volta = 20 · 25 = 500 J\n\n50 kWh = 50 · 1 000 W · 3 600 s = 1,8 · 10⁸ J\n\nNúmero de voltas = 1,8 · 10⁸ ÷ 500 = **3,6 · 10⁵ voltas** (360 000)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** O limite é 0,025 cm para ΔT = 100 K. No gráfico, de 300 K a 800 K (ΔT = 500 K), isso equivale a 5 · 0,025 = 0,125 cm, ou seja, comprimento final de no máximo 20,125 cm. O **aço** chega a cerca de 20,12 cm (dilata 0,12 cm, ou 0,024 cm a cada 100 K): é o mais próximo do limite sem ultrapassá-lo (latão, cobre e alumínio passam; titânio e invar ficam bem abaixo).\n\nα = ΔL ÷ (L₀ · ΔT) = 0,12 ÷ (20 · 500)\n\nα ≈ **1,2 · 10⁻⁵ K⁻¹**\n\n**b)** Capacidade térmica do eixo: C = m · c = 600 · 0,1 = 60 cal/°C\n\nTaxa de variação da temperatura = potência ÷ C = 30 cal/s ÷ 60 cal/°C = **0,5 °C/s**\n\nTempo para elevar 100 °C: t = 100 ÷ 0,5 = **200 s**\n\n(Ou: Q = m · c · Δθ = 600 · 0,1 · 100 = 6 000 cal; t = 6 000 ÷ 30 = 200 s.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Imagem virtual e direita, ampliada 10 vezes, com o objeto a p = 5,0 mm:\n\nA = –p' ÷ p → 10 = –p' ÷ 5 → p' = –50 mm\n\nA imagem se forma a **50 mm da lente**, do mesmo lado do objeto (por isso o sinal negativo).\n\nEquação de Gauss:\n\n1/f = 1/p + 1/p' = 1/5 – 1/50 = 9/50\n\nf = 50/9 ≈ **5,6 mm**\n\n**b)** Todas as dimensões lineares da imagem são 10 vezes as do objeto, então o diâmetro da imagem cresce a 10 · 0,02 = **0,2 mm/s**.\n\nDiâmetro da imagem: D(t) = 10 · (0,40 + 0,02t) = 4 + 0,2t (mm)\n\nRaio da imagem: r(t) = 2 + 0,1t (mm)\n\nÁrea da imagem: **A(t) = π · (2 + 0,1t)² mm²** (ou A(t) = π(4 + 0,4t + 0,01t²), com t em segundos)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A linha tracejada está em f = 4,0 · 10¹⁵ Hz; para frequências maiores a intensidade transmitida cai a zero e a placa fica opaca. O comprimento de onda correspondente é:\n\nλ = c ÷ f = 3 · 10⁸ ÷ 4,0 · 10¹⁵ = **7,5 · 10⁻⁸ m**\n\nA placa é opaca para comprimentos de onda iguais ou menores que esse valor. Como 7,5 · 10⁻⁸ m está entre 10⁻⁸ m e 3,5 · 10⁻⁷ m, essa luz pertence ao **ultravioleta**.\n\n**b)** Energia do fóton:\n\nE = h · f = 6,6 · 10⁻³⁴ · 4,0 · 10¹⁵ = 2,64 · 10⁻¹⁸ J\n\nEnergia cinética do elétron = energia do fóton – energia de ionização:\n\nEc = 2,64 · 10⁻¹⁸ – 2,5 · 10⁻¹⁸ = **1,4 · 10⁻¹⁹ J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Com S desligada não há corrente no ramo a–b. Ficam dois ramos em paralelo entre c e d:\n\nRamo c–a–d: R₁ + R₂ = 5 + 10 = 15 Ω\n\nRamo c–b–d: R₃ + R₄ = 25 + 50 = 75 Ω\n\nR_eq = (15 · 75) ÷ (15 + 75) = 1 125 ÷ 90 = **12,5 Ω**\n\ni = U ÷ R_eq = 5 ÷ 12,5 = **0,4 A**\n\n**b)** Se a corrente entre a e b é nula, a corrente i₁ que passa por R₁ é a mesma que passa por R₂, e a corrente i₂ que passa por R₃ é a mesma que passa por R₄. Além disso, sem corrente no amperímetro, V_a = V_b.\n\nComo V_a = V_b, as ddps a partir de c são iguais: V_c – V_a = V_c – V_b → R₁ · i₁ = R₃ · i₂ (I)\n\nE as ddps até d também: V_a – V_d = V_b – V_d → R₂ · i₁ = R₄ · i₂ (II)\n\nDividindo (I) por (II): R₁ ÷ R₂ = R₃ ÷ R₄\n\nLogo, **R₁ · R₄ = R₂ · R₃**.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

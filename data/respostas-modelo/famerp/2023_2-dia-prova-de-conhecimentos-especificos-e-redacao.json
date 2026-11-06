@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/famerp/2023_2-dia-prova-de-conhecimentos-especificos-e-redacao.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** As enzimas intestinais das superlarvas atuam como **catalisadores da degradação (digestão) do poliestireno**: quebram as longas cadeias do polímero em moléculas menores, que poderiam ser aproveitadas como matéria-prima para produzir novos materiais, o que permitiria reciclar o plástico.\n\nFator abiótico que influencia a atividade enzimática: **temperatura** (também valem pH ou concentração do substrato).\n\n**b)** Antes é preciso descobrir o **gene** da superlarva que codifica essa enzima (sua sequência de nucleotídeos), para isolá-lo e inseri-lo no plasmídeo bacteriano.\n\nA propriedade que permite a síntese é a **universalidade do código genético**: os mesmos códons correspondem aos mesmos aminoácidos em praticamente todos os seres vivos, de modo que a bactéria traduz o gene do inseto e produz a mesma proteína.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O ciclo, que alterna entre o ser humano e o inseto barbeiro (triatomíneo), é o do *Trypanosoma cruzi*, causador da **doença de Chagas**.\n\nA fase sem estrutura locomotora é a indicada pelo número **3**: as formas **amastigotas**, arredondadas e sem flagelo livre, que se multiplicam dentro das células humanas.\n\n**b)** No coração, o protozoário invade as **células do músculo cardíaco**, onde se multiplica como amastigota e as rompe. Isso provoca destruição das fibras musculares e das células nervosas do coração, inflamação e substituição do tecido por fibrose. Com o tempo, o coração perde força de contração e aumenta de volume (**cardiomegalia**), surgindo insuficiência cardíaca e arritmias.\n\nO barbeiro, ao sugar o sangue, **defeca próximo ao local da picada**; suas fezes contêm as formas tripomastigotas. Ao coçar o local, a pessoa leva as fezes contaminadas para a ferida da picada ou para mucosas (como a dos olhos), e o parasita penetra no organismo. (Também há transmissão pela ingestão de alimentos contaminados com o barbeiro ou suas fezes.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Uma característica da comunidade pioneira é ser formada por organismos **pouco exigentes e muito resistentes** às condições adversas da rocha nua (falta de solo e de água, grande insolação), como liquens e musgos. Ao se instalarem, decompõem a rocha e acumulam matéria orgânica, **formando o solo inicial** que permite a chegada de outras espécies. (Outras características aceitas: reprodução rápida, autotrofia, grande capacidade de dispersão.)\n\nEsses organismos chegaram à ilha **dispersos pelo vento**, como esporos e propágulos leves; também podem ter sido levados pela água do mar ou por aves.\n\n**b)** Na comunidade clímax a biomassa se estabiliza porque a **produtividade primária bruta se iguala ao consumo pela respiração** de todos os organismos (P ≈ R): a produtividade líquida da comunidade é praticamente nula, e não há acúmulo de matéria orgânica.\n\nHá maior variedade de nichos porque a comunidade clímax tem **maior biodiversidade e maior complexidade estrutural** (vários estratos de vegetação, microclimas, abrigos e fontes de alimento), com teias alimentares complexas, o que permite que muitas espécies explorem recursos e modos de vida diferentes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A célula diretamente relacionada é a **hemácia** (eritrócito, glóbulo vermelho), cuja destruição (hemólise) caracteriza a anemia hemolítica. Normalmente, hemácias envelhecidas são destruídas no **baço** (e também no fígado), por macrófagos.\n\n**b)** Na doença autoimune humoral, o sistema imunitário perde a tolerância ao próprio organismo e os **linfócitos B (plasmócitos) produzem autoanticorpos contra antígenos da membrana das próprias hemácias**. As hemácias marcadas por esses anticorpos são destruídas (por ativação do sistema complemento ou por fagocitose no baço), causando hemólise e anemia.\n\nNa anemia há menos hemácias ou menos hemoglobina, e o sangue transporta **menos oxigênio** aos tecidos. Os músculos recebem pouco O₂, produzem menos ATP pela respiração aeróbica e recorrem mais à fermentação láctica; por isso, mesmo um esforço leve causa cansaço.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O risco de rejeição é baixo porque as células CAR-T são **células do próprio paciente** (transplante autólogo): têm as mesmas proteínas de histocompatibilidade (HLA/MHC) que as demais células do organismo e, por isso, não são reconhecidas como estranhas pelo sistema imunitário.\n\nA divisão celular relacionada ao câncer é a **mitose**, que nas células cancerosas ocorre de forma descontrolada.\n\n**b)** O alvo são as **proteínas** (glicoproteínas) da membrana das células cancerosas, que atuam como antígenos específicos do tumor.\n\n**Não**. As células CAR-T são linfócitos, ou seja, **células somáticas** modificadas. A alteração genética não atinge as células da linhagem germinativa nem os gametas, que são as únicas células que transmitem genes aos descendentes; portanto, a modificação não é herdada.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** À noite não há luz para a fotossíntese, e a absorção de CO₂ pelos estômatos não seria aproveitada. Mantendo-os fechados, a planta **reduz a perda de água por transpiração** sem prejuízo para a fotossíntese.\n\nCondição abiótica do solo que induz o fechamento mesmo com luz: **baixa disponibilidade de água no solo** (solo seco, deficiência hídrica). Também vale a alta salinidade do solo, que dificulta a absorção de água.\n\n**b)** No momento **3**. Nele a concentração de K⁺ nas células-guarda é mínima e nas células anexas é máxima: os íons K⁺ saíram das células-guarda, que perderam água por osmose, ficaram flácidas e fecharam o ostíolo. Esse efluxo de K⁺ é induzido pelo **ácido abscísico (ABA)**, fitormônio produzido em situação de deficiência hídrica.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O alelo recessivo está no **cromossomo X** (na região não homóloga ao Y).\n\nO sexo masculino é **heterogamético** porque o homem tem dois cromossomos sexuais diferentes (XY) e, na meiose, forma dois tipos de gametas quanto ao cromossomo sexual: espermatozoides com X e espermatozoides com Y (50 % de cada).\n\n**b)** Murilo é afetado (XᵈY) e recebeu o Xᵈ da mãe; o pai não é afetado (XᴰY). Logo, a mãe é portadora: XᴰXᵈ.\n\nGiovana (não afetada) recebeu Xᴰ do pai e, da mãe, Xᴰ ou Xᵈ:\nP(Giovana portadora, XᴰXᵈ) = 1/2\n\nSe for portadora, com um parceiro não afetado:\nP(filho do sexo masculino) = 1/2\nP(esse filho receber Xᵈ da mãe) = 1/2\nP(criança menino e afetado) = 1/2 × 1/2 = 1/4\n\nProbabilidade final: 1/2 × 1/4 = **1/8** (12,5 %).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** As espécies devem ser ordenadas pela época de origem das ilhas, que acompanha a colonização a partir de Kaua'i, a ilha mais antiga. A espécie de origem mais antiga, ***Dubautia waialealae*** (Kaua'i, 5,1 milhões de anos), ocupa o ramo que se separa primeiro (mais externo); em seguida separa-se ***Dubautia scabra*** (O'ahu, 3,7 milhões de anos); e o ramo mais recente é o de ***Argyroxiphium sandwicense*** (Maui, 1,3 milhão de anos). Assim, *D. scabra* e *A. sandwicense* aparecem como as espécies mais aparentadas entre si.\n\nMecanismo pós-zigótico: **inviabilidade do híbrido** (morte do embrião ou do híbrido) ou **esterilidade do híbrido** (o híbrido sobrevive, mas não produz gametas férteis). Basta citar um deles.\n\n**b)** O principal fator foi o **isolamento geográfico**: as populações que colonizaram ilhas diferentes ficaram separadas pelo mar.\n\nEsse isolamento é fundamental porque **interrompe o fluxo gênico** entre as populações. Separadas, elas acumulam mutações diferentes e sofrem seleção natural sob condições ambientais distintas (e deriva genética), divergindo geneticamente até surgir o isolamento reprodutivo, que caracteriza novas espécies.",
+   "confianca": "baixa",
+   "pendencia": "O desenho do cladograma do campo de resposta não aparece na imagem. A ordem proposta segue a idade das ilhas; se o critério for o gênero, as duas Dubautia ficam como espécies-irmãs e Argyroxiphium no ramo mais externo."
+  },
+  "0:9": {
+   "resposta": "**a)** Etanoato de butila: CH₃–COO–CH₂–CH₂–CH₂–CH₃. Fórmula molecular: **C₆H₁₂O₂**.\n\nÁcido carboxílico isômero de função, de cadeia não ramificada: **ácido hexanoico**\nCH₃–CH₂–CH₂–CH₂–CH₂–COOH\n(com o grupo carboxila escrito por extenso: CH₃–CH₂–CH₂–CH₂–CH₂–C(=O)–OH)\n\n**b)** Precursores da esterificação:\n\nÁcido: **ácido etanoico (acético)**: CH₃–C(=O)–OH\n\nÁlcool: **butan-1-ol**: HO–CH₂–CH₂–CH₂–CH₃\n\nReação: CH₃COOH + HOCH₂CH₂CH₂CH₃ ⇌ CH₃COOCH₂CH₂CH₂CH₃ + H₂O (catalisada por H₂SO₄).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Oxigênio (Z = 8): **K = 2, L = 6**.\n\nNa reação, o oxigênio passa de O₂ (substância simples, Nox = 0) para H₂O (Nox = −2). Variação do Nox: 0 → −2, ou seja, **ΔNox = −2** (o oxigênio sofre redução, ganhando 2 elétrons por átomo).\n\n**b)** Quantidades:\nn(H₂) = 20 g ÷ 2 g/mol = 10 mol\nn(O₂) = 200 g ÷ 32 g/mol = 6,25 mol\n\nProporção H₂ : O₂ = 1 : 1/2. Para 10 mol de H₂ são necessários 5 mol de O₂ (160 g); há 6,25 mol, portanto o **O₂ está em excesso** e o H₂ é o reagente limitante.\n\nEnergia liberada: 1 mol de H₂ → 242 kJ\n10 mol × 242 kJ/mol = **2 420 kJ** (2,42 × 10³ kJ).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Os três íons são isoeletrônicos (18 elétrons). Quanto maior o número de prótons, maior a atração sobre os elétrons e menor o raio. Como Z(Ca) = 20, Z(K) = 19 e Z(Cl) = 17, a ordem crescente de raio é:\n\n**Ca²⁺ < K⁺ < Cl⁻**\n\nAbundância do ³⁵Cl (x, em fração):\n35·x + 37·(1 − x) = 35,5\n37 − 2x = 35,5\nx = 0,75 → **75 %** de ³⁵Cl (e 25 % de ³⁷Cl).\n\n**b)** Quantidades misturadas:\nn(KCl) = 0,2 mol/L × 0,200 L = 0,04 mol → 0,04 mol de Cl⁻\nn(CaCl₂) = 0,1 mol/L × 0,300 L = 0,03 mol → 0,03 mol de Ca²⁺ e 0,06 mol de Cl⁻\n\nEm 0,500 L de solução final:\n[Ca²⁺] = 0,03 ÷ 0,5 = **0,06 mol/L**\n[Cl⁻] = (0,04 + 0,06) ÷ 0,5 = **0,2 mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Substâncias simples: Fe e N₂ → **2**. Substâncias compostas: NaN₃, Fe₂O₃ e Na₂O → **3**.\n\nQuantidade de gás (PV = nRT), com T = 27 + 273 = 300 K:\nn = P·V ÷ (R·T)\nn = 1,2 × 65,6 ÷ (0,082 × 300)\nn = 78,72 ÷ 24,6 = **3,2 mol** de gás\n\n**b)** n(N₂) = 126 g ÷ 28 g/mol = 4,5 mol\n\nPela equação, 6 mol NaN₃ → 9 mol N₂:\nn(NaN₃) = 4,5 × 6/9 = 3 mol\nm(NaN₃) = 3 mol × 65 g/mol = **195 g**\n\nFe₂O₃ necessário: 6 mol NaN₃ reagem com 1 mol Fe₂O₃, então 3 mol NaN₃ reagem com 0,5 mol Fe₂O₃ = 0,5 × 160 = 80 g.\n\nExcesso de Fe₂O₃: 100 g − 80 g = **20 g**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** O Pb²⁺ tem maior potencial de redução (−0,13 V) que o Fe²⁺ (−0,44 V); portanto o Pb²⁺ se reduz e o ferro se oxida.\n\nÂnodo: Fe(s) → Fe²⁺(aq) + 2e⁻\nCátodo: Pb²⁺(aq) + 2e⁻ → Pb(s)\nEquação global: **Fe(s) + Pb²⁺(aq) → Fe²⁺(aq) + Pb(s)**\n\nddp = E°red(cátodo) − E°red(ânodo) = −0,13 − (−0,44) = **+0,31 V**\n\n**b)** O **cátodo é o eletrodo de chumbo (Pb)**, e é nele que ocorre a redução (Pb²⁺ + 2e⁻ → Pb). O eletrodo de ferro é o ânodo (polo negativo), onde ocorre a oxidação.\n\nNa ponte salina de KNO₃: os **cátions K⁺ migram para o recipiente do chumbo** (cátodo), repondo a carga positiva perdida com o consumo de Pb²⁺; os **ânions NO₃⁻ migram para o recipiente do ferro** (ânodo), compensando o excesso de Fe²⁺ formado. Na figura: setas de K⁺ apontando da ponte para a semicélula de Pb e setas de NO₃⁻ apontando para a semicélula de Fe; os elétrons percorrem o fio do Fe para o Pb.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Fórmula estrutural do HCN: **H–C≡N** (ligação simples entre H e C e tripla entre C e N).\n\nNeutralização completa do ácido sulfúrico:\n**H₂SO₄ + 2 KOH → K₂SO₄ + 2 H₂O**\n\n**b)** pH = 2 → [H⁺] = 10⁻² mol/L. Na ionização HF ⇌ H⁺ + F⁻, [F⁻] = [H⁺] = 10⁻² mol/L.\n\nKa = [H⁺]·[F⁻] ÷ [HF]\n7,0 × 10⁻⁴ = (10⁻²·10⁻²) ÷ [HF]\n[HF] = 10⁻⁴ ÷ 7,0 × 10⁻⁴ ≈ **0,14 mol/L** (1,4 × 10⁻¹ mol/L)\n\nA adição de NaF aumenta a concentração de F⁻ (efeito do íon comum) e desloca o equilíbrio no sentido do HF não ionizado, diminuindo o grau de ionização. Porém a **constante de ionização Ka não se altera**, pois depende apenas da temperatura.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Tempo médio entre colisões (movimento com velocidade escalar média constante):\nΔt = d ÷ v = 6,0 × 10⁻⁷ m ÷ 1,2 × 10³ m/s = **5,0 × 10⁻¹⁰ s**\n\nNúmero de colisões em 5,0 s:\nN = 5,0 s ÷ 5,0 × 10⁻¹⁰ s = **1,0 × 10¹⁰ colisões**\n\n**b)** Temperatura:\nEc = (3/2)·k·T → T = 2·Ec ÷ (3·k)\nT = 2 × 2,1 × 10⁻²⁰ ÷ (3 × 1,4 × 10⁻²³)\nT = 4,2 × 10⁻²⁰ ÷ 4,2 × 10⁻²³ = **1,0 × 10³ K**\n\nVelocidade:\nEc = m·v²/2 → v = √(2·Ec ÷ m)\nv = √(2 × 2,1 × 10⁻²⁰ ÷ 4,2 × 10⁻²⁶) = √(1,0 × 10⁶)\nv = **1,0 × 10³ m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Em P a única força relevante é a gravitacional do Sol (2ª Lei de Newton):\na = F ÷ m = 4,0 × 10¹⁸ N ÷ 8,0 × 10⁸ kg = **5,0 × 10⁹ m/s²**\n\nPela figura, a distância ao Sol é d em P e 2d em A. A força gravitacional é inversamente proporcional ao quadrado da distância:\nF_A ÷ F_P = (d ÷ 2d)² = 1/4\nF_A = 4,0 × 10¹⁸ ÷ 4 = **1,0 × 10¹⁸ N**\n\n**b)** Aceleração gravitacional na superfície do asteroide:\ng = G·M ÷ R²\ng = 6,6 × 10⁻¹¹ × 8,0 × 10⁸ ÷ (40)²\ng = 5,28 × 10⁻² ÷ 1 600 = **3,3 × 10⁻⁵ m/s²**\n\nPeso do objeto:\nP = m·g = 2,0 × 3,3 × 10⁻⁵ = **6,6 × 10⁻⁵ N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Fluxo de calor:\nΦ = k·A·(θ₁ − θ₀) ÷ L\nΦ = 0,50 × 5,0 × (100 − 0) ÷ 50\nΦ = **5,0 cal/s**\n\nQuantidade de calor em 1,0 min (60 s):\nQ = Φ·Δt = 5,0 cal/s × 60 s = **300 cal** (3,0 × 10² cal)\n\n**b)** Dilatação superficial da base, de 0 °C a 100 °C:\nΔA = A₀·β·Δθ\n2,20 × 10⁻² = 5,0 × β × 100\nβ = 2,20 × 10⁻² ÷ 500 = **4,4 × 10⁻⁵ °C⁻¹**\n\nCoeficiente linear (β = 2α):\nα = 4,4 × 10⁻⁵ ÷ 2 = **2,2 × 10⁻⁵ °C⁻¹**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Pela 2ª lei da reflexão, o ângulo de reflexão é igual ao de incidência: **θ = 30°**.\n\nA superfície de separação funciona como um espelho plano para a parte refletida da luz. No espelho plano, imagem e objeto são simétricos em relação à superfície: a imagem fica à mesma distância que a fonte, do outro lado. Logo, **d = 80 cm**.\n\n**b)** Lei de Snell-Descartes:\nn₁·sen 30° = n₂·sen δ\n1,0 × 0,50 = n₂ × 0,20\nn₂ = **2,5**\n\nVelocidade no meio 2:\nn₂ = c ÷ v₂ → v₂ = 300 000 ÷ 2,5 = **120 000 km/s** (1,2 × 10⁵ km/s)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A figura mostra 4 fusos (ventres) entre A e B; cada fuso corresponde a meio comprimento de onda:\n4 · (λ/2) = 60 cm → λ = **30 cm** (0,30 m)\n\nFrequência:\nv = λ·f → f = 90 m/s ÷ 0,30 m = **300 Hz**\n\n**b)** Com a mesma tração T: v = √(T/μ), logo v² · μ = T é igual para as duas cordas.\nv_Z² · μ_Z = v_Y² · μ_Y\n(2v_Y)² · μ_Z = v_Y² · 6,0\nμ_Z = 6,0 ÷ 4 = **1,5 g/m**\n\nComprimento entre as extremidades fixas (igual ao da corda X): 60 cm = 0,60 m.\nm = μ_Z · L = 1,5 g/m × 0,60 m = **0,90 g**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A partícula tem velocidade constante (MRU); pela 1ª lei de Newton (inércia), a força resultante sobre ela é nula. Assim, a força elétrica equilibra o peso: mesma intensidade, mesma direção e sentido oposto.\n\nF_e = P = m·g = 4,0 × 10⁻⁹ × 10 = **4,0 × 10⁻⁸ N**\n\nComo o peso é vertical para baixo (sentido negativo de z), a força elétrica tem **direção do eixo z e sentido positivo (para cima)**.\n\n**b)** Peso e força elétrica continuam se anulando, e a força magnética atua como resultante centrípeta:\nq·v·B = m·v²/R → B = m·v ÷ (q·R)\nB = 4,0 × 10⁻⁹ × 500 ÷ (2,0 × 10⁻⁹ × 0,50)\nB = 2,0 × 10⁻⁶ ÷ 1,0 × 10⁻⁹ = **2,0 × 10³ T**\n\nDireção: para o MCU no plano xy, a força magnética (centrípeta) precisa estar sempre nesse plano, perpendicular à velocidade. Pela regra da mão direita (regra do \"tapa\"), a força magnética é perpendicular a v e a B; para que ela fique no plano xy qualquer que seja a direção de v nesse plano, **B deve ter a direção do eixo z** (perpendicular ao plano do movimento). O sentido (+z ou −z) depende do sentido de rotação da partícula, que o enunciado não especifica.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -3,9 +3,9 @@
 # ferramentas/respostas-modelo/instrucoes.md. Só entram cadernos com as questões já recortadas
 # (data/vunesp-catalogo.js, campo "local"); questões objetivas e a redação ficam de fora.
 #
-# Uso: python3 ferramentas/respostas-modelo/preparar.py UNESP:2024-2026 FAMERP,FAMEMA:2024-2027 [--lote 45]
+# Uso: python3 ferramentas/respostas-modelo/preparar.py UNESP:2024-2026 FAMERP,FAMEMA:2024-2027 [--lote 45] [--pasta nome]
 #      (instituição pelo começo do nome no catálogo; anos pelo campo "ano" da edição)
-# Saída: trabalho/respostas-modelo/<data>/lote-NN.json e as imagens
+# Saída: trabalho/respostas-modelo/<pasta, padrão a data>/lote-NN.json e as imagens
 import json
 import re
 import sys
@@ -59,10 +59,13 @@ def main():
     tamanho = int(sys.argv[sys.argv.index('--lote') + 1]) if '--lote' in sys.argv else 45
     if '--lote' in sys.argv:
         args.remove(str(tamanho))
+    pasta = sys.argv[sys.argv.index('--pasta') + 1] if '--pasta' in sys.argv else date.today().isoformat()
+    if '--pasta' in sys.argv:
+        args.remove(pasta)
     if not args:
         sys.exit('uso: python3 ferramentas/respostas-modelo/preparar.py INST[,INST]:ANO-ANO ... [--lote 45]')
     regras = filtros(args)
-    destino = RAIZ / 'trabalho' / 'respostas-modelo' / date.today().isoformat()
+    destino = RAIZ / 'trabalho' / 'respostas-modelo' / pasta
     (destino / 'imagens').mkdir(parents=True, exist_ok=True)
 
     itens, documentos, ignoradas = [], {}, 0

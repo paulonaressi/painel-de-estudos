@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2017_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:13": {
+   "resposta": "A afirmação de que os gorilas são ancestrais dos humanos está **errada**. Segundo a biologia evolutiva, gorilas e humanos são espécies atuais, que evoluíram paralelamente a partir de um **ancestral comum** que viveu há cerca de 8 a 10 milhões de anos. Da linhagem desse ancestral derivaram, por especiação, o ramo que levou aos gorilas e o ramo que levou aos chimpanzés e aos humanos. Uma espécie contemporânea não pode ser ancestral de outra também contemporânea; ambas são \"primas\" evolutivas, e não uma descendente da outra.\n\nDizer que as espécies são próximas significa que elas têm **grande semelhança genética**: a comparação das sequências de DNA (e de proteínas) mostra que humanos e gorilas compartilham cerca de 98% das sequências. Quanto maior a semelhança molecular, mais recente é o ancestral comum, pois houve menos tempo para o acúmulo de mutações diferentes em cada linhagem. Assim, gorilas estão entre os parentes vivos mais próximos do homem, atrás apenas de chimpanzés e bonobos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "O esgoto lança na lagoa grande quantidade de matéria orgânica e de nutrientes minerais, principalmente compostos de nitrogênio e fósforo. Esses nutrientes provocam a **eutrofização**: as algas e cianobactérias se multiplicam intensamente na superfície, formando uma camada que impede a passagem da luz. Abaixo dela, as algas e plantas submersas deixam de fazer fotossíntese e morrem. A enorme quantidade de matéria orgânica (do esgoto e dos organismos mortos) é decomposta por bactérias aeróbicas, que se multiplicam e consomem o oxigênio dissolvido na água mais rapidamente do que ele é reposto. Por isso a concentração de O₂ cai.\n\nCom a falta de oxigênio, as populações de vertebrados aeróbicos, como os peixes, **diminuem**, pela morte por asfixia (a mortandade mostrada na foto). Já as populações de microrganismos anaeróbicos **aumentam**, porque o ambiente pobre em O₂ e rico em matéria orgânica os favorece; eles passam a decompor essa matéria, liberando gases como H₂S e CH₄.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Três etapas da produção do soro:\n\n1. Inocula-se em um animal (em geral cavalo) o veneno de abelha, em doses pequenas e crescentes, que atua como antígeno.\n\n2. O sistema imunológico do animal produz anticorpos específicos contra os componentes do veneno.\n\n3. Retira-se sangue do animal, separa-se o plasma e purificam-se os anticorpos, que constituem o soro.\n\nO soro é mais indicado porque fornece **anticorpos prontos** (imunização passiva), que neutralizam o veneno imediatamente, o que é necessário numa intoxicação aguda que pode levar rapidamente à falência dos rins e de outros órgãos. A vacina contém antígenos e estimula o próprio organismo a produzir anticorpos e células de memória (imunização ativa), processo que leva dias ou semanas; por isso tem caráter preventivo e não age a tempo de tratar a vítima já picada.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "O processo é a **evaporação** da água (seguida de cristalização fracionada dos sais). Ele se baseia na diferença de **temperatura de ebulição** (volatilidade) entre a água, que evapora, e os sais, que permanecem e cristalizam; a separação entre os sais em tanques sucessivos se deve à diferença de **solubilidade** de cada um, que faz cristalizarem primeiro os menos solúveis.\n\nPrimeira etapa (precipitação do hidróxido de magnésio):\n\nMg²⁺(aq) + 2 OH⁻(aq) → Mg(OH)₂(s)\n\nÚltima etapa, reação global da eletrólise ígnea do cloreto de magnésio:\n\nMgCl₂(l) → Mg(l) + Cl₂(g)\n\n(cátodo: Mg²⁺ + 2 e⁻ → Mg; ânodo: 2 Cl⁻ → Cl₂ + 2 e⁻)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Quantidade de iodo consumida:\n\nn(I₂) = 0,050 mol/L × 0,02845 L = 1,4225 × 10⁻³ mol\n\nComo a proporção é 1 mol de I₂ : 1 mol de dipirona, n(dipirona) = 1,4225 × 10⁻³ mol.\n\nMassa de dipirona sódica mono-hidratada:\n\nm = 1,4225 × 10⁻³ mol × 351 g/mol ≈ 0,499 g ≈ 499 mg\n\nPorcentagem em relação ao declarado:\n\n499 mg ÷ 500 mg × 100 ≈ 99,9%\n\nComo 99,9% está entre 95% e 105% (faixa de 475 mg a 525 mg), o comprimido **está dentro** da especificação da Farmacopeia Brasileira.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "O miristato de isopropila pertence à função **éster**.\n\nÁcido mirístico (ácido tetradecanoico, 14 carbonos):\n\nCH₃–(CH₂)₁₂–COOH, ou seja, H₃C–CH₂–CH₂–…–CH₂–C(=O)–OH\n\nÁlcool isopropílico (propan-2-ol):\n\nH₃C–CH(OH)–CH₃\n\nEquação da esterificação:\n\nCH₃(CH₂)₁₂–C(=O)–OH + HO–CH(CH₃)₂ → CH₃(CH₂)₁₂–C(=O)–O–CH(CH₃)₂ + H₂O\n\nÁcido mirístico + álcool isopropílico → miristato de isopropila + água (reação 1 : 1 : 1 : 1, catalisada por ácido).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A gangorra gira como um corpo rígido em torno de O: Pedrinho e Carlinhos descrevem arcos de mesmo ângulo Δθ no mesmo intervalo de tempo Δt. Distâncias a O: Pedrinho, 3 m; Carlinhos, 1,2 + 0,8 = 2 m.\n\nArco percorrido: Δs = R · Δθ, logo V = R · Δθ ÷ Δt\n\nVP ÷ VC = RP ÷ RC = 3 ÷ 2 = **1,5**\n\nMassa da pedra, pelo equilíbrio de momentos em relação a O na posição inicial (pedra a 1,2 m de O):\n\nmP · g · 3 = mC · g · 2 + M · g · 1,2\n\n48 · 3 = 48 · 2 + M · 1,2\n\n144 = 96 + 1,2 M\n\nM = 48 ÷ 1,2 = **40 kg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Calor absorvido pelo gelo, em três etapas:\n\nAquecimento do gelo de –10 °C a 0 °C: Q₁ = m · c · Δθ = 200 · 0,5 · 10 = 1 000 cal\n\nFusão a 0 °C: Q₂ = m · L = 200 · 80 = 16 000 cal\n\nAquecimento da água de 0 °C a 4 °C: Q₃ = 200 · 1 · 4 = 800 cal\n\nTotal absorvido: Q = 1 000 + 16 000 + 800 = **17 800 cal**\n\nMassa de água no recipiente: o calor absorvido pelo gelo é igual ao cedido pela água e pelo recipiente, que esfriam de 24 °C a 4 °C (Δθ = –20 °C).\n\nQcedido = m · 1 · 20 + 200 · 20 = 20 m + 4 000\n\n20 m + 4 000 = 17 800\n\nm = 13 800 ÷ 20 = **690 g**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Resistência de cada lâmpada: R = U² ÷ P = 40² ÷ 80 = 20 Ω (corrente nominal 2 A). Cada ramo inferior tem 20 Ω + 10 Ω = 30 Ω em série; L₁ está em paralelo com o ramo da esquerda.\n\n**Chave em A:** o ponto central do ramo inferior fica ligado diretamente ao fio da esquerda, de modo que o ramo da esquerda e L₁ ficam em curto-circuito (os dois terminais no mesmo potencial). O gerador alimenta apenas L₂ em série com o ramo da direita:\n\nReq = 20 + 30 = 50 Ω → i = 40 ÷ 50 = 0,8 A\n\nP(L₂) = R · i² = 20 · 0,8² = 12,8 W e P(L₁) = 0\n\n**Chave em B:** o ponto central passa a ficar ligado ao terminal direito do gerador. L₂ e o ramo da direita formam uma malha sem gerador, ligada entre dois pontos de mesmo potencial, e não são percorridos por corrente. O gerador alimenta o ramo da esquerda em paralelo com L₁, ambos submetidos aos 40 V:\n\nP(L₁) = U² ÷ R = 40² ÷ 20 = 80 W (brilho nominal) e P(L₂) = 0",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Em junho de 2016 a potência é 10 GW e dobra a cada 3 anos: P(t) = 10 · 2^(t/3), com t em anos contados a partir de 2016.\n\n64% do potencial: 0,64 · 500 = 320 GW\n\n10 · 2^(t/3) = 320 → 2^(t/3) = 32 = 2⁵ → t/3 = 5 → t = 15 anos\n\nO Brasil atingirá 64% do potencial em **2031**.\n\n100% do potencial: 10 · 2^(t/3) = 500 → 2^(t/3) = 50\n\n(t/3) · log 2 = log 50 = log 100 − log 2 = 2 − 0,3 = 1,7\n\nt/3 = 1,7 ÷ 0,3 ≈ 5,67 → t ≈ 17 anos\n\nO Brasil atingirá 100% do potencial por volta de **2033**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**Demonstração:** as rotas mantêm ângulos constantes α e β com a direção horizontal de referência, e todas as horizontais da figura são paralelas. Trace por P uma reta horizontal r. A rota do navio é uma transversal às paralelas, logo a semirreta PN forma com r um ângulo igual a β (ângulos alternos/correspondentes ao β marcado em N). Do mesmo modo, a rota da lancha é transversal às paralelas, e a semirreta PL forma com r um ângulo igual a α (correspondente ao α marcado em L). Como PN e PL ficam em lados opostos de r, o ângulo LPN é a soma desses dois ângulos: LPN = α + β, que é obtuso, já que cos(α + β) < 0.\n\n**Distância NP:** a colisão exige que os dois cheguem a P no mesmo instante t. Então LP = 80t e NP = 30t. Pela lei dos cossenos no triângulo LPN:\n\nLN² = LP² + NP² − 2 · LP · NP · cos(α + β)\n\n10² = (80t)² + (30t)² − 2 · 80t · 30t · (−9/16)\n\n100 = 6 400t² + 900t² + 2 700t² = 10 000t²\n\nt² = 0,01 → t = 0,1 h\n\nNP = 30 · 0,1 = **3 km** (e LP = 8 km)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A planificação da superfície lateral do cone inteiro é um setor circular de raio 12 cm (a geratriz) com arco igual ao perímetro da base, 2π · 4 = 8π cm, o que dá ângulo 8π ÷ 12 = 2π/3 = 120°, como na figura 2. S é a coroa desse setor entre os raios 6 cm e 12 cm.\n\n**Área de S:**\n\nS = (120°/360°) · π · (12² − 6²) = (1/3) · π · 108 = **36π cm²** (≈ 113 cm²)\n\n**Perímetro de S:** dois segmentos de 6 cm (12 − 6) e dois arcos de 120°.\n\nArco externo: (1/3) · 2π · 12 = 8π cm; arco interno: (1/3) · 2π · 6 = 4π cm\n\nPerímetro = 6 + 6 + 8π + 4π = **(12 + 12π) cm** (≈ 49,7 cm)\n\n**Volume do tronco:** altura do cone original: h = √(12² − 4²) = √128 = 8√2 cm.\n\nV(cone) = (1/3) · π · 4² · 8√2 = 128√2π/3 cm³\n\nO corte a 6 cm do vértice, na geratriz, gera um cone semelhante com razão 6/12 = 1/2 (raio 2 cm, altura 4√2 cm), cujo volume é (1/2)³ do original: 16√2π/3 cm³.\n\nV(tronco) = 128√2π/3 − 16√2π/3 = **112√2π/3 cm³** (≈ 166 cm³)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

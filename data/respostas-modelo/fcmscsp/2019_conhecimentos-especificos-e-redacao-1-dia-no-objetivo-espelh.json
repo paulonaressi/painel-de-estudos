@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2019_conhecimentos-especificos-e-redacao-1-dia-no-objetivo-espelh.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O Cerrado corresponde à área **2**, no Brasil central. Ele é chamado de \"floresta de ponta-cabeça\" porque grande parte da biomassa de suas plantas fica **embaixo da terra**: as árvores, de porte baixo e troncos tortuosos, têm raízes muito longas e ramificadas, que chegam ao lençol freático, a até cerca de 20 m de profundidade. Esse sistema subterrâneo é mais desenvolvido que a parte aérea, como se a \"floresta\" estivesse invertida.\n\n**b)** As raízes profundas da vegetação nativa e a cobertura permanente do solo favorecem a **infiltração** da água da chuva, que percola até os aquíferos e os recarrega. As monoculturas de milho e soja têm raízes curtas, deixam o solo exposto parte do ano e o compactam com máquinas; com isso aumenta o escoamento superficial e a erosão, e diminui a infiltração. Além disso, a irrigação das lavouras retira água do subsolo. O resultado é a **menor recarga** dos aquíferos, que abastecem nascentes e grandes bacias hidrográficas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O agente etiológico, o protozoário *Trypanosoma cruzi*, pertence ao **Reino Protista** (Protoctista). No ser humano, a reprodução assexuada (divisão binária das formas amastigotas, dentro das células) ocorre preferencialmente no **coração**, nas fibras do músculo cardíaco.\n\n**b)** Ao picar uma pessoa contaminada, o barbeiro ingere sangue com tripanossomos, que se multiplicam no seu intestino e passam às fezes na forma infectante. Ao picar uma pessoa saudável, o inseto costuma defecar perto do local da picada; quando a pessoa coça, as fezes contaminadas penetram pela lesão da pele (ou pelas mucosas, como a dos olhos), e o protozoário invade o sangue e as células do novo hospedeiro. Assim o parasita alterna entre o hospedeiro invertebrado e o vertebrado, e o ciclo continua.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A secreção 1 é o **suco pancreático**, que contém a lipase pancreática e por isso já inicia, lentamente, a digestão do azeite (triglicerídeos). Ele digere também outras moléculas orgânicas, por exemplo o **amido** (pela amilase pancreática); proteínas (tripsina, quimotripsina) e ácidos nucleicos (nucleases) também são aceitos.\n\n**b)** A secreção 2 é a **bile**, produzida no fígado e armazenada na vesícula biliar. Ela não tem enzimas, mas seus sais biliares **emulsificam** as gorduras, fragmentando o azeite em gotículas muito pequenas. Isso aumenta muito a superfície de contato entre os lipídios e a lipase, e por isso a velocidade da digestão sobe de repente.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O pulgão retirou substâncias do **floema**, que transporta a seiva elaborada. A substância com o isótopo pesado é o **açúcar** produzido na fotossíntese, transportado no floema principalmente como **sacarose**: o oxigênio do CO₂ fica na glicose (e na água formada), e não no O₂ liberado, que vem da água.\n\n**b)** Como a luz está acima do ponto de compensação fótico, a **taxa de fotossíntese é maior que a taxa de respiração**. Por isso há sobra de glicose produzida nas folhas, e boa parte dela é convertida em **amido** e armazenada nas próprias células do parênquima clorofiliano (nos cloroplastos), como reserva; só parte dos açúcares é exportada pelo floema para flores e frutos. Como o ¹⁸O do CO₂ é incorporado à glicose, a maior parte dele permanece estocada nas folhas.",
+   "confianca": "media",
+   "pendencia": "A pergunta sobre o estoque nas folhas admite mais de uma explicação; a resposta usa a mais comum (excedente de glicose guardado como amido)."
+  },
+  "0:5": {
+   "resposta": "**a)** Foi usada uma **bactéria**, organismo procarioto unicelular. Além do DNA genômico (cromossomo bacteriano), o nucleotídeo timina é encontrado nos **plasmídeos**, pequenas moléculas circulares de DNA dispersas no citoplasma.\n\n**b)** A substância mutagênica alterou a sequência de bases do gene, provavelmente por uma mutação pontual que transformou um códon de aminoácido em um **códon de parada** (UAA, UAG ou UGA) no meio do gene (mutação sem sentido). Na tradução, o ribossomo encontra esse códon prematuro e encerra a síntese, liberando uma proteína com cerca de metade do comprimento original.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A seta 1 indica a **filtração glomerular** (ultrafiltração), passagem do plasma do glomérulo para a cápsula de Bowman. Um exemplo de substância orgânica com concentrações diferentes nas duas arteríolas são as **proteínas plasmáticas** (como a albumina): elas não são filtradas, mas a água é, e por isso ficam mais concentradas no sangue da arteríola eferente. Respostas como a ureia e a glicose, cuja quantidade no sangue diminui com a filtração, também costumam ser aceitas.\n\n**b)** O plasma com alta concentração de solutos nos vasos ao redor da alça de Henle (vasos retos) ajuda a manter a **medula renal hiperosmótica**. Esse meio concentrado puxa água, por osmose, do ramo descendente e do ducto coletor de volta para o sangue, permitindo **reabsorver água** e produzir urina concentrada.\n\nA **aldosterona** aumenta a **reabsorção de Na⁺** (e a secreção de K⁺) no túbulo distal e no ducto coletor; a água acompanha o sódio por osmose, o que aumenta o volume de sangue e a pressão arterial.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O gene do daltonismo se manifesta nos **cones**, células fotorreceptoras responsáveis pela visão das cores. Os cones fazem parte da **retina**, camada de tecido nervoso do olho.\n\n**b)** O daltonismo é recessivo ligado ao X. O irmão daltônico (XᵈY) recebeu o Xᵈ da mãe, que é portadora (XᴰXᵈ); o pai é XᴰY. Beatriz, de visão normal, pode ser XᴰXᴰ ou XᴰXᵈ: P(portadora) = 1/2. O noivo é XᵈY.\n\nSe Beatriz for portadora, uma filha recebe Xᵈ do pai e tem 1/2 de chance de receber Xᵈ da mãe.\n\nP = 1/2 (Beatriz portadora) × 1/2 (ser menina) × 1/2 (receber Xᵈ da mãe) = **1/8** (12,5%)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Miller quis testar a hipótese de Oparin e Haldane de que **compostos orgânicos poderiam se formar espontaneamente** a partir dos gases da atmosfera primitiva da Terra. Ele simulou essa atmosfera (metano, amônia, hidrogênio e vapor de água) e submeteu os gases a descargas elétricas, como raios, com ciclos de aquecimento e condensação. Ao final, obteve **aminoácidos** e outras moléculas orgânicas simples, mostrando que a síntese abiótica era possível.\n\n**b)** Darwin buscou explicar a **origem e a diversificação das espécies** por meio da evolução por **seleção natural**, a partir de ancestrais comuns, como sugere o esboço de árvore. O aspecto que ele não conseguiu esclarecer foi a **origem da variabilidade** entre os indivíduos e o modo como as características são **transmitidas aos descendentes**, explicado depois pela genética (leis de Mendel, mutações e recombinação).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A principal interação é a **ligação de hidrogênio**, entre um par de elétrons do oxigênio do éter e o hidrogênio da água:\n\nCH₃–CH₂–Ö–CH₂–CH₃ ··· H–O–H\n\n(o oxigênio do éter é o aceptor; o H da água, ligado a O, é o doador; a linha pontilhada representa a ligação de hidrogênio).\n\n**b)** 2 CH₃–CH₂–OH → CH₃–CH₂–O–CH₂–CH₃ + H₂O (catalisador H₂SO₄, aquecimento a cerca de 140 °C)\n\nTrata-se de uma **desidratação intermolecular**: a água é retirada de duas moléculas de etanol, que se unem pelo oxigênio formando o éter.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** O HCl libera íons H⁺, que reagem com os íons OH⁻ do equilíbrio formando água. A concentração de OH⁻ diminui e, pelo princípio de Le Chatelier, o equilíbrio se desloca **para a direita**, no sentido de repor o OH⁻, consumindo NO₂⁻. Além disso, o H⁺ reage diretamente com o NO₂⁻ formando HNO₂, ácido fraco. Assim, a **concentração de íons nitrito diminui**.\n\n**b)** NO₂⁻ + H₂O ⇌ HNO₂ + OH⁻, com [HNO₂] = [OH⁻] = x e [NO₂⁻] ≈ 0,04 mol/L\nK = x² ÷ 0,04 = 2,5 × 10⁻¹¹\nx² = 1,0 × 10⁻¹² → [OH⁻] = 1,0 × 10⁻⁶ mol/L\npOH = 6 → pH = 14 − 6\n**pH = 8**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** ¹¹¹₄₈Cd + ¹₁p → ¹¹¹₄₉In + ¹₀n\n\nA partícula emitida é o **nêutron**.\n\n**b)** Pelo gráfico, a atividade cai de 200 MBq para 100 MBq em 3 dias: a meia-vida é de **3 dias**.\n200 → 100 → 50 → 25 → 12,5 MBq: são 4 meias-vidas.\nt = 4 × 3 dias = **12 dias**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Estrutura de Lewis do O₃ (com ressonância):\n\n:Ö=Ö–Ö: ↔ :Ö–Ö=Ö:\n\nO oxigênio central faz uma ligação dupla com um oxigênio e uma simples com o outro e tem um par de elétrons não ligante; o O da dupla tem dois pares livres e o da simples, três. Por causa do par livre no átomo central, a molécula é **angular** e, por isso, **polar** (fracamente). A molécula de O₂ (O=O) é linear, formada por átomos iguais, e é **apolar**.\n\n**b)** Teor mínimo: 5% de O₃ e 95% de O₂ em massa.\nn(O₃) = 5 g ÷ 48 g/mol ≈ 0,104 mol\nn(O₂) = 95 g ÷ 32 g/mol ≈ 2,969 mol\n**n total ≈ 3,07 mol**\n\nFração molar do O₃: x = 0,104 ÷ 3,07 ≈ 0,034\np(O₃) = x · p total = 0,034 × 1 550 mmHg\n**p(O₃) ≈ 52,5 mmHg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Peso do bloco: P = m · g = 64 × 10 = 640 N\nÁrea de contato (face do cubo): A = 0,20 × 0,20 = 0,040 m²\np = P ÷ A = 640 ÷ 0,040\n**p = 1,6 × 10⁴ N/m²**\n\n**b)** Pelo princípio de Pascal, a força transmitida ao êmbolo B é proporcional à área:\nF_B = F_A ÷ 4 = 640 ÷ 4 = 160 N\nEssa força empurra a haste vertical para cima, a 30 cm da articulação O. Equilíbrio de momentos em relação a O (F está a 30 + 90 = 120 cm):\nF_B × 30 = F × 120\n160 × 30 = F × 120\n**F = 40 N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Para quem está fora da esfera, a escultura é um **espelho convexo**: R = 2,4 ÷ 2 = 1,2 m, f = −R/2 = −0,60 m, p = 3,0 m.\n1/f = 1/p + 1/p'\n−1/0,60 = 1/3,0 + 1/p'\n1/p' = −5/3 − 1/3 = −2 → p' = −0,50 m\nA imagem é virtual, **0,50 m atrás da superfície** da escultura.\n\n**b)** Com p = 1,8 m:\n1/p' = −5/3 − 1/1,8 = −5/3 − 5/9 = −20/9 → p' = −0,45 m\nA imagem se desloca de 0,50 m para 0,45 m: Δs = 0,05 m = 5 cm\nv = Δs ÷ Δt = 5 cm ÷ 5 s\n**v = 1,0 cm/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** O tubo é aberto nas duas extremidades; no modo fundamental, L = λ/2:\nλ = 2L = 2 × 1,5 = 3,0 m\nf = v ÷ λ = 345 ÷ 3,0\n**f = 115 Hz**\n\n**b)** Peso do tubo: P = 54 × 10 = 540 N. As cordas são simétricas e fazem 60° com a horizontal; as componentes verticais equilibram o peso:\n2 · T · sen 60° = P\n2 · T · (√3/2) = 540\nT = 540 ÷ √3 = 180√3\n**T ≈ 3,1 × 10² N** (≈ 312 N) em cada corda",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Pelo esquema, a chave Ch₁ liga o filamento R_A (240 Ω) e a chave Ch₂ liga o filamento R_B (120 Ω), cada um diretamente aos 120 V.\n\n**a)** Somente Ch₁ ligada: só R_A é percorrido por corrente.\nP = U² ÷ R_A = 120² ÷ 240 = 14 400 ÷ 240\n**P = 60 W**\n\n**b)** As duas chaves ligadas: R_A e R_B ficam em paralelo, cada um sob 120 V.\nP_B = 120² ÷ 120 = 120 W\nP total = 60 + 120 = 180 W = 0,18 kW\nE = P · Δt = 0,18 kW × 10 h\n**E = 1,8 kWh**",
+   "confianca": "media",
+   "pendencia": "A ligação de cada chave a cada filamento foi lida no desenho, que é pequeno; se Ch₁ ligasse R_B, o item a daria 120 W (o item b não muda)."
+  },
+  "0:17": {
+   "resposta": "**a)** Moacir, filho da índia Iracema com o português Martim, simboliza o **nascimento do povo brasileiro**, fruto da fusão entre o indígena e o colonizador europeu. No projeto indianista de Alencar, ele é o primeiro cearense, o mestiço que representa a origem mítica e idealizada da nação. O nome, \"nascido do meu sofrimento\", aponta também o custo dessa formação para o indígena, que se sacrifica.\n\n**b)** A abrangência temática fazia parte do projeto **nacionalista** de Alencar: construir uma literatura genuinamente brasileira que representasse o país em sua totalidade. Os romances indianistas e históricos tratam das origens e do passado; os regionalistas, das diferentes regiões e tipos humanos do interior; os urbanos, da sociedade da Corte de seu tempo. Juntos, compõem um painel amplo da identidade nacional no espaço e no tempo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Iracema disse ao filho que ele era Moacir, o nascido do seu sofrimento.\n\n**b)** \"Quando chegasse ao grande morro das areias, **veria** que o rasto de Martim e Poti seguia ao longo da praia;\"\n\nCom o pretérito imperfeito do subjuntivo (\"chegasse\"), a oração principal passa ao futuro do pretérito (\"veria\"), indicando um fato hipotético. A forma \"seguiria\" também é aceitável na última oração.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A heteronímia é o processo, criado por Fernando Pessoa, de inventar **outros poetas**, com nome, biografia, personalidade, estilo e visão de mundo próprios, diferentes dos do autor. Os heterônimos (Alberto Caeiro, Ricardo Reis, Álvaro de Campos) não são simples pseudônimos: cada um tem uma obra coerente e independente, como se fosse outro escritor, ao lado da poesia que Pessoa assina com o próprio nome (o ortônimo).\n\n**b)** O Sensacionismo de Caeiro consiste em conhecer o mundo **apenas pelas sensações**, sobretudo pela visão, aceitando as coisas como elas são, sem interpretá-las. Para ele, pensar atrapalha a percepção (\"pensar é estar doente dos olhos\"): o mundo existe para ser visto, não para ser explicado. Por isso Caeiro rejeita a metafísica e a reflexão abstrata, valorizando a experiência direta e simples da natureza.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A criança que nasce vê tudo pela primeira vez, com espanto e sem ideias prévias. Ao comparar seu olhar ao dela, o eu lírico mostra que quer ver o mundo sempre como **novidade**, de modo puro e direto, sem o filtro do pensamento, como se renascesse a cada momento (\"eterna novidade do mundo\").\n\n**b)** O recurso é a **comparação** (símile), marcada pelo conectivo \"como\". Transformado em metáfora, mantendo sujeito e verbo, o verso ficaria: **\"O meu olhar é um girassol.\"**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

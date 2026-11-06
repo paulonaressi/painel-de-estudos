@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2019_prova-arquivo-unico-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "1:1": {
+   "resposta": "**a)** A região **1**, o **túbulo contorcido proximal**. Suas células têm numerosas **microvilosidades** voltadas para o lúmen (borda em escova), que aumentam muito a superfície de absorção, além de muitas mitocôndrias junto à lâmina basal, que fornecem ATP para o transporte ativo de solutos (Na⁺, glicose, aminoácidos); a água acompanha por osmose. As células das regiões 2, 3 e 4 não apresentam essa especialização.\n\n**b)** **ADH**: aumenta a permeabilidade à água do túbulo distal e do ducto coletor (inserção de aquaporinas), elevando a **reabsorção de água**; a urina fica mais concentrada e em menor volume.\n\n**Paratormônio**: aumenta a **reabsorção de cálcio** nos túbulos renais (e a excreção de fosfato, além de estimular a ativação da vitamina D), elevando a calcemia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:2": {
+   "resposta": "**a)** Semirreação de redução:\n\n2 H⁺(aq) + 2 e⁻ → H₂(g)\n\nO hidrogênio é \"limpo por excelência\" porque sua combustão (2 H₂ + O₂ → 2 H₂O) produz **apenas água**, sem emitir CO₂, CO, fuligem ou óxidos de enxofre; além disso, aqui ele é obtido da água por uma rota que não usa combustíveis fósseis.\n\n**b)** Na fórmula Ba₀,₇Sr₀,₃TiO₃, a soma dos Nox é zero:\n\n0,7 · (+2) + 0,3 · (+2) + x + 3 · (−2) = 0\n\n1,4 + 0,6 + x − 6 = 0 → **x = +4**\n\nCarga para 1,3 µmol de H₂ (2 mol de elétrons por mol de H₂):\n\nn(e⁻) = 2 · 1,3 × 10⁻⁶ = 2,6 × 10⁻⁶ mol\n\nQ = 2,6 × 10⁻⁶ · 96 500 ≈ **0,25 C** por grama de catalisador a cada ciclo",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:3": {
+   "resposta": "**a)** Componente vertical da velocidade inicial:\n\nv₀y = 8 · √2/2 = 4√2 m/s\n\nNo ponto mais alto v_y = 0 (Torricelli):\n\n0 = (4√2)² − 2 · 10 · Δh → Δh = 32 ÷ 20 = 1,6 m\n\nH = 6 + 1,6 = **7,6 m**\n\n**b)** Pela figura, o amigo está a 14 m na horizontal da vertical do ponto de chute e suas mãos estão no nível da água, 6 m abaixo. Com 45°, v₀x = v₀y = v₀ · √2/2.\n\nHorizontal: 14 = (v₀√2/2) · t → t = 14√2 ÷ v₀\n\nVertical (para cima positivo): −6 = 14 − 5 · t² → t² = 4 → t = 2 s\n\nv₀ = 14√2 ÷ 2 = **7√2 ≈ 9,9 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:4": {
+   "resposta": "**a)** s = 1,16 m = 116 cm:\n\nm = (116 − 25) ÷ 0,7 = 91 ÷ 0,7 = **130 kg**\n\nDose: 0,6 mg/kg · 130 kg = 78 mg de Meloxican\n\nConcentração do frasco: 2 g ÷ 100 mL = 2 000 mg ÷ 100 mL = 20 mg/mL\n\nV = 78 ÷ 20 = **3,9 mL**\n\n**b)** Pelo gráfico, Q(18) = 5:\n\n5 = 320 · (√2)^(−18k) → (√2)^(18k) = 64 = 2⁶ = (√2)¹²\n\n18k = 12 → **k = 2/3**\n\nQ(24) = 320 · (√2)^(−16) = 320 ÷ 2⁸ = 320 ÷ 256 = **1,25 mg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:5": {
+   "resposta": "**a)** O tema é o **desaparecimento (extinção) das línguas indígenas**. Uma das causas apontadas: o **massacre de povos tribais**, que extingue pessoas e suas línguas; outra é a **escolarização forçada e o \"desenvolvimento\"**, como no caso dos bosquímanos, que tiveram suas terras roubadas e foram levados à força para campos de reassentamento em Botsuana.\n\n**b)** A experiência comum é a de indígenas **retirados de suas comunidades e colocados em escolas** (como ocorreu no Canadá, nos EUA e na Austrália), onde aprendem que tudo em sua identidade, cultura e língua é errado e onde uma língua nacional lhes é imposta, numa mentalidade colonial.\n\nConsequências: perda da língua materna, da cultura e da identidade, e violação do direito à **autodeterminação** — o direito de decidir como viver —, do qual a língua é parte vital.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2020_prova-arquivo-unico-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "1:1": {
+   "resposta": "**a)** O vírus influenza tem material genético (RNA) que **sofre mutações com muita frequência**, alterando os antígenos de superfície (hemaglutinina e neuraminidase). Assim, a cada ano circulam variantes diferentes, contra as quais os anticorpos e as células de memória da vacinação anterior podem não ser eficazes. Por isso a vacina é reformulada anualmente com as cepas previstas para a temporada, e a do ano anterior perde utilidade. Além disso, a proteção conferida pela vacina diminui com o tempo.\n\n**b)** A vacina provocou a **resposta primária**: o organismo reconheceu os antígenos, ativou linfócitos, produziu anticorpos e formou **células de memória**, o que leva cerca de 2 a 3 semanas. Quando o vírus real invade o organismo, ocorre a **resposta secundária**: as células de memória reconhecem rapidamente o antígeno e se diferenciam em plasmócitos, produzindo anticorpos **mais depressa, em maior quantidade e por mais tempo**. O vírus é neutralizado antes de causar a doença, ou ela fica branda.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:2": {
+   "resposta": "**a)** Fórmula estrutural do ácido peracético (todas as ligações):\n\nH₃C–C(=O)–O–O–H, ou seja, um carbono ligado a três H e ao carbono da carbonila; este faz dupla ligação com um O e ligação simples com um O, que se liga a outro O (ligação peróxido, O–O), ligado ao H.\n\nConstante do equilíbrio (a água, solvente, não entra na expressão):\n\nK = [CH₃COOH] · [H₂O₂] ÷ [CH₃COOOH]\n\n**b)** pH = −log[H⁺]:\n\npH = 2 → [H⁺] = 10⁻² mol/L\n\npH = 4 → [H⁺] = 10⁻⁴ mol/L\n\n10⁻² ÷ 10⁻⁴ = 10² → a concentração de H⁺ varia **100 vezes**.\n\nConcentração média: (300 + 700) ÷ 2 = 500 mg/L = 0,500 g/L\n\nMassa molar do CH₃COOOH (C₂H₄O₃) = 2 · 12 + 4 · 1 + 3 · 16 = 76 g/mol\n\nC = 0,500 ÷ 76 ≈ **6,6 × 10⁻³ mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:3": {
+   "resposta": "**a)** Aceleração do conjunto (carrinho + caixas = 10 + 30 + 40 = 80 kg):\n\na = F ÷ m = 20 ÷ 80 = 0,25 m/s²\n\nNa figura 1, A está à frente de B, no sentido do movimento. Desprezando o atrito entre a caixa A e o carrinho, quem acelera A é o empurrão de B:\n\nF(B em A) = m_A · a = 30 · 0,25 = **7,5 N**\n\n**b)** Na figura 2, A está sobre B e só é acelerada pelo atrito estático que B exerce sobre ela. Sem escorregamento, o máximo é:\n\nf_máx = μ · N = μ · m_A · g\n\nm_A · a_máx = μ · m_A · g → a_máx = μ · g = 0,6 · 10\n\n**a_máx = 6 m/s²**",
+   "confianca": "media",
+   "pendencia": "No item a, a resposta supõe atrito desprezível entre a caixa A e o carrinho, hipótese que o enunciado não declara explicitamente."
+  },
+  "1:4": {
+   "resposta": "**a)** O coração está na altura 0 e os pés em −120 cm, portanto o chão fica 120 cm abaixo do coração. Um ponto a 1,70 m do chão está a 170 − 120 = **50 cm acima do coração**.\n\nPelo diagrama, a pressão arterial cai 60 cm H₂O a cada 60 cm de subida (de 135 no coração a 75 a +60 cm), isto é, 1 cm H₂O por cm:\n\nY = 135 − h → Y = 135 − 50 = **85 cm H₂O**\n\n**b)** Pares (X; Y) do diagrama: (−60; 75), (0; 135), (60; 195), (120; 255). Em todos, Y − X = 135:\n\n**Y = X + 135** (em cm H₂O)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:5": {
+   "resposta": "**a)** São as **crianças sem registro de nascimento**, sem nenhuma prova de identidade — oficialmente inexistentes. Circunstâncias citadas: **morar em áreas rurais** ou **nascer em casa**.\n\n**b)** Os subitens do quadro (educação, saúde, casamento, tráfico, trabalho, assistência) mostram a mesma situação: as **consequências de não ter registro/identidade** — para quem não tem identidade, a vida é uma luta, sem acesso a escola, vacinas e benefícios sociais e com mais exposição a casamento infantil, tráfico e trabalho precoce.\n\nRelação com o filme \"Invisible children\", da GSMA: o filme mostra como a **tecnologia móvel** ajudou crianças de 15 países a terem seu direito à identidade reconhecido; ao obterem registro, elas escapam desses riscos e ganham oportunidades para o futuro. Por ser \"conteúdo de anunciante\", o texto também promove a própria GSMA ao apresentar a tecnologia móvel como solução.",
+   "confianca": "baixa",
+   "pendencia": "A imagem corta o final do enunciado do item b; a segunda parte da resposta supõe que se pede a relação entre o quadro e o filme da GSMA."
+  }
+ }
+}

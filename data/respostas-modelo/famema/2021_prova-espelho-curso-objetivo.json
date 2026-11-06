@@ -1,0 +1,47 @@
+{
+ "indice": "data/questoes/famema/2021_prova-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** No separador B ocorre a **destilação fracionada**: a mistura é aquecida na coluna e os produtos são retirados em alturas diferentes, os mais voláteis no topo e os menos voláteis (cadeias maiores) na base. A propriedade específica que permite a separação é a **temperatura de ebulição**, diferente para cada substância (aumenta com o tamanho da cadeia, n).\n\n**b)** Com R–OH = etanol e n = 2:\n\n2 H₂C–CH₂(O) + CH₃CH₂–OH → CH₃CH₂–O–CH₂CH₂–O–CH₂CH₂–OH\n\nou seja, 2 C₂H₄O + C₂H₆O → C₆H₁₄O₃ (2-(2-etoxietoxi)etanol).\n\nMassa molar do produto C₆H₁₄O₃:\n\nM = 6 · 12 + 14 · 1 + 3 · 16 = 72 + 14 + 48 = **134 g/mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** HCl (ligação covalente, um par compartilhado; o cloro fica com três pares não ligantes):\n\nH : Cl (com três pares de elétrons livres no Cl), isto é, H–Cl\n\nNaOH (composto iônico, com ligação covalente dentro do ânion hidróxido):\n\nNa⁺ [ :O : H ]⁻, em que o oxigênio tem três pares de elétrons livres e compartilha um par com o hidrogênio.\n\n**b)** Massa da solução final: 2 L × 1 kg/L = 2 kg.\n\nCalor liberado: Q = m · c · Δθ = 2 · 4,2 · 0,7 = 5,88 kJ\n\nQuantidade de água formada (= mol de H⁺ neutralizado):\n\nn = 5,88 kJ ÷ 58,8 kJ/mol = 0,10 mol\n\nComo esses 0,10 mol de H⁺ estavam em 1 L de solução de HCl (ácido forte, totalmente ionizado, e NaOH na mesma quantidade):\n\nX = 0,10 mol ÷ 1 L = **0,10 mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O reagente limitante é o **HSO₃⁻** (íon hidrogenossulfito): as reações prosseguem até que todo ele seja consumido; só então o I₂ formado deixa de ser reconvertido em I⁻ e se acumula. Na reação 3, o agente oxidante é o **I₂**, cujo iodo passa de nox 0 para –1 (sofre redução), oxidando o enxofre do HSO₃⁻ de +4 para +6.\n\n**b)** n(KIO₃) = 4,28 g ÷ 214 g/mol = 0,020 mol\n\nConcentração inicial: 0,020 mol ÷ 2 L = **0,010 mol/L**\n\nDiluição de 10 mL para 100 mL: C₂ = 0,010 · 10 ÷ 100 = 0,0010 mol/L\n\nComo a reação é de primeira ordem em IO₃⁻ e [HSO₃⁻] é constante, v = k · [IO₃⁻] · (constante):\n\nv₁ ÷ v₂ = 0,010 ÷ 0,0010 = **10**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A hidrólise das ligações amida do Kevlar produz um composto com o grupo –COOH e outro com o grupo –NH₂. As funções orgânicas nos produtos são **ácido carboxílico** e **amina**.\n\n**b)** Os monômeros são:\n\nÁcido tereftálico (ácido benzeno-1,4-dicarboxílico): HOOC–C₆H₄–COOH, com os dois grupos carboxila em posição para no anel benzênico.\n\np-fenilenodiamina (benzeno-1,4-diamina): H₂N–C₆H₄–NH₂, com os dois grupos amino em posição para no anel benzênico.\n\nA condensação entre eles, com eliminação de água, forma as ligações amida (–CO–NH–) do polímero. (Industrialmente usa-se o cloreto de tereftaloíla, ClOC–C₆H₄–COCl, no lugar do ácido.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Os estômatos regulam as **trocas gasosas** entre a folha e o ambiente (entrada de CO₂ para a fotossíntese e saída de O₂) e a **transpiração** (perda de vapor de água). São vias mais fáceis de invasão porque são aberturas naturais (ostíolos) na epiderme, que dão acesso direto aos espaços intercelulares do mesofilo, sem que a bactéria precise romper a cutícula e a parede das células epidérmicas.\n\n**b)** A produtividade primária bruta **diminui**. Numa estiagem, a planta fecha os estômatos para reduzir a perda de água, mas a coronatina impede essa defesa e mantém os estômatos abertos. A planta perde muita água por transpiração, desidrata e murcha; com a falta de água (reagente da fotossíntese) e com as lesões causadas pela infecção no mesofilo, tecido onde ocorre a fotossíntese, a taxa de **fotossíntese** cai, reduzindo a produção de matéria orgânica.",
+   "confianca": "media",
+   "pendencia": "A resposta esperada pode enfatizar a perda de água pelos estômatos mantidos abertos ou o dano ao tecido fotossintetizante; ambas levam à redução da fotossíntese."
+  },
+  "0:6": {
+   "resposta": "**a)** A hematose ocorre nos **alvéolos pulmonares**. Para combater as bactérias causadoras de pneumonia, prescrevem-se **antibióticos**.\n\n**b)** A acidose respiratória é provocada pela **retenção de CO₂** no sangue, devido à ventilação pulmonar deficiente (alvéolos com secreção, troca gasosa prejudicada). O excesso de CO₂ reage com a água formando ácido carbônico, que se ioniza e libera H⁺: CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻; assim, o pH do sangue diminui.\n\nO corpo pode corrigir o quadro de duas formas. O bulbo, estimulado pelo aumento de CO₂ e de H⁺, eleva a **frequência e a amplitude respiratórias**, aumentando a eliminação de CO₂. Os **rins** passam a excretar mais H⁺ na urina e a reabsorver (e produzir) mais bicarbonato, que tampona o excesso de ácido, elevando o pH; os sistemas tampão do sangue também atenuam a queda do pH.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** A curva compatível é a **1**. As extremidades do corpo (orelhas, focinho, patas e cauda) são mais frias que o interior do corpo, cuja temperatura é 38,5 °C. A pelagem escura aparece justamente nessas regiões, logo a tirosinase deve ter temperatura ótima abaixo de 38,5 °C e ser inativa a 38,5 °C, como mostra a curva 1, cuja atividade se anula antes dessa temperatura. Por isso, no restante do corpo, mais quente, não há produção de melanina e o pelo é claro.\n\n**b)** Siamês = aa; preto = A_.\n\nCruzamento 1: aa × aa → todos os descendentes aa: os quatro filhotes serão **siameses**.\n\nCruzamento 2: pais pretos que geram filhotes siameses (aa) são ambos Aa. Aa × Aa → 1 AA : 2 Aa : 1 aa. Entre os filhotes pretos (AA ou Aa), a probabilidade de ser heterozigoto é **2/3**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** A organela osmorreguladora é o **vacúolo contrátil** (ou pulsátil). Ela permanece ativa porque o hialoplasma do paramécio é **hipertônico** em relação à água doce do meio (que é hipotônica), de modo que a água entra continuamente na célula por osmose.\n\n**b)** As bombas de prótons ficam na **membrana** do vacúolo contrátil (e dos canais radiais que o alimentam). Elas atuam por **transporte ativo**, com gasto de energia (ATP), lançando íons H⁺ do citoplasma para o interior da organela. O acúmulo desses íons (e de outros íons que os acompanham) torna o conteúdo da organela hipertônico em relação ao hialoplasma, e a água em excesso passa do citoplasma para o vacúolo por osmose. Cheio, o vacúolo se contrai e expulsa a água para o meio.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

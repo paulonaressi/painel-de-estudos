@@ -1,0 +1,47 @@
+{
+ "indice": "data/questoes/famema/2020_prova-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Os elementos são Gd (gadolínio, Z = 64), Lu (lutécio, Z = 71), C (carbono, Z = 6) e K (potássio, Z = 19). **Gd e Lu** pertencem ao 6º período e, portanto, têm o mesmo número de camadas eletrônicas (seis). O carbono tem duas camadas e o potássio, quatro.\n\nO átomo usado na datação de fósseis é o carbono-14: Z = 6 e 8 nêutrons, logo número de massa A = 6 + 8 = **14**.\n\n**b)** O metal alcalino é o potássio, que reage com a água formando hidróxido de potássio e gás hidrogênio:\n\n2 K(s) + 2 H₂O(l) → 2 KOH(aq) + H₂(g)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O sulfato de alumínio, Al₂(SO₄)₃, é um **sal** (composto iônico formado pelo cátion Al³⁺ e pelo ânion SO₄²⁻, resultante da neutralização entre Al(OH)₃ e H₂SO₄). A cal hidratada, Ca(OH)₂, é uma **base** (hidróxido), pois libera o ânion OH⁻ em água.\n\n**b)** A solução de NaClO tem **caráter básico**. O NaClO é um sal derivado de base forte (NaOH) e de ácido fraco (HClO). Na água, o íon Na⁺ não sofre hidrólise, mas o ânion hipoclorito, base conjugada de um ácido fraco, sofre hidrólise:\n\nClO⁻(aq) + H₂O(ℓ) ⇌ HClO(aq) + OH⁻(aq)\n\nA formação de íons OH⁻ torna [OH⁻] > [H⁺], e a solução fica básica (pH > 7).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O potencial de redução do Pb²⁺ (−0,13 V) é maior que o do Zn²⁺ (−0,76 V). Logo, o Pb²⁺ tem maior tendência a receber elétrons (sofre redução) e o zinco, maior tendência a perdê-los (sofre oxidação). A reação é espontânea, com ΔE = −0,13 − (−0,76) = +0,63 V > 0.\n\nEquação: Zn(s) + Pb²⁺(aq) → Zn²⁺(aq) + Pb(s)\n\n**b)** Quantidade de Pb²⁺ em 200 mL:\nn = 5 × 10⁻³ mol/L × 0,2 L = 1 × 10⁻³ mol\n\nRedução no cátodo: Pb²⁺ + 2e⁻ → Pb, então são necessários 2 × 10⁻³ mol de elétrons.\n\nCarga: Q = 2 × 10⁻³ mol × 96 500 C/mol = 193 C\n\nTempo: t = Q ÷ i = 193 C ÷ 0,2 A = **965 s** (≈ 16 min).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O etanol (CH₃CH₂OH) é um solvente oxigenado; portanto, a solução de iodo em etanol tem **cor marrom**.\n\nPela tabela, a 50 °C basta menos água para dissolver 1 g de I₂ (1 250 mL) do que a 20 °C (3 450 mL): a solubilidade aumenta com a temperatura. Assim, a dissolução do iodo em água é um processo **endotérmico**.\n\n**b)** IO₃⁻ em 1 L de solução 0,1 mol/L: n = 0,1 mol.\n\nPela equação, 1 mol de IO₃⁻ forma 3 mol de I₂: 0,1 mol IO₃⁻ → 0,3 mol I₂.\n\nMassa de I₂ formada (M = 2 × 127 = 254 g/mol): 0,3 × 254 = 76,2 g.\n\nA 50 °C, 1 g de I₂ dissolve-se em 1 250 mL de água; em cerca de 1 L (1 000 mL): 1 000 ÷ 1 250 = 0,8 g permanecem dissolvidos.\n\nMassa que precipita: 76,2 − 0,8 = **75,4 g** de I₂ (considerando o volume de água ≈ 1 L).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O intenso crescimento celular ocorre na fase **G1** da interfase, quando há grande síntese de RNA, proteínas e organelas. Os cromossomos atingem o grau máximo de condensação na **metáfase**, quando ficam alinhados na placa equatorial.\n\n**b)** Na fase S ocorre a **duplicação (replicação semiconservativa) do DNA**: cada cromossomo passa a ter duas cromátides-irmãs.\n\nA cada mitose o número de células dobra: 1 → 2 → 4 → 8 → 16, ou seja, 2ⁿ = 16, n = 4. Se a pergunta se refere às divisões sucessivas a partir do zigoto, são **4 ciclos de divisão**; contando cada mitose individual de cada célula, são 1 + 2 + 4 + 8 = **15 mitoses**.",
+   "confianca": "media",
+   "pendencia": "O enunciado é ambíguo: se contar as gerações de divisão, são 4; se contar cada mitose de cada célula, são 15. Explique o critério na sua resposta."
+  },
+  "0:6": {
+   "resposta": "**a)** O principal fator ambiental é a **exposição excessiva e sem proteção à radiação ultravioleta (UV) do Sol** (ou de câmaras de bronzeamento), que provoca mutações no DNA dos melanócitos.\n\n**Metástase** é a disseminação de células de um tumor maligno, que se desprendem do tumor primário, entram na circulação sanguínea ou linfática e formam novos tumores (tumores secundários) em órgãos distantes.\n\n**b)** O endotélio forma a parede dos vasos sanguíneos. Um tumor em crescimento depende da formação de novos vasos (**angiogênese**), estimulada pelo VEGF, para receber oxigênio e nutrientes e eliminar resíduos. Inibindo a formação do endotélio, o tumor fica sem irrigação suficiente, suas células deixam de receber O₂ e nutrientes e o crescimento tumoral é contido; além disso, há menos vasos pelos quais as células possam se espalhar.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** As abelhas são **agentes polinizadores**: ao visitar as flores, transportam grãos de pólen das anteras para o estigma (de flores da mesma planta ou de outras), permitindo a fecundação dos óvulos, que se desenvolvem em sementes, enquanto o ovário se desenvolve no fruto (o tomate).\n\nComo a gaze era opaca, as abelhas não podiam ver a flor; provavelmente foram atraídas pelo **odor (perfume) das flores**, que atravessa a gaze porosa.\n\n**b)** Após a fecundação, os óvulos se transformam em sementes, e os embriões em desenvolvimento produzem **hormônios vegetais, principalmente auxinas** (e giberelinas). Esses hormônios estimulam o crescimento e o desenvolvimento da parede do ovário, que forma o fruto. Assim, quanto mais óvulos fecundados (mais sementes), maior a produção de auxina e maior o crescimento do fruto, como se vê no lote 1.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Sem o gene SRY não há sinal para que as gônadas indiferenciadas se transformem em testículos; elas se desenvolvem como **ovários** (em geral rudimentares, no caso de um indivíduo XY). Sem testículos, não há produção de testosterona nem de hormônio antimülleriano, e a criança apresenta **fenótipo feminino**, com órgãos genitais femininos.\n\n**b)** A mutação deve ter ocorrido **durante o desenvolvimento embrionário**. Se a deleção estivesse no espermatozoide ou no núcleo do zigoto, ela seria transmitida, por mitoses, a todas as células do organismo. Como só parte das células somáticas a possui (mosaicismo), a deleção surgiu em uma célula do embrião já formado após algumas divisões, e apenas as células descendentes dessa célula herdaram a mutação.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

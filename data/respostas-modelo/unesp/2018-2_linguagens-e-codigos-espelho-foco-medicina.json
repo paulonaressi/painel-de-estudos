@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2018-2_linguagens-e-codigos-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:25": {
+   "resposta": "**a)** A tira não aparece no material disponível, por isso não é possível identificar com segurança o que cada grupo de pessoas representa. Em linhas gerais, a resposta deve apontar quem pratica a ação criticada e quem acaba sendo atingido por ela na tira.\n\n**b)** A expressão \"o tiro saiu pela culatra\" significa que uma ação produziu o efeito contrário ao desejado e acabou prejudicando quem a praticou (a culatra é a parte de trás da arma; o tiro que sai por ela fere o próprio atirador). Na tira, a crítica estaria justamente em mostrar que a atitude de um dos grupos, pensada para obter vantagem, volta-se contra ele mesmo.",
+   "confianca": "baixa",
+   "pendencia": "A tira a que a questão se refere não está na imagem; confira-a na prova e complete o item a e a relação pedida no item b."
+  },
+  "0:26": {
+   "resposta": "**a)** O verso \"Soltaram os pianos na planície deserta\" trata pianos como se fossem animais de rebanho, que se soltam no campo para pastar. Associar um objeto (instrumento musical) a uma ação própria de seres vivos cria uma imagem absurda, que contraria a lógica e a experiência comum; daí a quebra do discurso lógico, típica da imagem surrealista, que o resto do poema desenvolve (o \"pastor pianista\" que apascenta pianos).\n\n**b)** \"Onde\" pode ser substituído por **\"na qual\"** (ou \"em que\"): \"na planície deserta / na qual as sombras dos pássaros vêm beber\". \"Pelo\" pode ser substituído por **\"por meio do\"** (ou \"através do\"): \"por meio do vento nas folhagens\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "**a)** Também são personificadas as **rosas** (\"rosas migradoras\"). Elas \"acompanham\" o eu lírico, como faria uma pessoa ou um rebanho, e são ditas migradoras, isto é, deslocam-se de um lugar a outro, ação de seres animados, e não de plantas presas ao solo.\n\n**b)** O sujeito de \"comunica-se\" é o pronome relativo **\"que\"**, que retoma **\"homem\"** (\"o antigo clamor do homem / Que...\"). É o homem quem, reclamando a contemplação, sonha, provoca a harmonia, trabalha e se comunica com os deuses; todos esses verbos estão no singular, o que exclui \"pianos\", e as ações são próprias do ser humano.",
+   "confianca": "media",
+   "pendencia": "Há quem leia o \"que\" como retomando \"clamor\"; a leitura mais aceita é \"homem\", mas uma resposta bem justificada pela concordância também pode ser aceita."
+  },
+  "0:28": {
+   "resposta": "**a)** \"Pastoral\" remete ao **Arcadismo** (Neoclassicismo), escola do século XVIII que cultivava o bucolismo: a vida simples no campo, a figura do pastor e o rebanho, a natureza idealizada. O poema retoma esse cenário (pastor, planície, apascentar o rebanho), mas de modo \"fantástico\": o rebanho é de pianos e o pastor é pianista.\n\n**b)** Duas características modernistas: o uso de **versos livres e brancos**, sem métrica regular nem rima; e as **imagens insólitas, de feição surrealista**, que rompem com a lógica (pianos soltos na planície, rosas migradoras, pianos que gritam). Também valem a linguagem simples e próxima da prosa e a liberdade de construção sintática.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "**a)** No primeiro parágrafo, o pronome \"se\" (\"excedeu-se\") retoma **Simão Bacamarte**: foi ele quem se excedeu na diligência ao tratar os enfermos. No segundo parágrafo, o pronome \"lhe\" (\"incutir-lhe\") retoma **o modesto**, isto é, o louco cuja qualidade predominante era a modéstia, a quem se queria incutir o sentimento oposto.\n\n**b)** Dois excertos: \"se imaginais que o alienista ficou radiante\" e \"Vede a diferença\". (Também valem \"Suponhamos um modesto\" e \"mostrais com isso que ainda não conheceis o nosso homem\".)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "**a)** \"Ele obteve uma boa interpretação, **subornando** os juízes, e **enganando** os outros herdeiros.\" (Outras opções equivalentes: \"comprando\" os juízes, \"iludindo\" ou \"ludibriando\" os herdeiros.)\n\n**b)** A mãe do infeliz contava a uma comadre que aquilo tinha sido um santo remédio.\n\n(Também é aceitável \"que aquilo fora um santo remédio\". Em ordem direta, o sujeito e o verbo de dizer vêm antes da fala, que passa a oração subordinada introduzida por \"que\", com o tempo verbal recuado.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "**a)** É o processo pelo qual a seleção natural leva predadores e presas a se aperfeiçoarem reciprocamente ao longo das gerações: cada melhoria em um lado (velocidade, camuflagem, garras, veneno) favorece, no outro, adaptações que a compensem. Essa escalada se dá no tempo evolucionário, isto é, pelo acúmulo de genes nos reservatórios gênicos das espécies, e não na disputa entre indivíduos em tempo real.\n\n**b)** A marca registrada das corridas armamentistas é que o aprimoramento de um lado não se traduz em vantagem, porque o outro lado também se aprimora ao mesmo tempo. Assim, as espécies \"correm\" (evoluem) cada vez mais só para manter a mesma posição relativa diante do adversário, como na fala da Rainha de Copas: corre-se o mais rápido possível para não sair do lugar.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "**a)** Não. O sujeito oculto de \"usasse\" só pode ser Darwin, e \"essa expressão\" retoma claramente \"corridas armamentistas evolucionárias\". A frase diz, sem duplo sentido, que Darwin compreendia o fenômeno, embora não o nomeasse assim; a concessão (\"embora\") apenas contrasta o conhecimento do conceito com a ausência do termo.\n\n**b)** A expressão é **\"guerra civilizada\"**. \"Guerra\" evoca violência, destruição e barbárie, ideias que parecem excluir a de \"civilizada\", ligada a refinamento e progresso. No contexto, a combinação reforça a comparação de Cott: os refinamentos técnicos dos armamentos humanos equivalem aos da \"luta da selva\".",
+   "confianca": "media",
+   "pendencia": "Uma resposta que defenda ambiguidade no item a dificilmente será aceita sem apontar dois sentidos possíveis; a leitura de que a frase não é ambígua é a mais segura."
+  },
+  "0:33": {
+   "resposta": "**a)** Ao inclinar o pescoço para digitar ou consultar o celular, aumentam a ação da gravidade sobre a cabeça (que pesa de 4,5 a 5,5 kg) e a tensão sobre o pescoço. Essa postura, comum a todos, pode danificar a curvatura da coluna cervical.\n\n**b)** \"Text neck\" (\"pescoço de texto\") é um problema médico que atinge inúmeras pessoas: lesões e dores no pescoço e na coluna cervical. Sua causa é o hábito de manter a cabeça inclinada para baixo ao usar o smartphone.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "**a)** Segundo o National Center for Biotechnology Information, a postura afeta o humor, o comportamento e a memória, e curvar-se com frequência pode deixar a pessoa deprimida. Duas consequências: **depressão** e **prejuízos à memória** (ou ao humor e ao comportamento).\n\n**b)** A postura influencia a quantidade de energia de que dispomos, o desenvolvimento dos ossos e dos músculos e até a quantidade de oxigênio que os pulmões conseguem captar.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "**a)** Cerca de 75% dos estadunidenses acreditam que o uso do smartphone não afeta sua capacidade de prestar atenção quando estão em grupo. Além disso, cerca de um terço acredita que usar o celular em situações sociais até contribui para a conversa.\n\n**b)** Os especialistas em etiqueta e os cientistas sociais, que são categoricamente unânimes em discordar: para eles, o celular não contribui para a conversa.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "**a)** Além dos adultos, os **adolescentes** e as **crianças**: a professora Niobe Way estuda o papel da tecnologia no desenvolvimento dos adolescentes e afirma que o problema não é só dos jovens: as crianças também são afetadas.\n\n**b)** As crianças aprendem o comportamento imitando os adultos: quando veem os pais de cabeça baixa no celular, reproduzem essa atitude. A consequência é a perda das pistas (sinais) não verbais da comunicação, o que pode prejudicar (atrofiar) o seu desenvolvimento.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

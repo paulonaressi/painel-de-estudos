@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2019_conhecimentos-especificos-ciencias-da-natureza-e-matematica.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:13": {
+   "resposta": "**a)** Ocorre reprodução assexuada por esporulação: no zoosporângio formado na pele do hospedeiro são produzidos zoósporos móveis (flagelados), que saem pelos orifícios, nadam na água e infectam outro anfíbio, formando novos zoosporângios. A rã-touro, que abriga o fungo sem adoecer, atua como hospedeiro reservatório (portador assintomático) e vetor de dispersão: mantém o fungo na população e, por ser espécie invasora muito difundida, leva-o a novos ambientes, transmitindo-o a espécies suscetíveis.\n\n**b)** A umidade da pele dos anfíbios (pele úmida, coberta de muco, em ambiente aquático) propicia a instalação do fungo, que é aquático e cujos zoósporos precisam de água para se deslocar e penetrar no tecido. O espessamento da camada de queratina compromete a sobrevivência porque os anfíbios dependem da pele fina, úmida e permeável para a respiração cutânea e para trocar água e íons (osmorregulação); com a pele espessada, as trocas gasosas e o equilíbrio hidroeletrolítico ficam prejudicados, o que pode levar à morte.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Os plasmídeos são obtidos de bactérias, que possuem essas pequenas moléculas circulares de DNA extracromossômico (também ocorrem em leveduras, mas a fonte usual são bactérias). O corte é feito por enzimas de restrição (endonucleases de restrição), que reconhecem sequências específicas do DNA; depois o gene é unido ao plasmídeo pela DNA ligase.\n\n**b)** Porque o gene precisa ser transcrito, e a transcrição em células eucarióticas ocorre no núcleo, onde estão a RNA polimerase e demais fatores necessários. O RNA mensageiro produzido vai ao citoplasma e é traduzido nos ribossomos, gerando a proteína antigênica do patógeno. Essa proteína, exposta ou apresentada pela célula ao sistema imune, estimula a produção de anticorpos e de células de memória. Sem chegar ao núcleo, o gene não seria expresso e não haveria antígeno para induzir a resposta imunológica.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** São órgãos homólogos: têm a mesma origem embrionária e a mesma organização anatômica básica, ainda que hoje desempenhem funções diferentes (pata de locomoção terrestre no P. portelli e nadadeira no peixe-boi). A comparação evidencia divergência evolutiva porque estruturas herdadas de um ancestral comum se modificaram, por seleção natural, em ambientes distintos, adaptando-se a usos diferentes; a semelhança de origem revela o parentesco e a diferença de forma e função revela a divergência.\n\n**b)** O fechamento do braço de mar isolou geograficamente uma população de peixes-boi da população marinha, interrompendo o fluxo gênico. No novo ambiente de água doce, a seleção natural favoreceu os indivíduos com variações que permitiam viver nele (por exemplo, osmorregulação adequada à água doce), enquanto os não adaptados foram eliminados. Com o tempo, mutações, seleção e deriva acumularam diferenças genéticas até surgir isolamento reprodutivo em relação aos peixes-boi marinhos, originando uma nova espécie, o peixe-boi-da-amazônia (especiação alopátrica).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Para Dalton, o \"átomo composto\" de amônia era formado por um átomo de hidrogênio e um de nitrogênio (proporção 1 : 1), como mostram os símbolos:\n\nDalton: H + N → NH (um átomo de cada elemento; hoje se escreveria H + N → HN)\n\nAtualmente sabemos que hidrogênio e nitrogênio são moléculas diatômicas e que a amônia tem fórmula NH₃:\n\nN₂(g) + 3 H₂(g) → 2 NH₃(g)\n\n**b)** Razão de Dalton (1 N : 1 H):\n\nm(N) ÷ m(H) = 4,2 ÷ 1 = 4,2\n\nRazão atual, em NH₃ (N = 14 u; H = 1 u):\n\nm(N) ÷ m(H) = 14 ÷ (3 × 1) ≈ 4,67\n\nDiferença percentual em relação ao valor atual:\n\n(4,67 − 4,2) ÷ 4,67 × 100% ≈ 10%\n\nA razão de Dalton é cerca de 10% menor que a atual.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Pela tabela, 1 000 U.I. correspondem a 1,00 mg de colecalciferol (o mesmo vale para 7 000 → 7,00 mg e 50 000 → 50,00 mg):\n\n1 U.I. = 1,00 mg ÷ 1 000 = 0,001 mg (1 × 10⁻³ mg, ou 1 μg)\n\nUm carbono quiral é o carbono do anel inferior ligado ao grupo –OH (HO–CH): ele está ligado a quatro grupos diferentes (H, OH e dois segmentos distintos do anel). Outros carbonos quirais da molécula, como o carbono da cadeia lateral ligado a H e CH₃ (marcado com cunha) e os carbonos das junções dos anéis ligados a H e a CH₃, também seriam respostas corretas.\n\n**b)** A função oxigenada é **álcool**: o grupo hidroxila (–OH) está ligado a carbono saturado do anel. A vitamina é lipossolúvel porque a molécula é quase toda formada por carbono e hidrogênio (anéis e cadeia lateral longa de hidrocarboneto, com 27 carbonos), sendo predominantemente apolar; a única hidroxila é insuficiente para torná-la solúvel em água. Por isso ela interage melhor, por forças de London (dipolo induzido), com lipídios e solventes apolares.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** À medida que a temperatura da água aumenta, o teor de OD diminui (por exemplo, a 760 mmHg, cai de 11,0 mg/L a 10 °C para 8,8 mg/L a 20 °C), pois a solubilidade dos gases em líquidos diminui com o aquecimento. Mantida a temperatura, o aumento da altitude reduz a pressão atmosférica e, portanto, a pressão parcial do O₂; pela tabela, o teor de OD diminui (a 16 °C, de 9,6 mg/L a 760 mmHg para 8,6 mg/L a 680 mmHg).\n\n**b)** A 16 °C e 1 atm (760 mmHg), a tabela dá 9,6 mg/L de O₂.\n\n[O₂(aq)] = 9,6 × 10⁻³ g/L ÷ 32 g/mol = 3,0 × 10⁻⁴ mol/L\n\npO₂ = 0,21 × 1 atm = 0,21 atm\n\nKH = 3,0 × 10⁻⁴ ÷ 0,21 ≈ 1,4 × 10⁻³ mol·L⁻¹·atm⁻¹",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** No ponto mais alto a velocidade é nula, portanto não há aceleração centrípeta e a resultante na direção do fio é zero:\n\nm = 600 g = 0,6 kg; P = m·g = 0,6 × 10 = 6 N\n\nT = P·cos 60° = 6 × 1/2\n\nT = 3 N\n\n**b)** Ao colidir, o caminhão para, mas a esfera continua com a velocidade v que tinha (igual à do caminhão) e sobe até o ponto em que o fio forma 60° com a vertical. A altura atingida é:\n\nh = L − L·cos 60° = 0,40 − 0,40 × 1/2 = 0,20 m\n\nConservação da energia mecânica:\n\nm·v²/2 = m·g·h → v² = 2·g·h = 2 × 10 × 0,20 = 4\n\nv = 2 m/s",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Na figura 1 há 2 fusos (ventres) em 2,4 m; cada fuso mede λ/2, então:\n\n2 × λ/2 = 2,4 m → λ = 2,4 m\n\nA tração é o peso da esfera: T = m·g = 1,8 × 10 = 18 N\n\nv = √(T/μ) = √(18 ÷ 0,125) = √144 = 12 m/s\n\nf = v ÷ λ = 12 ÷ 2,4 = 5 Hz\n\n**b)** Na figura 2, com a mesma frequência, há 6 fusos em 2,4 m:\n\n6 × λ'/2 = 2,4 m → λ' = 0,8 m\n\nv' = f·λ' = 5 × 0,8 = 4 m/s\n\nT' = μ·v'² = 0,125 × 16 = 2 N\n\nCom a esfera em equilíbrio dentro da água: T' + E = P\n\nE = 18 − 2 = 16 N",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**a)** Entre as placas o campo é uniforme; P e Q estão separados por d = 0,2 m, com U = 40 V:\n\nE = U ÷ d = 40 ÷ 0,2\n\nE = 200 N/C (= 200 V/m)\n\n**b)** Velocidade em Q, pelo teorema da energia cinética (parte do repouso):\n\nq·U = m·v²/2 → v² = 2·q·U ÷ m = 2 × 8 × 10⁻⁶ × 40 ÷ (4 × 10⁻¹⁵) = 1,6 × 10¹¹\n\nv = 4 × 10⁵ m/s\n\nNo campo magnético, a força magnética é a resultante centrípeta:\n\nq·v·B = m·v²/R → R = m·v ÷ (q·B)\n\nR = (4 × 10⁻¹⁵ × 4 × 10⁵) ÷ (8 × 10⁻⁶ × 10⁻³) = 1,6 × 10⁻⁹ ÷ 8 × 10⁻⁹\n\nR = 0,2 m",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**a)** As distâncias entre os pares de retas paralelas são as alturas do paralelogramo, ambas iguais a 3 cm. Sendo α o ângulo entre as retas, cada lado relaciona-se com a altura relativa ao outro par de retas:\n\nAD · sen α = 3 → AD = 3 ÷ sen α\n\nDC · sen α = 3 → DC = 3 ÷ sen α\n\nLogo AD = DC: o paralelogramo é um losango. Para α = 60°:\n\nlado = 3 ÷ (√3/2) = 6/√3 = 2√3 cm\n\nPerímetro = 4 × 2√3 = 8√3 cm (≈ 13,9 cm)\n\n**b)** Área = base × altura:\n\nS = DC × 3 = (3 ÷ sen α) × 3\n\nS(α) = 9 ÷ sen α (cm²), com 0° < α < 180°\n\nS é mínima quando sen α é máximo, isto é, sen α = 1 (α = 90°), caso em que o losango é um quadrado de lado 3 cm:\n\nS mínima = 9 cm²",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**a)** Pelos pontos (−1, 4) e (1, 9/4):\n\na·b⁻¹ = 4 e a·b = 9/4\n\nDividindo: b² = (9/4) ÷ 4 = 9/16 → b = 3/4 (b > 0)\n\na = 4·b = 4 × 3/4 = 3\n\nf(x) = 3·(3/4)ˣ\n\nIntersecção com o eixo y: f(0) = 3·1 = 3 → ponto (0, 3).\n\n**b)** O gráfico de g passa por (0, −4):\n\ng(0) = c + c·1 = 2c = −4 → c = −2\n\nPelo ponto (log₃2, −6):\n\n−2 − 2·d^(log₃2) = −6 → d^(log₃2) = 2 → d = 3 (pois 3^(log₃2) = 2)\n\ng(x) = −2 − 2·3ˣ\n\nQuando x → −∞, 3ˣ → 0 e g(x) → −2; a assíntota é a reta horizontal y = −2.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**a)** Saquinho com 5 balas e 3 pirulitos, de sabores distintos dentro de cada tipo:\n\nC(7,5) × C(5,3) = 21 × 10 = 210\n\nSaquinho com 3 balas e 4 pirulitos:\n\nC(7,3) × C(5,4) = 35 × 5 = 175\n\nTotal: 210 + 175 = 385 tipos de saquinho.\n\nPreço do pirulito (as duas combinações custam o mesmo):\n\n5 × 25 + 3x = 3 × 25 + 4x → 125 − 75 = x → x = 50 centavos.\n\n**b)** Morango e framboesa existem tanto em bala quanto em pirulito; esses sabores não podem aparecer nos dois produtos no mesmo saquinho. Conta-se pelo número de sabores comuns usados nas balas:\n\n5 balas e 3 pirulitos: nenhum comum nas balas: C(5,5)·C(5,3) = 1·10 = 10; um comum: 2·C(5,4)·C(4,3) = 2·5·4 = 40; os dois: C(5,3)·C(3,3) = 10·1 = 10. Subtotal: 60.\n\n3 balas e 4 pirulitos: nenhum comum: C(5,3)·C(5,4) = 10·5 = 50; um comum: 2·C(5,2)·C(4,4) = 2·10·1 = 20; os dois: C(5,1)·C(3,4) = 0. Subtotal: 70.\n\nTotal: 60 + 70 = 130 tipos de saquinho.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2023_prova-de-conhecimentos-especificos-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Ao comer a carne das tilápias, o ser humano obtém **proteínas** (fonte de aminoácidos), compostos orgânicos nitrogenados; também valem aminoácidos ou ácidos nucleicos.\n\nA principal excreta nitrogenada das tilápias, como da maioria dos peixes ósseos de água doce, é a **amônia** (NH₃), muito solúvel e eliminada diretamente na água.\n\n**b)** As **bactérias nitrificantes** do gênero *Nitrosomonas* (nitrosas), que vivem no cascalho, oxidam diretamente a amônia a nitrito (NO₂⁻). Em seguida, bactérias do gênero *Nitrobacter* (nítricas) oxidam o nitrito a **nitrato** (NO₃⁻). O nitrato é a forma de nitrogênio mais facilmente absorvida pelas raízes e é usado pelas plantas na síntese de aminoácidos, proteínas e ácidos nucleicos. Assim, a nitrificação transforma a amônia, tóxica para os peixes, em nutriente para os vegetais e devolve a água limpa ao tanque.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A substância inorgânica mais abundante no citosol é a **água**.\n\nNas células musculares, os filamentos mais abundantes são os **microfilamentos**, formados pela proteína **actina** (que, junto com a miosina, promove a contração muscular).\n\n**b)** Os filamentos ligados à multiplicação celular são os **microtúbulos**, formados pela proteína **tubulina**. Durante a divisão celular, eles formam o **fuso mitótico** (acromático), cujas fibras se prendem aos centrômeros e puxam as cromátides-irmãs para os polos da célula. Se os microtúbulos se desarranjam, como ocorre com alcaloides do tipo da colchicina ou da vimblastina, o fuso não se forma, os cromossomos não são separados e a divisão fica bloqueada na metáfase; por isso essas substâncias são usadas como quimioterápicos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** **Briófitas** (como os musgos) e **pteridófitas** (como as samambaias): nesses grupos, os anterozoides flagelados precisam nadar em uma película de água até a oosfera.\n\n**b)** O **grão de pólen**, que forma o **tubo polínico**: o pólen é transportado pelo vento ou por animais até a parte feminina, e o tubo polínico conduz os gametas masculinos até a oosfera, sem depender de água.\n\nA semente protege o embrião com um tegumento resistente, contém reservas nutritivas e permite que ele permaneça dormente até encontrar condições favoráveis. Ao ser dispersa por vento, água ou animais, ela leva o embrião para longe da planta-mãe, reduzindo a competição entre parentes e permitindo a colonização de novos ambientes, inclusive os mais secos. Isso explica a grande expansão das espermatófitas (gimnospermas e angiospermas).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A **filtração glomerular** (ultrafiltração): a pressão do sangue nos capilares do glomérulo força a saída de água e pequenas moléculas para a cápsula renal (de Bowman).\n\nDiferença: o filtrado da cápsula **não contém células sanguíneas** (hemácias, leucócitos, plaquetas) **nem proteínas grandes**, como a albumina, que estão presentes no sangue e não atravessam a barreira de filtração.\n\n**b)** A alça néfrica mais longa cria na medula renal um gradiente de concentração de sais maior. Isso permite reabsorver mais água no ducto coletor e produzir **urina muito concentrada**, economizando água em um ambiente onde ela é escassa.\n\nA **aldosterona**, produzida pelo córtex das glândulas suprarrenais, aumenta a **reabsorção de íons Na⁺** no túbulo distal e no ducto coletor. A água acompanha o sódio por osmose, o volume de sangue (volemia) aumenta e, com ele, a pressão arterial.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** As **glândulas seminais (vesículas seminais)**, que produzem a maior parte do volume do sêmen, e a **próstata**; as bulbouretrais contribuem com uma pequena quantidade de muco.\n\nO pH acima de 7 (levemente básico) neutraliza a acidez da uretra masculina, que conserva resíduos de urina, e a acidez natural do canal vaginal. Isso protege os espermatozoides, que perdem a mobilidade e morrem em meio ácido, aumentando a chance de fecundação.\n\n**b)** A espermatogênese exige temperatura cerca de 2 °C a 3 °C **abaixo da temperatura corporal**. No escroto, fora da cavidade abdominal, os testículos ficam mais frios; dentro do abdome, a temperatura mais alta prejudicaria a produção de espermatozoides e poderia levar à infertilidade.\n\nA testosterona é produzida pelas **células intersticiais (células de Leydig)**, situadas entre os túbulos seminíferos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Pela segunda lei de Mendel (segregação independente), o duplo-heterozigoto AaBb formaria quatro tipos de gametas em proporções iguais (AB, Ab, aB, ab), e o cruzamento com aabb daria **25% de cada genótipo**: AaBb, Aabb, aaBb e aabb (1 : 1 : 1 : 1).\n\nO resultado foi diferente porque os genes estão **ligados (linkage)**: localizam-se no mesmo par de cromossomos homólogos e tendem a ser herdados juntos. Os tipos mais frequentes (Aabb e aaBb, 46% cada) são os parentais; os raros (AaBb e aabb, 4% cada) são recombinantes, formados por **permutação (crossing-over)** na meiose.\n\n**b)** Os gametas recombinantes somam 4% + 4% = 8% (taxa de recombinação; os genes distam 8 unidades de recombinação, ou 8 cM). Como cada célula que sofre permutação entre esses genes origina metade de gametas recombinantes e metade parentais, a frequência de células da planta duplo-heterozigota que sofreram recombinação é **2 · 8% = 16%**.\n\nA planta duplo-heterozigota tem os genes em posição trans (Ab/aB). Em uma célula somática de um descendente parental, por exemplo Aabb, um cromossomo do par traz os alelos **A e b** (vindos do genitor heterozigoto) e o homólogo traz **a e b** (vindos do duplo-recessivo), nos mesmos loci. Para o descendente aaBb, seriam a e B em um cromossomo e a e b no outro.",
+   "confianca": "media",
+   "pendencia": "O item b pede um desenho no campo de resposta, que não aparece na imagem; a disposição dos genes foi descrita em palavras. A pergunta sobre \"células que sofreram recombinação\" pode ser lida como a taxa de recombinação (8%); aqui se respondeu a fração de meiócitos com permutação (16%), explicando a relação entre as duas."
+  },
+  "0:7": {
+   "resposta": "**a)** A base exclusiva do RNA é a **uracila** (U), que no DNA é substituída pela timina.\n\nDengue, chikungunya e zika são arboviroses transmitidas principalmente pela **picada da fêmea do mosquito *Aedes aegypti*** (vetor), que adquire o vírus ao picar uma pessoa infectada.\n\n**b)** As partículas análogas aos nucleosídeos são incorporadas ao RNA viral durante sua replicação no lugar dos nucleotídeos normais e provocam pareamentos errados. As mutações se acumulam a cada ciclo (erro catastrófico), e o RNA passa a codificar proteínas defeituosas e a não servir mais de molde confiável; sem material genético e proteínas funcionais, não se formam novas partículas virais viáveis.\n\nUm nucleosídeo é formado por uma **base nitrogenada** ligada a uma **pentose** (ribose, no RNA); diferentemente do nucleotídeo, não tem o grupo fosfato.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** A camada de ozônio, na estratosfera, **absorve grande parte da radiação ultravioleta** do Sol (UV-B e UV-C). Essa radiação causa mutações no DNA, câncer de pele, catarata e danos aos organismos, inclusive ao fitoplâncton e às plantas; sem esse filtro, a vida na superfície seria muito prejudicada.\n\nOs polinizadores, como as abelhas, enxergam a radiação UV e se orientam por padrões de reflexão e absorção de UV nas flores e brácteas. Com mais pigmento absorvendo UV, a inflorescência muda de aparência para esses insetos e pode ficar **menos atraente ou menos reconhecível**; com menos visitas, há menos polinização e menor produção de sementes.\n\n**b)** Os carotenoides são **pigmentos acessórios da fotossíntese**: absorvem luz em comprimentos de onda (azul-esverdeado) pouco aproveitados pela clorofila e transferem essa energia a ela. Também têm papel **fotoprotetor** e antioxidante, dissipando o excesso de energia luminosa e protegendo a clorofila e as membranas.\n\nAo ampliar a faixa de luz absorvida, eles aumentam a taxa de fotossíntese e, portanto, a produção de matéria orgânica disponível para o crescimento da planta.",
+   "confianca": "media",
+   "pendencia": "A relação entre a cor das brácteas e a redução da reprodução é uma interpretação (efeito sobre os polinizadores que enxergam UV); outras explicações bem justificadas também valem."
+  },
+  "0:9": {
+   "resposta": "**a)** Metanol (H₃COH): 3 · (+1) + x + (−2) + (+1) = 0 → x = **−2**\n\nDióxido de carbono (CO₂): x + 2 · (−2) = 0 → x = **+4**\n\n**b)** O O₂, de maior potencial de redução, sofre redução no cátodo (+); o metanol sofre oxidação no ânodo (−), com a segunda semirreação invertida:\n\nÂnodo: H₃COH(ℓ) + H₂O(ℓ) → CO₂(g) + 6 H⁺(aq) + 6 e⁻\n\nCátodo (× 3): 3/2 O₂(g) + 6 H⁺(aq) + 6 e⁻ → 3 H₂O(ℓ)\n\nGlobal: **H₃COH(ℓ) + 3/2 O₂(g) → CO₂(g) + 2 H₂O(ℓ)**\n\nΔE° = E°(red, cátodo) − E°(red, ânodo) = 1,229 − 0,046 = **+1,183 V**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Decomposição térmica balanceada:\n\n2 KCℓO₃(s) → 2 KCℓ(s) + 3 O₂(g)\n\nO potássio (Z = 19) perde um elétron ao formar K⁺; o cátion tem **18 elétrons**.\n\n**b)** Pela curva, o coeficiente de solubilidade é 24 g de KCℓO₃/100 g de água a cerca de **60 °C**. A 90 °C a solução era insaturada (solubilidade ≈ 47 g/100 g); ao resfriar, ela fica saturada a 60 °C, e abaixo dessa temperatura a solubilidade é menor que 24 g/100 g; por isso a cristalização começa em **60 °C**.\n\nA 30 °C, o coeficiente de solubilidade é 10 g/100 g de água:\n\nmassa cristalizada = 24 − 10 = **14 g** de KCℓO₃",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O álcool é o octan-1-ol: cadeia normal de 8 carbonos com –OH no carbono 1, CH₃(CH₂)₇OH.\n\nFórmula molecular: **C₈H₁₈O**\n\nMassa molar = 8 · 12 + 18 · 1 + 16 = **130 g/mol**\n\n**b)** O ácido carboxílico de dois carbonos é o ácido etanoico (acético). A reação é uma esterificação:\n\nH₃C–COOH + HO–CH₂–CH₂–CH₂–CH₂–CH₂–CH₂–CH₂–CH₃ → H₃C–COO–CH₂–CH₂–CH₂–CH₂–CH₂–CH₂–CH₂–CH₃ + H₂O\n\n(no produto, o grupo é –C(=O)–O–, ligado ao CH₃ de um lado e à cadeia octila do outro)\n\nO composto formado, o etanoato de octila (acetato de octila), pertence à função **éster**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O ácido lático (ácido 2-hidroxipropanoico) tem um **carbono quiral (assimétrico)**: o carbono 2 está ligado a quatro grupos diferentes (H, OH, CH₃ e COOH). Por isso a molécula não é sobreponível à sua imagem especular e existe em duas formas enantioméricas (dextrogira e levogira), opticamente ativas.\n\nA fermentação da glicose é **exotérmica**, pois libera calor (o texto cita aumento de temperatura).\n\n**b)** O ácido málico tem dois grupos carboxila (–COOH); os hidrogênios desses grupos são ionizáveis, e o H do –OH alcoólico não é. Ele é um **diácido** (dois hidrogênios ionizáveis).\n\nFermentação alcoólica da glicose:\n\nC₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Horizontal (MU):\n\nx = v(x) · t = 300 · 2,0 = **600 m**\n\nVertical (MUV, aceleração −g):\n\ny = v(0y) · t − g · t² ÷ 2 = 120 · 2,0 − 10 · 2,0² ÷ 2\n\ny = 240 − 20 = **220 m**\n\n**b)** No ponto mais alto, a velocidade é só horizontal, v = 100 m/s, e a resistência do ar é horizontal e contrária ao movimento:\n\nF(A) = 6,0 × 10⁻⁶ · 100² = 6,0 × 10⁻² N\n\nPeso (vertical, para baixo): P = m · g = 8,0 × 10⁻³ · 10 = 8,0 × 10⁻² N\n\nAs duas forças são perpendiculares:\n\nF(R) = √[(6,0 × 10⁻²)² + (8,0 × 10⁻²)²] = √(1,0 × 10⁻²)\n\nF(R) = **0,10 N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Como os veículos se movem na mesma direção e sentido:\n\nv(rel) = 15 − 10 = **5,0 m/s**\n\nEnergia cinética do automóvel:\n\nEc = m · v² ÷ 2 = 1 000 · 10² ÷ 2 = **5,0 × 10⁴ J**\n\n**b)** Na colisão, o sistema é isolado; os veículos seguem unidos com velocidade comum v:\n\n4 000 · 15 + 1 000 · 10 = (4 000 + 1 000) · v\n\n70 000 = 5 000 · v → v = 14 m/s\n\nImpulso do caminhão sobre o automóvel = variação da quantidade de movimento do automóvel:\n\nI = m · (v − v₀) = 1 000 · (14 − 10) = **4,0 × 10³ N·s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** A transformação PQ é isobárica (p = 1,5 × 10⁵ Pa), logo V ÷ T é constante:\n\nV(P) ÷ T(P) = V(Q) ÷ T(Q) → 1,0 ÷ 300 = 1,2 ÷ T(Q)\n\nT(Q) = 360 K\n\nθ(Q) = 360 − 273 = **87 °C**\n\n**b)** Trabalho realizado pelo gás na expansão isobárica:\n\nτ = p · ΔV = 1,5 × 10⁵ · (1,2 − 1,0) = 3,0 × 10⁴ J\n\nPrimeira lei da termodinâmica:\n\nQ = τ + ΔU = 3,0 × 10⁴ + 4,5 × 10⁴ = **7,5 × 10⁴ J** absorvidos",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Em campo uniforme:\n\nU = E · d = 5,0 × 10⁶ · 8,0 × 10⁻⁹ = **4,0 × 10⁻² V** (40 mV)\n\nO campo elétrico aponta das cargas positivas para as negativas. Como ele vai de fora para dentro da célula, a **parede externa tem carga positiva** e a **parede interna tem carga negativa** (o potencial é maior do lado de fora).\n\n**b)** Força elétrica sobre o íon:\n\nF(e) = q · E = 1,6 × 10⁻¹⁹ · 5,0 × 10⁶ = **8,0 × 10⁻¹³ N**\n\nA força magnética é F(m) = q · v · B · sen θ; o campo é mínimo quando B é perpendicular à velocidade (sen θ = 1):\n\nB(mín) = F ÷ (q · v) = 8,0 × 10⁻¹³ ÷ (1,6 × 10⁻¹⁹ · 1,0 × 10⁻⁴)\n\nB(mín) = 8,0 × 10⁻¹³ ÷ 1,6 × 10⁻²³ = **5,0 × 10¹⁰ T**\n\n(equivale a E ÷ v; o valor enorme mostra que, nessa velocidade, a força magnética é desprezível perto da elétrica)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** A moral está na última frase da crônica: \"A insônia dos justos tira o sono de qualquer diabo.\"\n\nEla funciona como fecho de fábula: generaliza, em tom de provérbio, a lição do episódio. O Diabo, que \"aprendeu a lição\", perdeu a aposta porque o homem honesto não suportaria ficar com o dinheiro indevido (\"não conseguiria dormir\"); a consciência do justo derrota a tentação. Há ainda um jogo irônico com a expressão \"o sono dos justos\": aqui é a insônia do justo que tira o sono do Diabo.\n\n**b)** A expressão hiperbólica é **\"rios de champanhe fluindo diariamente\"**. Trata-se de exagero intencional: ninguém consumiria champanhe em quantidade equivalente a rios, todos os dias. A hipérbole amplia a imagem da vida de luxo e desperdício que o Diabo esperava que o aposentado levasse com o dinheiro.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Duas frases em que a voz do narrador se mistura à de um personagem:\n\n1. \"O Maligno resolveu, então, provocar o Senhor: que tal uma nova aposta?\" — o narrador relata a ação, e a pergunta após os dois-pontos reproduz a fala do Diabo, sem aspas nem travessão.\n\n2. \"Eu não conseguiria dormir, disse, à guisa de explicação.\" — a primeira oração é a fala do aposentado, em primeira pessoa; \"disse, à guisa de explicação\" é intervenção do narrador.\n\nTambém valem trechos de discurso indireto livre ligados ao Diabo, como o que considera a devolução \"uma extrema burrice\".\n\n**b)** \"Concentrasse\" (2º parágrafo): o sujeito é **oculto (elíptico), \"ele\", referente ao Diabo**: os assessores sugeriram que ele se concentrasse em aposentados.\n\n\"Foi\" (3º parágrafo): o sujeito é **oracional**, a oração reduzida de infinitivo \"induzir um erro no sistema de pagamento de aposentadorias\" (induzir esse erro foi fácil para ele).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Segundo o autor, o sofrimento mais intenso está associado à **dor do membro fantasma**: a percepção \"fantasmagórica\" de que a mão ou o pé ausente ainda dói, pulsa, queima ou coça, inclusive em sonhos e pesadelos.\n\nEssa experiência se vincula a uma representação do corpo **anterior à amputação**: o cérebro continua a mapear o corpo íntegro, como ele foi, e não como ele é agora. As áreas cerebrais que correspondiam ao membro perdido, privadas de sinais, são reorganizadas, e esse remapeamento produz a sensação fantasma.\n\n**b)** Duas palavras com prefixo de negação: **desequilíbrio** (prefixo des-) e **incompletude** (prefixo in-). Também valem \"inexorável\" e \"incômodo\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A personificação está na **frase 2**. O autor atribui ao membro fantasma, uma sensação sem existência física, uma ação própria de seres humanos: ele \"reclama\" da incompletude do mutilado, como se fosse alguém capaz de protestar. As outras frases não atribuem características humanas a seres inanimados: a 1 é informativa e a 3 descreve o resultado do transplante.\n\n**b)** Na voz ativa, o agente da passiva passa a sujeito e o verbo concorda com ele:\n\n\"Representações vizinhas invadem e loteiam as regiões cerebrais correspondentes ao membro amputado.\"",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

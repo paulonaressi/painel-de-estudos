@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2021_prova-ii-discursiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** **Ambas.** As espermatogônias, na periferia dos túbulos seminíferos, multiplicam-se por **mitose** (fase de multiplicação) e algumas crescem, originando os espermatócitos primários. Estes sofrem **meiose**: o espermatócito I (2n) forma dois espermatócitos II (n), que originam quatro espermátides haploides. As espermátides se diferenciam em espermatozoides (espermiogênese), sem nova divisão.\n\n**b)** O principal hormônio a ser inibido é o **FSH** (hormônio folículo-estimulante), que, atuando nas células de Sertoli, estimula a espermatogênese; o LH também é reduzido.\n\nA testosterona em excesso no sangue exerce **retroalimentação negativa** sobre o hipotálamo e a hipófise, diminuindo a liberação de GnRH, FSH e LH. Sem estímulo do FSH (e com pouco LH, que manteria a testosterona alta dentro dos testículos), a produção de espermatozoides cai muito, e o homem fica temporariamente infértil, mantendo as características masculinas pela testosterona da pílula.",
+   "confianca": "media",
+   "pendencia": "A banca pode ter esperado o LH como principal hormônio; o essencial é explicar a retroalimentação negativa sobre FSH e LH, que bloqueia a espermatogênese."
+  },
+  "0:2": {
+   "resposta": "**a)** A função comum é **álcool** (grupo hidroxila, –OH, ligado a carbono saturado).\n\nA **vitamina C** tem maior temperatura de fusão (191 °C, contra 85 °C). Sua molécula é pequena e tem vários grupos –OH (além da carbonila), que formam muitas ligações de hidrogênio entre as moléculas. A vitamina D3 tem uma única hidroxila numa cadeia grande e predominantemente apolar, com interações principalmente de dipolo induzido, mais fracas no conjunto.\n\n**b)** A vitamina C tem **carbonos quirais** (assimétricos), logo apresenta isomeria óptica. O \"L\" indica a **configuração** do isômero: na projeção de Fischer, a hidroxila do carbono quiral mais afastado da carbonila (o carbono do grupo HO–CH, ligado ao CH₂OH) fica à esquerda, por comparação com o L-gliceraldeído. É, portanto, o nome de um dos enantiômeros (o D-ascórbico seria sua imagem especular).\n\nTeor de D3:\n\nm = 6,51 × 10⁻⁷ mol · 384 g/mol ≈ 2,50 × 10⁻⁴ g = 250 µg\n\n250 µg · 40 U.I./µg = **1,0 × 10⁴ U.I. (10 000 U.I.)**",
+   "confianca": "media",
+   "pendencia": "Muitos livros didáticos associam o \"L\" a isômero levogiro; tecnicamente ele indica a configuração (o ácido L-ascórbico é, na verdade, dextrogiro). Confira qual leitura seu professor adota."
+  },
+  "0:3": {
+   "resposta": "**a)** Em 5 s, com velocidades constantes:\n\nd_A = 1,6 · 5 = 8 m\n\nd_B = 1,2 · 5 = 6 m\n\nComo as trajetórias são perpendiculares e se encontram em P, D é a hipotenusa:\n\nD = √(8² + 6²) = √100 = **10 m**\n\n**b)** Conservação da quantidade de movimento (vetorial):\n\nQ_A = 2 · 1,6 = 3,2 kg·m/s; Q_B = 2 · 1,2 = 2,4 kg·m/s (perpendiculares)\n\nQ = √(3,2² + 2,4²) = √16 = 4,0 kg·m/s\n\nApós a colisão as esferas seguem juntas (4 kg):\n\nv = 4,0 ÷ 4 = 1,0 m/s\n\nE_c = 4 · 1,0² ÷ 2 = **2,0 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O enunciado diz que o feixe sobre r levou o tempo dado para percorrer \"PM̂O\", o que não é um segmento da reta r; a leitura mais razoável é o trajeto **OQ**. Assim:\n\nt = 9,2 × 10⁻⁶ µs = 9,2 × 10⁻¹² s\n\nOQ = v · t = 3 × 10⁸ · 9,2 × 10⁻¹² = 2,76 × 10⁻³ m = 0,276 cm\n\nEsse valor é menor que OP = 2 cm, o que é impossível; o tempo pretendido deve ser 9,2 × 10⁻⁵ µs, que dá OQ = 2,76 cm e, portanto:\n\nPQ = OQ − OP = 2,76 − 2 = **0,76 cm**\n\n**b)** No triângulo OPM, lei dos cossenos com o ângulo de 60° em O:\n\nPM² = 2² + 1,5² − 2 · 2 · 1,5 · cos 60° = 4 + 2,25 − 3 = 3,25\n\n**PM = √13 ÷ 2 ≈ 1,80 cm**\n\nLei dos senos:\n\nOP ÷ sen(PM̂O) = PM ÷ sen 60°\n\nsen(PM̂O) = 2 · (√3/2) ÷ (√13/2) = 2√3 ÷ √13 = **2√39 ÷ 13 ≈ 0,96**\n\n(O ângulo é agudo: cos(PM̂O) = (3,25 + 2,25 − 4) ÷ (2 · 1,80 · 1,5) > 0.)",
+   "confianca": "baixa",
+   "pendencia": "O item a tem erro no enunciado (\"PM̂O\" no lugar do segmento e tempo incompatível com OP = 2 cm); a resposta 0,76 cm supõe que o trajeto é OQ e o tempo 9,2 × 10⁻⁵ µs. O item b não depende disso."
+  },
+  "0:5": {
+   "resposta": "**a)** São exemplos da **crise climática e ambiental** (eventos extremos ligados ao aquecimento global e à perda de biodiversidade). Exemplo: o **Pantanal**, no Brasil, um dos ecossistemas mais biodiversos do planeta, está ameaçado por um incêndio. (Também valem: sul dos EUA, atingido pelo furacão Sally; Antártida, onde o aquecimento do oceano ameaça as geleiras Thwaites; Groenlândia, onde uma enorme ilha de gelo se desprendeu; oeste dos EUA, com incêndios recordes.)\n\n**b)** Refere-se aos **gorilas** que Attenborough filmou nos anos 1970: sua população passou de cerca de 250 para mais de 1 000 na natureza. Isso mostra que é possível **recuperar espécies ameaçadas e reverter a perda de biodiversidade**, evitando sua extinção.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

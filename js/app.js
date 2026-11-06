@@ -982,7 +982,7 @@
       const hora = info.ultima.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
       return info.pendentes ? `Última sincronização às ${hora}.` : `Tudo sincronizado às ${hora}.`;
     }
-    return 'Conectada.';
+    return 'Conta conectada.';
   }
 
   function renderConta() {

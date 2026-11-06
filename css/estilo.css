@@ -105,7 +105,7 @@ h1, h2, h3, p { margin: 0; }
   font-size: 18px;
 }
 .brand-text { display: flex; flex-direction: column; line-height: 1.15; min-width: 0; }
-.brand-text strong { font-size: 15px; letter-spacing: -.01em; white-space: nowrap; }
+.brand-text strong { font-size: 15px; letter-spacing: -.01em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .brand-text span { font-size: 12px; color: var(--ink-2); white-space: nowrap; }
 .topbar-spacer { flex: 1; }
 

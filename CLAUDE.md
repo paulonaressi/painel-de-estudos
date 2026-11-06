@@ -122,6 +122,10 @@ Casos que já deram trabalho e estão tratados (não desfazer sem testar):
   em negrito, com dois dígitos ("01."); só vale no arquivo que não tem nenhuma "Questão N"
   (`MARCA_POR_NUMERO`). Nesses, o nome da disciplina ("FÍSICA") encerra o bloco anterior e a coluna
   direita é medida página a página. Itens da capa ("3. Esta prova…") têm um dígito e ficam de fora.
+- **Número sozinho em negrito** (Famema 2022): modo `MARCA_POR_NUMERO = 'sozinho'`, só sem tarja e
+  sem "01."; páginas com mais de 8 números soltos (folhas de resposta e de redação) são ignoradas.
+- **Arquivo com uma parte defeituosa** (Famema 2024): `gerar-catalogo.js` aproveita as partes boas
+  (contínuas, sem questão reduzida à tarja, 5+ questões) e descarta parte idêntica a outra.
 - **Texto de apoio acima da tarja** numa prova de uma questão por página (Einstein 2024 q5, Unesp
   2016/2 q33, Unesp 2017 q32): se o bloco anterior terminou na caixa de resposta de outra página, o
   topo da página passa a ser da questão.
@@ -225,6 +229,8 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
   de fora. Chave: `<caminho do índice>#<parte>:<número>`; na tela, `parte:número` no arquivo do caderno.
 - A tela mostra o botão "Ver resposta-modelo" no cartão Resolução; o "visto" fica no registro
   (`modelo: true`) e sincroniza. Sempre com o aviso de IA, sem revisão humana.
+- Bloco 2 (06/11/2026): 485 discursivas, Unesp 2017–2020 e Medicina 2018–2023 (447 alta, 33 média,
+  5 baixa). Pendentes de recorte: Unesp 2019 q1, Unesp 2018/2 q25, Einstein 2020 q5, Unesp 2020 q18.
 - Primeira rodada: 06/11/2026, 436 discursivas (Unesp 2024–2026/2; Famerp, Famema, Santa Casa,
   Einstein e FMJ 2024–2027), escolha do dono do projeto, sem leitura prévia de amostra. 400 "alta",
   36 "media", nenhuma "baixa". Quem coordenou leu contra a imagem: Unesp 2026/2 q15, Famerp 2025
@@ -252,9 +258,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 ### Lacunas conhecidas
 
 - Unesp 2016/2: só as questões 25–36 (o arquivo do Objetivo não traz o 1º dia; não há outra cópia).
-- Layout que o extrator não entende, abrem como PDF inteiro: Famema 2022 (diagramação própria do
-  Objetivo, marcadores só com o número), Famema 2024 (arquivo com três partes e página confusa),
-  Einstein 2018 (provavelmente não é prova da Vunesp). O painel de navegador do app não desenha PDF em iframe; num navegador comum aparece.
+- Layout que o extrator não entende, abre como PDF inteiro: Einstein 2018 (provavelmente não é prova da Vunesp). O painel de navegador do app não desenha PDF em iframe; num navegador comum aparece.
 - Sem caderno nenhum: Famema 2023, Famerp 2018 (o Objetivo só tem a resolução).
 - Unifesp 2007: o único caderno discursivo (Objetivo) é um pacote PDF com JavaScript e anexos;
   descartado. Unifesp 2004: sem o 2º dia.

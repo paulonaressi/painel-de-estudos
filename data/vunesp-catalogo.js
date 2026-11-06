@@ -5313,7 +5313,22 @@ window.VUNESP_CATALOGO = {
      "rotulo": "Prova",
      "areas": [],
      "questoes": null,
-     "local": null,
+     "local": {
+      "pdf": "provas/famema/2024_prova-espelho-curso-objetivo.pdf",
+      "indice": "data/questoes/famema/2024_prova-espelho-curso-objetivo.json",
+      "parte": 0,
+      "numeros": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8
+      ],
+      "redacao": false
+     },
      "fontes": [
       {
        "nome": "Curso Objetivo",
@@ -5365,10 +5380,109 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 8 questões discursivas (Química 1–4, Biologia 5–8); Prova II: 40 questões objetivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova",
+     "rotulo": "Prova · parte 1 (questões 1 a 4)",
      "areas": [],
      "questoes": null,
-     "local": null,
+     "local": {
+      "pdf": "provas/famema/2022_prova-espelho-curso-objetivo.pdf",
+      "indice": "data/questoes/famema/2022_prova-espelho-curso-objetivo.json",
+      "parte": 0,
+      "numeros": [
+       1,
+       2,
+       3,
+       4
+      ],
+      "redacao": false
+     },
+     "fontes": [
+      {
+       "nome": "Curso Objetivo",
+       "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2022/famema2022_prova.pdf",
+       "oficial": false,
+       "embutir": true
+      }
+     ]
+    },
+    {
+     "rotulo": "Prova · parte 2 (questões 1 a 4)",
+     "areas": [],
+     "questoes": null,
+     "local": {
+      "pdf": "provas/famema/2022_prova-espelho-curso-objetivo.pdf",
+      "indice": "data/questoes/famema/2022_prova-espelho-curso-objetivo.json",
+      "parte": 1,
+      "numeros": [
+       1,
+       2,
+       3,
+       4
+      ],
+      "redacao": false
+     },
+     "fontes": [
+      {
+       "nome": "Curso Objetivo",
+       "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2022/famema2022_prova.pdf",
+       "oficial": false,
+       "embutir": true
+      }
+     ]
+    },
+    {
+     "rotulo": "Prova · parte 3 (questões 1 a 40)",
+     "areas": [
+      "redacao"
+     ],
+     "questoes": null,
+     "local": {
+      "pdf": "provas/famema/2022_prova-espelho-curso-objetivo.pdf",
+      "indice": "data/questoes/famema/2022_prova-espelho-curso-objetivo.json",
+      "parte": 2,
+      "numeros": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12,
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24,
+       25,
+       26,
+       27,
+       28,
+       29,
+       30,
+       31,
+       32,
+       33,
+       34,
+       35,
+       36,
+       37,
+       38,
+       39,
+       40
+      ],
+      "redacao": true
+     },
      "fontes": [
       {
        "nome": "Curso Objetivo",

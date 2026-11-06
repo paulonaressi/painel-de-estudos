@@ -37,7 +37,8 @@ MAX_SEGMENTOS = 8
 # Cadernos antigos (Unesp 2005–2009) não têm a tarja "Questão N": a questão começa com o número em
 # negrito seguido de ponto, sempre com dois dígitos ("01.", "10."). Esse marcador só vale no arquivo
 # que não tem nenhuma tarja, para não confundir com itens numerados dentro dos enunciados; as
-# instruções da capa ("3. Esta prova contém...") têm um dígito só. Definido por arquivo em preparar().
+# instruções da capa ("3. Esta prova contém...") têm um dígito só. Definido por arquivo em preparar():
+# 'ponto' ("01."), 'sozinho' (só o número na linha, em negrito: Famema 2022) ou False.
 RE_NUMERO_PONTO = re.compile(r'^(\d{2})\.(?:\s|$)')
 MARCA_POR_NUMERO = False
 # Nesses cadernos o nome da disciplina separa as questões; sem tratá-lo, ele ficaria no fim do
@@ -67,6 +68,11 @@ def linhas_da_pagina(pag):
             m = RE_NUMERO_PONTO.match(texto)
             if m and primeiro and negrito(primeiro) and re.fullmatch(r'\d{2}\.?', primeiro['text'].strip()):
                 linha['num_negrito'] = int(m.group(1))
+            # número sozinho na linha, em negrito (Famema 2022, diagramação do Objetivo); longe do topo e
+            # do rodapé, onde ficam os números de página
+            elif (re.fullmatch(r'\d{1,2}', texto) and primeiro and negrito(primeiro)
+                  and 0.04 * pag.rect.height < y0 < 0.93 * pag.rect.height):
+                linha['num_sozinho'] = int(texto)
             linhas.append(linha)
     return linhas
 
@@ -76,8 +82,10 @@ def numero_da_marca(ln):
     m = RE_MARCA.match(ln['texto'])
     if m:
         return int(m.group(1))
-    if MARCA_POR_NUMERO and 'num_negrito' in ln:
+    if MARCA_POR_NUMERO == 'ponto' and 'num_negrito' in ln:
         return ln['num_negrito']
+    if MARCA_POR_NUMERO == 'sozinho' and 'num_sozinho' in ln:
+        return ln['num_sozinho']
     return None
 
 
@@ -167,7 +175,19 @@ def preparar(doc):
     # Sem nenhuma tarja "Questão N" no arquivo e com vários "NN." em negrito: caderno antigo.
     MARCA_POR_NUMERO = False
     tarjas_no_arquivo = any(RE_MARCA.match(ln['texto']) or RE_MARCA_SEM_NUMERO.match(ln['texto']) for p in paginas for ln in p.linhas)
-    MARCA_POR_NUMERO = not tarjas_no_arquivo and sum('num_negrito' in ln for p in paginas for ln in p.linhas) >= 5
+    pontos = sum('num_negrito' in ln for p in paginas for ln in p.linhas)
+    sozinhos = sum('num_sozinho' in ln for p in paginas for ln in p.linhas)
+    MARCA_POR_NUMERO = False
+    if not tarjas_no_arquivo and pontos >= 5:
+        MARCA_POR_NUMERO = 'ponto'
+    elif not tarjas_no_arquivo and sozinhos >= 5:
+        MARCA_POR_NUMERO = 'sozinho'
+        # folhas de resposta e de redação têm as linhas numeradas (1 a 15, 1 a 30): página com muitos
+        # números soltos não é página de questões
+        for p in paginas:
+            if sum('num_sozinho' in ln for ln in p.linhas) > 8:
+                for ln in p.linhas:
+                    ln.pop('num_sozinho', None)
 
     # Duas colunas quando alguma página tem mais de um marcador de questão e um deles está na
     # metade direita. (Um marcador sozinho à direita é só a tarja da questão, que em alguns

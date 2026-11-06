@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/famerp/2024_2-dia-prova-de-conhecimentos-especificos-e-redacao.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Em áreas naturais devastadas pelo fogo ocorre **sucessão ecológica secundária**, pois a comunidade se restabelece sobre um solo que já havia sido ocupado e conserva sementes, raízes e matéria orgânica. Um componente do tronco que protege as árvores do Cerrado contra o fogo é a **casca espessa (súber ou cortiça)**, tecido morto e isolante térmico que protege os tecidos vivos internos.\n\n**b)** As árvores do Cerrado têm **raízes profundas (pivotantes)**, que alcançam camadas profundas do solo e o lençol freático, onde há água mesmo na estação seca. Na Floresta Amazônica, as plantas de grande porte se mantêm porque os nutrientes estão principalmente na biomassa: a serrapilheira é decomposta rapidamente por fungos e bactérias (favorecidos pelo calor e pela umidade) e os nutrientes liberados são logo reabsorvidos pelas raízes superficiais, muitas vezes associadas a micorrizas. É uma ciclagem rápida de nutrientes, que compensa a pobreza do solo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Na célula procariótica a transcrição ocorre no **citoplasma** (hialoplasma), na região do nucleoide, onde está o DNA. A estrutura que permite distinguir as células é o **envoltório nuclear (carioteca)**, representado pela linha tracejada na célula eucariótica: ela delimita o núcleo e separa transcrição de tradução, enquanto na procariótica o DNA está livre no citoplasma.\n\n**b)** Porque todos os ribossomos estão traduzindo **a mesma molécula de RNAm** (formam um polirribossomo): leem a mesma sequência de códons, que determina a mesma sequência de aminoácidos. O RNAm maduro é menor porque, no processamento (*splicing*) que ocorre no núcleo, os **íntrons** (sequências não codificantes) são removidos do RNAm imaturo e os éxons são unidos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A hidra tem **sistema nervoso difuso** (rede nervosa), com neurônios espalhados pelo corpo sem centralização. O órgão encefálico que controla o ritmo respiratório nos mamíferos é o **bulbo** (medula oblonga).\n\n**b)** A letra é **Y**, a **medula espinal**. No reflexo patelar, a percussão do tendão abaixo da patela estira o músculo quadríceps e estimula receptores; o impulso segue pelo neurônio sensitivo (aferente) do **nervo espinal (raquidiano)** até a medula, onde faz sinapse diretamente com o neurônio motor. Este conduz o impulso pelas fibras motoras (eferentes) do mesmo nervo espinal até o quadríceps, que se contrai e estende a perna. É uma resposta involuntária e rápida, que não depende do encéfalo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Existem **44 autossomos** (22 pares) em uma célula somática dessa pessoa, que tem cariótipo 46,XY. Os cromossomos sexuais não são homólogos porque **X e Y diferem em tamanho, forma (posição do centrômero) e conteúdo gênico**: o Y é bem menor e só uma pequena região (pseudoautossômica) tem genes correspondentes no X; a maior parte dos genes de um não tem par no outro.\n\n**b)** Ocorreu uma **translocação (recíproca)**. Não pode ser considerada permutação porque o *crossing-over* é a troca de segmentos correspondentes entre cromátides de **cromossomos homólogos**, na prófase I; os cromossomos 10 e 14 **não são homólogos**, de modo que a troca leva genes para cromossomos diferentes, alterando a estrutura cromossômica.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Os anticorpos são **proteínas** (imunoglobulinas, do grupo das globulinas). A reação alérgica é imunidade adquirida porque é **específica** e depende de **contato prévio** com o alérgeno: na primeira exposição o organismo é sensibilizado e produz anticorpos IgE específicos contra aquela substância; só nas exposições seguintes ocorre a reação. Ela é desenvolvida ao longo da vida, e não inata.\n\n**b)** A célula que libera histamina é o **mastócito**. No choque anafilático, a histamina provoca **broncoconstrição** (contração da musculatura lisa dos brônquios e bronquíolos), além de edema da mucosa (inclusive da glote) e aumento de secreção, o que estreita as vias respiratórias e dificulta a passagem de ar.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Nas espermatófitas o \"óvulo\" não é um gameta: é uma estrutura **multicelular**, formada pelo megasporângio (nucelo) envolvido por tegumentos, que contém o megásporo e, depois, o gametófito feminino (saco embrionário), dentro do qual está o gameta, a oosfera. Nos animais, o óvulo é **uma única célula**, o próprio gameta feminino.\n\n**b)** Porque o que é liberado do ovário na ovulação é o **ovócito secundário** (parado na metáfase da meiose II), e não um óvulo pronto. A meiose II só se completa, formando o óvulo, se houver **fecundação**: a penetração do espermatozoide no ovócito secundário, na tuba uterina, estimula o término da meiose II.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** *Ascaris lumbricoides* pertence ao filo **Nematoda** (nematódeos ou nematelmintos). A principal forma de transmissão é a **ingestão de ovos embrionados** presentes em água ou alimentos contaminados por fezes humanas (verduras mal lavadas, mãos sujas).\n\n**b)** O ovo eclode no **intestino delgado**. A pessoa pode apresentar pneumonia porque as larvas liberadas atravessam a parede intestinal, caem na circulação e chegam aos **pulmões**, onde rompem capilares e alvéolos e sobem pelas vias respiratórias até a faringe (ciclo pulmonar). Essa passagem causa inflamação e lesões no tecido pulmonar (síndrome de Löffler), com tosse e quadro semelhante à pneumonia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Se a cor rosa fosse aposemática, ela sinalizaria aos predadores que o gafanhoto é tóxico ou impalatável. Os predadores aprenderiam a evitá-lo, de modo que os indivíduos rosa sobreviveriam mais e deixariam mais descendentes. Pela **seleção natural**, o alelo recessivo responsável pela cor aumentaria de frequência ao longo das gerações e a população de gafanhotos rosa poderia se tornar numerosa.\n\n**b)** Sendo A (verde) dominante e a (rosa) recessivo, a fêmea verde é filha de Aa × Aa. Entre os descendentes verdes (1 AA : 2 Aa), a probabilidade de ser heterozigótica é:\n\nP(Aa) = **2/3**\n\nCruzamento com macho rosa (aa): só há filhos rosa se a fêmea for Aa, e então metade da prole é rosa. Metade dos ovos é de fêmeas:\n\nP(fêmea rosa) = 2/3 · 1/2 · 1/2 = 1/6\n\nNúmero esperado = 90 · 1/6 = **15 fêmeas rosas**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Ânion fosfato: **PO₄³⁻**.\n\nPrimeira etapa de ionização do ácido sulfúrico:\n\nH₂SO₄ + H₂O → H₃O⁺ + HSO₄⁻ (ou H₂SO₄ → H⁺ + HSO₄⁻)\n\n**b)** Equação balanceada:\n\nCa₃(PO₄)₂ + 2 H₂SO₄ → CaH₄(PO₄)₂ + 2 CaSO₄\n\nMassa de fosfato de cálcio na rocha: 0,80 · 500 kg = 400 kg\n\nProporção: 310 g de Ca₃(PO₄)₂ reagem com 2 · 98 = 196 g de H₂SO₄\n\nm(H₂SO₄) = 400 kg · 196 ÷ 310 ≈ **253 kg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** O ácido carboxílico é o **composto 1** (ácido metanoico, HCOOH: um carbono ligado a dois oxigênios, um deles em OH). O composto com carbono insaturado (ligação dupla entre carbonos) é o eteno, composto 4: **C₂H₄**.\n\n**b)** Os produtos são HCOOH (1), CO (2), CH₄ (3), C₂H₄ (4), etanol (5) e propan-1-ol (6). O éster de menor massa molar se forma entre o ácido metanoico e o álcool de menor cadeia disponível, o etanol: par **1 e 5**, formando metanoato de etila (HCOOCH₂CH₃).\n\nO álcool de maior massa molar é o propan-1-ol (CH₃–CH₂–CH₂–OH). Seu isômero de posição é o **propan-2-ol**:\n\nCH₃–CH(OH)–CH₃",
+   "confianca": "media",
+   "pendencia": "As estruturas dos compostos 5 (etanol) e 6 (propan-1-ol) foram identificadas pelo modelo de esferas da figura; confira na imagem. Se a banca considerar insaturado também o carbono ligado a O por dupla, o composto 1 entraria no item a."
+  },
+  "0:11": {
+   "resposta": "**a)** A interação intermolecular mais forte no etanol é a **ligação de hidrogênio** (entre o H do grupo OH e o O de outra molécula). O produto da oxidação, CH₃CHO (etanal), pertence à função **aldeído**.\n\n**b)** Somando as semirreações:\n\nC₂H₅OH + ½ O₂ → CH₃CHO + H₂O\n\nEtanol ingerido: 5% de 500 mL = 25 mL\n\nMassa: m = d · V = 0,8 g/mL · 25 mL = 20 g\n\nQuantidade: n = 20 ÷ 46 ≈ 0,435 mol, distribuídos em 5 L (5 000 mL) de sangue\n\nEm 1 mL de sangue: 0,435 ÷ 5 000 ≈ 8,7 × 10⁻⁵ mol\n\nComo 1 mL de sangue contém tanto álcool quanto 2 L de ar expirado, em 2 L de ar há ≈ **8,7 × 10⁻⁵ mol de etanol**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Ácido bromídrico: **HBr**. No íon BrO₃⁻: x + 3·(−2) = −1 → x = **+5**.\n\n**b)** Comparando experimentos em que só uma concentração muda:\n\n1 → 2: [BrO₃⁻] dobra e a velocidade dobra → ordem 1 em BrO₃⁻\n\n1 → 3: [Br⁻] triplica e a velocidade triplica → ordem 1 em Br⁻\n\n2 → 4: [H⁺] dobra e a velocidade passa de 4,8 × 10⁻³ para 1,92 × 10⁻², ou seja, quadruplica → **ordem 2 em relação ao H⁺**\n\nEquação da velocidade:\n\n**v = k · [BrO₃⁻] · [Br⁻] · [H⁺]²**\n\n(com os dados do experimento 1, k = 2,4 × 10⁻³ ÷ (0,20 · 0,20 · 0,20²) = 1,5 L³/(mol³·s))",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Fórmula de Lewis do CO₂: o carbono central faz duas ligações duplas, uma com cada oxigênio, e cada oxigênio tem dois pares de elétrons não ligantes:\n\n:Ö::C::Ö:  (ou seja, O=C=O com dois pares isolados em cada O)\n\nVolume de 100 g de H₂ nas CATP:\n\nn = 100 ÷ 2 = 50 mol\n\nV = 50 · 25 L = **1 250 L**\n\n**b)** Energia na combustão de 10 g de H₂:\n\nn = 10 ÷ 2 = 5 mol → E = 5 · 286 = **1 430 kJ** liberados\n\nA combustão do H₂ dá o calor de formação da água líquida: ΔHf(H₂O) = −286 kJ/mol. Para o etanol (ΔHf do O₂ = 0):\n\nΔH = [2·(−394) + 3·(−286)] − (−278)\n\nΔH = −788 − 858 + 278 = **−1 368 kJ/mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A prednisona tem **6 carbonos assimétricos** (os carbonos 8, 9, 10, 13, 14 e 17 do esqueleto esteroide: quatro ligantes diferentes cada um). A prednisolona tem **2 carbonos quaternários**: os dois carbonos ligados às metilas angulares (C10 e C13), cada um ligado a quatro outros carbonos.\n\n**b)** Fórmula da prednisona: C₂₁H₂₆O₅ (5 átomos de oxigênio).\n\n%O = (5 · 16) ÷ 358 · 100 = 80 ÷ 358 · 100 ≈ **22,3%**\n\nNa conversão, a carbonila cetônica do carbono 11 (C=O) passa a álcool secundário (CH–OH), com adição de hidrogênio: é uma reação de **redução** (hidrogenação da cetona).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Partindo do repouso com a = 0,80 m/s²:\n\nv = a · t = 0,80 · 20 = **16 m/s**\n\nd = a · t² ÷ 2 = 0,80 · 20² ÷ 2 = **160 m**\n\n**b)** Força resultante no reboque R₂ (m = 20 t = 2,0 × 10⁴ kg):\n\nF_R = m · a = 2,0 × 10⁴ · 0,80 = **1,6 × 10⁴ N**\n\nA resultante é a força de R₁ menos as resistências:\n\nF − 3 000 = 16 000\n\nF = **1,9 × 10⁴ N** (19 000 N)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Quantidade de movimento de A antes da colisão:\n\nQ_A = m · v = 3 200 · 10 = **3,2 × 10⁴ kg·m/s**\n\nImpulso recebido por A (teorema do impulso):\n\nI = ΔQ_A = 3 200 · (12 − 10) = **6,4 × 10³ N·s**\n\n**b)** Energia cinética de A antes da colisão:\n\nEc_A = 3 200 · 10² ÷ 2 = **1,6 × 10⁵ J**\n\nEnergia do sistema antes: 1,6 × 10⁵ + 800 · 20² ÷ 2 = 1,6 × 10⁵ + 1,6 × 10⁵ = 3,2 × 10⁵ J\n\nEnergia depois: 4 000 · 12² ÷ 2 = 2,88 × 10⁵ J\n\nEnergia dissipada: 3,2 × 10⁵ − 2,88 × 10⁵ = **3,2 × 10⁴ J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** O volume da câmara não varia (transformação isovolumétrica), logo o trabalho é **nulo: W = 0**.\n\nPela 1ª lei da termodinâmica:\n\nQ = ΔU + W = −225 kJ + 0 = −225 kJ\n\nO ar **perdeu 225 kJ** de calor.\n\n**b)** A volume constante, p/T é constante:\n\np₂ = p₁ · T₂ ÷ T₁ = 1,0 × 10⁵ · 60 ÷ 300 = **2,0 × 10⁴ Pa**\n\nPara voltar a 1,0 × 10⁵ Pa a 60 K (mesmo V e T), a pressão é proporcional ao número de mols: é preciso multiplicá-lo por 5.\n\nn_final = 5 · 45 = 225 mol\n\nMols a introduzir = 225 − 45 = **180 mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** O objeto está a 40 cm de E₁ e a 30 cm de E₂; a distância entre os espelhos é 70 cm.\n\nEspelho E₁: a 1ª imagem é a do objeto, **40 cm atrás de E₁**. A 2ª imagem é a da 1ª imagem de E₂ (que está 30 cm atrás de E₂, isto é, a 70 + 30 = 100 cm de E₁): fica **100 cm atrás de E₁**.\n\nEspelho E₂: a 1ª imagem é a do objeto, **30 cm atrás de E₂**. A 2ª é a da 1ª imagem de E₁ (a 70 + 40 = 110 cm de E₂): fica **110 cm atrás de E₂**.\n\nNo esquema, as imagens são desenhadas direitas, do mesmo tamanho do objeto, sobre a reta perpendicular aos espelhos que passa pelo objeto.\n\n**b)** Para espelhos planos formando 72°:\n\nN = 360° ÷ 72° − 1 = **4 imagens**\n\nDelas, **2 são primárias** (uma de cada espelho, por reflexão direta do objeto) e **2 são secundárias** (cada espelho conjuga a imagem formada pelo outro).",
+   "confianca": "media",
+   "pendencia": "O item a pede um desenho no campo de resposta; aqui as posições das imagens estão descritas em texto. Confira se no seu esquema elas estão nas distâncias indicadas."
+  },
+  "0:19": {
+   "resposta": "**a)** Os componentes estão em série. A ddp total nos quatro LEDs é 4 · 2,5 = 10 V; o restante fica no resistor:\n\nU_R = 12 − 10 = **2 V**\n\nCom i = 20 mA = 0,020 A:\n\nR = U_R ÷ i = 2 ÷ 0,020 = **100 Ω**\n\n**b)** Potência de cada LED:\n\nP = U · i = 2,5 · 0,020 = **0,05 W**\n\nEnergia consumida por LED em 5 min (300 s):\n\nE = P · Δt = 0,05 · 300 = **15 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** De V = k · Q ÷ d:\n\nQ = V · d ÷ k = 1,6 × 10⁻³ · 18 ÷ (9,0 × 10⁹) = **3,2 × 10⁻¹² C**\n\nNúmero de elétrons removidos (o objeto ficou positivo):\n\nn = Q ÷ e = 3,2 × 10⁻¹² ÷ 1,6 × 10⁻¹⁹ = **2,0 × 10⁷ elétrons**\n\n**b)** No novo meio, k e Q são fixos, então V é inversamente proporcional a d. Passando de 27 m para 9,0 m (distância 3 vezes menor), o potencial fica 3 vezes maior:\n\nV = 3 · 6,0 × 10⁻³ = **1,8 × 10⁻² V**\n\nGráfico: uma hipérbole (V ∝ 1/d) no 1º quadrante, com valores positivos; V cresce indefinidamente quando d tende a zero e diminui, aproximando-se do eixo d (V → 0), quando d aumenta muito, sem nunca se anular.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

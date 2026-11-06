@@ -1,0 +1,47 @@
+{
+ "indice": "data/questoes/famema/2026_prova-i-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Semirreação de oxidação: Fe²⁺ → Fe³⁺ + e⁻\n\nA vitamina C auxilia a conversão de Fe³⁺ em Fe²⁺, ou seja, faz o ferro ganhar elétrons (redução). Logo, a vitamina C se oxida e atua como **agente redutor** (caráter redutor).\n\n**b)** Quantidade de FeSO₄ na amostra:\nn = 0,2 mol/L × 0,200 L = 0,04 mol\nm = 0,04 mol × 152 g/mol = **6,08 g**\n\nComo cada FeSO₄ libera um Fe²⁺, havia 0,2 mol/L de Fe²⁺; 25% foram oxidados a Fe³⁺ (o volume não muda):\n[Fe³⁺] = 0,25 × 0,2 mol/L = **0,05 mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** No **experimento 3**: o HCℓ é um ácido forte (α = 90%), está na maior concentração (0,5 mol/L) e na maior temperatura (50 °C), condições que aumentam a frequência e a energia das colisões e, portanto, a rapidez da reação e da liberação de H₂.\n\nSe o metal for usado em pó, a **efervescência fica mais intensa**, porque aumenta a superfície de contato entre o metal e o ácido, o que aumenta o número de colisões efetivas por unidade de tempo.\n\n**b)** Mg + 2 HCℓ → MgCℓ₂ + H₂\n\nPara o ácido acético (ácido fraco, ionização pequena): Ka ≈ [H⁺]² ÷ M\n[H⁺]² = Ka × M = 2 × 10⁻⁵ × 0,5 = 1 × 10⁻⁵\n[H⁺] = √(10 × 10⁻⁶) = √10 × 10⁻³\n[H⁺] = 3 × 10⁻³ mol/L",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Número de nêutrons = número de massa − número de prótons:\nX = 153 − 62 = **91 nêutrons**\n\nPela carta, o samário-153 emite radiação beta (e gama). Na emissão β, um nêutron se converte em próton, e o número atômico aumenta uma unidade (a radiação gama não altera Z):\nZ = 62 + 1 = **63** (európio)\n\n**b)** Pela tabela, a atividade cai de 400 mCi para 50 mCi em 144 h:\n400 → 200 → 100 → 50: três meias-vidas\nY = 144 h ÷ 3 = **48 h** (os pontos de 20 h e 63 h são compatíveis com esse valor).\n\nDose para o paciente: 3,0 mCi/kg × 80 kg = 240 mCi\nApós quatro meias-vidas: 240 ÷ 2⁴ = 240 ÷ 16 = **15 mCi**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O reagente inicial (fenil metil cetona, acetofenona) tem a carbonila entre dois carbonos: função **cetona**.\n\nO carbono assimétrico do acetato de feniletila é o **carbono ligado ao oxigênio do éster**, que também está ligado ao anel benzênico, ao grupo CH₃ e a um átomo de H — quatro ligantes diferentes. É esse carbono que deve ser circulado.\n\n**b)** A hidrogenação (H₂) da carbonila da cetona produz um álcool secundário; X é o grupo hidroxila: **–OH**.\n\nO intermediário (álcool) reage com Y formando o éster e água, uma esterificação. Y é o **ácido acético (ácido etanoico)**:\nCH₃–COOH, ou seja, H₃C–C(=O)–OH",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** **Sucessão ecológica secundária**, pois ocorre em uma área que já abrigava uma comunidade e foi degradada pela ação humana, mas manteve o solo (não começa em substrato nu, como rocha).\n\nA comunidade clímax é a indicada pelo número **6**.\n\n**b)** As heliófitas de pequeno porte são plantas de sol e têm **ponto de compensação fótico elevado**: precisam de grande intensidade luminosa para que a taxa de fotossíntese supere a de respiração. Ao longo da sucessão, plantas de maior porte crescem e sombreiam o estrato inferior. Sob a sombra, a intensidade de luz fica abaixo do ponto de compensação das heliófitas, que passam a consumir na respiração tanto ou mais matéria orgânica do que produzem, deixam de crescer e morrem, sendo substituídas por espécies umbrófitas, de ponto de compensação baixo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A **uracila** é a base nitrogenada presente apenas no RNA (no DNA, em seu lugar, há timina).\n\nA transcrição, síntese do RNA a partir do DNA, é indicada pela seta **1**.\n\n**b)** O RNAm imaturo (transcrito primário) contém **íntrons e éxons**. No processamento (*splicing*), ainda no núcleo, os íntrons são removidos e os éxons são unidos, de modo que o RNAm maduro fica mais curto.\n\nPor meio do **splicing alternativo**, os éxons de um mesmo RNAm imaturo podem ser combinados de maneiras diferentes (alguns são incluídos ou excluídos), originando RNAm maduros distintos, que são traduzidos em proteínas diferentes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O verme causador, a *Taenia solium*, pertence ao filo **Platyhelminthes** (platelmintos). A forma adulta tem **simetria bilateral**.\n\n**b)** O equívoco é afirmar que a cisticercose é adquirida pela ingestão de cisticercos na carne de porco: isso causa a **teníase** (a forma adulta se desenvolve no intestino). A cisticercose humana é adquirida pela **ingestão de ovos de *T. solium***, em água ou alimentos (como verduras) contaminados por fezes humanas, ou por autoinfecção; as larvas liberadas atravessam a parede intestinal, chegam ao sangue e se alojam nos tecidos, formando cisticercos.\n\nO reflexo patelar é um arco reflexo cuja integração ocorre na medula espinal: o neurônio sensitivo, estimulado pelo estiramento do músculo, faz sinapse diretamente com o neurônio motor que provoca a contração do quadríceps. Se o cisticerco interrompe essa sinapse, o impulso nervoso não passa do neurônio sensitivo ao motor, o músculo não recebe o comando de contração e a perna não se estende.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O exoesqueleto quitinoso protege o corpo contra choques, predadores e, principalmente, contra a perda de água (dessecação); também serve de ponto de apoio para a inserção dos músculos. Outras funções corretas também valem.\n\nFêmea BB × macho bb: a fêmea só forma gametas B e o macho só gametas b, logo todos os descendentes serão **Bb** (heterozigotos, verdes).\n\n**b)** Em equilíbrio de Hardy-Weinberg, os pretos (bb) têm frequência q²:\nq² = 0,16\nq = √0,16 = **0,4** (frequência do alelo b = 40%)\n\nFrequência do alelo B: p = 1 − 0,4 = 0,6\nHomozigotos dominantes (BB): p² = 0,6² = **0,36** (36%)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

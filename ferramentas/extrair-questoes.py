@@ -328,6 +328,15 @@ def achar_inicios(paginas):
             inicios.append({'tipo': 'redacao', 'pag': p.numero, 'col': 0, 'y': p.topo, 'parte': parte})
             break
     inicios.sort(key=lambda s: (s['pag'], s['col'], s['y']))
+    # Uma questão por página com o texto de apoio ACIMA da tarja (Einstein 2024, questão 5): se o
+    # bloco anterior terminou na caixa de resposta de outra página, o topo desta página é da questão.
+    for i, ini in enumerate(inicios):
+        p = paginas[ini['pag'] - 1]
+        anterior = inicios[i - 1] if i else None
+        if (ini['tipo'] == 'questao' and len(p.segs) == 1 and ini['y'] - p.topo > 40 and anterior
+                and anterior['pag'] < ini['pag'] and paginas[anterior['pag'] - 1].caixa_resposta
+                and any(p.topo <= ln['y0'] < ini['y'] for ln in p.corpo)):
+            ini['y'] = p.topo
     return inicios
 
 

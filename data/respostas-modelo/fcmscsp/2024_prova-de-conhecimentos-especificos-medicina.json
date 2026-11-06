@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2024_prova-de-conhecimentos-especificos-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** São **bentônicos**: vivem fixos (sésseis) ou associados ao substrato do fundo, no caso a superfície metálica. A colonização gradual de uma área nova, sem seres vivos anteriores, por comunidades que se substituem (microalgas e bactérias, depois cracas, ostras, poliquetas e, por fim, peixes) é a **sucessão ecológica primária**.\n\n**b)** Os corais dependem de **algas simbiontes fotossintetizantes** (zooxantelas), que lhes fornecem parte da matéria orgânica; abaixo da zona eufótica a **luz é insuficiente** para a fotossíntese, e os recifes não se formam. No início da sucessão, a comunidade está em crescimento e respira pouco em relação ao que produz: a PPB é maior que a PPL, mas a **PPL representa grande parte da PPB** (PPL = PPB − respiração bem positiva), o que permite o acúmulo de biomassa. Só na comunidade clímax a PPL se aproxima de zero.",
+   "confianca": "media",
+   "pendencia": "O item b sobre PPB e PPL pode ser cobrado de forma diferente pela banca; a resposta segue o modelo clássico de sucessão (no início, respiração pequena e PPL próxima da PPB)."
+  },
+  "0:2": {
+   "resposta": "**a)** O equívoco está em dizer que o DNA mitocondrial fica armazenado **no núcleo**: ele está **dentro das mitocôndrias**, no citoplasma. As mitocôndrias mantêm sua quantidade porque têm **DNA e ribossomos próprios** e são capazes de **autoduplicação**: dividem-se por fissão, independentemente da divisão da célula, e se distribuem entre as células-filhas.\n\n**b)** Na fecundação, o zigoto recebe as mitocôndrias do **citoplasma do ovócito**. As mitocôndrias do espermatozoide ficam na peça intermediária, que em geral não penetra no óvulo ou é **degradada** logo após a fecundação; por isso os homens não transmitem DNA mitocondrial. A hipótese endossimbiótica propõe que as mitocôndrias se originaram de **bactérias (procariontes) aeróbias** que foram englobadas por uma célula ancestral e passaram a viver dentro dela em simbiose, o que explica o DNA circular, os ribossomos próprios e a dupla membrana.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A curva 1 cresce com a intensidade luminosa até se estabilizar (saturação): é a **fotossíntese**. A curva 2 é constante, independente da luz: é a **respiração celular**.\n\n**b)** A planta estava na intensidade **Z**. A figura mostra que a folha **libera O₂** e **absorve CO₂** do meio e que parte da glicose produzida é **exportada para a raiz**. Isso só acontece quando a fotossíntese supera a respiração, ou seja, acima do ponto de compensação luminoso (Y). Em X, a fotossíntese é menor que a respiração (a planta liberaria CO₂); em Y, as duas se igualam e não há trocas líquidas de gases nem sobra de glicose.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O lipídio mais abundante no envoltório nuclear (dupla membrana lipoproteica) é o **fosfolipídio**. Os poros **controlam a passagem de substâncias entre o núcleo e o citoplasma**: por eles saem RNA (mensageiro, transportador e subunidades dos ribossomos) e entram proteínas, como histonas e enzimas de duplicação e transcrição, além de nucleotídeos.\n\n**b)** A região 1 é o **nucléolo**, onde se fabrica intensamente o **RNA ribossômico (RNAr)**, que se associa a proteínas para formar as subunidades dos ribossomos. As estruturas 2 são **cromossomos condensados** (duplicados, com duas cromátides). Nesse estado, o DNA está muito espiralizado e compactado em torno das proteínas, inacessível à RNA polimerase e aos fatores de transcrição; por isso não pode ser transcrito. A transcrição ocorre com a cromatina descondensada, na interfase.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Luciano e Vítor só recebem sangue sem aglutinogênios: são do grupo **O (ii)**. Murilo recebe sangue B ou O: é do grupo **B**. Mel recebe sangue A ou O: é do grupo **A**. Como Mel é filha de Luciano (ii), ela é **Iᴬi**; como Murilo é filho de Vítor (ii), ele é **Iᴮi**. Os demais (Tais, Mariana e Laura) não têm grupo conhecido. Portanto, **duas pessoas** são certamente heterozigotas para o sistema ABO: Mel e Murilo. Genótipo de Murilo: **Iᴮi**.\n\n**b)** Mel (Rh−) é rr. Murilo (Rh+) é filho de Vítor (rr), logo é **Rr**. Como Mel teve Laura (Rh+) e não recebeu o soro anti-Rh, ela está **sensibilizada**; uma nova criança só não terá eritroblastose se for Rh− (rr).\n\nCasal: Iᴬi × Iᴮi e rr × Rr\n\nP(ii, sem aglutinogênios) = 1/2 × 1/2 = 1/4\n\nP(rr) = 1/2\n\nP(ii e rr) = 1/4 × 1/2 = **1/8** (12,5%)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Devem ser usados **antibióticos** (antibacterianos), em geral associados a medicamentos que reduzem a acidez. A contaminação ocorre por **via oral**: ingestão de **água ou alimentos contaminados** com fezes (via fecal-oral) ou contato com saliva de pessoa infectada (via oral-oral, como no uso compartilhado de talheres).\n\n**b)** A úlcera gástrica é uma **lesão (ferida) na mucosa do estômago**, uma erosão que atinge as camadas da parede gástrica; a *H. pylori* causa inflamação crônica e enfraquece a barreira protetora, permitindo que o ácido e as enzimas agridam o tecido. Normalmente o estômago não é corroído porque as células da mucosa secretam uma **camada espessa de muco rica em bicarbonato**, que neutraliza o ácido junto à parede; além disso, o epitélio se **renova rapidamente** e a pepsina é secretada na forma inativa (pepsinogênio).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** X é o **gás oxigênio (O₂)**: sua pressão parcial é alta no ar alveolar (cerca de 105 mmHg) e cai até os tecidos, que o consomem. Y é o **gás carbônico (CO₂)**: sua pressão parcial é maior nos tecidos, onde é produzido, e diminui em direção ao ar alveolar, para onde é eliminado.\n\n**b)** O órgão é o **bulbo** (medula oblonga), no tronco encefálico. Ele percebe o **aumento da concentração de CO₂ no sangue**, que forma ácido carbônico e libera H⁺, **diminuindo o pH** (acidificação). Essa queda de pH estimula o centro respiratório a aumentar a frequência e a amplitude dos movimentos respiratórios, eliminando o excesso de CO₂.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Pelas regras de nomenclatura, foram citadas **quatro espécies**: *Amazona brasiliensis*, *Amazona ochrocephala* (o nome trinomial *Amazona ochrocephala xantholaema* indica uma subespécie dela), *Ara ararauna* e *Anodorhynchus hyacinthinus*. A população com maior variabilidade genética é a do **papagaio-da-ilha-de-marajó**, que tem o **menor índice de similaridade** (0,17), graças ao intercâmbio com as populações do continente.\n\n**b)** Pelo critério genético, o maior risco é da **arara-azul**, que tem o **maior índice de similaridade** (0,34) e, portanto, a menor variabilidade, o que a torna mais vulnerável a doenças e mudanças ambientais. (O texto também destaca o papagaio-da-cara-roxa, com 0,27 e poucos indivíduos.) Uma população pequena e isolada **não recebe fluxo gênico** de outras populações; os cruzamentos passam a ocorrer entre **aparentados** (endogamia), e a **deriva genética** elimina alelos ao acaso. Com isso, aumenta a homozigose e os indivíduos ficam geneticamente cada vez mais parecidos.",
+   "confianca": "media",
+   "pendencia": "No item b, a resposta escolhe a arara-azul pelo maior índice de similaridade; o texto, porém, chama o papagaio-da-cara-roxa de uma das espécies mais ameaçadas, e a banca pode aceitar essa resposta."
+  },
+  "0:9": {
+   "resposta": "**a)** Com as massas molares H = 1, C = 12 e N = 14 g/mol:\n\nM(CN₃H₅) = 1 × 12 + 3 × 14 + 5 × 1\n\nM = 12 + 42 + 5 = 59 g/mol\n\nO íon amônio é o cátion **NH₄⁺** (quatro hidrogênios ligados ao nitrogênio, carga +1).\n\n**b)** No H₂S o enxofre tem dois pares de elétrons ligantes e dois pares não ligantes, como o oxigênio na água. A repulsão dos pares livres faz a molécula ter geometria **angular**. Como a geometria é angular, os vetores momento dipolar das ligações H–S não se anulam (o enxofre é mais eletronegativo que o hidrogênio), e a molécula é **polar**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** O composto obtido por mineração é o MnO₂ (dióxido de manganês, a pirolusita), que pertence à função **óxido**: composto binário em que o oxigênio é o elemento mais eletronegativo.\n\nOs reagentes sólidos (MnO₂ e KOH) são aquecidos até atingirem o estado líquido: a mudança de estado físico é a **fusão** (sólido → líquido).\n\n**b)** No KMnO₄: K = +1 e O = −2.\n\n(+1) + x + 4 · (−2) = 0 → x = **+7**\n\nReação global: multiplica-se a 1ª equação por 3 e a 2ª por 2 e somam-se, cancelando K₂MnO₄, parte do MnO₂, da água e do KOH:\n\n6 MnO₂ + 3 O₂ + 12 KOH → 6 K₂MnO₄ + 6 H₂O\n\n6 K₂MnO₄ + 4 H₂O → 4 KMnO₄ + 2 MnO₂ + 8 KOH\n\nGlobal: **4 MnO₂ + 3 O₂ + 4 KOH → 4 KMnO₄ + 2 H₂O**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Fórmula estrutural do etanol (C₂H₆O):\n\nH₃C–CH₂–OH, ou seja, um carbono ligado a três hidrogênios, ligado a um CH₂, que está ligado ao grupo hidroxila (–O–H).\n\nVolume máximo de etanol em 50 L de gasolina (27% em volume):\n\nV = 0,27 × 50 L\n\nV = **13,5 L**\n\n**b)** Combustão completa do isooctano (C₈H₁₈), produzindo CO₂ e H₂O:\n\nC₈H₁₈ + 25/2 O₂ → 8 CO₂ + 9 H₂O\n\nCom os menores coeficientes inteiros (multiplicando por 2):\n\n**2 C₈H₁₈ + 25 O₂ → 16 CO₂ + 18 H₂O**\n\nConferência: C = 16; H = 36; O = 50 nos dois lados.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Pela fórmula estrutural (HOOC–CH₂–COOH), o ácido malônico tem 3 carbonos, 4 hidrogênios e 4 oxigênios: **C₃H₄O₄**.\n\nOs hidrogênios ionizáveis são os ligados ao oxigênio, nas duas carboxilas; os do CH₂ não ionizam. Por ter dois hidrogênios ionizáveis, é um **diácido** (ácido diprótico).\n\n**b)** Para ácido fraco com ionização pequena, [H⁺] = [A⁻] e a concentração do ácido não ionizado ≈ 0,1 mol/L:\n\nKa = [H⁺]² ÷ M\n\n1,0 × 10⁻⁵ = [H⁺]² ÷ 0,1\n\n[H⁺]² = 1,0 × 10⁻⁶\n\n[H⁺] = **1,0 × 10⁻³ mol/L**\n\npH = −log [H⁺] = −log 10⁻³ = **3**\n\n(A ionização é de 1%, o que confirma a aproximação.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Movimento uniformemente variado, de v₀ = 30 m/s a v = 20 m/s em Δt = 20 s:\n\na = Δv ÷ Δt = (20 − 30) ÷ 20 = −0,5 m/s²\n\nMódulo da aceleração: **0,5 m/s²**\n\nDistância percorrida (velocidade média no MUV):\n\nd = (v₀ + v) ÷ 2 × Δt = (30 + 20) ÷ 2 × 20\n\nd = **500 m**\n\n**b)** Quantidade de movimento ao final:\n\nQ = m · v = 800 × 20 = **1,6 × 10⁴ kg·m/s**\n\nPelo teorema do impulso, I = ΔQ:\n\nI = m · (v − v₀) = 800 × (20 − 30) = −8 000 N·s\n\nMódulo do impulso: **8,0 × 10³ N·s** (no sentido contrário ao movimento).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** O bloco oscila entre −20 cm e +20 cm, então a amplitude é A = 20 cm e a posição de equilíbrio é x = 0. Ir de um extremo (+20 cm) até o equilíbrio (0) corresponde a um quarto do período:\n\nT ÷ 4 = 0,2 s → T = **0,8 s**\n\nf = 1 ÷ T = 1 ÷ 0,8 = **1,25 Hz**\n\n**b)** O sistema é conservativo. A energia mecânica total é a energia elástica no extremo (A = 0,20 m):\n\nE = k · A² ÷ 2 = 20 × 0,20² ÷ 2 = 0,40 J\n\nEm x = +10 cm = 0,10 m, a energia elástica é:\n\nEel = 20 × 0,10² ÷ 2 = 0,10 J\n\nEnergia cinética:\n\nEc = E − Eel = 0,40 − 0,10 = **0,30 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** A imagem é projetada na parede, logo é real e fica do mesmo lado do objeto, em frente ao espelho. A distância do objeto ao espelho é p = 20 cm; a parede está a 20 + 80 = 100 cm do espelho, logo p' = 100 cm.\n\nA = −p' ÷ p = −100 ÷ 20 = −5\n\nA imagem é invertida e a razão entre os tamanhos é **5** (a imagem é 5 vezes maior que a chama).\n\n**b)** A lente fica entre a vela e a parede, separadas por 80 cm: p + p' = 80 cm. A imagem real projetada tem o triplo do tamanho, então p' = 3p.\n\np + 3p = 80 → p = 20 cm e p' = 60 cm\n\nPela equação de Gauss:\n\n1/f = 1/p + 1/p' = 1/20 + 1/60 = 4/60\n\nf = **15 cm**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Os dois leds estão ligados em paralelo diretamente aos terminais da bateria ideal, então cada um fica submetido a U = 3,0 V. Pela curva característica (figura 2), para 3,0 V a corrente em cada led é 300 mA.\n\nCorrente na bateria = soma das correntes nos ramos:\n\ni = 300 + 300 = **600 mA**\n\n**b)** Com a bateria percorrida por 200 mA, cada led (idênticos, em paralelo) recebe 100 mA. Pelo gráfico, a corrente de 100 mA corresponde a U = 2,5 V em cada led.\n\nO resistor em série fica com o restante da força eletromotriz:\n\nU(R) = 3,0 − 2,5 = 0,5 V\n\nR = U ÷ i = 0,5 ÷ 0,200\n\nR = **2,5 Ω**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Dois neologismos do primeiro parágrafo: **\"confortavelzinho\"** (diminutivo criado a partir do adjetivo \"confortável\", que normalmente não recebe esse sufixo, sugerindo o conforto miúdo e afetivo do menino) e **\"desconter-se\"** (verbo criado com o prefixo \"des-\" sobre \"conter-se\", com o sentido de soltar-se, expandir-se). Também pode ser citado \"não-sabido\", substantivação inventada para o desconhecido.\n\n**b)** Frase paradoxal: \"O Menino tinha tudo de uma vez, e nada, ante a mente.\"\n\nJustificativa: o enunciado afirma ao mesmo tempo duas ideias que se excluem — ter \"tudo\" e ter \"nada\". A contradição só aparente traduz a experiência do menino: tem diante de si a totalidade do mundo visto do avião, mas nada que possa reter ou organizar no pensamento, tamanho o deslumbramento.",
+   "confianca": "media",
+   "pendencia": "Outros neologismos do primeiro parágrafo, como \"não-sabido\", também podem ser aceitos."
+  },
+  "0:18": {
+   "resposta": "**a)** Na **frase 1**. Em \"afivelarem-lhe o cinto de segurança\", o pronome \"lhe\" equivale a \"seu\"/\"dele\": afivelarem o cinto dele (o cinto do menino), funcionando como adjunto adnominal de valor possessivo. Nas demais frases, o \"lhe\" é objeto indireto, complemento dos verbos que pedem \"a alguém\": ensinava a ele, entregavam a ele, prometia a ele.\n\n**b)** Em ordem direta, com sujeito antes do verbo, e substituindo \"tanto que\" (aqui com valor temporal, \"logo que\") por locução equivalente:\n\n\"O Tio prometia-lhe as muitas coisas que ia brincar e ver, e fazer e passear, **assim que** chegassem.\"\n\nTambém servem \"logo que\" ou \"quando\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A contradição é que a sra. S. continua inteligente e consegue **saber intelectualmente**, por inferência, que existe o lado esquerdo — entende o problema e até acha graça dele —, mas é **incapaz de perceber diretamente** esse lado: não o vê, não o sente, ele simplesmente deixou de existir para ela. Sabe que a metade esquerda existe, mas não pode experimentá-la, e por isso não corrige o erro (come só metade do prato, maquia só metade do rosto).\n\n**b)** Em discurso indireto:\n\nEla gritou, aflita e perplexa, **que tirassem aquilo dali**.\n\n(O imperativo \"tirem\" passa ao pretérito imperfeito do subjuntivo, \"tirassem\"; \"isso\" passa a \"aquilo\"; \"daqui\" passa a \"dali\".)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Expressão coloquial: **\"deixando às traças\"** (o lado esquerdo do rosto). No texto, significa deixar abandonado, esquecido, sem cuidado: a sra. S. maquia apenas o lado direito e o esquerdo fica sem batom nem maquiagem, como algo largado ao abandono.\n\n**b)** Os dois \"que\" sublinhados são pronomes relativos:\n\n- em \"a zombaria com **que** a receberam\", o referente é **\"zombaria\"** (receberam-na com a zombaria);\n- em \"no dia em **que** apareceu\", o referente é **\"dia\"** (apareceu naquele dia).",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

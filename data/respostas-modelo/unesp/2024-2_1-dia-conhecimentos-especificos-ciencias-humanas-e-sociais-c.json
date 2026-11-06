@@ -1,0 +1,127 @@
+{
+ "indice": "data/questoes/unesp/2024-2_1-dia-conhecimentos-especificos-ciencias-humanas-e-sociais-c.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O **Brasil**, na América, e **Angola**, na África. O Brasil foi o centro da produção colonial de exportação (açúcar, ouro, café), e Angola foi a principal fonte de africanos escravizados enviados ao Brasil, mantendo-se economicamente relevante pelo tráfico até o século XIX. Outras respostas bem justificadas (como Cabo Verde, entreposto do tráfico) podem ser aceitas.\n\n**b)** Produção colonial: baseada na **monocultura** voltada para a **exportação** ao mercado europeu, com uso de **mão de obra escravizada** (plantation). Distribuição de terras: **concentrada em latifúndios**, concedidos pela Coroa a poucos beneficiários por meio do sistema de **sesmarias**, o que excluía a maior parte da população do acesso à terra.",
+   "confianca": "media",
+   "pendencia": "A pergunta não define 'principais áreas'; Brasil e Angola são a leitura mais provável, mas a banca pode ter aceitado outra dupla bem justificada."
+  },
+  "0:2": {
+   "resposta": "**a)** Por exemplo: o direito à **liberdade** e a **igualdade de todos perante a lei**. Também poderiam ser citados o direito à propriedade, à segurança, à resistência à opressão, a liberdade de opinião e de expressão e a presunção de inocência.\n\n**b)** O \"indivíduo\" é a pessoa humana considerada em si mesma, titular de direitos naturais (liberdade, propriedade, segurança) que a protegem contra o arbítrio do Estado. O \"cidadão\" é o membro da comunidade política, que participa da soberania da nação: tem direitos políticos, como participar, direta ou por representantes, da elaboração das leis e ter acesso aos cargos públicos. A frase indica que a Declaração francesa foi além das garantias individuais das declarações inglesa e norte-americanas, definindo também os direitos de participação política, com pretensão universal.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A charge corresponde ao **Governo Constitucional (1934–1937)**. Justifica-se pela figura feminina armada identificada como **\"Constituição\"**, que mantém Vargas sob guarda, como um prisioneiro: alusão à Constituição de 1934, que limitava os poderes do presidente. A data de publicação (fevereiro de 1935) confirma esse período.\n\n**b)** Semelhança: nos dois quadrinhos Vargas aparece diante de uma figura feminina que personifica um regime político, e em ambos ele deseja livrar-se dos limites constitucionais. Diferença: no primeiro, ele está preso pela Constituição e trama às escondidas uma fuga (\"fazendo um buraco para chispar\"); no segundo, está livre e se aproxima, seduzido, da figura da **\"Ditadura\"** (\"Meu coração te chama\"), acompanhada de urubus e ratos, antecipando a tendência autoritária que levaria ao Estado Novo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O fim da **segregação racial** legal (nas escolas, transportes e espaços públicos, as chamadas leis Jim Crow) e a garantia efetiva do **direito de voto** aos afro-americanos. Também valem a igualdade de direitos civis e o fim da discriminação no trabalho.\n\n**b)** Nos anos 1960, os EUA viviam a **Guerra Fria** e a prosperidade do pós-guerra, apresentando-se como defensores da liberdade e da democracia, ao mesmo tempo em que mantinham, sobretudo no Sul, a segregação legal e a violência racista (como a da Ku Klux Klan); era também um período de efervescência de movimentos sociais e da contracultura. As tensões raciais têm origem na **escravidão** de africanos, base da economia colonial e sulista até a Guerra de Secessão (abolida em 1865); após o fim da Reconstrução, os estados do Sul criaram leis segregacionistas (\"separados, mas iguais\") e restrições ao voto que mantiveram os negros marginalizados.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O **G20** é um fórum internacional que reúne as 19 maiores economias do mundo (desenvolvidas e emergentes), a União Europeia e, desde 2023, a União Africana. Criado em 1999 e com cúpulas de chefes de Estado desde a crise de 2008, tem como objetivo, por exemplo, **coordenar políticas econômicas e financeiras** para garantir a estabilidade e o crescimento da economia mundial (também vale: debater a reforma de instituições internacionais e temas como clima e desigualdade).\n\n**b)** O Brasil pertence ao grupo dos **países emergentes** (em desenvolvimento, do chamado Sul Global). São países de industrialização tardia e economia diversificada, com peso crescente na economia mundial, mas que ainda apresentam forte desigualdade social, problemas de infraestrutura e dependência tecnológica e financeira em relação aos países desenvolvidos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A área hachurada é o **Essequibo** (Guiana Essequiba), território administrado pela Guiana. O país que reclama seu controle é a **Venezuela**.\n\n**b)** O principal recurso é o **petróleo**, sobretudo as grandes reservas descobertas no mar territorial, como no Bloco Stabroek (a partir de 2015). Para a Guiana, esse recurso é fundamental: transformou um dos países mais pobres da América do Sul em exportador de petróleo, gerando crescimento econômico acelerado (entre os maiores do mundo), aumento das receitas de exportação e atração de investimentos estrangeiros.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Os plásticos chegaram à ilha como **lixo marinho** (embalagens, redes e linhas de pesca) descartado no continente ou por embarcações e transportado pelas **correntes oceânicas** até as praias. Lá, foram derretidos (por calor ou queima) e cimentaram sedimentos e conchas, formando as rochas. Com a erosão, essas rochas poderão liberar **microplásticos**.\n\n**b)** O Antropoceno seria uma era em que a ação humana se tornou uma força geológica. Rochas formadas com plástico mostram que um material sintético, criado pelo ser humano, já está sendo **incorporado ao registro geológico**, inclusive numa ilha remota e sem população, o que evidencia a escala global da interferência humana nos processos naturais. Impacto na vida marinha: a **ingestão de microplásticos** por animais (com intoxicação e bioacumulação na cadeia alimentar) ou o enredamento de animais em linhas de pesca.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** **Preservacionismo**: defende a proteção da natureza intocada, isolada da ação humana, como mostra a árvore dentro de uma redoma, separada das pessoas; a natureza teria valor em si. **Conservacionismo**: admite o uso humano dos recursos naturais, desde que racional e sustentável, como mostra a imagem das pessoas convivendo com a árvore e colhendo seus frutos, garantindo sua renovação.\n\n**b)** Alinhada ao preservacionismo: uma unidade de **proteção integral**, como a **Estação Ecológica**, a Reserva Biológica ou o Parque Nacional. Alinhada ao conservacionismo: uma unidade de **uso sustentável**, como a **Reserva Extrativista**, a Floresta Nacional ou a Área de Proteção Ambiental.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** O \"pacto social\" do mito é a adesão coletiva, sem questionamento, às narrativas e crenças tradicionais que fundamentavam a vida da comunidade: a autoridade vinha de fora (da tradição) e era aceita por todos, garantindo valores, normas e coesão. Sócrates rompe esse pacto ao submeter as crenças ao **livre exame racional**: substitui a autoridade da tradição pela autoridade da **reflexão**, questionando opiniões estabelecidas sobre a justiça, a virtude e os deuses.\n\n**b)** A **maiêutica** (\"arte do parto\") é o método de perguntas pelo qual Sócrates, depois de mostrar ao interlocutor que ele não sabe o que julgava saber (ironia), leva-o a \"dar à luz\" por si mesmo as ideias e conceitos. Ao questionar publicamente cidadãos considerados sábios, expunha sua ignorância e a fragilidade das crenças tradicionais, o que lhe rendeu inimigos poderosos. Foi acusado de **corromper a juventude** e de **não reconhecer os deuses da cidade**, sendo condenado à morte (cicuta); recusou a fuga por respeito às leis.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** \"Como se vive\" é a **realidade efetiva**, o modo como os homens de fato agem (com interesses, paixões e uso da força); \"como se deveria viver\" é o **ideal moral**, o dever-ser. O príncipe deve orientar-se pela realidade, e não pelo ideal: precisa usar a lei ou a força conforme as circunstâncias, pois quem abandona o que se faz pelo que se deveria fazer caminha para a ruína, e não para a conservação do poder.\n\n**b)** É o **realismo político**. Sua consequência é a **autonomia da política** em relação à moral e à religião: a política passa a ser vista como esfera própria, com regras e critérios próprios (a eficácia na conquista e manutenção do poder e do Estado), e não como aplicação de valores morais universais. Por isso Maquiavel é considerado o fundador da ciência política moderna.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O **senso comum** é um conhecimento espontâneo, assistemático e acrítico, que forma juízos imediatos a partir da tradição, do hábito e da opinião. O **pensamento crítico** é uma reflexão sistemática, rigorosa e metódica, que **suspende os juízos** para investigar a natureza do problema antes de tentar resolvê-lo. Ele contribui para a Filosofia porque o filosofar nasce justamente do questionamento: problematiza crenças aceitas, examina conceitos e fundamentos e busca razões em vez de aceitar respostas prontas.\n\n**b)** O texto 2 é uma **aplicação** do pensamento crítico descrito no texto 1: em vez de julgar de imediato se a internet promove o individualismo ou a cooperação, Morozov suspende esse juízo e investiga a natureza do problema, propondo \"pensar fora da internet\", considerando a geopolítica e o capitalismo financeiro. Isso mostra a relevância atual da Filosofia: ela oferece instrumentos para questionar discursos dominantes, como os do Vale do Silício, e compreender criticamente as tecnologias digitais que moldam a sociedade.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O **racionalismo**. Seu fundamento é a ideia de que a **razão** é a fonte segura do conhecimento verdadeiro: o conhecimento certo deriva de ideias claras e distintas, algumas inatas, e não dos sentidos, que podem enganar.\n\n**b)** Para Descartes, o **método** é indispensável porque, embora o bom senso seja comum a todos, o erro vem do mau uso da razão; o método, com suas regras (evidência, análise, síntese e enumeração), conduz a razão pelo bom caminho e garante conhecimento seguro. A **dúvida metódica** é o ponto de partida: Descartes duvida de tudo o que possa ser posto em dúvida (sentidos, sonho, hipótese do gênio maligno) para encontrar uma verdade indubitável. Ela não é ceticismo, mas instrumento: leva ao \"penso, logo existo\", primeira certeza e fundamento do conhecimento.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** A relação é de **parasitismo**: o fungo se beneficia, usando a aranha como fonte de nutrientes e meio de dispersar seus esporos, enquanto a aranha é prejudicada até morrer (por levar o hospedeiro à morte, também pode ser chamado de parasitoidismo). O polissacarídeo estrutural comum é a **quitina** (parede celular dos fungos e exoesqueleto das aranhas).\n\n**b)** As aranhas têm **sistema nervoso ganglionar ventral**, com gânglios concentrados e fundidos no cefalotórax, típico dos artrópodes. Nos fungos, os esporos haploides geneticamente diferentes germinam e originam hifas haploides; hifas compatíveis se fundem (**plasmogamia**), formando hifas com dois núcleos haploides distintos (dicarióticas, n + n). Depois, esses núcleos se fundem (**cariogamia**), formando o núcleo diploide (2n), que sofre meiose e origina novos esporos (nos ascomicetos, dentro do asco).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A célula é a **hemácia** (eritrócito). Os aglutinogênios estão na **membrana plasmática** da hemácia, na sua face externa (glicocálix).\n\n**b)** Pela figura, o sangue de Murilo serve a todos os Rh+ e a nenhum Rh−: ele é **O+**. O de Bianca serve a A e AB, Rh+ e Rh−: ela é **A−**.\n\nMurilo é Rh+ e seu pai é Rh− (rr), logo o genótipo de Murilo para o Rh é **Rr**.\n\nBianca é A e sua mãe é O (ii): Bianca é Iᴬi rr. Murilo é ii Rr.\n\nAusência de aglutinogênios ABO = sangue O (ii): ii × Iᴬi → P(ii) = 1/2\n\nAusência de fator Rh (rr): Rr × rr → P(rr) = 1/2\n\nMenino: P = 1/2\n\nP = 1/2 · 1/2 · 1/2 = **1/8 = 12,5%**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** O tecido que descama é o **endométrio** (sua camada funcional), que reveste internamente o útero. As glândulas mamárias são **exócrinas** porque eliminam sua secreção (o leite) por **ductos** que se abrem na superfície do corpo (mamilo), e não diretamente no sangue.\n\n**b)** O hormônio é a **gonadotrofina coriônica humana (hCG)**. Ela mantém o **corpo lúteo** ativo, que continua produzindo estrogênio e **progesterona** em níveis elevados. Esses hormônios inibem, por **retroalimentação negativa**, a liberação de GnRH pelo hipotálamo e de **FSH e LH** pela hipófise; sem FSH, novos folículos ovarianos não se desenvolvem, e não há ovulação nem menstruação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Óxido ácido: **CO₂ (III)**. Sal: **CaCO₃ (IV)**.\n\n**b)** Decomposição térmica (calcinação) do carbonato de cálcio:\n\nCaCO₃(s) → CaO(s) + CO₂(g)   (aquecimento)\n\nHidratação do óxido de cálcio (cal viva):\n\nCaO(s) + H₂O(l) → Ca(OH)₂(s)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Conduz melhor a solução com maior concentração de íons. Considerando dissociação total:\n\nKNO₃ 0,1 mol/L → 0,2 mol/L de íons\nNaCl 0,05 mol/L → 0,1 mol/L de íons\nNa₂SO₄ 0,05 mol/L → 0,15 mol/L de íons\n\nA que melhor conduz é a de **KNO₃**.\n\nGlicose: C = 0,05 mol/L · 180 g/mol = **9 g/L**\n\n**b)** A pressão osmótica depende da concentração de partículas dispersas:\n\nglicose 0,05; sacarose 0,1; KNO₃ 0,2; NaCl 0,1; Na₂SO₄ 0,15 (mol/L de partículas)\n\nTêm a mesma pressão osmótica as soluções de **sacarose (0,1 mol/L) e NaCl (0,05 mol/L)**, ambas com 0,1 mol/L de partículas. A menor temperatura de ebulição é a da solução com menos partículas: a de **glicose**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** O acetato de etila pertence à função **éster**.\n\nFórmula molecular: C₄H₈O₂\n\nElétrons = 4 · 6 + 8 · 1 + 2 · 8 = 24 + 8 + 16 = **48 elétrons**\n\n**b)** C₄H₈O₂(l) + 5 O₂(g) → 4 CO₂(g) + 4 H₂O(g)\n\nM(C₄H₈O₂) = 4 · 12 + 8 · 1 + 2 · 16 = 88 g/mol\n\nn = 44 ÷ 88 = 0,5 mol de acetato de etila\n\nn(CO₂) = 4 · 0,5 = 2 mol\n\nV = 2 mol · 25 L/mol = **50 L de CO₂**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Pelo gráfico, a temperatura de 6 °C ocorre a **30 m** de profundidade.\n\np = d · g · h\np = 10³ · 10 · 30\np = **3 × 10⁵ Pa**\n\n**b)** p(absoluta) = p(atm) + p(hidrostática)\n3 × 10⁵ = 10⁵ + p(hidrostática) → p(hidrostática) = 2 × 10⁵ Pa\n\nh = 2 × 10⁵ ÷ (10³ · 10) = 20 m\n\nPelo gráfico, a 20 m de profundidade a temperatura é de **12 °C**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A potência dissipada na água corresponde à parte não aproveitada, ou seja, 100% − 30% = 70% da potência total:\n\n0,7 · P(total) = 2,8 × 10⁸ W\nP(total) = **4 × 10⁸ W**\n\nP(útil) = 0,3 · 4 × 10⁸ = **1,2 × 10⁸ W**\n\n**b)** Massa de água por segundo: 35 m³/s · 10³ kg/m³ = 3,5 × 10⁴ kg/s\n\nP = (m/Δt) · c · ΔT\n2,8 × 10⁸ = 3,5 × 10⁴ · 4 × 10³ · ΔT\nΔT = 2,8 × 10⁸ ÷ 1,4 × 10⁸ = **2 °C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**a)** P(M) = U · i = 220 · 20 = **4 400 W**\n\ni(F) = 2 200 ÷ 220 = 10 A\ni(MQ) = 7 920 ÷ 220 = 36 A\n\ni(MQ) ÷ i(F) = 36 ÷ 10 = **3,6**\n\n**b)** P(Q) = 220 · 30 = 6 600 W = 6,6 kW\n\nΔt = 15 min = 0,25 h\n\nE = P · Δt = 6,6 · 0,25 = **1,65 kWh**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**a)** Volume do bloco: 14 · 20 · 30 = 8 400 cm³\n\nVolume de um furo (r = 2 cm, h = 20 cm): π · r² · h = 3 · 4 · 20 = 240 cm³\n\nVolume dos seis furos: 6 · 240 = 1 440 cm³\n\nPorcentagem: 1 440 ÷ 8 400 ≈ 0,171 → **aproximadamente 17%**\n\n**b)** λ = E ÷ R\n\nVidro: λv = 0,006 m ÷ 0,20 m²·K/W = **0,03 W/(m·K)**\n\nAlvenaria: λa = 0,14 m ÷ 0,40 m²·K/W = **0,35 W/(m·K)**",
+   "confianca": "media",
+   "pendencia": "No item a, entendemos o 'volume do bloco sem argamassa' como o volume externo do paralelepípedo (8 400 cm³); se for o volume só do material cerâmico (6 960 cm³), a porcentagem fica cerca de 21%."
+  },
+  "0:23": {
+   "resposta": "**a)** Volante de 9 números: C(9,6) = 84 apostas\nVolante de 8 números: C(8,6) = 28 apostas\n\nTotal: 84 + 28 = 112 apostas\nGasto: 112 · 5 reais = **560 reais (R$ 560,00)**\n\n**b)** Os dois volantes têm, juntos, 9 + 8 = 17 números diferentes; restam 60 − 17 = 43 números não apostados. O grupo não acerta nenhum número se os 6 sorteados estiverem entre esses 43:\n\nP = C(43,6) ÷ C(60,6)\n\nP = (43 · 42 · 41 · 40 · 39 · 38) ÷ (60 · 59 · 58 · 57 · 56 · 55)\n\n(Simplificando, P = 22 919/188 210 ≈ 12,2%.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**a)** Para 0 < x ≤ 2, f(x) = ax² + b. O gráfico tende a −4 quando x → 0: **b = −4**.\n\nf(2) = 0 → 4a − 4 = 0 → **a = 1**\n\nPara x ≥ 2, a reta passa por (2, 0) e (4, 4):\n\nc = (4 − 0) ÷ (4 − 2) = **2**\n2 · 2 + d = 0 → **d = −4**\n\n**b)** A condição −f(x) = f(−x) indica que f é **ímpar**: o gráfico é simétrico em relação à origem. Para x < 0, f(x) = −f(−x):\n\nPara −2 ≤ x < 0: f(x) = −[(−x)² − 4] = **−x² + 4**\nPara x ≤ −2: f(x) = −[2(−x) − 4] = **2x + 4**\n\nNo gráfico, à esquerda do eixo y: um arco de parábola que parte de (0, 4) com bolinha aberta e desce até (−2, 0), seguido de uma semirreta que passa por (−2, 0) e (−4, −4) e continua descendo.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

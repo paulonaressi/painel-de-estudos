@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fmj/2024_prova-i-discursiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A esfera (d = 0,90 g/mL) afunda no etanol (d = 0,8 g/mL); para que ela suba, a densidade da mistura deve ficar maior que 0,90 g/mL. Só líquidos mais densos que a esfera e miscíveis com o etanol servem: **água** (1,0 g/mL) e **clorofórmio** (1,5 g/mL). Acetona e gasolina, com densidade igual ou menor que 0,8 g/mL, não aumentam a densidade da mistura.\n\nDeve ser adicionado em menor quantidade o **clorofórmio**, por ter a maior densidade.\n\n**b)** Volume da esfera: V = m ÷ d = 27 g ÷ 0,90 g/mL = 30 mL\n\nx = 50 mL + 30 mL = **80 mL**\n\nMonômero (propeno): H₂C=CH–CH₃",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Boa condutividade elétrica e térmica é propriedade dos metais: **A** (ferro, Z = 26, metal de transição) e **C** (prata, Z = 47). O átomo **B** (criptônio, Z = 36) tem a camada de valência completa (4s² 4p⁶), é um gás nobre e por isso aparece na natureza como átomo isolado.\n\n**b)** O átomo **C** (prata): perdendo o elétron 5s¹, fica com a configuração estável ...4d¹⁰ e forma o íon **Ag⁺**. O átomo D (enxofre, 3s² 3p⁴) recebe 2 elétrons e forma S²⁻. A fórmula da substância formada é **Ag₂S**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O iodo passa diretamente do estado sólido para o gasoso: a mudança de estado é a **sublimação**. Durante ela são rompidas as interações do tipo **dipolo induzido–dipolo induzido** (forças de London ou de dispersão) entre as moléculas de I₂.\n\n**b)** A molécula de iodo (I–I) é **apolar**: formada por dois átomos iguais, não há diferença de eletronegatividade, e o momento dipolar é nulo. As secreções gordurosas também são formadas por moléculas apolares (lipídios). Como \"semelhante dissolve semelhante\", o I₂ gasoso interage com essas moléculas por forças de dispersão e se dissolve nelas, tornando visível a impressão digital.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O ácido é o **HNO₃** (ácido nítrico): NH₃ + HNO₃ → NH₄NO₃.\n\nNa detonação, 2 mol de NH₄NO₃ produzem 2 mol de N₂ e 1 mol de O₂ (substâncias simples), ou seja, 3 mol. Por mol de NH₄NO₃: 3 ÷ 2 = **1,5 mol** de substâncias simples.\n\n**b)** Quantidade de N₂O produzida:\n\nn = PV ÷ RT = (5 × 80) ÷ (0,08 × 500)\n\nn = 400 ÷ 40 = 10 mol de N₂O\n\nPela equação, 1 mol de NH₄NO₃ forma 1 mol de N₂O; com 100% de rendimento seriam necessários 10 mol de NH₄NO₃. Com rendimento de 80%:\n\nn(NH₄NO₃) = 10 ÷ 0,80 = **12,5 mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Equação da reforma do etanol:\n\nC₂H₆O + 3 H₂O → 2 CO₂ + 6 H₂\n\nO gás utilizado no módulo SOFC é o hidrogênio, de fórmula de Lewis H : H (um par de elétrons compartilhado, H–H).\n\n**b)** O etanol é produzido pela **fermentação alcoólica** dos açúcares da cana, realizada por leveduras.\n\nO CO₂ liberado no sistema SOFC tem origem no carbono que a própria cana-de-açúcar retirou da atmosfera pela **fotossíntese** durante seu crescimento. Ao ser devolvido à atmosfera, ele apenas fecha o ciclo: a quantidade emitida é compensada pela absorvida no plantio seguinte, sem acrescentar carbono que estava estocado, como ocorre na queima de combustíveis fósseis. Por isso não há aumento líquido do efeito estufa.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** É rompida a **ligação covalente** simples (σ) entre átomos de fósforo, a ligação P–P que une os tetraedros P₄ no fósforo vermelho.\n\nCada átomo de fósforo tem 15 prótons; a molécula P₄ tem 4 × 15 = **60 prótons**.\n\n**b)** Na reação Sb₂S₃ + 3 KCℓO₃ → Sb₂O₃ + 3 KCℓ + 3 SO₂ (ΔH = −1 602 kJ):\n\nΔH = ΣHf(produtos) − ΣHf(reagentes)\n\nΣHf(produtos) = −710 + 3 × (−440) + 3 × (−300) = −2 930 kJ\n\nΣHf(reagentes) = Hf(Sb₂S₃) + 3 × (−390) = Hf(Sb₂S₃) − 1 170\n\n−1 602 = −2 930 − Hf(Sb₂S₃) + 1 170\n\nHf(Sb₂S₃) = **−158 kJ/mol**\n\nComo o fósforo vermelho é a forma mais estável (entalpia zero), a formação do P₄O₁₀ a partir dele libera 2 940 kJ, enquanto a partir do fósforo branco libera 2 958 kJ. Logo, o fósforo branco tem entalpia 18 kJ/mol maior (P₄ + 5 O₂ → P₄O₁₀: −2 958 = −2 940 − H(P₄ branco) → H = +18 kJ). A conversão do vermelho em branco absorve energia: é **endotérmica**.",
+   "confianca": "media",
+   "pendencia": "O fim do enunciado do item b está cortado na imagem; a resposta supõe que se pede classificar a conversão em endotérmica ou exotérmica e justificar."
+  },
+  "0:7": {
+   "resposta": "**a)** A água pura praticamente não conduz corrente elétrica, por ter pouquíssimos íons livres. A solução eletrolítica fornece íons que se movimentam entre os eletrodos e fecham o circuito interno da pilha, permitindo o funcionamento. A espécie que sofre redução é o **íon Cu²⁺** da solução, que se deposita como cobre metálico sobre o fio de cobre (cátodo): Cu²⁺ + 2 e⁻ → Cu. O zinco do revestimento dos parafusos é oxidado (ânodo).\n\n**b)** A concentração de CuSO₄ (de íons Cu²⁺) deve **diminuir**, pois os íons Cu²⁺ são consumidos na redução.\n\nddp teórica de cada célula Zn/Cu: ΔE = 0,34 − (−0,76) = 1,10 V\n\nOs 14 compartimentos funcionam como 14 células ligadas em série:\n\nddp teórica = 14 × 1,10 = 15,4 V\n\nEficiência = 9 ÷ 15,4 ≈ 0,58 → **cerca de 58%**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** No instante t₁ o sistema já atingiu o **equilíbrio químico**: as velocidades das reações direta e inversa se igualam, e as concentrações de A e AB permanecem constantes. Como a reação direta é exotérmica (libera calor), o aumento da temperatura em t₂ desloca o equilíbrio no sentido endotérmico, o inverso: a concentração de **AB diminui**.\n\n**b)** Pelo gráfico, A passa de 0,75 para 0,25 mol/L (consome 0,5 mol/L) e AB vai de 0 a 0,5 mol/L. Pela estequiometria, B₂ consome a metade: 0,25 mol/L.\n\nKc = [AB]² ÷ ([A]² · [B₂])\n\n20 = (0,5)² ÷ ((0,25)² · [B₂])\n\n20 = 0,25 ÷ (0,0625 · [B₂])\n\n[B₂] = 4 ÷ 20 = **0,2 mol/L** no equilíbrio\n\nConcentração inicial de B₂: 0,2 + 0,25 = 0,45 mol/L\n\nNo gráfico, a curva de B₂ começa em **0,45 mol/L**, decresce acompanhando a de A e se estabiliza em 0,2 mol/L no mesmo momento em que as outras curvas se tornam constantes, seguindo horizontal até t₂.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** n(H⁺) = [H⁺] × V = 1 × 10⁻³ mol/L × 0,150 L = **1,5 × 10⁻⁴ mol**\n\n[H⁺] · [OH⁻] = 10⁻¹⁴\n\n[OH⁻] = 10⁻¹⁴ ÷ 10⁻³ = **1 × 10⁻¹¹ mol/L**\n\n**b)** Suco gástrico: pH = 1 → [H⁺] = 10⁻¹ mol/L. Suco de limão: [H⁺] = 10⁻³ mol/L.\n\n10⁻¹ ÷ 10⁻³ = 100: o suco gástrico é **100 vezes mais ácido**.\n\nApós a ingestão:\n\nn(H⁺) do suco gástrico = 0,1 × 0,050 = 5 × 10⁻³ mol\n\nn(H⁺) total = 5 × 10⁻³ + 0,15 × 10⁻³ = 5,15 × 10⁻³ mol\n\nV total = 50 + 150 = 200 mL = 0,2 L\n\n[H⁺] = 5,15 × 10⁻³ ÷ 0,2 = 2,575 × 10⁻² mol/L\n\npH = −log(2,575 × 10⁻²) = 2 − 0,41 = **1,59**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A função comum é **ácido carboxílico** (grupo –COOH).\n\nNo diclofenaco, os pares não compartilhados estão nos heteroátomos: 2 átomos de oxigênio × 2 pares = 4; 2 átomos de cloro × 3 pares = 6; 1 átomo de nitrogênio × 1 par = 1. Total: **11 pares** de elétrons não compartilhados.\n\n**b)** O **ibuprofeno** possui isomeria óptica: o carbono ligado ao anel, ao CH₃, ao H e ao CH₂–COOH é **assimétrico (quiral)**, com quatro ligantes diferentes. Com um carbono quiral, o número de estereoisômeros é 2ⁿ = 2¹ = **2** (os enantiômeros dextrogiro e levogiro). O ácido clofíbrico (carbono com dois CH₃ iguais) e o diclofenaco não têm carbono quiral.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** A imagem representa a **mitose**: a célula 2n = 4 origina duas células-filhas também 2n = 4. A separação das cromátides-irmãs ocorre na anáfase, indicada pela letra **D**.\n\n**b)** A célula C está em metáfase: cada um dos 4 cromossomos já está duplicado, com duas cromátides, e cada cromátide é uma molécula de DNA. Logo, há **8 moléculas de DNA**.\n\nA fase E mostra a telófase com a **citocinese**, a divisão do citoplasma. Na célula animal, microfilamentos de **actina**, associados à **miosina**, formam um anel contrátil sob a membrana na região equatorial; a contração desse anel estrangula a célula de fora para dentro (citocinese centrípeta) até separar as duas células-filhas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** A reação diretamente relacionada à intensificação do efeito estufa é a **combustão** (queima de combustíveis fósseis, como o petróleo), que lança na atmosfera CO₂ que estava estocado há milhões de anos. Os animais obtêm o carbono pela **alimentação**: ingerem a matéria orgânica de vegetais ou de outros animais, digerem-na e usam as moléculas absorvidas para sintetizar a própria matéria orgânica.\n\n**b)** Porque entre os consumidores o carbono não passa na forma de CO₂, e sim como **matéria orgânica** contida no alimento (carboidratos, proteínas, lipídios). O CO₂ é apenas liberado pelos consumidores, na respiração, de volta para a atmosfera. Na fotossíntese, o carbono do CO₂ absorvido pelos produtores é incorporado (no ciclo de Calvin) à **glicose** e a outros compostos orgânicos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Realizam digestão extracorpórea (fora do corpo) a **aranha**, que injeta enzimas digestivas na presa e suga o material já digerido, e o **cogumelo** (fungo), que libera enzimas no substrato e absorve os produtos pelas hifas. A esponja faz digestão intracelular e a vaca, extracelular.\n\n**b)** A peçonha é inoculada pelas **quelíceras**, apêndices anteriores ligados às glândulas de veneno. As bactérias vivem em **mutualismo** com a vaca: elas produzem **celulase**, enzima que a vaca não tem, e digerem a celulose do capim, liberando monossacarídeos e outros produtos que a vaca absorve. Em troca, recebem abrigo e alimento constante no estômago do ruminante.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** O gameta feminino é a **oosfera** e o gameta masculino é o **núcleo espermático** (célula espermática), levado pelo tubo polínico. Da fecundação da oosfera por um núcleo espermático surge o zigoto, que forma o embrião.\n\n**b)** Os nutrientes vêm do **endosperma** (albúmen), tecido de reserva triploide da semente; no coco, a água e a polpa branca são endosperma. A vantagem ecológica do mesocarpo que retém ar é permitir que o fruto **flutue**: ele pode ser levado pelas águas do mar (dispersão por hidrocoria) a grandes distâncias, colonizando outras praias e reduzindo a competição com a planta-mãe.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** A fecundação ocorre na **tuba uterina**, indicada pelo número **5**. A parede interna do útero é o **endométrio**.\n\n**b)** O número 2 indica o colo do útero, que pode ser afetado pelo **HPV** (papilomavírus humano), infecção sexualmente transmissível associada ao câncer do colo do útero. O número 3 indica a vagina; o meio ácido é importante porque **inibe a proliferação de microrganismos patogênicos** (bactérias e fungos), protegendo o sistema genital contra infecções.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** O *Schistosoma mansoni* pertence ao filo dos **platelmintos** (Platyhelminthes). O hospedeiro intermediário é o **caramujo** de água doce do gênero *Biomphalaria*.\n\n**b)** A proteína Sm14 da vacina funciona como **antígeno**: é reconhecida pelo sistema imune, que ativa linfócitos e leva à produção de **anticorpos** específicos (pelos plasmócitos) e de **células de memória**. Se a pessoa vacinada for infectada, a Sm14 do parasita será reconhecida rapidamente pelas células de memória, numa resposta secundária mais rápida e intensa: os anticorpos se ligam à proteína e a neutralizam, o que impede o transporte de ácidos graxos e favorece a eliminação do parasita antes que ele prolifere.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** A alta temperatura (cerca de 95 °C) rompe as **ligações de hidrogênio** entre as bases nitrogenadas e separa as duas fitas do DNA (desnaturação). Cada fita isolada passa a servir de molde. As **DNA-polimerases** (termoestáveis, como a Taq) sintetizam as fitas complementares a partir dos *primers*, unindo nucleotídeos; assim, a cada ciclo a quantidade do fragmento de DNA é duplicada, gerando muitas cópias.\n\n**b)** O coronavírus é formado por **RNA**. A transcriptase reversa sintetiza uma molécula de **DNA complementar (cDNA)** usando o RNA viral como molde. Isso é necessário porque a polimerase usada no PCR só amplifica DNA; transformado em cDNA, o material genético viral pode ser amplificado e detectado.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Os grupos que divergiram mais recentemente são as **aves e os dinossauros**, que compartilham o ancestral comum mais recente no cladograma. A condição derivada X, compartilhada por mamíferos e répteis, é o **ovo amniótico** (com âmnio e outros anexos embrionários: córion, alantoide e saco vitelínico), que protege o embrião contra a desidratação e permitiu a reprodução fora da água.\n\n**b)** As penas se originaram das **escamas** epidérmicas (queratinizadas) dos répteis ancestrais. As penas retêm uma camada de ar junto ao corpo e funcionam como **isolante térmico**, reduzindo a perda de calor para o ambiente. Isso permite manter constante a temperatura corporal, elevada pelo metabolismo intenso, o que favoreceu a endotermia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A mulher 3 é afetada, mas tem filhos normais (9 e 10), que receberam dela um X com o alelo recessivo. Logo, ela é heterozigota: **XᴬXᵃ** (A = alelo dominante para o raquitismo). A descendente homozigota recessiva é a mulher **9** (XᵃXᵃ), filha normal de pai normal (XᵃY) e mãe heterozigota. O homem 10 também é normal, mas é hemizigoto (XᵃY), não homozigoto.\n\n**b)** A pessoa é a mulher **5**. Na herança dominante ligada ao X, o pai afetado (1, XᴬY) transmite seu único X, com o alelo dominante, a todas as filhas; portanto todas as filhas do casal 1 × 2 deveriam ser afetadas. Como a mulher 5 é normal (XᵃXᵃ), ela não pode ser filha biológica do homem 1.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Em equilíbrio de Hardy-Weinberg, as frequências gênicas e genotípicas permanecem **constantes ao longo das gerações**. As mutações não são consideradas porque alteram as frequências dos alelos (criando novos alelos ou convertendo um em outro), o que é um fator evolutivo; o equilíbrio pressupõe uma população sem fatores evolutivos (sem mutação, seleção natural, migração ou deriva), muito grande e com cruzamentos ao acaso.\n\n**b)** Castanhos (aa): q² = 0,49 → q = 0,7\n\np = 1 − 0,7 = 0,3\n\nHomozigotos dominantes (AA): p² = 0,3² = 0,09 = **9%**\n\nHeterozigotos (Aa): 2pq = 2 × 0,3 × 0,7 = 0,42 = **42%**\n\n(Conferência: 9% + 42% + 49% = 100%.)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

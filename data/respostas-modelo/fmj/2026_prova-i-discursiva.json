@@ -1,0 +1,47 @@
+{
+ "indice": "data/questoes/fmj/2026_prova-i-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O principal componente da atmosfera formado por um pnictogênio é o N₂. Cada N tem 5 elétrons de valência e completa o octeto com uma ligação tripla, ficando com um par não ligante:\n\n**:N≡N:** (cada nitrogênio com um par de elétrons isolado e três pares compartilhados entre eles)\n\nCom configuração ns² np³, os pnictogênios ganham 3 elétrons para completar o octeto ao formar ligação iônica com metais: carga **−3** (ex.: N³⁻).\n\n**b)** No XH₃ o átomo central tem 3 pares ligantes e 1 par não ligante (quatro nuvens eletrônicas); o par isolado repele as ligações e a geometria é **piramidal (pirâmide trigonal)**, como na amônia.\n\n6 g de NaOH: n = 6 ÷ 40 = 0,15 mol. Pela equação, 3 NaOH → 1 XH₃: n(XH₃) = 0,05 mol.\n\nM(XH₃) = 1,7 ÷ 0,05 = 34 g/mol\n\nM(X) = 34 − 3 × 1 = 31 g/mol (é o fósforo; XH₃ = PH₃)\n\nM(X₄) = 4 × 31 = **124 g/mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Os produtos orgânicos são o ácido metanoico, o metanol e o dimetiléter (o CO é inorgânico). O de menor solubilidade em água é o **dimetiléter**: não tem hidrogênio ligado a oxigênio, não doa ligação de hidrogênio para a água e interage menos com ela que o ácido e o álcool, que têm grupos –OH.\n\nOs produtos que reagem entre si formando um éster são o **ácido metanoico** e o **metanol** (esterificação que dá metanoato de metila, HCOOCH₃).\n\n**b)** Equação: **CO₂ + 3 H₂ → CH₃OH + H₂O**\n\nLigações rompidas (energia absorvida):\n\n2 C=O: 2 × 743 = 1 486 kJ\n\n3 H–H: 3 × 436 = 1 308 kJ\n\nTotal = 2 794 kJ\n\nLigações formadas (energia liberada):\n\n3 C–H + 1 C–O + 1 O–H (metanol): 1 239 + 353 + 463 = 2 055 kJ\n\n2 O–H (água): 926 kJ\n\nTotal = 2 981 kJ\n\nΔH = 2 794 − 2 981 = **−187 kJ/mol** de metanol (reação exotérmica)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Reação de precipitação:\n\n**Ag⁺(aq) + Cl⁻(aq) → AgCl(s)** (ou AgNO₃(aq) + Cl⁻(aq) → AgCl(s) + NO₃⁻(aq))\n\nA condutividade elétrica da solução **diminui**, porque os íons Ag⁺ e Cl⁻, que conduziam a corrente, saem da solução e ficam retidos no sólido pouco solúvel (AgCl); restam menos íons livres em solução.\n\n**b)** Expressão do produto de solubilidade (o sólido não entra):\n\n**Kps = [Ag⁺] · [Cl⁻]**\n\nConcentração de cloreto: 3,55 ppm = 3,55 mg/L = 3,55 × 10⁻³ g/L\n\n[Cl⁻] = 3,55 × 10⁻³ ÷ 35,5 = 1,0 × 10⁻⁴ mol/L\n\nA precipitação começa quando [Ag⁺] · [Cl⁻] = Kps:\n\n[Ag⁺] = 1,8 × 10⁻¹⁰ ÷ 1,0 × 10⁻⁴\n\n[Ag⁺] = **1,8 × 10⁻⁶ mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** No íon [HgI₄]²⁻, cada iodeto tem Nox −1:\n\nx + 4 · (−1) = −2 → x = **+2**\n\nO grupo que forma íons NH₄⁺ na decomposição é o das **proteínas**, as únicas dessas substâncias que contêm nitrogênio (nos grupos amino dos aminoácidos); carboidratos e lipídios são formados basicamente por C, H e O.\n\n**b)** A reação consome íons OH⁻ (4 OH⁻ por NH₄⁺); com a diminuição da concentração de OH⁻, a solução fica menos básica e o **pH diminui**.\n\nn([HgI₄]²⁻) = 3,54 × 10⁻⁴ ÷ 708 = 5,0 × 10⁻⁷ mol\n\nPela equação, 1 NH₄⁺ reage com 2 [HgI₄]²⁻:\n\nn(NH₄⁺) = 2,5 × 10⁻⁷ mol\n\nM(NH₄⁺) = 14 + 4 × 1 = 18 g/mol\n\nm = 2,5 × 10⁻⁷ × 18 = **4,5 × 10⁻⁶ g**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O nucléolo é o local de **síntese do RNA ribossômico** (transcrição dos genes de RNAr) e de **montagem das subunidades dos ribossomos**, que depois saem do núcleo pelos poros.\n\nO envelope nuclear (carioteca) é formado por **duas membranas lipoproteicas**, cada uma uma bicamada de fosfolipídios com proteínas, atravessadas por poros.\n\n**b)** Na **eucromatina** a cromatina (DNA + histonas) está **descondensada**, com as fibras frouxas, e aparece mais clara na micrografia; na **heterocromatina** ela está **muito condensada**, compactada, e aparece mais escura.\n\nAs regiões de eucromatina são essenciais para o crescimento porque, estando descondensadas, o DNA fica acessível às enzimas de transcrição: nelas estão os **genes ativos**, transcritos em RNA mensageiro que será traduzido nas proteínas (enzimas e proteínas estruturais) necessárias ao metabolismo e ao crescimento da célula.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O morangueiro floresceu apenas na condição 2, com noite longa e contínua (dia curto): é uma **planta de dia curto** (de noite longa). O cravo floresceu nas condições 1 e 3 e não floresceu na 2: é uma **planta de dia longo** (de noite curta), que só floresce quando o período de escuro contínuo é menor que o crítico.\n\n**b)** Na condição 3 a noite longa foi interrompida por um período de luz. A luz converte o fitocromo Pr (inativo) em **Pfr** (ativo); no escuro, o Pfr reverte lentamente a Pr. Com a interrupção, o Pfr volta a se acumular e o morangueiro não chega a ter o período de escuro contínuo necessário para baixar o Pfr. Como em plantas de dia curto o Pfr em concentração elevada inibe a floração, o morangueiro não floresceu, embora o total de horas de escuro fosse grande.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** A **vitamina D** (calcitriol, sua forma ativa) estimula a absorção intestinal de cálcio. O hormônio ovariano é o **estrógeno** (estradiol), que inibe a atividade dos osteoclastos; com sua queda após a menopausa, a reabsorção da matriz óssea aumenta.\n\n**b)** Na osteoporose os osteoclastos são **mais ativos** que os osteoblastos: a reabsorção óssea supera a deposição de matriz. No hiperparatireoidismo há excesso de **paratormônio (PTH)**, que estimula a atividade dos osteoclastos para retirar cálcio dos ossos e elevar a calcemia. A reabsorção óssea contínua reduz a densidade óssea e leva à osteoporose, com ossos frágeis e maior risco de fraturas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O **cruzamento 1**. No cruzamento-teste AaBb × aabb, se os genes estão em cromossomos diferentes, o duplo-heterozigoto forma quatro tipos de gametas (AB, Ab, aB, ab) em proporções iguais, e a descendência apresenta os quatro genótipos com 25% cada, exatamente o resultado do cruzamento 1. No cruzamento 2 só aparecem os genótipos parentais (ligação completa, sem permutação) e no 3 os quatro genótipos surgem em proporções desiguais (ligação com permutação).\n\n**b)** O **cruzamento 3**. Os genótipos AaBb e aabb (39% cada) são os parentais, mais frequentes; Aabb e aaBb (11% cada) são os recombinantes, formados por permutação (crossing-over). Taxa de recombinação = 11% + 11% = **22%** (o que corresponde a uma distância de 22 unidades de recombinação, ou morganídeos, entre os genes).",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

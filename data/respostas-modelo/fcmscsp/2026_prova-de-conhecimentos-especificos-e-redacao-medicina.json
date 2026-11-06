@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2026_prova-de-conhecimentos-especificos-e-redacao-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Foi acompanhada uma **sucessão ecológica secundária**: a área já tinha sido ocupada por vegetação e conservava solo, sementes e outras estruturas, e a comunidade se restabeleceu a partir de espécies pioneiras (gramíneas e plantas pequenas) até as árvores de maior porte. Uma interferência antrópica que pode ter degradado a flora antes da aquisição é o **desmatamento para pastagem ou agricultura** (também queimadas).\n\n**b)** Animais (aves, morcegos, mamíferos) comem os frutos de árvores das áreas vizinhas e eliminam as sementes nas fezes ou as deixam cair em outros lugares, **levando para a área sementes de espécies de grande porte**, como jatobá e pequizeiro; a passagem pelo tubo digestório ainda pode favorecer a germinação. Na etapa final (comunidade clímax), a razão fotossíntese/respiração é **aproximadamente igual a 1**: a produção de matéria orgânica se iguala ao consumo, e a produtividade líquida da comunidade tende a zero.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A conjugação é o **mecanismo W**. Na figura, as bactérias A e B ficam ligadas diretamente por uma ponte citoplasmática (*pilus* sexual), e por ela uma cópia do plasmídeo (o pequeno DNA circular) da bactéria A passa para a bactéria B, que no final também o possui. Na conjugação há contato direto entre as células, sem lise nem vírus.\n\n**b)** O mecanismo Z é a **transdução**: um vírus bacteriófago transfere para a bactéria B um fragmento de DNA da bactéria A que ele infectou. Esse mecanismo pode desencadear o ciclo lítico porque o bacteriófago, ao se fixar e injetar seu material na bactéria B, pode introduzir também DNA viral funcional; esse DNA assume o controle da maquinaria da bactéria (ribossomos, enzimas, nucleotídeos), que passa a produzir novas partículas virais até a lise da célula, liberando os vírus.",
+   "confianca": "media",
+   "pendencia": "A justificativa do item b depende de como a banca interpreta a transdução da figura (vírus com DNA viral funcional ou prófago que deixa o estado lisogênico); outras explicações coerentes também valem."
+  },
+  "0:3": {
+   "resposta": "**a)** O acrossomo é originado pelo **complexo golgiense** (aparelho de Golgi). Ele contém enzimas digestivas (como hialuronidase e acrosina) que, liberadas na reação acrossômica, digerem as camadas que envolvem o ovócito (coroa radiada e zona pelúcida), permitindo que o espermatozoide as atravesse e se funda com a membrana do ovócito.\n\n**b)** A secção correta é a **3**: mostra as mitocôndrias enroladas em torno do axonema, com nove grupos periféricos de microtúbulos e um par central (padrão 9 + 2 do flagelo). A secção 2 não tem o par central e a 1 não tem os microtúbulos organizados em grupos. Na peça intermediária, as mitocôndrias fazem respiração celular e fornecem **ATP**, energia usada pelas proteínas motoras (dineínas) para promover o deslizamento entre os microtúbulos do axonema, o que provoca o batimento do flagelo e a movimentação do espermatozoide.",
+   "confianca": "media",
+   "pendencia": "A escolha da secção 3 se baseia no padrão 9 + 2 do axonema; na figura, o desenho dos grupos de microtúbulos é pouco nítido."
+  },
+  "0:4": {
+   "resposta": "**a)** O modelo é o **mosaico fluido** (Singer e Nicolson): uma bicamada fluida de fosfolipídios na qual proteínas se deslocam e se encaixam como peças de um mosaico. O papel de receptor cabe às **glicoproteínas** (e glicolipídios) do glicocálix: as cadeias de carboidratos ligadas às proteínas reconhecem e se ligam a substâncias específicas, como hormônios.\n\n**b)** Porque os **glicolipídios e as glicoproteínas**, com suas cadeias de carboidratos (glicocálix), aparecem apenas na face superior da figura, e o glicocálix fica sempre voltado para o meio extracelular. Na **difusão facilitada**, a substância atravessa a membrana **a favor do gradiente de concentração**, do meio mais concentrado (extracelular) para o menos concentrado (citoplasma), **sem gasto de ATP**, com a ajuda de **proteínas transmembrana** (canais ou carreadoras/permeases), que se ligam a ela ou lhe dão passagem específica pela bicamada.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Duas entre: corpo coberto de **pelos**; presença de **músculo diafragma** separando tórax e abdome; **homeotermia** (endotermia); **dentes diferenciados** (incisivos, caninos, pré-molares e molares); coração com quatro cavidades e hemácias anucleadas; desenvolvimento embrionário com **placenta** (viviparidade). Qualquer par correto dessas características vale.\n\n**b)** O fenômeno é a **magnificação trófica** (biomagnificação ou bioacumulação). Substâncias tóxicas como metais pesados e pesticidas não são degradadas nem eliminadas com facilidade e se acumulam nos tecidos. Como cada nível trófico precisa consumir uma grande biomassa do nível anterior para obter energia (que se perde ao longo da cadeia), o tóxico ingerido se soma e se **concentra a cada nível**. Por isso o animal do topo da cadeia, que come muitos animais já contaminados, apresenta a maior concentração.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O principal hormônio que desencadeia a ovulação é o **hormônio luteinizante (LH)**; o pico de LH provoca a ruptura do folículo maduro e a liberação do ovócito. Ele é liberado pela **adeno-hipófise** (hipófise anterior), sob estímulo do GnRH produzido pelo hipotálamo.\n\n**b)** Neurônios do hipotálamo produzem a **ocitocina**, que é levada pelos axônios até a **neuro-hipófise**, onde é armazenada e liberada no sangue. Durante o parto, a ocitocina estimula as **contrações da musculatura lisa do útero** (miométrio), que empurram o filhote para fora. A pressão do feto sobre o colo uterino envia sinais nervosos ao hipotálamo, que libera mais ocitocina, num mecanismo de **retroalimentação positiva**: as contrações ficam cada vez mais fortes até a expulsão do filhote.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Doença congênita é aquela que **já está presente no nascimento**, seja de origem genética, seja adquirida durante a gestação (infecções, substâncias, falhas do desenvolvimento); não é necessariamente hereditária. Na anemia falciforme, as hemácias têm **forma de foice** (meia-lua), alongadas e rígidas, em vez da forma de disco bicôncavo.\n\n**b)** O casal é saudável e teve filhos afetados por cada doença; como ambas são autossômicas recessivas, os dois pais são **AaBb**. O filho com anemia falciforme e sem hipotireoidismo é **aaB_**, ou seja, **aaBB ou aaBb**.\n\nO enunciado informa que o terceiro filho é saudável (A_B_). Entre os saudáveis de cada gene, 2/3 são heterozigotos:\n\nP(Aa | A_) = 2/3\n\nP(Bb | B_) = 2/3\n\nP(AaBb | saudável) = 2/3 × 2/3 = **4/9**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** A visão binocular, com os olhos voltados para a frente e campos visuais sobrepostos, permite a **visão estereoscópica** (tridimensional), com boa **percepção de profundidade e de distância** — útil para calcular saltos entre galhos e localizar alimento. O polegar oponível permite **agarrar com firmeza e precisão** galhos, alimentos e objetos, possibilitando a manipulação fina e, nos hominídeos, o uso e a fabricação de ferramentas.\n\n**b)** A afirmação se alinha ao **lamarckismo** (lei do uso e desuso e herança dos caracteres adquiridos). Pela **teoria sintética**, a ausência do terceiro molar tem **base genética**: surgiu por **mutações** e se espalhou por recombinação. Com a dieta mais macia e a redução da mandíbula, indivíduos sem esse dente não foram prejudicados — e até evitaram problemas como dentes inclusos e infecções —, de modo que a **seleção natural** (somada à deriva genética) aumentou a frequência desses alelos em parte da população. O desuso não altera os genes; o que muda é a frequência de alelos já existentes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A substância simples moderadora é a **grafita**, formada só por átomos de carbono unidos por **ligações covalentes** (dentro de cada camada; entre as camadas atuam forças de van der Waals). O metal do BeO é o berílio, do **grupo 2, dos metais alcalinoterrosos**.\n\n**b)** Desprezando o U-234 (traços), o urânio enriquecido tem 5% de U-235 e 95% de U-238:\n\nM ≈ 0,95 × 238 + 0,05 × 235\n\nM ≈ 226,1 + 11,75 ≈ **237,85 g/mol** (≈ 238 g/mol)\n\nNo urânio natural, 0,7% dos átomos são U-235. Em **1 mol** de urânio natural:\n\nN = 0,007 × 6,0 × 10²³ = **4,2 × 10²¹ átomos de U-235**",
+   "confianca": "media",
+   "pendencia": "O item não informa a quantidade de urânio natural; a resposta considera 1 mol, que é a leitura mais provável."
+  },
+  "0:10": {
+   "resposta": "**a)** UF₆(g) + 2 H₂O(g) → UO₂F₂(s) + 4 HF(g)\n\n**b)** Para obter UF₆ a partir de U₃O₈, somam-se a equação 1, a equação 2 multiplicada por 3 e a equação 3 multiplicada por 3 (o UO₂ e o UF₄ se cancelam):\n\nU₃O₈(s) + 2 H₂(g) + 12 HF(g) + 3 F₂(g) → 3 UF₆(g) + 8 H₂O(g)\n\nΔH = ΔH₁ + 3 · ΔH₂ + 3 · ΔH₃\n\nΔH = −109 + 3 · (−176) + 3 · (−247)\n\nΔH = −109 − 528 − 741\n\nΔH = **−1 378 kJ por mol de U₃O₈** (reação exotérmica)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O crômio tem número atômico 24; o íon Cr³⁺ perdeu 3 elétrons, ficando com **21 elétrons**. Para a neutralidade, cada Cr³⁺ se combina com três NO₃⁻: **Cr(NO₃)₃**.\n\n**b)** O hipoclorito tem maior potencial de redução e sofre redução (cátodo, platina); o crômio se oxida (ânodo). Igualando os elétrons (×2 e ×3):\n\n2 Cr(s) → 2 Cr³⁺(aq) + 6 e⁻\n\n3 OCl⁻(aq) + 3 H₂O(l) + 6 e⁻ → 3 Cl⁻(aq) + 6 OH⁻(aq)\n\nGlobal: **2 Cr(s) + 3 OCl⁻(aq) + 3 H₂O(l) → 2 Cr³⁺(aq) + 3 Cl⁻(aq) + 6 OH⁻(aq)**\n\nddp = E°(redução do cátodo) − E°(redução do ânodo)\n\nddp = +0,94 − (−0,74) = **+1,68 V**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** A passagem direta do estado sólido para o gasoso é a **sublimação**. O grupo funcional oxigenado da cânfora é a carbonila ligada a dois carbonos, característica da função **cetona**.\n\n**b)** O composto 1 é um éster (acetato). Na hidrólise, forma-se o **ácido acético (etanoico)**, de fórmula molecular **C₂H₄O₂** (H₃C–COOH). O álcool formado tem a hidroxila ligada ao carbono que antes estava ligado ao oxigênio do éster; esse carbono está ligado a outros **três carbonos** (dois CH₃ e o anel), portanto é um **álcool terciário**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Na situação inicial, o bloco está em repouso: a força da trava equilibra a força elástica da mola.\n\nF = k · x\n\nF = 40 N/m × 0,30 m = **12 N**\n\n**b)** Sem atritos, a energia elástica vira energia cinética de A:\n\nk · x² / 2 = m_A · v_A² / 2\n\n40 × 0,30² = 0,4 × v_A²\n\n3,6 = 0,4 × v_A² → v_A = 3 m/s\n\nNa colisão perfeitamente inelástica, a quantidade de movimento se conserva:\n\nm_A · v_A = (m_A + m_B) · v'\n\n0,4 × 3 = (0,4 + 1,2) × v'\n\n1,2 = 1,6 × v' → **v' = 0,75 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A imagem é real e projetada na parede, logo a distância da imagem à lente é p' = 4 − p (em metros). Por semelhança de triângulos (aumento linear):\n\nh / 24 = p' / p\n\n**h = 24 · (4 − p) / p** (h em cm, p em m; a imagem é invertida)\n\n**b)** Pela equação dos pontos conjugados, com f = 0,75 m:\n\n1/f = 1/p + 1/p'\n\n1/0,75 = 1/p + 1/(4 − p)\n\n4/3 = 4 / [p · (4 − p)]\n\np · (4 − p) = 3\n\np² − 4p + 3 = 0\n\n**p = 1 m ou p = 3 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** A pressão exercida pela água no fundo é p = d · g · h; para reduzi-la à metade, a altura da água deve cair de 0,8 m para 0,4 m.\n\nV = A · Δh\n\nV = 3 × 10⁻² m² × 0,4 m = **1,2 × 10⁻² m³**\n\n**b)** Em 30 s escoou:\n\nV = 2 × 10⁻⁴ m³/s × 30 s = 6 × 10⁻³ m³\n\nΔh = V / A = 6 × 10⁻³ ÷ 3 × 10⁻² = 0,2 m\n\nA coluna de ar tem L = 0,2 m e funciona como tubo fechado (a água fecha o fundo). No modo fundamental, L = λ/4:\n\nλ = 4 × 0,2 = 0,8 m\n\nf = v / λ = 340 ÷ 0,8 = **425 Hz**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Pelo gráfico, com R = 20 Ω o aquecimento leva 1 500 s. A potência dissipada é:\n\nP = U² / R = 120² ÷ 20 = 720 W\n\nQ = P · Δt = 720 × 1 500 = 1,08 × 10⁶ J\n\nToda essa energia aquece a água:\n\nQ = m · c · Δθ\n\n1,08 × 10⁶ = m × 4 000 × (80 − 20)\n\n**m = 4,5 kg**\n\n(Conferindo: com 60 Ω, P = 240 W e 240 × 4 500 = 1,08 × 10⁶ J.)\n\n**b)** A energia necessária é a mesma, 1,08 × 10⁶ J:\n\nP = Q / Δt = 1,08 × 10⁶ ÷ 3 750 = 288 W\n\ni = P / U = 288 ÷ 120 = **2,4 A**\n\n(Equivale a ajustar o reostato em R = U / i = 50 Ω, coerente com a reta do gráfico, Δt = 75 · R.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** O termo é **\"plano\"**. O engenheiro, ao ouvir \"tenho um plano\", entende a palavra como substantivo, no sentido de projeto, estratégia ou ideia para resolver o problema. O dono do terreno, porém, usa-a no sentido de terreno **plano**, sem desníveis: ao apontar \"esse do lado\", revela que sua \"solução\" é construir no terreno vizinho, que é plano. O humor nasce dessa quebra de expectativa entre os dois sentidos.\n\n**b)** \"Vamos demorar um pouco para começar a construir, **porque** seu terreno é muito irregular.\" Outras versões com conjunção adequada também valem, como \"**Como** seu terreno é muito irregular, vamos demorar um pouco para começar a construir\" ou \"Seu terreno é muito irregular, **por isso** vamos demorar um pouco para começar a construir.\"",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Um narrador é **João Alves Júnior**, autor do anúncio de 1899, que relata em primeira pessoa o sumiço de sua besta (\"sumiu-me uma besta\"). O outro é o **cronista** (Drummond), que, 55 anos depois, apresenta o anúncio e o comenta, dirigindo-se ao próprio João Alves.\n\n**b)** O procedimento é a **transcrição do anúncio entre aspas**, isto é, a citação do texto alheio em discurso direto, inserida na crônica (intertextualidade). Ao reproduzir integralmente o anúncio, o cronista dá voz a João Alves, que narra seu caso; em seguida, retoma a palavra e passa a analisar esse texto, interpelando o autor em segunda pessoa (\"tua besta\", \"Reparo [...] na limpeza de tua linguagem\"). Assim, as duas vozes narrativas convivem no mesmo texto.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Ao acrescentar \"(ou não avançava)\", no pretérito imperfeito, o cronista sugere que a prudência mineira era um traço **do passado**, que talvez **já não exista** ou tenha se enfraquecido nos mineiros de hoje. O tempo verbal situa a qualidade na época de João Alves e insinua, com leve ironia e nostalgia, que essa cautela se perdeu.\n\n**b)** Oração subordinada: \"Se lesses os anúncios de objetos e animais perdidos\".\n\nNa voz passiva: **\"Se os anúncios de objetos e animais perdidos fossem lidos por ti\"**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** O cronista atribui maior importância ao **amor à tarefa bem-feita** de João Alves, destacado na última frase do parágrafo, depois da precisão de termos, da graça no dizer e da moderação. A hierarquia é marcada pelo advérbio **\"sobretudo\"**, que põe essa qualidade acima das demais.\n\n**b)** O objeto direto pleonástico está em \"Pressa, não a tiveste\": os dois termos são o substantivo **\"Pressa\"**, antecipado ao verbo, e o pronome pessoal oblíquo átono **\"a\"**, que o retoma.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

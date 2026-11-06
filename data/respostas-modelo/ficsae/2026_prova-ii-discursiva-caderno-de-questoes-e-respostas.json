@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2026_prova-ii-discursiva-caderno-de-questoes-e-respostas.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** As moléculas liberadas pelos plasmócitos são **anticorpos** (imunoglobulinas; na alergia, principalmente a IgE), que se prendem à membrana dos mastócitos.\n\nNa etapa final, quando o alérgeno se liga a esses anticorpos, o mastócito libera o conteúdo de seus grânulos (X), principalmente a **histamina**.\n\n**b)** A vasodilatação generalizada aumenta o calibre dos vasos e a permeabilidade dos capilares, provocando **queda brusca da pressão arterial** (hipotensão), com redução do retorno venoso e da irrigação dos órgãos; também há saída de plasma para os tecidos (edema).\n\nO choque anafilático pode levar à asfixia porque a histamina provoca **contração da musculatura lisa dos bronquíolos (broncoconstrição)** e **edema das vias aéreas**, como o da glote e da laringe, o que estreita a passagem do ar e impede a ventilação pulmonar.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O grupo destacado, –COOH (carbonila e hidroxila no mesmo carbono), é a carboxila: função **ácido carboxílico**.\n\nO composto 2 (o limoneno) é um hidrocarboneto, formado só por C e H, com ligações de baixa diferença de eletronegatividade e momento dipolar resultante praticamente nulo: molécula **apolar**.\n\n**b)** Sódio: 13 mg em 100 mL.\n\nC = 13 mg ÷ 0,1 L = 130 mg/L = **0,13 g/L**\n\nAçúcar nas bebidas comuns: 15 g em 200 mL.\n\nC = 15 g ÷ 0,2 L = 75 g/L\n\nBebida com 50% menos açúcar:\n\nC = 0,5 × 75 = **37,5 g/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Sem resistência do ar, a energia mecânica se conserva; o aumento da energia cinética é igual à perda de energia potencial entre João e José (Δh = 11,25 m):\n\nΔEc = m · g · Δh = 0,4 × 10 × 11,25\n\nΔEc = **45 J**\n\n**b)** Seja v₀ a velocidade do vaso ao passar por João. No trecho de 11,25 m, percorrido em 0,5 s:\n\nΔs = v₀ · t + g · t² ÷ 2\n\n11,25 = v₀ · 0,5 + 10 × 0,25 ÷ 2\n\n11,25 = 0,5 v₀ + 1,25 → v₀ = 20 m/s\n\nO vaso partiu do repouso a uma altura h acima de João (Torricelli):\n\nv₀² = 2 · g · h → 400 = 20 · h\n\nh = **20 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Coloca-se o vértice do cubo comum às três faces na origem, com as faces nos planos x = 0, y = 0 e z = 0. Cada ponto de tangência dista d de duas arestas da sua face:\n\nP₁(0, d, d), P₂(d, 0, d), P₃(d, d, 0)\n\nDistância entre dois deles: √(d² + d² + 0) = d√2. O triângulo é equilátero de lado ℓ = d√2.\n\nCom d = √2: ℓ = √2 · √2 = 2 cm\n\nÁrea = ℓ² · √3 ÷ 4 = 4√3 ÷ 4 = **√3 cm²**\n\n**b)** Com d = 1, os três pontos de uma base formam triângulo equilátero de lado √2, cujo circuncentro é o centroide C₁(2/3, 2/3, 2/3), centro da base; o raio da circunferência circunscrita é √2 ÷ √3 = √6/3 cm, que é o raio dado. Pela simetria, o centro da outra base é C₂(4 − 2/3, 4 − 2/3, 4 − 2/3) = (10/3, 10/3, 10/3). O eixo do cilindro está na diagonal do cubo, e a altura é a distância entre os centros:\n\nH = √3 · (10/3 − 2/3) = 8√3/3 cm\n\nVolume:\n\nV = π · r² · H = π · (6/9) · (8√3/3)\n\nV = **16√3π/9 cm³** (≈ 9,7 cm³)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Um problema que Medvedev considera comum, e não exclusivo dos nômades digitais, é a **dificuldade de encontrar um apartamento para alugar** (também cita comida desconhecida, calor e pessoas se sentindo desconectadas umas das outras).\n\nPara ele, simplesmente voltar ao escritório **não resolve** esses problemas: eles são sintomas dos tempos atuais e devem ser enfrentados em conjunto, e quem acha que o escritório os resolverá vai se decepcionar.\n\n**b)** Um café de 11 ringgits (cerca de £1,90) é **barato e acessível para quem ganha em libras**, mas **caro para quem recebe na moeda local**, cujos salários têm poder de compra muito menor.\n\nAbigail tem curiosidade de ouvir sobre a experiência dos expatriados que **deixaram Londres por causa dos aluguéis cada vez mais altos e acabaram, sem querer, contribuindo para a alta dos aluguéis** nos bairros asiáticos para onde se mudaram.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

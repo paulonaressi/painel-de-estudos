@@ -1,0 +1,47 @@
+{
+ "indice": "data/questoes/fmj/2027_prova-i-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O precipitado foi separado da fase líquida por **filtração** (filtração simples, com funil e papel de filtro).\n\nNa reação do carbonato com o ácido, forma-se ácido carbônico, que se decompõe em água e gás carbônico: X = **CO₂**.\n\nCaCO₃ + 2 HCl → CaCl₂ + H₂O + CO₂\n\n**b)** Massa de CaCO₃ nas cascas (pureza de 90%):\n\nm = 0,90 × 28 g = **25,2 g**\n\nn(CaCO₃) = 25,2 ÷ 100 = 0,252 mol\n\nHCl disponível: n = 1,0 mol/L × 0,500 L = 0,500 mol. Os 0,252 mol de CaCO₃ exigiriam 0,504 mol de HCl, então o HCl é o reagente limitante:\n\nn(CaCl₂) = 0,500 ÷ 2 = 0,250 mol\n\nPela 2ª equação, 3 CaCl₂ → 1 Ca₃(PO₄)₂:\n\nn(Ca₃(PO₄)₂) = 0,250 ÷ 3 ≈ 0,0833 mol\n\nm = 0,0833 × 310 ≈ **25,8 g**\n\n(Calculando diretamente pelo CaCO₃, sem considerar o limitante: 0,252 ÷ 3 × 310 ≈ 26,0 g.)",
+   "confianca": "media",
+   "pendencia": "O HCl (0,500 mol) é ligeiramente insuficiente para os 0,252 mol de CaCO₃; se a banca ignorou esse detalhe e calculou pelo CaCO₃, a massa esperada é cerca de 26,0 g."
+  },
+  "0:2": {
+   "resposta": "**a)** A perfluordecalina é **apolar**: as ligações C–F são polares, mas a molécula é simétrica e os momentos dipolares se anulam.\n\nO O₂ também é apolar. Pela regra \"semelhante dissolve semelhante\", ele interage melhor (forças de dipolo induzido, ou de London) com o solvente apolar do que com a água, que é polar e cujas moléculas estão fortemente unidas por ligações de hidrogênio. Por isso o O₂ é mais solúvel na perfluordecalina.\n\n**b)** Em 100 mL de perfluordecalina há 48 mL = 0,048 L de O₂, a 1 atm e 300 K:\n\nn = P · V ÷ (R · T) = 1 × 0,048 ÷ (0,08 × 300)\n\nn = 0,048 ÷ 24 = **2 × 10⁻³ mol**\n\nMassa de O₂ a transportar: 320 mg = 0,32 g → n = 0,32 ÷ 32 = 0,01 mol\n\nVolume de perfluordecalina:\n\n100 mL ——— 2 × 10⁻³ mol\n\nV ——— 1 × 10⁻² mol\n\nV = **500 mL**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A prata, com um único elétron no subnível s da camada de valência (s¹), perde esse elétron e forma o íon Ag⁺. Combinando com o sulfeto (S²⁻), a fórmula do sulfeto de prata é **Ag₂S**.\n\nO eletrodo em que ocorre a redução (Rh³⁺ + 3e⁻ → Rh) é o **cátodo**.\n\n**b)** Massa de ródio nos 10 L:\n\nm = 4,12 g/L × 10 L = 41,2 g\n\nn(Rh³⁺) = 41,2 ÷ 103 = **0,4 mol**\n\nCarga na eletrólise:\n\nQ = i · t = 10 A × 289,5 s = 2 895 C\n\nn(e⁻) = 2 895 ÷ 96 500 = 0,03 mol\n\nCada Rh exige 3 elétrons: n(Rh) = 0,03 ÷ 3 = 0,01 mol\n\nm(Rh) = 0,01 × 103 = **1,03 g**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Deve ser escolhido o **ácido nítrico (HNO₃)**: tem o menor pKa (−1,4), isto é, o maior Ka, sendo o ácido mais forte da tabela.\n\nIonização em água:\n\n**HNO₃ + H₂O → H₃O⁺ + NO₃⁻** (ou HNO₃ → H⁺ + NO₃⁻)\n\n**b)** Ácido benzoico: um anel benzênico (C₆H₅–) ligado diretamente à carboxila:\n\n**C₆H₅–COOH**, ou seja, o carbono da carboxila, ligado ao anel, tem dupla ligação com um O e ligação simples com um grupo –OH.\n\nNa esterificação com metanol, o –OH da carboxila sai com o H do álcool, formando água, e forma-se o benzoato de metila:\n\n**C₆H₅–COO–CH₃**, ou seja, o anel ligado a C(=O)–O–CH₃.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O envelope do coronavírus é uma **bicamada lipídica (de fosfolipídios)**, originada da membrana da célula hospedeira, com **proteínas** inseridas, como a spike — portanto, de natureza lipoproteica.\n\nO genoma do coronavírus é formado por **RNA** (de fita simples).\n\n**b)** A proteína spike **liga-se a receptores específicos da membrana da célula hospedeira** (no SARS-CoV-2, a enzima ACE2), o que permite a fusão do envelope com a membrana ou a entrada por endocitose, liberando o material genético na célula.\n\nAs moléculas de sabão são anfipáticas: têm uma **cauda apolar (hidrofóbica)**, que interage com os lipídios do envelope e se insere nele, e uma **cabeça polar (hidrofílica)**, que interage com a água. Assim, o sabão arranca os lipídios e proteínas do envelope, envolvendo-os em micelas; o envelope se desfaz e o vírus é inativado.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O sangue que sai do ventrículo esquerdo vai para a **artéria aorta**, que o distribui, rico em oxigênio, para todo o corpo (circulação sistêmica ou grande circulação).\n\nSem relaxar adequadamente, o miocárdio enrijecido não se distende bem na diástole; a cavidade se enche com dificuldade e **entra um volume menor de sangue no ventrículo**, o que diminui também o volume ejetado a cada contração.\n\n**b)** Os anabolizantes estimulam a **síntese de proteínas**, aumentando a produção de proteínas sarcoméricas (como actina e miosina). Com mais miofibrilas, as células do miocárdio aumentam de volume (hipertrofia), espessando a parede do coração.\n\nA proteína sarcomérica mais espessa é a **miosina** (que forma os filamentos grossos).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Os gametas masculinos (anterozoides) são produzidos no local indicado pelo número **4**, os anterídios, no ápice do gametófito masculino.\n\nAs estruturas indicadas por 2 são os esporos, liberados pela cápsula do esporófito; o principal fator ambiental que facilita sua dispersão é o **vento**.\n\n**b)** A estrutura 1 é o esporófito (2n), AaBbCc. Por meiose ele produz esporos haploides; a probabilidade de um esporo receber A, B e C é 1/2 × 1/2 × 1/2 = 1/8. O esporo origina o gametófito, e este produz gametas por mitose, com a mesma constituição.\n\nP(gameta ABC) = **1/8**\n\nA composição genética do gameta é idêntica à do gametófito, a geração duradoura dos musgos, porque o gametófito já é haploide e **produz os gametas por mitose**, que gera células geneticamente iguais à célula de origem; a meiose ocorre antes, na formação dos esporos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Nas aves o sexo é determinado pelo **sistema ZW**: o macho é homogamético (ZZ) e a fêmea é heterogamética (ZW).\n\nO lado direito do corpo da ave tem plumagem de macho, então suas células epidérmicas têm os cromossomos sexuais **ZZ** (são diploides, com 2 cromossomos Z além dos autossomos).\n\n**b)** As penas formam uma camada que **retém ar entre elas**; o ar é mau condutor de calor e funciona como **isolante térmico**, reduzindo a perda de calor para o ambiente e ajudando a manter a temperatura corporal constante (endotermia). A ave também pode eriçar as penas para aumentar essa camada no frio.\n\nPara o lamarckismo, as características surgem para atender a uma necessidade do organismo: as penas coloridas dos machos teriam a finalidade de **atrair as fêmeas para a reprodução**, desenvolvendo-se pelo uso e sendo transmitidas aos descendentes (herança dos caracteres adquiridos).",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

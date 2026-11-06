@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2027_prova-ii-discursiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O CO₂ passa do sangue para os alvéolos por **difusão simples**: move-se a favor do gradiente de concentração (pressão parcial), da região onde está mais concentrado (sangue dos capilares) para a de menor concentração (ar alveolar), atravessando as membranas sem gasto de energia.\n\nAlém do bicarbonato (HCO₃⁻, a forma principal), o CO₂ é transportado **dissolvido no plasma** e **ligado à hemoglobina**, formando a carbo-hemoglobina (carbaminoemoglobina).\n\n**b)** O órgão é o **bulbo** (medula oblonga), onde fica o centro respiratório que detecta a acidez (aumento de CO₂ e de H⁺).\n\nDiante da redução do pH, o bulbo estimula os músculos respiratórios (diafragma e intercostais), **aumentando a frequência e a amplitude dos movimentos respiratórios**. A ventilação maior elimina mais CO₂; com menos CO₂ forma-se menos ácido carbônico (H₂CO₃ → H⁺ + HCO₃⁻), e o pH volta a subir.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A 25 °C a substância está no estado **líquido**: essa temperatura fica entre o ponto de fusão (−93 °C) e o de ebulição (121 °C).\n\nA substância (butanoato de etila, CH₃CH₂CH₂COOCH₂CH₃) pertence à função **éster**, pelo grupo –COO– ligando duas cadeias carbônicas.\n\n**b)** A reação com a água é uma hidrólise do éster, que produz um ácido carboxílico e um álcool. A substância 2 (C₂H₆O) é o álcool.\n\nSubstância 1, ácido butanoico: **H₃C–CH₂–CH₂–COOH** (carbono da carboxila com dupla ligação a um O e ligado a um –OH).\n\nSubstância 2, etanol: **H₃C–CH₂–OH**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Queda livre a partir do repouso, com g = 10 m/s². Tempo para cair 20 m:\n\nh = g · t² ÷ 2 → 20 = 10 · t² ÷ 2\n\nt² = 4 → t = 2 s\n\nVelocidade escalar média:\n\nvm = Δs ÷ Δt = 20 ÷ 2 = **10 m/s**\n\n**b)** Tomando o nível da água como referência, a energia mecânica inicial (pedra em repouso a 30 m) é E = m · g · 30. Sem resistência do ar, ela se conserva:\n\nEp + Ec = m · g · 30, com Ep = Ec ÷ 2, isto é, Ec = 2 Ep\n\n3 Ep = m · g · 30 → Ep = m · g · 10 (altura de 10 m)\n\nEc = 2 · m · g · 10 = m · v² ÷ 2\n\nv² = 4 · g · 10 = 4 × 10 × 10 = 400\n\nv = **20 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Com a = 1: y = x² − 2x + c.\n\nAbscissa do vértice: xv = −b ÷ (2a) = 2 ÷ 2 = 1\n\nOrdenada do vértice: yv = 1² − 2 · 1 + c = c − 1\n\nPara o vértice estar na reta y = x: c − 1 = 1 → **c = 2**\n\nVértice: **V(1, 1)**\n\n**b)** A parábola cruza a reta em dois pontos distintos quando a equação ax² − 2x + c = x, ou seja, ax² − 3x + c = 0, tem duas raízes reais distintas:\n\nΔ = 9 − 4ac > 0 → ac < 9/4 = 2,25\n\nCom a e c inteiros de 1 a 6, o produto ac deve ser 1 ou 2: (a, c) = (1, 1), (1, 2) ou (2, 1). São 3 casos favoráveis entre 6 × 6 = 36 possíveis.\n\nP = 3 ÷ 36 = **1/12**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A agricultura poderia ser implantada nos **telhados (coberturas planas) dos prédios** urbanos. Uma contribuição: as hortas urbanas poderiam suprir até **28% da demanda de frutas e hortaliças** de 190 milhões de pessoas na Europa.\n\n**b)** A inclinação foi limitada a no máximo 2 graus porque a agricultura nos telhados enfrenta os mesmos problemas das lavouras comuns, como a **erosão e a lavagem (perda) do solo e dos nutrientes**, que seriam maiores em superfícies inclinadas.\n\nO benefício mais imediato para quem compra na cidade é eliminar ou reduzir o **\"problema da última milha\"**, isto é, o deslocamento de casa até a loja: com o cultivo no próprio prédio ou em terrenos vizinhos, não é preciso viajar para obter os alimentos.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

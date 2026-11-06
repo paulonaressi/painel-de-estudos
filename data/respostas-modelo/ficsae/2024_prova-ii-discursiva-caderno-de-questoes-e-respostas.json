@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2024_prova-ii-discursiva-caderno-de-questoes-e-respostas.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O pulgão pertence à classe **Insecta** (insetos).\n\nO componente orgânico sugado na seiva elaborada é principalmente a **sacarose** (açúcares produzidos na fotossíntese), cuja principal função metabólica é **energética**: fornece a glicose usada na respiração celular para produzir ATP.\n\n**b)** As manchas não são hereditárias: resultam da infecção viral, que inibe a produção de antocianinas nas células das pétalas, e não de uma alteração nos genes da planta. O embrião da semente herda o genoma normal dos pais e, se a nova planta não for infectada pelo vírus, produz antocianinas normalmente e gera **pétalas sem manchas**.\n\nOs íntrons não devem ser priorizados porque são **removidos do RNA pré-mensageiro no processamento (splicing)** e não são traduzidos; alterá-los, em geral, não muda a proteína (enzima) que participa da síntese das antocianinas. A manipulação deve atingir os éxons ou as regiões reguladoras do gene.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O mais eficaz é o **magnésio**. O metal de sacrifício precisa oxidar-se no lugar do ferro, ou seja, ter potencial de redução menor (maior tendência a perder elétrons) que o do ferro. O Mg tem E° = −2,37 V, menor que o do Fe (−0,44 V), e funciona como ânodo, oxidando-se, enquanto o ferro fica protegido como cátodo. Ouro (+1,50 V) e prata (+0,80 V) têm potenciais maiores que o ferro: ligados a ele, acelerariam a corrosão do encanamento.\n\n**b)** Reação do magnésio com o ácido do solo:\n\nOxidação: Mg → Mg²⁺ + 2e⁻\n\nRedução: 2H⁺ + 2e⁻ → H₂\n\nGlobal: **Mg(s) + 2H⁺(aq) → Mg²⁺(aq) + H₂(g)**\n\nΔE° = E°red(cátodo) − E°red(ânodo) = 0,00 − (−2,37)\n\nΔE° = **+2,37 V**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Rompido o fio e sem atrito, a caixa A desce a prancha com aceleração:\n\na = g · sen θ = 10 × 0,6 = 6 m/s²\n\nPartindo do repouso, para percorrer 6,75 m:\n\nd = a · t² ÷ 2 → 6,75 = 6 · t² ÷ 2\n\nt² = 2,25 → t = **1,5 s**\n\n**b)** O mesmo fio passa pela polia fixa, contorna a polia móvel e vai ao teto, então tem a mesma tração F em todos os trechos. A polia móvel sustenta B com dois trechos de fio:\n\n2F = mB · g = 12 × 10 = 120 N → F = 60 N\n\nEquilíbrio da caixa A ao longo da prancha (fio paralelo a ela):\n\nF = mA · g · sen θ → 60 = mA × 10 × 0,6\n\nmA = **10 kg**\n\nA força que o fio exerce no ponto T é a própria tração: **60 N**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Os quatro números menores somam 20, então:\n\nM(x) = (x + 20) ÷ 5, ou seja, **M(x) = x/5 + 4**\n\nDomínio: x ≤ 10 e, como x é o único máximo, os outros quatro são menores que x; logo 20 < 4x, isto é, x > 5. **D = ]5, 10]**.\n\nImagem: M(5) = 5 e M(10) = 6, com M crescente. **Im = ]5, 6]**.\n\nGráfico: segmento de reta crescente que vai do ponto (5, 5), com bolinha aberta (não incluído), até o ponto (10, 6), com bolinha fechada (incluído).\n\n**b)** Média 5,7: soma = 5 × 5,7 = 28,5, logo o máximo é x = 28,5 − 20 = 8,5.\n\nAmplitude 7,9: mínimo = 8,5 − 7,9 = 0,6.\n\nEm ordem: 0,6 ≤ b ≤ 7,0 ≤ d < 8,5, com mediana 7,0 no meio. Para a moda ser 7,0, o 7,0 precisa aparecer pelo menos duas vezes; como b ≤ 7 ≤ d e 0,6 + b + 7 + d = 20 (b + d = 12,4), não pode ser b = 7 (daria d = 5,4 < 7). Então d = 7,0 e b = 5,4.\n\nLista: **0,6; 5,4; 7,0; 7,0; 8,5**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O experimento consiste em fechar aos veículos motorizados, por seis semanas (das 6h às 23h), um trecho de uma das vias mais movimentadas de Amsterdã, por onde passam cerca de 1.500 carros por hora no horário de pico. O trecho virou um espaço com floreiras, bancos e um quadro de eventos, para testar a tolerância dos motoristas a uma capital com pouco trânsito. Uma situação indesejada: motoristas obrigados a dar meia-volta, que reagem com raiva; também houve relato de uma ambulância presa no trânsito por duas horas, e o bairro de Kattenburg ficou congestionado.\n\n**b)** Efeito colateral: com o desvio do tráfego, metade da cidade passou a ter congestionamentos quase constantes, o que aumenta a emissão de gases de efeito estufa e piora a qualidade do ar para os moradores — o oposto do propósito ambiental. Com a imagem de \"pegar um pau e bater nos carros\", o professor quer dizer que a medida é apenas punitiva contra os motoristas: falta um plano diretor (que estimule, por exemplo, o deslocamento a pé) e falta discutir os motivos, pensando a mobilidade da cidade ligada à região.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

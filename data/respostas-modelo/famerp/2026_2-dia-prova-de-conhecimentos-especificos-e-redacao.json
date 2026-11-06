@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/famerp/2026_2-dia-prova-de-conhecimentos-especificos-e-redacao.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O gás é o **dióxido de carbono (CO₂)**, produzido na combustão dos derivados do petróleo. Parte dele se dissolve na água do mar e reage com ela formando ácido carbônico, que se ioniza e libera íons H⁺:\n\nCO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻\n\nO aumento de H⁺ **diminui o pH** da água, acidificando os oceanos (o que, entre outros efeitos, dificulta a formação de carbonato de cálcio por corais e animais com concha).\n\n**b)** O petróleo forma uma película na superfície que **bloqueia a passagem da luz**. As algas simbiontes dos corais (zooxantelas) deixam de fazer fotossíntese e de fornecer alimento e O₂ ao coral; a película também **reduz as trocas gasosas** entre a água e o ar, diminuindo o oxigênio dissolvido, e o óleo contém substâncias tóxicas. Sem nutrientes e com pouco O₂, os corais branqueiam e morrem.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O tubo é o **tubo neural**, formado pelo dobramento do ectoderma (neurulação), que dará origem ao encéfalo e à medula espinal. A cavidade revestida inteiramente por mesoderme é o **celoma** (celoma verdadeiro dos animais celomados).\n\n**b)** No ser humano a notocorda é substituída pela **coluna vertebral** (vértebras), restando dela apenas resquícios nos discos intervertebrais. Os vírus que causam malformações (como o da rubéola ou o zika) estão no **sangue materno** e atravessam a **placenta** (transmissão transplacentária ou vertical), chegando ao sangue do embrião e às suas células.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O macrófago engloba a bactéria por **fagocitose** (endocitose de partículas sólidas, com emissão de pseudópodes). A actina é uma **proteína** (forma os microfilamentos do citoesqueleto).\n\n**b)** A fusão entre endossomo e lisossomo é possível graças aos **fosfolipídios**, que formam a bicamada lipídica das membranas e permitem que elas se fundam. O macrófago é uma célula apresentadora de antígeno: depois de digerir a bactéria, ele **exibe fragmentos do antígeno (peptídeos) na sua membrana, associados a moléculas do MHC de classe II**. Os linfócitos T auxiliares (CD4) reconhecem esse complexo com seus receptores e são ativados, coordenando a resposta imune.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Os estômatos abrem durante o dia porque a **luz** estimula as células-guarda: elas acumulam íons K⁺, a água entra por osmose, as células ficam túrgidas e o ostíolo se abre. Assim a planta absorve o **CO₂ necessário à fotossíntese**. Quando a umidade do ar está elevada, a diferença de concentração de vapor de água entre a folha e o ar é pequena, e a **transpiração estomática diminui**.\n\n**b)** O fechamento dos estômatos é induzido pelo **ácido abscísico** (ABA). O comportamento X (fechamento temporário perto do meio do dia) ocorre nas horas de **temperatura alta, luz intensa, ar seco e/ou vento**, quando a perda de água por transpiração supera a absorção pelas raízes e a planta entra em déficit hídrico; fechar os estômatos evita a desidratação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O pepsinogênio é produzido pelo **estômago** (células principais das glândulas gástricas). O ácido produzido no estômago é o **ácido clorídrico (HCl)**.\n\n**b)** No tubo 2 havia ácido: o meio ácido **converte o pepsinogênio (inativo) em pepsina** e mantém o pH ótimo dessa enzima (cerca de 2). A pepsina hidrolisou as proteínas da carne, que foi digerida. No tubo 3, o **bicarbonato neutralizou o ácido** e elevou o pH; sem meio ácido, o pepsinogênio não foi ativado em pepsina (e a pepsina não atua em pH próximo do neutro), por isso a carne não foi digerida.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** É a etapa **1**, a replicação (duplicação) do DNA: um erro nela produz uma mutação que passa às células-filhas e, se ocorrer em células da linhagem germinativa, chega aos gametas e à descendência. A estrutura citoplasmática que participa da síntese de proteínas é o **ribossomo**.\n\n**b)** Porque o **código genético é degenerado** (redundante): vários códons diferentes codificam o mesmo aminoácido. Uma mutação que troca um códon por outro sinônimo (por exemplo, GAA por GAG, ambos ácido glutâmico) não altera a sequência de aminoácidos (mutação silenciosa). O processo que permite obter proteínas diferentes a partir do mesmo transcrito é o **splicing alternativo** (processamento alternativo do RNA), que combina de modos diferentes os éxons do pré-RNA mensageiro.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Na figura, os alelos P e A estão em cromossomos homólogos diferentes (P a em um, p A no outro). Um gameta com A e P só se forma pela **permutação (crossing-over)** entre esses homólogos, na prófase I da meiose. Os cromossomos X e Y se separam na **anáfase I** da meiose.\n\n**b)** A segunda lei de Mendel vale para genes em cromossomos diferentes, que segregam de forma independente: por exemplo, **A e B** (ou P e B).\n\nGametas parentais: Pa e pA; recombinantes: PA e pa.\n\nFrequência de recombinação = 26% → parentais = 100% – 26% = 74%\n\nCada parental: 74% ÷ 2 = **37% de gametas Ap**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** É um animal **transgênico** (organismo geneticamente modificado que recebeu gene de outra espécie). As enzimas de restrição **cortam o DNA em sequências específicas de nucleotídeos**, o que permite isolar o gene de interesse e abrir o DNA do vetor ou do receptor no ponto onde o gene será inserido.\n\n**b)** Nas aves, o macho é **ZZ** e a fêmea é **ZW**; os filhotes machos recebem da mãe o cromossomo Z, e as fêmeas recebem o W. O gene deve ser inserido no **cromossomo Z** da galinha.\n\nFilhote macho: ZᶠZ (Zᶠ veio da mãe). Fêmea sem o gene: ZW.\n\nGametas do macho: Zᶠ (1/2) e Z (1/2) — todo descendente que recebe Zᶠ expressa a proteína.\n\nProbabilidade = **1/2 (50%)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** No CaO o cálcio tem carga **+2** (Ca²⁺), e o oxigênio, –2. O CaO é um **óxido básico**: reage com água formando base (CaO + H₂O → Ca(OH)₂), o que explica o pH 14 medido.\n\n**b)** A massa perdida no aquecimento é a do CO₂ liberado:\n\nm(CO₂) = 125 g – 81 g = 44 g → n = 44 ÷ 44 = 1 mol\n\nPela equação, 1 mol de CaCO₃ forma 1 mol de CO₂:\n\nm(CaCO₃) = 1 mol × 100 g/mol = **100 g**\n\nTeor = 100 g ÷ 125 g × 100% = **80% de CaCO₃**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Fórmula estrutural do metano: um carbono central ligado a quatro hidrogênios por ligações simples (H–C–H na horizontal e um H acima e um abaixo do C), com geometria tetraédrica (ângulos de cerca de 109,5°). As ligações C–H são **covalentes** e de **baixa polaridade** (praticamente apolares, pois a diferença de eletronegatividade entre C e H é pequena); a molécula, simétrica, é apolar.\n\n**b)** Massa máxima: m = 50 mg/m³ × 2 560 m³ = 128 000 mg = **128 g**\n\nVolume do líquido: V = m ÷ d = 128 g ÷ 1,6 g/mL = **80 mL**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** A substância simples da equação 1 é o Cℓ₂; o cloro pertence ao **grupo 17 (halogênios)**. No modelo de Lewis, os dois átomos de cloro compartilham **um par de elétrons** (ligação covalente simples), e cada um fica com três pares não ligantes: :C̈ℓ–C̈ℓ: (8 elétrons de valência em torno de cada átomo).\n\n**b)** Entalpias de formação: CH₄ = –75 kJ/mol; CCℓ₄ = –96 kJ/mol; HCℓ = –92,3 kJ/mol; Cℓ₂ = 0.\n\nΔH° = [ΔH(CCℓ₄) + 4 · ΔH(HCℓ)] – [ΔH(CH₄) + 4 · ΔH(Cℓ₂)]\n\nΔH° = [–96 + 4 · (–92,3)] – [–75 + 0]\n\nΔH° = –465,2 + 75 = **–390,2 kJ** (por mol de CH₄)\n\nComo ΔH < 0, a reação é **exotérmica**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Mn²⁺ e OH⁻ formam o **Mn(OH)₂** (hidróxido de manganês(II)), que pertence à função **base** (hidróxido).\n\n**b)** O MnO₂ tem o maior potencial de redução e sofre redução (polo positivo); o zinco sofre oxidação (polo negativo), com a semirreação invertida:\n\nÂnodo: Zn + 4 OH⁻ → Zn(OH)₄²⁻ + 2 e⁻\n\nCátodo: MnO₂ + 4 H⁺ + 2 e⁻ → Mn²⁺ + 2 H₂O\n\nGlobal: **Zn(s) + 4 OH⁻(aq) + MnO₂(s) + 4 H⁺(aq) → Zn(OH)₄²⁻(aq) + Mn²⁺(aq) + 2 H₂O(ℓ)**\n\nddp = E°(redução, cátodo) – E°(redução, ânodo) = +1,23 – (–1,21) = **2,44 V**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Nêutrons do ouro-197: n = A – Z = 197 – 79 = **118 nêutrons**\n\nO átomo neutro de ouro tem 79 elétrons; o íon Au³⁺ perdeu 3: 79 – 3 = **76 elétrons**\n\n**b)** Na equação 1 o número atômico não muda (79 → 79) e o de massa aumenta 1 (197 → 198); logo, a partícula **a** tem A = 1 e Z = 0: é o **nêutron** (¹₀n).\n\nNa equação 2: massa 198 = A + 0 → A = 198; carga 79 = Z – 1 → Z = 80. O elemento de Z = 80 é o mercúrio: **¹⁹⁸₈₀Hg**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Fórmula molecular do ácido ferúlico: **C₁₀H₁₀O₄** (6 C do anel + 1 C do OCH₃ + 2 C da dupla + 1 C da carboxila; 3 H no anel, 3 no OCH₃, 1 no OH fenólico, 2 na dupla e 1 na carboxila).\n\nIsômero cis: a mesma estrutura, mas com os dois átomos de H da dupla ligação C=C marcada **do mesmo lado** — e, portanto, o anel aromático e o grupo –COOH também do mesmo lado da dupla.\n\n**b)** O composto 2 é um éster etílico formado com eliminação de água (esterificação): o composto 1 é o **etanol**, CH₃–CH₂–OH. A função destacada (–COO– ligado a cadeia carbônica) é o **éster**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** A criança está em repouso (equilíbrio), então a **resultante das forças é nula: 0 N**. Na plataforma horizontal, só atuam o peso e a força da plataforma; para se equilibrarem, a força da plataforma (normal) vale **400 N**, vertical e para cima.\n\n**b)** Massa: m = P ÷ g = 400 ÷ 10 = 40 kg\n\nNa rampa: m · a = P · sen θ – μ · P · cos θ\n\n40 × 4,0 = 400 × 0,6 – μ × 400 × 0,8\n\n160 = 240 – 320 μ\n\n**μ = 0,25**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Sem perdas de energia mecânica e tomando a superfície da água (posição final do centro de massa) como referência, toda a energia potencial inicial vira energia cinética:\n\nEₚ = E_c = **5 500 J**\n\nEₚ = m · g · H → 5 500 = 55 × 10 × H\n\n**H = 10 m**\n\n**b)** Empuxo: E = d · V · g = 1 000 × 5,3 × 10⁻² × 10 = **530 N**\n\nPelo teorema da energia cinética, o trabalho da resultante é igual à variação da energia cinética:\n\nτ = E_c,final – E_c,inicial = 0 – 5 500 = –5 500 J\n\nMódulo do trabalho: **5 500 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** ΔV = V₀ · γ · Δθ\n\n0,60 = 500,00 × γ × (100 – 20)\n\nγ = 0,60 ÷ 40 000 = **1,5 × 10⁻⁵ °C⁻¹**\n\nα = γ ÷ 3 = **5,0 × 10⁻⁶ °C⁻¹**\n\n**b)** Volume interno do recipiente a 100 °C: 500,00 + 0,60 = 500,60 cm³\n\nVolume da glicerina a 100 °C: 500,60 – 1,40 = 499,20 cm³\n\nDilatação da glicerina: ΔV = 499,20 – 480,00 = **19,20 cm³**\n\nγ(glicerina) = 19,20 ÷ (480,00 × 80) = **5,0 × 10⁻⁴ °C⁻¹**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** T_A = 57 + 273 = 330 K\n\nP_A · V_A ÷ T_A = P_C · V_C ÷ T_C\n\n(3,0 × 10⁴ × 1,0 × 10⁻³) ÷ 330 = (1,0 × 10⁴ × 4,0 × 10⁻³) ÷ T_C\n\n30 ÷ 330 = 40 ÷ T_C\n\n**T_C = 440 K**\n\n**b)** O ciclo é percorrido no sentido horário, e o trabalho é a área interna (um trapézio de bases verticais 2,0 × 10⁴ Pa em V = 1,0 × 10⁻³ m³ e 1,0 × 10⁴ Pa em V = 4,0 × 10⁻³ m³, e altura 3,0 × 10⁻³ m):\n\nτ = (2,0 × 10⁴ + 1,0 × 10⁴) ÷ 2 × 3,0 × 10⁻³ = **45 J** por ciclo\n\nPotência: 80 ciclos por minuto → P = 80 × 45 J ÷ 60 s = **60 W**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A normal ao vidro (vertical) é horizontal. O raio incidente forma 30° com a horizontal, então o ângulo de incidência é 30°; pela lei da reflexão, o refletido também forma 30° com a normal. Com a parede, ele forma β = 90° – 30° = **60°**.\n\nComo os ângulos de incidência e reflexão são iguais e a lâmpada está na mesma vertical que a cabeça, o raio desce a mesma altura na ida e na volta: o ponto de reflexão fica no meio, entre a lâmpada (1,20 + 1,40 = 2,60 m) e a cabeça (1,20 m):\n\naltura do ponto de reflexão = 1,20 + 1,40 ÷ 2 = 1,90 m\n\nPara que a reflexão ocorra no vidro, a base do vidro deve estar no máximo nessa altura: **h = 1,90 m**.\n\n**b)** Lei de Snell na entrada: n_ar · sen 30° = n_vidro · sen r\n\n1,0 × 0,50 = 1,4 × sen r → sen r = 0,50 ÷ 1,4\n\nDentro do vidro, o raio percorre a = 4,2 mm formando o ângulo r com a normal (horizontal); X é o deslocamento vertical correspondente:\n\nX = a · sen r = 4,2 × 0,50 ÷ 1,4 = **1,5 mm**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** O campo é inversamente proporcional à distância; N está ao dobro da distância de M:\n\nB_N = B_M ÷ 2 = 6,0 × 10⁻⁶ ÷ 2 = **3,0 × 10⁻⁶ T**\n\nDireção: **perpendicular ao plano da folha**. Sentido: pela regra da mão direita (polegar no sentido da corrente, para cima), o campo sai da folha à esquerda do fio (em M) e **entra na folha** à direita (em N).\n\n**b)** F = B · i · L = 4,0 × 10⁻² × 0,200 × 1,0 × 10⁻² = **8,0 × 10⁻⁵ N**\n\nCom a corrente para cima e o campo entrando na folha, a regra da mão esquerda (ou F = i L × B) dá uma força **no plano da folha, perpendicular ao fio, apontando para a esquerda** (para o lado de M): o vetor deve ser desenhado horizontal, saindo do fio e apontando para a esquerda.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

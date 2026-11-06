@@ -1,0 +1,47 @@
+{
+ "indice": "data/questoes/famema/2025_prova-i-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O metal é o cálcio (Ca, Z = 20; configuração 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²), que tem **2 elétrons** na camada de valência.\n\nAo perder esses dois elétrons, forma o cátion **Ca²⁺**.\n\n**b)** Decomposição térmica: CaCO₃(s) → CaO(s) + CO₂(g)\n\nMassa de CaCO₃ puro: 0,80 × 600 kg = 480 kg\nMassas molares: CaCO₃ = 100 g/mol; CaO = 56 g/mol\nProporção 1:1 → 100 kg de CaCO₃ produzem 56 kg de CaO\nm(CaO) = 480 × 56 ÷ 100 = **268,8 kg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A **solução 1** é condutora, pois o cloreto de magnésio se dissocia em íons livres (Mg²⁺ e Cℓ⁻) na água; etilenoglicol e propilenoglicol são compostos moleculares que não se ionizam.\n\nNo MgCℓ₂ a ligação é **iônica** (metal com ametal).\n\n**b)** O efeito coligativo depende do número de partículas de soluto dispersas:\nSolução 1: MgCℓ₂ → Mg²⁺ + 2 Cℓ⁻ → 3 × 0,1 = 0,3 mol/L de partículas\nSolução 2: 0,1 mol/L de partículas\nSolução 3: 0,2 mol/L de partículas\n\nQuanto menos partículas, menor o abaixamento do ponto de congelação: a **solução 2** tem a maior temperatura de congelação.\n\nNo gráfico de pressão de vapor × temperatura, quanto mais partículas, menor a pressão de vapor a uma mesma temperatura. A curva de **maior pressão de vapor** (mais próxima do solvente puro) corresponde à **solução 2**, a intermediária à **solução 3** e a de **menor pressão de vapor** à **solução 1**.",
+   "confianca": "media",
+   "pendencia": "O gráfico a completar fica no campo de resposta e não aparece no recorte; a ordem das curvas (2 > 3 > 1 em pressão de vapor) está certa, mas confira em qual círculo vai cada número."
+  },
+  "0:3": {
+   "resposta": "**a)** [Aℓ³⁺] = 5,4 × 10⁻⁵ g/L ÷ 27 g/mol\n[Aℓ³⁺] = **2 × 10⁻⁶ mol/L**\n\nCom pH = 6,0 (menor que 7, considerando 25 °C), a solução é **ácida**.\n\n**b)** O AℓPO₄ é sólido e não entra na expressão:\nKc = [H⁺] ÷ ([Aℓ³⁺] · [HPO₄²⁻])\n\nAo adicionar NaOH, os íons OH⁻ neutralizam os íons H⁺ (H⁺ + OH⁻ → H₂O), diminuindo sua concentração. Pelo princípio de Le Chatelier, o equilíbrio se desloca no **sentido direto** (para a direita), favorecendo a precipitação dos íons fosfato.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A glicerina (propano-1,2,3-triol) pertence à função **álcool** (é um triálcool).\n\nFórmula molecular: **C₃H₈O₃**\n\n**b)** ΔH = ΣHf(produtos) − ΣHf(reagentes); Hf(H₂) = 0\n+350 = 3 × (−110) + 4 × 0 − Hf(glicerina)\nHf(glicerina) = −330 − 350 = **−680 kJ/mol**\n\nConsumo de 35 kJ: 1 mol de glicerina absorve 350 kJ\nn(glicerina) = 35 ÷ 350 = 0,1 mol\nn(H₂) = 4 × 0,1 = 0,4 mol\nV = n · R · T ÷ P = 0,4 × 0,08 × 300 ÷ 1\nV = **9,6 L** de H₂",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A espécie produtora é a **D**, na base da pirâmide (pirâmide de números: poucos produtores de grande porte, como uma árvore, sustentam muitos consumidores).\n\nA espécie exclusivamente herbívora é a **C**, consumidora primária, que se alimenta diretamente do produtor.\n\n**b)** A produtividade líquida é menor no **último nível trófico**, o dos consumidores terciários (espécie A, 4º nível), que recebe a menor quantidade de energia.\n\nA energia transferida diminui porque, em cada nível, grande parte da energia assimilada é gasta na respiração celular e dissipada como calor nas atividades vitais; além disso, parte da matéria orgânica não é consumida nem assimilada (fezes, restos, partes não ingeridas) e vai para os decompositores. Assim, só uma pequena fração (cerca de 10%) passa para o nível seguinte.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A organela é a **mitocôndria**, responsável pela respiração celular aeróbia e pela produção de ATP.\n\nOutra classe de vertebrados ectotérmicos: **anfíbios** (os peixes também são aceitos, já que o excerto atribui a endotermia apenas a aves e mamíferos).\n\n**b)** Na circulação completa (coração com quatro cavidades e separação total entre os lados direito e esquerdo), o sangue arterial não se mistura ao venoso. Assim, os tecidos recebem sangue mais oxigenado, o que permite **alta taxa metabólica** (respiração celular intensa) e a produção constante de calor que mantém a temperatura corporal.\n\nNo cladograma, os **mamíferos** saem do ramo mais antigo (separam-se primeiro), e **répteis e aves** ficam reunidos em um ramo mais recente, com ancestral comum exclusivo — as aves são mais aparentadas aos répteis (em especial aos crocodilianos) do que aos mamíferos.",
+   "confianca": "media",
+   "pendencia": "O cladograma a completar fica no campo de resposta e não aparece no recorte; a relação descrita (mamíferos à parte; répteis e aves como grupos-irmãos) é a esperada, mas confira em que posição vai cada grupo."
+  },
+  "0:7": {
+   "resposta": "**a)** Os **leucócitos** (glóbulos brancos) são as células sanguíneas responsáveis pela defesa do corpo.\n\nNo paciente recuperado houve **imunização ativa** (natural): o próprio organismo, em contato com o vírus, produziu os anticorpos e células de memória.\n\n**b)** Os anticorpos do soro (imunização passiva) ligam-se de forma específica aos antígenos do vírus, principalmente à proteína da espícula (S), que o SARS-CoV-2 usa para se ligar aos receptores (ACE2) das células do sistema respiratório. Ao se ligarem, os anticorpos **neutralizam** o vírus: bloqueiam a ligação ao receptor e a entrada na célula. Além disso, aglutinam as partículas virais e as marcam para a destruição por fagócitos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** 1,80 m corresponde a 4 alelos aditivos: genótipo **AABB**.\n\nA planta aabb não tem alelos aditivos: altura de **1,00 m**.\n\n**b)** A planta de 1,20 m tem um alelo aditivo: Aabb (ou aaBb; o resultado é o mesmo).\nCruzamento AaBb × Aabb:\nGametas de AaBb: AB, Ab, aB, ab (1/4 cada) → 2, 1, 1 e 0 alelos aditivos\nGametas de Aabb: Ab, ab (1/2 cada) → 1 e 0 alelos aditivos\nPlanta de 1,60 m = 3 alelos aditivos: só com AB (1/4) + Ab (1/2)\nP = 1/4 × 1/2 = **1/8**\n\nProporção fenotípica:\n0 alelo (1,00 m): 1/4 × 1/2 = 1/8\n1 alelo (1,20 m): 1/4 × 1/2 + 1/2 × 1/2 = 3/8\n2 alelos (1,40 m): 1/2 × 1/2 + 1/4 × 1/2 = 3/8\n3 alelos (1,60 m): 1/8\nProporção: **1 (1,00 m) : 3 (1,20 m) : 3 (1,40 m) : 1 (1,60 m)**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

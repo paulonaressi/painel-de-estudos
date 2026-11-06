@@ -1,0 +1,32 @@
+{
+ "indice": "data/questoes/ficsae/2025_prova-ii-discursiva-caderno-de-questoes-e-respostas.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A principal excreta nitrogenada das aves é o **ácido úrico**, pouco tóxico e pouco solúvel, eliminado com pouca água.\n\nO fósforo é fundamental porque faz parte do **ATP** (adenosina trifosfato): a energia liberada na respiração celular é armazenada nas ligações entre os grupos fosfato e liberada quando o ATP se converte em ADP + fosfato, fornecendo energia às atividades celulares.\n\n**b)** As excretas (guano) depositadas no solo são decompostas por bactérias e fungos, que as mineralizam em sais como nitratos, amônio e fosfatos. Esses **íons minerais são absorvidos pelas raízes das plantas**, os produtores terrestres, e incorporados em proteínas, ácidos nucleicos e ATP.\n\nAs aves não obtêm toda a energia dos alimentos porque parte deles **não é digerida nem absorvida e é eliminada nas fezes**, e parte da energia absorvida **se perde como calor** na respiração celular e no metabolismo, especialmente por serem animais endotérmicos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O alceno é o 2-metilbut-2-eno; sua oxidação energética produz propanona (composto 1) e ácido etanoico (composto 2). A 25 °C e 1 atm (298 K), o composto 1 está no estado **líquido**, pois 298 K fica entre o ponto de fusão (178 K) e o de ebulição (329 K).\n\nO grupo funcional do composto 2 (–COOH) é a carboxila: função **ácido carboxílico**.\n\n**b)** Composto 1, propanona: **H₃C–CO–CH₃**, com o carbono central ligado por dupla ligação a um oxigênio (C=O) e a dois grupos CH₃. Sua redução dá o propan-2-ol (composto 3), o que confirma a cetona.\n\nA reação entre o ácido etanoico (composto 2) e o propan-2-ol (composto 3) é uma esterificação:\n\nCH₃COOH + CH₃CH(OH)CH₃ → CH₃COOCH(CH₃)₂ + H₂O\n\nO produto orgânico, etanoato de isopropila, tem fórmula molecular **C₅H₁₀O₂**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O período do pêndulo, com L = 64 m:\n\nT = 2,04 · √64 = 2,04 × 8 = 16,32 s\n\nDe A (extremo da oscilação, partindo do repouso) até B (ponto mais baixo) a pessoa percorre um quarto da oscilação:\n\nΔt = T ÷ 4 = 16,32 ÷ 4 = **4,08 s**\n\n**b)** No ponto B, a resultante (tração − peso) é a força centrípeta:\n\nT − m · g = m · v² ÷ L\n\n840 − 60 × 10 = 60 · v² ÷ 64\n\n240 = 60 · v² ÷ 64 → v² = 256 → v = 16 m/s\n\nConservação da energia mecânica entre A e B:\n\nm · g · h = m · v² ÷ 2 → h = v² ÷ (2g)\n\nh = 256 ÷ 20 = **12,8 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A soma dos números do dado incomum é −4 − 3 − 2 − 1 + 0 + 1 = −9. Como há 3 pares de faces opostas com a mesma soma, cada par soma −9 ÷ 3 = −3. Os pares opostos são obrigatoriamente: (1, −4), (0, −3) e (−1, −2).\n\nNa planificação (comparando com o dado comum mostrado: 1 oposto a 6, 5 oposto a 2, 3 oposto a 4), a face duas casas à direita do 1 é a oposta a ele, e recebe obrigatoriamente o **−4**. Restam quatro faces, formando dois pares de opostas: a da esquerda do 1 com a da direita do 1, e a de cima com a de baixo.\n\nEscolher qual par, (0, −3) ou (−1, −2), vai para as faces laterais: 2 maneiras. Ordem dos números em cada par: 2 × 2.\n\nTotal = 2 × 2 × 2 = **8 maneiras**\n\n**b)** Há 6 × 6 = 36 resultados equiprováveis. Para cada face x do incomum, conta-se o número de faces y do comum (1 a 6) com x + y > 0:\n\nx = 1: 6; x = 0: 6; x = −1: 5; x = −2: 4; x = −3: 3; x = −4: 2\n\nTotal favorável = 26\n\nP = 26 ÷ 36 = **13/18**",
+   "confianca": "media",
+   "pendencia": "Se a pergunta for entendida como contar dados diferentes a menos de rotação (com o 1 fixo), a resposta seria 2; a leitura mais natural, de preenchimentos da planificação, dá 8."
+  },
+  "0:5": {
+   "resposta": "**a)** A missão chinesa mais recente teve como objetivo **pousar no lado oculto (lado afastado) da Lua para coletar amostras**.\n\nO objetivo mais imediato dos Estados Unidos é **enviar quatro astronautas em voo ao redor da Lua em 2025**, antes de pousar pessoas na superfície no fim de 2026, o que não ocorre desde a Apollo, em 1972.\n\n**b)** Os Acordos Artemis são importantes para os EUA porque são uma forma de **pressionar o programa espacial chinês** — criticado por agir em segredo e como braço militar —, liderando uma coalizão internacional crescente em torno de regras de conduta no espaço.\n\nUm compromisso dos signatários: **compartilhar as descobertas científicas** (também: informar onde operam na superfície lunar e o que estão fazendo, e submeter-se às normas de conduta aceitas).",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

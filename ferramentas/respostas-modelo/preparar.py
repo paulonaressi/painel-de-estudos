@@ -88,7 +88,10 @@ def main():
                 apoio = [r for a in indice.get('apoios', []) if a.get('parte', 0) == parte and a['de'] <= q['n'] <= a['ate']
                          for r in a['recortes']]
                 chave = f"{local['indice']}#{parte}:{q['n']}"
-                nome = re.sub(r'[^a-z0-9]+', '-', f"{Path(local['indice']).stem}-{parte}-{q['n']}".lower()) + '.png'
+                # o nome leva a pasta da instituição: famema/2025_prova-i-discursiva e fmj/2025_prova-i-discursiva
+                # têm o mesmo nome de arquivo (na 1ª rodada, uma imagem sobrescreveu a outra)
+                relativo = Path(local['indice']).relative_to('data/questoes').with_suffix('')
+                nome = re.sub(r'[^a-z0-9]+', '-', f"{relativo.as_posix()}-{parte}-{q['n']}".lower()) + '.png'
                 renderizar(doc, apoio + q['recortes'], destino / 'imagens' / nome)
                 itens.append({
                     'chave': chave,

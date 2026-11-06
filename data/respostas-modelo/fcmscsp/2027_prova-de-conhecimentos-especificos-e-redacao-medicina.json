@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2027_prova-de-conhecimentos-especificos-e-redacao-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Porque os fungos são **heterótrofos**: não fazem fotossíntese nem quimiossíntese e, portanto, não produzem matéria orgânica a partir de substâncias inorgânicas. Obtêm alimento absorvendo matéria orgânica (são decompositores ou parasitas), enquanto o primeiro nível trófico é ocupado por produtores. A **plasmogamia** é a fusão dos citoplasmas de duas hifas compatíveis (+ e −), sem a fusão dos núcleos, originando hifas dicarióticas (n + n).\n\n**b)** Em **Z**. Após a fusão dos núcleos (cariogamia) no basídio, o núcleo diploide (2n) sofre **meiose**, na qual ocorre a segregação independente dos homólogos, formando os quatro núcleos haploides que migram para os basidiósporos. O micélio muito ramificado aumenta a **superfície de contato** com o substrato: as hifas penetram no material, liberam enzimas digestivas em uma área ampla e absorvem com mais eficiência os nutrientes resultantes da digestão.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Um polímero orgânico nitrogenado da membrana plasmática é a **proteína** (proteínas de membrana, como canais e transportadores). A liberação excessiva de NOx pode causar **chuva ácida** (os óxidos reagem com a água da atmosfera formando ácido nítrico) e também contribui para o *smog* fotoquímico, com formação de ozônio na baixa atmosfera.\n\n**b)** O excesso de fertilizante não absorvido pelas plantas é levado pela chuva (lixiviação e escoamento) para rios e lagos, enriquecendo a água com nitratos. Isso provoca a proliferação excessiva de algas e cianobactérias, que turvam a água, morrem em grande quantidade e são decompostas por bactérias aeróbias. A condição abiótica que causa a morte dos animais é a **baixa concentração de gás oxigênio dissolvido** na água (hipóxia ou anóxia).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Os pais (que não têm a doença) devem ser **heterozigotos (Aa)**: cada um transmite um alelo recessivo para a criança aa. Numa célula somática em G1 de uma pessoa AA, o gene SMN1 está em **2 moléculas de DNA**, uma em cada cromossomo 5 do par homólogo (antes da duplicação da fase S).\n\n**b)** A unidade funcional contrátil da fibra muscular esquelética é o **sarcômero**. Na terapia gênica, usa-se a técnica do DNA recombinante para inserir uma cópia funcional do gene SMN1 no material genético de um vírus modificado (vetor), do qual se retiraram os genes que causam doença, com o uso de enzimas de restrição e DNA ligase. O vírus infecta as células da medula espinal e entrega o gene, que passa a ser expresso, produzindo a proteína SMN que mantém os neurônios motores.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A lagarta passará pela fase de **pupa (crisálida)**, típica do desenvolvimento holometábolo (metamorfose completa), antes de chegar à fase adulta. A lagarta se alimenta de folhas de plantas cítricas e ocupa o nível de **consumidor primário** (2º nível trófico).\n\n**b)** O mecanismo é a **camuflagem** (cripse): a lagarta se assemelha a um elemento do ambiente que não interessa ao predador, as fezes de pássaros. Pela Teoria Sintética, mutações e recombinação gênica geraram variabilidade na aparência das lagartas. A **seleção natural** exercida pelos predadores eliminou mais as lagartas menos parecidas com fezes, enquanto as mais semelhantes sobreviveram, se reproduziram e transmitiram seus alelos; ao longo das gerações, essa característica se tornou frequente na população.",
+   "confianca": "media",
+   "pendencia": "Alguns livros chamam a semelhança com objetos do ambiente de \"mimetismo\" (ou mimetismo de objeto); a forma mais usual em provas é camuflagem."
+  },
+  "0:5": {
+   "resposta": "**a)** A planta só floresce quando o período de luz é menor que o fotoperíodo crítico, com escuridão longa e contínua; se a noite é interrompida por um *flash* de luz, não floresce. É uma **planta de dia curto** (de noite longa), e a floração é mais provável no **outono/inverno**, estações de dias curtos e noites longas.\n\n**b)** O pigmento é o **fitocromo**. O período de escuridão é determinante porque a planta mede, na verdade, a duração da noite: durante o escuro contínuo, o fitocromo ativo (Pfr) se converte lentamente na forma inativa (Pr), e só uma noite longa reduz o Pfr o bastante para induzir a floração. Um *flash* de luz reconverte o Pr em Pfr e \"zera\" a contagem, impedindo a floração mesmo com pouco tempo de luz.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O O₂ passa pelo endotélio dos capilares e pelo epitélio alveolar por **difusão simples**, a favor do gradiente de concentração (pressão parcial). O muco da traqueia é movimentado pelos **cílios** das células do epitélio ciliado que reveste as vias respiratórias.\n\n**b)** Os rins podem eliminar íons **H⁺** (hidrogênio), secretados na urina, além de reabsorver bicarbonato. No enfisema, a menor área de troca gasosa dificulta a eliminação do CO₂, que se acumula no sangue. O CO₂ reage com a água formando ácido carbônico (CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻), o que aumenta a concentração de H⁺ e baixa o pH: é a acidose respiratória.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O fenótipo dominante é **olhos vermelhos**. O padrão de herança é a **herança ligada ao sexo** (gene no cromossomo X, sem correspondente no Y): por isso os machos, com um único X, manifestam o alelo recessivo com mais frequência, como no F2 de Morgan.\n\n**b)** Fêmea de olhos brancos (XʷXʷ) × macho de olhos vermelhos (Xᵂ Y): todos os filhos machos recebem o X da mãe, Xʷ, e têm **olhos brancos**.\n\nFêmea portadora (Xᵂ Xʷ) × macho de olhos vermelhos (Xᵂ Y): os descendentes são Xᵂ Xᵂ, Xᵂ Xʷ, Xᵂ Y e Xʷ Y, cada um com 1/4. A probabilidade de um descendente macho de olhos brancos é **1/4 (25%)** (entre os machos, metade tem olhos brancos).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Cada RNAm tem 15 bases, ou seja, 5 códons, e cada códon codifica um aminoácido: cada enzima tem **5 aminoácidos**. Os RNAm são traduzidos nos **ribossomos, no citoplasma** (livres no citosol ou aderidos ao retículo endoplasmático rugoso).\n\n**b)** Transcrevendo o DNA (A→U, T→A, C→G, G→C): Lorena dá exatamente o RNAm da insulina e Felipe, o da calcitonina. O de Natália dá UCC UUA UGG CUG UUU, que difere do RNAm da vasopressina (UCC UUA UGG CCG UUU) em uma base. **Natália** tem uma mutação no gene da enzima da vasopressina (ADH) e, portanto, **diabetes insípido**. Um sintoma é a **poliúria** (eliminação de grande volume de urina diluída), acompanhada de sede intensa.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Fórmula molecular do ácido lático: **C₃H₆O₃**. A cadeia carbônica é **saturada**, pois só há ligações simples entre os átomos de carbono (a dupla C=O é entre carbono e oxigênio).\n\n**b)** Na emissão beta, o número atômico aumenta 1 e o de massa não muda (a gama não altera nenhum dos dois):\n\n¹⁶⁶₆₇Ho → ⁰₋₁β + ⁰₀γ + ¹⁶⁶₆₈Er\n\nRadioisótopo formado: **¹⁶⁶₆₈Er** (érbio-166).\n\nMeia-vida: pelo gráfico, a atividade cai de 1 000 MBq para 500 MBq em cerca de 27 dias (e para 250 MBq em cerca de 54 dias), logo **t½ ≈ 27 dias**.",
+   "confianca": "media",
+   "pendencia": "A meia-vida foi lida no gráfico (cruzamento com 500 MBq), que tem pouca precisão; valores em torno de 26 a 28 dias são equivalentes."
+  },
+  "0:10": {
+   "resposta": "**a)** O cátion da base é o Na⁺, do sódio, que pertence ao **grupo 1** (metais alcalinos). Cada H⁺ neutralizado forma uma molécula de água (H⁺ + OH⁻ → H₂O), então:\n\nn(H₂O) = n(H⁺) = **1,0 × 10⁻² mol**\n\n**b)** Concentração de H⁺ na amostra de 10 mL (0,010 L):\n\n[H⁺] = 1,0 × 10⁻² ÷ 0,010 = 1,0 mol/L\n\npH = −log 1,0 = **0**\n\nCada H₂SO₄ libera 2 H⁺ na ionização total:\n\nn(H₂SO₄) = 1,0 × 10⁻² ÷ 2 = 5,0 × 10⁻³ mol\n\n[H₂SO₄] = 5,0 × 10⁻³ ÷ 0,010 = **0,50 mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** A diferença de eletronegatividade é 3,0 − 2,2 = 0,8: a ligação N–H é **covalente polar**. Fórmula de Lewis da hidrazina: os dois nitrogênios estão unidos por um par compartilhado, cada um compartilha um par com dois hidrogênios e tem um par de elétrons não ligante:\n\nH₂N–NH₂, ou seja, H:N̈:N̈:H com um H ligado a cada N (cada N com 3 pares ligantes e 1 par isolado)\n\n**b)** Equação balanceada:\n\nN₂H₄ + 2 H₂O₂ → N₂ + 4 H₂O\n\nO nitrogênio passa de −2 para 0 (oxida) e o oxigênio, de −1 para −2 (reduz). A espécie oxidante é o **H₂O₂**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O grupo nitrogenado do composto 1 (–CO–NH–) pertence à função **amida**. A cadeia lateral mais longa, formada só por carbono e hidrogênio (cadeia de hidrocarboneto), é **apolar**.\n\n**b)** O composto 2 apresenta isomeria geométrica na dupla C=C e está representado como isômero **trans (E)**: os grupos maiores (metila e anel aromático) ficam em lados opostos da dupla.\n\nNo composto 3, a hidroxila ligada ao carbono central (terciário) não se oxida; o grupo CH₂OH (álcool primário) se oxida a ácido carboxílico, o que dá caráter ácido à solução:\n\nHOOC–C(OH)(CH₃)–CH₂–NH–CH₃",
+   "confianca": "media",
+   "pendencia": "A interpretação de que o produto esperado é o ácido carboxílico (oxidação completa do álcool primário) é a mais provável; outras representações equivalentes da mesma estrutura também valem."
+  },
+  "0:13": {
+   "resposta": "**a)** Em repouso sobre a tábua, a mola não está deformada, logo não exerce força. Atuam no bloco:\n\nPeso, vertical para baixo: P = m · g = 0,2 · 10 = **2 N**\n\nForça normal da tábua, vertical para cima: N = P = **2 N**\n\n(Na figura: o bloco com uma seta para baixo, P, e uma seta para cima, N, de mesmo tamanho; força elástica nula.)\n\n**b)** A velocidade máxima ocorre na posição de equilíbrio da oscilação, onde k · x = m · g:\n\nx = 2 ÷ 5 = 0,4 m\n\nConservação de energia entre a posição inicial (repouso, mola sem deformação) e a de equilíbrio:\n\nm · g · x = k · x² ÷ 2 + m · v² ÷ 2\n\n2 · 0,4 = 5 · 0,4² ÷ 2 + 0,2 · v² ÷ 2\n\n0,8 = 0,4 + 0,1 · v² → v² = 4\n\nv = **2 m/s**",
+   "confianca": "media",
+   "pendencia": "O item a pede uma figura no campo de resposta; aqui ela está descrita em texto (peso e normal de 2 N; força elástica nula)."
+  },
+  "0:14": {
+   "resposta": "**a)** Calor absorvido por cada um em 80 s:\n\nQ = P · Δt = 600 · 80 = 48 000 J\n\nBloco: ΔT = Q ÷ (m · c) = 48 000 ÷ (0,8 · 800) = 75 °C\n\nÁgua: ΔT = 48 000 ÷ (1 · 4 000) = 12 °C\n\nComo partiram da mesma temperatura, a diferença entre as temperaturas finais é 75 − 12 = **63 °C**.\n\n**b)** Calor necessário para a fusão completa:\n\nQ = m · L = 0,8 · 450 000 = 360 000 J\n\nΔt = Q ÷ P = 360 000 ÷ 600 = **600 s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Em t = 2 s o pulso andou 20 cm/s · 2 s = 40 cm para a direita: ocupa agora de x = 50 cm a x = 70 cm, com o ponto mais alto (crista) em x = 60 cm, ainda antes da parede. Na figura, desenha-se a mesma crista deslocada para essa posição.\n\nComo o pulso se move para a direita, os pontos da frente da crista estão subindo e os de trás estão descendo:\n\nx = 55 cm (atrás da crista): velocidade para baixo (**↓**)\n\nx = 65 cm (à frente da crista): velocidade para cima (**↑**)\n\n**b)** Em t = 4,5 s o pulso teria andado 90 cm. A frente do pulso chegou à parede (x = 90 cm) em 3 s e a parte de trás, em 4 s; portanto, em 4,5 s o pulso já foi todo refletido. Na extremidade fixa a reflexão ocorre com **inversão de fase**: o pulso volta como um vale, propagando-se para a esquerda, e em 0,5 s após a reflexão completa ocupa de x = 60 cm a x = 80 cm, com o ponto mais baixo em x = 70 cm.\n\nTêm velocidade vertical nula o ponto mais baixo do vale, **x = 70 cm** (ponto de inversão do movimento), e os pontos das extremidades do pulso, **x = 60 cm e x = 80 cm**, que nesse instante estão na posição de repouso da corda.",
+   "confianca": "media",
+   "pendencia": "Os itens pedem figuras no campo de resposta, aqui descritas em texto. No item b, a inclusão das extremidades do pulso (60 cm e 80 cm) depende do critério da banca; o ponto de 70 cm é a resposta central."
+  },
+  "0:16": {
+   "resposta": "**a)** Na figura 1, o amperímetro está em série com o resistor e o voltímetro está ligado aos terminais do gerador, que, com fios ideais, são os mesmos pontos dos terminais do resistor.\n\ni = ε ÷ (R + r) = 12 ÷ (46 + 2) = 12 ÷ 48 = **0,25 A** (indicação do amperímetro)\n\nU = R · i = 46 · 0,25 = **11,5 V** (indicação do voltímetro; equivale a ε − r · i = 12 − 0,5)\n\n**b)** Na figura 2, o voltímetro ideal (resistência infinita) está em série no circuito, de modo que **não passa corrente**. O amperímetro, ligado em paralelo com o resistor, também indica **0 A**. Sem corrente, não há queda de tensão na resistência interna nem no resistor, e o voltímetro indica a própria força eletromotriz: **12 V**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Porque o pedido \"manda foto do agora\" trata \"o agora\" como se fosse uma coisa que pudesse ser fotografada. Em vez de pedir uma foto do momento (de como a pessoa está agora), o pedido se refere ao próprio conceito de presente, do instante, tema clássico de reflexão filosófica (o que é o \"agora\", que deixa de existir assim que é captado?). A cantada comum ganha, assim, um ar de questão filosófica.\n\n**b)** O fenômeno decisivo é a **derivação imprópria** (substantivação): o advérbio \"agora\", precedido do artigo (na contração \"do\"), passa a funcionar como substantivo. Isso gera **ambiguidade** entre o sentido corriqueiro do pedido (\"foto de agora\", tirada neste momento) e o sentido abstrato (\"foto do agora\", do tempo presente), e é desse duplo sentido que nasce o humor. Outras respostas que destaquem a ambiguidade gerada pela substantivação também valem.",
+   "confianca": "media",
+   "pendencia": "Questão de interpretação: respostas que expliquem o duplo sentido de \"o agora\" com outras palavras também valem."
+  },
+  "0:18": {
+   "resposta": "**a)** O adjetivo **\"verdes\"**, em \"tempos verdes da infância\". Não se refere à cor, mas significa \"da juventude, imaturos, iniciais\", por analogia com o fruto ainda verde, que não amadureceu. (Também se aceitaria \"lavado\", em \"lavado de vaidade\", no sentido de \"livre, isento\".)\n\n**b)** Trecho: \"Pois foi Ponciano arrotar vantagem\" (ou \"levou Ponciano a sítio seguro\"). O narrador é o próprio Ponciano, que deveria falar de si na 1ª pessoa (\"eu\"), mas se refere a si mesmo pelo nome, na **3ª pessoa**, como se falasse de outro. O recurso reforça a vaidade e o tom de bravata do coronel, que se trata como personagem de destaque da própria história.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** \"Piquei a navegação\" significa que Ponciano **esporeou o cavalo** (a \"navegação\" é o seu meio de transporte, o \"cavalinho de lombo educado\") para fugir em disparada. Diante da onça, desprevenido e sem apoio, o coronel não a enfrentou: picou o animal com as esporas para escapar, embora narre o episódio com linguagem pomposa que disfarça a fuga.\n\n**b)** É personificado o **tremedal** (o pântano, a lama), que \"dava cabo dos meus dias\" e é descrito como \"lama sugadora\" de \"tamanha ganância\". Ganância é um sentimento humano; atribuí-la à lama, assim como a ação de matar o narrador, dá ao pântano características de um ser que deseja e age, o que configura a personificação (prosopopeia).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Duas características comuns à prosa de Guimarães Rosa: o **regionalismo**, com a ambientação no interior rural (coronel, terras, gado, onça, pântano) e o universo do sertão; e a **linguagem inventiva e oralizada**, com expressões populares e regionais, construções incomuns e criação vocabular (\"pedação de onça\", \"gente desbriada\", \"arrotar vantagem\"). Também se pode citar o narrador em 1ª pessoa que conta suas aventuras como um \"causo\", à maneira de Riobaldo. Outras características bem justificadas também valem.\n\n**b)** O pronome demonstrativo é **\"disso\"** (de + isso), em \"Mas disso não faço glória\". Ele retoma todo o período anterior, iniciado por \"Digo, modéstia de lado\", em que o narrador se gaba de já ter discutido no Foro e vencido (\"joguei no assoalho\") mais de um doutor formado: é desse feito que ele diz não se vangloriar.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

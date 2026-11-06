@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/famerp/2025_2-dia-prova-de-conhecimentos-especificos-e-redacao.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A relação é de **mutualismo**: as bactérias vivem na pele dos anfíbios, onde encontram abrigo e nutrientes, e os protegem da intoxicação por arsênio; ambas as espécies se beneficiam. (Se a associação não for considerada obrigatória, a classificação como protocooperação, também harmônica, é aceitável.) A pele dos anfíbios é **fina, úmida, muito vascularizada e permeável**, pois participa da respiração cutânea; por isso absorve com facilidade as substâncias dissolvidas na água, incluindo poluentes.\n\n**b)** O arsênio não é degradado nem eliminado com facilidade e se acumula nos tecidos; por isso sua concentração **aumenta a cada nível trófico** (magnificação trófica ou biomagnificação), sendo maior nos consumidores do topo da cadeia. Um composto carcinogênico é aquele capaz de **provocar câncer**, por exemplo causando mutações no DNA que levam à proliferação descontrolada das células.",
+   "confianca": "media",
+   "pendencia": "A relação também pode ser aceita como protocooperação, desde que justificada como benefício mútuo."
+  },
+  "0:2": {
+   "resposta": "**a)** As células somáticas se dividem por **mitose**. A DNA polimerase atua na fase **S** (síntese) da interfase, quando o DNA é duplicado.\n\n**b)** Os microfilamentos de actina, junto com a miosina, formam o **anel contrátil** que estrangula o citoplasma na **citocinese**, separando as duas células-filhas no final da divisão. Uma célula que fica permanentemente em G0 **sai do ciclo celular e deixa de se dividir**: continua viva e metabolicamente ativa, exercendo sua função (em geral já diferenciada, como neurônios e fibras musculares), mas não se replica.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Vermes cilíndricos pertencem ao filo **Nematoda** (nematódeos, nematelmintos). A reidratação ocorreu por **osmose**, transporte passivo da água através da membrana (em parte por aquaporinas), do meio menos concentrado (externo) para o mais concentrado (interior das células desidratadas).\n\n**b)** A glicose é convertida em ácido pirúvico na **glicólise**, que ocorre no citosol. Em temperaturas próximas de zero, a velocidade de ação das **enzimas** dos decompositores **diminui muito**: as moléculas têm menos energia cinética e colidem menos com os substratos. Por isso a decomposição fica muito lenta, o que ajuda a conservar organismos no permafrost.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O equívoco é chamar de **\"hormônio glicogênio\"** o que é o **glucagon**: o glicogênio é um polissacarídeo de reserva, não um hormônio; o hormônio pancreático que eleva a glicemia é o glucagon. A insulina **reduz a glicemia**: facilita a entrada de glicose nas células (sobretudo musculares e adiposas) e estimula o fígado e os músculos a armazená-la como glicogênio.\n\n**b)** O colesterol é sintetizado principalmente no **fígado**. As gônadas precisam de muito colesterol porque ele é o precursor dos **hormônios sexuais esteroides** — testosterona nos testículos, estrógeno e progesterona nos ovários —, produzidos continuamente por elas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** X é o **óvulo** (rudimento seminal), dentro do ovário da flor. Y é a **semente**, que se desenvolve a partir do óvulo fecundado.\n\n**b)** Tomates partenocárpicos (sem sementes) podem ser obtidos pela **aplicação de hormônios vegetais, como auxinas (ou giberelinas), no ovário de flores não polinizadas**, que se desenvolve em fruto sem fecundação. O endosperma é **triploide (3n)**: forma-se pela fusão de um núcleo espermático (n, paterno) com os **dois núcleos polares** (n + n, maternos) do saco embrionário. Assim, 2/3 do seu material genético são de origem materna.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A unidade funcional do rim é o **néfron**. A urina normal tem poucas proteínas porque elas são **moléculas grandes que não atravessam a barreira de filtração do glomérulo** (cápsula de Bowman); ficam no sangue e quase não chegam ao filtrado.\n\n**b)** Quando a pessoa bebe pouco líquido, a concentração do sangue aumenta, e a hipófise (neuro-hipófise) libera o **hormônio antidiurético (ADH, vasopressina)**. Ele aumenta a permeabilidade à água do túbulo contorcido distal e do ducto coletor (inserção de aquaporinas), elevando a **reabsorção de água** e reduzindo o volume de urina, que fica mais concentrada. O ATP é essencial porque muitas substâncias são reabsorvidas ou secretadas por **transporte ativo** (bomba de sódio e potássio, reabsorção de glicose, aminoácidos e íons), contra o gradiente de concentração, o que consome energia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** É **herança quantitativa** (poligênica, com efeito aditivo dos alelos), o que explica a variação contínua com distribuição em forma de sino. A planta de 1 400 g é AABBEE e produz gametas **ABE**.\n\n**b)** Para gerar toda a faixa de massas (de 200 g a 1 400 g) com a distribuição do gráfico, as duas plantas são triplo-heterozigotas: **AaBbEe × AaBbEe**.\n\nCada alelo aditivo acrescenta: (1 400 – 200) ÷ 6 = 200 g\n\nA classe mais frequente tem 3 alelos aditivos (20/64 dos descendentes):\n\nmassa = 200 + 3 × 200 = **800 g**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O corpúsculo de Barr é um **cromossomo X inativado e condensado** (heterocromatina), visível no núcleo de células de fêmeas de mamíferos; o número de corpúsculos é igual ao número de cromossomos X menos um. A mulher 46, XX tem um corpúsculo: **imagem 2** (a 1 é do homem, sem corpúsculo; a 3, com dois, é da mulher 47, XXX).\n\n**b)** A trissomia resulta de uma **não disjunção** na meiose de um dos genitores: na **anáfase I** (não separação dos cromossomos X homólogos) ou na **anáfase II** (não separação das cromátides-irmãs do X). A trissomia XXX envolve um **cromossomo sexual (alossomo)**; a síndrome de Down é uma trissomia de um **autossomo**, o cromossomo 21.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Na transformação 1, o óxido de ítrio reage com um ácido (HCℓ) formando sal (YCℓ₃) e água: é um **óxido básico**. A transformação 2, YCℓ₃(s) → YCℓ₃(g), é a passagem direta do sólido ao gás: **sublimação**.\n\n**b)** Equação desejada: YCℓ₃(g) → Y(s) + 3/2 Cℓ₂(g)\n\n2 invertida e ÷ 2: YCℓ₃(g) → YCℓ₃(s) ΔH = –112 kJ\n\n1 invertida e ÷ 2: YCℓ₃(s) + 3/2 H₂O(ℓ) → 1/2 Y₂O₃(s) + 3 HCℓ(g) ΔH = –48 kJ\n\n3 invertida e ÷ 2: 1/2 Y₂O₃(s) → Y(s) + 3/4 O₂(g) ΔH = +932 kJ\n\n4 ÷ 2: 3/2 H₂(g) + 3/4 O₂(g) → 3/2 H₂O(ℓ) ΔH = –429 kJ\n\n5 ÷ 2: 3 HCℓ(g) → 3/2 H₂(g) + 3/2 Cℓ₂(g) ΔH = +276 kJ\n\nSomando, cancelam-se YCℓ₃(s), H₂O, Y₂O₃, HCℓ, O₂ e H₂:\n\nΔH = –112 – 48 + 932 – 429 + 276 = **+619 kJ por mol de Y(s)** (reação endotérmica)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** O ítrio tem Z = 39; o cátion Y³⁺ perdeu 3 elétrons: 39 – 3 = **36 elétrons**. Cada nitrogênio faz três ligações simples e tem um par de elétrons não ligante: arranjo **piramidal (pirâmide trigonal)** — o arranjo dos pares de elétrons é tetraédrico.\n\n**b)** Emissão β⁻: o número de massa se mantém e o número atômico aumenta 1 (a radiação γ não altera A nem Z):\n\n⁹⁰₃₉Y → ⁰₋₁β + ⁹⁰₄₀X → o produto é o zircônio, **⁹⁰₄₀Zr**\n\nMeia-vida pela tabela: a atividade cai de 400 MBq (21 h) para 200 MBq (85 h):\n\nt½ = 85 – 21 = **64 h**\n\n(Conferência: 500 → 250 → 125 MBq em 2 × 64 = 128 h, como na tabela.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O ânion do eletrólito é o OH⁻ e o metal alcalino do 2º período é o lítio (Li⁺): **LiOH** (hidróxido de lítio). No NiOOH, com O = –2 e H = +1: Ni + 2 × (–2) + 1 = 0 → **Nox do Ni = +3**.\n\n**b)** Na descarga, o ferro se oxida (polo negativo) e o NiOOH se reduz (polo positivo):\n\nÂnodo: Fe(s) + 2 OH⁻(aq) → Fe(OH)₂(s) + 2 e⁻\n\nCátodo: 2 NiOOH(s) + 2 H₂O(ℓ) + 2 e⁻ → 2 Ni(OH)₂(s) + 2 OH⁻(aq)\n\nGlobal: **Fe(s) + 2 NiOOH(s) + 2 H₂O(ℓ) → Fe(OH)₂(s) + 2 Ni(OH)₂(s)**\n\nddp = E°(cátodo) – E°(ânodo) = +0,49 – (–0,88) = **1,37 V**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** **3 NO₂(g) + H₂O(ℓ) → 2 HNO₃(aq) + NO(g)**\n\n(É uma reação de desproporcionamento: o nitrogênio passa de +4 para +5 no HNO₃ e para +2 no NO.)\n\n**b)** V = 0,050 mL = 5,0 × 10⁻⁵ L\n\n[HNO₃] = 5 × 10⁻⁸ mol ÷ 5,0 × 10⁻⁵ L = **1 × 10⁻³ mol/L**\n\nComo o HNO₃ é ácido forte, totalmente ionizado: [H⁺] = 10⁻³ mol/L\n\n**pH = 3**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** No dímero, os dois oxigênios se ligam entre si: **Cℓ–O–O–Cℓ** (ligações simples, cada O ligado a um Cℓ e ao outro O).\n\nKc = [(CℓO)₂] ÷ [CℓO]²\n\n**b)** O Kc diminui quando a temperatura aumenta (5,00 × 10⁷ a –25 °C; 6,02 × 10⁴ a 303 °C), logo a dimerização é **exotérmica**. O aquecimento **desloca o equilíbrio no sentido dos monômeros** (endotérmico): aumenta a concentração de CℓO e diminui a do dímero.\n\nA adição de um gás inerte a volume constante aumenta a pressão total, mas **não altera as concentrações nem as pressões parciais** de CℓO e (CℓO)₂; o quociente continua igual a Kc e o equilíbrio não se desloca. Portanto, **nenhum dos componentes tem a concentração aumentada**. (Só um aumento de pressão por redução do volume favoreceria o dímero, lado com menos mols de gás.)",
+   "confianca": "media",
+   "pendencia": "A pergunta sugere que um componente aumenta; pela teoria, gás inerte a volume constante não desloca o equilíbrio. Se a banca pensou em aumento de pressão por compressão, a resposta esperada seria o dímero."
+  },
+  "0:14": {
+   "resposta": "**a)** O composto 2 é o ácido etanoico (2 C) e o composto 3 é a butanona (4 C); juntos somam os 6 carbonos do alceno, que tem a dupla entre o C que vira o COOH e o C que vira a carbonila da cetona: CH₃–CH=C(CH₃)–CH₂–CH₃ (3-metilpent-2-eno). Fórmula molecular: **C₆H₁₂**. A butanona (composto 3) é uma molécula **polar**, pela ligação C=O polar e pela geometria assimétrica.\n\n**b)** A redução da butanona produz o butan-2-ol, CH₃–CH(OH)–CH₂–CH₃, de fórmula C₄H₁₀O:\n\nM = 4 × 12 + 10 × 1 + 16 = **74 g/mol**\n\nA reação entre um álcool e o composto 2 (ácido carboxílico) é a esterificação, cujo produto pertence à função **éster** (além de água).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** v = v₀ + a · t = 0 + 1,5 × 40 = **60 m/s**\n\nF = m · a = 60 000 × 1,5 = **9,0 × 10⁴ N**\n\n**b)** Distância percorrida até decolar:\n\nd = a · t² ÷ 2 = 1,5 × 40² ÷ 2 = 1 200 m\n\nDistância até o fim da pista: 1 600 – 1 200 = **400 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** No ponto mais alto a velocidade da bola é nula; após o golpe, v = 40 m/s:\n\nQ = m · v = 0,060 × 40 = **2,4 kg · m/s**\n\nPelo teorema do impulso: I = ΔQ = 2,4 – 0 = **2,4 N · s**\n\n**b)** Sem resistência do ar, a energia potencial inicial vira cinética:\n\nE_c = m · g · h = 0,060 × 10 × 2,5 = **1,5 J**\n\nPara cumprir a especificação, a bola deve subir pelo menos 1,3 m depois da colisão:\n\nE mínima após a colisão = 0,060 × 10 × 1,3 = 0,78 J\n\nPerda máxima = 1,5 – 0,78 = **0,72 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Q = m · c · Δθ = 400 × 1 × (60 – 20) = 16 000 cal\n\nTaxa = 16 000 cal ÷ 8 min = **2 000 cal/min**\n\n**b)** Como no equilíbrio ainda havia gelo junto com água líquida, ao nível do mar (1 atm), o sistema só pode estar na temperatura de fusão do gelo: **0 °C**.\n\nCalor cedido pela água ao esfriar de 60 °C a 0 °C:\n\nQ = 400 × 1 × 60 = 24 000 cal\n\nEsse calor foi todo usado para fundir gelo (calorímetro ideal):\n\nm = 24 000 ÷ 80 = **300 g de gelo fundido**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Aumento linear: A = –p' ÷ p = –60 ÷ 30 = –2\n\ni = A · o = –2 × 5,0 = –10 cm → altura da imagem: **10 cm**\n\nA imagem é **real** (foi projetada na parede, ou seja, formada pelo encontro efetivo dos raios de luz), **invertida** (A < 0) e **maior** que o objeto (o dobro).\n\n**b)** 1/f = 1/p + 1/p' = 1/30 + 1/60 = 3/60\n\n**f = 20 cm**\n\nV = 1/f = 1 ÷ 0,20 m = **5 di**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Na figura há três ventres (três fusos) entre as extremidades fixas. Cada fuso corresponde a meio comprimento de onda:\n\nL = 3 · (λ/2) = 3 · (60/2) = 90 cm\n\nVelocidade de propagação:\n\nv = λ · f = 0,60 m · 900 Hz = 540 m/s\n\n**b)** Tubo fechado em uma extremidade: o menor comprimento corresponde ao modo fundamental, com um nó na extremidade fechada e um ventre na aberta, ou seja, L = λ/4:\n\nL = 60/4 = 15 cm\n\nTubo aberto nas duas extremidades: no modo fundamental há ventres nas duas pontas, L = λ/2:\n\nL = 60/2 = 30 cm",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A carga que atravessa a seção em 32 s é:\n\nQ = i · Δt = 0,020 · 32 = 0,64 C\n\nNúmero de elétrons:\n\nn = Q ÷ e = 0,64 ÷ (1,6 × 10⁻¹⁹) = 4,0 × 10¹⁸ elétrons\n\n**b)** Resistência do fio (1ª lei de Ohm):\n\nR = U ÷ i = 2,2 × 10⁻⁵ ÷ 0,020 = 1,1 × 10⁻³ Ω\n\nPela 2ª lei de Ohm, R = ρ · L ÷ A, com A = 0,20 cm² e ρ = 5,5 × 10⁻⁶ Ω·cm:\n\nL = R · A ÷ ρ = (1,1 × 10⁻³ · 0,20) ÷ (5,5 × 10⁻⁶)\n\nL = 2,2 × 10⁻⁴ ÷ 5,5 × 10⁻⁶ = 40 cm",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

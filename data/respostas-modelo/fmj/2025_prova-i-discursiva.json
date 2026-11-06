@@ -1,0 +1,47 @@
+{
+ "indice": "data/questoes/fmj/2025_prova-i-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O KI foi adicionado no instante **t₁**, a partir do qual a produção de O₂ deixa de ser lenta e passa a crescer rapidamente: o catalisador diminui a energia de ativação e aumenta a velocidade da decomposição.\n\nEquação: 2 H₂O₂ (aq) → 2 H₂O (ℓ) + O₂ (g)\n\n**b)** Oxidação do iodeto: 2 I⁻ → I₂ + 2 e⁻\n\nPela equação dada, 2 KI reagem com ½ O₂, ou seja, 4 mol de I⁻ por 1 mol de O₂.\n\nn(I⁻) = 4 × 0,05 = 0,2 mol\n\nCada I⁻ fornece 1 elétron: n(e⁻) = 0,2 mol\n\nNúmero de elétrons = 0,2 × 6 × 10²³ = **1,2 × 10²³ elétrons**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Após a faísca, todo o O₂ (0,5 mol) reage com 1 mol de H₂, formando 1 mol de H₂O líquida. A figura deve mostrar dentro do recipiente **H₂ (g)** em excesso (1 mol), **He (g)** inalterado (2,5 mol) e **H₂O (ℓ)** depositada no fundo, sem O₂.\n\nA reação é **exotérmica** (ΔH < 0): o calor liberado aquece o sistema. Como, a volume constante, a pressão do gás é proporcional à temperatura (P = nRT/V), medir logo após a reação daria um valor maior que o real nas condições iniciais (e parte da água poderia estar vaporizada). Por isso se espera o sistema voltar a 300 K.\n\n**b)** Pela estequiometria, 0,5 mol de O₂ forma 1 mol de H₂O.\n\nm(H₂O) = 1 mol × 18 g/mol = **18 g**\n\nGases restantes: H₂ = 2 − 1 = 1 mol; He = 2,5 mol; total n = 3,5 mol\n\nX = nRT/V = 3,5 × 0,08 × 300 ÷ 10\n\nX = **8,4 atm**\n\n(Confere com a pressão inicial: 5 mol × 0,08 × 300 ÷ 10 = 12 atm.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O cátion com menor alteração é o **Na⁺** (concentrações praticamente iguais em A e B) e o ânion com maior aumento é o **HCO₃⁻** (de cerca de 2,5 para 17 mmol/L). O sal é o bicarbonato de sódio, **NaHCO₃**.\n\nPrótons: Na (11) + H (1) + C (6) + 3 × O (8) = 11 + 1 + 6 + 24 = **42 prótons**\n\n**b)** Fórmula de Lewis do acetileno: H : C ⋮⋮ C : H, isto é, H–C≡C–H, com três pares compartilhados entre os carbonos e um par entre cada C e H (os carbonos ficam com octeto completo).\n\nA base produzida é o Ca(OH)₂, que se dissocia: Ca(OH)₂ → Ca²⁺ + 2 OH⁻\n\n[Ca(OH)₂] = 0,005 mol/L → [OH⁻] = 2 × 0,005 = 0,01 mol/L = 10⁻² mol/L\n\npOH = 2\n\npH = 14 − 2 = **12**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O terpinen-4-ol pertence à função **álcool** (hidroxila ligada a carbono saturado). Para convertê-lo em γ-terpineno é preciso eliminar uma molécula de água, formando uma nova ligação dupla no anel: é a **desidratação intramolecular** do álcool (reação de eliminação, em meio ácido e com aquecimento).\n\n**b)** Massa de óleo: m = d · V = 0,9 g/mL × 300 mL = 270 g\n\nMassa mínima de terpinen-4-ol: 30% × 270 g = **81 g**\n\nEm 1 L (1 000 mL) de óleo: 0,9 × 1 000 = 900 g de óleo\n\nTerpinen-4-ol: 0,30 × 900 = 270 g\n\nn = 270 ÷ 154 ≈ 1,75 mol\n\nConcentração ≈ **1,75 mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A molécula Y é o **ATP**, formado a partir de ADP + Pᵢ (fosforilação em nível de substrato; em células animais, o ciclo forma GTP, que é convertido em ATP). Na descarboxilação é liberado **gás carbônico (CO₂)**.\n\n**b)** A molécula X é o **FADH₂**, forma reduzida do FAD. Na terceira etapa da respiração (cadeia respiratória ou fosforilação oxidativa), o NADH e o FADH₂ são os **transportadores de elétrons e hidrogênios**: eles os entregam à cadeia transportadora na membrana interna da mitocôndria. A passagem dos elétrons pela cadeia bombeia prótons para o espaço intermembranas, e o gradiente gerado aciona a ATP-sintase, produzindo a maior parte do ATP; no fim, os elétrons são recebidos pelo O₂, formando água. Sem esses transportadores, a cadeia respiratória não funciona.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** As plantas de F1 têm genótipo **AaBb** (vermelhas, com dois alelos dominantes). Como os genes não são ligados (segregação independente), uma planta F1 produz **4 tipos de gametas**: AB, Ab, aB e ab, com 25% cada.\n\n**b)** Do cruzamento AaBb × AaBb, o gráfico de barras deve ter no eixo x os fenótipos e no eixo y as proporções: púrpura (4 dominantes) 1/16; vermelho-escuro (3) 4/16; vermelho (2) 6/16; vermelho-claro (1) 4/16; branco (0) 1/16. As barras formam uma distribuição simétrica, com o máximo no vermelho.\n\nVermelho-escuro (3 alelos dominantes, ex.: AABb) × vermelho-claro (1 alelo dominante, ex.: Aabb): o filho recebe 2 alelos dominantes do primeiro genitor ou 1 (½ cada) e 1 alelo dominante do segundo ou 0 (½ cada). Resultado: 3 dominantes (1/4), 2 dominantes (1/2) e 1 dominante (1/4). O fenótipo mais frequente é o **vermelho**, com 50% (o resultado é o mesmo para as outras combinações de genótipos possíveis).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** A aranha (aracnídeo) tem **8 pernas** (4 pares), enquanto a formiga (inseto) tem **6 pernas** (3 pares).\n\n**b)** A alfa-latrotoxina provoca a liberação maciça e descontrolada de neurotransmissores nas terminações nervosas, entre eles a **acetilcolina**, que é o neurotransmissor das junções neuromusculares. O excesso de acetilcolina na fenda sináptica estimula continuamente os receptores das fibras musculares, que se despolarizam repetidamente e se contraem sem relaxar. Essas contrações involuntárias e sustentadas são os espasmos musculares.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** É uma relação de **amensalismo** (antibiose ou alelopatia): a *Centaurea* libera substâncias tóxicas que inibem o crescimento das plantas nativas, sem que ela própria seja prejudicada. É desarmônica porque uma das espécies envolvidas, a nativa, é prejudicada.\n\n**b)** A **seleção natural**: nas regiões da Eurásia, as plantas sensíveis às toxinas foram eliminadas ao longo das gerações, enquanto as variedades tolerantes sobreviveram e se reproduziram. Pela teoria moderna (sintética) da evolução, a capacidade de produzir os compostos tóxicos surgiu ao acaso, por **mutações** (com recombinação gênica ampliando a variabilidade), e não por necessidade da planta. Como esses compostos reduziam a competição com plantas vizinhas, os indivíduos que os produziam deixaram mais descendentes, e a característica foi selecionada e se espalhou no gênero.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

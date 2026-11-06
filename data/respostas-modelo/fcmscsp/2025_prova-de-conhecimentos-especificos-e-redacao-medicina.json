@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/fcmscsp/2025_prova-de-conhecimentos-especificos-e-redacao-medicina.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Aplicado sobre a pele, o mercúrio é **absorvido** e chega à **corrente sanguínea**; como é lipossolúvel (sobretudo nas formas orgânicas), atravessa a **barreira hematoencefálica** e se acumula no tecido nervoso, causando os danos neurológicos. Na gestante, o mercúrio presente no sangue materno **atravessa a placenta** e chega ao feto pelo **cordão umbilical**, atingindo o sistema nervoso em formação.\n\n**b)** A forma mais tóxica é o **metilmercúrio**. Ele é pouco excretado e se acumula nos tecidos (bioacumulação). Como cada nível trófico consome grande quantidade de organismos do nível anterior, o mercúrio ingerido se soma e sua concentração aumenta a cada nível — a **magnificação trófica**. Assim, os predadores do topo da cadeia, como peixes carnívoros e o ser humano, apresentam as maiores quantidades.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O caule pertence a uma **monocotiledônea**: os feixes vasculares estão **espalhados** (dispersos) por todo o corte, e não organizados em anel, como nas eudicotiledôneas. A seta 1 indica o **parênquima** fundamental (de preenchimento), que ocupa o espaço entre os feixes.\n\n**b)** A seta 2 aponta um **elemento de vaso do xilema** (protoxilema), célula morta e lignificada responsável pela **condução da seiva bruta** (água e sais minerais) das raízes às folhas. O anel de Malpighi retira a casca com o floema e mata eudicotiledôneas porque as raízes deixam de receber seiva elaborada. Na monocotiledônea, porém, os **feixes com floema estão distribuídos por todo o caule**, inclusive na região central, e não há casca com floema em anel; o anelamento não interrompe todo o floema, e a seiva elaborada continua chegando às raízes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A figura mostra a **anáfase I da meiose**: cromossomos homólogos, ainda com duas cromátides cada, migram para polos opostos. O distanciamento é promovido pelo **encurtamento das fibras do fuso** (despolimerização dos microtúbulos ligados aos centrômeros), que puxam os cromossomos para os polos.\n\n**b)** A figura mostra uma **não disjunção**: os dois homólogos laranja seguem para o mesmo polo. Esse polo recebe 4 cromossomos (2n = 6, n = 3) e o outro, 2. Ao fim da meiose II, as células originadas do polo com mais cromossomos terão 4 cromossomos de uma cromátide cada, ou seja, **4 moléculas de DNA** no núcleo.\n\nRelação com a trissomia: o gameta com um cromossomo a mais (n + 1), ao ser fecundado por um gameta normal (n), forma um zigoto **2n + 1**, com três cópias daquele cromossomo — um organismo trissômico, como na síndrome de Down.",
+   "confianca": "media",
+   "pendencia": "A leitura de que os dois cromossomos laranja vão para o mesmo polo (não disjunção) vem da figura; se ela não for aceita, o número de moléculas de DNA seria 3."
+  },
+  "0:4": {
+   "resposta": "**a)** A parte da mandioca usada na alimentação é a **raiz** (raiz tuberosa, de reserva). O principal polissacarídeo presente nela é o **amido**.\n\n**b)** O citocromo C oxidase é a última enzima da cadeia respiratória, na membrana interna da mitocôndria, e transfere os elétrons ao **oxigênio**, o aceptor final. Ligado a ela, o cianeto **bloqueia o fluxo de elétrons**: a cadeia respiratória para, cessa o bombeamento de prótons e a **fosforilação oxidativa deixa de produzir ATP**. A célula passa a depender apenas da glicólise (fermentação), que rende muito pouco ATP; sem energia suficiente para manter suas funções (transporte ativo, síntese, contração), ela morre — sobretudo as células com alta demanda energética, como neurônios e células cardíacas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O bíceps é formado por **tecido muscular estriado esquelético**. O aumento do volume com exercícios regulares é a **hipertrofia**: as fibras musculares já existentes ficam mais grossas porque sintetizam mais **proteínas contráteis** (actina e miosina), formando mais miofibrilas; o número de fibras praticamente não aumenta.\n\n**b)** Deveriam predominar as **fibras de contração rápida** (tipo II, brancas, glicolíticas), adequadas a esforços intensos e curtos como o levantamento de peso. Em 1 a 2 minutos de esforço intenso, o **glicogênio** armazenado é quebrado em glicose (glicogenólise), que passa pela **glicólise**; como o oxigênio não chega em quantidade suficiente, o piruvato é convertido em **ácido lático** (fermentação lática), o que gera ATP rapidamente, embora em pequena quantidade por glicose.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O material é o **sangue** do paciente, examinado ao microscópio (gota espessa ou esfregaço) para identificar o plasmódio nas hemácias. Sem o vetor, a malária pode ser transmitida por **transfusão de sangue** contaminado (também por compartilhamento de seringas e agulhas, transplantes ou da mãe para o feto pela placenta).\n\n**b)** O ser humano é hospedeiro intermediário porque nele o *Plasmodium* se reproduz apenas **assexuadamente** (esquizogonia no fígado e nas hemácias); a **reprodução sexuada**, com fecundação dos gametas, ocorre no mosquito *Anopheles*, o hospedeiro definitivo. A febre é cíclica porque os parasitas se multiplicam **sincronizadamente** nas hemácias e as rompem ao mesmo tempo, a cada 48 ou 72 horas, conforme a espécie; a liberação dos merozoítos e de substâncias tóxicas no sangue provoca os picos de febre.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O rato duplo-homozigótico dominante é **MMBB** e produz um único tipo de gameta: **MB**. Um roedor marrom precisa ser mm e ter ao menos um alelo B: **mmBB** ou **mmBb** (qualquer um dos dois vale).\n\n**b)** A interação é a **epistasia recessiva**: o genótipo bb (gene epistático) impede a manifestação do gene M/m (hipostático), e o animal é branco qualquer que seja o alelo M ou m. O alelo b é expresso, mas produz uma **proteína (enzima) não funcional**, incapaz de promover a deposição dos pigmentos nos pelos. Em bb não há nenhuma proteína funcional; os pigmentos vermelho ou marrom não se depositam, e a pelagem fica branca.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** A drosófila pertence ao filo **Arthropoda** (artrópodes, classe dos insetos). O anfioxo é mais próximo do camundongo porque ambos são **cordados**: compartilham notocorda, tubo nervoso dorsal, fendas faringianas e cauda pós-anal em alguma fase da vida, características herdadas de um **ancestral comum mais recente**, como mostra o cladograma. Isso também se reflete na maior semelhança dos genes *Hox* entre eles.\n\n**b)** É a **notocorda**, que no anfioxo permanece por toda a vida e, no camundongo, é substituída pela coluna vertebral durante o desenvolvimento embrionário. A taxa de recombinação entre genes ligados é **proporcional à distância** entre eles no cromossomo: quanto mais afastados, maior a chance de ocorrer *crossing-over* entre eles. Como *Hox3* e *Hox14* estão bem mais distantes entre si do que *Hox3* e *Hox8*, a recombinação entre os primeiros é mais frequente.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A mistura dentro da cuia é **heterogênea**, com pelo menos **duas fases** (bifásica): a erva sólida, que não se dissolve, e a infusão líquida. A bomba tem um filtro na extremidade inferior que retém as folhas e deixa passar o líquido: o processo é a **filtração**.\n\n**b)** A substância 1 (salicilato de metila) é um éster formado pela esterificação de um ácido carboxílico com um álcool:\n\n**Ácido salicílico** (ácido 2-hidroxibenzoico): anel benzênico com um grupo –COOH e um grupo –OH em carbonos vizinhos (posição orto), ou seja, HO–C₆H₄–COOH.\n\n**Metanol**: H₃C–OH.\n\nÁcido salicílico + metanol → salicilato de metila + H₂O",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A substância 3 é formada apenas por carbono e hidrogênio: pertence à função **hidrocarboneto** (aromático). Sua molécula é **apolar**, pois as ligações C–H e C–C têm diferença de eletronegatividade desprezível.\n\n**b)** Contando os átomos da substância 2: 6 C do anel, 3 C dos grupos metila do anel e 4 C da cadeia lateral (CH=CH–CO–CH₃), além de 20 H e 1 O. Fórmula molecular: **C₁₃H₂₀O**.\n\nCombustão completa, com os menores inteiros:\n\n**2 C₁₃H₂₀O + 35 O₂ → 26 CO₂ + 20 H₂O**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Fórmula estrutural da hidrazina: H₂N–NH₂, isto é, dois átomos de nitrogênio unidos por ligação simples, cada um ligado a dois hidrogênios e com um par de elétrons não ligante:\n\nH–N(–H)–N(–H)–H\n\nOs hidrogênios fazem **ligações covalentes** (simples, polares) com o nitrogênio.\n\n**b)** Somando as três equações (NaClO e NH₂Cl se cancelam, e um NaOH também):\n\n**2 NaOH + Cl₂ + 2 NH₃ → N₂H₄ + 2 NaCl + 2 H₂O**\n\nMassa molar da hidrazina: 2 × 14 + 4 × 1 = 32 g/mol\n\nn(N₂H₄) = 640 000 g ÷ 32 g/mol = 20 000 mol\n\nProporção Cl₂ : N₂H₄ = 1 : 1\n\nn(Cl₂) = **2,0 × 10⁴ mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O composto 3 (triptamina) tem o grupo amina, de **caráter básico**: em água, deixa o meio com pH > 7, e o azul de bromotimol fica **azul**. O composto com isomeria óptica é o **composto 2** (triptofano), pois tem um **carbono quiral**, ligado a quatro grupos diferentes (H, NH₂, COOH e CH₂ ligado ao anel); o composto 1 (glicina) não tem carbono quiral.\n\n**b)** A reação entre o grupo carboxila de um aminoácido e o grupo amino do outro libera água e forma o grupo funcional da função **amida**. A ligação formada é a **ligação peptídica**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** No ponto mais alto:\n\nEp = m · g · h = 0,010 × 10 × 3 000 = **300 J**\n\nA energia mecânica inicial (toda cinética, no solo) é a energia no topo mais a dissipada:\n\nEc = Ep + E_dissipada = 300 + 1 200 = **1 500 J**\n\n**b)** Calor absorvido pelo projétil:\n\nQ = 0,40 × 1 200 = 480 J\n\nQ = m · c · Δθ\n\n480 = 0,010 × 400 × Δθ → **Δθ = 120 °C**\n\nCapacidade térmica:\n\nC = m · c = 0,010 × 400 = **4 J/°C** (ou C = Q / Δθ = 480 ÷ 120)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** No ponto A: p = 4,0 × 10⁵ Pa e V = 6,0 × 10⁻³ m³. Pela equação de Clapeyron:\n\np · V = n · R · T\n\n4,0 × 10⁵ × 6,0 × 10⁻³ = 8,0 × T\n\n2 400 = 8,0 × T → **T = 300 K**\n\nComo a transformação é isotérmica e a energia interna de um gás ideal depende só da temperatura, **a energia interna permanece constante** (ΔU = 0): todo o calor recebido é convertido em trabalho.\n\n**b)** No ponto B, ainda a 300 K, com V = 10,0 × 10⁻³ m³:\n\np_B = n · R · T / V = 2 400 ÷ 10,0 × 10⁻³ = **2,4 × 10⁵ Pa**\n\nBC é isobárica (p = 2,4 × 10⁵ Pa), com o volume caindo de 10,0 × 10⁻³ m³ para 6,0 × 10⁻³ m³:\n\n|W| = p · |ΔV| = 2,4 × 10⁵ × 4,0 × 10⁻³ = **960 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** No ponto P ocorre **refração**: a luz passa do meio 2 para o meio 1, mudando de velocidade, mas sem desvio, porque incide perpendicularmente à superfície (ângulo de incidência 0°). Pela lei de Snell:\n\nn₂ · sen i = n₁ · sen r\n\nn₂ · sen 0° = n₁ · sen r → 0 = n₁ · sen r → sen r = 0 → r = 0°\n\nA lei prevê ângulo de refração nulo, ou seja, o raio segue sem desvio, exatamente como na figura.\n\n**b)** n₁ = c / v = 3,0 × 10⁵ ÷ 1,5 × 10⁵ = **2,0**\n\nEm Q ocorre **reflexão total**, que exige ângulo de incidência θ maior ou igual ao ângulo limite L, com sen L = n₂ / n₁:\n\nsen θ ≥ n₂ / n₁\n\n0,75 ≥ n₂ / 2,0 → n₂ ≤ 1,5\n\nO maior valor é **n₂ = 1,5**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** A força elétrica deve ser vertical para cima e a carga é positiva, então o campo elétrico tem a mesma orientação da força: **direção do eixo Z, sentido positivo** (para cima).\n\nq · E = P\n\nE = 8,0 × 10⁻⁶ ÷ 2,0 × 10⁻⁸ = **400 N/C**\n\n**b)** A força magnética F = q · v × B deve apontar para +Z, com v no sentido +X. Pela regra da mão direita (no sistema da figura, x̂ × ŷ = ẑ), o campo deve estar na **direção do eixo Y, sentido positivo**, perpendicular à velocidade.\n\nq · v · B = P\n\nB = 8,0 × 10⁻⁶ ÷ (2,0 × 10⁻⁸ × 2,5 × 10³)\n\nB = 8,0 × 10⁻⁶ ÷ 5,0 × 10⁻⁵ = **0,16 T**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** O **primeiro parágrafo**: a beleza de Gertrudes fascinava todo mundo \"e a própria Gertrudes\", isto é, ela mesma se encantava com a própria imagem, traço que corresponde à definição de narcisista; o tema dos espelhos, que não ousavam refletir outra coisa, reforça essa relação com a própria imagem. (Também é defensável apontar o quarto parágrafo, em que ela \"era feliz, sabendo-se incomparável\".)\n\n**b)** Oração concessiva: \"embora Gertrudes houvesse voltado logo para casa\".\n\nReescrita: \"**ainda que** Gertrudes houvesse voltado logo para casa\" (também valem \"mesmo que\" ou \"se bem que\").",
+   "confianca": "media",
+   "pendencia": "O item a admite mais de uma resposta: o primeiro parágrafo é o mais provável, mas o quarto também pode ser aceito se bem justificado."
+  },
+  "0:18": {
+   "resposta": "**a)** O eufemismo está em \"**um dia cerrou os olhos para sempre**\". A expressão suaviza a ideia de que Gertrudes **morreu**, substituindo a palavra direta por uma imagem mais delicada.\n\n**b)** Em \"engarrafamento **monstro**\", o substantivo \"monstro\" passa a funcionar como **adjetivo**, caracterizando o engarrafamento e ganhando o sentido de enorme, descomunal. Há mudança de classe gramatical sem alteração da forma da palavra, o que caracteriza a derivação imprópria.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** O autor opõe as duas esferas: o **trabalho** é visto como algo a que nos sujeitamos, a contragosto, um sacrifício ou necessidade imposta de fora apenas para obter renda; o **consumo**, ao contrário, é tomado como o território da **livre escolha** e da liberdade individual, a recompensa (ou \"suborno\") que compensa a frustração do trabalho.\n\n**b)** Prefixo de negação: \"**imprevisto**\" (im-), ou \"inesperada\" (in-). Prefixo de oposição: \"**contragosto**\" (contra-).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** \"**Suponha, entretanto, um súbito e imprevisto bafejo da fortuna [...]**\". O verbo no **imperativo** (\"Suponha\"), referido a \"você\", dirige-se diretamente ao leitor, convidando-o a imaginar a situação proposta.\n\n**b)** O sujeito de \"possuo\" é **\"eu\"**, oculto (desinencial), indicado pela terminação verbal. O sujeito de \"diz\" é \"**o que possuo**\" (no texto completo, junto com \"o que sonho algum dia ter\").",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -122,6 +122,9 @@ Casos que já deram trabalho e estão tratados (não desfazer sem testar):
   em negrito, com dois dígitos ("01."); só vale no arquivo que não tem nenhuma "Questão N"
   (`MARCA_POR_NUMERO`). Nesses, o nome da disciplina ("FÍSICA") encerra o bloco anterior e a coluna
   direita é medida página a página. Itens da capa ("3. Esta prova…") têm um dígito e ficam de fora.
+- **Texto de apoio acima da tarja** numa prova de uma questão por página (Einstein 2024 q5, Unesp
+  2016/2 q33, Unesp 2017 q32): se o bloco anterior terminou na caixa de resposta de outra página, o
+  topo da página passa a ser da questão.
 - Marca-d'água "RASCUNHO" girada, marcador partido em dois pedaços ("questão" + "01"), marcador
   duplicado, "QUESTÃ" sem o O, instrução quebrada por hífen, redação sem título em texto.
 - O relatório do script lista `FALTAM [...]` quando a numeração não bate com o catálogo. Os da
@@ -223,7 +226,14 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 - A tela mostra o botão "Ver resposta-modelo" no cartão Resolução; o "visto" fica no registro
   (`modelo: true`) e sincroniza. Sempre com o aviso de IA, sem revisão humana.
 - Primeira rodada: 06/11/2026, 436 discursivas (Unesp 2024–2026/2; Famerp, Famema, Santa Casa,
-  Einstein e FMJ 2024–2027), escolha do dono do projeto, sem leitura prévia de amostra.
+  Einstein e FMJ 2024–2027), escolha do dono do projeto, sem leitura prévia de amostra. 400 "alta",
+  36 "media", nenhuma "baixa". Quem coordenou leu contra a imagem: Unesp 2026/2 q15, Famerp 2025
+  q13, Santa Casa 2026 q7, Einstein 2024 q5 (reescrita) e Famema 2026 q3.
+- Incidente da 1ª rodada: o nome da imagem usava só o nome do arquivo do índice, e
+  famema/2025_prova-i-discursiva colidiu com fmj/2025_… (idem 2026); as 16 da Famema foram
+  respondidas sobre imagens da FMJ e refeitas. O nome agora leva a pasta da instituição.
+- Limites conhecidos: itens que pedem desenho ou completar figura são descritos em texto; FMJ 2024
+  q6 tem o fim do item b cortado no próprio PDF do Objetivo.
 
 ## Estado
 

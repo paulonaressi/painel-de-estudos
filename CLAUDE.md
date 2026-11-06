@@ -14,7 +14,20 @@ continuar no Mac.
   https://paulonaressi.github.io/painel-de-estudos/ — publicado em 06/11/2026 por escolha do dono,
   ciente de que os cadernos (Vunesp, Objetivo, Foco) ficam públicos.
 - Os PDFs de `provas/` são versionados (o site precisa deles); `.nojekyll` na raiz.
-- Cada push em `main` republica em ~1 min; o Pages guarda cache por ~10 min.
+- Cada push em `main` republica em ~1 min; o Pages guarda cache por ~10 min. Por isso os
+  `<script>`/`<link>` do `index.html` levam `?v=N`: **ao mudar qualquer JS/CSS, suba o N em todos**,
+  senão o navegador mistura arquivo novo com antigo (já quebrou a página uma vez).
+
+## Conta e sincronização (`js/sync.js`)
+
+- Supabase, projeto `painel-de-estudos` (ref `jppthizijnsmogdwjpxn`, sa-east-1, plano gratuito),
+  falado por `fetch` direto (Auth + REST), sem biblioteca. A chave no código é a publicável.
+- Tabela `public.registros (user_id, id, dados jsonb, t, atualizado_em)` com RLS por `auth.uid()`;
+  `anon` sem acesso. Gatilho mantém a linha de maior `t` (aparelho offline não sobrescreve).
+- O `localStorage` continua sendo a fonte da tela; `bq:pendentes:v1` guarda o que falta subir,
+  `bq:sessao:v1` a sessão, `bq:sync:v1` o usuário e o último `atualizado_em` baixado.
+- Contas são criadas pelo dono no painel do Supabase (cadastro aberto deve ficar desligado).
+- Sem conta, o site funciona como antes, só sem sincronizar.
 - Projeto fora do iCloud desde 06/11/2026 (`~/Developer/painel-de-estudos`); a pasta antiga no
   iCloud é só backup.
 

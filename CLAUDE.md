@@ -8,6 +8,16 @@ começar assim e depois refinamos"): entregue algo que funcione e diga com clare
 Este arquivo registra o estado em 05/10/2026, quando o projeto saiu de uma sessão no Windows para
 continuar no Mac.
 
+## Publicação
+
+- Repo público `paulonaressi/painel-de-estudos`; site no GitHub Pages (branch `main`, raiz):
+  https://paulonaressi.github.io/painel-de-estudos/ — publicado em 06/11/2026 por escolha do dono,
+  ciente de que os cadernos (Vunesp, Objetivo, Foco) ficam públicos.
+- Os PDFs de `provas/` são versionados (o site precisa deles); `.nojekyll` na raiz.
+- Cada push em `main` republica em ~1 min; o Pages guarda cache por ~10 min.
+- Projeto fora do iCloud desde 06/11/2026 (`~/Developer/painel-de-estudos`); a pasta antiga no
+  iCloud é só backup.
+
 ## Como rodar
 
 ```bash

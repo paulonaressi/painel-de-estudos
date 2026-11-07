@@ -249,7 +249,8 @@ ENEM 2021 (07/11/2026): 184 (138 anulada), todas no gabarito oficial; "media" em
 79. Lidas na imagem (o texto extraído de 2021 é ilegível).
 
 ENEM 2020: 183 (135 e 157 anuladas). ENEM 2019: 185, "media" em 10. ENEM 2018: 184 (163 anulada), "media" em 6. ENEM 2017: 185,
-"media" em 7. Todas no gabarito oficial. Faltam resoluções de 2011–2016. Antes de 2017 a ordem das áreas é Humanas 1–45, Natureza 46–90,
+"media" em 7. ENEM 2016: 185, "media" em 2. Todas no gabarito oficial. Faltam resoluções de
+2011–2015. Antes de 2017 a ordem das áreas é Humanas 1–45, Natureza 46–90,
 Linguagens 91–135 (idiomas 91–95), Matemática 136–180: dê a faixa certa a cada agente.
 
 ## Gabarito das objetivas da Vunesp (`ferramentas/gabaritos-vunesp.py`)
@@ -301,7 +302,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 
 ## Estado
 
-- ENEM: 17 anos (2009–2025); 2011–2025 dos cadernos do INEP (com redação); resoluções em 2017–2025.
+- ENEM: 17 anos (2009–2025); 2011–2025 dos cadernos do INEP (com redação); resoluções em 2016–2025.
 - Vunesp (06/11/2026): 108 edições no catálogo, 194 cadernos com questões extraídas, 4.290 questões
   na tela. Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
   Santa Casa 10 (200), Einstein 10 (145), FMJ 4 (44).

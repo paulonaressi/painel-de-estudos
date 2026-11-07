@@ -156,6 +156,8 @@ def segmentos_em_colunas(p, esq, divisa, dir_):
             inteira = True
         elif sum(1 for ln in na_direita if ln['x0'] <= divisa + 22) >= 2:
             inteira = False  # linhas alinhadas na margem da coluna direita
+        elif not textos and not figuras and any(c.x0 >= divisa - 5 and c.height >= 12 and dentro(c.y0, c.y1) for c in p.caixas):
+            inteira = False  # só uma figura na coluna direita (ENEM 2021, p. 30: o cubo da 175 ao lado da 173)
         else:
             inteira = bool(textos or figuras) or not na_direita
         if faixas and faixas[-1][2] == bool(inteira):
@@ -350,7 +352,8 @@ def achar_inicios(paginas):
                             y = ant['y0']
                         ini = {'tipo': 'apoio', 'de': de, 'ate': ate, 'y': y - 3}
             if ini and ini['tipo'] != 'questao' and p.numero <= 2 and not tem_questao \
-                    and not (ini['tipo'] == 'apoio' and ini['de'] == ini['ate']):
+                    and not (ini['tipo'] == 'apoio' and ini['de'] == ini['ate']) \
+                    and not (ini['tipo'] == 'redacao' and p.numero == 2):  # ENEM até 2016: proposta na p. 2
                 continue  # capa e instruções citam "questões de 01 a 05" sem ser texto de apoio
             if ini and ini['tipo'] == 'questao':
                 if any(o['tipo'] == 'questao' and o['n'] == ini['n'] and o['pag'] == p.numero for o in inicios):
@@ -521,6 +524,18 @@ def ler_gabarito(caminho):
     """{numero: letra | [inglês, espanhol] | None (anulada)} a partir do PDF de gabarito do INEP."""
     tokens = [t.strip() for pag in fitz.open(caminho) for t in pag.get_text().split('\n') if t.strip()]
     gabarito = {}
+    # 2009: uma tabela com as quatro cores lado a lado ("Azul Gab_Azul Amarelo Gab_Amarelo…"); vale a coluna azul
+    cores = [t for t in tokens if t.startswith('Gab_')]
+    if cores:
+        coluna = next(i for i, t in enumerate(cores) if t.lower() == 'gab_azul')
+        vistos = {}
+        for a, b in zip(tokens, tokens[1:]):
+            if re.fullmatch(r'\d{1,3}', a) and re.fullmatch(r'[A-E]|Anulad[oa]', b, re.I):
+                n = int(a)
+                if vistos.get(n, 0) == coluna:
+                    gabarito[n] = b.upper() if len(b) == 1 else None
+                vistos[n] = vistos.get(n, 0) + 1
+        return gabarito
     i = 0
     while i < len(tokens):
         if re.fullmatch(r'\d{1,3}', tokens[i]) and 1 <= int(tokens[i]) <= 180:
@@ -535,8 +550,20 @@ def ler_gabarito(caminho):
     return gabarito
 
 
-def area_enem(numero):
-    return ['linguagens', 'humanas', 'natureza', 'matematica'][(numero - 1) // 45]
+def area_enem(numero, ano):
+    """Área pela posição na prova (a mesma regra de ordemAreas em js/enem.js)."""
+    if ano >= 2017:
+        ordem = ['linguagens', 'humanas', 'natureza', 'matematica']
+    elif ano >= 2010:
+        ordem = ['humanas', 'natureza', 'linguagens', 'matematica']
+    else:
+        ordem = ['natureza', 'humanas', 'linguagens', 'matematica']
+    return ordem[(numero - 1) // 45]
+
+
+def questoes_de_idioma(ano):
+    """Números que existem em inglês e em espanhol: 1–5 de 2017 em diante, 91–95 de 2010 a 2016; 2009 não tem."""
+    return range(1, 6) if ano >= 2017 else range(91, 96) if ano >= 2010 else range(0)
 
 
 def processar_enem():
@@ -551,19 +578,26 @@ def processar_enem():
             for q in dados['questoes']:  # (no ENEM a repetição de 1 a 5 é a versão por idioma, não outra parte)
                 n = q['n']
                 # só as cinco primeiras questões têm versão por idioma
-                idioma = {'inglês': 'ingles', 'ingles': 'ingles', 'espanhol': 'espanhol'}.get(q.get('idioma') or '') if n <= 5 else None
+                idioma = {'inglês': 'ingles', 'ingles': 'ingles', 'espanhol': 'espanhol'}.get(q.get('idioma') or '') if n in questoes_de_idioma(ano) else None
                 resposta = gabarito.get(n)
                 if isinstance(resposta, list):
                     resposta = resposta[0 if idioma != 'espanhol' else 1]
                 apoios = [a for a in dados['apoios'] if a['de'] <= n <= a['ate'] and a.get('parte', 0) == q.get('parte', 0)]
-                questoes.append({'numero': n, 'idioma': idioma, 'area': area_enem(n), 'gabarito': resposta, 'pdf': arquivo,
+                questoes.append({'numero': n, 'idioma': idioma, 'area': area_enem(n, ano), 'gabarito': resposta, 'pdf': arquivo,
                                  'apoio': [r for a in apoios for r in a['recortes']], 'recortes': q['recortes'],
                                  'texto': ' '.join([a['texto'] for a in apoios] + [q['texto']])})
             if dados['redacao'] and not redacao:  # proposta de redação, no caderno do 1º dia
-                redacao = {'pdf': arquivo, 'recortes': dados['redacao']['recortes'], 'texto': dados['redacao']['texto']}
+                # a proposta do ENEM cabe numa página; o que passa dela é o cabeçalho da página seguinte
+                primeira = dados['redacao']['recortes'][0][0]
+                redacao = {'pdf': arquivo, 'recortes': [r for r in dados['redacao']['recortes'] if r[0] == primeira],
+                           'texto': dados['redacao']['texto']}
             if dados['avisos']:
                 print(f"  avisos em {prova.name}: {'; '.join(dados['avisos'])}")
         questoes.sort(key=lambda q: (q['numero'], q['idioma'] or ''))
+        faltam = faltantes({q['numero'] for q in questoes}, range(1, 181))
+        if faltam:  # 2009 e 2010: o extrator não acha todas; esses anos ficam com a API
+            print(f"ENEM {ano}: NÃO gravado, faltam {len(faltam)} questões {faltam[:12]}")
+            continue
         gravar(RAIZ / 'data' / 'enem' / f'{ano}.json', {'ano': ano, 'fonte': 'INEP — cadernos azuis', 'questoes': questoes,
                                                        'redacao': redacao})
 

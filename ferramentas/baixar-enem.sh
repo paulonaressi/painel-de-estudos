@@ -52,6 +52,27 @@ for ano in "${anos[@]}"; do
       rm -f "$destino"
       exit 1
     fi
+    # alguns cadernos vêm com o gabarito marcado em anotações (círculos verdes no 1º dia de 2013): tirar
+    case "$nome" in *_PV_*) python3 - "$destino" <<'PY'
+import sys
+try:
+    import pymupdf as fitz
+except ImportError:
+    import fitz
+doc = fitz.open(sys.argv[1])
+total = 0
+for pag in doc:
+    for a in list(pag.annots() or []):
+        pag.delete_annot(a)
+        total += 1
+if total:
+    doc.save(sys.argv[1] + '.tmp', garbage=3, deflate=True)
+    doc.close()
+    import os
+    os.replace(sys.argv[1] + '.tmp', sys.argv[1])
+    print(f'  {total} anotações removidas')
+PY
+    ;; esac
     echo "baixado    $destino"
   done
 done

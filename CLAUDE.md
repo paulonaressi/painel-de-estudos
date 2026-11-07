@@ -155,9 +155,10 @@ Casos que já deram trabalho e estão tratados (não desfazer sem testar):
   página sem questão com 40%+ das linhas contendo "=", encerra a prova (antes entrava na q25).
 - **Número pendurado na margem** ("01." à esquerda do texto, Unifesp antiga): a coluna esquerda começa
   3 pt antes da mediana dos marcadores.
-- Objetivas da Vunesp (1.563: Unifesp 924, Famema 359, Unesp 180, Einstein 100) não têm gabarito na
-  plataforma; por isso ficaram fora das respostas-modelo. Caminho proposto ao dono: gabaritos
-  (oficiais da Vunesp, só em navegador, ou do Objetivo) + "Conferir resposta" + resoluções. Aguarda aval.
+- **Linha que invade a tarja seguinte** (ENEM 2020: alternativa E da 114 encosta na tarja da 115): o
+  corte fica 0,5 pt acima da tarja.
+- **Faixa sem nada à direita** só vira largura inteira se a página não tiver coluna direita (ENEM 2020
+  p. 30: a continuação da 86 fica no alto da coluna direita; Unifesp 2008 3º dia q19/q20 estavam trocadas).
 - Marca-d'água "RASCUNHO" girada, marcador partido em dois pedaços ("questão" + "01"), marcador
   duplicado, "QUESTÃ" sem o O, instrução quebrada por hífen, redação sem título em texto.
 - O relatório do script lista `FALTAM [...]` quando a numeração não bate com o catálogo. Os da
@@ -247,8 +248,21 @@ ENEM 2022 (07/11/2026): 184 resoluções (157 anulada), todas no gabarito oficia
 ENEM 2021 (07/11/2026): 184 (138 anulada), todas no gabarito oficial; "media" em 6 de Linguagens e na
 79. Lidas na imagem (o texto extraído de 2021 é ilegível).
 
-Faltam resoluções de 2011–2020. Antes de 2017 a ordem das áreas é Humanas 1–45, Natureza 46–90,
+ENEM 2020: 183 (135 e 157 anuladas), todas no gabarito oficial. Faltam resoluções de 2011–2019. Antes de 2017 a ordem das áreas é Humanas 1–45, Natureza 46–90,
 Linguagens 91–135 (idiomas 91–95), Matemática 136–180: dê a faixa certa a cada agente.
+
+## Gabarito das objetivas da Vunesp (`ferramentas/gabaritos-vunesp.py`)
+
+Não há gabarito aberto (o site da Vunesp recusa programas). O script baixa as resoluções comentadas do
+Curso Objetivo (PDF, em `trabalho/gabaritos/`, fora do site), parte em blocos pela letra da resposta e
+casa cada objetiva recortada com o bloco de mais palavras em comum — o número não é usado. Três
+formatos: "Resposta: X" depois da questão (2015+); "3" / "B" antes do enunciado (até 2014); só a letra
+minúscula antes do enunciado (2003–2005). Saída: `data/gabaritos/<caminho do índice>.json`
+("parte:número" → letra) e `indice.json`. A tela mostra "Conferir resposta" com o aviso de que não é
+oficial. 07/11/2026: 1.393 de 1.565 objetivas. Faltam Famema 2016 e 2017 (o Objetivo só tem uma tabela
+de gabarito, a de 2017 em imagem) e partes de Unifesp 2008–2012 (francês, partes). Conferido contra a
+leitura pelo número na Unifesp 2024. Próximo passo combinado: resoluções comentadas dessas objetivas,
+ancoradas nesse gabarito.
 
 ## Respostas-modelo das discursivas da Vunesp
 

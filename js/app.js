@@ -930,7 +930,7 @@
   // ---------- Render ----------
   function renderSidebar() {
     const fonte = estado.prova === 'enem'
-      ? 'ENEM (INEP): 2009–2023 pela API aberta enem.dev; 2024 e 2025 dos cadernos oficiais. Disciplina e assunto são estimados automaticamente.'
+      ? 'ENEM (INEP): 2009–2022 pela API aberta enem.dev; 2023 a 2025 dos cadernos oficiais. Disciplina e assunto são estimados automaticamente.'
       : 'Cadernos oficiais da Vunesp e da Unesp; edições sem caderno oficial abrem cópias de terceiros. Resoluções em sites de terceiros.';
     elSidebar.replaceChildren(
       h('div', null,

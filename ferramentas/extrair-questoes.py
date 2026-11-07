@@ -135,7 +135,11 @@ def segmentos_em_colunas(p, esq, divisa, dir_):
     que aparecem na coluna esquerda; a fatia é de largura inteira quando tem texto cruzando a divisa
     e nada que indique uma coluna direita (marcador de questão ou linhas alinhadas na margem dela).
     """
-    cortes = sorted({ln['y0'] - 6 for ln in p.corpo if ln['x0'] < divisa - 5 and inicio_bruto(ln)})
+    # cabeçalho de seção na coluna esquerda com a coluna direita já começada ao lado (ENEM 2023, p. 20:
+    # "Questões de 46 a 90" à esquerda e a tarja da 48 à direita) não fatia a página
+    marcas_dir = [ln['y0'] for ln in p.corpo if ln['x0'] >= divisa - 5 and eh_marca(ln)]
+    cortes = sorted({ln['y0'] - 6 for ln in p.corpo if ln['x0'] < divisa - 5 and inicio_bruto(ln)
+                     and not (RE_SECAO.match(ln['texto']) and any(y <= ln['y0'] + 20 for y in marcas_dir))})
     limites = [p.topo] + [c for c in cortes if p.topo + 4 < c < p.base - 4] + [p.base]
     cruzam = [ln for ln in p.corpo if ln['x0'] < divisa - 25 and ln['x1'] > divisa + 25]
     graficos = [c for c in p.caixas if c.x0 < divisa - 40 and c.x1 > divisa + 40 and c.height >= 12]

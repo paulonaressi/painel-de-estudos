@@ -930,6 +930,32 @@
     return (dados && dados.questoes[`${local.parte}:${numero}`]) || null;
   }
 
+  // ---------- Vunesp: gabarito das objetivas ----------
+  // data/gabaritos/ tem o mesmo formato (indice.json + um arquivo por caderno), com a letra por
+  // "parte:número". Vem das resoluções comentadas do Curso Objetivo: não é gabarito oficial.
+  let listaDeGabaritos = null;
+  const gabaritos = new Map();
+  function gabaritoDaQuestao(local, numero) {
+    if (!gabaritos.has(local.indice)) {
+      gabaritos.set(local.indice, undefined);
+      if (!listaDeGabaritos) {
+        listaDeGabaritos = fetch('data/gabaritos/indice.json')
+          .then(r => (r.ok ? r.json() : []), () => []).then(lista => new Set(lista));
+      }
+      listaDeGabaritos
+        .then(lista => (lista.has(local.indice)
+          ? fetch('data/gabaritos/' + local.indice.replace(/^data\/questoes\//, '')).then(r => (r.ok ? r.json() : null), () => null)
+          : null))
+        .then(dados => {
+          gabaritos.set(local.indice, dados);
+          const atual = cadernoAtual(edicaoAtual());
+          if (dados && estado.prova === 'vunesp' && atual && atual.local && atual.local.indice === local.indice) renderResposta();
+        });
+    }
+    const dados = gabaritos.get(local.indice);
+    return (dados && dados.questoes[`${local.parte}:${numero}`]) || null;
+  }
+
   function respostaVunesp() {
     const v = estado.vunesp;
     const ed = edicaoAtual();
@@ -937,7 +963,9 @@
     const id = idVunesp(ed);
     const reg = store.get(id) || {};
     const ehRedacao = v.questao === 'redacao';
-    const objetiva = ed.formato === 'objetiva' && !ehRedacao;
+    const cad = cadernoAtual(ed);
+    const gabarito = !ehRedacao && cad && cad.local ? gabaritoDaQuestao(cad.local, v.questao) : null;
+    const objetiva = (ed.formato === 'objetiva' || !!gabarito) && !ehRedacao;
 
     const marcarNav = () => {
       const botao = document.querySelector('#q-nav button[aria-current="true"]');
@@ -948,7 +976,22 @@
       h('h2', null, 'Sua resposta', h('span.tag', null, ehRedacao ? 'Redação' : `Questão ${v.questao}`)),
       objetiva
         ? h('div.acoes', { style: 'margin:0 0 12px' }, seg(['A', 'B', 'C', 'D', 'E'].map(l => ({ v: l, t: l })), reg.r || null,
-            letra => { store.set(id, { r: reg.r === letra ? null : letra }); renderResposta(); marcarNav(); }))
+            letra => { store.set(id, { r: reg.r === letra ? null : letra, conf: false, ok: null }); renderResposta(); marcarNav(); }))
+        : null,
+      gabarito && !reg.conf
+        ? h('div.acoes', { style: 'margin:0 0 12px' },
+            h('button.btn.primary.sm', { type: 'button', disabled: !reg.r, onclick: () => {
+              const ok = reg.r === gabarito;
+              store.set(id, { conf: true, ok, auto: ok ? 'certa' : 'errada' });
+              renderResposta(); marcarNav(); renderResumo();
+            } }, 'Conferir resposta'))
+        : null,
+      gabarito && reg.conf
+        ? h('div', { style: 'margin:0 0 12px' },
+            reg.ok
+              ? h('p.veredito.ok', null, `Você acertou: ${gabarito}.`)
+              : h('p.veredito.bad', null, `Você marcou ${reg.r}. A resposta é ${gabarito}.`),
+            h('p.nota-rodape', null, 'Gabarito tirado da resolução comentada do Curso Objetivo (não é o gabarito oficial da Vunesp).'))
         : null,
       campoDeTexto(objetiva ? 'Justificativa' : null, reg.texto,
         ehRedacao ? 'Escreva sua redação…' : 'Escreva sua resposta como escreveria na prova…',
@@ -968,7 +1011,6 @@
 
     // Resposta-modelo (gerada por IA), quando existe para esta questão: fica atrás de um botão,
     // para a estudante escrever a dela antes de comparar.
-    const cad = cadernoAtual(ed);
     const modelo = !ehRedacao && cad && cad.local ? modeloDaQuestao(cad.local, v.questao) : null;
     let blocoModelo = null;
     if (modelo && reg.modelo) {

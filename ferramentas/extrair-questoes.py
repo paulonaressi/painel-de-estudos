@@ -144,6 +144,7 @@ def segmentos_em_colunas(p, esq, divisa, dir_):
     cruzam = [ln for ln in p.corpo if ln['x0'] < divisa - 25 and ln['x1'] > divisa + 25]
     graficos = [c for c in p.caixas if c.x0 < divisa - 40 and c.x1 > divisa + 40 and c.height >= 12]
 
+    coluna_direita = sum(1 for ln in p.corpo if ln['x0'] >= divisa - 5) >= 3
     faixas = []
     for a, b in zip(limites, limites[1:]):
         dentro = lambda y0, y1: a <= (y0 + y1) / 2 < b
@@ -159,7 +160,9 @@ def segmentos_em_colunas(p, esq, divisa, dir_):
         elif not textos and not figuras and any(c.x0 >= divisa - 5 and c.height >= 12 and dentro(c.y0, c.y1) for c in p.caixas):
             inteira = False  # só uma figura na coluna direita (ENEM 2021, p. 30: o cubo da 175 ao lado da 173)
         else:
-            inteira = bool(textos or figuras) or not na_direita
+            # sem nada à direita só vira largura inteira se a página não tiver coluna direita em outra
+            # altura (ENEM 2020 p. 30: a continuação da 86 fica no alto da coluna direita)
+            inteira = bool(textos or figuras) or (not na_direita and not coluna_direita)
         if faixas and faixas[-1][2] == bool(inteira):
             faixas[-1] = (faixas[-1][0], b, bool(inteira))
         else:
@@ -304,10 +307,12 @@ def achar_inicios(paginas):
                 # 6 pt acima da tarja, sem subir além do pé da linha de cima (ENEM 2023: a alternativa E da
                 # 108 fica colada na tarja da 109 e era cortada ao meio)
                 acima = [o['y1'] for o in p.corpo if o.get('col') == ln.get('col') and o['y0'] < ln['y0'] - 2
-                         and o['y1'] <= ln['y0'] + 1 and o['x1'] > ln['x0'] and o['x0'] < ln['x1'] + 300]
+                         and o['x1'] > ln['x0'] and o['x0'] < ln['x1'] + 300]
                 y = ln['y0'] - 6
                 if acima and y < max(acima) + 0.5 < ln['y0']:
                     y = max(acima) + 0.5
+                elif acima and max(acima) + 0.5 >= ln['y0']:
+                    y = ln['y0'] - 0.5  # a linha de cima invade a altura da tarja (ENEM 2020: alternativa E da 114)
                 ini = {'tipo': 'questao', 'n': n, 'y': y}
             elif RE_MARCA_SEM_NUMERO.match(texto):
                 # "questão" e o número vêm em pedaços separados na mesma linha

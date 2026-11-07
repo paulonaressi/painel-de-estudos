@@ -24,9 +24,9 @@
    "pendencia": null
   },
   "1:5": {
-   "resposta": "**a)** São as **crianças sem registro de nascimento**, sem nenhuma prova de identidade — oficialmente inexistentes. Circunstâncias citadas: **morar em áreas rurais** ou **nascer em casa**.\n\n**b)** Os subitens do quadro (educação, saúde, casamento, tráfico, trabalho, assistência) mostram a mesma situação: as **consequências de não ter registro/identidade** — para quem não tem identidade, a vida é uma luta, sem acesso a escola, vacinas e benefícios sociais e com mais exposição a casamento infantil, tráfico e trabalho precoce.\n\nRelação com o filme \"Invisible children\", da GSMA: o filme mostra como a **tecnologia móvel** ajudou crianças de 15 países a terem seu direito à identidade reconhecido; ao obterem registro, elas escapam desses riscos e ganham oportunidades para o futuro. Por ser \"conteúdo de anunciante\", o texto também promove a própria GSMA ao apresentar a tecnologia móvel como solução.",
-   "confianca": "baixa",
-   "pendencia": "A imagem corta o final do enunciado do item b; a segunda parte da resposta supõe que se pede a relação entre o quadro e o filme da GSMA."
+   "resposta": "**a)** São as **crianças sem registro de nascimento**, sem nenhuma prova de identidade, que por isso são \"invisíveis\" para o Estado. Circunstância citada no primeiro parágrafo: **viver em áreas rurais** (ou **nascer em casa**).\n\n**b)** Os subitens do quadro (educação, saúde, casamento, tráfico, trabalho e assistência social) ilustram a mesma situação: os **prejuízos de viver sem registro/identidade**. Sem documento, a criança fica sem escola, vacinas e benefícios e mais exposta ao casamento infantil, ao tráfico e ao trabalho precoce.\n\nRelação com o filme: \"Invisible children\", da GSMA, mostra como a **tecnologia móvel** ajudou crianças de 15 países a terem reconhecido o direito à identidade. O filme apresenta, portanto, a solução para os problemas listados no quadro: com o registro, a criança deixa de estar exposta a esses riscos e ganha acesso a oportunidades.",
+   "confianca": "alta",
+   "pendencia": null
   }
  }
 }

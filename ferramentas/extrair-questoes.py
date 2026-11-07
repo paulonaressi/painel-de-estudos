@@ -26,6 +26,8 @@ RE_NUMERO = re.compile(r'^0*(\d{1,3})$')
 RE_SECAO = re.compile(r'^quest[õo]es\s+de\s+0*(\d{1,3})\s+a\s+0*(\d{1,3})(?:\s*\(op[çc][ãa]o\s+(\w+)\))?\s*$', re.I)
 RE_TITULO_AREA = re.compile(r'TECNOLOGIAS|^CI[ÊE]NCIAS|^MATEM[ÁA]TICA|^LINGUAGENS')
 RE_APOIO = re.compile(r'quest[õo]es\s+(?:de\s+)?(?:n[úu]meros?\s+|n[ºo]s?\.?\s*)?0*(\d{1,3})(?:\s*,\s*0*\d{1,3})*\s*(?:a|e|até|ao)\s+0*(\d{1,3})', re.I)
+# texto de apoio de uma questão só: "...para responder à questão 01" (Unesp 2019, questão 1)
+RE_APOIO_UNICA = re.compile(r'para\s+responder\s+(?:à|a)\s+quest[ãa]o\s+(?:n[ºo]\.?\s*)?0*(\d{1,3})\b', re.I)
 RE_APOIO_VERBO = re.compile(r'respond|leia|considere|examine|analise|observe|refere|texto|utilize|base|focaliz|instru[çc][ãa]o', re.I)
 RE_REDACAO = re.compile(r'^(proposta de )?reda[çc][ãa]o$|^instru[çc][õo]es para a reda[çc][ãa]o', re.I)
 RE_FIM = re.compile(r'^(classifica[çc][ãa]o peri[óo]dica|n[ãa]o assine esta folha|folha de rascunho|rascunho da reda[çc][ãa]o|transcreva a sua reda[çc][ãa]o|rascunho$)', re.I)
@@ -216,6 +218,9 @@ def preparar(doc):
             p.caixa_resposta = True
         # tolerância no topo: títulos encostados na tarja do cabeçalho ainda são conteúdo
         p.corpo = [ln for ln in p.linhas if p.topo - 4 <= ln['y0'] <= p.base and not RE_FAIXA_ENEM.match(ln['texto'])]
+        if caixa and p.corpo:
+            # a última linha do enunciado pode encostar na caixa (Unesp 2020, questão 18): não cortá-la ao meio
+            p.base = max(p.base, min(caixa['y0'] - 1, max(ln['y1'] for ln in p.corpo) + 1))
         if len(p.corpo) >= 12:
             xs0 = sorted(ln['x0'] for ln in p.corpo)
             xs1 = sorted(ln['x1'] for ln in p.corpo if ln['x1'] < p.largura - 5)
@@ -309,13 +314,14 @@ def achar_inicios(paginas):
                 # a instrução pode quebrar de linha no meio ("...às ques-" / "tões de 22 a 25")
                 junto = texto[:-1] + seguinte if texto.endswith('-') else texto + ' ' + seguinte
                 m = RE_APOIO.search(junto)
-                if m and RE_APOIO_VERBO.search(' '.join((anterior, junto))):
-                    de, ate = int(m.group(1)), int(m.group(2))
+                unica = None if m else RE_APOIO_UNICA.search(' '.join((anterior, junto)))
+                if (m and RE_APOIO_VERBO.search(' '.join((anterior, junto)))) or unica:
+                    de, ate = (int(m.group(1)), int(m.group(2))) if m else (int(unica.group(1)),) * 2
                     repetido = any(o['tipo'] == 'apoio' and (o['de'], o['ate'], o['parte']) == (de, ate, parte) for o in inicios)
                     recomeco = de == 1 and ultimo_numero >= 5  # texto de apoio que abre uma nova parte
                     if recomeco and ate <= de + 12:
                         parte, ultimo_numero, vistos_na_parte, repetido = parte + 1, 0, set(), False
-                    if ultimo_numero < de < ate <= de + 12 and not repetido:
+                    if ultimo_numero < de and (de < ate <= de + 12 or unica) and not repetido:
                         y = ln['y0']
                         # a frase de instrução pode começar uma ou duas linhas antes
                         for volta in range(1, 4):
@@ -327,7 +333,8 @@ def achar_inicios(paginas):
                                 break
                             y = ant['y0']
                         ini = {'tipo': 'apoio', 'de': de, 'ate': ate, 'y': y - 3}
-            if ini and ini['tipo'] != 'questao' and p.numero <= 2 and not tem_questao:
+            if ini and ini['tipo'] != 'questao' and p.numero <= 2 and not tem_questao \
+                    and not (ini['tipo'] == 'apoio' and ini['de'] == ini['ate']):
                 continue  # capa e instruções citam "questões de 01 a 05" sem ser texto de apoio
             if ini and ini['tipo'] == 'questao':
                 if any(o['tipo'] == 'questao' and o['n'] == ini['n'] and o['pag'] == p.numero for o in inicios):

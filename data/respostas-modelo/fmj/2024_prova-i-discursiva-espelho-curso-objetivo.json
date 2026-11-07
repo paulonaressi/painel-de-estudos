@@ -30,8 +30,8 @@
   },
   "0:6": {
    "resposta": "**a)** É rompida a **ligação covalente** simples (σ) entre átomos de fósforo, a ligação P–P que une os tetraedros P₄ no fósforo vermelho.\n\nCada átomo de fósforo tem 15 prótons; a molécula P₄ tem 4 × 15 = **60 prótons**.\n\n**b)** Na reação Sb₂S₃ + 3 KCℓO₃ → Sb₂O₃ + 3 KCℓ + 3 SO₂ (ΔH = −1 602 kJ):\n\nΔH = ΣHf(produtos) − ΣHf(reagentes)\n\nΣHf(produtos) = −710 + 3 × (−440) + 3 × (−300) = −2 930 kJ\n\nΣHf(reagentes) = Hf(Sb₂S₃) + 3 × (−390) = Hf(Sb₂S₃) − 1 170\n\n−1 602 = −2 930 − Hf(Sb₂S₃) + 1 170\n\nHf(Sb₂S₃) = **−158 kJ/mol**\n\nComo o fósforo vermelho é a forma mais estável (entalpia zero), a formação do P₄O₁₀ a partir dele libera 2 940 kJ, enquanto a partir do fósforo branco libera 2 958 kJ. Logo, o fósforo branco tem entalpia 18 kJ/mol maior (P₄ + 5 O₂ → P₄O₁₀: −2 958 = −2 940 − H(P₄ branco) → H = +18 kJ). A conversão do vermelho em branco absorve energia: é **endotérmica**.",
-   "confianca": "media",
-   "pendencia": "O fim do enunciado do item b está cortado na imagem; a resposta supõe que se pede classificar a conversão em endotérmica ou exotérmica e justificar."
+   "confianca": "alta",
+   "pendencia": null
   },
   "0:7": {
    "resposta": "**a)** A água pura praticamente não conduz corrente elétrica, por ter pouquíssimos íons livres. A solução eletrolítica fornece íons que se movimentam entre os eletrodos e fecham o circuito interno da pilha, permitindo o funcionamento. A espécie que sofre redução é o **íon Cu²⁺** da solução, que se deposita como cobre metálico sobre o fio de cobre (cátodo): Cu²⁺ + 2 e⁻ → Cu. O zinco do revestimento dos parafusos é oxidado (ânodo).\n\n**b)** A concentração de CuSO₄ (de íons Cu²⁺) deve **diminuir**, pois os íons Cu²⁺ são consumidos na redução.\n\nddp teórica de cada célula Zn/Cu: ΔE = 0,34 − (−0,76) = 1,10 V\n\nOs 14 compartimentos funcionam como 14 células ligadas em série:\n\nddp teórica = 14 × 1,10 = 15,4 V\n\nEficiência = 9 ÷ 15,4 ≈ 0,58 → **cerca de 58%**",

@@ -131,6 +131,10 @@ Casos que já deram trabalho e estão tratados (não desfazer sem testar):
 - **Texto de apoio acima da tarja** numa prova de uma questão por página (Einstein 2024 q5, Unesp
   2016/2 q33, Unesp 2017 q32): se o bloco anterior terminou na caixa de resposta de outra página, o
   topo da página passa a ser da questão.
+- **Apoio de uma questão só** ("…para responder à questão 01", Unesp 2019 q1, 2018/2 q25, Unifesp 2006
+  q5): vira apoio `de = ate`, aceito inclusive na página 2 (a capa não usa essa frase).
+- **Última linha encostada na caixa de resposta** (Unesp 2020 q18, Einstein 2020 q5, FMJ 2024 q6): o fim
+  da página desce até o pé da última linha do enunciado, sem passar da caixa.
 - Marca-d'água "RASCUNHO" girada, marcador partido em dois pedaços ("questão" + "01"), marcador
   duplicado, "QUESTÃ" sem o O, instrução quebrada por hífen, redação sem título em texto.
 - O relatório do script lista `FALTAM [...]` quando a numeração não bate com o catálogo. Os da
@@ -232,7 +236,8 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 - A tela mostra o botão "Ver resposta-modelo" no cartão Resolução; o "visto" fica no registro
   (`modelo: true`) e sincroniza. Sempre com o aviso de IA, sem revisão humana.
 - Bloco 2 (06/11/2026): 485 discursivas, Unesp 2017–2020 e Medicina 2018–2023 (447 alta, 33 média,
-  5 baixa). Pendentes de recorte: Unesp 2019 q1, Unesp 2018/2 q25, Einstein 2020 q5, Unesp 2020 q18.
+  5 baixa). Os quatro recortes incompletos (Unesp 2019 q1, Unesp 2018/2 q25, Einstein 2020 q5, Unesp
+  2020 q18) e a FMJ 2024 q6 foram corrigidos no extrator e as respostas refeitas por quem coordenou.
 - Primeira rodada: 06/11/2026, 436 discursivas (Unesp 2024–2026/2; Famerp, Famema, Santa Casa,
   Einstein e FMJ 2024–2027), escolha do dono do projeto, sem leitura prévia de amostra. 400 "alta",
   36 "media", nenhuma "baixa". Quem coordenou leu contra a imagem: Unesp 2026/2 q15, Famerp 2025
@@ -240,8 +245,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 - Incidente da 1ª rodada: o nome da imagem usava só o nome do arquivo do índice, e
   famema/2025_prova-i-discursiva colidiu com fmj/2025_… (idem 2026); as 16 da Famema foram
   respondidas sobre imagens da FMJ e refeitas. O nome agora leva a pasta da instituição.
-- Limites conhecidos: itens que pedem desenho ou completar figura são descritos em texto; FMJ 2024
-  q6 tem o fim do item b cortado no próprio PDF do Objetivo.
+- Limites conhecidos: itens que pedem desenho ou completar figura são descritos em texto.
 
 ## Estado
 

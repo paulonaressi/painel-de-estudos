@@ -294,7 +294,14 @@ def achar_inicios(paginas):
             ini = None
             n = numero_da_marca(ln)
             if n is not None:
-                ini = {'tipo': 'questao', 'n': n, 'y': ln['y0'] - 6}
+                # 6 pt acima da tarja, sem subir além do pé da linha de cima (ENEM 2023: a alternativa E da
+                # 108 fica colada na tarja da 109 e era cortada ao meio)
+                acima = [o['y1'] for o in p.corpo if o.get('col') == ln.get('col') and o['y0'] < ln['y0'] - 2
+                         and o['y1'] <= ln['y0'] + 1 and o['x1'] > ln['x0'] and o['x0'] < ln['x1'] + 300]
+                y = ln['y0'] - 6
+                if acima and y < max(acima) + 0.5 < ln['y0']:
+                    y = max(acima) + 0.5
+                ini = {'tipo': 'questao', 'n': n, 'y': y}
             elif RE_MARCA_SEM_NUMERO.match(texto):
                 # "questão" e o número vêm em pedaços separados na mesma linha
                 par = next((o for o in p.corpo if o is not ln and abs(o['y0'] - ln['y0']) < 6

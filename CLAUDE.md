@@ -53,7 +53,7 @@ python3 servidor.py                # http://localhost:5173
 |---|---|
 | `index.html`, `css/estilo.css` | Página única; tema por `data-theme` em `<html>` |
 | `js/util.js` | `BQ.h` (criação de DOM), `BQ.md` (markdown mínimo e escapado), registros do aluno, cache em IndexedDB |
-| `js/enem.js` | Dados do ENEM: API enem.dev (2009–2021) e anos locais (2022–2025, `ANOS_LOCAIS`); resoluções |
+| `js/enem.js` | Dados do ENEM: API enem.dev (2009–2010) e anos locais (2011–2025, `ANOS_LOCAIS`); proposta de redação dos anos locais; resoluções |
 | `js/classificador.js` | Disciplina e assunto por palavras-chave |
 | `js/recortes.js` | Mostra uma questão recortando-a do PDF (pdf.js) |
 | `js/app.js` | Estado e telas |
@@ -70,7 +70,7 @@ Sem etapa de build: JavaScript puro em scripts clássicos, tudo pendurado em `wi
 
 ## De onde vêm os dados
 
-**ENEM 2009–2023**: API aberta `https://api.enem.dev/v1`, consultada ao vivo e guardada em IndexedDB.
+**ENEM 2009 e 2010** (e qualquer ano fora de `ANOS_LOCAIS`): API aberta `https://api.enem.dev/v1`, consultada ao vivo e guardada em IndexedDB.
 - Limite de 10 requisições a cada 10 s; `limit` máximo 50; `offset` é por **número da questão**
   e o intervalo devolvido inclui as duas pontas.
 - O campo `discipline` da API está errado em dezenas de questões por ano. A área é calculada pela
@@ -80,8 +80,15 @@ Sem etapa de build: JavaScript puro em scripts clássicos, tudo pendurado em `wi
   que o ano não tem dá erro 400 (2009 não tem nenhum, 2011 só espanhol).
 - Faltam na própria fonte algumas questões anuladas e algumas imagens (`broken-image.svg`).
 
-**ENEM 2022 a 2025**: cadernos azuis do INEP (`ferramentas/baixar-enem.sh`), 185 questões por ano
-com gabarito. Anuladas: 157 (2022); 164 (2023); 129 (2024); 123, 132 e 174 (2025). Em 2023 a numeração da API
+**ENEM 2011 a 2025**: cadernos azuis do INEP (`ferramentas/baixar-enem.sh`, com a tabela dos nomes
+antigos até 2019), 185 questões por ano com gabarito e a proposta de redação (`redacao` em
+`data/enem/<ano>.json`; até 2016 ela fica na p. 2 do caderno do 2º dia). A numeração confere com a
+API em 2011–2025. O gabarito da API erra em alguns anos (2011 q81, 2012 q165, 2018 q15, 8 de 2021,
+2022 q143): o PDF do INEP confirmou o extraído — mais um motivo para não usar a API. O PDF de 2021
+tem a fonte embaralhada (texto extraído ilegível; recortes e numeração certos), então disciplina e
+assunto de 2021 saem ruins. 2009 e 2010 ficam na API: o extrator acha 172 e 143 questões (2010
+tem texto cifrado) e o gabarito de 2010 só vem marcado no caderno; `processar_enem` não grava ano
+incompleto. 2009: gabarito com as quatro cores em colunas. Anuladas: 157 (2022); 164 (2023); 129 (2024); 123, 132 e 174 (2025). Em 2023 a numeração da API
 bate com a do caderno azul (178 conferidas por texto); a API não tem a 34 nem a 174 de 2023. Em 2022 as 185 conferem, inclusive inglês e espanhol. O `fetch` do Node falhou para
 `download.inep.gov.br` no Windows (causa não investigada); `curl` funciona.
 
@@ -140,6 +147,10 @@ Casos que já deram trabalho e estão tratados (não desfazer sem testar):
   a tarja da 48 à direita): não fatia a página. O início de questão fica 6 pt acima da tarja, mas não
   sobe além do pé da linha de cima (a alternativa E da 108 de 2023 encosta na tarja da 109).
 - Seção de língua com dois-pontos ("Questões de 01 a 05 (opção: inglês)", ENEM 2022).
+- **Figura sozinha na coluna direita** (ENEM 2021 p. 30): a faixa continua em duas colunas. Corrigiu
+  também Unifesp 2009 (2º dia) 5–8, Famema 2022 33–37, Unesp 2007/2 1–8 e outros.
+- Redação: "INSTRUÇÕES PARA A REDAÇÃO" + "PROPOSTA DE REDAÇÃO" na mesma página viram um bloco só (o tema
+  estava faltando também em Unesp 2005/2, 2006/2 e 2009/2).
 - **Formulário de Física e Matemática no fim do caderno** (Unifesp 2003–2006): pelo título ou por ser
   página sem questão com 40%+ das linhas contendo "=", encerra a prova (antes entrava na q25).
 - **Número pendurado na margem** ("01." à esquerda do texto, Unifesp antiga): a coluna esquerda começa
@@ -233,11 +244,11 @@ foi anulada), todas no gabarito oficial; "media" só em 45 e 84. Quem coordenou 
 ENEM 2022 (07/11/2026): 184 resoluções (157 anulada), todas no gabarito oficial; "media" em 6, 23, 29,
 39, 43 (linguagens) e 145 (enunciado ambíguo; na 23 o agente errou a primeira leitura).
 
-Caminho para 2009–2021: o mesmo de 2023 — `baixar-enem.sh <ano>` (confira na capa se CD1/CD7 são
-azuis naquele ano), extrair, conferir a numeração contra a API por texto, pôr o ano em
-`ANOS_LOCAIS` (js/enem.js, subir o `?v=`) e só então gerar as resoluções. Antes de 2017 a ordem das
-áreas é outra (ver `ordemAreas`); `area_enem` no extrator e a tabela de faixas das instruções
-assumem 2017+ e precisam de ajuste.
+ENEM 2021 (07/11/2026): 184 (138 anulada), todas no gabarito oficial; "media" em 6 de Linguagens e na
+79. Lidas na imagem (o texto extraído de 2021 é ilegível).
+
+Faltam resoluções de 2011–2020. Antes de 2017 a ordem das áreas é Humanas 1–45, Natureza 46–90,
+Linguagens 91–135 (idiomas 91–95), Matemática 136–180: dê a faixa certa a cada agente.
 
 ## Respostas-modelo das discursivas da Vunesp
 
@@ -275,7 +286,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 
 ## Estado
 
-- ENEM: 17 anos (2009–2025); 2022–2025 dos cadernos do INEP, com resoluções.
+- ENEM: 17 anos (2009–2025); 2011–2025 dos cadernos do INEP (com redação); resoluções em 2021–2025.
 - Vunesp (06/11/2026): 108 edições no catálogo, 194 cadernos com questões extraídas, 4.290 questões
   na tela. Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
   Santa Casa 10 (200), Einstein 10 (145), FMJ 4 (44).
@@ -316,7 +327,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 
 ## Próximos passos possíveis
 
-1. Resoluções do ENEM 2009–2021: seguir o caminho de 2023 (ver Resoluções comentadas).
+1. Resoluções do ENEM 2011–2020 (ver Resoluções comentadas); 2009 e 2010 pedem outra fonte de recorte.
 2. Melhorar a classificação — as resoluções prontas dão um sinal melhor que palavras-chave — e
    medir o acerto contra uma amostra corrigida à mão.
 3. Filtro por disciplina também na Vunesp (hoje é só etiqueta por questão).

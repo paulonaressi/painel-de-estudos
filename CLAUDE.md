@@ -53,7 +53,7 @@ python3 servidor.py                # http://localhost:5173
 |---|---|
 | `index.html`, `css/estilo.css` | Página única; tema por `data-theme` em `<html>` |
 | `js/util.js` | `BQ.h` (criação de DOM), `BQ.md` (markdown mínimo e escapado), registros do aluno, cache em IndexedDB |
-| `js/enem.js` | Dados do ENEM: API enem.dev (2009–2022) e anos locais (2023–2025, `ANOS_LOCAIS`); resoluções |
+| `js/enem.js` | Dados do ENEM: API enem.dev (2009–2021) e anos locais (2022–2025, `ANOS_LOCAIS`); resoluções |
 | `js/classificador.js` | Disciplina e assunto por palavras-chave |
 | `js/recortes.js` | Mostra uma questão recortando-a do PDF (pdf.js) |
 | `js/app.js` | Estado e telas |
@@ -80,9 +80,9 @@ Sem etapa de build: JavaScript puro em scripts clássicos, tudo pendurado em `wi
   que o ano não tem dá erro 400 (2009 não tem nenhum, 2011 só espanhol).
 - Faltam na própria fonte algumas questões anuladas e algumas imagens (`broken-image.svg`).
 
-**ENEM 2023 a 2025**: cadernos azuis do INEP (`ferramentas/baixar-enem.sh`), 185 questões por ano
-com gabarito. Anuladas: 164 (2023); 129 (2024); 123, 132 e 174 (2025). Em 2023 a numeração da API
-bate com a do caderno azul (178 conferidas por texto); a API não tem a 34 nem a 174 de 2023. O `fetch` do Node falhou para
+**ENEM 2022 a 2025**: cadernos azuis do INEP (`ferramentas/baixar-enem.sh`), 185 questões por ano
+com gabarito. Anuladas: 157 (2022); 164 (2023); 129 (2024); 123, 132 e 174 (2025). Em 2023 a numeração da API
+bate com a do caderno azul (178 conferidas por texto); a API não tem a 34 nem a 174 de 2023. Em 2022 as 185 conferem, inclusive inglês e espanhol. O `fetch` do Node falhou para
 `download.inep.gov.br` no Windows (causa não investigada); `curl` funciona.
 
 **Vunesp**: não existe base aberta. O catálogo aponta para PDFs:
@@ -139,6 +139,14 @@ Casos que já deram trabalho e estão tratados (não desfazer sem testar):
 - **Cabeçalho de seção ao lado da coluna direita** (ENEM 2023 p. 20: "Questões de 46 a 90" à esquerda e
   a tarja da 48 à direita): não fatia a página. O início de questão fica 6 pt acima da tarja, mas não
   sobe além do pé da linha de cima (a alternativa E da 108 de 2023 encosta na tarja da 109).
+- Seção de língua com dois-pontos ("Questões de 01 a 05 (opção: inglês)", ENEM 2022).
+- **Formulário de Física e Matemática no fim do caderno** (Unifesp 2003–2006): pelo título ou por ser
+  página sem questão com 40%+ das linhas contendo "=", encerra a prova (antes entrava na q25).
+- **Número pendurado na margem** ("01." à esquerda do texto, Unifesp antiga): a coluna esquerda começa
+  3 pt antes da mediana dos marcadores.
+- Objetivas da Vunesp (1.563: Unifesp 924, Famema 359, Unesp 180, Einstein 100) não têm gabarito na
+  plataforma; por isso ficaram fora das respostas-modelo. Caminho proposto ao dono: gabaritos
+  (oficiais da Vunesp, só em navegador, ou do Objetivo) + "Conferir resposta" + resoluções. Aguarda aval.
 - Marca-d'água "RASCUNHO" girada, marcador partido em dois pedaços ("questão" + "01"), marcador
   duplicado, "QUESTÃ" sem o O, instrução quebrada por hífen, redação sem título em texto.
 - O relatório do script lista `FALTAM [...]` quando a numeração não bate com o catálogo. Os da
@@ -222,7 +230,10 @@ Custo do piloto: cerca de 770 mil tokens e 10 a 28 minutos por área, em paralel
 ENEM 2023 (07/11/2026): mesmo roteiro, depois de passar 2023 para caderno local; 184 resoluções (a 164
 foi anulada), todas no gabarito oficial; "media" só em 45 e 84. Quem coordenou leu 151 e 120.
 
-Caminho para 2009–2022: o mesmo de 2023 — `baixar-enem.sh <ano>` (confira na capa se CD1/CD7 são
+ENEM 2022 (07/11/2026): 184 resoluções (157 anulada), todas no gabarito oficial; "media" em 6, 23, 29,
+39, 43 (linguagens) e 145 (enunciado ambíguo; na 23 o agente errou a primeira leitura).
+
+Caminho para 2009–2021: o mesmo de 2023 — `baixar-enem.sh <ano>` (confira na capa se CD1/CD7 são
 azuis naquele ano), extrair, conferir a numeração contra a API por texto, pôr o ano em
 `ANOS_LOCAIS` (js/enem.js, subir o `?v=`) e só então gerar as resoluções. Antes de 2017 a ordem das
 áreas é outra (ver `ordemAreas`); `area_enem` no extrator e a tabela de faixas das instruções
@@ -264,7 +275,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 
 ## Estado
 
-- ENEM: 17 anos (2009–2025); 2023–2025 dos cadernos do INEP; resoluções em 2023, 2024 e 2025.
+- ENEM: 17 anos (2009–2025); 2022–2025 dos cadernos do INEP, com resoluções.
 - Vunesp (06/11/2026): 108 edições no catálogo, 194 cadernos com questões extraídas, 4.290 questões
   na tela. Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
   Santa Casa 10 (200), Einstein 10 (145), FMJ 4 (44).
@@ -305,7 +316,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 
 ## Próximos passos possíveis
 
-1. Resoluções do ENEM 2009–2022: seguir o caminho de 2023 (ver Resoluções comentadas).
+1. Resoluções do ENEM 2009–2021: seguir o caminho de 2023 (ver Resoluções comentadas).
 2. Melhorar a classificação — as resoluções prontas dão um sinal melhor que palavras-chave — e
    medir o acerto contra uma amostra corrigida à mão.
 3. Filtro por disciplina também na Vunesp (hoje é só etiqueta por questão).

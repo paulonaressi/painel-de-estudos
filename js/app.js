@@ -57,6 +57,8 @@
       anosComResolucao: [],
       lista: [],
       atualId: salvo.atualId || null,
+      verRedacao: false,      // proposta de redação aberta no lugar das questões (anos tirados do PDF)
+      redacao: undefined,     // undefined: carregando; null: o ano não tem
       carregando: false,
       erro: null,
       pedido: 0,
@@ -192,12 +194,38 @@
 
   // ---------- ENEM: ações ----------
   function trocarAno(ano) {
-    Object.assign(estado.enem, { ano, atualId: null, disciplina: 'todas', assunto: 'todos' });
+    const e = estado.enem;
+    Object.assign(e, { ano, atualId: null, disciplina: 'todas', assunto: 'todos' });
+    if (e.verRedacao && !ENEM.ANOS_LOCAIS.includes(ano)) e.verRedacao = false;
+    if (e.verRedacao) carregarRedacao();
     carregarEnem();
+  }
+
+  function carregarRedacao() {
+    const e = estado.enem;
+    const ano = e.ano;
+    e.redacao = undefined;
+    ENEM.carregarRedacao(ano)
+      .then(r => { if (e.ano === ano) { e.redacao = r; renderEnunciado(); renderResposta(); } })
+      .catch(() => { if (e.ano === ano) { e.redacao = null; renderEnunciado(); } });
+  }
+
+  function abrirRedacao() {
+    fecharMenu();
+    const e = estado.enem;
+    if (e.verRedacao) return;
+    e.verRedacao = true;
+    carregarRedacao();
+    irAoTopo();
+    renderTudo();
   }
 
   function trocarArea(area) {
     fecharMenu();
+    if (estado.enem.verRedacao) {
+      estado.enem.verRedacao = false;
+      if (area === estado.enem.area && !estado.enem.erro) { irAoTopo(); renderTudo(); return; }
+    }
     if (area === estado.enem.area && !estado.enem.erro) return;
     Object.assign(estado.enem, { area, atualId: null, disciplina: 'todas', assunto: 'todos' });
     irAoTopo();
@@ -288,7 +316,7 @@
     const idiomas = idiomasDisponiveis();
     const campos = h('ul.campos', null, ENEM.AREAS.map(a => {
       const p = progressoEnem(e.ano, a.id);
-      const ativa = a.id === e.area;
+      const ativa = a.id === e.area && !e.verRedacao;
       return h('li', null,
         h('button.campo', { type: 'button', style: `--dot:${a.cor}`, 'aria-current': String(ativa), onclick: () => trocarArea(a.id) },
           h('span.campo-dot'),
@@ -300,6 +328,13 @@
           : null,
         ativa ? subcamposEnem() : null);
     }));
+    if (ENEM.ANOS_LOCAIS.includes(e.ano)) {
+      campos.append(h('li', null,
+        h('button.campo', { type: 'button', style: '--dot:#3f6fb5', 'aria-current': String(e.verRedacao), onclick: abrirRedacao },
+          h('span.campo-dot'),
+          h('span.campo-nome', null, 'Redação'),
+          h('span.campo-num', null, store.get(`enem:${e.ano}:redacao`) && store.get(`enem:${e.ano}:redacao`).texto ? 'escrita' : ''))));
+    }
 
     return [
       h('div', null, h('span.side-label', null, 'Ano'), selAno),
@@ -362,8 +397,27 @@
     antigo.replaceWith(estado.prova === 'enem' ? navegadorEnem() : navegadorVunesp(edicaoAtual()));
   }
 
+  function enunciadoRedacaoEnem() {
+    const e = estado.enem;
+    const wrap = h('div.q-wrap', null,
+      h('p.crumbs', null, `ENEM ${e.ano}`, h('span.sep', null, '·'), 'Redação'),
+      h('div.q-title-row', null, h('h1', null, 'Proposta de redação')));
+    if (e.redacao === undefined) {
+      wrap.append(h('div.skel', { 'aria-hidden': 'true' }, Array.from({ length: 9 }, () => h('i'))));
+    } else if (!e.redacao) {
+      wrap.append(h('div.estado', null, h('h2', null, 'Proposta indisponível'), h('p', null, `Não encontrei a proposta de redação do ENEM ${e.ano}.`)));
+    } else {
+      wrap.append(
+        BQ.recortes.montar(e.redacao.pdf, [{ rotulo: null, recortes: e.redacao.recortes }], `Proposta de redação do ENEM ${e.ano}, reproduzida do caderno de prova`),
+        h('p.nota-rodape', null, 'Reproduzida do caderno azul do INEP. ',
+          h('a', { href: e.redacao.pdf, target: '_blank', rel: 'noopener noreferrer' }, 'Abrir o caderno completo')));
+    }
+    return wrap;
+  }
+
   function enunciadoEnem() {
     const e = estado.enem;
+    if (e.verRedacao) return enunciadoRedacaoEnem();
     const area = ENEM.AREAS.find(a => a.id === e.area);
     const wrap = h('div.q-wrap', null,
       h('p.crumbs', null, `ENEM ${e.ano}`, h('span.sep', null, '·'), area.nomeLongo));
@@ -437,7 +491,23 @@
     return 'https://www.google.com/search?q=' + encodeURIComponent(`ENEM ${q.ano} resolução comentada ${trecho}`);
   }
 
+  function respostaRedacaoEnem() {
+    const id = `enem:${estado.enem.ano}:redacao`;
+    const reg = store.get(id) || {};
+    return [h('div.card', null,
+      h('h2', null, 'Sua redação', h('span.tag', null, `ENEM ${estado.enem.ano}`)),
+      campoDeTexto(null, reg.texto, 'Escreva sua redação… (até 30 linhas na folha oficial)',
+        valor => { store.set(id, { texto: valor }); }, 'alto'),
+      h('p.nota-rodape', null, 'Salvo automaticamente neste navegador.')),
+    h('div.card', null,
+      h('h2', null, 'Correção'),
+      h('p.nota-rodape', { style: 'margin:0 0 12px' }, 'O ENEM corrige a redação em cinco competências, de 0 a 200 pontos cada: norma-padrão, compreensão da proposta, organização dos argumentos, coesão e proposta de intervenção que respeite os direitos humanos.'),
+      campoDeTexto('Suas anotações da correção', reg.nota, 'Notas por competência, o que melhorar…',
+        valor => store.set(id, { nota: valor })))];
+  }
+
   function respostaEnem() {
+    if (estado.enem.verRedacao) return respostaRedacaoEnem();
     const q = estado.enem.carregando || estado.enem.erro ? null : questaoAtual();
     if (!q) return [];
     const reg = store.get(q.id) || {};

@@ -433,6 +433,7 @@ def extrair(caminho):
     questoes, apoios, redacao, avisos = [], [], None, []
     idioma = None
     vistos = set()
+    ultimo = None  # tipo do último bloco aproveitado
     for i, ini in enumerate(inicios):
         if ini['tipo'] == 'secao':
             idioma = ini['idioma']
@@ -459,6 +460,14 @@ def extrair(caminho):
             apoios.append({'de': ini['de'], 'ate': ini['ate'], 'recortes': recortes, 'texto': texto, **parte})
         elif ini['tipo'] == 'redacao' and redacao is None:
             redacao = {'recortes': recortes, 'texto': texto, **parte}
+        elif ini['tipo'] == 'redacao' and ultimo == 'redacao':
+            # "INSTRUÇÕES PARA A REDAÇÃO" seguido de "PROPOSTA DE REDAÇÃO" (ENEM): o tema fica no 2º bloco
+            # (só a parte na mesma página: depois vêm o código de barras e a folha de rascunho)
+            mesma = [r for r in recortes if r[0] == redacao['recortes'][-1][0]]
+            if mesma:
+                redacao['recortes'] += mesma
+                redacao['texto'] += ' ' + texto
+        ultimo = ini['tipo']
 
     return {
         'paginas': len(paginas),
@@ -534,7 +543,7 @@ def processar_enem():
     pasta = RAIZ / 'provas' / 'enem'
     anos = sorted({int(p.name[:4]) for p in pasta.glob('*_PV_impresso_*.pdf')})
     for ano in anos:
-        questoes = []
+        questoes, redacao = [], None
         for prova in sorted(pasta.glob(f'{ano}_PV_impresso_*.pdf')):
             gabarito = ler_gabarito(prova.with_name(prova.name.replace('_PV_', '_GB_')))
             dados = extrair(prova)
@@ -550,16 +559,19 @@ def processar_enem():
                 questoes.append({'numero': n, 'idioma': idioma, 'area': area_enem(n), 'gabarito': resposta, 'pdf': arquivo,
                                  'apoio': [r for a in apoios for r in a['recortes']], 'recortes': q['recortes'],
                                  'texto': ' '.join([a['texto'] for a in apoios] + [q['texto']])})
+            if dados['redacao'] and not redacao:  # proposta de redação, no caderno do 1º dia
+                redacao = {'pdf': arquivo, 'recortes': dados['redacao']['recortes'], 'texto': dados['redacao']['texto']}
             if dados['avisos']:
                 print(f"  avisos em {prova.name}: {'; '.join(dados['avisos'])}")
         questoes.sort(key=lambda q: (q['numero'], q['idioma'] or ''))
-        gravar(RAIZ / 'data' / 'enem' / f'{ano}.json', {'ano': ano, 'fonte': 'INEP — cadernos azuis', 'questoes': questoes})
+        gravar(RAIZ / 'data' / 'enem' / f'{ano}.json', {'ano': ano, 'fonte': 'INEP — cadernos azuis', 'questoes': questoes,
+                                                       'redacao': redacao})
 
         numeros = {q['numero'] for q in questoes}
         sem = [q['numero'] for q in questoes if not q['gabarito']]
         idiomas = sorted({q['idioma'] for q in questoes if q['idioma']})
         print(f"ENEM {ano}: {len(questoes)} questões, faltam {faltantes(numeros, range(1, 181))}, "
-              f"sem gabarito (anuladas) {sem}, idiomas {idiomas}")
+              f"sem gabarito (anuladas) {sem}, idiomas {idiomas}, redação {'sim' if redacao else 'NÃO'}")
 
 
 if __name__ == '__main__':

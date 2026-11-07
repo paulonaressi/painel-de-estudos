@@ -125,6 +125,13 @@
     }));
   }
 
+  // Proposta de redação recortada do caderno do 1º dia (só nos anos tirados do PDF).
+  async function carregarRedacao(ano) {
+    if (!ANOS_LOCAIS.includes(ano)) return null;
+    const dados = await carregarLocal(ano);
+    return dados.redacao || null;
+  }
+
   async function carregarArea(ano, area) {
     if (ANOS_LOCAIS.includes(ano)) return carregarAreaLocal(ano, area);
     const chave = `enem:v2:${ano}:${area}`;
@@ -227,5 +234,5 @@
     return Object.keys(IDIOMAS);
   }
 
-  BQ.enem = { AREAS, IDIOMAS, ANOS_PADRAO, ANOS_LOCAIS, POR_AREA, anosComResolucao, carregarResolucoes, faixa, areaDoNumero, carregarArea, listarAnos };
+  BQ.enem = { AREAS, IDIOMAS, ANOS_PADRAO, ANOS_LOCAIS, POR_AREA, anosComResolucao, carregarResolucoes, faixa, areaDoNumero, carregarArea, carregarRedacao, listarAnos };
 })();

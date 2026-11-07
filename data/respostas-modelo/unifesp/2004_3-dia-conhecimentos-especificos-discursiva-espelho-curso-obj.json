@@ -1,0 +1,132 @@
+{
+ "indice": "data/questoes/unifesp/2004_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O espermatozoide precisa de muita energia (ATP) para movimentar o **flagelo** e nadar até o ovócito. As mitocôndrias, que produzem ATP pela respiração celular, concentram-se na **peça intermediária**, junto à base do flagelo, fornecendo essa energia.\n\n**b)** Na fecundação, as mitocôndrias do espermatozoide, que ficam na peça intermediária, praticamente não entram no ovócito, e as poucas que entram são destruídas logo depois. Assim, todas as mitocôndrias do zigoto (e o DNA mitocondrial) vêm do **citoplasma do óvulo**, isto é, da mãe: por isso a herança mitocondrial é materna.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** **X** é a **bicamada lipídica** (dupla camada de fosfolipídios, com as cabeças polares voltadas para fora e as caudas apolares para dentro). **Y** é uma **proteína integral** (transmembrana), que atravessa toda a bicamada.\n\n**b)** Pelo modelo do mosaico fluido, a membrana é uma bicamada fluida de lipídios na qual as proteínas se movem. Os produtos de secreção são empacotados em **vesículas** (formadas no complexo golgiense), cuja membrana tem a mesma estrutura da plasmática. A vesícula migra até a superfície e, graças à fluidez, sua membrana se **funde** com a membrana plasmática, abrindo-se para fora e liberando o conteúdo no meio extracelular (**exocitose**); a membrana da vesícula passa a fazer parte da membrana plasmática.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** **Q** corresponde à **água** (maior parte da folha, que é um tecido hidratado e ativo, e pequena parte da semente, que é desidratada). **P** corresponde aos **carboidratos** (pouco na folha madura e maior parte da semente, como amido de reserva). **Z** corresponde às **fibras** (abundantes na folha, por causa das paredes celulares de celulose).\n\n**b)** A semente tem grande proporção de **carboidratos, lipídios e proteínas**, que são **reservas nutritivas** para o embrião: fornecem energia e matéria-prima na germinação até a plântula fazer fotossíntese. O **baixo teor de água** mantém o metabolismo muito reduzido (dormência), diminui o gasto das reservas, dificulta a ação de microrganismos e permite à semente resistir por longo tempo até encontrar condições favoráveis para germinar.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A energia vem da **oxidação das reservas do corpo**, principalmente da **gordura** (em especial a gordura marrom, especializada em produzir calor), por meio da respiração celular. Ao despertar, o animal aumenta muito o metabolismo e a energia liberada nessas reações aquece o corpo (a contração muscular por tremores também contribui).\n\n**b)** Descrição do esquema: a taxa metabólica começa no nível normal (linha tracejada); **cai** no período em que a temperatura baixa, ficando **muito baixa e constante** durante a hibernação; no fim, **sobe bruscamente**, ultrapassando o nível normal (pico, pela grande produção de calor para reaquecer o corpo) e depois volta ao nível normal quando a temperatura se estabiliza.",
+   "confianca": "media",
+   "pendencia": "O item b pede um gráfico; aqui ele está descrito em texto. O pico acima do normal no despertar é o comportamento esperado, mas a banca pode ter aceitado também o retorno direto ao nível normal."
+  },
+  "0:5": {
+   "resposta": "**a)** Os heredogramas mostram **mulheres afetadas filhas de pai normal** (no Grupo I, a mulher afetada de F2; no Grupo II, a de F3). Na herança recessiva ligada ao X, a filha afetada recebe obrigatoriamente um X afetado do pai, que seria afetado; logo, a herança recessiva ligada ao sexo fica excluída. Também há **homem afetado com filha normal** (o homem afetado da geração P do Grupo I); na herança dominante ligada ao X, todas as filhas de um homem afetado seriam afetadas, o que exclui a dominante ligada ao sexo.\n\n**b)** Há indivíduos afetados filhos de **pais normais** e a característica \"pula\" gerações. Isso se explica pela herança **autossômica recessiva** (os pais seriam heterozigotos, portadores sem manifestar a doença), mas também pela **dominante com penetrância incompleta**: um dos pais teria o alelo dominante sem manifestar a doença e o teria transmitido ao filho, no qual ele se expressou. Os dados dos heredogramas não permitem distinguir as duas hipóteses.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Transgênicos são organismos que receberam, por técnicas de engenharia genética (DNA recombinante), **genes de outra espécie**, que passam a fazer parte do seu genoma e a ser expressos, dando a eles características novas (por exemplo, resistência a pragas ou a herbicidas). OGM é o termo mais amplo para organismos cujo material genético foi alterado artificialmente.\n\n**b)** Os vírus são **específicos** quanto às células que infectam: o HIV só entra em células humanas com o receptor **CD4** (linfócitos T auxiliares, macrófagos), ao qual sua cápsula se liga; células vegetais não têm esse receptor, e o vírus não se replica nelas. Além disso, mesmo que algum gene viral fosse usado como ferramenta, a planta conteria apenas um trecho de DNA, não o vírus completo e infectante; e, na ingestão, esse material é **digerido** (DNA e proteínas são degradados pelas enzimas digestivas), não podendo originar infecção.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** É mais eficiente o **soro**. Ele contém **anticorpos prontos** (imunização passiva), que atuam imediatamente contra o vírus no doente ou no recém-exposto. A vacina induz imunização ativa: o organismo leva dias ou semanas para produzir anticorpos e células de memória, sendo por isso medida preventiva, não de ação imediata.\n\n**b)** É mais correto supor que o **gráfico 2 influenciou o gráfico 1**. Em 1997 a incidência voltou a subir (surto de sarampo), e o aumento de casos levou as autoridades a realizar campanhas de vacinação, elevando a cobertura para quase 100% no mesmo ano. Se fosse o inverso, a alta cobertura vacinal teria reduzido, e não aumentado, a incidência.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Massas: água 1 000 L · 1,00 kg/L = 1 000 kg; etanol 1 000 L · 0,78 kg/L = 780 kg.\n\nd = (1 000 + 780) kg ÷ 2 000 L = 0,89 kg/L = **0,89 g/cm³**\n\nA solução **não é adequada**: tem densidade menor que a do PP (0,90–0,91) e a do PEAD (0,94–0,96); os dois afundariam juntos. Seria preciso uma densidade entre 0,91 e 0,94 g/cm³ (menos etanol na mistura).\n\n**b)** Pedaço da cadeia do PVC (policloreto de vinila): –CH₂–CHCl–CH₂–CHCl–CH₂–CHCl– (um átomo de cloro em carbonos alternados), ou seja, –[CH₂–CHCl]ₙ–.\n\nA densidade maior se deve principalmente ao **átomo de cloro**, muito mais pesado (35,5 u) que o hidrogênio que ele substitui, sem aumentar o volume na mesma proporção: mais massa por unidade de volume. Além disso, a ligação C–Cl é polar, e as atrações dipolo-dipolo aproximam as cadeias.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Reação: BaCO₃ + H₂SO₄ → BaSO₄ + H₂O + CO₂ (proporção 1 : 1).\n\n**Combinação I:** massa de solução = 500 mL · 1,30 g/mL = 650 g; H₂SO₄ = 40% · 650 = 260 g; n = 260 ÷ 98 ≈ 2,65 mol. Como há 2,65 mol de ácido para 2,0 mol de BaCO₃, o ácido está em excesso e todo o BaCO₃ reage: **não há contaminação**.\n\n**Combinação II:** n(H₂SO₄) = 3,0 mol/L · 0,500 L = 1,5 mol. Agora o ácido é limitante: reagem só 1,5 mol de BaCO₃ e **sobram 0,5 mol de BaCO₃** misturados ao BaSO₄. É a combinação II que produz **BaSO₄ contaminado**.\n\n**b)** Na combinação II formam-se 1,5 mol de BaSO₄ (M = 137 + 32 + 4 · 16 = 233 g/mol):\n\nm = 1,5 · 233 ≈ **3,5 · 10² g** (≈ 350 g)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A velocidade é a inclinação da curva V × t. Ela é **máxima no início** e **diminui com o tempo**, pois os reagentes vão sendo consumidos (menor concentração de H⁺ e menor superfície de magnésio), até se anular quando a reação termina (curva horizontal).\n\nAs duas curvas tendem ao mesmo volume (cerca de 49 cm³) porque foi usada **a mesma massa de magnésio**, que é o reagente limitante nos dois casos (o ácido está em excesso): a quantidade final de H₂ depende só do Mg, não da concentração do ácido.\n\n**b)** Velocidades médias no 1º minuto, lidas no gráfico:\n\nA (HCℓ 2 mol/L): 30 cm³ ÷ 1 min = 30 cm³/min\nB (HCℓ 1 mol/L): 15 cm³ ÷ 1 min = 15 cm³/min\n\nDobrando a concentração do ácido, a velocidade dobra: v = k · [H⁺]¹. A reação é de **primeira ordem** em relação ao ácido.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** A vitamina E tem uma longa **cadeia carbônica apolar** (e só um grupo –OH), sendo **lipossolúvel**: dissolve-se em óleos e gorduras, onde pode reagir com o oxigênio no lugar dos lipídios. Já os sucos são soluções **aquosas** (polares), nas quais a vitamina E não se dissolve. A vitamina C, com vários grupos –OH polares, é hidrossolúvel e serve para os sucos.\n\n**b)** Pelo texto, a vitamina C regenera a vitamina E: Vit. E (oxidada) + Vit. C → Vit. E + Vit. C (oxidada). Nessa reação espontânea, a forma oxidada da vitamina E é que se reduz; logo, a semirreação **II** tem o **maior potencial de redução**.\n\nConsequentemente, a **vitamina C** tem maior tendência a se oxidar (menor potencial de redução) e é o **melhor antioxidante (redutor)**: ela é capaz de reduzir até a vitamina E oxidada.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** C₄H₄O₄ com dois grupos carboxila (–COOH) usa 2 C, 4 O e 2 H; sobram 2 C e 2 H. Com o carbono tetravalente, esses dois carbonos só completam as valências com **dupla ligação** entre eles, cada um com um H: HOOC–CH=CH–COOH (ácido butenodioico). A dupla ligação com ligantes diferentes em cada carbono permite isomeria geométrica:\n\n**Cis (ácido maleico):** os dois –COOH do mesmo lado da dupla (H e H também do mesmo lado).\n**Trans (ácido fumárico):** os dois –COOH em lados opostos da dupla.\n\n**b)** Na fusão são rompidas interações **intermoleculares**, principalmente **ligações de hidrogênio** entre as carboxilas de moléculas vizinhas.\n\nNo isômero cis, as duas carboxilas estão próximas e formam **ligação de hidrogênio intramolecular**, o que reduz as ligações de hidrogênio entre moléculas; além disso, a molécula é menos simétrica e se empacota pior no cristal. No trans, todas as carboxilas fazem ligações intermoleculares e o empacotamento é melhor; por isso o cis funde a 130 °C e o trans a 287 °C.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Partindo de 2 mol de acetato de etila e 2 mol de água, a reação ocorre no sentido inverso, formando x mol de ácido e x mol de etanol:\n\nequilíbrio: ácido = x; etanol = x; éster = 2 − x; água = 2 − x\nK = (2 − x)² ÷ x² = 4\n(2 − x)/x = 2 → x = 2/3\n\nHá **2/3 mol ≈ 0,67 mol** de ácido acético no equilíbrio.\n\n**b)** Com 1,0 mol de etanol e 90% de conversão, formam-se 0,9 mol de éster e 0,9 mol de água; resta 0,1 mol de etanol. Seja a a quantidade de ácido no equilíbrio:\n\nK = (0,9 · 0,9) ÷ (a · 0,1) = 4\na = 0,81 ÷ 0,4 ≈ **2,0 mol** (2,025 mol)\n\nOu seja, deve haver cerca de 2,0 mol de ácido acético no equilíbrio (o que exige partir de cerca de 2,9 mol de ácido).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Para a bola seguir em linha reta horizontal com velocidade constante, a força de Magnus deve ser **vertical, para cima**, equilibrando o peso:\n\nF_Magnus = M · g\nk · v · ω = M · g\n**ω = M · g ÷ (k · v)**\n\nO sentido de rotação deve ser o da figura da esquerda (força para cima): a bola gira de modo que sua parte de cima se mova no sentido contrário ao do deslocamento da bola (\"efeito para trás\", backspin).\n\n**b)** Sem rotação, não há força de Magnus e a bola faz lançamento horizontal sob a gravidade:\n\nvertical: h = g · t²/2 → t = √(2h/g)\nhorizontal: **D = v · t = v · √(2h/g)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** O astronauta em repouso no piso do primeiro andar descreve movimento circular de raio R junto com a estação. A força do piso sobre ele é a resultante centrípeta, e a \"gravidade simulada\" é a aceleração centrípeta:\n\na_c = ω² · R = g\n**ω = √(g/R)**\n\n**b)** No segundo andar, o raio da trajetória é R − h, com a mesma velocidade angular:\n\na' = ω² · (R − h) = g · (R − h)/R\nP' = m · a' = m · g · (R − h)/R\n\nComo (R − h)/R < 1, P' < m · g: o peso aparente do astronauta **diminui** em relação ao do primeiro andar (fica multiplicado pelo fator (R − h)/R).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Volume do tecido removido: V = 2,0 cm · 0,30 cm · 0,05 cm = 0,030 cm³ = 3,0 · 10⁻⁸ m³.\n\nm = d · V = 10³ · 3,0 · 10⁻⁸ = 3,0 · 10⁻⁵ kg\n\nAquecimento (ΔT = 63 °C): Q₁ = m · c · ΔT = 3,0 · 10⁻⁵ · 4,2 · 10³ · 63 ≈ 7,9 J\nEvaporação: Q₂ = m · L = 3,0 · 10⁻⁵ · 2,3 · 10⁶ = 69 J\nTotal: Q = Q₁ + Q₂ ≈ **77 J**\n\n**b)** Tempo para fazer o corte de 2,0 cm a 3,0 cm/s:\n\nΔt = 2,0 ÷ 3,0 ≈ 0,67 s\nP = Q ÷ Δt = 77 ÷ 0,67 ≈ **1,2 · 10² W** (≈ 115 W)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** A gota funciona como uma lente plano-convexa (face plana apoiada na régua, face curva com R = 2,5 mm = 2,5 · 10⁻³ m), imersa no ar. Pela equação dos fabricantes, com a face plana tendo raio infinito:\n\nC = (n − 1) · (1/R₁ + 1/R₂) = (1,35 − 1) · (1 ÷ 2,5 · 10⁻³)\nC = 0,35 · 400 = **140 di** (f = 1/140 m ≈ 7,1 mm)\n\n**b)** Imagem direita e ampliada (lupa): objeto entre o foco e a lente. Com A = f ÷ (f − p) = 50:\n\nf − p = f/50\np = f · (1 − 1/50) = (49/50) · (1/140) m\np = 7,0 · 10⁻³ m → **d = 7,0 mm**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** R = ρ · L ÷ A, com L = 10,0 m e A = 4,0 mm² = 4,0 · 10⁻⁶ m²:\n\nr = 1,6 · 10⁻⁸ · 10,0 ÷ 4,0 · 10⁻⁶ = **4,0 · 10⁻² Ω** (0,040 Ω)\n\n**b)** Corrente na linha:\n\ni = P ÷ U = 3 300 ÷ 110 = 30 A\n\nA corrente percorre os dois fios em série (resistência total 2r = 0,080 Ω):\n\nP_dissipada = 2r · i² = 0,080 · 30² = **72 W** (36 W em cada fio)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** A corrente no fio é horizontal (ao longo de L) e o campo B é vertical; a força magnética F = B · i · L é **horizontal**, perpendicular ao fio. Para o equilíbrio sobre o plano liso, as componentes ao longo do plano se anulam:\n\nF · cos θ = m · g · sen θ\nB · i · L · cos θ = m · g · sen θ\n**i = m · g · tg θ ÷ (B · L)**\n\n(com o sentido da corrente tal que a força magnética aponte, na horizontal, para o lado da subida do plano).\n\n**b)** Com a corrente duplicada, F = 2 · m · g · tg θ. Ao longo do plano, a resultante é:\n\nF · cos θ − m · g · sen θ = 2 · m · g · sen θ − m · g · sen θ = m · g · sen θ\n\nPelo teorema da energia cinética, partindo do repouso e percorrendo a distância D:\n\n**E_c = m · g · D · sen θ**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** As distâncias percorridas em cada minuto formam uma PG de primeiro termo 400 m e razão 1/2. Em 10 minutos:\n\nS₁₀ = 400 · (1 − (1/2)¹⁰) ÷ (1 − 1/2) = 800 · (1 − 1/1 024)\nS₁₀ = 800 − 0,78125 ≈ **799,22 m**\n\nDistância ao ponto B: 800 − 799,22 = 0,78 m, que é **menor que 1 metro**.\n\n**b)** f(n) = 800 · (1 − 2⁻ⁿ) nos instantes inteiros: f(0) = 0, f(1) = 400, f(2) = 600, f(3) = 700, f(4) = 750, f(5) = 775…\n\nEsboço (descrição): no plano (t em minutos, f em metros), marcam-se esses pontos e ligam-se os pontos consecutivos; o gráfico é **crescente**, cada vez menos inclinado, e se aproxima da **reta horizontal f = 800 m** (assíntota) sem nunca atingi-la. Em cada minuto a velocidade é menor que no anterior; se, como diz o enunciado, ela cair linearmente dentro de cada período, cada trecho é um arco de parábola côncavo para baixo, passando pelos mesmos pontos.",
+   "confianca": "media",
+   "pendencia": "O item b pede um gráfico, aqui descrito em texto; a forma de cada trecho (segmento ou arco de parábola) depende da leitura da frase sobre a velocidade, mas os pontos e a assíntota f = 800 m são os mesmos."
+  },
+  "0:21": {
+   "resposta": "**a)** As circunferências externas têm centros a 2 unidades uns dos outros e são tangentes entre si: raio 1. A interna está a 2 unidades de cada centro externo e é tangente a elas: também raio 1.\n\nA região sombreada é o hexágono regular de lado 2 menos os seis setores das circunferências externas contidos nele. Cada setor tem raio 1 e ângulo igual ao ângulo interno do hexágono, 120°:\n\nA_hexágono = 6 · (√3/4) · 2² = 6√3\nA_setores = 6 · (120°/360°) · π · 1² = 2π\nA = **6√3 − 2π** ≈ 4,11\n\n**b)** A região é delimitada por seis arcos de 120° e raio 1:\n\nP = 6 · (120°/360°) · 2π · 1 = **4π** ≈ 12,57",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**a)** Pelo teorema de Pitágoras, a cada triângulo acrescenta-se um cateto de medida 1:\n\nOA₂² = OA₁² + 1² = 1 + 1 → OA₂ = **√2**\nOA₃² = 2 + 1 → OA₃ = **√3**\nOA₄² = 3 + 1 → OA₄ = **2**\n\nEm geral OAₙ = √n; logo, OA₁₀ = **√10**.\n\n**b)** No triângulo AₙOAₙ₊₁, retângulo em Aₙ, o cateto oposto a θₙ é AₙAₙ₊₁ = 1 e a hipotenusa é OAₙ₊₁ = √(n + 1):\n\naₙ = sen θₙ = 1 ÷ √(n + 1)\n\na₁ = 1/√2 = **√2/2**\na₂ = 1/√3 = **√3/3**\na₃ = 1/√4 = **1/2**\na₉ = 1/√10 = **√10/10**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**a)** f(x) = (50 − x) · x = **50x − x²**, com 0 < x < 50.\n\nPara área de 400 cm²:\n\n50x − x² = 400\nx² − 50x + 400 = 0\nx = (50 ± √(2 500 − 1 600)) ÷ 2 = (50 ± 30) ÷ 2\n\n**x = 10 cm ou x = 40 cm** (o mesmo retângulo 10 × 40, em posições trocadas).\n\n**b)** f é uma parábola com concavidade para baixo; o máximo está no vértice:\n\nx_v = −b ÷ 2a = 50 ÷ 2 = 25\nf(25) = 25 · 25 = **625 cm²** (o quadrado de lado 25 cm)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**a)** A região é o triângulo retângulo de vértices O(0, 0), (k, 0) e (k, 2k). Base k e altura 2k:\n\n**A(k) = k · 2k ÷ 2 = k²**\n\n**b)** Lados: base k, cateto vertical 2k e hipotenusa (de O a (k, 2k)):\n\nhipotenusa = √(k² + (2k)²) = √(5k²) = k√5\nP(k) = k + 2k + k√5 = **k · (3 + √5)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "**a)** Pela figura, A é o ponto de y = 10ˣ com abscissa 1 e B é o ponto de y = log₁₀ x com ordenada 1 (as linhas tracejadas formam o quadrado de lado 1 junto à origem):\n\nA = (1, 10¹) = (1, 10)\nB: log₁₀ x = 1 → x = 10 → B = (10, 1)\n\nM = ((1 + 10)/2 ; (10 + 1)/2) = **(11/2 ; 11/2) = (5,5 ; 5,5)**\n\n**b)** Pela definição de logaritmo, log₁₀ y é o expoente a que se eleva 10 para obter y:\n\n(f∘g)(x) = f(10ˣ) = log₁₀(10ˣ) = **x**, para todo x real (em particular x > 0);\n(g∘f)(x) = g(log₁₀ x) = 10^(log₁₀ x) = **x**, para todo x > 0 (domínio do logaritmo).\n\nLogo f e g são funções inversas uma da outra (por isso os gráficos são simétricos em relação à reta y = x, e M está sobre essa reta).",
+   "confianca": "media",
+   "pendencia": "As coordenadas de A e B foram lidas na figura (abscissa de A e ordenada de B iguais a 1, pelas linhas tracejadas); confira na prova se essa é a leitura pretendida."
+  }
+ }
+}

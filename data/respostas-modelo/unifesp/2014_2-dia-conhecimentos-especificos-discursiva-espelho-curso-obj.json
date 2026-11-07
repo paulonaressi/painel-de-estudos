@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2014_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Possuem mitocôndrias os organismos **eucariontes**: os **protozoários, as algas, os fungos, as plantas e os animais**. As bactérias são procariontes e não têm organelas membranosas; nas aeróbias, a cadeia respiratória fica na membrana plasmática.\n\n**b)** **Não é correto.** O doador inicial de elétrons é orgânico nos dois processos (a glicose, por exemplo). O aceptor final, porém, só é orgânico na fermentação: lá os elétrons (via NADH) são entregues a uma molécula orgânica derivada do piruvato, como o próprio piruvato, que vira ácido lático, ou o acetaldeído, que vira etanol. Na respiração aeróbica o aceptor final é o **oxigênio (O₂)**, uma molécula inorgânica, que se reduz a água no fim da cadeia respiratória.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A energia vem de **substâncias de reserva** (principalmente amido e outros açúcares) acumuladas antes, quando a planta tinha folhas e fazia fotossíntese, e armazenadas em caules, raízes e órgãos subterrâneos de reserva. Após a chuva, essas reservas são mobilizadas e degradadas pela **respiração celular**, que fornece o ATP e o material orgânico usados na rápida formação dos ramos e folhas novas.\n\n**b)** **Não é válida.** A Caatinga tem clima semiárido: chuvas escassas (em geral menos de 800 mm por ano), concentradas em poucos meses e muito irregulares, com secas longas e imprevisíveis que podem durar mais de um ano. O Cerrado tem clima tropical com estações bem definidas e regulares: verão chuvoso e inverno seco, com pluviosidade anual bem maior (em torno de 1 200 a 1 800 mm).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A lombriga pertence aos **nematódeos**, que têm **tubo digestório completo**, com boca e ânus, como o ser humano: o alimento percorre o tubo num só sentido, com regiões especializadas na digestão e na absorção. A solitária pertence aos **platelmintos**, cujo sistema digestório, quando existe, é incompleto (só uma abertura, a boca); a tênia (cestódeo) nem sequer tem sistema digestório e absorve os nutrientes, já digeridos pelo hospedeiro, diretamente pela superfície do corpo.\n\n**b)** Nenhum dos dois tem sistema circulatório. Na **lombriga**, os nutrientes absorvidos no intestino passam para o **líquido do pseudoceloma**, que banha os órgãos e os distribui pelo corpo. Na **tênia**, os nutrientes absorvidos pelo tegumento chegam às células por **difusão** de célula a célula, o que é possível porque o corpo é achatado e as células ficam próximas da superfície.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O herbívoro se alimenta de vegetais ricos em **celulose**, que é de difícil digestão; os mamíferos não produzem celulase e dependem de microrganismos simbiontes que a fermentam, principalmente no ceco desenvolvido. Um intestino longo aumenta o tempo de permanência do alimento e a superfície de absorção, permitindo aproveitar melhor esse alimento pobre e difícil de digerir. A dieta do carnívoro (carne, rica em proteínas e gorduras) é de digestão e absorção mais fáceis e rápidas, e um intestino curto basta.\n\n**b)** **Não é correto.** Segundo a informação dada, a saliva dos mamíferos contém ptialina; portanto, tanto nos herbívoros quanto nos carnívoros a digestão química começa na **boca**, com a ação da amilase salivar sobre o amido (polissacarídeo). Nos carnívoros essa etapa é pouco expressiva, porque o alimento fica pouco tempo na boca e tem pouco amido, mas ainda assim a digestão química se inicia ali.",
+   "confianca": "media",
+   "pendencia": "No item b a resposta segue a premissa do enunciado; na prática, vários carnívoros estritos produzem pouca ou nenhuma amilase salivar."
+  },
+  "0:5": {
+   "resposta": "**a)** A **pirâmide de energia**. A energia diminui a cada nível trófico, pois grande parte é gasta na respiração e perdida como calor; cada nível recebe só uma fração (cerca de 10%) da energia do anterior. Por isso ela nunca pode ter um nível superior maior que o inferior, como ocorre do nível 1 para o nível 2 nesta estrutura.\n\n**b)** Exemplo: **pirâmide de biomassa** num ecossistema marinho, medida num certo instante: (1) fitoplâncton, 4 g/m²; (2) zooplâncton, 10 g/m²; (3) peixes pequenos, 4 g/m² (valores ilustrativos). O fitoplâncton tem biomassa instantânea menor que a do zooplâncton porque se reproduz muito rápido e é consumido continuamente: sua produção ao longo do tempo é grande, mas o estoque em cada momento é pequeno. Outro exemplo aceito é uma pirâmide de números: (1) uma árvore, (2) milhares de insetos que se alimentam dela, (3) algumas dezenas de aves que comem os insetos.",
+   "confianca": "media",
+   "pendencia": "Questão aberta: outros exemplos bem justificados (pirâmide de números com árvore, insetos e aves, ou com parasitas) também valem; os valores numéricos são ilustrativos."
+  },
+  "0:6": {
+   "resposta": "**a)** O **tungstênio (W)**. Ele é um metal de transição do grupo 6 e do 6º período, no centro do bloco d: os metais dessa região, nos períodos mais baixos, têm ligação metálica muito forte (muitos elétrons de valência participando) e átomos pesados num retículo compacto, o que resulta nos maiores pontos de fusão e densidades da tabela. O mercúrio, do grupo 12, no fim da série de transição, tem a subcamada d completa e ligação metálica fraca; é líquido à temperatura ambiente e tem densidade menor que a do W (cerca de 13,6 g/cm³ contra 19,3 g/cm³).\n\n**b)** Massa de Hg: 1,0 × 10⁻⁴ mol × 200 g/mol = 2,0 × 10⁻² g = 20 mg\n\nVolume de ar com 0,04 mg/m³:\n\nV = 20 mg ÷ 0,04 mg/m³ = **500 m³**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** P = n·R·T ÷ V\n\nP = 8,0 × 10⁻³ × 0,08 × 300 ÷ 0,096\n\nP = 0,192 ÷ 0,096 = **2,0 atm**\n\n**b)** Pela equação, 1 mol de NaHCO₃ produz 1 mol de CO₂: havia 8,0 × 10⁻³ mol de NaHCO₃ na ampola.\n\nMassa real: 8,0 × 10⁻³ × 84 = 0,672 g\n\nMassa esperada em 10 mL: 8,4 g × 10/100 = 0,84 g\n\nPorcentagem: 0,672 ÷ 0,84 × 100 = **80%** do teor indicado na formulação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Fórmula estrutural do formol (metanal): um carbono ligado por dupla a um oxigênio e por ligações simples a dois hidrogênios, H–C(=O)–H, ou H₂C=O.\n\nFunção orgânica: **aldeído**.\n\n**b)** Reação de combustão: CH₂O(g) + O₂(g) → CO₂(g) + H₂O(ℓ), ΔH = −570 kJ\n\nΔH = ΣHf(produtos) − ΣHf(reagentes)\n\n−570 = (−394 − 286) − (Hf(CH₂O) + 0)\n\nHf(CH₂O) = −680 + 570 = **−110 kJ/mol**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** O cádmio é o polo negativo (ânodo, onde ocorre oxidação) e a prata o polo positivo (cátodo, onde ocorre redução), como indica o voltímetro.\n\nΔE° = E°(red, cátodo) − E°(red, ânodo)\n\n1,20 = E°(Ag⁺/Ag) − (−0,40)\n\nE°(Ag⁺/Ag) = **+0,80 V**\n\n**b)** No recipiente 1 o cádmio se oxida (Cd → Cd²⁺ + 2e⁻) e a solução tende a ficar com excesso de cargas positivas: para ela migram os ânions **NO₃⁻**. No recipiente 2 os íons Ag⁺ se reduzem (Ag⁺ + e⁻ → Ag) e a solução tende a ficar com excesso de cargas negativas (sobram íons NO₃⁻): para ela migram os cátions **K⁺**. Assim a ponte salina mantém a neutralidade elétrica das soluções e fecha o circuito.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "O composto 1 é o butan-2-ol (álcool) e o composto 2 é o etoxietano (éter dietílico); ambos têm fórmula C₄H₁₀O.\n\n**a)** O álcool forma ligações de hidrogênio entre suas moléculas, interações mais fortes que as do éter (dipolo-dipolo fracas), e por isso é menos volátil: **x = composto 1** (1,67 kPa) e **y = composto 2** (58,6 kPa).\n\nNa água, o grupo –OH do álcool pode doar e receber ligações de hidrogênio, enquanto o éter só recebe; o álcool é mais solúvel: **w = composto 1** (290 g/L) e **z = composto 2** (69 g/L).\n\n**b)** São isômeros de **função** (mesma fórmula molecular, funções diferentes: álcool e éter). Apresenta atividade óptica o composto 1, que tem carbono quiral (o C2, ligado a H, OH, CH₃ e C₂H₅): **butan-2-ol** (2-butanol).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Durante o choque a bola passa de v = 2 m/s a 0 em Δt = 0,02 s. Pelo teorema do impulso:\n\nF·Δt = m·|Δv|\n\nF = 300 · 2 ÷ 0,02\n\n**F = 3,0 × 10⁴ N** (30 000 N)\n\n**b)** O centro do arco é O e o raio é 10 m. A figura indica que o ponto mais baixo da trajetória fica 5,2 m abaixo do nível de A; logo A está 10 − 5,2 = 4,8 m abaixo de O, e o ângulo θ do cabo com a vertical tem cos θ = 4,8 ÷ 10 = 0,48.\n\nNo instante do abandono v = 0, então não há resultante centrípeta: a tração equilibra a componente radial do peso.\n\nT = m·g·cos θ\n\nT = 300 · 10 · 0,48\n\n**T = 1 440 N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Na bancada horizontal, a normal vale N = m·g = 3 · 10 = 30 N e o atrito cinético é Fat = μ·N = 0,4 · 30 = 12 N. A caixa percorre 20 cm = 0,2 m até parar (a compressão máxima da mola), com o atrito oposto ao deslocamento:\n\nτ(at) = −Fat · d\n\nτ(at) = −12 · 0,2\n\n**τ(at) = −2,4 J** (o atrito retira 2,4 J de energia mecânica)\n\n**b)** A energia cinética inicial vira energia elástica na mola mais a energia dissipada pelo atrito:\n\n½·m·V₀² = ½·K·x² + |τ(at)|\n\n½ · 3 · V₀² = ½ · 180 · 0,2² + 2,4\n\n1,5 · V₀² = 3,6 + 2,4 = 6,0\n\nV₀² = 4\n\n**V₀ = 2 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Do gráfico: A (6 × 10⁵ N/m²; 2 × 10⁻³ m³), B (4 × 10⁵ N/m²; 1 × 10⁻³ m³) e C (3 × 10⁵ N/m²; 4 × 10⁻³ m³). Com T_A = 57 + 273 = 330 K e massa constante:\n\np_A·V_A ÷ T_A = p_B·V_B ÷ T_B\n\n1 200 ÷ 330 = 400 ÷ T_B\n\nT_B = 110 K\n\n**θ_B = 110 − 273 = −163 °C**\n\n**b)** A e C estão na mesma isoterma, logo ΔU(A→C) = 0 e ΔU(B→C) = −ΔU(A→B).\n\nEtapa A→B (compressão): trabalho do gás = −área do trapézio = −(6 + 4)·10⁵ ÷ 2 · 1 × 10⁻³ = −500 J. Pela 1ª lei: ΔU(AB) = Q − τ = −800 − (−500) = −300 J.\n\nEtapa B→C: ΔU(BC) = +300 J; trabalho do gás = área do trapézio = (4 + 3)·10⁵ ÷ 2 · 3 × 10⁻³ = 1 050 J.\n\nQ(BC) = ΔU + τ = 300 + 1 050\n\n**Q(BC) = 1 350 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Tome a parede da janela como referência. A ponta esquerda da placa está a 2,8 + 0,6 = 3,4 m dessa parede e a ponta direita, a 0,6 m.\n\nO raio que sai da ponta esquerda faz 45° com a direção perpendicular à placa: avança 3,4 m na horizontal e sobe 3,4 m; passa, portanto, pela borda superior da janela a 3,4 m da linha da placa.\n\nO raio da ponta direita passa rente à borda inferior da janela, que está a 1,2 m da linha da placa (trecho de parede de 1,2 m).\n\nL = 3,4 − 1,2\n\n**L = 2,2 m**\n\n**b)** O espelho está a 4,4 m da linha da placa. O raio da esquerda (inclinação 1 : 1) atinge o espelho 4,4 − 3,4 = 1,0 m além da parede da janela. O raio da direita avança 0,6 m a cada 1,2 m (razão 1 : 2); em 4,4 m avança 2,2 m, chegando ao espelho 2,2 − 0,6 = 1,6 m além da parede.\n\nx = 1,6 − 1,0\n\n**x = 0,6 m**\n\n(Conferência: os dois raios refletidos se encontram 1,2 m abaixo do espelho, exatamente na posição do observador O.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Os pontos A e B estão ligados ao gerador e a estrela se divide em dois ramos entre eles:\n\nramo de cima (A–D–E–F–B): 4 barras em série → 4 · 20 = 80 Ω;\n\nramo de baixo (A–C–…–G–B): 6 barras em série → 6 · 20 = 120 Ω.\n\nOs dois ramos estão em paralelo:\n\nR(eq) = 80 · 120 ÷ (80 + 120)\n\n**R(eq) = 48 Ω**\n\n**b)** Cada ramo recebe 120 V.\n\nCorrente no ramo de cima: i₁ = 120 ÷ 80 = 1,5 A; corrente no de baixo: i₂ = 120 ÷ 120 = 1,0 A.\n\nAs pontas pedidas têm as barras AD, DE, EF e FB (ramo de cima) e AC e GB (ramo de baixo).\n\nP(cima) = 4 · R · i₁² = 4 · 20 · 1,5² = 180 W\n\nP(baixo) = 2 · R · i₂² = 2 · 20 · 1,0² = 40 W\n\n**P = 180 + 40 = 220 W**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Seja o tanque de capacidade V. No primeiro abastecimento: 0,2V de gasolina e 0,8V de etanol. Com 40% do tanque, a mistura mantém a proporção: 0,08V de gasolina e 0,32V de etanol. Completam-se 0,6V com gasolina:\n\ngasolina = 0,08V + 0,6V = 0,68V\n\n**68% de gasolina comum** (e 32% de etanol).\n\n**b)** Seja e o preço do litro de etanol no 1º abastecimento.\n\n1º abastecimento: gasolina = 1,5e.\n\n2º abastecimento: etanol = 1,1e; gasolina = 1,4 · 1,1e = 1,54e.\n\nDiferença no 2º abastecimento: 1,54e − 1,1e = 0,44e = 0,704\n\ne = 0,704 ÷ 0,44 = 1,60\n\nGasolina no 1º abastecimento: 1,5 · 1,60\n\n**R$ 2,40 por litro**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Completando o quadrado: y = 2x² − 12x + 16 = 2(x − 3)² − 2, com vértice V(3, −2).\n\nA reflexão no eixo x troca y por −y: o vértice de y' é V'(3, 2).\n\nA reflexão no eixo y troca x por −x: o vértice de y'' é V''(−3, −2).\n\nd = √[(3 − (−3))² + (2 − (−2))²] = √(36 + 16) = √52\n\n**d = 2√13** (≈ 7,2)\n\n**b)** Reflexão no eixo x (y → −y): −y = 2x² − 12x + 16, logo\n\n**y' = −2x² + 12x − 16**\n\nReflexão no eixo y (x → −x): y = 2(−x)² − 12(−x) + 16, logo\n\n**y'' = 2x² + 12x + 16**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Pela figura, a cada metro de profundidade a intensidade fica multiplicada por 1/4 (100% → 25% → 6,25% → ≈1,56%…). É uma progressão geométrica de razão 1/4:\n\n**I(x) = I₀ · (1/4)ˣ = I₀ · 4⁻ˣ**, com x inteiro positivo em metros.\n\n**b)** Igualando a lei da figura à de Bouguer-Lambert:\n\nI₀·e^(−μx) = I₀·(1/4)ˣ\n\ne^(−μ) = 1/4\n\nμ = ln 4 = 2 · ln 2\n\nμ = 2 · 0,69\n\n**μ = 1,38 m⁻¹**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Total de grupos de 4 entre 10: C(10, 4) = 210. Grupos sem nenhum dos 2 camundongos com C₁ (escolhidos entre os outros 8): C(8, 4) = 70.\n\nP = 1 − 70 ÷ 210 = 1 − 1/3\n\n**P = 2/3** (≈ 66,7%)\n\n**b)** Os camundongos se dividem em 2 com C₁, 5 com C₂ e 3 sem nenhuma das duas. Escolhe-se 1 dos 2 com C₁ e os outros 3 entre os 8 restantes, com pelo menos 2 de C₂:\n\nexatamente 2 com C₂: C(5, 2) · C(3, 1) = 10 · 3 = 30\n\n3 com C₂: C(5, 3) = 10\n\nCasos favoráveis: 2 · (30 + 10) = 80\n\nP = 80 ÷ 210\n\n**P = 8/21** (≈ 38%)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** O caminho mais curto passa pelas faces VAB e VBC, cruzando a aresta VB. Planificadas, essas duas faces equiláteras formam um losango em que o ângulo em V vale 60° + 60° = 120°. Os pontos M (meio de VA) e N (meio de VC) ficam a 6 cm de V. Pela lei dos cossenos:\n\nMN² = 6² + 6² − 2 · 6 · 6 · cos 120° = 36 + 36 + 36 = 108\n\n**MN = 6√3 cm** (≈ 10,4 cm)\n\n**b)** Planificando a base ABCD (lado 12) com as faces laterais em volta, use eixos com A(0, 0), B(12, 0), C(12, 12). A face VAB rebatida tem vértice (6, −6√3), e M, ponto médio de A e desse vértice, é (3, −3√3). A face VBC rebatida tem vértice (12 + 6√3, 6), e N, ponto médio de C e desse vértice, é (12 + 3√3, 9). O segmento MN atravessa a base cruzando AB e BC, logo é um caminho válido; usar faces opostas (VAB e VCD) dá um caminho maior (≈ 23,2 cm).\n\nΔx = Δy = 9 + 3√3\n\nMN = √2 · (9 + 3√3)\n\n**MN = 9√2 + 3√6 cm** (≈ 20,1 cm)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

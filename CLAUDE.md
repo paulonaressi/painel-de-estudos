@@ -238,6 +238,12 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 - Bloco 2 (06/11/2026): 485 discursivas, Unesp 2017–2020 e Medicina 2018–2023 (447 alta, 33 média,
   5 baixa). Os quatro recortes incompletos (Unesp 2019 q1, Unesp 2018/2 q25, Einstein 2020 q5, Unesp
   2020 q18) e a FMJ 2024 q6 foram corrigidos no extrator e as respostas refeitas por quem coordenou.
+- Bloco Unifesp (06/11/2026): 515 discursivas, 2003–2026 (471 alta, 42 média, 2 baixa: 2013 q15 com dados
+  incoerentes na própria prova e reaplicação 2024 q18 sem a altura da pirâmide). Ficou de fora a 2009
+  (2º dia) q8, que é objetiva com recorte errado (charge misturada às questões 5–7, sem alternativas).
+  Recortes a melhorar na Unifesp antiga: q25 de 2004 e 2005 arrasta o formulário do fim do caderno; em
+  2003–2004 o 1º dígito do número sai cortado na margem. Agentes em paralelo dividem o scratchpad: peça
+  uma subpasta própria a cada um (no lote-02 um arquivo de rascunho sumiu e foi refeito).
 - Primeira rodada: 06/11/2026, 436 discursivas (Unesp 2024–2026/2; Famerp, Famema, Santa Casa,
   Einstein e FMJ 2024–2027), escolha do dono do projeto, sem leitura prévia de amostra. 400 "alta",
   36 "media", nenhuma "baixa". Quem coordenou leu contra a imagem: Unesp 2026/2 q15, Famerp 2025
@@ -296,7 +302,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 3. Filtro por disciplina também na Vunesp (hoje é só etiqueta por questão).
 4. Fechar as lacunas da Unesp (depende de autorização para novas fontes) e ensinar ao extrator os
    layouts que faltam.
-5. Respostas-modelo para o resto da Vunesp (hoje: Unesp 2024–2026/2 e Medicina 2024–2027).
+5. Respostas-modelo para o resto da Vunesp (hoje: Unesp 2017–2026/2, Medicina 2018–2027 e Unifesp).
 6. Busca por texto, cópia offline do ENEM 2009–2023, contas de usuário/sincronização do progresso.
 
 ## Convenções

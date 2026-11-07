@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2024_2-dia-prova-de-conhecimentos-especificos-reaplicacao.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Não foi identificado o nível dos **produtores** (organismos fotossintetizantes, como plantas e algas): o primeiro bloco mostra fotossíntese, PPB e respiração, que são processos desse nível.\n\nNa passagem de um nível trófico para o seguinte, grande parte da energia é perdida na forma de **calor**, liberado na respiração celular e nas demais atividades metabólicas dos organismos; outra parte fica em restos não consumidos e excretas, que vão para os decompositores. Por isso, a energia disponível diminui a cada nível.\n\n**b)** PPL = PPB − respiração = 20 810 − 11 977 = **8 833 kcal/m²/ano** (o que confere com 5 465 + 3 368 do esquema).\n\nA PPL representa a energia que os produtores incorporam em matéria orgânica (biomassa) depois de descontado o gasto com a própria respiração. É a energia usada no crescimento e na reprodução e que fica disponível para os consumidores e decompositores.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Os causadores da covid-19 (SARS-CoV-2) e da dengue são **vírus**. São parasitas intracelulares obrigatórios porque são acelulares e não têm metabolismo próprio: não possuem ribossomos nem enzimas para produzir energia e proteínas. Só se replicam dentro de uma célula hospedeira, usando a maquinaria dela para copiar seu material genético e fabricar suas proteínas.\n\n**b)** A dengue é transmitida pela picada da fêmea do mosquito *Aedes aegypti* (e também do *Aedes albopictus*). Com o aquecimento global e invernos mais amenos, áreas do hemisfério norte passaram a ter temperatura e umidade favoráveis à proliferação do vetor, que ampliou sua distribuição. Além disso, o intenso trânsito de pessoas entre países (globalização, turismo) leva indivíduos infectados a essas regiões, onde os mosquitos se contaminam ao picá-los e passam a transmitir o vírus localmente.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Foi alterado **um único códon**. Comparando os trechos, só um aminoácido muda: o ácido glutâmico (Glu) da sexta posição é substituído por valina (Val). Como cada aminoácido é codificado por um códon do RNAm, a troca de um aminoácido corresponde à alteração de um códon (mutação pontual: na anemia falciforme, GAA ou GAG passa a GUA ou GUG).\n\n**b)** Os heterozigotos (portadores de um alelo normal e um alelo da anemia falciforme) têm maior resistência à malária: o plasmódio se desenvolve mal em hemácias com hemoglobina alterada. Em regiões com muita malária, esses indivíduos sobrevivem e se reproduzem mais que os homozigotos normais (mais vulneráveis à malária) e que os homozigotos doentes (anemia grave). A **seleção natural** favorece o heterozigoto e mantém o alelo em alta frequência na população.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O duplo-heterozigoto (AaDd) forma **4 tipos de gametas**: AD, Ad, aD e ad, em iguais proporções. Isso se relaciona com a **2ª lei de Mendel** (segregação independente), pois os dois pares de alelos estão em cromossomos não homólogos.\n\n**b)** Giulia não é albina e tem polidactilia; sua mãe é albina e sem polidactilia (aadd) e lhe passou os alelos a e d. Logo, Giulia é **AaDd**.\n\nHeitor não é albino e não tem polidactilia; seu pai é albino (aa), então Heitor é **Aadd**.\n\nCruzamento AaDd × Aadd:\n\nP(não albino) = P(A_) em Aa × Aa = 3/4\n\nP(sem polidactilia) = P(dd) em Dd × dd = 1/2\n\nP(menina) = 1/2\n\nP = 3/4 · 1/2 · 1/2 = **3/16**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Duas adaptações das penas além do voo: o **isolamento térmico**, pois as penas retêm uma camada de ar junto ao corpo e ajudam a manter a temperatura corporal constante (endotermia); e a **comunicação visual na reprodução**, já que a cor e a forma da plumagem atuam na corte e no reconhecimento entre parceiros. Também valem impermeabilização (com a secreção oleosa da glândula uropigiana) e camuflagem.\n\n**b)** Haverá alteração **apenas no fenótipo**. A cor vermelha vem dos carotenoides obtidos na dieta de crustáceos; sem eles, a plumagem perde a coloração característica. O genótipo, que é o conjunto de genes herdados, não muda com a alimentação: a mudança é ambiental e não é transmitida aos descendentes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** No WO₃: Nox(W) + 3 · (−2) = 0 → **Nox(W) = +6**.\n\nA óxido-redução ocorre na **etapa 3**: WO₃ + 3 H₂ → W + 3 H₂O. O tungstênio passa de +6 para 0 (reduz-se) e o hidrogênio passa de 0 para +1 (oxida-se). Nas etapas 1 e 2 nenhum elemento muda de Nox.\n\n**b)** Etapa 1: CaWO₄ + 2 HCl → H₂WO₄ + CaCl₂\n\nM(CaWO₄) = 40 + 184 + 4·16 = 288 g/mol; M(W) = 184 g/mol. Cada 1 mol de CaWO₄ fornece 1 mol de W.\n\nCom 100% de rendimento: 288 kg de CaWO₄ → 184 kg de W\n\nm = 69 · 288 ÷ 184 = 108 kg\n\nCom 75% de rendimento: m = 108 ÷ 0,75 = **144 kg** de scheelita.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Na molécula de CO₂ (O=C=O), os átomos estão unidos por **ligações covalentes** (duplas e polares). Entre as moléculas de CO₂, que são apolares, a interação intermolecular é do tipo **dipolo induzido–dipolo induzido** (forças de London). A geometria da molécula é **linear** (ângulo de 180°), pois o carbono não tem pares de elétrons livres e as duas duplas ligações se afastam ao máximo.\n\n**b)** n(CO₂) = p·V ÷ (R·T) = 1,0 · 0,048 ÷ (0,08 · 300)\n\nn(CO₂) = 0,048 ÷ 24 = 2,0 × 10⁻³ mol\n\nPela equação, 1 mol de CaCO₃ gera 1 mol de CO₂: **n(CaCO₃) = 2,0 × 10⁻³ mol**.\n\nm(CaCO₃) = 2,0 × 10⁻³ · 100 = 0,20 g\n\nImpurezas: 0,25 − 0,20 = **0,05 g**.",
+   "confianca": "media",
+   "pendencia": "O item a) fala em ligação \"intermolecular existente na molécula\", o que é ambíguo; a resposta trata das ligações dentro da molécula e das interações entre moléculas."
+  },
+  "0:8": {
+   "resposta": "**a)** Dissociação: C₆H₅COONa(s) → C₆H₅COO⁻(aq) + Na⁺(aq)\n\nO HCl libera íons H⁺, que reagem com os íons OH⁻ do equilíbrio de hidrólise (formando água) e também com o íon benzoato. Com a diminuição de [OH⁻], o equilíbrio se desloca para a direita (princípio de Le Châtelier), e a **concentração de ácido benzoico aumenta**.\n\n**b)** Na hidrólise, [C₆H₅COOH] = [OH⁻] = x, e [benzoato] ≈ 0,5 mol/L:\n\nKh = x² ÷ 0,5 = 2,0 × 10⁻¹⁰\n\nx² = 1,0 × 10⁻¹⁰ → [OH⁻] = 1,0 × 10⁻⁵ mol/L\n\npOH = 5 → pH = 14 − 5 = **9**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A partícula x é a **partícula beta** (β⁻, um elétron emitido pelo núcleo). O número de massa se mantém (35) e o número atômico aumenta de 16 (S) para 17 (Cl):\n\n³⁵₁₆S → ³⁵₁₇Cl + ⁰₋₁β\n\n**b)** S-35 e Cl-35 têm o mesmo número de massa e números atômicos diferentes: são **isóbaros**.\n\nNúmero de meias-vidas: 348 ÷ 87 = 4\n\nA = A₀ ÷ 2⁴ → 10 = A₀ ÷ 16\n\n**A₀ = 160 MBq**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A função oxigenada é **éter** (oxigênio ligado a dois carbonos, C–O–C).\n\nCarbonos terciários (ligados a três outros carbonos): os dois carbonos dos anéis benzênicos ligados às cadeias laterais (um ligado ao CH₂ e o outro ligado ao CH). Total: **2 carbonos terciários**. O CH ligado ao oxigênio está ligado a apenas dois carbonos.\n\n**b)** Pares de elétrons não compartilhados:\n\n4 átomos de Cl · 3 pares = 12\n\n1 átomo de O · 2 pares = 2\n\n2 átomos de N (anel imidazol) · 1 par = 2\n\nTotal: **16 pares**.\n\nO carbono assimétrico é o **CH ligado ao oxigênio do éter**, que tem quatro ligantes diferentes: H, O–CH₂–(diclorofenil), CH₂–(imidazol) e o anel diclorofenil. É esse carbono que deve ser assinalado na figura.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** A caixa está em repouso sobre a barra horizontal; a força da barra sobre ela (normal) equilibra o peso:\n\nN = m·g = 4 · 10 = **40 N**\n\nTomando momentos em relação a O (barra em equilíbrio): o peso da caixa age a 1,0 m de O, e a corrente puxa A, a 0,4 m de O, formando 45° com a vertical. Só a componente vertical da tração, T·cos 45°, gera momento:\n\nT · cos 45° · 0,4 = 40 · 1,0\n\nT · (√2/2) = 100 → T = 100√2 ≈ **141 N**\n\n**b)** Na figura 2, a caixa continua em repouso sobre a barra inclinada. A força total que a barra exerce sobre ela (normal mais atrito) deve equilibrar o peso, então tem a mesma intensidade: **40 N**, vertical e para cima.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Vazão: 4,5 L/min = 4,5 × 10⁻³ m³ ÷ 60 s = **7,5 × 10⁻⁵ m³/s**\n\nΔt = V ÷ vazão = 3 × 10⁻³ ÷ 7,5 × 10⁻⁵ = **40 s**\n\n**b)** Massa de água: 3 L → 3 000 g.\n\nCalor cedido pela água (40 °C → 22 °C): Q = 3 000 · 1 · 18 = 54 000 cal\n\nCalor recebido por cubo de 50 g:\n\naquecer o gelo de −12 °C a 0 °C: 50 · 0,5 · 12 = 300 cal\n\nfundir: 50 · 80 = 4 000 cal\n\naquecer a água de 0 °C a 22 °C: 50 · 1 · 22 = 1 100 cal\n\nTotal por cubo: 5 400 cal\n\nn = 54 000 ÷ 5 400 = **10 cubos**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** v = c ÷ n = 3,0 × 10⁸ ÷ 1,5 = **2,0 × 10⁸ m/s**\n\nO feixe desce na vertical até E₁ e, refletido, atinge a superfície da glicerina com 60° em relação à normal (vertical). Assim, o raio refletido forma 60° com a vertical, e o raio incidente é vertical: o ângulo entre o raio incidente e o refletido é 60°. Como a normal ao espelho é bissetriz desse ângulo:\n\n2i = 60° → **i = 30°**\n\n**b)** sen L = n_ar ÷ n_glicerina = 1,0 ÷ 1,5 = **2/3**\n\nApós a reflexão total, o raio desce a 60° da vertical e reflete em E₂ (horizontal), subindo também a 60° da vertical, ou seja, a 30° da horizontal. Na face lateral direita, a normal é horizontal, então o ângulo de incidência é 30°:\n\n1,5 · sen 30° = 1,0 · sen r\n\n**sen r = 0,75**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** O ponto C completa 4 oscilações em 2 s:\n\nf₁ = 4 ÷ 2 = **2 Hz**\n\nNo mesmo intervalo, a onda percorre y: y = v₁ · Δt = 2·v₁\n\nx é a distância entre duas cristas consecutivas, ou seja, o comprimento de onda: x = λ₁ = v₁ ÷ f₁ = v₁/2\n\ny/x = 2v₁ ÷ (v₁/2) = **4**\n\n**b)** Na refração a frequência não muda, pois é imposta pela fonte: **f₂ = 2 Hz**.\n\nEm cordas sob a mesma tração F, v = √(F/μ):\n\nv₁/v₂ = √(μ₂/μ₁) = √(3μ₁/μ₁) = **√3** (≈ 1,73)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Pela 2ª lei de Ohm, R = ρ·L/A, com o mesmo material (mesmo ρ) em todos os cilindros:\n\nBraço: ρ·L/A = R_B\n\nTórax: ρ·1,5L/(9A) = R_B/6\n\nCada perna: ρ·2L/(4A) = R_B/2\n\n**a)** Na figura 1, a corrente passa pelos dois braços em série (os fios de ligação têm resistência desprezível):\n\nR_eq = R_B + R_B = **2R_B**\n\ni = U ÷ R_eq = **U/(2R_B)**\n\n**b)** Na figura 2, a corrente passa por um braço, depois pelo tórax e se divide entre as duas pernas, que estão em paralelo até B:\n\npernas em paralelo: (R_B/2) ÷ 2 = R_B/4\n\nR_eq = R_B + R_B/6 + R_B/4 = **17R_B/12**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** A torneira fica junto à 1ª palmeira, e cada balde rega no máximo 3 palmeiras. A melhor estratégia é deixar a viagem mais longa para o fim, sem volta.\n\n4 palmeiras: com o 1º balde, rega a 1ª palmeira (sem andar); enche de novo e vai até a 4ª, regando a 2ª, a 3ª e a 4ª: **15 m**.\n\n5 palmeiras: rega a 1ª e a 2ª e volta à torneira (5 + 5 = 10 m); enche e vai até a 5ª, regando a 3ª, a 4ª e a 5ª (20 m). Total: **30 m**.\n\n**b)** São necessárias pelo menos 11 enchidas (31 = 1 + 10 · 3), ou seja, 11 min. O caminho mínimo é regar a 1ª palmeira sozinha e as outras 30 em grupos de 3, com a viagem mais distante por último. Em trechos de 5 m entre palmeiras:\n\nidas e voltas até a 4ª, 7ª, …, 28ª: 2 · (3 + 6 + … + 27) = 2 · 135 = 270 trechos\n\nida final até a 31ª: 30 trechos\n\nTotal: 300 trechos · 6 s = 1 800 s = 30 min\n\nTempo mínimo: 11 + 30 = **41 minutos**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** V é o ponto médio entre F = (4, −4) e a origem:\n\nV = ((4 + 0)/2, (−4 + 0)/2) = **(2, −2)**\n\n**b)** d_P,F = d_P,d:\n\n√((x − 4)² + (y + 4)²) = |x − y| ÷ √2\n\nElevando ao quadrado:\n\n(x − 4)² + (y + 4)² = (x − y)²/2\n\n2(x² − 8x + 16 + y² + 8y + 16) = x² − 2xy + y²\n\n2x² + 2y² − 16x + 16y + 64 = x² − 2xy + y²\n\n**x² + 2xy + y² − 16x + 16y + 64 = 0**\n\n(Confere: V = (2, −2) satisfaz a equação.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Coloque M na origem, AB sobre o eixo x e a base no plano z = 0: A(−2, 0, 0), B(2, 0, 0), C(2, 4, 0), D(−2, 4, 0), H(0, 3, 0) e V(0, 3, h), em que h = VH é a altura.\n\n**a)** V = (1/3) · área da base · altura = (1/3) · 4² · h = **16h/3 cm³**.\n\n**b)** A planificação é o quadrado ABCD com os quatro triângulos laterais apoiados nos seus lados. Cada face lateral tem base 4 cm, e sua altura é a distância de V à aresta correspondente:\n\nVAB: √(3² + h²) → área 2√(9 + h²)\n\nVCD: √(1² + h²) → área 2√(1 + h²)\n\nVBC e VAD: √(2² + h²) → área 2√(4 + h²) cada\n\nÁrea total = 16 + 2√(9 + h²) + 2√(1 + h²) + 4√(4 + h²) cm².\n\nPor exemplo, se VH = 4 cm, então V = 64/3 cm³ e a área é 26 + 2√17 + 8√5 cm².",
+   "confianca": "baixa",
+   "pendencia": "O recorte e o PDF não informam a altura VH nem o ângulo marcado em M; sem esse dado não há valor numérico, e a resposta fica em função da altura h."
+  },
+  "0:19": {
+   "resposta": "**a)** Leia(12233): um 1, um 2 e dois 3 → 11, 12, 23 → Leia(12233) = 111223.\n\nLeia(111223): três 1, dois 2 e um 3 → 31, 22, 13 → **Leia(Leia(12233)) = 312213**.\n\n**b)** Leia(11122): três 1 e dois 2 → resp = \"3122\", e n = 4.\n\nNo loop, cada algarismo diferente de 1 é somado de 1 e concatenado em respx:\n\ni = 1: c = 3 → c = 4 → respx = \"4\"\n\ni = 2: c = 1 → ignorado\n\ni = 3: c = 2 → c = 3 → respx = \"43\"\n\ni = 4: c = 2 → c = 3 → respx = \"433\"\n\nresultado = Leia(433): um 4 e dois 3 → **1423**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Total de turistas: 140 + 280 + 90 + 210 + 190 + 90 = 1 000.\n\n**a)** Sul-africanos: 90 + 90 = 180\n\nP = 180 ÷ 1 000 = **9/50 = 18%**\n\n**b)** Não italianos (novo espaço amostral): 280 + 90 + 190 + 90 = 650\n\nMulheres não italianas: 190 + 90 = 280\n\nP = 280 ÷ 650 = **28/65** (≈ 43%)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

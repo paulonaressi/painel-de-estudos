@@ -1,0 +1,132 @@
+{
+ "indice": "data/questoes/unifesp/2006_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Os polissacarídeos da parede são produzidos por **síntese por desidratação** (condensação de monossacarídeos), que depende de energia. Participam os **cloroplastos**, que fazem a fotossíntese e produzem a glicose (matéria-prima); o **complexo golgiense**, onde os açúcares são unidos e processados em polissacarídeos e empacotados em vesículas; e as **mitocôndrias**, que fornecem o ATP usado nessa síntese.\n\n**b)** As moléculas de gelatina são grandes demais para atravessar a membrana por difusão. Elas são empacotadas em **vesículas de secreção** que brotam do complexo golgiense; essas vesículas se fundem com a membrana plasmática e liberam o conteúdo para fora da célula, por **exocitose** (clasmocitose), depositando-o na parede celular.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Todos os grupos de animais citados — **poríferos, moluscos, anelídeos, artrópodes e cordados** — já existiam no ambiente aquático antes da conquista do ambiente terrestre; entre as plantas, só as **algas verdes** já existiam. Briófitas, pteridófitas, gimnospermas e angiospermas surgiram depois, já adaptadas à terra.\n\n**b)** Duas adaptações das plantas ao ambiente terrestre: a **cutícula** impermeável, que reduz a perda de água por evaporação, e os **estômatos**, que controlam as trocas gasosas. Outras respostas também valem, como os vasos condutores (xilema e floema) que transportam água e seiva, ou a semente e o tubo polínico, que tornaram a fecundação independente da água.",
+   "confianca": "media",
+   "pendencia": "Questão aberta: outras adaptações bem justificadas também valem. O item a admite leituras diferentes sobre quais grupos citar."
+  },
+  "0:3": {
+   "resposta": "**a)** Na **teníase/cisticercose** (*Taenia solium*). A pessoa com a tênia adulta elimina ovos nas fezes; outra pessoa (ou ela mesma) pode ingeri-los em água, alimentos ou mãos contaminadas e desenvolver a **cisticercose**, sem passar pelo porco. Na esquistossomose não há contágio direto: as larvas que saem dos ovos precisam passar pelo caramujo (hospedeiro intermediário) antes de originar as cercárias que penetram na pele.\n\n**b)** Para a teníase: **inspeção sanitária da carne suína** em matadouros e frigoríficos, impedindo a venda de carne com cisticercos. Para a esquistossomose: **saneamento básico** (rede de esgotos e tratamento), que impede que fezes com ovos cheguem às lagoas e rios com caramujos. Outras medidas públicas bem justificadas também valem.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A bile é produzida no **fígado** (armazenada e concentrada na vesícula biliar e lançada no duodeno). Parte dela é reabsorvida no **intestino delgado**, principalmente na porção final (íleo), e volta ao fígado pela circulação.\n\n**b)** A bile é produzida a partir do **colesterol**. As fibras se ligam à bile no intestino e fazem com que ela seja eliminada nas fezes, em vez de ser reabsorvida. Para repor a bile perdida, o fígado precisa usar mais colesterol do sangue para fabricá-la. Assim, uma dieta rica em fibras **diminui o nível de colesterol** no sangue.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)**\n\nGrupo AB: anti-A **+**, anti-B **+**; genótipo **IᴬIᴮ**.\n\nGrupo O: anti-A **−**, anti-B **−**; genótipo **ii**.\n\n(+ indica aglutinação; − indica ausência de aglutinação.)\n\n**b)** Os genes ocorrem em pares nos cromossomos homólogos: cada indivíduo é diploide e tem dois cromossomos de cada tipo, um herdado do pai e outro da mãe. O loco do sistema ABO existe uma única vez em cada cromossomo do par, então cada pessoa tem apenas **dois alelos** desse gene, embora existam três alelos na população.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A DNA-polimerase forma a fita complementar, antiparalela, pareando A com T e C com G:\n\nfita dada: 5' ATGCGT 3'\n\nfita complementar: **3' TACGCA 5'** (ou seja, 5' ACGCAT 3')\n\n**b)** O RNA é complementar à fita usada como molde, com U no lugar de T. Usando a fita 3' TACGCA 5' como molde:\n\nRNA: **5' AUGCGU 3'**\n\nEsse RNA, que leva a informação para a síntese de proteínas, é o **RNA mensageiro (RNAm)**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O esgoto não tratado é rico em matéria orgânica, que é decomposta liberando **nutrientes minerais**, principalmente nitratos e fosfatos. Esses nutrientes funcionam como fertilizantes e provocam a proliferação de plantas aquáticas e algas. É o processo de **eutrofização**.\n\n**b)** Com muitas plantas e algas, a **fotossíntese** é intensa durante o dia e libera grande quantidade de oxigênio na água, fazendo sua concentração passar do normal (supersaturação). Essa situação é passageira: à noite e quando esses organismos morrem e são decompostos por bactérias aeróbias, o oxigênio cai bruscamente, causando a morte de peixes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O extrato fica vermelho em meio ácido (como no HCl) e verde em meio básico (como no NaOH).\n\n**X = NH₄Cl**: é um sal de ácido forte e base fraca; o íon NH₄⁺ sofre hidrólise, NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺, e a solução fica **ácida** (vermelha).\n\n**Y = NaHCO₃**: é um sal de ácido fraco e base forte; o íon HCO₃⁻ sofre hidrólise, HCO₃⁻ + H₂O ⇌ H₂CO₃ + OH⁻, e a solução fica **básica** (verde).\n\n**b)** ClO⁻ + H₂O ⇌ HClO + OH⁻\n\nKh = [HClO] · [OH⁻] ÷ [ClO⁻] ≈ [OH⁻]² ÷ 0,04\n\n[OH⁻]² = 2,5 · 10⁻⁷ · 4 · 10⁻² = 1,0 · 10⁻⁸\n\n[OH⁻] = 1,0 · 10⁻⁴ mol/L → pOH = 4\n\n**pH = 14 − 4 = 10**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Somando as etapas I e II, o NO₃ se cancela e um NO₂ também:\n\nEquação global: **NO₂(g) + CO(g) → NO(g) + CO₂(g)**\n\nA etapa lenta é a de maior energia de ativação, a etapa I (maior \"morro\" do diagrama). Ela determina a velocidade:\n\n**v = k · [NO₂]²**\n\n**b)** **I. Falsa.** No diagrama, a energia dos produtos é menor que a dos reagentes; a reação libera calor (é exotérmica, ΔH < 0).\n\n**II. Falsa.** O catalisador diminui a energia de ativação e acelera igualmente as reações direta e inversa; faz o equilíbrio ser atingido mais depressa, mas não o desloca, e a quantidade de CO₂ no equilíbrio não muda.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Na decomposição pelo calor, os dois sólidos liberam água que estava \"contida\" na estrutura:\n\n2 NaHCO₃(s) → Na₂CO₃(s) + H₂O(g) + CO₂(g)\n\nCa(OH)₂(s) → CaO(s) + H₂O(g)\n\nO CO₂ é o óxido de caráter ácido citado.\n\n**b)** Em 100 g do sal: 43,9 g de água e 56,1 g de ZnSO₄.\n\nn(ZnSO₄) = 56,1 ÷ 161,5 ≈ 0,347 mol\n\nn(H₂O) = 43,9 ÷ 18,0 ≈ 2,44 mol\n\nx = 2,44 ÷ 0,347 ≈ 7\n\nSão **7 moléculas de água** por fórmula unitária: ZnSO₄ · 7 H₂O.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** ΔH = Σ ΔHf(produtos) − Σ ΔHf(reagentes) (N₂ e O₂ são substâncias simples, ΔHf = 0)\n\nΔH = [6 · (−394) + 5 · (−242)] − [2 · (−364)]\n\nΔH = (−2 364 − 1 210) + 728 = −2 846 kJ para 2 mol de nitroglicerina\n\nNa amostra: n = 4,54 ÷ 227 = 0,0200 mol\n\nΔH = (0,0200 ÷ 2) · (−2 846) ≈ **−28,5 kJ** (são liberados cerca de 28,5 kJ)\n\n**b)** 2 mol de nitroglicerina formam 3 + 0,5 + 6 + 5 = 14,5 mol de gases.\n\nn(gases) = (0,0200 ÷ 2) · 14,5 = 0,145 mol\n\nT = 127 + 273 = 400 K; V = 0,100 L\n\nP = n · R · T ÷ V = 0,145 · 0,082 · 400 ÷ 0,100\n\n**P ≈ 47,6 atm**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** 0,5 mol da substância forma 1 mol de H₂O, que tem 2 mol de H. Logo, cada molécula tem **4 átomos de H** (4 g de H por mol).\n\nm(C) = 9 · m(H) = 9 · 4 = 36 g → 3 átomos de C\n\nm(O) = 4 · m(H) = 4 · 4 = 16 g → 1 átomo de O\n\nFórmula molecular: C₃H₄O (a acroleína, ou propenal)\n\n**M = 36 + 4 + 16 = 56 g/mol**\n\n**b)** A reação do triglicerídeo com NaOH é a **saponificação** (hidrólise alcalina de éster):\n\ntriglicerídeo (CH₂–OOC–R / CH–OOC–R' / CH₂–OOC–R'') + 3 NaOH → glicerol (CH₂OH–CHOH–CH₂OH) + R–COONa + R'–COONa + R''–COONa\n\nOs sais de sódio dos ácidos graxos formados são o sabão.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** O dipeptídeo fenilalanina-fenilalanina resulta da ligação peptídica entre o grupo carboxila de uma fenilalanina e o grupo amino da outra:\n\nH₂N–CH(CH₂–C₆H₅)–CO–NH–CH(CH₂–C₆H₅)–COOH\n\n(C₆H₅ = anel benzênico; na forma iônica, a ponta amino aparece como H₃N⁺– e a carboxila como –COO⁻.)\n\n**b)** O solvente mais adequado é a **água**. A glicina tem os grupos polares –NH₂ e –COOH e, em solução, existe principalmente na forma de íon dipolar (H₃N⁺–CH₂–COO⁻). Ela interage fortemente com a água, que é polar, por interações íon-dipolo e ligações de hidrogênio. O benzeno é apolar e não consegue solvatar a glicina.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Componentes da velocidade inicial:\n\nv₀ₓ = 100 · cos 53° = 60 m/s\n\nv₀ᵧ = 100 · sen 53° = 80 m/s\n\nx = v₀ₓ · t = 60 · 12 = **720 m**\n\ny = v₀ᵧ · t − g · t²/2 = 80 · 12 − 5 · 12² = 960 − 720 = **240 m**\n\n(O projétil ainda está no ar, pois só volta ao solo em t = 16 s.)\n\n**b)** Sem resistência do ar, a única força que atua é o **peso**. No ponto O, a força resultante deve ser desenhada **vertical e para baixo**, qualquer que seja a direção de v⃗:\n\nF = m · g = 0,10 · 10 = **1,0 N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** O sistema pescador + barco está inicialmente em repouso e, sem atrito com a água, as forças externas na horizontal são nulas: a quantidade de movimento total continua nula. Ao dar o passo para a proa, o pescador empurra o barco para trás com o pé, e o **barco se desloca para trás** (em direção à popa) enquanto ele anda. O centro de massa do sistema não se move. Quando o pescador para, o barco também para.\n\n**b)** Pela 3ª lei de Newton, a água empurra os remos (e o sistema) para frente com 250 N. Pelo teorema do impulso:\n\nI = F · Δt = 250 · 2,0 = 500 N·s\n\nM = 70 + 180 = 250 kg\n\nI = M · v − 0\n\nv = 500 ÷ 250 = **2,0 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** A lei de Boyle afirma que, a temperatura constante, a pressão de uma massa de gás é inversamente proporcional ao volume: **p · V = constante**. Na tabela, o produto p · V fica sempre próximo de 1 400 (entre 1 398 e 1 414), com variação de cerca de 1%, atribuível a erros de medida. Quando o volume cai à metade (de 48 para 24), a pressão praticamente dobra.\n\n**b)** A coluna de pressão da tabela é a pressão total do ar preso: com os níveis iguais (V = 48), o valor 29 2/16 polegadas corresponde à pressão atmosférica. Para V = 24, a pressão é a de uma coluna de mercúrio de 58 13/16 pol = 1,5 m:\n\np = d · g · h = 14 · 10³ · 10 · 1,5\n\n**p = 2,1 · 10⁵ Pa**\n\n(Coerente com a lei de Boyle: metade do volume, cerca do dobro de p₀.)",
+   "confianca": "media",
+   "pendencia": "O enunciado chama a pressão de desnível, mas os dados mostram que é a pressão total; quem somou p₀ ao valor (obtendo 3,1 · 10⁵ Pa) seguiu a outra leitura."
+  },
+  "0:17": {
+   "resposta": "**a)** A lente projeta uma imagem real da lâmpada, então é convergente.\n\np = 1,8 m; p' = 0,36 m\n\n1/f = 1/p + 1/p' = 1/1,8 + 1/0,36 = 1/1,8 + 5/1,8 = 6/1,8\n\n**f = 0,30 m (30 cm)**, ou vergência de cerca de +3,3 di.\n\n**b)** A lente dos óculos é **convergente**, usada para corrigir a **hipermetropia** (o globo ocular é \"curto\" e a imagem se forma atrás da retina; a lente convergente antecipa a formação da imagem). A presbiopia, também corrigida com lente convergente, é outra possibilidade, mas é menos provável num estudante jovem.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** O som vem dos **ruídos do próprio ambiente**, que contêm muitas frequências. A cavidade junto ao ouvido funciona como um ressonador: o ar dentro dela vibra com mais intensidade nas frequências naturais da cavidade (**ressonância**), que ficam reforçadas. O resultado é aquele \"chiado\" contínuo, que muda com o tamanho e a forma da cavidade — por isso a mão em concha ou um canudo produzem o mesmo efeito.\n\n**b)** A frequência predominante é a fundamental (n = 1):\n\nf = n · v ÷ 2ℓ = 1 · 330 ÷ (2 · 0,30)\n\n**f = 550 Hz**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Resistência de cada fio: área A = π · r² = 3 · (1,0 · 10⁻³)² = 3,0 · 10⁻⁶ m²\n\nR = ρ · ℓ ÷ A = 1,5 · 10⁻⁶ · 10 ÷ 3,0 · 10⁻⁶ = 5,0 Ω\n\nOs dois fios estão ligados em paralelo, nas mesmas extremidades:\n\n**R_eq = 5,0 ÷ 2 = 2,5 Ω**\n\n**b)** Como os fios são iguais, a corrente de 2,0 A se divide igualmente: i₁ = i₂ = 1,0 A, no mesmo sentido.\n\nF = μ₀ · i₁ · i₂ · ℓ ÷ (2π · d)\n\nF = 4π · 10⁻⁷ · 1,0 · 1,0 · 10 ÷ (2π · 2,0 · 10⁻²)\n\n**F = 1,0 · 10⁻⁴ N**, de **atração**, pois as correntes têm o mesmo sentido.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** p(t) = 100 − 15t + 0,5t² é uma parábola de concavidade para cima, decrescente até o vértice t = 15 s. Em t = 0, p = 100. Para p = 0:\n\n0,5t² − 15t + 100 = 0 → t² − 30t + 200 = 0 → t = 10 ou t = 20\n\nNo trecho decrescente, p vai de 100 a 0 quando t vai de 0 a 10.\n\nDomínio: **0 ≤ t ≤ 10 s**\n\n**b)** A cultura é segura quando p ≤ 28:\n\n100 − 15t + 0,5t² = 28 → t² − 30t + 144 = 0 → t = 6 ou t = 24\n\nNo domínio, p ≤ 28 para 6 ≤ t ≤ 10.\n\nTempo mínimo de exposição: **6 segundos**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**a)** Como o seno varia de −1 a 1, f varia de A − |B| a A + |B|:\n\nA + |B| = 14,4 e A − |B| = 9,6\n\nSomando: 2A = 24 → **A = 12**\n\n|B| = 2,4 → **B = 2,4** (ou B = −2,4, que também satisfaz as condições)\n\n**b)** f(t) = A quando sen[π/90 · (t − 105)] = 0:\n\nπ/90 · (t − 105) = kπ, com k inteiro\n\nt = 105 + 90k\n\nPara k = −1: t = 15; para k = −2: t = −75 (negativo).\n\nO menor t positivo é **t = 15**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**a)** Em 1 hora: Q(1) = 0,64 · Q₀. Restam 64% da droga; foram eliminados:\n\n100% − 64% = **36%**\n\n**b)** Q₀ · (0,64)ᵗ = Q₀ ÷ 2 → (0,64)ᵗ = 1/2\n\nt · log 0,64 = −log 2\n\nlog 0,64 = log (2⁶ ÷ 10²) = 6 · 0,30 − 2 = −0,20\n\nt · (−0,20) = −0,30\n\n**t = 1,5 h** (1 hora e 30 minutos)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**a)** Sejam a, b e c as dimensões (raízes da equação). Pelas relações de Girard:\n\nA = a + b + c; B = ab + ac + bc; C = abc\n\nSoma das arestas: 4 · (a + b + c) = 26 → **A = 13/2 = 6,5**\n\nSoma das áreas: 2 · (ab + ac + bc) = 27 → **B = 27/2 = 13,5**\n\nVolume: abc = 9 → **C = 9**\n\n(As dimensões são 1,5 cm, 2 cm e 3 cm.)\n\n**b)** D² = a² + b² + c² = (a + b + c)² − 2(ab + ac + bc)\n\nD² = (13/2)² − 27 = 169/4 − 108/4 = 61/4\n\n**D = √61 ÷ 2 cm ≈ 3,9 cm**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**a)** O triângulo ABD é retângulo em B, pois BD é perpendicular à sombra BA. O triângulo CTD é retângulo em T, pois o raio CT é perpendicular à reta tangente AD no ponto de tangência. Os dois triângulos têm ainda o ângulo de vértice D em comum. Com dois ângulos iguais (caso AA), **são semelhantes**.\n\n**b)** tg BÂD = BD ÷ AB → 1/2 = BD ÷ 10 → BD = 5 m\n\nAD = √(10² + 5²) = 5√5 m\n\nSeja r o raio: CT = r, CB = r, CD = 5 − r. Pela semelhança:\n\nCT ÷ AB = CD ÷ AD → r ÷ 10 = (5 − r) ÷ 5√5\n\n5√5 · r = 50 − 10r → r = 50 ÷ (10 + 5√5) = 10 ÷ (2 + √5)\n\n**r = 10(√5 − 2) ≈ 2,4 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "**a)** p = P(A ∩ B) não pode ser maior que a menor das probabilidades:\n\np ≤ P(B) = 2/3 (máximo quando B ⊂ A)\n\nE, como P(A ∪ B) ≤ 1:\n\np = P(A) + P(B) − P(A ∪ B) ≥ 3/4 + 2/3 − 1 = 5/12\n\n**Mínimo: 5/12; máximo: 2/3**\n\n**b)** P(B | A) = P(A ∩ B) ÷ P(A) = (7/12) ÷ (3/4) = 28/36\n\n**P(B | A) = 7/9**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

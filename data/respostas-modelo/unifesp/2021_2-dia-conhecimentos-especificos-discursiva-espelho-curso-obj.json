@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2021_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A água marinha é **hipertônica** em relação ao citoplasma da ameba, que vive em ambiente de água doce ou no intestino humano. Por osmose, a célula perderia água para o meio, desidrataria e morreria. A ameba não tem parede celular nem mecanismo capaz de compensar essa perda (o vacúolo contrátil serve para eliminar excesso de água, não para repor água perdida).\n\n**b)** O contágio ocorre pela ingestão dos **cistos**, presentes em água ou alimentos contaminados por fezes (falta de saneamento e de higiene).\n\nNos quadros graves, os trofozoítos invadem a parede do intestino grosso, provocando úlceras e sangramentos (disenteria com sangue), e podem ainda se alimentar de hemácias (hematofagia). A perda contínua de sangue e a destruição de hemácias reduzem a quantidade de hemoglobina, causando a **anemia**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Nas vias respiratórias, os **cílios** das células do epitélio que reveste traqueia e brônquios, cujo batimento empurra o muco. Nos espermatozoides, o **flagelo**, responsável pela locomoção da célula. Ambos têm microtúbulos (estrutura 9 + 2) cujo deslizamento depende da dineína.\n\n**b)** A tuba uterina também é revestida por células ciliadas, cujo batimento ajuda a conduzir o ovócito (e depois o embrião) até o útero. Sem dineína, os cílios ficam imóveis, o transporte fica lento ou não ocorre e o embrião pode se implantar na própria tuba, causando **gravidez tubária (ectópica)**.\n\nO homem com a síndrome produz espermatozoides, mas eles não se movem. A medicina reprodutiva pode coletar esses espermatozoides e fazer **fertilização in vitro com injeção intracitoplasmática (ICSI)**: um espermatozoide é injetado diretamente no ovócito, dispensando a movimentação; o embrião formado é transferido para o útero.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A hemoglobina é uma proteína, produzida nos **ribossomos** (polirribossomos livres no citoplasma) do eritroblasto.\n\nNo adulto, os eritroblastos são produzidos na **medula óssea vermelha** (tecido hematopoiético dos ossos chatos, como esterno, costelas, vértebras e ossos do quadril, e das epífises dos ossos longos).\n\n**b)** A **curva 1**. A hemácia adulta não tem mitocôndrias (perdeu as organelas na diferenciação) e, por isso, não faz respiração aeróbica: produz ATP apenas por **fermentação lática**, que não usa gás oxigênio. O oxigênio que ela transporta fica ligado à hemoglobina, mas não é consumido no seu metabolismo. Assim, o volume de O₂ no tubo não varia ao longo do tempo, situação representada pela reta horizontal; as curvas 2 e 3 indicam variações no consumo, que exigiriam respiração celular.",
+   "confianca": "media",
+   "pendencia": "O gráfico fala em \"consumo\" e o texto em \"volume\" monitorado; a resposta assume que a reta horizontal (curva 1) indica que o oxigênio do tubo não se altera, porque a hemácia não usa O₂ para produzir ATP."
+  },
+  "0:4": {
+   "resposta": "**a)** A relação entre gado e araras é de **comensalismo**: as araras se beneficiam dos frutos do acuri que o gado deixa no chão após comer a polpa, e o gado não é beneficiado nem prejudicado por elas.\n\nAs araras-azuis comem os frutos (sementes) do acuri, um produtor; ocupam, portanto, o nível de **consumidor primário** (segundo nível trófico).\n\n**b)** O fogo queima a matéria orgânica (folhas, restos de plantas e animais) que seria decomposta e transformada em amônia (amonificação), e libera para a atmosfera o nitrogênio nela contido, na forma de gases. Além disso, o calor mata os microrganismos do solo que realizam as etapas do ciclo: as bactérias fixadoras de N₂ (livres e associadas às raízes de leguminosas), os decompositores e as bactérias nitrificantes, que convertem amônia em nitrito e nitrato.\n\nCom isso, o solo fica pobre em compostos nitrogenados assimiláveis (amônio e nitrato). As plantas precisam desse nitrogênio para sintetizar proteínas, ácidos nucleicos e clorofila; sem ele crescem menos, e a produção agrícola e das forrageiras cai.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A irmã de Talita é do grupo B e é filha de mãe do grupo O (ii), de quem recebeu obrigatoriamente o alelo i. Seu pai (AB) lhe passou o alelo Iᴮ. Genótipo: **Iᴮi**.\n\nTalita é **Rh positivo**: tem o antígeno (fator) Rh nas hemácias e, por isso, nunca produz anticorpos anti-Rh. A eritroblastose fetal só ocorre quando uma mãe Rh negativo, sensibilizada, produz anticorpos anti-Rh que atacam as hemácias de um feto Rh positivo.\n\n**b)** O sangue do **pai, Gustavo (B⁻)**. Aline é do grupo A e tem no plasma anticorpos anti-B (aglutininas naturais), que reagem imediatamente com o aglutinogênio B das hemácias de Gustavo, causando aglutinação.\n\nA avó materna (O⁻) não tem aglutinogênios A, B nem Rh, sendo compatível. A mãe (A⁺) tem aglutinogênio A, compatível com o ABO de Aline; o fator Rh não causaria aglutinação imediata, pois Aline (Rh⁻), não sensibilizada antes, ainda não tem anti-Rh — embora a transfusão pudesse sensibilizá-la.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A silvita (KCl) apresenta **ligação iônica**, entre o cátion K⁺ (metal alcalino) e o ânion Cl⁻ (halogênio).\n\nNo KCl o potássio está como cátion K⁺. O átomo K (Z = 19) tem distribuição 2, 8, 8, 1; ao perder o elétron da última camada, fica:\n\n**K⁺: K = 2, L = 8, M = 8**\n\n**b)** Massas molares: K = 39 g/mol; Cl = 35,5 g/mol; O = 16 g/mol.\n\nKCl = 39 + 35,5 = 74,5 g/mol\n\nPorcentagem de K no KCl:\n\n39 / 74,5 ≈ 0,523 → **≈ 52%**\n\nA massa de potássio de 1 mol de KCl (74,5 g) corresponde a 1/2 mol de K₂O (2 K por fórmula). K₂O = 2 · 39 + 16 = 94 g/mol, então 1/2 mol = 47 g:\n\n47 / 74,5 ≈ 0,631 → **≈ 63%**\n\nAssim, 100% de KCl equivalem a cerca de 52% de K ou 63% de K₂O, como na tabela.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O irídio tem número atômico 77. O isótopo natural mais abundante é o Ir-193 (62,7%):\n\nnêutrons = A − Z = 193 − 77 = **116**\n\nA característica é a presença de **elétrons livres (deslocalizados)**: na ligação metálica, os elétrons de valência não ficam presos a um átomo e formam um \"mar de elétrons\" em torno dos cátions do retículo, movendo-se com facilidade quando se aplica uma diferença de potencial.\n\n**b)** No decaimento β⁻, um nêutron se transforma em próton e o número atômico aumenta em 1, sem mudar o número de massa (Z = 78 é a platina):\n\n¹⁹²₇₇Ir → ⁰₋₁β + ¹⁹²₇₈Pt + ⁰₀γ\n\nA curva de decaimento é exponencial decrescente: no eixo vertical, a massa (ou atividade) de Ir-192; no horizontal, o tempo em dias. Ela começa em m₀ em t = 0 e passa por m₀/2 em 74 dias, m₀/4 em 148 dias, m₀/8 em 222 dias e m₀/16 em 296 dias, aproximando-se do eixo do tempo sem tocá-lo.",
+   "confianca": "media",
+   "pendencia": "O item b pede o desenho da curva nos eixos da folha de resposta; aqui ela está descrita em texto, com os pontos que devem ser marcados."
+  },
+  "0:8": {
+   "resposta": "**a)** No refrigerante, o sódio está na forma de **íons Na⁺** dissolvidos (cátions sódio hidratados, vindos de sais como o citrato ou o benzoato de sódio).\n\nn(Na) = 27·10⁻³ g ÷ 23 g/mol ≈ 1,17·10⁻³ mol\n\nC = 1,17·10⁻³ mol ÷ 0,350 L ≈ **3,4·10⁻³ mol/L**\n\n**b)** Energia de 613 kJ para aquecer água de 20 °C a 50 °C (Δθ = 30 °C):\n\nQ = m·c·Δθ → 613 = m · 4,18 · 30\n\nm = 613 / 125,4 ≈ **4,9 kg de água**\n\nQuantidade de sacarose na lata (M = 342 g/mol):\n\nn = 36 / 342 ≈ 0,105 mol\n\nEssa quantidade libera 613 kJ na combustão completa, então, por mol:\n\n613 / 0,105 ≈ 5,8·10³ kJ/mol\n\nComo a combustão libera energia: **ΔH ≈ −5,8·10³ kJ/mol**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Para o equilíbrio CaC₂O₄(s) ⇌ Ca²⁺(aq) + C₂O₄²⁻(aq):\n\n**Kps = [Ca²⁺] · [C₂O₄²⁻]**\n\nNa etapa 3, o oxalato de cálcio reage com o ácido sulfúrico numa dupla troca, formando ácido oxálico e CaSO₄: o composto X é o **sulfato de cálcio**.\n\n**b)** O manganês passa de +7 (MnO₄⁻) a +2 (Mn²⁺): ganha 5 elétrons por átomo, 10 para os 2 Mn. O carbono do ácido oxálico passa de +3 a +4: cada H₂C₂O₄ perde 2 elétrons. Logo, 5 H₂C₂O₄ e 10 CO₂:\n\n**2 KMnO₄ + 3 H₂SO₄ + 5 H₂C₂O₄ → 1 K₂SO₄ + 2 MnSO₄ + 10 CO₂ + 8 H₂O**\n\n(Conferência de O: 8 + 12 + 20 = 40 à esquerda; 4 + 8 + 20 + 8 = 40 à direita.)\n\nProporção: 2 mol KMnO₄ → 10 mol CO₂, ou 1 : 5.\n\nn(CO₂) = 5 · 0,01 = 0,05 mol\n\nV(CO₂) = 0,05 mol · 25 L/mol = **1,25 L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** O **ácido L-ascórbico** tem grupo éster: é uma lactona (éster cíclico), com o grupo –C(=O)–O– fazendo parte do anel de cinco átomos.\n\nSão isômeras entre si a **D-glicose e a L-sorbose**, ambas de fórmula molecular C₆H₁₂O₆ (isômeros de função: a glicose é uma aldose, com grupo aldeído; a sorbose é uma cetose, com grupo cetona). As demais não têm a mesma fórmula: sorbitol C₆H₁₄O₆, ácido ascórbico C₆H₈O₆ e ácido 2-ceto-L-gulônico C₆H₁₀O₇.\n\n**b)** Sofre redução a **D-glicose**: na primeira etapa, recebe H₂ (catalisador Ni), e seu grupo aldeído (–CHO) é reduzido a álcool (–CH₂OH), formando o sorbitol.\n\nOs dois carbonos assimétricos do ácido L-ascórbico são: o carbono do anel ligado ao oxigênio do anel e ao hidrogênio (C4, o que se liga à cadeia lateral) e o carbono vizinho da cadeia lateral, ligado a H, OH e CH₂OH (C5). Cada um tem quatro ligantes diferentes. Os outros carbonos do anel participam de ligação dupla (C=C ou C=O) e o CH₂OH tem dois hidrogênios, então não são assimétricos.",
+   "confianca": "media",
+   "pendencia": "O item b pede para marcar os carbonos na fórmula da folha de resposta; aqui eles estão descritos em texto (C4 do anel e C5 da cadeia lateral)."
+  },
+  "0:11": {
+   "resposta": "**a)** Tomando o chão como referência:\n\nEp = m·g·h = 3 · 10 · 5 = **150 J**\n\nNa queda livre, sem resistência do ar, a energia potencial se converte em cinética:\n\nm·g·h = m·v²/2 → v = √(2·g·h) = √(2 · 10 · 5) = √100\n\nv = **10 m/s**\n\n**b)** No lançamento vertical, o gato sobe até a velocidade se anular:\n\nt(subida) = v₀ / g = 4 / 10 = 0,4 s\n\nA descida até o ponto de partida leva o mesmo tempo, então o tempo total no ar é:\n\nt = 2 · 0,4 = **0,8 s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** No instante da partida (sem atritos a considerar), a força de 5 000 N acelera toda a massa do conjunto (2 000 + 500 = 2 500 kg):\n\na = F / m(total) = 5 000 / 2 500 = 2 m/s²\n\nNo engate, a força de tração é a única força horizontal que acelera o reboque com a lancha:\n\nT = m(reboque) · a = 500 · 2 = **1 000 N**\n\n**b)** Considerando o conjunto como um corpo único em repouso na rampa, atuam sobre ele:\n\n**peso (P)**: vertical, para baixo;\n\n**força normal (N)**: perpendicular à rampa, apontando para fora dela;\n\n**força de atrito estático (Fat)**: paralela à rampa, apontando para cima da rampa (impedindo o conjunto de descer).\n\nNo equilíbrio, o atrito equilibra a componente do peso paralela à rampa:\n\nFat = P · sen θ = m·g·sen θ = 2 500 · 10 · 0,6\n\nFat = **15 000 N** (1,5·10⁴ N)\n\n(A normal equilibra a outra componente: N = P · cos θ = 2 500 · 10 · 0,8 = 20 000 N.)",
+   "confianca": "media",
+   "pendencia": "O item b pede o desenho dos vetores na figura da folha de resposta; aqui as forças estão descritas em texto, com direção e sentido."
+  },
+  "0:13": {
+   "resposta": "**a)** Pela malha do gráfico: A (V = 0,5·10⁻³ m³; p = 8·10⁵ Pa), B (V = 2,5·10⁻³ m³; p = 2·10⁵ Pa) e C (V = 0,5·10⁻³ m³; p = 2·10⁵ Pa).\n\nDe C para A o volume é constante (isovolumétrica), então p/T é constante:\n\n2·10⁵ / 800 = 8·10⁵ / T(A) → T(A) = 3 200 K\n\nEm graus Celsius:\n\nθ(A) = 3 200 − 273 = **2 927 °C**\n\n**b)** Num ciclo completo o gás volta ao estado inicial, e a energia interna depende só do estado (da temperatura):\n\nΔU(ciclo) = **0**\n\nA compressão é a transformação B → C, isobárica a 2·10⁵ Pa, com o volume diminuindo de 2,5·10⁻³ para 0,5·10⁻³ m³:\n\n|τ| = p · |ΔV| = 2·10⁵ · 2,0·10⁻³\n\n|τ| = **400 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Velocidade da luz no meio 1:\n\nv₁ = c / n₁ = 3·10⁸ / 1,5 = **2·10⁸ m/s**\n\nPela malha, no meio 1 o raio avança 4 quadrados na horizontal para cada 3 na vertical; o seno do ângulo com a normal (vertical) é 4/5 = 0,8. No meio 2, avança 3 na horizontal para 4 na vertical: seno igual a 3/5 = 0,6. Pela lei de Snell:\n\nn₁ · sen i = n₂ · sen r → 1,5 · 0,8 = n₂ · 0,6\n\nn₂ = 1,2 / 0,6 = **2,0**\n\n**b)** Ao passar do meio 2 para o meio 3, o raio sai rasante à superfície de separação (ângulo de refração de 90°): a luz se afasta da normal, o que só ocorre ao entrar num meio de índice menor. O meio 3 é **menos refringente** que o meio 2, e o ângulo de incidência (cujo seno é 0,6) é o ângulo limite.\n\nn₂ · sen L = n₃ · sen 90° → n₃ / n₂ = sen L\n\n**n₃/n₂ = 0,6** (logo n₃ = 1,2)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Com a chave aberta, a corrente passa pela espira (fio ideal), pelo amperímetro e pelo resistor de 60 Ω, em série com o gerador:\n\nU = R · i = 60 · 6 = **360 V**\n\nCom a chave fechada, os resistores de 30 Ω e 60 Ω ficam em paralelo:\n\nR(eq) = (30 · 60) / (30 + 60) = 20 Ω\n\ni = U / R(eq) = 360 / 20 = **18 A**\n\n**b)** No gerador, o traço maior (polo positivo) está à direita. A corrente sai por ele, passa pelo resistor, entra na espira pelo terminal B, percorre a espira no **sentido anti-horário** (para quem olha a figura) e sai por A em direção ao amperímetro. Pela regra da mão direita, o campo no centro da espira tem **direção perpendicular ao plano da figura e sentido saindo do papel** (para o leitor).\n\nIntensidade, com raio R = 2·10⁻² m:\n\nB = μ · i / (2R) = 1,2·10⁻⁶ · 6 / (2 · 2·10⁻²)\n\nB = 7,2·10⁻⁶ / 4·10⁻² = **1,8·10⁻⁴ T**",
+   "confianca": "media",
+   "pendencia": "O sentido do campo depende da polaridade do gerador lida na figura (traço maior à direita como polo positivo); o item pede para indicá-lo no desenho da folha de resposta."
+  },
+  "0:16": {
+   "resposta": "**a)** Média ponderada pelo número de hospitais de cada perfil:\n\nM = (6 · 3 442 + 8 · 2 840) ÷ (6 + 8)\nM = (20 652 + 22 720) ÷ 14\nM = 43 372 ÷ 14 = 3 098\n\nA média ponderada é de **R$ 3 098,00** por diária.\n\n**b)** O Elmo reduz em 60% as internações em UTI, ou seja, restam 40% delas:\n\n0,40 · N = 28 → N = 28 ÷ 0,40 = **70 internações** (número médio atual em UTI adulta).\n\nDeixam de ir para a UTI: 70 − 28 = 42 pacientes.\n\nDiária de UTI no hospital filantrópico: R$ 1 500,00.\nCusto de um paciente na UTI: 18 · 1 500 = R$ 27 000,00.\nCusto de um paciente fora da UTI: 7 · 900 = R$ 6 300,00.\nEconomia por paciente: 27 000 − 6 300 = R$ 20 700,00.\n\nEconomia total: 42 · 20 700 = **R$ 869 400,00**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Com A = (0, 0) e B = (0, 5), o quadrado ABCD tem lado 5: C = (5, 5) e D = (5, 0). Com G = (8, 0), o quadrado DEFG tem lado 3: E = (5, 3) e F = (8, 3).\n\nTriângulo CEF (retângulo em E): CE = 2 e EF = 3 → área = 2 · 3 ÷ 2 = **3 u.a.**\n\nReta BG: y = 5 − 5x/8. Em x = 5 (reta CD): y = 5 − 25/8 = 15/8, logo J = (5, 15/8).\nO quadrado HIJD tem lado 15/8, então I = (25/8, 15/8) e IJ = 15/8.\nAltura do triângulo JIB relativa a IJ (horizontal): 5 − 15/8 = 25/8.\n\nÁrea de JIB = (15/8 · 25/8) ÷ 2 = **375/128 u.a. ≈ 2,93 u.a.**\n\n**b)** O centro (a, b) equidista de B(0, 5) e C(5, 5), então a = 5/2.\nIgualando as distâncias a B e a G(8, 0):\n(5/2)² + (b − 5)² = (8 − 5/2)² + b²\n6,25 + b² − 10b + 25 = 30,25 + b²\nb = 0,1\n\nCentro: **(5/2; 1/10)**.\nRaio: r² = (5/2)² + (0,1 − 5)² = 6,25 + 24,01 = 30,26 → **r = √30,26 ≈ 5,50**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Num polígono regular de n lados (n par) com lado 2 cm, a distância entre lados opostos é o dobro do apótema:\nd = 2 · cotg(180°/n)\n\nA reta t₁ passa pelo lado oposto do quadrado (n = 4): d = 2 cm.\nA reta t₂ passa pelo lado oposto do hexágono (n = 6): d = 2 · cotg 30° = 2√3 cm.\n\nDistância entre t₁ e t₂: **2√3 − 2 ≈ 1,46 cm**.\n\n**b)** A reta tₖ corresponde ao polígono de n = 2k + 2 lados. Assim, t₂₃ ↔ n = 48 e t₂₄ ↔ n = 50.\n\nt₂₃: 2 · cotg(180°/48) = 2 · cotg 3,75° = 2/x\nt₂₄: 2 · cotg(180°/50) = 2 · cotg 3,6° = 2/t\n\nDistância entre t₂₃ e t₂₄: **2/t − 2/x = 2(x − t)/(t · x)** (em cm).\n\nTambém vale a forma equivalente com senos e cossenos: 2(l/c − o/f).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** B = k · M^(3/4), com M = 16 kg e B = 600 kcal/dia:\n16^(3/4) = (2⁴)^(3/4) = 2³ = 8\n600 = k · 8 → **k = 75**\n\n**b)** Com M_G = 10⁶ · M_P:\nB_G ÷ B_P = (M_G ÷ M_P)^(3/4) = (10⁶)^(3/4) = 10^4,5 = 10⁴ · √10\n\nPela tabela, √10 ≈ 3,1623:\nB_G ÷ B_P ≈ 10⁴ · 3,1623 = **31 623**\n\nA taxa metabólica do animal grande é cerca de 31 623 vezes a do pequeno.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Total de sorteios possíveis: C(10, 6). Sorteios que contêm a carta 1: escolhem-se as outras 5 entre as 9 restantes, C(9, 5).\n\nP = C(9, 5) ÷ C(10, 6) = 126 ÷ 210 = **3/5 = 60%**\n\n(Equivalente: cada carta tem chance m/n = 6/10 de estar entre as sorteadas.)\n\n**b)** Para que as k cartas pré-estabelecidas estejam entre as m sorteadas, as outras m − k cartas saem das n − k restantes:\n\nP = C(n − k, m − k) ÷ C(n, m)\n\nP = [(n − k)! ÷ ((m − k)! · (n − m)!)] · [m! · (n − m)! ÷ n!]\n\n**P = m! · (n − k)! ÷ [n! · (m − k)!]**\n\nDomínio: n, m e k inteiros, com **1 ≤ k ≤ m ≤ n**.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2019_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Falta o **vetor**. Na transmissão sexual o vírus passa diretamente de uma pessoa a outra, sem o mosquito; o hospedeiro (ser humano) e o agente etiológico (vírus) continuam presentes.\n\nAlém da via sexual, a zika é transmitida principalmente pela **picada da fêmea do mosquito *Aedes aegypti*** infectada. Também pode passar da gestante para o feto, através da placenta.\n\n**b)** **Próstata**: produz uma secreção levemente alcalina que neutraliza a acidez da uretra masculina e da vagina, favorecendo a sobrevivência e a motilidade dos espermatozoides.\n\nTambém valem: **glândulas seminais** (vesículas seminais), cuja secreção rica em frutose fornece energia aos espermatozoides; ou **glândulas bulbouretrais**, que lubrificam e limpam a uretra antes da ejaculação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Os vírus são **parasitas intracelulares obrigatórios**: não têm metabolismo próprio e só se multiplicam dentro de células vivas, usando a maquinaria delas. O ovo embrionado fornece células vivas em grande quantidade, onde o vírus inoculado se replica, permitindo obter o material para produzir a vacina.\n\n**b)** A vacina contra a gripe contém vírus **inativados (mortos) ou fragmentos** deles, incapazes de se multiplicar e, portanto, de causar a doença.\n\nEla protege porque seus antígenos estimulam o sistema imunitário a produzir **anticorpos** específicos e **células de memória** (imunização ativa). Num contato posterior com o vírus da gripe, a resposta é mais rápida e intensa, eliminando o agente antes que a doença se instale.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A planta pertence às **angiospermas**, o único grupo vegetal com flores verdadeiras. Além da flor, o órgão exclusivo desse grupo é o **fruto**, que se desenvolve a partir do ovário e protege as sementes.\n\n**b)** Uma característica típica das árvores do Cerrado é a **casca (súber) espessa** do tronco. Ela funciona como isolante térmico e protege os tecidos vivos internos durante as **queimadas** frequentes do Cerrado, além de reduzir a perda de água na estação seca.\n\nOutras respostas bem justificadas também valem, como **raízes profundas** (alcançam a água do lençol freático durante a seca) ou **folhas coriáceas com cutícula espessa** (reduzem a transpiração).",
+   "confianca": "media",
+   "pendencia": "Questão aberta: outras características adaptativas do Cerrado, bem justificadas, também são aceitas."
+  },
+  "0:4": {
+   "resposta": "**a)** **Estrógeno** (estimula o desenvolvimento dos ductos das glândulas mamárias; a progesterona atua no desenvolvimento dos alvéolos).\n\nNo corpo feminino o estrógeno é produzido principalmente pelos **ovários**. A mulher transgênero **não tem essa glândula**: nasceu com corpo masculino e não fez cirurgia, portanto possui testículos, e não ovários. Por isso o hormônio precisou ser fornecido pelo tratamento hormonal.\n\n**b)** **Prolactina**, que estimula a produção e a secreção de leite pelas glândulas mamárias.\n\nEla é produzida pela **adeno-hipófise** (hipófise anterior), glândula presente tanto no corpo masculino quanto no feminino. Portanto, a mulher transgênero **tem** essa glândula; o tratamento estimulou a sua produção de prolactina.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** São da **mesma espécie**. Linhagens diferentes são variedades de milho que se cruzam e geram descendentes férteis — tanto que as sementes compradas germinaram e produziram espigas com grãos capazes de originar uma nova safra.\n\n**b)** As sementes compradas vieram do cruzamento de duas linhagens homozigotas para alelos diferentes (por exemplo, AA × aa). Todas as plantas da primeira safra são **heterozigotas e geneticamente iguais** (Aa), por isso as espigas são uniformes; além disso, o híbrido costuma apresentar **vigor híbrido** (heterose), com alta produtividade.\n\nNa segunda safra, as sementes vieram do cruzamento entre esses híbridos (Aa × Aa). Ocorre **segregação dos alelos** e surgem genótipos variados (AA, Aa e aa, na proporção 1 : 2 : 1, para cada gene). Por isso as plantas não são uniformes, e parte delas perde o vigor híbrido, reduzindo a produtividade.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Ca(OH)₂, cal hidratada: **base** (hidróxido).\nCaCO₃, carbonato de cálcio: **sal**.\n\n**b)** Se a amostra fosse CaCO₃:\nCaCO₃ (s) → CaO (s) + CO₂ (g)\nn = 5,0 ÷ 100 = 0,050 mol → perda de CO₂ = 0,050 · 44 = **2,2 g** (igual à observada).\n\nSe fosse Ca(OH)₂:\nCa(OH)₂ (s) → CaO (s) + H₂O (g)\nn = 5,0 ÷ 74 ≈ 0,0676 mol → perda de H₂O = 0,0676 · 18 ≈ 1,2 g (diferente da observada).\n\nComo só a decomposição do carbonato explica a redução de 2,2 g, a amostra era de CaCO₃.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Os modelos de **Thomson** (elétrons negativos numa esfera de carga positiva) e de **Rutherford-Bohr** (núcleo com prótons positivos e elétrons na eletrosfera). O modelo de Dalton trata o átomo como esfera maciça e indivisível, sem cargas.\n\n**b)** **I. Conservação da massa**: o modelo de **Dalton** já a interpreta, pois nas transformações químicas os átomos apenas se rearranjam, sem ser criados nem destruídos (os modelos posteriores também são compatíveis com essa ideia).\n\n**II. Luz verde dos sais de cobre na chama**: só o modelo de **Rutherford-Bohr**. O calor faz elétrons saltarem para níveis de energia mais altos; ao voltarem aos níveis de origem, emitem a diferença de energia como luz de frequência definida, característica do elemento (verde, no caso do cobre).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O sódio está presente como **cátion Na⁺**.\n\nNa (Z = 11): K = 2, L = 8, M = 1\nNa⁺ (10 elétrons): **K = 2, L = 8**\n\nO átomo de sódio perde o único elétron da camada de valência e fica com 8 elétrons na última camada, a configuração estável de gás nobre (neônio) prevista pela teoria do octeto.\n\n**b)** No xarope: 18 g de sacarose em 20 mL.\nC = 18 g ÷ 0,020 L = **900 g/L**\n\nNo refresco: 1 L de xarope rende 9 L de refresco (diluição de 9 vezes).\nC = 900 ÷ 9 = 100 g/L\nMassa molar de C₁₂H₂₂O₁₁ = 12 · 12 + 22 · 1 + 11 · 16 = 342 g/mol\nC = 100 ÷ 342 ≈ **0,29 mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** São **lipídios**: triglicerídeos (triacilgliceróis), ésteres de glicerol com ácidos graxos, que formam os óleos e gorduras. Sua principal função nutricional é a **reserva e o fornecimento de energia** (além de isolamento térmico e transporte de vitaminas lipossolúveis).\n\n**b)** A reação com hidróxido de sódio é a **saponificação** (hidrólise alcalina do éster), que forma glicerol e o sal sódico do ácido graxo (sabão), na proporção 1 : 3.\n\nGlicerol (propano-1,2,3-triol):\nHO–CH₂–CH(OH)–CH₂–OH\n\nDodecanoato (laurato) de sódio, 3 mol:\nCH₃–(CH₂)₁₀–COO⁻ Na⁺",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Ao esmagar a polpa, muitas células se rompem: a enzima e o catecol se misturam, e a **superfície de contato** com o oxigênio do ar aumenta muito. Com mais encontros entre reagentes, a reação fica mais rápida e o escurecimento também.\n\nA polifenoloxidase é um **catalisador biológico**: diminui a energia de ativação e acelera a oxidação do catecol a quinona, sem ser consumida.\n\n**b)** O catecol tem a função **fenol** (grupos –OH ligados diretamente ao anel aromático).\n\nO oxigênio passa de **Nox 0 no O₂** para **Nox −2 na água**: ele ganha elétrons, isto é, sofre redução. A espécie que se reduz provoca a oxidação da outra (o catecol), por isso o O₂ é o **agente oxidante**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Queda livre a partir do repouso: s = g · t²/2 = 5t².\ns(1) = 5 · 1² = 5 m\ns(3) = 5 · 3² = 45 m\nDistância entre t = 1 s e t = 3 s: 45 − 5 = **40 m**\n\n**b)** Tempo para o tijolo descer os 70 m:\n70 = 5t² → t² = 14 → t = √1400 ÷ 10 = 37 ÷ 10 = 3,7 s\n\nO grito, emitido em t = 1 s, percorre cerca de 70 m até o operário no solo:\nΔt_som = 70 ÷ 350 = 0,2 s → o operário ouve em t = 1,2 s.\n\nTempo disponível para reagir: 3,7 − 1,2 = **2,5 s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** A tração no fio é a resultante centrípeta:\nT = m · v²/L\n\nComo Ec = m · v²/2 = 4 J, então m · v² = 8 J:\nT = 8 ÷ 1 = **8 N**\n\n**b)** Na colisão perfeitamente inelástica, a quantidade de movimento se conserva e as esferas seguem juntas:\nm · v = 2m · v' → v' = v/2\n\nEc' = (2m) · (v/2)²/2 = m · v²/4 = Ec/2\nEc' = 4 ÷ 2 = **2 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Com vazão de 3 L/min, 6 L de líquido passam pelo aparelho em 2 min = 120 s.\nE = P · Δt = 320 · 120 = **38 400 J** (3,84 · 10⁴ J)\n\n**b)** Massa de 6 L do líquido (densidade 800 kg/m³ = 0,8 kg/L):\nm = 0,8 · 6 = 4,8 kg\n\nQ = m · c · Δθ\n38 400 = 4,8 · c · (30 − 25)\nc = 38 400 ÷ 24 = **1 600 J/(kg · °C)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A frente do caminhão está a p = 15 m da lente convergente (f = 3 m):\n1/p' = 1/f − 1/p = 1/3 − 1/15 = 4/15 → p' = 3,75 m\n\nAumento: A = −p'/p = −3,75 ÷ 15 = −0,25\ny = 0,25 · 2 = **0,5 m** (imagem real e invertida)\n\n**b)** A traseira do caminhão está a p = 15 + 6 = 21 m:\n1/p' = 1/3 − 1/21 = 6/21 → p' = 3,5 m\n\nComprimento da imagem: x = 3,75 − 3,5 = **0,25 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Pela segunda lei de Ohm: R = ρ · L/S → S = ρ · L/R.\n\nS₁ ÷ S₂ = (L₁/R₁) ÷ (L₂/R₂)\nCom L₁ = 5 mm, R₁ = 9 · 10⁹ Ω, L₂ = 10 mm e R₂ = 63 · 10⁹ Ω:\nS₁ ÷ S₂ = (5/9) ÷ (10/63) = (5 · 63) ÷ (9 · 10) = **3,5**\n\n**b)** Fio A com 10 mm: R_A = 63 · 10⁹ Ω. Fio B com 5 mm: R_B = 9 · 10⁹ Ω.\nEm série: R = 72 · 10⁹ Ω\n\nP = U²/R = 9² ÷ (72 · 10⁹) = 81 ÷ (72 · 10⁹)\nP ≈ **1,1 · 10⁻⁹ W** (1,125 · 10⁻⁹ W)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** c = 272 mm = 27,2 cm\nn = (5 · 27,2 + 28) ÷ 4 = (136 + 28) ÷ 4 = 164 ÷ 4 = **41**\n\n**b)** Isolando c: c = (4n − 28) ÷ 5.\nn = 38 → c = 124 ÷ 5 = 24,8 cm\nn = 40 → c = 132 ÷ 5 = 26,4 cm\n\nOs possíveis suspeitos são os pares (c, h) com **24,8 ≤ c ≤ 26,4** (em cm) e **1,60 ≤ h ≤ 1,70** (em m).\n\nNo gráfico, com c no eixo horizontal e h no vertical, a representação é a **região retangular** (bordas e interior) de vértices (24,8; 1,60), (26,4; 1,60), (26,4; 1,70) e (24,8; 1,70).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Na rodada ímpar o dinheiro é multiplicado por 1,5; na par, por 0,5. A cada duas rodadas, o fator é 1,5 · 0,5 = 0,75.\n\nApós 4 rodadas: x · 0,75² = 202,50\nx · 0,5625 = 202,50\nx = **R$ 360,00**\n\n**b)** Após 20 rodadas (10 pares de rodadas): V = 1 000 · 0,75¹⁰.\n\nlog 0,75 = log 3 − log 4 = 0,477 − 2 · 0,301 = −0,125\nlog V = 3 + 10 · (−0,125) = 3 − 1,25 = 1,75\n\nV = 10^1,75 ≈ **R$ 56,00** (pela tabela).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Como SI é perpendicular a NF e passa pelo seu ponto médio I, S pertence à mediatriz de NF: **SN = SF**.\n\nNo triângulo SEF (retângulo em E): SF = √(8² + 6²) = 10 cm → **NS = 10 cm**.\n\nNo triângulo NUS (retângulo em U): US = √(10² − 8²) = 6 cm, logo UE = 6 + 8 = 14 cm.\n\nÁrea do trapézio UNFE = (8 + 6) · 14 ÷ 2 = **98 cm²**\n\n**b)** NF² = 14² + (8 − 6)² = 200 = SN² + SF² (100 + 100). Logo o triângulo SNF é **retângulo em S**, com catetos 10 e hipotenusa 10√2.\n\nÁrea de SNF = 10 · 10 ÷ 2 = 50 cm²\nRaio da circunferência inscrita (triângulo retângulo): r = (10 + 10 − 10√2) ÷ 2 = 10 − 5√2 cm\nÁrea do círculo = π(10 − 5√2)² = π(150 − 100√2) = 50π(3 − 2√2) cm²\n\nÁrea verde = **50 − 50π(3 − 2√2) ≈ 23,0 cm²**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Usando os restos na divisão por 3: o dado C sempre dá 5 (resto 2); o dado B dá 2 (resto 2) ou 6 (resto 0); o dado A dá restos 0, 1 e 2, cada um com probabilidade 1/3 (faces {3, 6}, {1, 4} e {2, 5}).\n\nQualquer que seja a soma de B e C, exatamente um dos três restos de A completa um múltiplo de 3, com probabilidade 1/3.\n\nP = **1/3**\n\n**b)** Cada par de dados tem probabilidade 1/3 de ser sorteado.\nPar A e B: A completa o múltiplo de 3 com probabilidade 1/3.\nPar A e C: também 1/3.\nPar B e C: as somas possíveis são 2 + 5 = 7 e 6 + 5 = 11, nenhuma múltipla de 3 → probabilidade 0.\n\nP = (1/3) · (1/3 + 1/3 + 0) = **2/9**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A inclinação é a razão entre a altura (BC) e o afastamento horizontal (AB). No limite, 1 : 12:\nBC ÷ AB = 1/12 → AB = 12 · 10 = **120 cm (1,2 m)**\n\n**b)** Com inclinação de 5%:\nBC ÷ AB = 0,05 → AB = 10 ÷ 0,05 = 200 cm\n\nAC é a hipotenusa do triângulo ABC (retângulo em B):\nAC = √(200² + 10²) = √40 100 = **10√401 cm** (≈ 200,2 cm)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

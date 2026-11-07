@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2020_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O fenômeno é a **eutrofização**: o excesso de nutrientes (nitratos e fosfatos dos fertilizantes) favorece a proliferação das algas.\n\nPirâmide de biomassa (da base para o topo):\ntopo → ave (consumidor secundário)\nmeio → peixe (consumidor primário)\nbase → sargaço (produtor)\n\nA base é a mais larga, pois a biomassa diminui a cada nível trófico.\n\n**b)** Corresponde à **produtividade primária líquida (PPL)**. Os 20 milhões de toneladas são a biomassa efetivamente acumulada pelas algas, isto é, a matéria orgânica produzida na fotossíntese (produtividade primária bruta) descontado o que as próprias algas consomem na respiração. É essa biomassa que fica disponível para os consumidores.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O microRNA pareia com o RNA mensageiro por complementaridade de bases (A–U, C–G). À sequência CAGU corresponde **GUCA**.\n\nOutra molécula de RNA que se liga ao RNA mensageiro é o **RNA transportador (RNAt)**, que pareia seu anticódon com os códons do RNAm durante a tradução (também o RNA ribossômico, componente do ribossomo, se associa ao RNAm).\n\n**b)** Pluripotência é a capacidade de as células-tronco embrionárias se **diferenciarem em praticamente todos os tipos celulares** do organismo (derivados dos três folhetos germinativos).\n\nVantagem das iPS: como são obtidas de células adultas do próprio paciente, os tecidos formados são **geneticamente compatíveis** com ele, o que reduz o risco de **rejeição** no transplante; além disso, dispensam a destruição de embriões.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** À noite, os ostíolos dos estômatos da árvore estavam **fechados** (sem luz e sem transpiração, a planta não absorvia água). Com isso, a entrada de CO₂ da atmosfera para o mesófilo fica **reduzida ou interrompida**; de todo modo, no escuro não há fotossíntese para consumir esse gás.\n\n**b)** O fluxo de água foi medido no **xilema** (lenho), que conduz a seiva bruta (água e sais minerais).\n\nA hidratação não basta porque o toco, sem folhas, **não faz fotossíntese** e não produz matéria orgânica. Para continuar vivo, suas células precisam de açúcares para a respiração celular. Esses compostos orgânicos devem vir da árvore vizinha, pelo **floema**, através das raízes fundidas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Os chips interagem com os **neurônios** das áreas motoras do cérebro (córtex motor), captando os impulsos elétricos que eles geram.\n\nOs nervos que ligam a medula espinhal aos músculos da perna são **nervos raquidianos (espinhais) motores**, ou seja, formados por fibras eferentes de neurônios motores.\n\n**b)** O afastamento repentino é um **ato reflexo** (arco reflexo medular). A medula recebe o estímulo pelo neurônio sensitivo e, sem participação do cérebro, envia a resposta pelo neurônio motor ao músculo da perna.\n\nA sensação de dor depende de a informação **subir pela medula até o cérebro**, o que a lesão impede. A transmissão wireless ocorre num **único sentido**, do cérebro para os receptores da coluna, e não leva ao cérebro os impulsos sensitivos vindos da perna.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Pertence ao gênero ***Klebsiella***.\n\nCaracterística exclusiva das bactérias que as coloca no Reino Monera: são **procariontes**, isto é, não têm núcleo delimitado por carioteca (o material genético fica disperso no citoplasma) nem organelas membranosas.\n\n**b)** Bactéria oportunista é a que normalmente não causa doença num organismo saudável, mas provoca infecção quando as **defesas do hospedeiro estão enfraquecidas** (imunidade baixa, internação, uso de cateter etc.).\n\nDo ponto de vista evolutivo, ocorre **seleção natural**: o fenótipo hipermucoviscoso surge por mutação, independentemente do antibiótico. O tratamento elimina as bactérias sem o biofilme protetor, enquanto as hipermucoviscosas, protegidas, sobrevivem e se reproduzem. Assim, a frequência desse fenótipo aumenta ao longo das gerações.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Substância simples: o **oxigênio (O₂)**, do cilindro I. O ar sintético contém substâncias simples, mas é uma mistura.\n\nSolução aquosa ácida: o **dióxido de carbono (CO₂)**, do cilindro IV, que é óxido ácido:\nCO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻\n\n**b)** Pelo princípio de Avogadro, volumes iguais de gases, na mesma pressão e temperatura, têm o mesmo número de moléculas. Como os quatro cilindros têm 280 kPa, 100 L e 20 °C:\n\nmoléculas I : II : III : IV = **1 : 1 : 1 : 1**\n\nÁtomos de oxigênio (sendo n o número de moléculas em cada cilindro):\ncilindro II: 0,21n moléculas de O₂ → 0,42n átomos de O\ncilindro III: n moléculas de N₂O → n átomos de O\n\nProporção: 0,42n : n = **21 : 50** (0,42 : 1).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O hidróxido de magnésio é um composto iônico: há **ligação iônica** entre o cátion Mg²⁺ e os ânions hidróxido, e **ligação covalente** entre O e H dentro de cada hidróxido:\n\n[H–O]⁻ Mg²⁺ [O–H]⁻\n\nO método da última etapa é a **evaporação** do solvente (cristalização), com a exposição ao sol.\n\n**b)** Etapa 2:\nMg(OH)₂ (s) + H₂SO₄ (aq) → MgSO₄ (aq) + 2 H₂O (l)\n\nMassas molares (H = 1, O = 16, Mg = 24,3, S = 32):\nMg(OH)₂ = 58,3 g/mol\nMgSO₄·7H₂O = 24,3 + 32 + 64 + 7 · 18 = 246,3 g/mol\n\nn(Mg(OH)₂) = 5,83 ÷ 58,3 = 0,100 mol\nProporção 1 : 1 → 0,100 mol de MgSO₄·7H₂O\n\nm = 0,100 · 246,3 ≈ **24,6 g** de sulfato de magnésio hepta-hidratado.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** 80 mg / 100 mL = 0,080 g / 100 mL → **0,08% (m/V)**.\n\nMassa molar de C₆H₈O₆: 6 · 12 + 8 · 1 + 6 · 16 = 176 g/mol.\nConcentração em g/L: 0,80 g/L.\nC = 0,80 ÷ 176 ≈ **4,5 · 10⁻³ mol/L**.\n\n**b)** pH = 2 → **[H⁺] = 10⁻² mol/L** no suco.\n\nDiluição de 200 mL para 2 L (fator 10):\n[H⁺] = 10⁻² · (0,2 ÷ 2) = 10⁻³ mol/L\n**pH da limonada = 3**\n\n(Na diluição de um ácido fraco a ionização aumenta um pouco, mas na aproximação usual o pH fica 3.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Iodo: Z = 53.\nNêutrons: 131 − 53 = **78**.\nElétrons do ânion I⁻ (ganhou 1 elétron): 53 + 1 = **54**.\n\n**b)** Equilíbrio de solubilidade:\nNaI (s) ⇌ Na⁺ (aq) + I⁻ (aq)\n\nNuma solução saturada com corpo de fundo, o equilíbrio é **dinâmico**: a dissolução do sólido e a precipitação dos íons continuam ocorrendo, com a mesma velocidade, sem mudança das quantidades totais. Assim, íons ¹³¹I⁻ radioativos do sólido passam para a solução, enquanto íons I⁻ não radioativos da solução se depositam no sólido. Essa troca contínua torna a solução radioativa e diminui a radioatividade do sólido.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Função comum: **álcool** (grupo hidroxila, –OH, ligado a carbono saturado). No ácido láctico há também a função ácido carboxílico.\n\nO carbono assimétrico do ácido láctico é o **carbono 2**, o que tem o grupo –OH (marcado com *):\nCH₃–C*H(OH)–COOH\nEle está ligado a quatro grupos diferentes: –CH₃, –H, –OH e –COOH.\n\n**b)** Esterificação (a hidroxila do mentol reage com a carboxila do ácido láctico, liberando água):\n\nC₁₀H₁₉–OH + HOOC–CH(OH)–CH₃ ⇌ CH₃–CH(OH)–COO–C₁₀H₁₉ + H₂O\n\nem que C₁₀H₁₉– é o anel do mentol (ciclo-hexano com os grupos metil e isopropil).\n\nO lactato de mentila tem baixa solubilidade em água porque sua molécula é **predominantemente apolar**: a grande cadeia carbônica do mentol (anel com metil e isopropil) prevalece sobre os poucos grupos polares (uma hidroxila e o grupo éster), que fazem poucas ligações de hidrogênio com a água.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Na posição A o radar aponta na horizontal (ângulo 0); na posição B, o ângulo é α = 1 rad.\n\nΔt = Δθ ÷ ω = 1 ÷ 0,02 = 50 s\nv = Δs ÷ Δt = 8 500 ÷ 50 = **170 m/s**\n\n**b)** No desacoplamento, só agem forças internas: a quantidade de movimento se conserva.\n\nM · 4 600 = (M/3) · 3 000 + (2M/3) · v_c\n4 600 = 1 000 + (2/3) · v_c\nv_c = 5 400 km/h\n\nEm m/s: v_c = 5 400 ÷ 3,6 = **1 500 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Na figura 2 agem na coroa: o **peso** (P, vertical para baixo), a **tração** do fio do dinamômetro (T, vertical para cima) e o **empuxo** da água (E, vertical para cima). Em equilíbrio: T + E = P.\n\nNo ar, a leitura é o próprio peso: P = 8,0 N.\nm = P ÷ g = 8,0 ÷ 10 = **0,80 kg**\n\n**b)** E = P − T = 8,0 − 7,6 = 0,4 N\nE = d_água · V · g → V = 0,4 ÷ (10³ · 10) = 4 · 10⁻⁵ m³\n\nd = m ÷ V = 0,80 ÷ (4 · 10⁻⁵) = **2,0 · 10⁴ kg/m³**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Quando o objeto chega a C (centro de curvatura), sua imagem também se forma em C. Assim, no mesmo intervalo de tempo, o objeto percorre 12 cm e a imagem percorre 48 cm.\n\n|V_IM ÷ V_OB| = (48 ÷ Δt) ÷ (12 ÷ Δt) = **4**\n\n**b)** Imagem real, invertida e 4 vezes maior: p' = 4p.\nDistância entre objeto e imagem: p' − p = 48 + 12 = 60 cm → 3p = 60 → p = 20 cm e p' = 80 cm.\n\n1/f = 1/p + 1/p' = 1/20 + 1/80 = 5/80\n**f = 16 cm**\n\n(Conferência: C fica a 2f = 32 cm do vértice, 12 cm além do objeto e 48 cm antes da imagem.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Com a onda indo para a direita, cada ponto repete, logo depois, o movimento do ponto à sua esquerda:\n\n**P**: está entre um vale (à esquerda) e uma crista (à direita), num trecho que sobe para a direita → velocidade **para baixo (↓)**.\n**Q**: está numa crista, posição de afastamento máximo → **v = 0**.\n**R**: está entre uma crista (à esquerda) e um vale (à direita) → velocidade **para cima (↑)**.\n**S**: a perturbação ainda não chegou até ele → **v = 0**.\n\n**b)** Entre a crista e o vale marcados (4,8 m) há 1,5 comprimento de onda:\n1,5λ = 4,8 → λ = 3,2 m\n\nDa mão até a frente da onda, a figura mostra 3,5 comprimentos de onda, formados em 2 s:\ndistância percorrida = 3,5 · 3,2 = 11,2 m\nv = 11,2 ÷ 2 = **5,6 m/s**\n\n(Equivalente: f = 3,5 ÷ 2 = 1,75 Hz e v = λf = 3,2 · 1,75 = 5,6 m/s.)",
+   "confianca": "media",
+   "pendencia": "A contagem de 3,5 comprimentos de onda entre a mão e a frente da onda foi lida na figura; confira-a na sua prova."
+  },
+  "0:15": {
+   "resposta": "**a)** A barra e os fios têm resistência desprezível; toda a tensão do gerador fica no resistor:\n\nU_R = **200 V**\ni = U ÷ R = 200 ÷ 40 = 5 A\nP = U · i = 200 · 5 = **1 000 W**\n\n**b)** A corrente na barra é a mesma do circuito em série: **i = 5 A**.\n\nA força magnética na barra (vertical para cima) equilibra o peso do objeto:\nF = B · i · L = 1,6 · 5 · 0,50 = 4,0 N\nM · g = F → M = 4,0 ÷ 10 = **0,40 kg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** México: 37 · 3 + 36 · 2 + 63 · 1 = 111 + 72 + 63 = **246 pontos**.\nCanadá: 35 · 3 + 64 · 2 + 53 · 1 = 105 + 128 + 53 = **286 pontos**.\n\nNova classificação: EUA (621), Brasil (326), Canadá (286), México (246), Argentina (200), Cuba (191).\nClassificação atual (pelo ouro): EUA, Brasil, México, Canadá, Cuba, Argentina.\n\nEUA e Brasil mantêm 1º e 2º lugares; **Canadá e México trocam de posição** (3º e 4º) e **Argentina e Cuba também trocam** (5º e 6º).\n\n**b)** As edições do século XXI: 2003, 2007 (157), 2011, 2015 e 2019 (171).\nMédia 146,6 → soma = 5 · 146,6 = 733.\nMediana e moda iguais a 141 → dois valores iguais a 141 (o terceiro termo e mais um).\nQuinto valor: 733 − (157 + 171 + 141 + 141) = 123.\n\nSequência crescente: **123, 141, 141, 157, 171**.\n\nDesvio padrão entre 171 e 123: média = 147; desvios = ±24.\nσ = √[(24² + 24²) ÷ 2] = **24 medalhas**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Os pontos a 1 m do triângulo, do lado de fora, formam uma curva com três segmentos paralelos aos lados (de mesmo comprimento que eles, afastados 1 m) ligados por três arcos de circunferência de raio 1 m centrados em A, B e C. Esboço: um \"triângulo de cantos arredondados\" envolvendo ABC.\n\nOs três arcos somam uma volta completa (a soma dos ângulos externos é 360°): 2π · 1 = 2π m.\nHipotenusa: BC = √(3² + 4²) = 5 m.\n\nComprimento de λ = 3 + 4 + 5 + 2π = **12 + 2π ≈ 18,3 m**.\n\n(Do lado de dentro, o único ponto a 1 m dos três lados é o incentro, pois o raio da circunferência inscrita é (3 + 4 − 5) ÷ 2 = 1 m.)\n\n**b)** O ponto de λ mais distante de B está no arco centrado em C, sobre o prolongamento de BC além de C:\nBM = BC + 1 = 6 m\n\nA' é o pé da altura relativa à hipotenusa: BA' = AB² ÷ BC = 9 ÷ 5 = 1,8 m.\n\nB, A', C e M estão alinhados, logo:\nMA' = BM − BA' = 6 − 1,8 = **4,2 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** x · y = 1 591 e x − y = 6.\n(y + 6) · y = 1 591 → y² + 6y − 1 591 = 0\nΔ = 36 + 6 364 = 6 400 → y = (−6 + 80) ÷ 2 = 37\n\n**x = 43 colunas e y = 37 linhas** (43 · 37 = 1 591).\n\n**b)** Seja d o diâmetro das bolas. No contorno, cabem 3/d bolas em cada lado de 3 m e 2/d em cada lado de 2 m; as 4 bolas dos cantos são contadas duas vezes:\n2 · (3/d) + 2 · (2/d) − 4 = 266\n10/d = 270 → d = 1/27 m\n\nCubo inscrito na esfera: a diagonal do cubo é o diâmetro.\na√3 = 1/27 → a = 1/(27√3) = **√3/81 m ≈ 0,021 m (≈ 2,1 cm)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Encaixes possíveis: os 6 da correspondência (1-A, 2-B, 3-C, 4-D, 5-E, 6-F) e mais A-2, D-3, D-5, E-3 e E-4, num total de 11.\n\nPares pino–tomada possíveis: 6 · 6 = 36.\n\nP = **11/36**\n\n**b)** Pares de tomadas: C(6, 2) = 15; pares de pinos: C(6, 2) = 15; total = 225 escolhas.\n\nFavoráveis: escolhas em que um pino se encaixa numa tomada e o outro pino na outra. Contando caso a caso, dos 15 pares de pinos: {A,B} 1; {A,C} 2; {A,D} 6; {A,E} 6; {A,F} 2; {B,C} 1; {B,D} 3; {B,E} 3; {B,F} 1; {C,D} 2; {C,E} 2; {C,F} 1; {D,E} 3 (pares de tomadas {3,4}, {3,5}, {4,5}); {D,F} 3; {E,F} 3. Soma: 39.\n\nP = 39 ÷ 225 = **13/75 ≈ 17,3%**",
+   "confianca": "media",
+   "pendencia": "A contagem do item b foi feita por enumeração caso a caso; confira se a interpretação (cada pino em uma das duas tomadas sorteadas) é a da banca."
+  },
+  "0:20": {
+   "resposta": "**a)** x² + y² − 4x − 6y − 12 = 0 → (x − 2)² + (y − 3)² = 25: centro A(2, 3), raio 5.\n\n**α = 60°**: CÂB é ângulo central que enxerga o mesmo arco CB que o ângulo inscrito CDB = 30°, logo vale o dobro.\n**β = 30°**: como CD ∥ BE, os ângulos CDB e DBE são alternos internos (transversal BD).\n**ε = 90°**: BED é inscrito numa semicircunferência (BD é diâmetro).\n\n**b)** Como A está sobre BD, o pentágono ACDEB = triângulo ACD + triângulo BDE.\n\nTriângulo ACD: AC = AD = 5 e CÂD = 180° − 60° = 120°.\nÁrea = ½ · 5 · 5 · sen 120° = 25√3/4\n\nTriângulo BDE (retângulo em E, BD = 10, ângulo em B de 30°):\nBE = 10 · cos 30° = 5√3; DE = 10 · sen 30° = 5\nÁrea = ½ · 5√3 · 5 = 25√3/2\n\nÁrea do pentágono = 25√3/4 + 50√3/4 = **75√3/4 ≈ 32,5 u.a.**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2012_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O crossing over é a **troca de segmentos entre cromátides não irmãs de cromossomos homólogos**, que ocorre na prófase I da meiose, quando os homólogos estão emparelhados. Nos pontos de cruzamento (quiasmas) as cromátides se quebram e se religam trocando pedaços, o que recombina os genes: alelos antes no mesmo cromossomo passam a formar novas combinações.\n\nSua importância é **aumentar a variabilidade genética** dos gametas e, portanto, dos descendentes. Essa variabilidade é a matéria-prima sobre a qual atua a seleção natural, favorecendo a adaptação e a evolução das espécies.\n\n**b)** As células reprodutivas fazem meiose porque precisam formar **gametas haploides (n)**, com metade dos cromossomos da espécie. Na fecundação, dois gametas se unem e o zigoto volta a ser diploide (2n). Se os gametas fossem produzidos por mitose (2n), o número de cromossomos dobraria a cada geração. A meiose mantém constante o número de cromossomos da espécie ao longo das gerações e, com a segregação independente e o crossing over, ainda gera variabilidade.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O texto se refere à **Mata Atlântica**.\n\nRegime hídrico: clima quente e **muito úmido, com chuvas abundantes e bem distribuídas** ao longo do ano, reforçadas pelas chuvas de relevo (orográficas) da umidade vinda do oceano.\n\nFlora: floresta **densa, de árvores altas, latifoliadas e perenifólias** (folhas largas que não caem numa estação), com vários estratos e muitas epífitas, como bromélias e orquídeas; tem altíssima biodiversidade e muitas espécies endêmicas. Outras características corretas também valem.\n\n**b)** Rumo a leste, entre a serra e o mar, na planície litorânea, aparecem a **restinga** (vegetação sobre solos arenosos de origem marinha, nas praias e dunas) e o **manguezal** (vegetação adaptada a solos lodosos e salobros, nas regiões de estuário).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A razão entre os sexos (casos masculinos por feminino) caiu de 3,7 em 1990 para cerca de 1,0 no fim da década de 1990, e de 2000 a 2004 ficou **abaixo de 1** (0,8 a 0,9): entre os jovens de 13 a 24 anos, a taxa de detecção de AIDS nas mulheres passou a ser **maior que a dos homens** (chegou a cerca de 10 casos por 100 mil em 2002–2003). Esse aumento proporcional dos casos femininos (feminização da epidemia) justificou campanhas de prevenção dirigidas às mulheres, como o incentivo ao uso do preservativo.\n\n**b)** São transmitidas pelas mesmas vias (relação sexual sem proteção, sangue contaminado, compartilhamento de seringas, transmissão da mãe para o filho) a **hepatite B** e a **sífilis**. Também valem a hepatite C e a infecção pelo HTLV, entre outras.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Na **primeira exposição** (resposta primária), o organismo demora a reagir: leva alguns dias até que os linfócitos B específicos sejam ativados e se multipliquem, e a **quantidade de anticorpos produzida é pequena**. Nesse processo formam-se células de memória.\n\nNa **segunda exposição** (resposta secundária), as células de memória reconhecem o antígeno de imediato: a resposta é **muito mais rápida e intensa**, com **quantidade bem maior de anticorpos**, que se mantém por mais tempo. É isso que a vacina explora.\n\n**b)** O vírus da gripe (influenza) tem **alta taxa de mutação** e sofre recombinações, de modo que surgem a cada ano variantes com antígenos de superfície diferentes. A memória imunológica criada pela vacina anterior não reconhece bem as novas cepas, então a vacina é refeita anualmente com as cepas em circulação. Além disso, a proteção dada por essa vacina diminui em alguns meses.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O isolamento geográfico (por exemplo, o mar entre as ilhas) **interrompe o fluxo gênico** entre as populações. Separadas, cada uma acumula mutações próprias e fica sujeita a pressões seletivas diferentes (clima, alimento, predadores) e à deriva genética. Com o tempo, as diferenças genéticas se tornam tão grandes que surge o **isolamento reprodutivo**: mesmo se voltarem a se encontrar, as populações não cruzam ou não geram descendentes férteis, e passam a ser espécies diferentes.\n\n**b)** A relação se explica pela **seleção natural**. Em cada ilha, o alimento disponível era diferente (sementes duras, insetos em frestas, frutos, néctar). Na população havia variação no tamanho e na forma do bico; as aves com o bico mais adequado ao alimento local conseguiam comer melhor, sobreviviam e deixavam mais descendentes. Ao longo de gerações, em cada ilha predominou o tipo de bico adaptado à dieta local, mais curto e robusto para quebrar sementes ou mais longo e fino para capturar insetos ou retirar néctar.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O Ca²⁺ é liberado quando o equilíbrio CaCO₃(s) + 2 H⁺(aq) ⇌ Ca²⁺(aq) + H₂O(ℓ) + CO₂(g) é deslocado para a direita.\n\nEm **solo ácido**, a concentração de H⁺ é alta: pelo princípio de Le Chatelier, o equilíbrio se desloca para a direita, o carbonato se dissolve e há **boa disponibilidade de Ca²⁺** (ao mesmo tempo em que a acidez é neutralizada e sai CO₂).\n\nEm **solo básico**, a concentração de H⁺ é muito baixa: o equilíbrio fica deslocado para a esquerda, o CaCO₃ praticamente não se dissolve e há **pouco Ca²⁺ disponível**.\n\n**b)** O nitrato de amônio é um sal de ácido forte (HNO₃) e base fraca (NH₃). O íon amônio sofre hidrólise:\n\nNH₄⁺(aq) + H₂O(ℓ) ⇌ NH₃(aq) + H₃O⁺(aq)\n\nAssim, a aplicação de NH₄NO₃ **aumenta a concentração de H⁺** no solo, tornando-o mais ácido (o pH diminui).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Massa molar do resorcinol, C₆H₄(OH)₂ = C₆H₆O₂: 6 · 12 + 6 · 1 + 2 · 16 = 110 g/mol.\n\nn(resorcinol) = 55 ÷ 110 = 0,50 mol\n\nPela equação, 1 mol de resorcinol exige 4 mol de NaOH:\n\nn(NaOH) = 4 · 0,50 = 2,0 mol\n\nm(NaOH) = 2,0 · 40\n\n**m(NaOH) = 80 g**\n\n**b)** O pH fica **abaixo de 7,0**. O resorcinol é um fenol, e os fenóis têm caráter ácido (fraco): a hidroxila ligada ao anel aromático libera H⁺ em água, porque o íon fenóxido formado é estabilizado por ressonância com o anel:\n\nC₆H₄(OH)₂ + H₂O ⇌ C₆H₄(OH)O⁻ + H₃O⁺\n\nCom o aumento de H₃O⁺, a solução fica levemente ácida.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O decaimento alfa do Po-210 (Z = 84) forma um núcleo com A = 210 − 4 = 206 e Z = 84 − 2 = 82: **chumbo, Pb-206**, estável.\n\n280 dias correspondem a 280 ÷ 140 = 2 meias-vidas. Restam (1/2)² = 1/4 dos átomos de polônio; os outros 3/4 viraram chumbo.\n\nEstão presentes **polônio e chumbo, na proporção 1 : 3** em número de átomos (25% de Po-210 e 75% de Pb-206).\n\n**b)** Ra-226: Z = 88. Po-210: Z = 84.\n\nSó as partículas alfa mudam o número de massa (−4 cada): ΔA = 226 − 210 = 16, logo **4 partículas alfa**.\n\nAs 4 alfas diminuiriam Z em 8 (88 − 8 = 80), mas o Po tem Z = 84. Cada beta negativa aumenta Z em 1 sem mudar A, logo são necessárias 84 − 80 = **4 partículas beta negativa**.\n\nConferência: ²²⁶₈₈Ra → ²¹⁰₈₄Po + 4 ⁴₂α + 4 ⁰₋₁β.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A reação entre um álcool (metanol) e um ácido carboxílico (ácido acético) é uma esterificação, que forma éster e água. X é o **etanoato de metila** (acetato de metila):\n\nCH₃–C(=O)–O–CH₃\n\nOu seja, um carbono ligado ao grupo CH₃, com dupla ligação a um O e ligação simples a outro O, que se liga ao grupo CH₃. Função orgânica: **éster**.\n\n**b)** ΔH = Σ ΔHf(produtos) − Σ ΔHf(reagentes)\n\nΔH = [(−442) + (−286)] − [(−239) + (−484)]\n\nΔH = −728 − (−723)\n\n**ΔH = −5 kJ·mol⁻¹**\n\nComo ΔH < 0, a reação libera calor: é **exotérmica**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A substância do sangue que decompõe rapidamente a água oxigenada é a enzima **catalase**, que pertence ao grupo das **enzimas** (proteínas). Ela atua como **catalisador biológico**: oferece um caminho de reação com **energia de ativação menor**, o que aumenta muito a velocidade da decomposição, sem ser consumida e sem alterar o ΔH da reação.\n\n**b)** Pela equação, 1 mol de H₂O₂ libera 1/2 mol de O₂:\n\nn(H₂O₂) = 2 · 0,444 = 0,888 mol\n\nm(H₂O₂) = 0,888 · 34 ≈ 30,2 g em 1 000 g de solução\n\nTeor = 30,2 ÷ 1 000 · 100%\n\n**≈ 3% em massa** de peróxido de hidrogênio",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Entre 0 e 2 s o conjunto ainda está preso ao VLS e tem a velocidade constante do veículo: **y = 20,0 m/s**.\n\nO desprendimento ocorre em t = 2 s, quando o gráfico passa a cair. Deslocamento de 0 a 2 s: Δh = 20 · 2 = 40 m.\n\n**h = 100 + 40 = 140 m**\n\n**b)** Depois do desprendimento, a velocidade cai de 20 m/s a 0 em 2 s (de t = 2 s a t = 4 s):\n\n**g = |Δv| ÷ Δt = 20 ÷ 2 = 10 m/s²**\n\nAltura máxima: H = 140 + 20² ÷ (2 · 10) = 140 + 20 = 160 m, atingida em t = 4 s.\n\nQueda livre a partir do repouso: 160 = 10 · t² ÷ 2 → t² = 32 → t = 4√2 = 4 · 1,4 = 5,6 s\n\n**O conjunto toca o solo em t ≈ 4 + 5,6 = 9,6 s.**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Antes da colisão, com atrito desprezível, a energia mecânica se conserva na descida de R = 0,20 m:\n\nv = √(2·g·R) = √(2 · 10 · 0,20) = 2,0 m/s\n\nNa colisão totalmente inelástica com um corpo idêntico em repouso, conserva-se a quantidade de movimento:\n\nm · 2,0 = 2m · V\n\n**V = 1,0 m/s**\n\n**b)** Os corpos unidos sobem até h = V² ÷ (2g) = 1,0 ÷ 20 = 0,05 m = 5 cm acima do fundo. Nesse ponto, a distância vertical ao centro da semiesfera é R − h = 15 cm, e o raio faz com a vertical um ângulo θ com cos θ = 15 ÷ 20 = 0,75.\n\nNa altura máxima a velocidade é nula, então não há resultante centrípeta: a reação normal equilibra a componente radial do peso dos dois corpos (massa 0,2 kg).\n\nN = 2m·g·cos θ = 0,2 · 10 · 0,75\n\n**N = 1,5 N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** A resistência total do circuito é a da barra mais a interna do gerador:\n\nε = i · (R + r) = 5 · (5 + 5)\n\n**ε = 50 V**\n\nPotência dissipada na barra:\n\nP = R · i² = 5 · 5²\n\n**P = 125 W**\n\n**b)** Pelo sentido indicado, a corrente sai do gerador pelo fio da esquerda e percorre a barra da esquerda para a direita. Com B entrando no plano, a regra da mão esquerda (ou F = i·L × B) dá força magnética **vertical para cima**:\n\nF = B · i · L = 0,40 · 5 · 0,50 = 1,0 N\n\nPeso da barra: P = 0,5 · 10 = 5,0 N.\n\nNo equilíbrio, a mola sustenta o restante: F(mola) = 5,0 − 1,0 = 4,0 N.\n\nx = F(mola) ÷ k = 4,0 ÷ 80\n\n**x = 0,05 m** (a mola fica distendida 5 cm)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Para a miopia (óculos para longe), a receita indica grau esférico −3,00: a lente é **divergente**, de vergência **V = −3,00 di**.\n\nf = 1 ÷ V = 1 ÷ (−3,00)\n\n**f ≈ −0,33 m** (o sinal negativo indica lente divergente, com foco virtual)\n\n**b)** Diagrama I (olho míope sem correção): raios paralelos vindos de um objeto distante entram no olho e, como o olho míope é \"longo\" ou converge demais, **convergem num ponto antes da retina**; ao chegar à retina já estão divergindo, e a imagem fica borrada.\n\nDiagrama II (com correção): uma **lente divergente** colocada diante do olho abre os raios paralelos, como se viessem do ponto remoto do míope; o olho então os faz convergir **exatamente sobre a retina**, formando imagem nítida.",
+   "confianca": "media",
+   "pendencia": "O item b pede um esboço nos diagramas da folha de resposta; aqui o desenho é descrito em texto."
+  },
+  "0:15": {
+   "resposta": "**a)** Calorímetro: Q = C · ΔT = 10 · (30 − 20)\n\n**Q(calorímetro) = 100 cal**\n\nÁgua: Q = m · c · ΔT = 500 · 1,0 · (30 − 20)\n\n**Q(água) = 5 000 cal**\n\n**b)** No equilíbrio térmico a barra fica à mesma temperatura do sistema: **T(final) = 30 °C**.\n\nSistema isolado: o calor cedido pela barra é o absorvido pelo calorímetro e pela água:\n\n200 · c · (80 − 30) = 100 + 5 000\n\n10 000 · c = 5 100\n\n**c = 0,51 cal/(g·°C)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Joelho: 25% de 200 = 50 nadadores.\n\nPescoço: 20% de 200 = 40 nadadores.\n\nJoelho e pescoço: 5% de 200 = 10 nadadores.\n\nn(J ∪ P) = n(J) + n(P) − n(J ∩ P) = 50 + 40 − 10 = 80\n\n**80 nadadores** tiveram lesões no joelho ou no pescoço.\n\n**b)** P(ombro) = 0,8, logo P(não ombro) = 0,2. P(coluna) = 0,5, logo P(não coluna) = 0,5.\n\nComo os eventos são independentes, a probabilidade de não ter lesão nem no ombro nem na coluna é\n\nP = 0,2 · 0,5 = 0,1\n\nA probabilidade é **0,1 = 10%**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** h(t) = 5:\n\n(15t − 120) ÷ (t − 12) = 5\n\n15t − 120 = 5t − 60\n\n10t = 60 → t = 6\n\nA altura chega a 5 m **6 horas** após o início.\n\nReservatório vazio, h(t) = 0:\n\n15t − 120 = 0 → t = 8\n\nO esvaziamento durou **8 horas**.\n\n**b)** Altura inicial: h(0) = (−120) ÷ (−12) = 10 m. Raio do reservatório 1: 3 m.\n\nV = π · r² · h = π · 3² · 10 = **90π m³** (≈ 282,6 m³ com π ≈ 3,14).\n\nNo reservatório 2 (raio 6 m), o mesmo volume ocupa:\n\nπ · 6² · H = 90π\n\n36H = 90 → **H = 2,5 m**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Com x meninas e y meninos, ao saírem duas meninas:\n\ny = 2 · (x − 2) → **y = 2x − 4**\n\nComo x ≤ 14, o número máximo de meninos é y = 2 · 14 − 4 = **24 meninos**.\n\n**b)** Comissões de 3 meninas: C(x, 3). Comissões de 2 meninos: C(y, 2). Igualando, com y = 2x − 4:\n\nx(x − 1)(x − 2) ÷ 6 = (2x − 4)(2x − 5) ÷ 2\n\nx(x − 1)(x − 2) = 6(x − 2)(2x − 5)\n\nComo x ≥ 4, x − 2 ≠ 0 e pode ser cancelado:\n\nx² − x = 12x − 30\n\nx² − 13x + 30 = 0 → x = 10 ou x = 3\n\nComo x ≥ 4, x = 10 e y = 2 · 10 − 4 = 16.\n\nA classe tem 10 + 16 = **26 alunos**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** População inicial: f(0) = 750. Metade: 375.\n\n750 · 2^(−0,05t) = 375\n\n2^(−0,05t) = 2^(−1)\n\n0,05t = 1 → **t = 20 anos**.\n\n**b)** 750 · 2^(−0,05t) = 40\n\n2^(0,05t) = 750 ÷ 40 = 75 ÷ 4\n\n0,05t = log₂ 75 − log₂ 4 = log₂ 3 + 2 · log₂ 5 − 2\n\n0,05t = 1,6 + 2 · 2,3 − 2 = 4,2\n\nt = 4,2 ÷ 0,05 = **84 anos**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** 19/02/2010 corresponde a t = 31 + 19 = 50.\n\nD(50) = 12 + 1,6 · cos(π · 60 ÷ 180) = 12 + 1,6 · cos(π/3)\n\nD(50) = 12 + 1,6 · 0,5 = 12,8 h\n\n0,8 h = 0,8 · 60 min = 48 min\n\nA duração foi de **12 horas e 48 minutos**.\n\n**b)** D(t) ≤ 12 ⇔ cos(π(t + 10) ÷ 180) ≤ 0.\n\nPara 1 ≤ t ≤ 365, o argumento vai de 11π/180 a 375π/180 (menos de 2π + π/2), e o cosseno é menor ou igual a zero quando\n\nπ/2 ≤ π(t + 10) ÷ 180 ≤ 3π/2\n\n90 ≤ t + 10 ≤ 270 → 80 ≤ t ≤ 260\n\nNúmero de dias inteiros: 260 − 80 + 1 = **181 dias**.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

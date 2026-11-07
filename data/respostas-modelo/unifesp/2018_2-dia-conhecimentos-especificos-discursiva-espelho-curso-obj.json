@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2018_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Está correta a informação de que, na zona urbana, a febre amarela é transmitida pelo mesmo vetor de outras doenças: o mosquito ***Aedes aegypti***, que também transmite dengue, zika e chikungunya. A transmissão ocorre pela picada da fêmea infectada pelo vírus (um flavivírus), e não por falta de saneamento, de banheiros ou por alimentos contaminados; o que favorece o vetor é o acúmulo de água parada, onde ele se reproduz.\n\n**b)** Está errada a afirmação sobre o ambiente da forma silvestre. O correto seria: \"A forma silvestre da febre amarela está associada a ambientes de **mata (florestas úmidas)**, onde o vírus circula entre macacos e mosquitos silvestres como *Haemagogus* e *Sabethes*\". A expansão da fronteira agrícola (desmatamento) aproxima pessoas desse ciclo, e a vacinação é de fato a forma mais eficaz de prevenção.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Não. População é o conjunto de indivíduos de uma mesma espécie numa mesma área; como os tentilhões da ilha pertencem a várias espécies distintas, há várias populações (uma por espécie), e não duas. Quanto ao hábitat, sim: o texto descreve dois ambientes ocupados, a vegetação esparsa próxima ao solo e o alto das árvores da vegetação densa.\n\n**b)** Não deve ocorrer competição interespecífica significativa. Pelas informações do texto, as espécies ocupam nichos ecológicos diferentes: vivem em locais distintos (solo ou copa das árvores) e, sobretudo, têm bicos adaptados a tipos diferentes de alimento. Assim, não disputam o mesmo recurso alimentar nem o mesmo espaço.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** O fruto **protege a semente** contra a desidratação, danos mecânicos e predadores, e favorece a **dispersão** das sementes: frutos carnosos atraem animais que os comem e eliminam as sementes longe da planta-mãe, e outros são levados pelo vento ou pela água. Isso amplia a colonização de novos ambientes e reduz a competição com a planta-mãe.\n\n**b)** Nas **Gimnospermas**, cujo tecido de reserva é o endosperma primário (o gametófito feminino, haploide). Ele se forma **antes** da fecundação, de modo que a planta gasta reservas mesmo em óvulos que nunca serão fecundados. Nas Angiospermas, o endosperma (triploide) só se forma **após a dupla fecundação**, ou seja, apenas quando já existe embrião a nutrir, o que evita desperdício de energia e nutrientes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A estrutura presente em todos os grupos de vertebrados é o **saco vitelínico** (vesícula vitelínica). O **âmnio** e o **alantoide** ocorrem em todos os vertebrados exceto peixes e anfíbios, isto é, nos amniotas (répteis, aves e mamíferos). A placenta é exclusiva dos mamíferos placentários.\n\n**b)** Não. As artérias umbilicais levam o sangue que já circulou pelo corpo do feto de volta à placenta; é sangue que cedeu oxigênio aos tecidos fetais, portanto **pobre em oxigênio** (concentração baixa). Já a maioria das artérias da mãe transporta sangue que acabou de ser oxigenado nos pulmões, **rico em oxigênio** (concentração alta). O sangue oxigenado do feto é o da veia umbilical, que vem da placenta.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A doença é **autossômica recessiva**: a mulher II-1 é afetada, embora seus pais (I-1 e I-2) sejam normais, o que indica alelo recessivo herdado de ambos; e, como o pai I-2 é normal, a herança não pode ser recessiva ligada ao X (uma filha afetada teria pai afetado). Sendo autossômica e o casal Aa × Aa, a probabilidade de ser afetado é **1/4 para a filha e 1/4 para o filho**: nenhuma das duas crianças tem maior probabilidade.\n\n**b)** Aa × Aa → 1/4 AA, 2/4 Aa, 1/4 aa. Entre as crianças clinicamente normais (AA ou Aa), a chance de não possuir o alelo (AA) é **1/3**.\n\nMenina afetada: P(menina) × P(aa) = 1/2 × 1/4 = **1/8**.\n\nObservação: se a primeira pergunta for lida como probabilidade de a criança nascer AA, sem considerar que já se sabe que é normal, o valor seria 1/4.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** São propriedades gerais **massa** e **volume**: estão presentes em qualquer material, seja qual for a substância, e por isso não permitem identificá-lo. As demais (dureza, densidade, cor, transparência, permeabilidade, temperatura de fusão, condutividade elétrica) são propriedades específicas, cujos valores variam de um material para outro e servem para caracterizá-lo.\n\n**b)** A **temperatura de fusão**, que deve ser bem maior que as temperaturas atingidas no fogão para a panela não derreter nem amolecer; a **dureza**, para resistir a riscos e choques do uso; e a **permeabilidade**, pois o material precisa ser impermeável para reter líquidos. Respostas que justifiquem outras propriedades da lista (por exemplo, densidade, pensando no peso da panela) também podem ser aceitas.",
+   "confianca": "media",
+   "pendencia": "A questão não define com precisão o que é 'necessário' na escolha do material; o item b admite combinações diferentes."
+  },
+  "0:7": {
+   "resposta": "**a)** Sim. O FeSO₄ é um composto iônico solúvel que, em água, se dissocia em íons livres: FeSO₄ → Fe²⁺ + SO₄²⁻. Esses íons com mobilidade conduzem a corrente elétrica (solução eletrolítica).\n\n**b)** Massa molar do FeSO₄·7H₂O: 56 + 32 + 4·16 + 7·18 = 278 g/mol\n\nn = 2,78 g ÷ 278 g/mol = **0,01 mol** de sal hidratado\n\nCada mol do hidrato contém 1 mol de FeSO₄, logo havia 0,01 mol de FeSO₄ na solução.\n\nC = 0,01 mol ÷ 0,100 L = **0,1 mol/L**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O **indicador 1 (HInd)** é o ácido fraco, pois, ao se dissociar em água, libera íons H⁺. O **indicador 2 (IndOH)** é a base fraca, pois sua dissociação libera íons OH⁻. Ambos são fracos porque se dissociam parcialmente (equilíbrio).\n\n**b)** A solução fica **amarela**. O HCl fornece muitos íons H⁺, que deslocam o equilíbrio do indicador 1 para a esquerda (efeito do íon comum), predominando a forma não dissociada HInd, amarela.\n\nCom o indicador 2, os íons H⁺ do ácido reagem com os OH⁻ (H⁺ + OH⁻ → H₂O), consumindo-os; o equilíbrio se desloca para a direita e predomina o íon Ind⁺, que é incolor. Por isso a solução permanece incolor.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** C₄H₉OH(ℓ) + 6 O₂(g) → 4 CO₂(g) + 5 H₂O(ℓ)   ΔH = −2 670 kJ/mol\n\n(x = 6, y = 4, z = 5; o ΔH é negativo porque a combustão libera energia.)\n\n**b)** Isômeros de função do butan-1-ol são éteres de fórmula C₄H₁₀O, por exemplo:\n\nH₃C–O–CH₂–CH₂–CH₃ (metoxipropano)\n\nH₃C–CH₂–O–CH₂–CH₃ (etoxietano)\n\nTambém vale o H₃C–O–CH(CH₃)–CH₃ (metoxi-isopropano / 2-metoxipropano).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A cadeia é **homogênea**, pois não há heteroátomo entre átomos de carbono (o oxigênio está apenas no grupo carboxila, na extremidade). É **insaturada**, pois apresenta uma dupla ligação entre carbonos (C=C).\n\n**b)** Contando os átomos: 18 carbonos, 34 hidrogênios e 2 oxigênios.\n\nFórmula molecular: **C₁₈H₃₄O₂**\n\nFórmula mínima (dividindo por 2): **C₉H₁₇O**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** A bomba sai com a velocidade horizontal do avião (100 m/s) e cai em queda livre na vertical.\n\nh = g·t²/2 → 500 = 10·t²/2 → t² = 100 → t = 10 s\n\nd = v·t = 100 · 10 = **1 000 m** antes da vertical do canhão.\n\n**b)** Como o disparo ocorre quando o avião está exatamente sobre o canhão, o projétil só o alcança se tiver a mesma velocidade horizontal: vₓ = 100 m/s. Na vertical, deve ao menos chegar a 500 m de altura (velocidade vertical nula no topo):\n\nv_y² = 2·g·h = 2 · 10 · 500 = 10 000 → v_y = 100 m/s\n\nv₀ = √(vₓ² + v_y²) = √(100² + 100²) = 100√2 ≈ **141 m/s** (disparo a 45° com a horizontal).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** A base superior do corpo A está fora da água, sob a pressão atmosférica; a inferior está 40 cm abaixo da superfície. A diferença de pressão é a pressão da coluna de água:\n\nΔp = d·g·h = 10³ · 10 · 0,40 = **4 × 10³ Pa**\n\n**b)** O corpo B (P = 80 N) pende de uma polia móvel sustentada por dois trechos de fio: 2T = 80 → T = 40 N. O mesmo fio, passando pelas polias fixas, sustenta A por dois trechos, cada um com tração de 40 N.\n\nEquilíbrio de A: 2T + E = P_A → 80 + E = 100 → E = 20 N\n\nE = d·V·g → 20 = 10³ · V · 10 → V = **2 × 10⁻³ m³**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Calor recebido pela água (1 L = 1 000 g), em 5 min = 300 s:\n\nQ = m·c·Δθ = 1 000 · 1 · (85 − 25) = 60 000 cal\n\nP = 60 000 ÷ 300 = 200 cal/s = 200 · 4 = **800 W**\n\n**b)** Massas: leite 200 g, café 100 g. Soma dos calores trocados igual a zero:\n\n200·1·(θ − 20) + 100·(θ − 20) + 100·1·(θ − 80) = 0\n\n200θ − 4 000 + 100θ − 2 000 + 100θ − 8 000 = 0\n\n400θ = 14 000 → θ = **35 °C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A criança está a 10 − 4 = 6 m do espelho plano, logo I_P está 6 m atrás dele. I_C está 2 m atrás do espelho convexo (dado da figura). Distância entre as imagens:\n\nd = 6 + 10 + 2 = **18 m**\n\n**b)** Foco do espelho convexo (p = 4 m, p' = −2 m, imagem virtual):\n\n1/f = 1/p + 1/p' = 1/4 − 1/2 = −1/4 → f = −4 m\n\nAumento A = f/(f − p) = 1/3 → −4/(−4 − p) = 1/3 → 4 + p = 12 → p = **8 m**\n\n(Conferência: com p = 4 m, A = 4/8 = 1/2, como sugere a figura.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** O trecho AB corresponde a 60°, isto é, 1/6 da circunferência; ACB corresponde a 300°, 5/6. Como a espira é homogênea, a resistência é proporcional ao comprimento.\n\nR_AB = U ÷ i_AB = 12 ÷ 6 = **2 Ω**\n\nR_ACB = 5 · R_AB = **10 Ω**\n\n**b)** i_ACB = 12 ÷ 10 = 1,2 A; corrente total i = 6 + 1,2 = 7,2 A\n\nP = U · i = 12 · 7,2 = **86,4 W**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Quociente de Pedro: 2,28 ÷ 9,5 = **0,24**\n\nEsse valor está a 0,01 da média do grupo benigno (0,25) e a 0,05 da do grupo maligno (0,19); portanto está numericamente **mais próximo do resultado médio de quem tem patologia benigna**.\n\n**b)** 40% de 160 = 64 pacientes com patologia maligna e 96 com benigna.\n\nMédia = (64 · 10 + 96 · 8) ÷ 160 = (640 + 768) ÷ 160 = 1 408 ÷ 160 = **8,8 ng/mL**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Em reais: custo total 0,54x; receita 0,75(x − y). Prejuízo de 12 reais:\n\n0,54x − 0,75(x − y) = 12\n\n**a)** Com y = 100:\n\n0,54x − 0,75x + 75 = 12 → −0,21x = −63 → x = **300 fotografias**\n\n**b)** 0,54x − 0,75x + 0,75y = 12 → 0,75y = 12 + 0,21x\n\n**y = 0,28x + 16** (ou y = (7x + 400)/25)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** R está a 18 cm de uma lateral e a 25 cm da outra; S é o canto. Pelo teorema de Pitágoras:\n\nRS² = 18² + 25² = 324 + 625 = 949 → RS = **√949 cm**\n\n**b)** Com origem em S e eixos ao longo das laterais, o centro é C(r, r), pois o círculo tangencia as duas laterais, e R = (18, 25). Como R está na circunferência:\n\n(r − 18)² + (r − 25)² = r²\n\nr² − 86r + 949 = 0 → r = (86 ± 60)/2 → r = 73 ou r = 13\n\nr = 13 não serve: o centro ficaria mais perto das laterais que R, que na figura fica entre o centro e o canto. Logo r = **73 cm**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Composição da classe: 2 fluentes em francês e inglês, 6 só em inglês, 3 só em francês e 16 − 11 = 5 sem língua estrangeira.\n\n**a)** Alunos não fluentes em francês: 6 + 5 = 11.\n\nC(11, 2) = 11 · 10 ÷ 2 = **55 grupos**\n\n**b)** Fluentes em inglês: 2 + 6 = 8; não fluentes: 8.\n\nP(nenhum em inglês) = C(8, 2) ÷ C(16, 2) = 28 ÷ 120 = 7/30\n\nP(ao menos um) = 1 − 7/30 = **23/30** (≈ 76,7%)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Sem perda de material, o comprimento da senoide é a largura original da chapa. Como a telha mantém 4 m no sentido das ondas:\n\nlargura = 8,132 m² ÷ 4 m = 2,033 m = **203,3 cm**\n\n**b)** A curva começa em A subindo e completa 6 ondas inteiras até B (6 períodos). A altura de 4 cm entre crista e vale dá amplitude 2 cm.\n\nPeríodo: 195 ÷ 6 = **32,5 cm**\n\nf(x) = 2·sen(2πx/32,5), ou seja, **f(x) = 2·sen(4πx/65)**, com x e f(x) em cm\n\nDomínio: **[0, 195]**; imagem: **[−2, 2]**; período: **32,5 cm**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2023_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A membrana plasmática é formada por uma **bicamada de fosfolipídios**, na qual estão inseridas proteínas, com colesterol entre os fosfolipídios e glicídios associados à face externa (glicocálix).\n\nOs fosfolipídios são **anfipáticos**: têm uma cabeça polar (hidrofílica), voltada para os meios aquosos, e caudas de ácidos graxos apolares (hidrofóbicas), voltadas para o interior da bicamada. Essa região apolar funciona como barreira à passagem livre da água e de substâncias polares, o que permite reter água no interior da célula.\n\n**b)** A **fluidez** da membrana (modelo do mosaico fluido): fosfolipídios e proteínas se deslocam lateralmente na bicamada, por isso as proteínas das duas células se misturaram.\n\nAs proteínas colinérgicas do dendrito são **receptores de acetilcolina**, o neurotransmissor liberado pelo neurônio anterior na sinapse. Ao se ligar à acetilcolina, o receptor abre canais iônicos, despolariza a membrana e gera o impulso nervoso no neurônio seguinte.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O solo do mangue é lodoso, encharcado e **pobre em oxigênio** (além de salino). Esse solo selecionou plantas com raízes respiratórias.\n\nOs pneumatóforos crescem para cima e emergem do lodo; por aberturas na superfície (pneumatódios ou lenticelas), captam oxigênio diretamente do ar, garantindo a respiração celular das raízes mesmo no solo pouco oxigenado.\n\n**b)** As plantas não produzem a enzima que fixa o N₂ (nitrogenase). As leguminosas fixam nitrogênio graças a bactérias simbióticas (como *Rhizobium*) que vivem em nódulos de suas raízes; os pneumatóforos de *Avicennia* não têm essa associação.\n\nPara absorver água por osmose, a concentração de sais no vacúolo das células radiculares deve ser **maior** que a da água salobra do mangue (meio celular hipertônico em relação ao ambiente).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Os hormônios são absorvidos pela pele e transportados pelo **sistema circulatório** (sangue) até os órgãos-alvo. O lipídio esteroide precursor da testosterona é o **colesterol**.\n\n**b)** O **gráfico 2** representa o efeito esperado. O FSH estimula as células de Sertoli e a espermatogênese; o LH estimula as células de Leydig a produzir testosterona, também necessária à formação dos espermatozoides. A progestina inibe, por retroalimentação negativa sobre o hipotálamo e a hipófise, a liberação de FSH e LH. Com os dois hormônios mantidos em níveis baixos durante todo o período, a produção de espermatozoides fica suprimida. Nos gráficos 1 e 3, ao menos um desses hormônios se eleva, o que estimularia os testículos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O **cromossomo Y**, transmitido apenas de pai para filho, quase inalterado ao longo das gerações.\n\nAs células somáticas de Leonardo tinham **46 cromossomos nucleares** (22 pares de autossomos + X e Y). Se o genoma for entendido como o conjunto haploide, são 23 cromossomos.\n\n**b)** O **DNA mitocondrial**, herdado apenas da mãe, porque as mitocôndrias do zigoto vêm do óvulo.\n\nOs pais eram destros e tiveram um filho canhoto (aa), o próprio Leonardo; logo, ambos são **Aa**.\n\nP(menina canhota) = 1/2 · 1/4 = 1/8\n\nP(menina destra) = 1/2 · 3/4 = 3/8\n\nComo a ordem dos nascimentos pode variar (canhota e depois destra, ou o contrário):\n\nP = 2 · 1/8 · 3/8 = **3/32**",
+   "confianca": "media",
+   "pendencia": "A pergunta sobre a \"quantidade de cromossomos que compõem o genoma\" admite 46 (células somáticas) ou 23 (conjunto haploide); a resposta traz as duas leituras."
+  },
+  "0:5": {
+   "resposta": "**a)** Os paulistinhas transgênicos **competem com os peixes nativos** pelo mesmo alimento (insetos aquáticos e zooplâncton). Sem predadores naturais, sua população cresce sem controle, e as populações nativas tendem a diminuir por falta de recursos, podendo haver extinção local e desequilíbrio da cadeia alimentar.\n\nCadeia: fitoplâncton (produtor) → zooplâncton herbívoro (consumidor primário) → inseto (consumidor secundário) → paulistinha. O peixe é **consumidor terciário** (4º nível trófico).\n\n**b)** O DNA codificante tem a sequência de nucleotídeos que é transcrita em RNAm e traduzida na **proteína fluorescente**. É a produção dessa proteína que gera a fluorescência; sem o gene codificante, não haveria a proteína nem o fenótipo.\n\nComo o DNA foi inserido no zigoto e todas as células do corpo se originam dele por mitoses, o DNA exógeno estará em **100%** das células somáticas nucleadas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O principal componente é o CO₂. Na estrutura de Lewis, o carbono fica no centro e faz uma dupla ligação (dois pares compartilhados) com cada oxigênio; cada oxigênio tem ainda dois pares de elétrons não ligantes:\n\n:Ö::C::Ö: (equivalente a O=C=O)\n\nA geometria é **linear** (ângulo de 180°), pois o carbono não tem pares de elétrons livres.\n\n**b)** **Verão (gás):** os 9 pontos espalhados por todo o espaço desenhado, afastados entre si e sem ordem, pois no estado gasoso as moléculas estão distantes e se movem livremente.\n\n**Inverno (sólido):** os 9 pontos bem próximos, organizados de forma regular, por exemplo numa grade de 3 × 3, pois no gelo seco as moléculas ocupam posições fixas em um retículo cristalino e apenas vibram.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Fórmula estrutural plana:\n\nHO–CH₂–CH₂–OH\n\nFunção orgânica: **álcool** (um diol, com duas hidroxilas ligadas a carbonos saturados).\n\n**b)** A proporção é 1 mol de óxido de etileno : 1 mol de etilenoglicol.\n\nn(MEG) = 620 kg ÷ 62 kg/kmol = 10 kmol\n\nCom 100% de rendimento: m(óxido) = 10 · 44 = 440 kg\n\nCom 90% de rendimento: m = 440 ÷ 0,90 ≈ **489 kg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** 5,0 mg/L = **5,0 × 10⁻³ g/L**\n\nCom M(Ba) = 137 g/mol:\n\n5,0 × 10⁻³ ÷ 137 ≈ **3,6 × 10⁻⁵ mol/L**\n\n**b)** BaSO₄(s) ⇌ Ba²⁺(aq) + SO₄²⁻(aq)\n\nKps = [Ba²⁺] · [SO₄²⁻]\n\nNa solução saturada, [Ba²⁺] = [SO₄²⁻] = s:\n\ns² = 1 × 10⁻¹⁰ → s = **1 × 10⁻⁵ mol/L** de íons bário",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** O cobre tem menor potencial de redução (0,34 V contra 0,80 V da prata), então ele se oxida e é o polo negativo (ânodo):\n\nCu(s) → Cu²⁺(aq) + 2 e⁻\n\nOs elétrons fluem pelo condutor externo **do eletrodo de cobre para o eletrodo de prata**.\n\n**b)** Atribuir 0,00 V à prata equivale a subtrair 0,80 V de todos os potenciais:\n\nE°(Cu²⁺/Cu) = 0,34 − 0,80 = **−0,46 V**\n\nTensão da pilha: ΔE = E°(cátodo) − E°(ânodo)\n\nTabela antiga: 0,80 − 0,34 = 0,46 V\n\nNova tabela: 0,00 − (−0,46) = 0,46 V\n\nA tensão **não seria modificada**, pois depende apenas da diferença entre os potenciais, que não muda com a troca de referência.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** As funções oxigenadas ligadas ao anel benzênico (o anel aromático presente nas três estruturas) são **fenol** (hidroxila, –OH, ligada diretamente ao anel) e **éter** (grupo metoxila, –O–CH₃, ligado ao anel).\n\n**b)** A curcumina fica amarela em meio ácido ou neutro. As soluções são:\n\n**NaCl**: sal de ácido forte e base forte, não sofre hidrólise; a solução é **neutra**.\n\n**NH₄Cl**: sal de ácido forte e base fraca; o NH₄⁺ sofre hidrólise (NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺) e a solução é **ácida**.\n\nJá o CaO (óxido básico, forma Ca(OH)₂) e o Na₂CO₃ (sal de base forte e ácido fraco) originam soluções básicas, nas quais a curcumina fica vermelha.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** No ponto A:\n\nEc(A) = m·v₀²/2 = 0,4 · 20² / 2\n\nEc(A) = **80 J**\n\nSem resistência do ar, a energia mecânica se conserva. De A até C a bola desce 15 m, e a energia potencial perdida vira energia cinética:\n\nEc(C) = Ec(A) + m·g·Δh = 80 + 0,4 · 10 · 15\n\nEc(C) = 80 + 60 = **140 J**\n\n**b)** Componente vertical da velocidade inicial: v₀y = v₀ · sen 30° = 20 · 0,5 = 10 m/s.\n\nNo ponto B (mais alto), vy = 0. Por Torricelli:\n\n0 = v₀y² − 2·g·h → h = 10² / (2 · 10)\n\nh = **5 m**\n\nTempo de A até C: tomando A como origem e o sentido para cima como positivo, a bola chega a C em y = −15 m:\n\ny = v₀y·t − g·t²/2 → −15 = 10t − 5t²\n\n5t² − 10t − 15 = 0 → t² − 2t − 3 = 0 → t = 3 s (a raiz t = −1 s não tem sentido físico).\n\nTempo de A até C: **3 s**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Transformação AB: o volume é constante (V = 3·10⁻³ m³), então não há deslocamento das paredes:\n\nτ(AB) = **0 J**\n\nTransformação CA: isobárica a 2·10⁵ N/m², com o volume passando de 9·10⁻³ m³ para 3·10⁻³ m³ (compressão):\n\nτ(CA) = p · ΔV = 2·10⁵ · (3·10⁻³ − 9·10⁻³)\n\nτ(CA) = 2·10⁵ · (−6·10⁻³) = **−1 200 J** (trabalho negativo: o gás recebe trabalho do meio externo).\n\n**b)** Equação de Clapeyron no estado A (p = 2·10⁵ N/m², V = 3·10⁻³ m³, T = 300 K):\n\nn = p·V / (R·T) = (2·10⁵ · 3·10⁻³) / (8 · 300)\n\nn = 600 / 2 400 = **0,25 mol**\n\nBC é isotérmica, então p·V é constante entre B e C (V_B = 3·10⁻³ m³; C: p = 2·10⁵ N/m², V = 9·10⁻³ m³):\n\np_B · 3·10⁻³ = 2·10⁵ · 9·10⁻³\n\np_B = **6·10⁵ N/m²**\n\n(Coerente com AB isovolumétrica: a pressão triplica e a temperatura vai de 300 K para 900 K.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** A pessoa está em repouso, então a força que ela aplica na tábua é igual ao seu peso:\n\nF(pessoa) = m·g = 70 · 10 = **700 N**\n\nA tábua (massa desprezível) se apoia na borda do tanque e está presa pelo pino P, 0,6 m antes da borda; a pessoa está 1,2 m depois da borda. Tomando os momentos em relação ao ponto de apoio na borda, o pino precisa puxar a tábua para baixo para equilibrar a tendência de giro:\n\nF(pino) · 0,6 = 700 · 1,2\n\nF(pino) = 840 / 0,6 = **1 400 N** (vertical, para baixo, sobre a tábua)\n\n(A borda do tanque, por sua vez, sustenta a tábua com 700 + 1 400 = 2 100 N.)\n\n**b)** Lei de Snell entre a água e o ar, com o ângulo de 45° no ar:\n\nn(água) · sen θ = n(ar) · sen 45°\n\n√2 · sen θ = 1 · (√2/2) → sen θ = 1/2 → **θ = 30°**\n\nA superfície da água, como espelho plano, forma a imagem de E à mesma distância do espelho, do outro lado: E está 0,6 m acima da água, então sua imagem está 0,6 m abaixo dela. Os olhos estão 1,5 m acima da tábua, na vertical de E, ou seja, 1,5 + 0,6 = 2,1 m acima da água. Distância entre olhos e imagem:\n\nd = 2,1 + 0,6 = **2,7 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Pela escala da figura, cada divisão horizontal vale 2 m (as 3 divisões somam 6 m). Na figura 1, uma crista e o vale seguinte estão a 2 divisões (4 m), então o comprimento de onda é λ = 8 m.\n\nEntre t = 0 e t = 3 s, a crista se deslocou 3 divisões para a direita (menos de uma oscilação completa):\n\nv = Δx / Δt = 6 / 3 = **2 m/s**\n\nA frequência do banhista é a da onda:\n\nf = v / λ = 2 / 8 = **0,25 Hz** (período T = 4 s)\n\n**b)** Em t = 0 o banhista está na posição de equilíbrio e, como a onda vai para a direita, ele está subindo. Em 3 s = 3T/4 ele sobe até a crista (1 m), desce até o equilíbrio (1 m) e desce até o vale (1 m), como mostra a figura 2. Distância percorrida: 3 m.\n\nv(média) = 3 / 3 = **1 m/s**\n\nNo MHS, a velocidade máxima é v(máx) = ω·A, com ω = 2π/T:\n\nω = 2 · 3 / 4 = 1,5 rad/s\n\nv(máx) = 1,5 · 1 = **1,5 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** A carga é a área sob o gráfico i × t:\n\nQ = 0,5 · 20 + 2,5 · (60 − 20)\n\nQ = 10 + 100 = **110 C**\n\nCom a chave aberta (0 a 20 s), só L₁ está ligada ao gerador de 120 V e o amperímetro marca 0,5 A:\n\nR₁ = U / i = 120 / 0,5 = **240 Ω**\n\n**b)** Entre 20 s e 60 s a corrente total é 2,5 A sob 120 V:\n\nP = U · i = 120 · 2,5 = **300 W**\n\nL₁ continua recebendo 0,5 A (está em paralelo, sob os mesmos 120 V), então o ramo das três lâmpadas L₂ recebe 2,5 − 0,5 = 2 A:\n\nR(ramo) = 120 / 2 = 60 Ω\n\nNesse ramo, uma L₂ fica em série com duas L₂ em paralelo:\n\nR₂ + R₂/2 = 60 → 1,5 · R₂ = 60\n\nR₂ = **40 Ω**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Massa do beija-flor = 129,6 − 125,9 = 3,7 g.\n\nO maior valor possível do coração corresponde a 2,5% dessa massa:\n\n0,025 · 3,7 g = 0,0925 g = **92,5 mg**\n\n**b)** Seja N a idade de João, em anos. Como todos os anos têm o mesmo número de dias, basta igualar os batimentos por ano:\n\n1 015 · 4 = 70 · N\n\nN = 4 060 / 70 = **58 anos**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Os três segmentos formam triângulos retângulos nas dobras.\n\nNo triângulo PQR (ângulo reto em Q):\n\nPR² = 4² + 3² = 25 → PR = **5 cm**\n\nNo triângulo QRS (ângulo reto em R):\n\nQS² = 3² + 2,25² = 9 + 5,0625 = 14,0625 → QS = 3,75 cm = **37,5 mm**\n\n**b)** Como PQ ⟂ QR e QR ⟂ RS, os segmentos PQ e RS são paralelos e têm o mesmo sentido (a figura mostra o fio em zigue-zague). Projetando PS na direção de PQ e na direção de QR:\n\ncomponente na direção de PQ: 4 + 2,25 = 6,25 cm\n\ncomponente na direção de QR: 3 cm\n\nPS² = 6,25² + 3² = 39,0625 + 9 = 48,0625 cm²\n\nPS é a diagonal do quadrado, e a área do quadrado é d²/2:\n\nÁrea = 48,0625 / 2 = 769/32 ≈ **24,03 cm²**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** O gráfico oscila entre 0 (vale) e 2 (cristas), em torno do valor médio 1. Como sen(n·x) varia entre −1 e 1, o deslocamento vertical é m = **1** (confirmado por f(0) = 1 + sen 0 = 1).\n\nO comprimento de onda (período da função) é a distância entre cristas: 25 − 5 = 20 m.\n\n2π / n = 20 → n = **π/10**\n\nConferindo: f(5) = 1 + sen(π/2) = 2 (crista) e f(15) = 1 + sen(3π/2) = 0 (vale).\n\n**b)** O valor máximo de sen(πx/2) é 1, então a altura das cristas é:\n\ng(máx) = 3 + 1 = **4 m**\n\nComprimento de onda = período da função:\n\nλ = 2π / (π/2) = **4 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Renato gastou 136,80 reais em x pacotes de y reais. Com cada pacote 35 centavos mais barato, compraria x + 4 pacotes e sobrariam 0,30 real, isto é, gastaria 136,50 reais:\n\nx · y = 136,80\n\n(x + 4) · (y − 0,35) = 136,50\n\n**b)** Desenvolvendo a segunda equação:\n\nx·y − 0,35x + 4y − 1,4 = 136,50\n\n136,80 − 0,35x + 4y − 1,4 = 136,50 → 4y = 0,35x + 1,1\n\nSubstituindo y = 136,80 / x:\n\n547,2 / x = 0,35x + 1,1 → 0,35x² + 1,1x − 547,2 = 0\n\nMultiplicando por 20 para obter coeficientes inteiros:\n\n**7x² + 22x − 10 944 = 0**\n\n(a = 7, b = 22, c = 10 944, com mdc igual a 1). A raiz positiva é x = (−22 + 554) / 14 = 38 pacotes, a 3,60 reais cada.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** No primeiro ano, guitarra e baixo só podem ficar com Alberto e Bruno, e teclado e bateria com Caio e David.\n\nAlberto e Bruno dividem guitarra e baixo: 2! = 2 maneiras.\n\nCaio e David dividem teclado e bateria: 2! = 2 maneiras.\n\nTotal: 2 · 2 = **4 combinações**.\n\n**b)** No segundo ano, qualquer um toca qualquer instrumento: 4! = 24 combinações.\n\nCrescimento = (24 − 4) / 4 = 20 / 4 = 5 = **500%**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

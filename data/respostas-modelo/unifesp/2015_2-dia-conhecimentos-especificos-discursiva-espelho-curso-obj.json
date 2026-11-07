@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2015_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** É interrompida a **síntese de proteínas**, na etapa de **tradução**. O papel do RNAt é transportar os aminoácidos até o ribossomo e posicioná-los na ordem correta: cada RNAt carrega um aminoácido específico e possui um anticódon que se emparelha com o códon complementar do RNA mensageiro, permitindo a ligação peptídica entre aminoácidos sucessivos.\n\n**b)** Como a bactéria é procariota e não tem núcleo, o RNAt é transcrito a partir do DNA no **citoplasma** (na região do nucleoide). Outros componentes encontrados no citoplasma bacteriano: os **ribossomos** e o **cromossomo bacteriano** (DNA circular do nucleoide); também valem plasmídeos, enzimas ou grânulos de reserva.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** **Amônia**: excretada por peixes ósseos (teleósteos), em **ambiente aquático**; por ser muito solúvel e tóxica, precisa de muita água para ser eliminada diluída.\n\n**Ureia**: excretada pelos mamíferos, como o ser humano, em **ambiente terrestre**; é menos tóxica e pode ser concentrada na urina, economizando água.\n\n**Ácido úrico**: excretado por aves e répteis, em **ambiente terrestre**; é pouco solúvel e quase atóxico, eliminado como pasta com mínima perda de água, o que também é vantajoso no desenvolvimento dentro do ovo.\n\n**b)** Os **cnidários** (e também os poríferos e equinodermos) não têm sistema excretor específico. Neles, a excreta nitrogenada, principalmente amônia, sai das células por **difusão simples** através da superfície do corpo diretamente para a água do ambiente, favorecida pelo contato de quase todas as células com o meio aquático.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Em animais: a **quitina**, polissacarídeo do exoesqueleto dos artrópodes (também valem os glicosaminoglicanos, como o sulfato de condroitina, da matriz da cartilagem). Em vegetais: a **celulose**, principal componente da parede celular das células vegetais.\n\n**b)** Os agentes não enzimáticos são os **sais biliares** da bile, produzida pelo fígado: eles **emulsionam** as gorduras, fragmentando as gotas grandes em gotículas menores e aumentando a superfície de contato para a ação enzimática (o bicarbonato do suco pancreático também ajuda, neutralizando a acidez vinda do estômago). A enzima é a **lipase pancreática**, que **hidrolisa** os triglicerídeos em ácidos graxos e glicerol (ou monoglicerídeos), que podem então ser absorvidos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A Segunda Lei de Mendel é a **lei da segregação independente**: os fatores (genes) de duas ou mais características, localizados em pares de cromossomos homólogos diferentes, separam-se independentemente durante a formação dos gametas. Ela explica a variabilidade porque os alelos de diferentes genes se recombinam de todas as formas possíveis nos gametas (por exemplo, um diíbrido AaBb forma AB, Ab, aB e ab), gerando descendentes com combinações novas de características, diferentes das dos pais.\n\n**b)** A **mutação gênica**: alteração na sequência de bases do DNA (substituição, inserção ou deleção), espontânea ou causada por agentes mutagênicos; ela cria alelos novos, que são a fonte primária da variabilidade. Outra resposta válida é o **crossing-over** (permutação), troca de segmentos entre cromátides homólogas na prófase I da meiose, que recombina genes situados no mesmo cromossomo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** As plantas com sementes (gimnospermas) surgiram antes das plantas com frutos (angiospermas): o fruto é uma estrutura exclusiva das angiospermas, que apareceram depois na história evolutiva. Assim, sementes já estavam disponíveis como alimento muito antes de existirem frutos, o que apoia a hipótese de que a granivoria surgiu primeiro.\n\n**b)** A semente contém o **embrião**, isto é, um novo indivíduo vegetal; ao comê-la e digeri-la, o granívoro mata esse indivíduo, como um predador que mata a presa, e não apenas consome parte de uma planta que continua viva, como na herbivoria. A frugivoria contribui para a manutenção das espécies vegetais porque o animal come a polpa e **dispersa as sementes** (zoocoria), eliminando-as intactas nas fezes ou descartando-as longe da planta-mãe, o que reduz a competição, amplia a área de ocupação da espécie e, em muitos casos, favorece a germinação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A lâmpada acendeu porque a solução conduz corrente elétrica: há **íons livres** (Cu²⁺ e SO₄²⁻) na água. Isso é explicado pela **ligação iônica** entre o cátion Cu²⁺ e o ânion sulfato: ao se dissolver, o composto iônico sofre dissociação e libera os íons, que transportam as cargas.\n\n**b)** No gráfico, depois de toda a água sair, a massa estabiliza em 64% da massa inicial; esse resíduo é o CuSO₄ anidro (160 g/mol).\n\nM(CuSO₄·xH₂O) = 160 ÷ 0,64 = 250 g/mol\n\nmassa de água por mol: 250 − 160 = 90 g\n\nx = 90 ÷ 18 = **5** (CuSO₄·5H₂O)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Ocorre **acidose**. Prendendo a respiração, o CO₂ produzido pelas células não é eliminado e se acumula no sangue. O aumento de CO₂ desloca o equilíbrio para a direita, formando mais H₂CO₃ e, em seguida, mais íons H⁺ e HCO₃⁻; o aumento de [H⁺] faz o pH diminuir.\n\n**b)** A substância básica consome os íons H⁺ (H⁺ + OH⁻ → H₂O). A diminuição de [H⁺] desloca o equilíbrio para a direita, ionizando mais H₂CO₃; com isso a concentração de **HCO₃⁻ aumenta**.\n\nFórmula estrutural do hidrogenocarbonato: um carbono central com dupla ligação a um oxigênio (C=O), ligação simples a um grupo –OH e ligação simples a um oxigênio com carga negativa (–O⁻), ou seja, HO–C(=O)–O⁻.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Mols de O₂ no balão: n = P·V ÷ (R·T) = 1 × 1,2 ÷ (0,08 × 300) = 0,05 mol\n\nPela equação, 1 mol de H₂O₂ libera 1/2 mol de O₂: n(H₂O₂) = 2 × 0,05 = 0,10 mol\n\nm(H₂O₂) = 0,10 × 34 = 3,4 g\n\nTeor: 3,4 ÷ 11,3 × 100 ≈ **30%** em massa\n\n**b)** O tubo 2 recebeu o catalisador (KI) e por isso encheu mais o balão no mesmo tempo. Num gráfico de energia em função do caminho da reação, as duas curvas partem do mesmo nível dos reagentes e chegam ao mesmo nível dos produtos, mais baixo (reação exotérmica, o que explica o aquecimento); a curva do **tubo 2** tem um pico (energia de ativação) bem **mais baixo** que a do **tubo 1**, sem catalisador. Se os eixos forem volume de O₂ (ou quantidade de produto) por tempo, a curva do tubo 2 sobe mais depressa e atinge antes o patamar final que a do tubo 1, que sobe lentamente.",
+   "confianca": "media",
+   "pendencia": "O gráfico do campo de resposta não aparece no recorte; a resposta do item b descreve as curvas para os dois tipos de gráfico mais prováveis (energia × caminho da reação ou volume de gás × tempo)."
+  },
+  "0:9": {
+   "resposta": "**a)** Na estrutura 1 (alantoína), os oxigênios estão em grupos C=O ligados a nitrogênio, que caracterizam a função **amida**. Na estrutura 2 (alcaloide pirrolizidínico), os oxigênios estão em grupos –OH ligados a carbonos saturados, que caracterizam a função **álcool**.\n\n**b)** **Sim**, a alantoína apresenta isomeria óptica: o carbono do anel ligado ao grupo –NH–CO–NH₂ é **quiral (assimétrico)**, pois está ligado a quatro grupos diferentes (H, o grupo ureído, o N do anel e a carbonila do anel); a molécula não é sobreponível à sua imagem especular.\n\nO grupo necina tem **caráter básico**: o nitrogênio é de uma amina terciária e possui um par de elétrons não ligante, capaz de receber um próton H⁺ (base de Brønsted-Lowry) ou doar o par de elétrons (base de Lewis).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Pela estrutura, a cafeína tem fórmula molecular C₈H₁₀N₄O₂. Na queima:\n\n**2 C₈H₁₀N₄O₂ + 19 O₂ → 16 CO₂ + 10 H₂O + 4 N₂**\n\n(Confere: 16 C, 20 H, 8 N e 42 O de cada lado.)\n\n**b)** A curva **X**. Na pressão de 1 atm, X atinge a ebulição numa temperatura menor que Y, ou seja, tem maior pressão de vapor em cada temperatura e é mais volátil. O texto pede um solvente orgânico de baixa temperatura de ebulição, para ser evaporado sem aquecer muito (e sem degradar a cafeína); Y, com temperatura de ebulição mais alta, corresponde à água.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Sem atrito, a energia mecânica se conserva entre B (22 m) e C (30 m):\n\nv(C)² = v(B)² − 2·g·(h(C) − h(B))\n\nv(C)² = (10√2)² − 2 × 10 × 8 = 200 − 160 = 40\n\nv(C) = √40 = **2√10 m/s ≈ 6,3 m/s**\n\n**b)** O ponto crítico é C, topo do trecho circular: o esquiador não perde contato se a normal não se anular, ou seja, se a resultante centrípeta puder ser dada pelo peso: m·v² ÷ R ≤ m·g → v(C)² ≤ g·R = 10 × 10 = 100.\n\nPartindo do repouso em A: v(C)² = 2·g·(h(A) − 30)\n\n20·(h(A) − 30) ≤ 100 → h(A) − 30 ≤ 5\n\nAltura máxima: **h(A) = 35 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Como o cordão fica vertical e forma 30° com a haste, que é perpendicular ao tampo, o tampo da mesa está inclinado de 30° em relação à horizontal. O movimento é retilíneo e uniforme, então o abajur está em equilíbrio.\n\n**a)** Figura 1: N₁ = P\n\nFigura 2: N₂ = P·cos 30° = P·√3/2\n\nN₁/N₂ = 1/cos 30° = 2/√3 = **2√3/3 ≈ 1,15**\n\n**b)** Na iminência de escorregar, o atrito estático é máximo e equilibra a componente do peso ao longo do plano:\n\nμ·P·cos 30° = P·sen 30°\n\nμ = tg 30° = **√3/3 ≈ 0,58**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** O gelo flutua em equilíbrio: empuxo = peso.\n\nd(suco)·V(sub)·g = m(gelo)·g → 1 × V(sub) = 20\n\nV(sub) = **20 cm³** para cada cubo.\n\n**b)** Calor que copo e suco cedem até 0 °C: 60 × 20 + 300 × 1 × 20 = 7 200 cal. Para fundir os 40 g de gelo: 40 × 80 = 3 200 cal. Como 7 200 > 3 200, todo o gelo derrete e o equilíbrio fica acima de 0 °C.\n\nCalor cedido = calor recebido:\n\n60·(20 − T) + 300·(20 − T) = 40 × 80 + 40 × 1 × (T − 0)\n\n7 200 − 360T = 3 200 + 40T\n\n400T = 4 000 → T = **10 °C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Em C, o raio passa da peça A para a peça B pela base plana do cone, que é horizontal; a normal é a vertical, e o ângulo de incidência é α = 30°. Pela lei de Snell:\n\nn(A)·sen 30° = n(B)·sen r\n\n1,6√3 × 0,5 = 1,6·sen r → sen r = √3/2 → r = 60°\n\nComo C é o centro da semiesfera, o raio refratado segue ao longo de um raio da esfera e atinge Q perpendicularmente à superfície, saindo sem desvio. Logo o ângulo com a vertical na saída é **β = 60°**.\n\n**b)** O raio só deixaria de passar para B' se sofresse reflexão total em C e voltasse para a peça A (podendo sair pela superfície cônica). Para que sempre passe para B', o seno do ângulo de refração não pode exceder 1:\n\nn(B')·1 ≥ n(A)·sen 30° = 1,6√3 × 0,5\n\nn(B') ≥ 0,8√3 ≈ 1,39\n\nO menor índice é **0,8√3 ≈ 1,39** (nesse limite, o raio sai rasante à base).",
+   "confianca": "media",
+   "pendencia": "No item b, no valor exato 0,8√3 o raio sai rasante à base; dependendo do critério da banca, a resposta pode ser dada como 'maior que 0,8√3'."
+  },
+  "0:15": {
+   "resposta": "Pela malha (lado d), com origem no canto inferior esquerdo: Q(2d, 2d), A(2d, 6d) e B(6d, 6d).\n\n**a)** Distâncias: QA = 4d; QB = √((4d)² + (4d)²) = 4√2·d.\n\nComo F = K·Q·q ÷ r²:\n\nF(B) ÷ F = (QA ÷ QB)² = (4d ÷ 4√2·d)² = 1/2\n\n**F(B) = F/2**\n\n**b)** τ = q·(V(A) − V(B)) = K·Q·q·(1/(4d) − 1/(4√2·d))\n\nCom √2 = 1,4: 1/4 − 1/5,6 = (5,6 − 4) ÷ 22,4 = 1/14\n\n**τ = K·Q·q ÷ (14d)**, positivo (a força repulsiva realiza trabalho motor, pois q se afasta de Q).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** OP = 6 e forma 60° com o eixo x:\n\nx = 6·cos 60° = 3; y = 6·sen 60° = 3√3\n\n**P(3, 3√3)**\n\n**b)** O ângulo de 75° fica entre o segmento PO e o raio X. Como PO forma 60° com a horizontal, o raio forma 75° − 60° = 15° com a horizontal e desce da esquerda para a direita. Coeficiente angular:\n\nm = −tg 15° = −(2 − √3) = √3 − 2\n\nPassando por P: y − 3√3 = (√3 − 2)·(x − 3)\n\ny = (√3 − 2)x − 3√3 + 6 + 3√3\n\n**y = (√3 − 2)x + 6**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Navegam na internet: 1 840 − 210 − 130 = 1 500 adultos.\n\nPesquisaram informações médicas: 80% de 1 500 = 1 200; logo 300 navegam mas nunca pesquisaram.\n\nNunca pesquisaram: 340 (não navegam) + 300 = **640 adultos**.\n\n**b)** No grupo de 1 200 que pesquisaram:\n\nmulheres: 64% de 1 200 = 768; homens: 36% de 1 200 = 432\n\napenas ensino fundamental: 43% de 1 200 = 516\n\nmulheres com apenas fundamental: 12,5% de 768 = 96\n\nhomens com apenas fundamental: 516 − 96 = **420**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** −0,05t² + 2t + 25 = 40\n\n0,05t² − 2t + 15 = 0 → t² − 40t + 300 = 0\n\nt = 10 h ou t = 30 h; a primeira vez é t = 10 h.\n\n11 h + 10 h = **21 h da segunda-feira**.\n\n**b)** O máximo da parábola está no vértice:\n\nt = −2 ÷ (2 × (−0,05)) = 20 h (C máx = −20 + 40 + 25 = 45 ppm)\n\n11 h de segunda + 20 h = **7 h da manhã de terça-feira**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Duplas de casas contíguas: em cada uma das 8 linhas há 7 duplas horizontais (56) e em cada uma das 8 colunas há 7 duplas verticais (56), total de 112 duplas.\n\nEm cada dupla, as duas peças, diferentes, podem ser colocadas de 2 modos:\n\n112 × 2 = **224 maneiras**\n\n**b)** A peça ☺ vai para uma das 8 casas da diagonal (i = j), com igual probabilidade. A peça ☹ vai para uma das 63 casas livres.\n\nNas casas (1,1) e (8,8), há 2 casas contíguas; nas outras 6 casas da diagonal, há 4.\n\nP = (2/8)·(2/63) + (6/8)·(4/63) = (4 + 24) ÷ 504 = 28/504\n\n**P = 1/18**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** 0,109 nm = 0,109 × 10⁻⁹ m = 0,109 × 10⁻⁶ mm\n\n**1,09 × 10⁻⁷ mm**\n\n**b)** Seja R = CH o raio da esfera. A altura do tetraedro vale 4R/3; como o vértice superior está a R de C, a face oposta (onde estão os outros três H) fica R/3 abaixo de C.\n\nNo triângulo formado por C, um H da base e o pé da perpendicular de C à face da base, o ângulo θ entre CH e a vertical para baixo tem cos θ = (R/3) ÷ R = 1/3 ≈ 0,3333.\n\nPela tabela, cos 70,5° = 0,3338 ≈ 1/3, então θ ≈ 70,5°.\n\nO ângulo HCH entre o H de cima e um H da base é o suplemento de θ:\n\nα ≈ 180° − 70,5° = **109,5°**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

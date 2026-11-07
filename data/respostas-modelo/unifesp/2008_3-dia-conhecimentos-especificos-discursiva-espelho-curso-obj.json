@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2008_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A fotossíntese produz compostos orgânicos (glicose e outros) formados apenas por carbono, hidrogênio e oxigênio, obtidos do CO₂ e da água. Para construir e manter o corpo, porém, a planta precisa de outros elementos que não vêm do ar: nitrogênio, fósforo, potássio, enxofre, magnésio, cálcio, ferro etc. Eles entram na composição de proteínas, ácidos nucleicos, clorofila, ATP e atuam como cofatores de enzimas. Esses **nutrientes minerais** são absorvidos pelas raízes; por isso, na hidroponia, devem estar dissolvidos na solução nutritiva.\n\n**b)** O **nitrogênio** (absorvido principalmente como nitrato, NO₃⁻, ou amônio, NH₄⁺) é um macronutriente: faz parte dos aminoácidos e, portanto, das proteínas (incluindo as enzimas), dos ácidos nucleicos (DNA e RNA), do ATP e da molécula de clorofila. Sua falta reduz o crescimento e causa clorose (amarelamento) das folhas.\n\nOutros macronutrientes, como fósforo, potássio, cálcio, magnésio ou enxofre, com a função corretamente explicada, também valem.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A resistência surge por **mutação** espontânea e ao acaso no DNA de algumas bactérias da colônia (ou é adquirida por recombinação, como a transferência de plasmídeos com genes de resistência por conjugação). O antibiótico não provoca a mutação: ele **seleciona** as bactérias que já eram resistentes, matando as sensíveis. As resistentes sobrevivem, se reproduzem e passam a predominar na população.\n\n**b)** As bactérias se reproduzem **assexuadamente por divisão binária (cissiparidade)**: cada célula duplica seu cromossomo e se divide em duas, sem precisar de parceiro nem de gametas. Esse processo é simples e muito rápido (em condições favoráveis, uma divisão a cada 20 a 30 minutos), e cada nova célula já pode se dividir. O número de indivíduos dobra a cada geração, num crescimento exponencial; as filhas são cópias da mãe, de modo que uma bactéria resistente origina rapidamente uma população inteira resistente.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Aos **répteis**, os primeiros vertebrados com **ovo amniótico**, de casca protetora e com vitelo como reserva. Outra novidade desse grupo, ligada ao desenvolvimento do embrião, são os **anexos embrionários âmnio e alantoide** (o âmnio forma uma bolsa com líquido que protege o embrião contra choques e desidratação; o alantoide armazena excretas e participa das trocas gasosas). Pode-se citar também a fecundação interna associada ao desenvolvimento direto, sem fase larval aquática.\n\n**b)** Às **gimnospermas**, as primeiras plantas com **semente**: o embrião fica protegido pelo tegumento e conta com tecido de reserva até germinar. Outra novidade que aparece nesse grupo é o **grão de pólen e o tubo polínico**, que levam o gameta masculino até o óvulo e tornam a fecundação independente da água.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Comportamento semelhante ao do jacaré (ectotérmico, baixo gasto de energia): um **anfíbio**, como o sapo, ou um **peixe**, como a tilápia. Comportamento semelhante ao do ser humano (endotérmico, alto gasto de energia): uma **ave**, como o pombo ou a galinha.\n\nOutros exemplos de anfíbios, peixes ou invertebrados (para o jacaré) e de aves (para o ser humano) também valem.\n\n**b)** O ser humano é **endotérmico (homeotérmico)**: mantém a temperatura corporal alta e constante (cerca de 36,5 °C) produzindo calor pelo próprio metabolismo, que precisa ser intenso, sobretudo num ambiente a 20 °C, mais frio que o corpo. O jacaré é ectotérmico: sua temperatura acompanha a do ambiente e ele não gasta energia para gerar calor.\n\nHá vantagem adaptativa: com temperatura constante, as enzimas trabalham sempre perto do ideal, e o animal pode manter atividade intensa e contínua independentemente do clima, inclusive à noite e em ambientes frios, ocupando maior variedade de habitats. O custo é a necessidade de comer muito mais.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A probabilidade é **zero** (praticamente nula). O DNA mitocondrial é herdado da mãe: as mitocôndrias do zigoto vêm do citoplasma do óvulo. O espermatozoide contribui basicamente com o núcleo; suas poucas mitocôndrias, na peça intermediária, não se mantêm no zigoto (são degradadas). A fecundação in vitro não muda isso, pois também é a união de óvulo e espermatozoide.\n\n**b)** **Sim**, em parte. O núcleo de Dolly é o núcleo da célula da ovelha doadora, cujo genoma nuclear é formado por um lote de cromossomos herdado da mãe e outro herdado do pai. Portanto, cerca de **metade do genoma nuclear de Dolly** vem do pai da ovelha doadora (Dolly é um clone genético da doadora).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)\n\nn(NaOH) = 0,120 mol/L × 14,5 × 10⁻³ L = 1,74 × 10⁻³ mol\n\nProporção 1 : 1 → n(HCl) = 1,74 × 10⁻³ mol, em 10,0 mL:\n\n[HCl] = 1,74 × 10⁻³ mol ÷ 10,0 × 10⁻³ L = **0,174 mol/L**.\n\n**b)** Pelo gráfico, a concentração de fenolftaleína cai de 5,0 × 10⁻³ mol/L (t = 0) para 3,0 × 10⁻³ mol/L (t = 50 s):\n\nv(média) = |Δ[ ]| ÷ Δt = (5,0 − 3,0) × 10⁻³ ÷ 50 = **4,0 × 10⁻⁵ mol/(L·s)**.\n\nA velocidade não é a mesma ao longo do tempo porque depende da concentração dos reagentes: à medida que a fenolftaleína é consumida, sua concentração diminui, há menos colisões efetivas por unidade de tempo e a reação fica mais lenta (a curva vai ficando menos inclinada).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Quantidades (em mmol):\n\namostra: 180 mg ÷ 90 g/mol = 2,0 mmol\nH₂O: 36 mg ÷ 18 g/mol = 2,0 mmol → 4,0 mmol de H\nCO₂: 176 mg ÷ 44 g/mol = 4,0 mmol → 4,0 mmol de C\n\nPor molécula do composto: 4,0 ÷ 2,0 = 2 C e 4,0 ÷ 2,0 = 2 H.\n\nOxigênio: 90 − (2 × 12 + 2 × 1) = 64 g/mol → 64 ÷ 16 = 4 O.\n\nFórmula molecular: **C₂H₂O₄** (ácido oxálico, HOOC–COOH).\n\n**b)** O hidróxido de sódio retém o CO₂. Como reação de síntese (adição de dois reagentes formando um só produto):\n\n**CO₂(g) + NaOH(s) → NaHCO₃(s)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** **Sim, é endotérmica.** A constante de equilíbrio aumenta com a temperatura (de 9 × 10⁻¹³ a 298 K para 6 × 10⁻⁷ a 600 K), o que indica que o aquecimento favorece a reação direta; pelo princípio de Le Chatelier, o aumento de temperatura favorece o sentido endotérmico.\n\nPor isso, a concentração de metano **não aumenta** com o aumento de temperatura: o equilíbrio se desloca para a direita, consumindo CH₄ e formando C₂H₆ e H₂; [CH₄] diminui.\n\n**b)** **Catalisador:** nenhum efeito sobre a concentração de H₂ no equilíbrio. Ele acelera igualmente as reações direta e inversa, só fazendo o equilíbrio ser atingido mais depressa.\n\n**Aumento de pressão:** o equilíbrio **não se desloca**, porque há 2 mol de gás nos reagentes e 2 mol de gás nos produtos (Δn = 0); a quantidade de H₂ não muda. (Se a pressão for aumentada por compressão, todas as concentrações sobem na mesma proporção, apenas pela redução de volume, sem deslocamento do equilíbrio.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Grupos funcionais com hidrogênio: em A.I, o grupo **carboxila (–COOH), de ácido carboxílico**; em A.V, a **hidroxila ligada ao anel aromático (–OH), de fenol**. (A.V tem também um grupo éter, –O–CH₃, que não contém H no grupo funcional.)\n\nO aditivo **A.V** deve ser mais solúvel em solvente apolar: tem uma grande parte apolar (anel benzênico, grupo terc-butila e metila) e um único grupo capaz de fazer ligação de hidrogênio, enquanto A.I é uma molécula pequena com uma carboxila, proporcionalmente mais polar. Coerentemente, A.V é usado em margarinas, ricas em gorduras.\n\n**b)** O **A.I**. Por ser um ácido carboxílico, em meio de pH baixo (ácido) ele permanece na forma não ionizada, que é a forma ativa como antimicrobiano; não reage com o meio ácido nem perde eficácia (é o caso dos sucos de frutas cítricas).\n\nNome do A.I: **ácido hexa-2,4-dienoico** (ácido 2,4-hexadienoico, conhecido como ácido sórbico).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** O PET é um poliéster formado por condensação, com saída de água, entre o ácido tereftálico e o etilenoglicol. Sua unidade de repetição é:\n\n[–O–CH₂–CH₂–O–CO–C₆H₄–CO–]ₙ (o C₆H₄ é o anel benzênico, ligado aos dois grupos C=O em posições para)\n\nOs dois polímeros são poliésteres, mas o PET é **aromático**: os anéis benzênicos tornam a cadeia rígida, compacta e pouco acessível à água e às enzimas dos microrganismos, e por isso ele se degrada muito lentamente. O poliéster **alifático** tem cadeias flexíveis, sem anéis, cujas ligações éster são mais facilmente hidrolisadas pelos microrganismos; por isso é mais biodegradável, e sua presença acelera a degradação do novo plástico.\n\n**b)** O etilenoglicol (HO–CH₂–CH₂–OH) tem dois grupos –OH por molécula, contra um só no etanol (CH₃–CH₂–OH), e massa molar maior. Por isso forma mais ligações de hidrogênio entre suas moléculas, e as forças intermoleculares são mais intensas.\n\nAssim, o **etilenoglicol** tem a **menor pressão de vapor** (é menos volátil), e o **etanol** tem a **menor temperatura de ebulição**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O pêndulo parte de +A em t = 0 e volta a essa posição a cada período. Considerando que cada passagem por +A corresponde a uma oscilação completa, 20 passagens equivalem a 20 períodos:\n\nT = 30 s ÷ 20 = 1,5 s\n\nf = 1 ÷ T = 1 ÷ 1,5 ≈ 0,67 Hz\n\n**b)** Como o pêndulo parte do repouso em +A, a posição é x(t) = A · cos(2π · t ÷ 1,5). O gráfico é uma cossenoide de amplitude A: começa em x = +A em t = 0; passa por x = 0 em t = 0,375 s; atinge −A em t = 0,75 s; volta a 0 em t = 1,125 s e a +A em t = 1,5 s. O ciclo se repete igual até t = 3,0 s, onde x = +A outra vez, completando **dois períodos** no intervalo, sempre com a mesma amplitude, já que não há forças resistivas.",
+   "confianca": "media",
+   "pendencia": "Se o instante t = 0 for contado como a 1ª passagem por +A, são 19 períodos em 30 s (T ≈ 1,58 s); a resolução usa a leitura mais comum, de 20 períodos."
+  },
+  "0:12": {
+   "resposta": "**a)** Massa do conjunto: m = m_E + m_B = 10 g + 190 g = 200 g = 0,20 kg\n\nEp = m · g · h\n\nEp = 0,20 · 10 · 0,10\n\n**Ep = 0,20 J**\n\n**b)** Logo após o choque, a energia mecânica do conjunto se conserva até a altura máxima:\n\n(m · V²) ÷ 2 = m · g · h → V = √(2 · g · h) = √(2 · 10 · 0,10) = √2 ≈ 1,4 m/s\n\nNo choque (inelástico, a esfera fica presa ao bloco), conserva-se a quantidade de movimento:\n\nm_E · v = (m_E + m_B) · V\n\n0,010 · v = 0,20 · √2\n\nv = 20√2 ≈ **28 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** O desenho deve mostrar o bloco totalmente imerso no líquido, sem tocar o fundo nem as paredes da proveta, preso ao fio do dinamômetro. Sobre ele atuam três forças: o **peso** (P), vertical para baixo, aplicado pela Terra; a **tração** do fio (T), vertical para cima, que é a leitura do dinamômetro; e o **empuxo** (E), vertical para cima, aplicado pelo líquido. Em equilíbrio, T + E = P.\n\n**b)** A redução na leitura do dinamômetro é igual ao empuxo, e o volume deslocado é igual ao volume do bloco:\n\nE = 0,075 N\n\nV = 10 cm³ = 10 · 10⁻⁶ m³ = 1,0 · 10⁻⁵ m³\n\nE = d · V · g\n\n0,075 = d · 1,0 · 10⁻⁵ · 10\n\nd = 0,075 ÷ 1,0 · 10⁻⁴ = **7,5 · 10² kg/m³** (= 0,75 g/cm³)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A lente é **convergente**: forma, no anteparo, uma imagem **real e invertida** da seta luminosa. No esquema: eixo principal horizontal; à direita, a seta (objeto) vertical, além do foco objeto; a lente ao centro, com os focos F e F' marcados um de cada lado; à esquerda, no anteparo, a imagem invertida e menor. Dois raios saem da ponta da seta: o que chega à lente paralelo ao eixo emerge passando pelo foco do outro lado; o que passa pelo centro óptico segue sem desvio. Os dois se cruzam no anteparo, na ponta da imagem.\n\n**b)** Distâncias medidas na escala:\n\np = 95 − 35 = 60 cm (objeto–lente)\n\np' = 35 − 15 = 20 cm (lente–imagem)\n\n1/f = 1/p + 1/p'\n\n1/f = 1/60 + 1/20 = 4/60\n\n**f = 15 cm**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** O circuito tem uma única malha em série: a bateria (duas pilhas em série), a chave, o amperímetro e os resistores R₁ e R₂. O voltímetro fica em paralelo com o resistor R₂ (seus terminais estão ligados nas duas extremidades de R₂). Nos símbolos convencionais: bateria com traços longo e curto, chave como interruptor, resistores em zigue-zague, e os medidores como círculos com A e V.\n\n**b)** Força eletromotriz: E = 2 · 1,5 = 3,0 V\n\nResistência total: R = R₁ + R₂ = 100 + 200 = 300 Ω\n\ni = E ÷ R = 3,0 ÷ 300 = 1,0 · 10⁻² A\n\nLeitura do amperímetro: **0,010 A (10 mA)**\n\nTensão em R₂: U = R₂ · i = 200 · 0,010\n\nLeitura do voltímetro: **2,0 V**",
+   "confianca": "media",
+   "pendencia": "A leitura do voltímetro depende de onde ele está ligado na figura; a resolução considera que ele mede a tensão em R₂ (2,0 V). Se medisse R₁, a leitura seria 1,0 V."
+  },
+  "0:16": {
+   "resposta": "**a)** Área do retângulo: 4x. Área do quadrado: (x/2)² = x²/4.\n\ny = 4x − x²/4\n\ny > 0 → x · (4 − x/4) > 0\n\nComo x > 0, basta 4 − x/4 > 0, ou seja, x < 16.\n\n**0 < x < 16**\n\n**b)** y é uma função do 2º grau com coeficiente de x² negativo, então tem máximo no vértice:\n\nx_v = −b ÷ 2a = −4 ÷ (2 · (−1/4)) = 8\n\ny_máx = 4 · 8 − 8²/4 = 32 − 16 = 16\n\nO valor máximo é **y = 16 cm²**, obtido para **x = 8 cm**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Para y = 1 + sen(2πx − π/2), o período é\n\nT = 2π ÷ 2π = **1**\n\nComo −1 ≤ sen(…) ≤ 1, temos 0 ≤ y ≤ 2. Conjunto imagem: **[0, 2]**.\n\n**b)** y = 1 → sen(2πx − π/2) = 0\n\n2πx − π/2 = kπ, com k inteiro\n\nx = 1/4 + k/2\n\nNo intervalo [0, 1]: k = 0 → x = 1/4; k = 1 → x = 3/4.\n\n**x = 1/4 ou x = 3/4**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Os dois últimos dígitos vão de 0 a 9 cada um. Para a soma ser 15, os pares possíveis são (6, 9), (7, 8), (8, 7) e (9, 6).\n\nSão **4 possibilidades**.\n\n**b)** Há 10 dígitos possíveis e só um é o certo. Com duas tentativas, Moacir não repete o dígito que já errou:\n\nP(acertar na 1ª) = 1/10\n\nP(errar na 1ª e acertar na 2ª) = 9/10 · 1/9 = 1/10\n\nP = 1/10 + 1/10 = 2/10 = **1/5 (20%)**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** O triângulo BCD é retângulo em C e isósceles, então BC = CD e os ângulos agudos medem 45°: CB̂D = 45°.\n\nComo A, B e C estão alinhados, AB̂D = 180° − 45° = 135°.\n\nNo triângulo isósceles ABD, o ângulo obtuso de 135° só pode ser o do vértice, então AB = BD, e os ângulos da base são iguais:\n\nBÂD = (180° − 135°) ÷ 2 = **22,5°**\n\n**b)** AB = BD = x. A altura do triângulo ABD relativa à base AB (sobre a reta AC) é DC. No triângulo BCD, de hipotenusa x:\n\nDC = x · sen 45° = x√2/2\n\nÁrea = (AB · DC) ÷ 2 = (x · x√2/2) ÷ 2\n\n**Área = x²√2/4**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** O cubo tem 6 faces, que continuam existindo (agora como octógonos ou, se x = a/2, quadrados), e cada um dos 8 cantos cortados gera uma nova face triangular.\n\nNúmero de faces: 6 + 8 = **14**\n\n**b)** A base de cada pirâmide é um triângulo equilátero de lado ℓ = x√2 (hipotenusa da face lateral, triângulo retângulo isósceles de catetos x).\n\nÁrea da base: (√3/4) · (x√2)² = x²√3/2\n\nVolume de uma pirâmide: (1/3) · (x²√3/2) · (x/√3) = x³/6\n\nOito pirâmides: 8 · x³/6 = 4x³/3\n\nVolume retirado = a³ − (5/6)a³ = a³/6\n\n4x³/3 = a³/6 → x³ = a³/8\n\n**x = a/2** (valor permitido, pois 0 < x ≤ a/2)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

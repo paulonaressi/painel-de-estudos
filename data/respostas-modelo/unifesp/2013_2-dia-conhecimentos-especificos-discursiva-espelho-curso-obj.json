@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2013_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O crescimento da massa se deve à **fermentação alcoólica** realizada pelas leveduras do fermento biológico (Saccharomyces cerevisiae): a glicose é degradada em etanol e **gás carbônico (CO₂)**, com liberação de energia (C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂).\n\nO CO₂ fica retido na massa em pequenas bolhas, o que aumenta o volume da bolinha sem aumentar sua massa. Sua densidade diminui até ficar menor que a da água; o empuxo passa a superar o peso e a bolinha sobe à superfície. Isso indica que a massa já fermentou o suficiente.\n\n**b)** No vinho, a fermentação ocorre em recipiente fechado e o etanol produzido permanece dissolvido na bebida. No pão, o etanol formado na massa é pouco e, por ser volátil (ponto de ebulição de cerca de 78 °C), **evapora durante o cozimento no forno**, que trabalha a temperaturas muito mais altas; também o CO₂ se expande e escapa, deixando a massa aerada. Por isso o pão assado praticamente não contém álcool.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A forma melhor absorvida é o **Fe²⁺**. O gráfico mostra a maior absorção para a carne, cujo ferro está como Fe²⁺ (afirmação I), e a menor para o feijão, vegetal cujo ferro está como Fe³⁺ (afirmação II). As verduras ricas em vitamina C, também vegetais, têm absorção intermediária porque a vitamina C reduz parte do Fe³⁺ a Fe²⁺ (afirmação III).\n\n**b)** **Sim.** O ferro do feijão está na forma Fe³⁺, pouco absorvida. A laranja é rica em vitamina C, que reduz o Fe³⁺ a Fe²⁺, a forma mais bem absorvida pelo intestino. Assim, comer laranja com a feijoada aumenta o aproveitamento do ferro do feijão, o que é coerente com o comportamento da curva das verduras ricas em vitamina C, acima da do feijão.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** \"As regras\" são a **menstruação**: a descamação do endométrio (camada interna do útero, preparada para receber o embrião), eliminada com sangue pela vagina quando não há fecundação. No trecho 2 trata-se da primeira menstruação, a menarca.\n\nO que desencadeia a menstruação é a **queda das taxas de progesterona (e de estrógeno)** no sangue, causada pela regressão do corpo lúteo no ovário; sem esses hormônios, o endométrio não se mantém e descama.\n\n**b)** Pombinha deveria anotar a data de início das menstruações durante vários meses para conhecer a duração dos seus ciclos. A ovulação ocorre cerca de 14 dias antes da menstruação seguinte (no ciclo de 28 dias, por volta do 14º dia). Ela deveria se abster nos dias em torno da ovulação (por exemplo, do 10º ao 18º dia num ciclo de 28 dias).\n\nA abstinência tem de durar vários dias porque os espermatozoides sobrevivem de 2 a 5 dias no sistema reprodutor feminino, o ovócito permanece fecundável por cerca de 24 horas e a data da ovulação pode variar de um ciclo para outro.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O quarto verso fala da derrubada das árvores e da consequente mudança do solo. Sem a cobertura vegetal, o solo fica exposto ao sol e à chuva e deixa de receber a serapilheira (folhas, galhos e restos orgânicos), cuja decomposição repõe os nutrientes no solo. A matéria orgânica diminui, a água da chuva lava os nutrientes para camadas profundas (lixiviação) e arrasta a camada superficial (erosão). O solo **perde fertilidade e capacidade de reter nutrientes**: a terra \"muda\", empobrece.\n\n**b)** Os versos pedidos são o 15º e o 16º da canção, os dois que antecedem o refrão final: neles o narrador diz que transforma a mata em objetos de madeira, como ripas, cercas e pó (serragem).\n\nUma opção para usar madeira em larga escala sem derrubar novas áreas de floresta nativa é a **silvicultura**: o plantio de florestas comerciais (eucalipto, pínus) em áreas já desmatadas ou degradadas, com corte e replantio planejados. Também vale o manejo florestal sustentável certificado, com extração seletiva e controlada; outras opções bem justificadas também são aceitas.",
+   "confianca": "media",
+   "pendencia": "O item b pede a transcrição de dois versos; para não reproduzir a letra da canção, a resposta só indica quais são (15º e 16º) e o que dizem. Na sua folha, copie-os da prova."
+  },
+  "0:5": {
+   "resposta": "**a)** O mecanismo é a **seleção natural**. Na população viral surgem, por mutação, variantes resistentes; na presença das drogas, as cepas sensíveis são eliminadas e as resistentes sobrevivem e se multiplicam, tornando-se predominantes. O primeiro a propor esse mecanismo foi **Charles Darwin** (ao mesmo tempo que Alfred Russel Wallace), em A origem das espécies, de 1859.\n\n**b)** Sem as drogas, o ambiente mudou: a resistência deixou de ser vantagem. As cepas sensíveis, que não estavam mais sendo combatidas e se multiplicam melhor que as resistentes nesse ambiente (a resistência costuma ter custo para o vírus), voltaram a predominar na população viral. Quando o coquetel foi retomado, a maior parte dos vírus era novamente sensível às drogas, e a carga viral caiu.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Pela equação, 4 mol de nitroglicerina produzem 12 + 10 + 6 + 1 = 29 mol de gases. Para 1 mol:\n\nn(gases) = 29 ÷ 4 = 7,25 mol\n\nV = 7,25 · 22,4\n\n**V = 162,4 L**\n\n(Considera-se, como na equação, toda a água no estado gasoso.)\n\n**b)** ΔH = Σ ΔHf(produtos) − Σ ΔHf(reagentes), com ΔHf de N₂ e O₂ igual a zero:\n\nΔH (4 mol) = 12 · (−400) + 10 · (−240) − 4 · (−365)\n\nΔH (4 mol) = −4 800 − 2 400 + 1 460 = −5 740 kJ\n\nPor mol de nitroglicerina: −5 740 ÷ 4\n\n**ΔH = −1 435 kJ·mol⁻¹** (reação exotérmica)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O número de oxidação do nitrogênio passa de 0 no N₂ para +4 no NO₂, portanto o N₂ sofre **oxidação** (perde elétrons):\n\nN₂ + 2 O₂ → 2 NO₂\n\nCada átomo de N perde 4 elétrons; 1 mol de N₂ tem 2 mol de átomos de N:\n\n2 · 4 = **8 mol de elétrons** por mol de N₂.\n\n**b)** No NO₂ o N tem Nox +4; no HNO₃, +5 (oxida, perde 1 e⁻); no NO, +2 (reduz, ganha 2 e⁻). Para igualar os elétrons, formam-se 2 HNO₃ para cada NO, o que exige 3 NO₂; o hidrogênio e o oxigênio fecham com 1 H₂O:\n\n**3 NO₂(g) + 1 H₂O(ℓ) → 2 HNO₃(aq) + 1 NO(g)**\n\nx = 3, y = 1, z = 2, t = 1.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Na combustão completa, a glicerina forma CO₂ e H₂O:\n\n**C₃H₈O₃ + 7/2 O₂ → 3 CO₂ + 4 H₂O**\n\n(Conferência: 3 C; 8 H; 3 + 7 = 10 O de cada lado.)\n\n**b)** Na polimerização por adição, a ligação dupla de cada molécula de eteno se abre e as unidades se ligam em cadeia:\n\n**n H₂C=CH₂ → [–CH₂–CH₂–]ₙ**\n\nÀ esquerda, n moléculas de eteno (dois carbonos unidos por ligação dupla, cada um com dois hidrogênios); à direita, o polietileno, cadeia formada pela repetição de n unidades –CH₂–CH₂– ligadas por ligações simples.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A reação da titulação é Ag⁺(aq) + SCN⁻(aq) → AgSCN(s), na proporção 1 : 1.\n\nn(SCN⁻) = 0,2 mol/L · 0,0150 L = 3,0 × 10⁻³ mol = n(Ag⁺) = n(AgNO₃)\n\n[AgNO₃] = 3,0 × 10⁻³ mol ÷ 0,0250 L\n\n**[AgNO₃] = 0,12 mol·L⁻¹**\n\n**b)** Massa de AgNO₃ em 1 L de solução:\n\nm = 0,12 mol · 170 g/mol = 20,4 g\n\nMassa de 1 L de solução (d = 1 g/mL): 1 000 g.\n\nTítulo em massa = 20,4 ÷ 1 000 = 0,0204\n\n**2,04% em massa**, acima do máximo de 1,7%. Portanto a solução preparada **não é adequada** para uso hospitalar; precisaria ser diluída.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** **Dopa:** fenol (as duas hidroxilas ligadas ao anel aromático), amina primária (–NH₂) e ácido carboxílico (–COOH).\n\n**Dopamina:** fenol (duas hidroxilas no anel) e amina primária (–NH₂). Na conversão, a enzima remove o grupo carboxila como CO₂ (descarboxilação), e a função ácido carboxílico desaparece.\n\n**b)** Tem atividade óptica a substância que possui carbono quiral (assimétrico), ligado a quatro grupos diferentes.\n\nNa **dopa**, o carbono que carrega o –NH₂ está ligado a H, NH₂, COOH e ao grupo –CH₂–(anel com duas OH): quatro grupos diferentes. **A dopa é opticamente ativa**; na fórmula, esse carbono deve ser assinalado com asterisco:\n\n(HO)₂C₆H₃–CH₂–C*H(NH₂)–COOH\n\nNa **dopamina**, o carbono equivalente fica ligado a dois átomos de H (–CH₂–NH₂), e nenhum carbono tem quatro ligantes diferentes: **a dopamina não tem atividade óptica**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Tomando a origem no ponto de lançamento, com θ = 45° (sen θ = cos θ = √2/2), a trajetória é\n\ny = x·tg θ − g·x² ÷ (2·v₀²·cos² θ) = x − 10·x² ÷ v₀²\n\nA bola toca o solo em x = 80 m e y = −0,50 m:\n\n−0,5 = 80 − 10 · 6 400 ÷ v₀²\n\nv₀² = 64 000 ÷ 80,5 ≈ 795\n\n**v₀ ≈ 28 m/s**\n\n(Desprezando os 0,50 m, o alcance A = v₀² ÷ g dá v₀² = 800 e v₀ = 20√2 ≈ 20 · 1,4 = 28 m/s, o mesmo resultado aproximado.)\n\n**b)** Componente vertical inicial: v₀y = v₀·sen 45° = 28 · 0,7 ≈ 20 m/s (v₀y² = v₀²/2 ≈ 400).\n\nSubida acima do ponto de lançamento: h = v₀y² ÷ (2g) = 400 ÷ 20 = 20 m\n\nH(máx) = 0,50 + 20\n\n**H(máx) ≈ 20,5 m** acima do solo",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Área da base: A = π·r² = 3 · 1,0² = 3,0 cm².\n\nCortiça: V₁ = 3,0 · 5,0 = 15 cm³; m₁ = 0,20 · 15 = 3,0 g\n\nLiga metálica: V₂ = 3,0 · 0,5 = 1,5 cm³; m₂ = 8,0 · 1,5 = 12 g\n\n**m = 3,0 + 12 = 15 g**\n\n**b)** Em equilíbrio, o empuxo equilibra o peso: d(água)·V(sub)·g = m·g.\n\n1,0 · V(sub) = 15 → V(sub) = 15 cm³\n\nh(sub) = V(sub) ÷ A = 15 ÷ 3,0\n\n**h(sub) = 5,0 cm** (os 0,5 cm de metal e 4,5 cm da cortiça)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Fase sólida: de 0 °C a 40 °C o corpo absorve 400 cal.\n\nc(sólido) = Q ÷ (m·ΔT) = 400 ÷ (100 · 40)\n\n**c(sólido) = 0,10 cal/(g·°C)**\n\nFase líquida: de 40 °C a 60 °C, Q vai de 800 cal a 1 200 cal (400 cal).\n\nc(líquido) = 400 ÷ (100 · 20)\n\n**c(líquido) = 0,20 cal/(g·°C)**\n\n**b)** A fusão ocorre no patamar em que o corpo absorve calor sem variar a temperatura: **T(fusão) = 40 °C**.\n\nCalor absorvido na fusão: Q = 800 − 400 = **400 cal** (o que corresponde a um calor latente de fusão de 400 ÷ 100 = 4 cal/g).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** No adaptador, os quatro aparelhos ficam **ligados em paralelo** à tomada: os dois R(L), R(R) e R(C) em ramos lado a lado, cada um com uma ponta em cada um dos dois fios que saem da tomada de 110 V. Assim todos ficam sob 110 V e funcionam normalmente.\n\nPotência total: P = 40 + 40 + 20 + 120 = 220 W\n\ni = P ÷ U = 220 ÷ 110\n\n**i = 2,0 A**\n\n**b)** Energia consumida no mês:\n\nE = 0,220 kW · 4 h/dia · 30 dias = 26,4 kWh\n\nValor = 26,4 · 0,30\n\n**R$ 7,92**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Pela definição de razão focal:\n\nf(objetiva) = 19,0 · 102 cm = 1 938 cm\n\n**f(objetiva) ≈ 19,4 m**\n\nNum telescópio refrator ajustado para objetos muito distantes (sistema afocal), o foco imagem da objetiva coincide com o foco objeto da ocular, e o comprimento do tubo é a soma das distâncias focais: **f(ob) + f(oc) ≈ 19,2 m**, o comprimento do instrumento.\n\n**b)** O aumento angular é G = f(objetiva) ÷ f(ocular). Com os dados do enunciado, porém, f(oc) = 19,2 − 19,38 daria um valor negativo, o que não tem sentido físico: o comprimento informado é menor que a própria distância focal da objetiva. Não é possível obter um número confiável para o aumento; o que se pode afirmar é que G = 19,38 ÷ f(oc), muito grande porque a ocular tem distância focal de poucos centímetros (com f(oc) = 2 cm, por exemplo, G ≈ 970).",
+   "confianca": "baixa",
+   "pendencia": "Os dados são incoerentes: a distância focal da objetiva (19,38 m) é maior que o comprimento do telescópio (19,2 m), e a ocular não é dada; o valor do aumento pedido no item b não pôde ser determinado."
+  },
+  "0:16": {
+   "resposta": "**a)** Na situação limite, C ÷ L^(2/3) = 7:\n\n35 ÷ L^(2/3) = 7 → L^(2/3) = 5\n\nL = 5^(3/2) = 5·√5\n\nL = 5 · 2,2\n\n**L = 11 cm**\n\n**b)** Com L = 135 = 27 · 5:\n\nL^(2/3) = 27^(2/3) · 5^(2/3) = 9 · (∛5)² = 9 · 1,7² = 9 · 2,89 = 26,01\n\nC = 5,8 · 26,01\n\n**C = 150,858 cm** (≈ 151 cm)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Na população de 500: AA = 0,32 · 500 = 160, Aa = 0,46 · 500 = 230 e aa = 500 − 160 − 230 = 110. Têm o gene A os 160 + 230 = 390 indivíduos AA e Aa.\n\nAcrescentando n indivíduos aa:\n\n390 ÷ (500 + n) = 0,5 → 500 + n = 780\n\n**n = 280 indivíduos aa**\n\n**b)** Com y anos, os 110 aa morreram e restam 390 animais: 160 AA e 230 Aa. Têm um gene a os 230 heterozigotos:\n\nP = 230 ÷ 390\n\n**P = 23/39** (≈ 59%)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Sendo r a razão de S₁: a = 12 + r e b = 12 + 2r. A nova sequência é (12, 13 + r, 17 + 2r), que deve ser PG:\n\n(13 + r)² = 12 · (17 + 2r)\n\n169 + 26r + r² = 204 + 24r\n\nr² + 2r − 35 = 0 → r = 5 ou r = −7\n\nCom r = 5: (12, 18, 27), PG crescente. Com r = −7: (12, 6, 3), decrescente, descartada.\n\n**Razão da PG: q = 18 ÷ 12 = 3/2**\n\n**b)** Escrevendo S₂ = (d − r, d, d + r):\n\nsen(d − r) + sen d + sen(d + r) = 0\n\nsen d + 2·sen d·cos r = 0\n\nsen d·(1 + 2·cos r) = 0\n\nComo sen d ≠ 0 (termo do meio não nulo): cos r = −1/2. No intervalo π/2 < r < π:\n\n**r = 2π/3**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** O triângulo ERQ é uma face do tetraedro regular, logo é equilátero de lado 6 cm e está na face EFGH; o ângulo QÊR vale 60°. Como Q está na aresta EH e EH ⊥ EF, o ângulo RÊF = 90° − 60° = 30°. O arco RF tem centro E e raio ER = 6 cm (logo EF = 6 cm):\n\ncomprimento = (π/6) · 6\n\n**arco RF = π cm** (≈ 3,14 cm)\n\n**b)** Altura: P está na face ABCD, e sua projeção na face EFGH é o baricentro T do triângulo ERQ. A altura do paralelepípedo é a do tetraedro regular de aresta 6:\n\nh = 6·√6 ÷ 3 = 2√6 cm\n\nLargura EH: T está na bissetriz do ângulo QÊR, que faz 30° com EH; como T está na diagonal EG, tg 30° = EF ÷ EH:\n\nEH = 6 ÷ (√3/3) = 6√3 cm\n\nV = EF · EH · h = 6 · 6√3 · 2√6 = 72√18\n\n**V = 216√2 cm³** (≈ 305 cm³)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** A 1ª inequação equivale a (x − 1)² + y² ≥ 1: pontos sobre ou fora da circunferência de centro (1, 0) e raio 1. A 2ª é o disco de centro (1, √3/2) e raio 1/2.\n\nAs duas circunferências se cortam em y = √3/2 e x = 1/2 ou x = 3/2, ou seja, nas extremidades do diâmetro horizontal do disco menor. No esboço: desenhe a circunferência maior e o disco menor; a solução é a **região do disco menor acima desse diâmetro e fora da circunferência maior**, uma \"lua\" limitada em cima pela semicircunferência superior do disco menor e embaixo pelo arco da circunferência maior que vai de (1/2, √3/2) a (3/2, √3/2), passando por (1, 1).\n\n**b)** Área = (metade do disco menor) − (segmento circular da circunferência maior acima da corda y = √3/2).\n\nMeio disco: π·(1/2)² ÷ 2 = π/8\n\nA corda tem comprimento 1 = raio, logo subtende 60° (π/3) no centro (1, 0):\n\nsegmento = ½ · 1² · (π/3 − sen 60°) = π/6 − √3/4\n\nÁrea = π/8 − π/6 + √3/4\n\n**Área = √3/4 − π/24** (≈ 0,30 unidade de área)",
+   "confianca": "media",
+   "pendencia": "O item a pede a representação no plano cartesiano da folha de resposta; aqui o desenho é descrito em texto."
+  }
+ }
+}

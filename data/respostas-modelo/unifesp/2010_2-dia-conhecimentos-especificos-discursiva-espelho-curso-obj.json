@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2010_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O infarto do miocárdio é a **morte (necrose) de uma região do músculo cardíaco** causada pela interrupção ou redução intensa do fluxo de sangue que chega a ela pelas artérias coronárias, geralmente por obstrução.\n\nO colesterol em excesso no sangue (sobretudo o LDL) se deposita na parede interna das artérias e forma **placas de ateroma** (aterosclerose). As placas estreitam o lúmen das coronárias e favorecem a formação de coágulos (trombos), que podem obstruí-las totalmente, impedindo a irrigação do miocárdio.\n\n**b)** Sem fluxo sanguíneo, as células do miocárdio deixam de receber **O₂** (e glicose) e de eliminar o **CO₂**, que se acumula. Sem oxigênio, que é o aceptor final de elétrons da cadeia respiratória nas mitocôndrias, a respiração aeróbia é interrompida e a produção de ATP cai drasticamente. A célula passa a depender da fermentação láctica, que produz muito pouco ATP e acumula ácido lático (acidose). Sem energia, as células não mantêm a contração nem o equilíbrio iônico da membrana e morrem, e o tecido necrosado deixa de contrair.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Significa que as células-tronco adultas têm **menor capacidade de diferenciação** (menor plasticidade ou potencialidade). As células-tronco embrionárias (da massa interna do blastocisto) são pluripotentes: podem originar praticamente todos os tipos de célula do organismo. As adultas, como as da medula óssea, são multipotentes: geralmente originam apenas alguns tipos celulares, em geral os do tecido de onde vieram (por exemplo, células do sangue).\n\n**b)** Como as células são do próprio paciente (transplante **autólogo**), são geneticamente idênticas às dele e têm as mesmas proteínas de superfície (antígenos de histocompatibilidade). Assim, **não há rejeição** pelo sistema imunitário e não é preciso usar medicamentos imunossupressores. Também se elimina o risco de transmitir doenças de um doador e se evitam as questões éticas ligadas ao uso de embriões.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A tradução começa no primeiro códon de iniciação (AUG) e segue de três em três bases até um códon de parada:\n\nAA | AUG CGU UAC GAA UGG UAU GCC UAC UGA | AU\n\nAUG = Met; CGU = Arg; UAC = Tyr; GAA = Glu; UGG = Trp; UAU = Tyr; GCC = Ala; UAC = Tyr; UGA = parada.\n\nSequência: **Met – Arg – Tyr – Glu – Trp – Tyr – Ala – Tyr** (metionina, arginina, tirosina, ácido glutâmico, triptofano, tirosina, alanina, tirosina), e a tradução termina no UGA.\n\n**b)** O vírus da gripe (influenza) é um vírus de RNA que replica seu genoma **de RNA para RNA**, usando uma RNA polimerase dependente de RNA (replicase), sem passar por DNA.\n\nO HIV, causador da AIDS, é um **retrovírus**: usa a enzima **transcriptase reversa** para produzir DNA a partir do seu RNA; esse DNA é integrado ao genoma da célula hospedeira (pela integrase) e, a partir dele, são transcritas as novas cópias de RNA viral.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A Classe I são as **eudicotiledôneas** (dicotiledôneas) e a Classe II, as **monocotiledôneas**.\n\nClasse I: o **feijão** (ou a soja). O feijão é base da alimentação dos brasileiros e fonte importante de proteínas; a soja é um dos principais produtos de exportação do país (grão, farelo para ração e óleo).\n\nClasse II: o **milho** (ou a cana-de-açúcar, o arroz, o trigo). O milho é usado na alimentação humana e, sobretudo, na ração animal; a cana fornece açúcar e etanol combustível. Outros exemplos corretos também valem.\n\n**b)** As famílias são as **leguminosas** (Fabaceae, Classe I) e as **gramíneas** (Poaceae, Classe II). Exemplos usados na adubação verde e na rotação: leguminosas como **crotalária**, **mucuna**, feijão-de-porco, soja ou feijão, alternadas com gramíneas como milho, aveia ou cana.\n\nImportância: as leguminosas têm em suas raízes nódulos com **bactérias fixadoras de nitrogênio** (*Rhizobium*), que transformam o N₂ do ar em compostos nitrogenados; incorporadas ao solo ou alternadas com gramíneas (que consomem muito nitrogênio), elas o enriquecem, reduzindo o uso de adubos químicos. A rotação também interrompe o ciclo de pragas e doenças, e a cobertura vegetal protege o solo contra a erosão e aumenta sua matéria orgânica.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Sim, há erro conceitual. Numa floresta madura (comunidade clímax), como a Amazônia, a produção de O₂ pela fotossíntese é praticamente igual ao consumo de O₂ pela respiração dos próprios vegetais, dos animais e, principalmente, dos decompositores. A produtividade líquida da comunidade é próxima de zero, e o saldo de oxigênio liberado para a atmosfera é quase nulo. Além disso, a maior parte do O₂ atmosférico vem do fitoplâncton marinho (algas). A importância da Amazônia está, na verdade, no grande estoque de carbono, na biodiversidade e na regulação do clima e do ciclo da água.\n\n**b)** **Produção e consumo**: nas comunidades de início de sucessão (pioneiras), a produtividade bruta é maior que a respiração (P/R > 1), há acúmulo de biomassa e a vegetação em crescimento retira CO₂ da atmosfera (por isso o interesse dos mercados de carbono na recolonização); na comunidade clímax, P ≈ R (P/R ≈ 1), sem acúmulo líquido de biomassa.\n\n**Estrutura da comunidade**: no início, há poucas espécies, teias alimentares simples e muitos nichos vagos; no final, há grande biodiversidade, biomassa total máxima, teias complexas e maior estabilidade. (Também vale: no início predominam espécies de crescimento rápido e ciclo curto; no final, espécies de ciclo longo e ciclagem de nutrientes mais fechada.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Massa de CO em 2 L de ar exalado: 4,58 × 10⁻² mg = 4,58 × 10⁻⁵ g.\n\nVolume de CO: V = m ÷ d = 4,58 × 10⁻⁵ g ÷ 1,145 g/L = 4,0 × 10⁻⁵ L.\n\nEm 2 L de ar há 4,0 × 10⁻⁵ L de CO; em 10⁶ L de ar haveria:\nx = (4,0 × 10⁻⁵ L × 10⁶ L) ÷ 2 L = 20 L de CO.\n\nComo 1 ppm corresponde a 1 L de CO em 10⁶ L de ar, o visor indica **XX = 20 ppm**.\n\n**b)** **Amônia (NH₃)**: o nitrogênio tem três pares ligantes e um par de elétrons não ligante; a molécula é **piramidal** (trigonal). As ligações N–H são polares e, pela geometria, os vetores momento dipolar não se anulam: a molécula é **polar**.\n\n**Gás carbônico (CO₂)**: o carbono faz duas ligações duplas e não tem par isolado; a molécula é **linear** (O=C=O, ângulo de 180°). As ligações C=O são polares, mas os dois dipolos têm sentidos opostos e se anulam: a molécula é **apolar**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O experimento **II**. Nele o ácido tem a maior concentração (6 mol/L, igual à do tubo I) e o zinco está em pequenos pedaços (granulado/pó), com **maior superfície de contato** que a lâmina inteira do tubo I. Maior concentração de reagente e maior superfície de contato aumentam a frequência de colisões efetivas e, portanto, a velocidade da reação, que termina em menos tempo. O tubo III tem o metal fragmentado, mas ácido menos concentrado (4 mol/L).\n\n**b)** Reação: Zn + 2 HCl → ZnCl₂ + H₂\n\nHCl necessário para 5,0 × 10⁻³ mol de Zn: 2 × 5,0 × 10⁻³ = 1,0 × 10⁻² mol.\n\nHCl colocado no tubo III: n = 4,0 mol/L × 4,0 × 10⁻³ L = 1,6 × 10⁻² mol.\n\nExcesso: 1,6 × 10⁻² − 1,0 × 10⁻² = 6,0 × 10⁻³ mol.\n\nVolume da solução inicial que contém esse excesso: V = 6,0 × 10⁻³ mol ÷ 4,0 mol/L = 1,5 × 10⁻³ L = **1,5 mL**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Pelo gráfico, a atividade cai de 80 kBq para 20 kBq em 320 dias, isto é, é dividida por 4 = 2²: passaram-se duas meias-vidas.\n\nMeia-vida: 320 dias ÷ 2 = **160 dias**.\n\nNa emissão beta negativa, o número de massa se mantém e o número atômico aumenta uma unidade: ₂₀⁴⁵Ca → ₋₁⁰β + ₂₁⁴⁵Sc. O elemento formado é o **escândio (Sc)**.\n\n**b)** Massa molar do CaCO₃ = 40 + 12 + 3 × 16 = 100 g/mol, dos quais 40 g são de cálcio (40%).\n\nCálcio em um comprimido: 625 mg × 40/100 = 250 mg.\n\nNúmero de comprimidos para 1000 mg de cálcio: 1000 ÷ 250 = **4 comprimidos por dia**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** A razão [HCO₃⁻]/[H₂CO₃] **diminui**. O ácido lático que chega ao sangue libera íons H⁺. O aumento de [H⁺] desloca o equilíbrio H₂CO₃ ⇌ H⁺ + HCO₃⁻ para a esquerda (princípio de Le Chatelier): o bicarbonato é consumido e forma-se mais ácido carbônico. Assim, o numerador diminui e o denominador aumenta.\n\n**b)** O pH **aumenta** (alcalose respiratória). Com a hipocapnia diminui a concentração de CO₂ no sangue; o equilíbrio CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻ se desloca para a esquerda, para repor o CO₂ retirado, consumindo H⁺. Com menor [H⁺], o pH do sangue sobe.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** No oseltamivir há duas funções com o grupo carbonila (C=O): a **amida**, no grupo acetamido ligado ao anel (CH₃–CO–NH–), e o **éster**, no grupo –CO–O–CH₂CH₃ ligado ao carbono da dupla do anel (éster etílico).\n\n**b)** A reação do ácido siquímico (ácido carboxílico) com etanol é uma **esterificação**: o grupo –COOH se transforma em –COO–CH₂CH₃ e forma-se água (X + Y = éster + H₂O).\n\nO composto orgânico é o **siquimato de etila**: o mesmo anel de seis carbonos do ácido siquímico, com a dupla ligação C=C e as três hidroxilas (–OH) nas mesmas posições, mas com o carbono da dupla ligado ao grupo **–C(=O)–O–CH₂–CH₃** no lugar de –C(=O)–OH.\n\nEquação: ácido siquímico + CH₃CH₂OH → siquimato de etila + H₂O.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Para devolver o prato à posição de equilíbrio, a força magnética adicional deve equilibrar o peso da massa colocada:\n\nF = m · g = 0,010 kg × 10,0 m/s² = **0,10 N**, na direção **vertical**, com sentido **para cima**.\n\n**b)** Só o lado inferior da bobina (dentro do campo) sofre força resultante vertical; as forças nos lados verticais se anulam. Para N espiras:\n\nF = N · B · i · L\n0,10 = 10 × 2,0 × i × 0,050\n**i = 0,10 A**\n\nSentido: com B saindo do plano e força para cima no lado inferior, a regra da mão esquerda (ou F = i L × B) exige corrente da direita para a esquerda nesse lado, o que corresponde a circulação no **sentido horário**.\n\nPotência dissipada: P = R · i² = 50 × (0,10)² = **0,50 W**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Componentes da velocidade inicial: v₀ₓ = v₀y = 20,0 × √2/2 = 20,0 × 0,7 = 14 m/s.\n\nTempo de voo (subida e descida até o chão): t = 2 · v₀y ÷ g = 2 × 14 ÷ 10 = 2,8 s.\n\nAlcance: D = v₀ₓ · t = 14 × 2,8 ≈ **39,2 m** (com √2 exato, D = v₀² · sen 90° ÷ g = 400 ÷ 10 = 40 m).\n\n**b)** O artilheiro tem o mesmo tempo de voo da bola, 2,8 s, para percorrer 16,0 m:\n\nvₘ = 16,0 m ÷ 2,8 s ≈ 5,71 m/s\nvₘ ≈ 5,71 × 3,6 ≈ **20,6 km/h**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Sem atrito, a energia mecânica se conserva entre o topo (6,0 m) e a curva (2,0 m):\n\nm · g · Δh = m · v²/2 → v² = 2 × 10 × (6,0 − 2,0) = 80 m²/s².\n\nNa curva horizontal, a normal da parede vertical é a resultante centrípeta:\n\nN = m · v² ÷ R = 36 × 80 ÷ 0,80 = **3,6 × 10³ N**.\n\n**b)** Pelo teorema da energia cinética, entre a entrada na água (v = 10,9 m/s) e a parada a 1,5 m de profundidade:\n\nτ(peso) + τ(água) = 0 − m · v²/2\n36 × 10 × 1,5 − F × 1,5 = −36 × (10,9)² ÷ 2\n540 − 1,5 F = −2138,6\nF ≈ 2678,6 ÷ 1,5 ≈ **1,8 × 10³ N** (cerca de 1786 N), vertical e para cima.\n\nEssa é a força média total que a água exerce sobre a criança (inclui o empuxo).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Fase líquida (de 600 cal a 1000 cal, temperatura de 40 °C a 80 °C):\n\nQ = m · c · ΔT → 400 = 100 · c · 40 → **c = 0,10 cal/(g·°C)**.\n\nFusão (patamar a 40 °C, de 200 cal a 600 cal):\n\nQ = m · L → 400 = 100 · L → **L = 4,0 cal/g**.\n\n**b)** Calor específico do sólido (0 a 200 cal, 0 °C a 40 °C): 200 = 100 · c · 40 → c = 0,050 cal/(g·°C).\n\nCalor que a substância pode ceder até chegar a 0 °C:\nlíquido de 80 °C a 40 °C: 100 × 0,10 × 40 = 400 cal\nsolidificação: 100 × 4,0 = 400 cal\nsólido de 40 °C a 0 °C: 100 × 0,050 × 40 = 200 cal\ntotal: 1000 cal\n\nPara fundir todo o gelo seriam necessárias 50 × 80 = 4000 cal. Como só há 1000 cal, o equilíbrio fica a 0 °C, com fusão parcial:\n\nm = 1000 ÷ 80 = **12,5 g de água líquida**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** No equilíbrio, empuxo = peso:\n\nd(água) · V(sub) · g = d(gelo) · V · g → V(sub)/V = 0,920 ÷ 1,025 ≈ **0,90** (cerca de 89,8% do volume submerso).\n\nA fração **não se altera** se o cone for invertido: ela depende apenas da razão entre as densidades, e não da forma ou da posição do corpo (muda só a altura da parte submersa, não o volume).\n\n**b)** **Não.** A aceleração da gravidade aparece dos dois lados da igualdade d(água) · V(sub) · g = d(gelo) · V · g e se cancela. A pressão atmosférica atua igualmente sobre a superfície livre do líquido e sobre a parte emersa do gelo, somando-se a todas as pressões; ela não altera a diferença de pressão entre as faces do corpo, que é o que gera o empuxo (as densidades praticamente não mudam). Logo, a fração submersa continua a mesma.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** O diâmetro do semicírculo é AB = k·x₀, logo o raio é r = k·x₀/2.\n\nS = π · r² ÷ 2 = π · k² · x₀² ÷ 8\n\nO triângulo OAB é retângulo em A, com catetos OA = x₀ e AB = k·x₀:\n\nT = x₀ · k·x₀ ÷ 2 = k · x₀² ÷ 2\n\nRazão: S/T = (π k² x₀²/8) ÷ (k x₀²/2) = **π·k/4**.\n\n**b)** S = T ⇔ π·k/4 = 1 ⇔ **k = 4/π**. Como a razão não depende de x₀, esse valor vale para todo x₀ > 0.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** **Funções pares: gráficos I e III.** Ambos são simétricos em relação ao eixo y: pontos de abscissas x e −x têm a mesma ordenada, ou seja, f(−x) = f(x).\n\n**Funções ímpares: gráficos IV e V.** Ambos são simétricos em relação à origem: f(−x) = −f(x). No IV, por exemplo, f(1) = 1 e f(−1) = −1; o V é uma reta pela origem, y = −(tg θ)·x.\n\nO **gráfico II** não é par nem ímpar: tem raízes −1, 0, 2 e 3, que não são simétricas (f(2) = 0, mas f(−2) ≠ 0), e não há simetria em relação ao eixo y nem à origem.\n\n**b)** Exemplo de função par: **f(x) = x²**. Gráfico: parábola com vértice na origem, concavidade para cima, simétrica em relação ao eixo y (passa por (−1, 1), (0, 0) e (1, 1)).\n\nExemplo de função ímpar: **g(x) = x³** (ou g(x) = x). Gráfico: curva crescente que passa pela origem, simétrica em relação a ela (passa por (−1, −1), (0, 0) e (1, 1)).\n\nOutros exemplos corretos também valem (cos x é par, sen x é ímpar).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Pela figura, q₁ tem concavidade para cima e raízes −1 e 3; q₂ tem concavidade para baixo e raízes 1 e 4:\n\nq₁(x) = a(x + 1)(x − 3), a > 0\nq₂(x) = −b(x − 1)(x − 4), b > 0\n\nq(x) = q₁(x) · q₂(x) = −ab (x + 1)(x − 1)(x − 3)(x − 4)\n\nÉ um polinômio de grau 4 com coeficiente dominante negativo e raízes −1, 1, 3 e 4. Sinais: negativo para x < −1, positivo entre −1 e 1, negativo entre 1 e 3, positivo entre 3 e 4 e negativo para x > 4. Corta o eixo y em q(0) = q₁(0)·q₂(0) = 12ab > 0 (produto de dois valores negativos).\n\nEsboço: a curva vem de −∞ pela esquerda, sobe e corta o eixo x em −1, passa acima do eixo (cortando o eixo y em ponto positivo), desce e corta em 1, fica abaixo do eixo até 3, sobe formando uma pequena “corcova” acima do eixo entre 3 e 4 e desce para −∞ após 4 (forma de “M”).\n\n**b)** h(x) = x·q(x) = −ab · x(x + 1)(x − 1)(x − 3)(x − 4). Como x = −1 é raiz de h, a divisão por k(x) = x + 1 é exata (resto zero) e o quociente é:\n\nQ(x) = −ab · x(x − 1)(x − 3)(x − 4) = −ab (x⁴ − 8x³ + 19x² − 12x).\n\nRaízes do quociente: **0, 1, 3 e 4**. (As raízes de h são −1, 0, 1, 3 e 4.)",
+   "confianca": "media",
+   "pendencia": "A figura não dá a escala vertical: a resposta usa constantes a e b positivas quaisquer, por isso o esboço é qualitativo."
+  },
+  "0:19": {
+   "resposta": "Considerando que os relógios funcionam de forma independente:\n\n**a)** P(os dois despertarem) = 0,80 × 0,70 = **0,56 = 56%**.\n\n**b)** P(o primeiro falhar) = 0,20; P(o segundo falhar) = 0,30.\n\nP(nenhum despertar) = 0,20 × 0,30 = **0,06 = 6%**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** O objeto O₁ se move paralelamente às laterais. A componente da velocidade de O₂ nessa direção é v₂ · sen x; como os choques com as laterais são elásticos, só a componente horizontal inverte de sentido e a componente paralela às laterais se mantém.\n\n**f(x) = v₂ · sen x**, com x ∈ (0, π/2).\n\nGráfico: arco de senoide crescente, multiplicado por v₂, que parte (sem incluir) do ponto (0, 0) e chega (sem incluir) ao ponto (π/2, v₂), com concavidade para baixo; extremos em bolinhas abertas.\n\n**b)** Os dois partem da base no mesmo instante. Num instante t, O₁ está à altura v₁·t e O₂ à altura v₂ · sen x · t. Eles só podem se chocar quando O₂ passar pela vertical de O₁ estando à mesma altura, o que só acontece se as alturas forem iguais, ou seja, se v₂ · sen x = v₁ (aí estão sempre lado a lado e o encontro é inevitável).\n\n20 · sen x = 10 → sen x = 1/2 → x = π/6.\n\nPortanto, eles nunca se chocam para **todo x ∈ (0, π/2) com x ≠ π/6**, isto é, x ∈ (0, π/6) ∪ (π/6, π/2).",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2024_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** A etapa ocorre na **mitocôndria**, mais precisamente na membrana interna mitocondrial (cristas), onde ficam os complexos da cadeia respiratória e a ATP sintase.\n\nA molécula X é o **ATP** (trifosfato de adenosina), produzido pelo complexo proteico ATP sintase a partir de ADP e fosfato inorgânico (Pᵢ), usando o fluxo de H⁺ que retorna à matriz.\n\n**b)** Essa etapa é a **cadeia respiratória** (cadeia transportadora de elétrons), associada à fosforilação oxidativa, última etapa da respiração celular aeróbica.\n\nO O₂ é o **aceptor final de elétrons**: recebe os elétrons que percorreram a cadeia (vindos do NADH e do FADH₂) e se combina com H⁺, formando água. Sem O₂, a cadeia para, o gradiente de H⁺ não se mantém e a produção de ATP cai.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A migração de células cancerosas para outras regiões do corpo é chamada **metástase**.\n\nAs células adultas do xilema (vasos e traqueídes) são **células mortas**: na maturidade perdem o núcleo e o citoplasma, restando apenas as paredes reforçadas com lignina. Sem material genético e sem capacidade de divisão, não podem sofrer a proliferação descontrolada que caracteriza o câncer.\n\n**b)** Os pontos de checagem verificam, em cada fase do ciclo, se o DNA está íntegro e corretamente duplicado e se os cromossomos estão bem distribuídos. Ao detectar erros, interrompem o ciclo até que o dano seja reparado ou encaminham a célula à morte, **impedindo que células com mutações se dividam** e transmitam os defeitos às células-filhas.\n\nA **apoptose** (morte celular programada) elimina de forma controlada células danificadas, com mutações irreparáveis ou com divisão anormal, **impedindo que elas se multipliquem** e formem um tumor.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A interação é o **mutualismo** (relação harmônica em que as duas espécies se beneficiam; alguns autores tratam a parte da microbiota que não traz benefício recíproco como comensalismo).\n\nBenefício nutricional: a microbiota **produz vitaminas**, como a vitamina K e vitaminas do complexo B (B12, por exemplo), absorvidas pelo intestino. Outra resposta válida: fermenta fibras que não digerimos, liberando ácidos graxos de cadeia curta aproveitados pelo organismo.\n\n**b)** O cortisol é produzido pelo **córtex das glândulas suprarrenais** (adrenais).\n\nEm situação de estresse, o cortisol eleva a glicemia principalmente ao **estimular a gliconeogênese** no fígado, a produção de glicose a partir de compostos não glicídicos (aminoácidos vindos da degradação de proteínas musculares e glicerol vindo dos lipídios). Ele também reduz a captação e o uso de glicose por vários tecidos, mantendo-a no sangue para o cérebro.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** A estrutura é a **placenta**, formada por anexos embrionários (córion e alantoide) e pelo endométrio materno; nela ocorrem as trocas entre o sangue fetal e o materno.\n\nDa circulação fetal para a materna difunde-se o **gás carbônico (CO₂)** produzido pela respiração celular do embrião (o O₂ faz o caminho inverso).\n\n**b)** Na asa do morcego há **ossos** do membro anterior de vertebrado (úmero, rádio e falanges muito alongadas) sustentando uma membrana de pele, o patágio. A asa do inseto não tem ossos: é uma expansão do exoesqueleto de quitina. As duas asas têm a mesma função (voo), mas origem embrionária e estrutura diferentes, o que caracteriza a analogia.\n\nRaposa e morcego são mamíferos e descendem de um ancestral comum. O focinho dos dois é formado pelos mesmos ossos do crânio, com a mesma origem embrionária; a semelhança decorre do parentesco evolutivo, e não apenas da função, o que é a definição de estrutura homóloga.",
+   "confianca": "media",
+   "pendencia": "O item b admite outra estrutura válida: o patágio (membrana de pele) também mostra que a asa do morcego tem origem diferente da do inseto."
+  },
+  "0:5": {
+   "resposta": "Pelo esquema, o **alelo a** produz a enzima 1 (amarelo → vermelho); o alelo dominante A não a produz. O **alelo B** produz a enzima 2 (vermelho → preto).\n\n**a)** A planta aaBb produz **2 tipos de gametas**: aB e ab.\n\nCom aa, há enzima 1 e o pigmento amarelo vira vermelho; com B, há enzima 2 e o vermelho vira preto. Os frutos são **pretos**.\n\n**b)** Ocorre **epistasia dominante**: o alelo dominante A (A_) impede a formação da enzima 1 e mantém o fruto amarelo, mascarando o efeito do gene B (proporção 12 amarelos : 3 pretos : 1 vermelho).\n\nNo cruzamento AaBb × AaBb, frutos amarelos são todos os A_ (qualquer genótipo para B): P(A_) = 3/4.\n\n2 400 · 3/4 = **1 800 sementes**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O processo é a **eutrofização**. O excesso de nitrogênio (e fósforo) dos adubos favorece a proliferação de algas, que formam uma camada sobre a superfície da água. Essa camada impede a passagem da luz, e os seres fotossintetizantes submersos deixam de fazer fotossíntese e morrem. A decomposição dessa matéria orgânica por bactérias aeróbias consome ainda o oxigênio dissolvido, agravando a mortandade.\n\n**b)** Fórmula estrutural: N≡N (ligação tripla entre os dois átomos de nitrogênio).\n\nNa reação N₂ + 3 H₂ → 2 NH₃, o nitrogênio passa de Nox **0** no N₂ para Nox **−3** na NH₃: variação de 3 unidades (o nitrogênio sofre redução).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Fórmula: SrCl₂·6H₂O. Pertence à função **sal** (sal hidratado), pois é formado por cátion diferente de H⁺ (Sr²⁺) e ânion diferente de OH⁻ (Cl⁻), podendo ser obtido pela neutralização entre Sr(OH)₂ e HCl.\n\n**b)** Sr (Z = 38): K = 2, L = 8, M = 18, N = 8, O = 2. O íon Sr²⁺ perde os 2 elétrons da camada O: **K = 2, L = 8, M = 18, N = 8**.\n\nNo modelo de Rutherford-Bohr, os elétrons ocupam níveis de energia definidos (quantizados). Ao aquecer o composto, elétrons absorvem energia e saltam para níveis mais externos (estado excitado). Ao retornarem aos níveis de origem, liberam a diferença de energia na forma de luz; como essa diferença é característica do estrôncio, a radiação emitida tem frequência correspondente ao vermelho.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** 80 mg/mL = 8 000 mg/100 mL = 8 g/100 mL, ou seja, **8% (m/v)**.\n\nÉ preciso agitar porque o leite de magnésia é uma suspensão: o Mg(OH)₂, pouco solúvel, sedimenta com o tempo. Agitando, o sólido se distribui uniformemente e cada dose contém a quantidade correta do princípio ativo.\n\n**b)** Massa em 10 mL: 10 · 80 mg = 800 mg = 0,8 g.\n\nM(Mg(OH)₂) = 24 + 2 · (16 + 1) = 58 g/mol\n\nn = 0,8 ÷ 58 ≈ **1,4 × 10⁻² mol** de Mg(OH)₂\n\nNeutralização: Mg(OH)₂ + 2 HCl → MgCl₂ + 2 H₂O, proporção 1 : 2.\n\nn(HCl) = 2 · 1,38 × 10⁻² ≈ **2,8 × 10⁻² mol** de HCl.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Kc = [SO₃] ÷ ([SO₂] · [O₂]^½)\n\nObtenção do ácido sulfúrico: SO₃(g) + H₂O(l) → H₂SO₄(aq)\n\n**b)** O gráfico mostra que a conversão de SO₂ em SO₃ diminui quando a temperatura aumenta. Pelo princípio de Le Châtelier, o aumento de temperatura favorece o sentido endotérmico; como ele desloca o equilíbrio para os reagentes, o sentido inverso é endotérmico e a reação direta é **exotérmica**.\n\nO aumento da pressão desloca o equilíbrio para o lado de menor quantidade de mols de gás: 1 + ½ = 1,5 mol nos reagentes contra 1 mol no produto. O equilíbrio se desloca para a formação de SO₃, e o **rendimento de SO₃ aumenta**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Ambos têm fórmula molecular **C₄H₄O₄**. A isomeria é **geométrica (cis-trans)**: a dupla ligação C=C impede a rotação, e cada carbono da dupla tem ligantes diferentes (H e COOH). No ácido maleico os grupos COOH estão do mesmo lado (cis); no fumárico, em lados opostos (trans).\n\n**b)** Ácido fumárico → ácido málico, por adição de água à dupla ligação (hidratação):\n\nC₄H₄O₄ + H₂O → C₄H₆O₅\n\nÁcido maleico → anidrido maleico, por desidratação intramolecular entre os dois grupos carboxila (possível porque estão do mesmo lado):\n\nC₄H₄O₄ → C₄H₂O₃ + H₂O",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Aceleração escalar média:\n\na = Δv ÷ Δt = (5 − 1) ÷ 4 = **1 m/s²**\n\nPelo teorema da energia cinética, o trabalho da resultante é a variação da energia cinética:\n\nτ = m·v_B²/2 − m·v_A²/2 = 300 · (25 − 1) ÷ 2 = **3 600 J**\n\n**b)** Sem atrito, só o peso realiza trabalho (a normal é perpendicular ao movimento). Logo τ = m·g·h:\n\n3 600 = 300 · 10 · h → h = 1,2 m (desnível entre A e B)\n\nNo triângulo formado pela reta AB: sen θ = h ÷ AB\n\nAB = 1,2 ÷ 0,12 = **10 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Atuam no mergulhador o **peso** (vertical, para baixo) e o **empuxo** (vertical, para cima), de mesma intensidade, desenhados a partir do mergulhador com setas de mesmo tamanho. Como ele está em repouso e não toca o fundo, a resultante é nula:\n\nE = P = m·g = 90 · 10 = **900 N**\n\n**b)** Pressão a 30 m: p₁ = p_atm + d·g·h = 10⁵ + 10³ · 10 · 30 = 4 × 10⁵ N/m²\n\nNa superfície: p₂ = 10⁵ N/m²\n\nTemperaturas: T₁ = 7 + 273 = 280 K; T₂ = 27 + 273 = 300 K\n\nLei geral dos gases: p₁·V₁/T₁ = p₂·V₂/T₂\n\n4 × 10⁵ · 14 ÷ 280 = 10⁵ · V₂ ÷ 300\n\nV₂ = 4 · 14 · 300 ÷ 280 = **60 cm³**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Equação de Gauss com f = 30 cm e p = 20 cm:\n\n1/f = 1/p + 1/p' → 1/p' = 1/30 − 1/20 = −1/60\n\np' = −60 cm: a imagem é virtual e fica **a 60 cm do espelho** (atrás dele).\n\nAumento: A = −p'/p = 60 ÷ 20 = 3. A imagem é **3 vezes maior** que a face (e direita).\n\n**b)** Com p = 50 cm:\n\n1/p' = 1/30 − 1/50 = 2/150 → p' = 75 cm\n\nA imagem é real, à frente do espelho, a 75 cm dele. Como a criança está a 50 cm, a distância entre a criança e a imagem é 75 − 50 = **25 cm**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** A 20 °C: v = 330 + 0,6 · 20 = 342 m/s\n\nf = v ÷ λ = 342 ÷ 0,57 = **600 Hz**\n\n**b)** Na figura há um nó na extremidade fechada e um ventre na aberta, com três fusos completos e mais meio fuso: o comprimento do tubo corresponde a 3·(λ/2) + λ/4 = 7λ/4.\n\n7λ/4 = 0,70 → λ = 0,40 m\n\nv = λ·f = 0,40 · 945 = 378 m/s\n\n378 = 330 + 0,6·θ → θ = 48 ÷ 0,6 = **80 °C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** No gerador ideal, a potência total é P = ε·i:\n\n48 = 48 · i → **i = 1 A**\n\nEnergia em 1 min (60 s): E = P·Δt = 48 · 60 = **2 880 J**\n\n**b)** Em paralelo, os dois resistores estão sob a mesma tensão (48 V), então a corrente é inversamente proporcional à resistência:\n\ni₂/i₁ = R₁/R₂ = **3**\n\nNo circuito 1 (série): R_eq = ε ÷ i = 48 ÷ 1 = 48 Ω\n\nR₁ + R₂ = 48 → 3R₂ + R₂ = 48 → **R₂ = 12 Ω** e **R₁ = 36 Ω**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** No histograma, a área de cada barra é proporcional à frequência. Área total: 3 + 9 + 7 + 4 = 23 cm², que corresponde a 253 alunos, ou seja, 1 cm² = 11 alunos.\n\nNota ≤ 7 (barra de 6 a 7): 3 ÷ 23 ≈ **13%** (33 alunos).\n\nNota > 8 (barras de 8 a 9 e de 9 a 10): (7 + 4) · 11 = **121 alunos**.\n\n**b)** Frequências: 33, 99, 77 e 44 alunos, com pontos médios 6,5; 7,5; 8,5 e 9,5.\n\nM = (6,5·33 + 7,5·99 + 8,5·77 + 9,5·44) ÷ 253 = 2 029,5 ÷ 253 ≈ **8,02**\n\nMediana: metade da área é 11,5 cm². A primeira barra tem 3 cm²; faltam 8,5 cm² dentro da barra de 7 a 8 (9 cm², largura 1):\n\nMe = 7 + 8,5/9 ≈ **7,94**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** De P a Q é preciso andar 2 quarteirões para a direita (D) e 3 para cima (C), em qualquer ordem.\n\nRegra I: permutações de DDCCC = 5! ÷ (2!·3!) = **10 caminhos**.\n\nRegra II: excluem-se os caminhos com três quarteirões seguidos na mesma rua, o que só pode ocorrer com CCC juntos. Tratando CCC como um bloco, ordenam-se bloco, D e D: 3!/2! = 3 caminhos. Logo, 10 − 3 = **7 caminhos**.\n\n**b)** Agora são 4 movimentos D e 5 movimentos C. Os 4 D criam 5 espaços (antes, entre e depois deles) onde se distribuem os 5 C. Ter uma sequência de exatamente 4 C, sem chegar a 5, significa colocar 4 C em um espaço e o C restante em outro espaço:\n\n5 escolhas para o bloco de 4 · 4 escolhas para o C isolado = **20 caminhos**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** 44 385 000 ÷ 41 250 000 = 1,076\n\nCrescimento de **7,6%**.\n\n**b)** Sendo i a taxa anual, em 12 anos (2010 a 2022): (1 + i)¹² = 1,076 → 1 + i = ¹²√1,076.\n\nPelo gráfico de y = 10·¹²√x, para x = 1,076 tem-se y = 10,06. Então:\n\n10·¹²√1,076 = 10,06 → ¹²√1,076 = 1,006\n\n1 + i = 1,006 → i = 0,006 = **0,6% ao ano**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** No hexágono regular, a distância do centro a cada vértice é igual ao lado. Os vértices dos hexágonos estão sobre as retas r, s e t, e de um hexágono ao seguinte essa distância aumenta 1,5 cm. Os lados formam uma progressão aritmética de primeiro termo 1 e razão 1,5:\n\nL_n = 1 + (n − 1) · 1,5 → **L_n = (3n − 1)/2**\n\nL₂₀ = (60 − 1)/2 = **29,5 cm**\n\n**b)** O raio do círculo circunscrito ao n-ésimo hexágono é L_n. A região amarela é a área do círculo menos a do hexágono:\n\nA_n = π·L_n² − (3√3/2)·L_n² = L_n²·(π − 3√3/2)\n\n**A_n = (3n − 1)²·(2π − 3√3)/8** cm²",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** C é o centro da Terra e D está no limite da troposfera, então CD = 6 384 + 16 = 6 400 km = **6,4 × 10⁶ m**.\n\nA reta BA é vertical (radial) e a horizontal em B é perpendicular a ela. O raio de luz BD faz 30° com a horizontal, logo:\n\nAB̂D = 90° − 30° = **60°**\n\nCB̂D = 180° − 60° = **120°** (C, B e A estão alinhados)\n\n**b)** No triângulo CBD: CB = 6 384, BD = d, CD = 6 400 e CB̂D = 120°. Lei dos cossenos:\n\n6 400² = 6 384² + d² − 2 · 6 384 · d · cos 120°\n\n6 400² = 6 384² + d² + 6 384·d\n\n**d² + 6 384·d − 204 544 = 0**\n\n(a raiz positiva é d ≈ 31,9 km)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

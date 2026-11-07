@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2017_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** No nível trófico ocupado por ***Pisaster ochraceus***, o predador do topo da teia. A energia flui em um só sentido, dos produtores aos consumidores, e em cada nível parte dela é gasta na respiração, dissipada como calor ou perdida em fezes e restos não consumidos. Assim, a energia química disponível diminui a cada transferência e é menor no último nível, o da estrela-do-mar (que, ao comer *Thais*, atua até como consumidor terciário).\n\n**b)** *Pisaster* é um predador-chave: ao se alimentar sobretudo de *Mytilus californianus*, o competidor dominante, ele mantém a população do mexilhão sob controle e libera espaço no costão para as outras espécies. Sem o predador, os mexilhões se multiplicaram, ocuparam o substrato e excluíram por competição as demais espécies, cujo número caiu de cerca de 17 para 1 ou 2.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** Os estômatos ficam na **epiderme** das folhas (principalmente na face inferior). Fatores abióticos que interferem em sua abertura: luz, disponibilidade de água no solo, concentração de CO₂ e temperatura (basta citar um).\n\n**b)** O ABA provoca a **saída de íons K⁺** das células-guarda, cuja concentração interna **diminui**. Com isso a concentração de solutos cai, a água sai das células por osmose e o **volume de água diminui**: as células-guarda ficam flácidas e o ostíolo se fecha, dificultando a entrada dos patógenos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Funciona como um sistema de defesa (imunidade) da bactéria: o RNA-guia reconhece uma sequência do DNA do vírus invasor e a Cas9 corta esse DNA, que fica inativado e não consegue se replicar nem comandar a produção de novos vírus.\n\nPara a sequência CCCTATAGGG no DNA viral, o RNA-guia complementar será **GGGAUAUCCC** (no RNA, a uracila pareia com a adenina).\n\n**b)** O reparo do corte pode inserir, retirar ou trocar nucleotídeos. Isso altera os códons do gene (ou desloca a leitura de todos os códons seguintes), de modo que o RNA mensageiro passa a codificar outra sequência de aminoácidos ou um códon de parada precoce. A proteína resultante fica alterada, incompleta ou não é produzida, e o gene perde sua função.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Na corrida, a atividade muscular intensa aumenta a respiração celular; parte da energia liberada na oxidação dos nutrientes não é aproveitada no trabalho muscular e é dissipada como **calor**, o que eleva a temperatura do corpo.\n\nO gráfico mostra que, quanto maior a temperatura, menor a saturação da hemoglobina para a mesma PO₂ (a curva se desloca para a direita): a afinidade da hemoglobina pelo O₂ diminui. Assim, nos músculos ela **libera mais O₂**, aumentando a oferta para os tecidos.\n\n**b)** O CO₂ produzido na respiração dos músculos entra nas hemácias e, pela ação da anidrase carbônica, reage com a água: CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻. Os íons H⁺ reduzem o pH. O sangue não se acidifica porque há **sistemas-tampão** (principalmente bicarbonato/ácido carbônico, além da própria hemoglobina, que se liga a H⁺, e das proteínas plasmáticas) e porque o aumento da ventilação pulmonar elimina o excesso de CO₂ (com participação dos rins a longo prazo).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Os gametas recombinantes surgem do crossing-over entre os dois locos: **Ab** e **aB**. (Os parentais são AB e ab.)\n\n**b)** A distância de 15 UR corresponde a **15%** de gametas recombinantes (7,5% Ab e 7,5% aB).\n\nNo cruzamento com aabb, a planta duplo-recessiva só fornece gametas ab. Frutos vermelhos e flores brancas (A_bb) vêm do gameta Ab:\n\n7,5% de 1 000 = **75 sementes**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** O processo é a **destilação fracionada**, baseada na diferença de **temperatura de ebulição** dos componentes: as frações mais voláteis (moléculas menores) sobem mais na torre antes de condensar.\n\n**b)** Quanto menor a cadeia carbônica, menor a temperatura de ebulição e mais alto na torre a fração é retirada:\n\n1 – gás liquefeito de petróleo (C₃ a C₄)\n\n2 – gasolina (C₅ a C₁₂)\n\n3 – querosene (C₁₂ a C₁₆)\n\n4 – óleo diesel (C₁₂ a C₂₀)\n\n5 – óleo combustível (> C₂₀)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Com o etanol (R = CH₃–CH₂–), forma-se o cloroetano:\n\nH₃C–CH₂–Cl\n\n**b)** Fósforo (Z = 15): K = 2, L = 8, M = 5\n\nCloro (Z = 17): K = 2, L = 8, M = 7",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O cloro passa de **0** (Cl₂) para **−1** (no AlCl₃): sofre redução. O alumínio passa de **0** (Al metálico) para **+3**: sofre oxidação. O agente redutor é o **alumínio**, pois é a espécie que se oxida, cedendo elétrons ao cloro.\n\n**b)** 2 Al(s) + 3 Cl₂(g) → 2 AlCl₃(s)\n\nMassas molares: Al = 27 g/mol; AlCl₃ = 27 + 3·35,5 = 133,5 g/mol\n\nn(Al) = 540 ÷ 27 = 20 mol → pela proporção 2 : 2, forma 20 mol de AlCl₃\n\nm = 20 · 133,5 = **2 670 g** de AlCl₃",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** 2% (m/V) significa 2 g de ácido em 100 mL de solução:\n\nC = 2 g ÷ 0,1 L = **20 g/L**\n\nMassa molar do H₂C₂O₄ = 2·1 + 2·12 + 4·16 = 90 g/mol\n\nC = 20 ÷ 90 ≈ **0,22 mol/L**\n\n**b)** Ka = [C₂O₄²⁻]·[H⁺]² ÷ [H₂C₂O₄]\n\nSomando as duas etapas obtém-se o equilíbrio global, logo a constante global é o produto das constantes:\n\nKa = Ka₁ · Ka₂ = 5,9 × 10⁻² · 6,4 × 10⁻² ≈ **3,8 × 10⁻³**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Fórmula molecular: **C₂HBrClF₃**\n\nMassa de flúor por mol: 3 · 19 = 57 g\n\n%F = 57 ÷ 200 · 100 ≈ **28,5%** (com a massa molar exata, 197,4 g/mol, o resultado é cerca de 28,9%)\n\n**b)** **Não apresenta isomeria geométrica**: ela exige dupla ligação entre carbonos (ou anel) com ligantes diferentes em cada carbono, e o halotano só tem ligações simples, que permitem rotação livre.\n\n**Apresenta isomeria óptica**: o carbono ligado a H, Br, Cl e ao grupo CF₃ tem quatro ligantes diferentes (carbono quiral, assimétrico), e a molécula existe em duas formas enantioméricas (dextrogira e levogira).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Tempo para 12 voltas a 4 Hz: t = 12 ÷ 4 = 3 s\n\nd = v·t = 2 · 3 = **6 m**\n\n**b)** A extremidade da pá tem, em relação ao avião, velocidade tangencial num plano perpendicular ao movimento do avião:\n\nv_t = 2πRf = 2 · 3 · 1 · 4 = 24 m/s\n\nEm relação ao solo, soma-se a velocidade do avião (2 m/s), perpendicular a v_t:\n\nv = √(24² + 2²) = √580 = 2√145 ≈ **24,1 m/s**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O sistema projétil + saco + carrinho é isolado na horizontal; a quantidade de movimento se conserva (m = 0,02 kg; velocidades do gráfico: 500 m/s antes e 80 m/s depois):\n\n0,02 · 500 = 0,02 · 80 + 100 · v\n\n10 = 1,6 + 100v → v = **0,084 m/s**\n\n**b)** Pelo teorema da energia cinética, o trabalho da resultante é a variação da energia cinética do projétil:\n\nτ = m·(v² − v₀²)/2 = 0,02 · (80² − 500²)/2 = 0,01 · (6 400 − 250 000)\n\nτ = **−2 436 J** (trabalho resistente)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Do diagrama: A (2 × 10⁻³ m³; 2 × 10⁵ N/m²) e B (6 × 10⁻³ m³; 5 × 10⁵ N/m²).\n\n**a)** Pela equação geral dos gases (massa constante): p·V/T é constante.\n\nT_B/T_A = (p_B·V_B)/(p_A·V_A) = (5 · 6)/(2 · 2) = **7,5**\n\n**b)** A variação de energia interna é a mesma nos dois processos (mesmos estados inicial e final), logo Q₁ − Q₂ = τ₁ − τ₂ (trabalhos = áreas sob as curvas).\n\nτ₁ (ACDEB): A→C e D→E são isocóricas (τ = 0); C→D: (3 + 4)/2 · 10⁵ · 2 × 10⁻³ = 700 J; E→B: 5 × 10⁵ · 2 × 10⁻³ = 1 000 J → τ₁ = 1 700 J\n\nτ₂ (AFB): A→F: 2 × 10⁵ · 4 × 10⁻³ = 800 J; F→B isocórica → τ₂ = 800 J\n\nQ₁ − Q₂ = 1 700 − 800 = **900 J**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** v = c ÷ n = 3 × 10⁸ ÷ 1,6 = **1,875 × 10⁸ m/s**\n\n**b)** Em A, ângulo de incidência de 53° com a normal (que passa pelo centro):\n\n1,0 · sen 53° = 1,6 · sen r → sen r = 0,8 ÷ 1,6 = 0,5 → r = 30°\n\nO desvio na entrada é 53° − 30° = 23°. Como o triângulo formado por A, B e o centro é isósceles (dois raios), o raio chega a B também a 30° da normal e sai a 53°, com novo desvio de 23° no mesmo sentido.\n\nα = 23° + 23° = **46°**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Com a chave em A, os dois resistores R ligados ficam em paralelo: R_eq = R/2. Com a chave em B, só um resistor: R_eq = R. Sob a mesma tensão, P = U²/R_eq:\n\nP_A/P_B = (U² ÷ R/2) ÷ (U² ÷ R) = **2**\n\n**b)** Energia para aquecer 4 L (4 kg) de 20 °C a 80 °C:\n\nQ = m·c·Δθ = 4 · 4 × 10³ · 60 = 9,6 × 10⁵ J\n\nEm 10 min = 600 s: P_A = 9,6 × 10⁵ ÷ 600 = 1 600 W\n\nP_A = U² ÷ (R/2) → 1 600 = 2 · 120² ÷ R → R = 28 800 ÷ 1 600 = **18 Ω**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Gasto por hora: 8 km/h · 72 kg = 576 calorias por hora.\n\n25 min = 25/60 h → gasto diário = 576 · 25/60 = **240 calorias** (na unidade da fórmula; na prática, quilocalorias)\n\n**b)** Consumo de O₂ na corrida: 3,5 · v mL por kg por minuto. Em uma hora (60 min), para massa m:\n\nc = 3,5 · v · m · 60 = 210 · m · v mL = 0,21 · m · v litros\n\nc ÷ (m·v) = **0,21** (L de O₂ por kg, por km/h, em uma hora de corrida)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A distância entre r₁ e r₂ é o lado do quadrado, 2. No triângulo retângulo formado por TU, sua projeção vertical (2) e a reta r₁: sen α = 2/TU.\n\n**a)** α = 45°: TU = 2 ÷ sen 45° = 2 ÷ (√2/2) = **2√2**\n\nα = 90°: TU é perpendicular às retas, logo TU = **2**\n\n**b)** **y = 2/sen α**\n\nQuando T = P, U = R (diagonal do quadrado) e α = 45°; quando T = Q, U = S e α = 135°. Domínio: **45° ≤ α ≤ 135°** (π/4 ≤ α ≤ 3π/4).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Escolha de 2 temas entre 10: C(10, 2) = 45 possibilidades. Sofia estudou 2 temas e não estudou 8.\n\nP(A) = acertar as duas = C(2, 2)/45 = **1/45**\n\nP(AR) = acertar só uma = (2 · 8)/45 = **16/45**\n\nP(R) = errar as duas = C(8, 2)/45 = **28/45**\n\n**b)** Na avaliação 2, há C(10, 3) = 120 possibilidades. Como ela só estudou 2 temas, não acerta as três; só é aprovada (com ressalvas) se as duas que estudou estiverem entre as três:\n\nP(aprovação) = C(2, 2) · C(8, 1)/120 = 8/120 = 1/15 = 3/45\n\nNa avaliação 1: P(aprovação) = P(A) + P(AR) = 1/45 + 16/45 = 17/45\n\nComo 17/45 > 3/45, a chance é maior na **avaliação 1**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Com eixos ao longo das arestas e a aresta como unidade, os pontos podem ser localizados pela contagem de cubos na figura. A partir de A, desce-se 3 unidades, avança-se 2 para a direita e 1 para a frente até B; de C até D são 7 unidades para a direita, 5 para baixo e 4 para a frente.\n\n**a)** AB² = (2a)² + (3a)² + a² = 14a² → AB = a√14\n\na√14 = 2√7 → a = 2√7/√14 = √2 cm\n\nV = 24 · a³ = 24 · (√2)³ = 24 · 2√2 = **48√2 cm³**\n\n**b)** CD² = (7a)² + (5a)² + (4a)² = 90a² → CD = 3a√10\n\nCom a = 2 cm: CD = **6√10 cm** (≈ 19 cm)",
+   "confianca": "media",
+   "pendencia": "As distâncias dependem da contagem de cubos em uma figura em perspectiva; confira na figura os deslocamentos de A até B (2, 3 e 1 arestas) e de C até D (7, 5 e 4 arestas)."
+  },
+  "0:20": {
+   "resposta": "**a)** 100 · 2^(x/3) = 1 677 721 600 = 100 · 256³\n\n2^(x/3) = 256³ = (2⁸)³ = 2²⁴ → x/3 = 24 → x = **72 horas**\n\n**b)** Da 45ª para a 48ª hora:\n\ny(48) − y(45) = 100 · 2¹⁶ − 100 · 2¹⁵ = 100 · 2¹⁵ · (2 − 1) = 100 · 2¹⁵\n\nLogo **k = 15**.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

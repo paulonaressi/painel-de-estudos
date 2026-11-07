@@ -1,0 +1,132 @@
+{
+ "indice": "data/questoes/unifesp/2005_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** Não. Protistas, animais e vegetais são **eucariontes**. Neles, a cadeia respiratória fica nas **cristas das mitocôndrias** (membrana interna), e o DNA fica, em sua maior parte, dentro do **núcleo**, separado do citoplasma pela carioteca (há também DNA em mitocôndrias e cloroplastos). As bactérias são procariontes: não têm núcleo organizado nem mitocôndrias, e por isso essas funções ficam na membrana plasmática e no citoplasma.\n\n**b)** É **mais simples**. A bactéria se reproduz de forma assexuada, por divisão binária: cada célula origina cópias geneticamente idênticas, e qualquer colônia já é um clone. Nos animais, que se reproduzem sexuadamente, é preciso transferir o núcleo de uma célula somática para um óvulo anucleado, fazer o embrião se desenvolver e implantá-lo numa mãe de aluguel, um processo trabalhoso e com baixa taxa de sucesso.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** O suor serve para a **regulação da temperatura do corpo** (termorregulação). Ao evaporar na pele, a água do suor absorve calor do corpo, que se resfria.\n\n**b)** A floresta amazônica tem **umidade do ar muito alta**, enquanto o ar da caatinga é seco. No ar úmido, quase saturado de vapor, o suor evapora com dificuldade: o calor não é retirado do corpo, a sensação de calor aumenta, o organismo produz ainda mais suor e ele se acumula na pele. No ar seco da caatinga, o suor evapora rapidamente, resfria a pele e quase não é percebido.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Devem ser mantidas as medidas **I** (lavar bem frutas e verduras) e **IV** (ferver e filtrar a água). A ascaridíase se adquire pela ingestão de ovos do verme presentes em alimentos ou água contaminados com fezes. A medida II é ineficaz, pois a lombriga não penetra pela pele. A medida III está errada, pois o *Ascaris* não tem hospedeiro intermediário: o porco não participa do ciclo.\n\n**b)** A medida **II** (andar sempre calçado). No amarelão (ancilostomose), as larvas do verme vivem no solo contaminado por fezes e penetram ativamente pela pele, principalmente dos pés descalços. O calçado impede essa penetração.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** No tubo **A**. Ele está mais perto da lâmpada (20 cm), recebe mais luz e a planta faz mais fotossíntese, consumindo mais CO₂ do que libera na respiração. Com menos CO₂ dissolvido, há menos ácido carbônico, o meio fica alcalino e a solução fica arroxeada.\n\n**b)** No tubo **B**, mais longe da lâmpada (50 cm), a luz é fraca, e a taxa de fotossíntese ficou **abaixo da taxa de respiração** (aquém do ponto de compensação luminoso). A planta liberou mais CO₂ pela respiração do que consumiu na fotossíntese; o CO₂ acumulado formou ácido carbônico, o meio ficou ácido e a solução ficou amarela.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** É o hormônio **B**, a **progesterona**, produzida pelo corpo lúteo após a ovulação; sua queda no fim do ciclo provoca a TPM e a menstruação. Na gravidez, ela continua sendo produzida porque mantém o endométrio desenvolvido e impede a contração do útero, garantindo a gestação. No início, o corpo lúteo é mantido pela gonadotrofina coriônica (hCG) do embrião; depois, a **placenta** passa a produzir a progesterona.\n\n**b)** A **expulsão da placenta** (dequitação), logo após o nascimento. Como, na fase final da gravidez, a placenta era a principal fonte de progesterona, sua eliminação causa a queda brusca desse hormônio, associada à depressão pós-parto.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** A distância entre locos é proporcional à taxa de permuta (1% = 1 unidade de mapa). Como M–N (15) + N–O (10) = M–O (25), N fica entre M e O. Como não há permuta entre M e P, P está praticamente na mesma posição de M.\n\nSequência mais provável: **P – M – N – O** (P colado a M)\n\nMapa: P —0— M —15 u.m.— N —10 u.m.— O\n\n**b)** Porque os locos M e P estão **muito próximos** no cromossomo. Quanto menor a distância entre dois locos, menor a chance de ocorrer um crossing-over entre eles. Com distância praticamente nula, os alelos M e P (e m e p) são herdados sempre juntos (ligação completa), e não aparecem recombinantes.",
+   "confianca": "media",
+   "pendencia": "Como a distância entre M e P é praticamente nula, a ordem P–M–N–O e a ordem M–P–N–O são igualmente aceitáveis."
+  },
+  "0:7": {
+   "resposta": "**a)** Três doenças virais da infância com vacina no calendário oficial: **sarampo**, **poliomielite** (paralisia infantil) e **caxumba**. Também valem rubéola, hepatite B e varicela, entre outras.\n\n**b)** Característica de país com certo grau de desenvolvimento: a **base da pirâmide se estreita** — as faixas de 0 a 4 e de 5 a 9 anos são menores que a de 10 a 14 —, indicando **queda da natalidade**, típica de países em transição demográfica (urbanização, acesso a métodos anticoncepcionais). Característica de país subdesenvolvido: a pirâmide ainda tem **base larga e topo estreito**, com predomínio de jovens e poucos idosos, indicando **natalidade ainda alta e baixa expectativa de vida**.",
+   "confianca": "media",
+   "pendencia": "Questão aberta: outras doenças e outras características da pirâmide, bem justificadas, também valem."
+  },
+  "0:8": {
+   "resposta": "**a)** H₂SO₄ + 2 NaOH → Na₂SO₄ + 2 H₂O\n\nn(NaOH) = 0,800 · 0,0400 = 0,0320 mol\n\nn(H₂SO₄) = 0,0320 ÷ 2 = 0,0160 mol (em 4,00 mL)\n\n[H₂SO₄] = 0,0160 ÷ 0,00400 = 4,00 mol/L\n\nConcentração em massa = 4,00 · 98,0 = **392 g/L**\n\nComo 392 g/L ≈ 390 g/L, a **especificação do rótulo é atendida**.\n\n**b)** Evaporando a água da solução final, sobra o sal formado na neutralização: **Na₂SO₄**, o **sulfato de sódio**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** 704 t = 704 · 10⁶ g\n\nn = m ÷ M = 704 · 10⁶ ÷ 44\n\n**n = 1,6 · 10⁷ mol/dia**\n\n**b)** O CO₂ dissolvido reage com a água formando ácido carbônico, que se ioniza:\n\nCO₂(aq) + H₂O(ℓ) ⇌ H₂CO₃(aq)\n\nH₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)\n\nHCO₃⁻(aq) ⇌ H⁺(aq) + CO₃²⁻(aq)\n\nAumenta a concentração de íons H⁺: a água do reservatório fica **mais ácida (o pH diminui)** e passa a conter mais íons bicarbonato. Quanto mais CO₂ dissolvido, mais esses equilíbrios se deslocam para a direita.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** A formação do metanol é: C(grafite) + 2 H₂(g) + ½ O₂(g) → CH₃OH(ℓ). Pela lei de Hess, somam-se a combustão do carbono, duas vezes a formação da água e a combustão do metanol invertida:\n\nC(grafite) + O₂ → CO₂   ΔH = −393 kJ\n2 H₂ + O₂ → 2 H₂O(ℓ)   ΔH = 2 · (−286) = −572 kJ\nCO₂ + 2 H₂O(ℓ) → CH₃OH(ℓ) + 3/2 O₂   ΔH = +727 kJ\n\nSomando: ΔH°f(CH₃OH) = −393 − 572 + 727 = **−238 kJ/mol**.\n\n**b)** **Aumento da pressão:** os reagentes têm 3 mol de gás (1 CO + 2 H₂) e o produto é líquido; pelo princípio de Le Chatelier, o equilíbrio se desloca para o lado de menor volume gasoso, isto é, para a formação de metanol: o rendimento **aumenta**.\n\n**Aumento da temperatura:** a síntese é exotérmica; aquecer favorece o sentido endotérmico (inverso), consumindo metanol: o rendimento **diminui**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Em v₁ entram CH₃OH e H₂O e sai CO₂: é o ânodo, onde o metanol se oxida:\n\nv₁ (ânodo): CH₃OH + H₂O → CO₂ + 6 H⁺ + 6 e⁻\n\nEm v₂ entra O₂ e sai H₂O: é o cátodo, onde o oxigênio se reduz:\n\nv₂ (cátodo): 3/2 O₂ + 6 H⁺ + 6 e⁻ → 3 H₂O\n\n(Multiplicando por 2 e somando, obtém-se a reação global 2 CH₃OH + 3 O₂ → 2 CO₂ + 4 H₂O.)\n\n**b)** **No interior da célula**, os portadores de carga são os **íons H⁺**, que atravessam a membrana de eletrólito polimérico de v₁ (ânodo, onde são produzidos) para v₂ (cátodo, onde são consumidos).\n\n**No circuito externo**, os portadores são os **elétrons**, que saem de v₁ (polo negativo), passam pela lâmpada L e chegam a v₂ (polo positivo).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Os três isômeros são os nitrofenóis com os grupos em posições orto, meta e para (estruturas descritas: anel benzênico com –OH no carbono 1 e –NO₂ no carbono indicado):\n\n– –OH no C1 e –NO₂ no C2 (posição orto): **2-nitrofenol**;\n– –OH no C1 e –NO₂ no C3 (posição meta): **3-nitrofenol**;\n– –OH no C1 e –NO₂ no C4 (posição para): **4-nitrofenol**.\n\n**b)** O de menor ponto de fusão é o **2-nitrofenol (orto)**. Como o –OH e o –NO₂ são vizinhos no anel, o hidrogênio do –OH forma **ligação de hidrogênio intramolecular** com um oxigênio do –NO₂ (esquema: anel com O–H···O=N, fechando um anel de seis átomos dentro da própria molécula).\n\nCom isso, sobram poucas ligações de hidrogênio entre moléculas diferentes; nos isômeros meta e para, os grupos ficam afastados e fazem **ligações de hidrogênio intermoleculares**, que exigem mais energia para serem rompidas na fusão. Por isso o isômero orto funde a temperatura mais baixa.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** O composto de partida, H₃C–C(OH)(CH₃)–COOH, é o **ácido 2-hidróxi-2-metilpropanoico**.\n\nA desidratação intramolecular (H₂SO₄, perda de H₂O) elimina o –OH e um H vizinho, formando dupla ligação. X é o **ácido metilpropenoico** (ácido metacrílico):\n\nH₂C=C(CH₃)–COOH\n\n**b)** X reage com metanol em meio ácido (esterificação):\n\nH₂C=C(CH₃)–COOH + CH₃OH → H₂C=C(CH₃)–COOCH₃ + H₂O\n\nY é o **metilpropenoato de metila** (metacrilato de metila): H₂C=C(CH₃)–C(=O)–O–CH₃, cuja polimerização por adição dá o polímero mostrado. A função química formada é **éster**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Os 12 instantâneos delimitam 11 intervalos de 34 min, que correspondem praticamente a todo o trânsito:\n\nΔt = 11 · 34 min = 374 min = 374 · 60 s ≈ 2,24 · 10⁴ s\nd = v · Δt = 35 km/s · 2,24 · 10⁴ s ≈ 7,9 · 10⁵ km ≈ 7,9 · 10⁸ m\n\n**b)** O tamanho aparente de um objeto depende do **ângulo visual** sob o qual ele é visto, aproximadamente proporcional a diâmetro ÷ distância. Vênus está muito mais perto da Terra (4,2 · 10¹⁰ m) que o Sol (1,5 · 10¹¹ m), então sua imagem fica ampliada em relação à do Sol:\n\nrazão aparente = (D_Sol ÷ 1,5 · 10¹¹) ÷ (D_Vênus ÷ 4,2 · 10¹⁰)\n= 110 · (4,2 · 10¹⁰ ÷ 1,5 · 10¹¹) = 110 · 0,28 ≈ 31\n\nPor isso o Sol parece apenas cerca de 30 vezes maior que Vênus na foto.",
+   "confianca": "media",
+   "pendencia": "No item a, a resposta supõe 11 intervalos entre as 12 fotos (≈ 7,9 · 10⁵ km); quem usou 12 intervalos chega a ≈ 8,6 · 10⁵ km, com o mesmo raciocínio."
+  },
+  "0:15": {
+   "resposta": "**a)** Esquema (descrição do desenho): a bonequinha encostada na porta vertical, com quatro forças:\n\n– **Peso (P)**: vertical, para baixo;\n– **Força de atrito estático (Fat)**: vertical, para cima, aplicada no contato com a porta;\n– **Força magnética (Fm)**: horizontal, apontando para a porta (atração do ímã);\n– **Força normal (N)**: horizontal, apontando para fora da porta.\n\nEm equilíbrio, Fat = P e N = Fm.\n\n**b)** Para não cair, o atrito necessário não pode passar do máximo:\n\nP ≤ Fat,máx = μ · N = μ · Fm\nm · g ≤ μ · Fm\nFm ≥ m · g ÷ μ = (0,020 kg · 10 m/s²) ÷ 0,50\nFm,mín = **0,40 N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Energia consumida em 0,50 h = 1 800 s:\n\nE = P · Δt = 300 W · 1 800 s = 5,4 · 10⁵ J\nE = 5,4 · 10⁵ ÷ 4,2 ≈ **1,3 · 10⁵ cal** (≈ 129 kcal)\n\n**b)** Com velocidade constante, a **força resultante** sobre o atleta é **nula** (1ª lei de Newton): a força motriz que o chão exerce para a frente equilibra as resistências.\n\nA intensidade média dessa força motriz sai da potência:\n\nv = 10 000 m ÷ 1 800 s ≈ 5,6 m/s\nP = F · v → F = 300 W ÷ 5,6 m/s ≈ **54 N**",
+   "confianca": "media",
+   "pendencia": "O enunciado do item b é ambíguo: a força resultante é nula (velocidade constante); a força propulsora média, que equilibra as resistências, vale cerca de 54 N. Vale apresentar as duas leituras."
+  },
+  "0:17": {
+   "resposta": "**a)** Entre dois nós sucessivos há meio comprimento de onda:\n\nd = λ/2 → λ = 2 · 12 cm = **24 cm** (0,24 m)\n\n**b)** A tração no fio é o peso do conjunto P:\n\nF = m · g = 0,180 kg · 10 m/s² = 1,8 N\nv = √(F/μ) = √(1,8 ÷ 5,0 · 10⁻⁴) = √3 600 = 60 m/s\nf = v/λ = 60 ÷ 0,24 = **250 Hz**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** A esfera esfria de 200 °C até 0 °C (ΔT = −200 °C). O coeficiente de dilatação volumétrica é γ = 3α = 33 · 10⁻⁶ °C⁻¹:\n\nΔV/V₀ = γ · ΔT = 33 · 10⁻⁶ · (−200) = −6,6 · 10⁻³\n\nRedução de **0,66%** do volume inicial.\n\n**b)** Calor perdido pela esfera:\n\nQ = m · c · ΔT = 0,20 · 450 · 200 = 1,8 · 10⁴ J\n\nEsse calor funde gelo a 0 °C:\n\nm_água = Q ÷ L = 1,8 · 10⁴ ÷ 3,3 · 10⁵ ≈ 5,5 · 10⁻² kg ≈ **55 g**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** O voltímetro ideal está ligado aos terminais da bateria e mede a tensão U fornecida ao circuito; o amperímetro mede i = 200 mA = 0,20 A:\n\nU = E − r · i\n8,0 = E − 5,0 · 0,20\nE = **9,0 V**\n\n**b)** Comprimento do solenoide L = 20 cm = 0,20 m, N = 200 espiras, i = 0,20 A:\n\nB = μ₀ · (N/L) · i = 4π · 10⁻⁷ · (200 ÷ 0,20) · 0,20\nB = 4π · 10⁻⁷ · 1 000 · 0,20 = 8π · 10⁻⁵ T ≈ **2,5 · 10⁻⁴ T**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Como ENEM = 8,0 > CG = 2,0, vale a primeira expressão:\n\nNF = 0,95 · 2,0 + 0,05 · 8,0 = 1,90 + 0,40 = **2,3**\n\n**b)** Se ENEM > CG, então NF = 0,95 · CG + 0,05 · ENEM. Assim:\n\nNF − CG = 0,95 · CG + 0,05 · ENEM − CG = 0,05 · (ENEM − CG)\n\nComo ENEM − CG > 0, temos 0,05 · (ENEM − CG) > 0, ou seja, NF − CG > 0 e, portanto, **NF > CG**, qualquer que seja a nota do ENEM.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**a)** Os triângulos OTP e OSP são retângulos em T e em S (o raio é perpendicular à tangente no ponto de tangência). Eles têm a hipotenusa OP em comum e catetos OT = OS = 1 (raios). Pelo caso cateto-hipotenusa, são **congruentes**; logo, os ângulos OP̂T e OP̂S são iguais, cada um medindo θ/2. Portanto, PO divide θ ao meio: O está na **bissetriz** de θ.\n\n**b)** No triângulo OSP: OS = 1 e OP = 3.\n\nsen(θ/2) = 1/3\nPS = √(3² − 1²) = √8 = 2√2\ntg(θ/2) = 1 ÷ (2√2) = √2/4\n\ntg θ = 2 · tg(θ/2) ÷ (1 − tg²(θ/2))\ntg θ = (√2/2) ÷ (1 − 1/8) = (√2/2) · (8/7) = **4√2/7** ≈ 0,81",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**a)** Total de alunos: 3 + 5 + x = 8 + x.\n\np_m = x ÷ (8 + x) = 2/3\n3x = 16 + 2x\n**x = 16**\n\n**b)** As probabilidades têm o mesmo denominador (8 + x), então basta comparar os numeradores:\n\np_m ≥ p_n → x ≥ 3\np_m ≥ p_v → x ≥ 5\n\nAs duas valem simultaneamente para **x ≥ 5** (x natural, ou seja, x ∈ {5, 6, 7, …}).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**a)** z₂ = i · (3 + 4i) = 3i + 4i² = −4 + 3i → ponto (−4, 3)\nz₃ = −i · z₁ = −z₂ = 4 − 3i → ponto (4, −3)\n\nPonto médio: ((−4 + 4)/2 ; (3 − 3)/2) = **(0, 0)**, a origem.\n\n**b)** A altura relativa a z₁ é a distância de z₁ = (3, 4) à reta por z₂ e z₃. Essa reta passa pela origem com inclinação −3/4: 3x + 4y = 0.\n\nd = |3 · 3 + 4 · 4| ÷ √(3² + 4²) = 25 ÷ 5 = **5**\n\n(Confirmação geométrica: multiplicar por i gira 90°, então Oz₁ é perpendicular à reta z₂z₃ e a altura é |z₁| = 5.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**a)** O material retirado é o cilindro de diâmetro D = 10 mm (r = 5 mm) e altura h = 15 mm menos o cone que restou, de mesma base e altura:\n\nV = π · r² · h − (1/3) · π · r² · h = (2/3) · π · 25 · 15 = **250π mm³** ≈ 785 mm³\n\n**b)** O cone de grafite é semelhante ao cone do lápis: s/h = d/D → s = 15 · 2/10 = 3 mm. A grafite só foi cortada nos 3 mm de cima, onde era um cilindro de raio 1 mm e altura 3 mm, e restou o cone de grafite:\n\nV_grafite = π · 1² · 3 − (1/3) · π · 1² · 3 = 3π − π = **2π mm³** ≈ 6,3 mm³",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "**a)** Com x = 1 e y = 3:\n\nvitamina v₁: x + y = 1 + 3 = 4 ≥ 4 (atende)\nvitamina v₂: 2x + y = 2 + 3 = 5 < 6 (**não atende**)\n\nFalta vitamina v₂; logo, essa combinação não é uma dieta sadia.\n\n**b)** A região é dada por x ≥ 0, y ≥ 0, x + y ≥ 4 e 2x + y ≥ 6. As retas x + y = 4 e 2x + y = 6 se cortam em (2, 2).\n\nEsboço (descrição): no primeiro quadrante, a região é **ilimitada** e fica **acima e à direita** da poligonal de vértices (0, 6), (2, 2) e (4, 0): de (0, 6) a (2, 2) a fronteira é a reta 2x + y = 6; de (2, 2) a (4, 0), a reta x + y = 4; depois segue pelos eixos (y ≥ 6 sobre o eixo y e x ≥ 4 sobre o eixo x). Os pontos da fronteira pertencem à região.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

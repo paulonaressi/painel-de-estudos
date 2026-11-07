@@ -1,0 +1,182 @@
+{
+ "indice": "data/questoes/unifesp/2011_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** São **células vegetais**. A imagem mostra uma parede espessa e contínua delimitando cada célula, grandes vacúolos centrais (as áreas claras que ocupam a maior parte do volume e empurram o citoplasma para a periferia) e numerosas organelas ovais escuras com aspecto de cloroplastos. Parede celular, grande vacúolo e cloroplastos não ocorrem em células animais.\n\n**b)** **1 – parede celular** (celulósica): envoltório rígido, externo à membrana plasmática, que dá forma, sustentação mecânica e proteção à célula e impede que ela se rompa ao absorver água (resiste à pressão de turgor).\n\n**2 – cloroplastos**: organelas que contêm clorofila e realizam a fotossíntese, convertendo energia luminosa em energia química: produzem glicose (matéria orgânica) a partir de CO₂ e H₂O, liberando O₂.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** As três principais ordens de répteis atuais e um exemplo de cada:\n\n**Squamata** (lagartos e serpentes): o teiú (*Salvator merianae*) ou a jararaca (*Bothrops jararaca*).\n\n**Testudines** ou Chelonia (tartarugas, cágados e jabutis): o jabuti-piranga (*Chelonoidis carbonaria*).\n\n**Crocodylia** (jacarés e crocodilos): o jacaré-de-papo-amarelo (*Caiman latirostris*).\n\nOutros exemplos corretos de cada ordem também valem.\n\n**b)** Contra a perda de água: pele seca, queratinizada e com escamas, pouco permeável; excreção de ácido úrico, que exige pouca água.\n\nRespiração exclusivamente pulmonar, com pulmões de maior superfície que os dos anfíbios.\n\nIndependência da água para a reprodução: fecundação interna e **ovo amniótico** com casca, que protege o embrião contra a desidratação; os anexos embrionários (âmnio, cório, alantoide e saco vitelino) garantem ambiente aquoso, trocas gasosas, armazenamento de excretas e nutrição. O desenvolvimento é direto, sem fase larval aquática.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** A relação é de **mutualismo** (interação interespecífica harmônica em que as duas espécies se beneficiam), chamada também de zoocoria quando se refere à dispersão. As aves frugívoras obtêm alimento ao comer os frutos (o arilo nutritivo que envolve a semente da copaíba), e a planta tem suas sementes levadas para longe, eliminadas nas fezes ou regurgitadas em outros locais.\n\n**b)** Ao redor da planta-mãe, as plântulas competiriam com ela e entre si por luz, água e nutrientes, e ficariam mais expostas a predadores, parasitas e patógenos que se concentram junto à árvore adulta. A dispersão diminui essa competição e essa mortalidade, permite colonizar novas áreas e ampliar a distribuição da espécie, e favorece o fluxo gênico entre populações, mantendo a variabilidade genética.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O aumento do CO₂ intensifica o **efeito estufa**: o gás absorve e reemite a radiação infravermelha (calor) emitida pela superfície, retendo mais energia na atmosfera e provocando o **aquecimento global**.\n\nConsequências: elevação da temperatura média; derretimento de geleiras e calotas polares e elevação do nível do mar, com inundação de áreas costeiras; mudanças no regime de chuvas e eventos climáticos extremos (secas, enchentes, tempestades); perda de biodiversidade e alteração da distribuição das espécies; prejuízos à agricultura. Além disso, o CO₂ dissolvido acidifica os oceanos, afetando corais e organismos com concha calcária.\n\n**b)** Com mais desmatamento e menos áreas restauradas, há **destruição e fragmentação de hábitats**. Espécies perdem abrigo, alimento e locais de reprodução; populações ficam pequenas e isoladas, com menor variabilidade genética, e espécies endêmicas ou de distribuição restrita podem desaparecer, levando à extinção.\n\nO CO₂ aumenta porque a vegetação removida deixa de retirar CO₂ do ar pela fotossíntese, e o carbono estocado na biomassa volta à atmosfera quando ela é queimada (queimadas) ou se decompõe.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O hipertenso deveria optar pelo **alimento 2**, porque tem bem menos **sódio** (612 mg, 26% do VD, contra 1 262 mg, 53% do VD, no alimento 1) e menos gorduras totais e saturadas (1,4 g contra 2,3 g de saturadas). Ainda tem mais fibras, que também ajudam no controle do colesterol.\n\n**b)** **Sódio**: em excesso, eleva a concentração de sais no sangue, o que provoca retenção de água no organismo (por osmose e pela redução da eliminação de água pelos rins); o volume de sangue aumenta e, com ele, a pressão arterial.\n\n**Gorduras saturadas** (e totais): favorecem o aumento do colesterol LDL e a formação de placas de ateroma nas paredes das artérias (aterosclerose), que estreitam o lúmen e reduzem a elasticidade dos vasos, aumentando a resistência ao fluxo e, portanto, a pressão arterial.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Na reação com ácido nítrico:\n\nCu (s) → Cu²⁺ em Cu(NO₃)₂: o Nox do cobre passa de 0 para +2 (variação de +2): **o cobre sofre oxidação**.\n\nN em HNO₃ → N em NO₂: o Nox do nitrogênio passa de +5 para +4 (variação de −1): **o nitrogênio do HNO₃ sofre redução**.\n\n**b)** A liga tem 60% de cobre, que não reage com HCl; quem reage com o ácido clorídrico é M, que corresponde a 40% da massa:\n\nm(M) = 0,40 · 8,175 g = 3,27 g\n\nPela equação, 1 mol de M produz 1 mol de H₂, então n(M) = n(H₂) = 0,05 mol.\n\nMassa molar de M = 3,27 g ÷ 0,05 mol = 65,4 g/mol\n\nO metal bivalente de massa molar 65,4 g/mol é o **zinco (Zn)**; a liga cobre-zinco é o latão.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** O NaOH libera íons OH⁻, que reagem com os íons H⁺ do equilíbrio do indicador (H⁺ + OH⁻ → H₂O). Com a diminuição da concentração de H⁺, o equilíbrio é **deslocado para a direita** (princípio de Le Chatelier), no sentido da forma desprotonada (com o grupo carboxilato, CO₂⁻). Por isso, a solução fica **amarela**.\n\n**b)** O NH₄Cl é um sal derivado de base fraca (NH₃) e ácido forte (HCl). O ânion Cl⁻ não se hidrolisa; apenas o cátion amônio sofre hidrólise:\n\nNH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺\n\nA formação de H₃O⁺ torna a solução **ácida**.\n\nFaixa de pH pelas cores observadas: amarela com o indicador 1 → pH < 6,0; amarela com o indicador 2 → pH < 5,2; vermelha com o indicador 3 → pH > 5,0.\n\nLogo, **5,0 < pH < 5,2**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Fórmula molecular do ácido úrico (pela estrutura): C₅H₄N₄O₃.\n\n2 C₅H₄N₄O₃ + 9 O₂ → 10 CO₂ + 4 H₂O + 4 N₂\n\n(ou, com coeficientes fracionários: C₅H₄N₄O₃ + 9/2 O₂ → 5 CO₂ + 2 H₂O + 2 N₂)\n\n**b)** Decomposição térmica do oxalato de cálcio, liberando CO e CO₂ e deixando óxido de cálcio:\n\nCaC₂O₄ (s) → CaO (s) + CO (g) + CO₂ (g)\n\nMassa perdida (gases): 8,00 mg − 4,40 mg = 3,60 mg.\n\nMassas molares: CaC₂O₄ = 128 g/mol; CO + CO₂ = 28 + 44 = 72 g/mol.\n\n128 g de CaC₂O₄ liberam 72 g de gases:\n\nm(CaC₂O₄) = 3,60 mg · 128 ÷ 72 = 6,40 mg\n\nTeor = 6,40 ÷ 8,00 · 100% = **80%** de oxalato de cálcio.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Numerando os carbonos do naftaleno (C1 a C8 nos anéis, C4a e C8a nos carbonos comuns aos dois anéis), há três estruturas de ressonância, que diferem apenas na posição das ligações duplas, com os mesmos átomos nos mesmos lugares:\n\nI: C1=C2, C3=C4, C4a=C8a, C5=C6, C7=C8 (a ligação dupla na ligação comum aos dois anéis).\n\nII: C1=C8a, C2=C3, C4=C4a, C5=C6, C7=C8.\n\nIII: C1=C2, C3=C4, C4a=C5, C6=C7, C8=C8a.\n\nO híbrido de ressonância tem os elétrons π deslocalizados sobre os dez carbonos (dois anéis benzênicos condensados).\n\nSolubilidade: o naftaleno (C₁₀H₈) é um hidrocarboneto **apolar**, cujas moléculas se atraem por forças de London. A água é muito polar e forma ligações de hidrogênio entre suas moléculas, que o naftaleno não consegue substituir; por isso é praticamente insolúvel nela. O etanol tem uma parte polar (OH) e uma parte apolar (o grupo etila, CH₃CH₂–), que interage com o naftaleno por forças de London; por ser menos polar que a água, dissolve-o melhor (\"semelhante dissolve semelhante\").\n\n**b)** No gráfico, o mecanismo I tem **energia de ativação maior** (picos mais altos) que o II. Para que uma fração apreciável das moléculas tenha energia suficiente para atingir o complexo ativado nesse caminho, é preciso temperatura maior (160 °C); a 80 °C predomina o caminho de menor energia de ativação, o II, mais rápido (produto cinético). Em compensação, o produto I (ácido naftaleno-2-sulfônico) é mais estável, de menor energia (produto termodinâmico).\n\nNas duas curvas a energia dos produtos é menor que a dos reagentes: **as duas reações são exotérmicas** (ΔH < 0), sendo a I a que libera mais energia.",
+   "confianca": "media",
+   "pendencia": "As estruturas de ressonância, que na prova seriam desenhadas, estão descritas em texto pela posição das ligações duplas; confira com um desenho do naftaleno."
+  },
+  "0:10": {
+   "resposta": "**a)** O processo é a **vulcanização**. Na presença de enxofre, aquecimento e catalisador, átomos de enxofre ligam-se às cadeias do polímero na região das duplas ligações remanescentes e formam **pontes de enxofre** (ligações cruzadas –S–S–) entre cadeias vizinhas. As cadeias, antes independentes, passam a formar uma rede tridimensional. A borracha fica mais resistente à tração e ao desgaste, mais elástica (volta à forma original), menos pegajosa e menos sensível a variações de temperatura.\n\n**b)** Hidrogenação com adição 1,4 (as duplas se deslocam para o centro):\n\nCH₂=CH–CH=CH₂ + H₂ → CH₃–CH=CH–CH₃\n\nbuta-1,3-dieno + hidrogênio → but-2-eno\n\nIsômeros espaciais (geométricos) do but-2-eno: cada carbono da dupla tem um H e um CH₃.\n\n**cis-but-2-eno** (Z): os dois grupos CH₃ ficam do mesmo lado do plano da dupla ligação (H₃C e CH₃ em cima; H e H embaixo).\n\n**trans-but-2-eno** (E): os grupos CH₃ ficam em lados opostos (um CH₃ em cima à esquerda e outro embaixo à direita, com os H nas posições restantes).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Altura máxima (v = 0 no topo), com v₀ = 15 m/s e g = 10 m/s²:\n\nv² = v₀² − 2g · h → 0 = 15² − 2 · 10 · h_max\n\n**h_max = 225 ÷ 20 = 11,25 m**\n\nTempo de subida: t = v₀ ÷ g = 15 ÷ 10 = 1,5 s. Como a descida dura o mesmo, a primeira bolinha volta ao solo em 3,0 s.\n\nA terceira bolinha é lançada no instante **t = 3,0 s** (contado a partir do lançamento da primeira).\n\n**b)** Posições, com t contado a partir do lançamento da primeira:\n\ny₁ = 15t − 5t²\n\ny₂ = 15(t − 1) − 5(t − 1)², para t ≥ 1\n\nIgualando: 15t − 5t² = 15t − 15 − 5t² + 10t − 5\n\n0 = 10t − 20 → **t = 2,0 s**\n\nH = y₁(2) = 15 · 2 − 5 · 2² = 30 − 20 → **H = 10 m**\n\n(Nesse instante a primeira desce e a segunda sobe, como na figura.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Na colisão totalmente inelástica, a quantidade de movimento se conserva (m = 10 g = 0,010 kg; M = 6,0 kg):\n\nm · v = (m + M) · V\n\n0,010 · 600 = (0,010 + 6,0) · V\n\n6,0 = 6,01 · V → **V ≈ 1,0 m/s**\n\n**b)** Após a colisão, a energia mecânica se conserva:\n\n(m + M) · V² ÷ 2 = (m + M) · g · h\n\nh = V² ÷ (2g) = 1,0² ÷ 20 → **h = 0,05 m = 5,0 cm**\n\nNa altura máxima a velocidade é nula, então não há resultante centrípeta: a tração equilibra a componente do peso na direção da corda.\n\ncos θ = (L − h) ÷ L = (1,0 − 0,05) ÷ 1,0 = 0,95\n\nT = P · cos θ = 6,01 · 10 · 0,95 → **T ≈ 57 N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Processo isocórico (a → b): o volume fica constante em 2,0 · 10⁻² m³ e a pressão **diminui** de 3,0 · 10⁵ Pa para 1,0 · 10⁵ Pa (ΔV = 0; ΔP = −2,0 · 10⁵ Pa).\n\nProcesso isobárico (b → c): a pressão fica constante em 1,0 · 10⁵ Pa e o volume **aumenta** de 2,0 · 10⁻² m³ para 6,0 · 10⁻² m³ (ΔP = 0; ΔV = +4,0 · 10⁻² m³).\n\nRelação entre as temperaturas (lei geral dos gases):\n\nPa · Va ÷ Ta = Pc · Vc ÷ Tc\n\n3,0 · 10⁵ · 2,0 · 10⁻² ÷ Ta = 1,0 · 10⁵ · 6,0 · 10⁻² ÷ Tc\n\n6,0 · 10³ ÷ Ta = 6,0 · 10³ ÷ Tc → **Ta = Tc** (Ta/Tc = 1)\n\n**b)** Como Ta = Tc, a variação de energia interna de a até c é nula (ΔU = 0). Pela primeira lei, Q = W.\n\nW(a→b) = 0 (volume constante)\n\nW(b→c) = P · ΔV = 1,0 · 10⁵ · 4,0 · 10⁻² = 4,0 · 10³ J\n\n**Q = 4,0 · 10³ J**, recebido pelo gás no total.\n\n(Por etapa: Q(a→b) = (3/2) · V · ΔP = −6,0 · 10³ J, cedidos; Q(b→c) = (5/2) · P · ΔV = +1,0 · 10⁴ J, recebidos; soma = 4,0 · 10³ J.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Resistência de cada lâmpada (valores nominais):\n\nR = U² ÷ P = 110² ÷ 100 = 12 100 ÷ 100 → **R = 121 Ω**\n\nCircuito A: dois ramos em paralelo com a fonte, cada um com duas lâmpadas em série.\n\nCada ramo: 121 + 121 = 242 Ω\n\nEquivalente: 242 ÷ 2 → **R_A = 121 Ω**\n\nCircuito B: as quatro lâmpadas em série.\n\n**R_B = 4 · 121 = 484 Ω**\n\n**b)** Circuito A: cada ramo recebe 220 V, divididos igualmente entre as duas lâmpadas → 110 V em cada.\n\nP_A = 110² ÷ 121 = **100 W** por lâmpada\n\nCircuito B: 220 V divididos entre quatro lâmpadas → 55 V em cada.\n\nP_B = 55² ÷ 121 = **25 W** por lâmpada\n\nAs lâmpadas iluminam mais no **circuito A**, onde funcionam na tensão nominal e dissipam potência quatro vezes maior. (Considera-se a resistência da lâmpada constante.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Na lupa, a imagem é virtual e direita. Com aumento A = 3,0 e f = 4,0 cm:\n\nA = f ÷ (f − p)\n\n3,0 = 4,0 ÷ (4,0 − p)\n\n12 − 3p = 4 → p = 8/3 cm\n\nA lente deve ficar a **p ≈ 2,7 cm** (8/3 cm) do número tipado.\n\n**b)** A = −p' ÷ p → p' = −A · p = −3,0 · 8/3 = −8,0 cm\n\nA imagem é virtual e se forma a **8,0 cm da lente, do mesmo lado do objeto** (antes da lente, em relação ao olho).\n\nTamanho: i = A · o = 3,0 · 0,7 cm → **i = 2,1 cm** (direita).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** f(x) = 2ˣ + 2⁻ˣ. A função é par (simétrica em relação ao eixo y) e, pela figura, seu menor valor ocorre em x = 0, o ponto médio O:\n\nf(0) = 2⁰ + 2⁰ = 2\n\n(Também pela desigualdade entre médias: 2ˣ + 2⁻ˣ ≥ 2 · √(2ˣ · 2⁻ˣ) = 2.)\n\nA menor distância entre o cabo e a plataforma é **2 m** (2 unidades de comprimento do sistema; em metros, como no item b).\n\n**b)** Nas extremidades, f(x) = 2,5. Fazendo u = 2ˣ:\n\nu + 1/u = 5/2\n\n2u² − 5u + 2 = 0 → u = 2 ou u = 1/2\n\n2ˣ = 2 → x = 1; 2ˣ = 1/2 → x = −1\n\nA = −1 e B = 1, e a distância entre as hastes é **2 m**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Os termos de índice par são a₂, a₄, …, aₙ: formam uma PA de razão 2r com n/2 termos.\n\nPrimeiro: a₂ = a₁ + r. Último: aₙ = a₁ + (n − 1)r.\n\nS = (a₂ + aₙ) · (n/2) ÷ 2 = (2a₁ + nr) · n ÷ 4\n\n**S_par = n(2a₁ + nr) ÷ 4**\n\n**b)** a₁ = −224 e r = −220 − (−224) = 4.\n\nSₙ = (n/2) · [2a₁ + (n − 1)r] = (n/2) · (−448 + 4n − 4) = n(2n − 226)\n\nSₙ > 0, com n > 0 → 2n − 226 > 0 → n > 113\n\nSão necessários no mínimo **114 termos** (com 113 termos a soma é exatamente zero).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Como os pontos estão na reta y = 2x, b₁ = 2a₁, b₂ = 2a₂ e b₃ = 2a₃. Então:\n\nQ(x) = (a₁x² + a₂x + a₃) ÷ [2(a₁x² + a₂x + a₃)]\n\n**Q(x) = 1/2**, para todo x em que o denominador não se anula.\n\n**b)** C = (a₁, b₁) = (a₁, 2a₁). Como AC é diâmetro de uma circunferência centrada na origem, A é o simétrico de C: A = (−a₁, −2a₁).\n\nAC = √[(2a₁)² + (4a₁)²] = √(20a₁²) = 2a₁√5\n\nComo AC é diâmetro e B está na circunferência, o ângulo ABC é reto. O triângulo é isósceles com o ângulo reto em B, logo AB = BC, e pelo teorema de Pitágoras:\n\nAB² + BC² = AC² → 2 · AB² = 20a₁²\n\nAB² = 10a₁² → **AB = a₁√10**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** (x + 2i)² = x² + 4xi + 4i² = (x² − 4) + 4xi\n\n(x + 2i)⁴ = [(x² − 4) + 4xi]² = (x² − 4)² − 16x² + 2 · (x² − 4) · 4x · i\n\nPara ser real, a parte imaginária deve ser nula:\n\n8x(x² − 4) = 0 → **x = 0, x = 2 ou x = −2**\n\n(Verificação: x = 0 dá 16; x = ±2 dá −64.)\n\n**b)** z₀ tem afixo (0, a), ou seja, z₀ = ai, com a > 0. Se z₀ é raiz quarta de z, então z = z₀⁴:\n\nz = (ai)⁴ = a⁴ · i⁴ = a⁴\n\nComo a > 0, **|z| = a⁴**.\n\n(Ou: |z| = |z₀|⁴ = a⁴.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Pista de 9 m = 900 cm. Seja P a extremidade de onde A parte e Q a de onde B parte.\n\nA (30 cm/s) leva 900 ÷ 30 = 30 s por percurso: está em Q nos instantes 30, 90, 150… (múltiplos ímpares de 30 s) e em P em 60, 120, 180… s.\n\nB (20 cm/s) leva 900 ÷ 20 = 45 s por percurso: está em P nos instantes 45, 135, 225… (múltiplos ímpares de 45 s) e em Q em 90, 180, 270… s.\n\nEm P: os instantes de A são múltiplos pares de 30 (múltiplos de 60) e os de B são múltiplos ímpares de 45; não há coincidência (60k = 45 · ímpar exigiria 4k = 3 · ímpar, impossível).\n\nEm Q: 30 · ímpar = 90 · m ocorre pela primeira vez em t = 90 s (A completa 3 percursos e B, 2).\n\nEles se encontram pela primeira vez na mesma extremidade (a de partida de B) após **90 segundos**.\n\n**b)** Duração: 1 h 30 min = 5 400 s. O movimento dos dois se repete a cada mmc(60, 90) = 180 s, o que dá 5 400 ÷ 180 = 30 ciclos.\n\nComparando as posições ao longo de um ciclo, os dois ficam na mesma posição a cada 36 s (t = 18, 54, 90, 126 e 162 s): 5 encontros por ciclo. Num deles (t = 90 s, na extremidade Q), os dois chegam juntos à ponta e voltam juntos, sem passar um pelo outro; nos outros 4 eles se cruzam de fato.\n\nCruzamentos: 4 · 30 = **120 vezes**. Se forem contados também os encontros simultâneos na extremidade, são 5 · 30 = 150 encontros.",
+   "confianca": "media",
+   "pendencia": "A contagem depende de considerar ou não como cruzamento os 30 encontros em que os dois chegam juntos à mesma extremidade: 120 cruzamentos propriamente ditos, ou 150 encontros no total."
+  },
+  "1:1": {
+   "resposta": "**a)** O texto A expõe o programa do **Realismo-Naturalismo**: o romance deve estudar o ser humano como a ciência estuda os fenômenos naturais, explicando o comportamento pela fisiologia, pelo temperamento e pelo meio, sem idealizá-lo.\n\nÀ luz disso, as reações de Luísa não são as de um amor romântico idealizado, mas **reações físicas e sensoriais**: a atração vem da barba, dos olhos, do calor da mão, das sensações do corpo; o casamento aparece como desejo de conforto, segurança e dependência, além de alívio social (\"descanso para a mamã\"). A personagem é mostrada como determinada pelos instintos e pela fisiologia, como um caso a ser observado, e a narração ironiza essa visão sentimental e superficial do amor.\n\n**b)** \"Ao princípio não **agradou a ela**.\" (ou: \"Ao princípio não agradou **a Luísa**.\")\n\n\"Que sensação quando **Jorge** lhe disse: (...)\" (ou: \"quando **o rapaz** lhe disse\").\n\nOutras substituições que mantenham as mesmas referências (lhe = Luísa; ele = Jorge) também valem.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:2": {
+   "resposta": "**a)** O poema pertence ao **Simbolismo**. Uma característica típica é a obsessão pela **cor branca** e pela luminosidade (brancura, luar, neve), ligadas à espiritualidade, à pureza e à transcendência; outra é a linguagem vaga, sugestiva e musical, que evoca em vez de descrever.\n\nExemplo: \"alvo, sereno, límpido, direito\" (ou \"no perfeito esplendor indefinido\", que mostra a imprecisão e a vagueza simbolistas).\n\n**b)** Substantivos: **linho** e **rosas** (também valem luar, estrelas, esplendor).\n\nAdjetivos: **brancas**, **alvo**, **límpido** e **nevado** (também valem claro, puríssimas, radiante, perfeito).\n\nOs versos que criam a tensão são os finais da última estrofe: \"Nessa alegria em que tu vais, parece / que vais infantilmente amortalhado!\". A palavra \"amortalhado\" transforma as vestes brancas de linho em mortalha: a brancura que sugeria pureza e vida passa a sugerir a morte, e o sonho alegre ganha uma nota sombria e fúnebre.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:3": {
+   "resposta": "**a)** Do ponto de vista da variação linguística, a atitude do narrador é **preconceituosa**: ele julga a fala rural de Falcote como \"feia\", isto é, como inferior, atribuindo valor estético e social a uma variedade que é apenas diferente. Hoje se entende que a variedade rural é legítima e eficiente em seu contexto, e que não existe modo \"feio\" de falar, mas formas adequadas ou não a cada situação (o que se pode esperar de um estudante prestes a se formar é o domínio da norma-padrão em situações formais). O comentário revela preconceito linguístico, associado a preconceito social contra o homem da roça.\n\n**b)** \"Caixeiro, traga aí qualquer coisa de beber e (de) comer.\"\n\nTrecho irônico: \"Como era ilustrado! Como falava bem!\" (também vale \"Esse estudante era a coisa mais preciosa que tinha encontrado na minha vida\", ou o comentário sobre o \"figurão\" para o partido da Rapadura).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:4": {
+   "resposta": "**a)** Fragmento: \"Ouvia falar que era de amarelos assim que saíam os lobisomens.\"\n\nO Regionalismo de 30 retrata a realidade social do Nordeste, com suas crenças, costumes e linguagem. A frase traz uma crença do folclore sertanejo (o lobisomem) e a figura do \"amarelo\", o doente pobre, marcado pela opilação ou pela verminose, retrato da miséria regional. A obra também é memorialista: o narrador, menino de engenho, relembra o colégio.\n\n(Também vale o trecho do \"corpanzil bambo de papangu\", pelo vocabulário regional.)\n\n**b)** Papa-Figo era: **doente** e de aparência repulsiva (\"amarelo inchado\", de doença desconhecida); **feio e desajeitado**, de corpo grande e mole; **medroso e passivo**, sem coragem nem de denunciar quem o agredia; também solitário e rejeitado pela família, que tinha vergonha dele.\n\nTrecho que mostra a intolerância: \"Apanhava dos outros somente com o grito\" (ou: \"o seu Maciel não respeitava nem esta enfermidade ambulante: dava no pobre também\").",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:5": {
+   "resposta": "**a)** As falas são as de Quim e de Nhô Augusto: a de Quim que explica não ter reagido porque \"era negócio de honra, com sangue só p'ra o dono\" (a que começa com \"Eu podia ter arresistido…\"), e a resposta de Nhô Augusto: \"Fez na regra, e feito!\".\n\nPelo código de honra sertanejo, a afronta (a fuga da mulher de Nhô Augusto) deve ser vingada pelo próprio ofendido, o \"dono\"; o empregado agiu \"na regra\" ao não interferir, e o patrão reconhece isso.\n\n**b)** Palavras fora da norma-padrão: \"**arresistido**\" (por \"resistido\") e \"**p'ra**\" (por \"para\"). Também valem \"Cachorrada!\", \"Fala com Nhô Augusto que…\" e \"é mandar por portador calado\".\n\nNos diálogos, o autor reproduz a **fala oral e regional** do sertanejo, com alterações fonéticas, vocabulário popular e sintaxe coloquial, o que dá verossimilhança e caracteriza as personagens. O narrador usa uma linguagem mais próxima da norma culta e trabalhada literariamente, mas que incorpora o ritmo e o tom da oralidade sertaneja (como em \"É melhor de fora\"), recriando-a artisticamente em vez de apenas copiá-la.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:6": {
+   "resposta": "**a)** Soja (grão, farelo e óleo), cana-de-açúcar (açúcar e etanol) e carne bovina. Também valem café, suco de laranja, milho, algodão, carne de frango, celulose, entre outros.\n\n**b)** Problemas ambientais: **desmatamento** do Cerrado e da Amazônia para abrir pastagens e lavouras, com perda de biodiversidade e emissão de gases; **contaminação** do solo, da água e de pessoas por agrotóxicos e fertilizantes. Também: erosão e esgotamento do solo pela monocultura, assoreamento de rios, uso intensivo de água na irrigação.\n\nProblemas sociais: **concentração fundiária** e conflitos pela terra, com expulsão de pequenos agricultores, posseiros e povos indígenas; **desemprego e êxodo rural** provocados pela mecanização, além de trabalho precário e até análogo à escravidão em algumas lavouras e carvoarias.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:7": {
+   "resposta": "**a)** Na década de 1930, a crise de 1929 derrubou as exportações de café e a capacidade de importar. A industrialização foi de **substituição de importações**: produzir internamente o que não se conseguia mais comprar de fora, sobretudo bens de consumo não duráveis, com capital nacional e forte ação do Estado (governo Vargas, que depois criou a CSN), voltada ao mercado interno.\n\nNa década de 1950, sobretudo no governo JK (Plano de Metas), a industrialização se **abriu ao capital estrangeiro**: entraram empresas multinacionais (automobilística, eletrodomésticos), tecnologia e empréstimos externos, formando o tripé Estado–capital nacional–capital estrangeiro. A economia passou a depender mais do exterior (endividamento e remessa de lucros), produzindo bens de consumo duráveis.\n\n**b)** A indústria se concentrou no **Sudeste**, especialmente em São Paulo, que virou o centro econômico do país; as demais regiões passaram a fornecer matéria-prima, alimentos e mão de obra, aumentando as desigualdades regionais. Houve **urbanização acelerada** e êxodo rural, com intensas migrações (sobretudo de nordestinos para o Sudeste), crescimento das metrópoles e favelização. A construção de rodovias e a mudança da capital para Brasília **integraram o mercado nacional** e estimularam a ocupação do Centro-Oeste e do interior.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:8": {
+   "resposta": "**a)** A teoria da **deriva continental** (Alfred Wegener, 1912) propôs que os continentes formavam um único bloco, a Pangeia, e se separaram e se deslocaram ao longo do tempo; ela se apoiava no encaixe dos litorais (América do Sul e África), em fósseis e rochas iguais em continentes separados e em indícios de climas antigos, mas não explicava a força capaz de mover os continentes.\n\nA teoria da **tectônica de placas** (década de 1960) retomou e ampliou essa ideia, explicando o mecanismo: a litosfera é dividida em placas que se movem sobre a astenosfera, impulsionadas pelas correntes de convecção do manto, com expansão do assoalho oceânico nas dorsais. Os continentes se movem porque fazem parte dessas placas. A tectônica de placas é, assim, a confirmação e a explicação científica da deriva.\n\n**b)** **Divergentes** (construtivos): as placas se afastam e o magma forma nova crosta, como na dorsal meso-atlântica, entre as placas Sul-Americana e Africana.\n\n**Convergentes** (destrutivos): as placas se chocam; há subducção ou colisão, formando cordilheiras, fossas, vulcões e terremotos, como entre as placas de Nazca e Sul-Americana (Andes).\n\n**Transformantes** (conservativos): as placas deslizam lateralmente uma em relação à outra, sem criar nem destruir crosta, como na falha de San Andreas (placas do Pacífico e Norte-Americana).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:9": {
+   "resposta": "**a)** A Chechênia é uma república da **Federação Russa**, situada no **Cáucaso** (vertente norte da cordilheira do Cáucaso), no sudoeste da Rússia, entre o mar Negro e o mar Cáspio. Faz fronteira ao sul com a Geórgia e, dentro da Rússia, com o Daguestão, a Inguchétia e a região de Stavropol. Sua capital é Grozny.\n\n**b)** **Étnico-religiosas**: os chechenos são um povo de identidade própria e maioria muçulmana (islamismo sunita), diferente da maioria russa, eslava e cristã ortodoxa; há também a memória de séculos de dominação russa e da deportação em massa ordenada por Stalin em 1944. **Políticas**: com o fim da URSS (1991), a Chechênia declarou independência, que a Rússia não aceitou, temendo um efeito dominó separatista em outras repúblicas do Cáucaso; seguiram-se duas guerras (1994–1996 e 1999–2009) e a radicalização de grupos islâmicos. **Econômicas e estratégicas**: a região tem petróleo e é rota de oleodutos e gasodutos entre o mar Cáspio e o mar Negro, o que a torna vital para a Rússia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:10": {
+   "resposta": "**a)** Os elementos do clima são as grandezas que o caracterizam: **temperatura**, **umidade** do ar, **precipitação** (chuvas, neve, granizo), **pressão atmosférica** e **ventos** (massas de ar). Também se considera a radiação solar (insolação e nebulosidade).\n\n**b)** Os fatores modificam os elementos e explicam por que o clima varia de um lugar a outro: **latitude** (quanto maior, menor a insolação e a temperatura); **altitude** (a temperatura cai com a altitude); **maritimidade e continentalidade** (a proximidade do mar reduz a amplitude térmica e aumenta a umidade); **correntes marítimas** (quentes ou frias, influem na temperatura e nas chuvas do litoral); **massas de ar**; **relevo** (barreiras que retêm a umidade ou canalizam ventos); e **vegetação** e urbanização (as cidades formam ilhas de calor).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:11": {
+   "resposta": "**a)** O fator é o **rio Nilo**. Suas cheias anuais inundavam as margens e, ao recuar, deixavam uma camada de húmus (limo) fértil, que permitia a agricultura (como a colheita de cereais mostrada na pintura) numa região cercada pelo deserto. O rio fornecia também água para a irrigação, organizada em diques e canais, e servia como via de transporte.\n\n**b)** Os egípcios acreditavam na **vida após a morte**, entendida como continuação da vida terrena. As cenas do cotidiano (trabalho no campo, colheita, banquetes) pintadas nos túmulos tinham função mágico-religiosa: garantiam ao morto, no além, a mesma vida, a abundância e o alimento que tivera, e asseguravam que ele continuaria a ser provido e servido eternamente. Por isso o túmulo era concebido como a \"casa da eternidade\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:12": {
+   "resposta": "**a)** No texto de Homero, o valor central é **político e cívico**: os Ciclopes são vistos como selvagens porque não têm assembleias nem leis e vivem isolados, sem vida comunitária; para os gregos, a civilização se identificava com a vida na pólis, regida por leis e por decisões coletivas.\n\nNa carta de Caminha, o valor central é **religioso**: os indígenas são definidos pela falta de crença (não têm \"nenhuma crença\") e vistos como inocentes, prontos a receber a fé cristã; para os ibéricos do século XV, a civilização se identificava com o cristianismo, e o contato com o outro tinha sentido de conversão (catequese).\n\n**b)** A finalidade econômica era a **exploração mercantilista**: obter riquezas e lucro para a metrópole portuguesa, primeiro com o pau-brasil e depois com a produção de açúcar para o mercado europeu, além da busca de metais preciosos, sob o monopólio comercial do pacto colonial.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:13": {
+   "resposta": "**a)** Condições **geográficas**: o litoral nordestino, mais próximo da Europa e da África, facilitava a navegação e o comércio; o clima quente e úmido e o solo de **massapé**, muito fértil, eram ideais para a cana-de-açúcar; os rios permitiam transportar a produção até os portos.\n\nCondições **econômicas**: o açúcar tinha alto valor no mercado europeu; os portugueses já dominavam a técnica de produção nas ilhas atlânticas (Madeira); havia financiamento e rede de distribuição de comerciantes holandeses; e o tráfico de africanos escravizados fornecia mão de obra. Isso fez da faixa litorânea de Pernambuco e do Recôncavo o centro da economia colonial.\n\n**b)** A partir de 1830, a ocupação rápida do Oeste Velho paulista deveu-se à **expansão do café**, cujo preço e demanda internacionais estavam em alta. O café, que vinha do Vale do Paraíba (já com terras esgotadas), avançou para o Oeste, onde havia solos de **terra roxa**, muito férteis, clima favorável e grandes extensões de terra. A cafeicultura atraiu capitais e mão de obra (escravizados e, depois, imigrantes) e, mais tarde, a construção de ferrovias até o porto de Santos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:14": {
+   "resposta": "**a)** A crise se espalhou porque os **Estados Unidos eram a maior economia do mundo** e o principal credor e mercado internacional após a Primeira Guerra. Com a quebra, os bancos americanos **suspenderam empréstimos e repatriaram capitais** investidos na Europa (sobretudo na Alemanha e na Áustria), que dependiam deles para a reconstrução. Ao mesmo tempo, os EUA **reduziram drasticamente as importações** e elevaram tarifas protecionistas, derrubando as exportações e os preços de matérias-primas dos países da América Latina, como o café brasileiro.\n\n**b)** O **New Deal** foi um conjunto de medidas que rompeu com o liberalismo econômico: o Estado passou a **intervir na economia** para recuperar a produção e o emprego, inspirado nas ideias de Keynes, e a criar uma rede de proteção social (base do Estado de bem-estar).\n\nExemplo de medida: grandes **obras públicas** (estradas, represas, como as do vale do Tennessee) para gerar empregos. Também valem: a criação do seguro-desemprego e da previdência social (Social Security Act), o controle da produção agrícola e industrial para conter a queda de preços, a fiscalização dos bancos e o salário mínimo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:15": {
+   "resposta": "**a)** O êxodo rural, provocado pela concentração fundiária, pela mecanização e pela pobreza no campo, que expulsavam os trabalhadores; e a **industrialização** acelerada, sobretudo a partir do governo JK, que concentrou empregos nas cidades do Sudeste e atraiu **migrantes**, principalmente nordestinos, em busca de trabalho e melhores condições de vida.\n\n**b)** \"Saudosa Maloca\" mostra o **problema da moradia** e a **especulação imobiliária**: moradores pobres são despejados e têm o barraco onde viviam derrubado para dar lugar a um edifício alto, ficando sem teto; a cidade se verticaliza e expulsa os pobres.\n\n\"Trem das Onze\" mostra a **segregação espacial**: o trabalhador mora na periferia distante (Jaçanã), depende de um **transporte público precário**, com horários limitados, e tem a vida pessoal e o lazer submetidos às longas distâncias e ao horário do trem. As duas canções retratam também a linguagem e o cotidiano dos migrantes e das camadas populares.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

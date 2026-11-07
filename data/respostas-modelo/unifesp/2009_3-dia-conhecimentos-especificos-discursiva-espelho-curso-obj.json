@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2009_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "O gráfico I representa uma **mitose** (o DNA duplica na fase S e volta ao valor inicial após M); o gráfico II, uma **meiose** (após duplicar, cai à metade em M1 e de novo à metade em M2).\n\n**a)** No início da fase M do gráfico I, o cromossomo já foi duplicado na fase S: tem **2 cromátides** (irmãs, unidas pelo centrômero). Ao final de M2 do gráfico II, cada célula-filha recebe esse cromossomo não duplicado: **1 cromátide**.\n\n**b)** Cada cromátide corresponde a uma molécula de DNA. Portanto, no início da fase M do gráfico I há **2 moléculas de DNA**, e ao final de M2 do gráfico II, **1 molécula de DNA**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A **árvore jovem**. Ela está em crescimento: a fotossíntese supera bastante a respiração, e o carbono fixado é incorporado à biomassa nova. Além disso, uma proporção maior de sua massa é de tecido foliar fotossintetizante. Na árvore adulta, que já atingiu o tamanho máximo, grande parte da massa é de tecido não fotossintetizante (tronco, galhos, raízes lenhosas) e a fotossíntese praticamente se equilibra com a respiração, de modo que a absorção líquida de CO₂ por unidade de massa é menor.\n\n**b)** A **árvore jovem**. Por ser menor, a coluna de água no xilema é mais curta, e a água chega às folhas com menor resistência e mais rapidamente, repondo com facilidade o que é perdido na transpiração. Na árvore adulta, mais alta, o transporte até as folhas do topo é mais difícil; para evitar a desidratação, ela precisa fechar os estômatos mais cedo.",
+   "confianca": "media",
+   "pendencia": "O item b admite mais de uma linha de argumentação; outras respostas bem justificadas também podem valer."
+  },
+  "0:3": {
+   "resposta": "**a)** A hipótese deve ser **aceita**. A sequência encontrada no anelídeo é a mesma do ser humano: a digestão dos carboidratos começa primeiro (no segmento 3 já há dissacarídeos, como ocorre com o amido digerido pela amilase salivar na boca); a das proteínas vem em seguida (polipeptídios longos, como no estômago, pela pepsina); a das gorduras começa depois (ácidos graxos e glicerol só aparecem no segmento 5, como no intestino delgado, com bile e lipase). Por fim, completa-se a digestão de todos, com monossacarídeos, aminoácidos, ácidos graxos e glicerol (segmento 7), e sobra apenas material não digerível e pouca água (segmento 11), como no intestino grosso.\n\n**b)** O **sistema circulatório (sanguíneo)**, que nos anelídeos é **fechado**: o sangue circula sempre dentro de vasos, impulsionado por vasos contráteis (“corações” laterais e vaso dorsal). Os nutrientes absorvidos pela parede do intestino passam para os capilares sanguíneos e são distribuídos pelo sangue até as células de todo o corpo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Pela tabela, o alelo G é dominante sobre G¹ e G²; G¹G² dá um fenótipo próprio (laranja); amarelo é G²G².\n\n**a)** **Sim.** A eliminação dos amarelos (G²G²) não elimina o alelo G², que continua presente nos heterozigotos verdes (GG²) e laranja (G¹G²), que não são afetados. Do cruzamento entre esses peixes (por exemplo, GG² × GG², GG² × G¹G² ou G¹G² × G¹G²) podem nascer filhotes G²G², isto é, amarelos.\n\n**b)** **Não** (na ausência de mutação ou de migração de peixes de outras lagoas). Como G é dominante, todo peixe que tem o alelo G é verde (GG, GG¹ ou GG²). Eliminando todos os verdes, o alelo G desaparece da população; os sobreviventes (G¹G¹, G¹G², G²G²) só podem gerar descendentes sem G, logo não verdes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** A espécie **B**. Na área 2, removida a espécie A, a rocha da faixa superior continuou nua: B não ocupou o espaço livre, embora não houvesse competidor. Logo, o que impede B de viver na parte alta é um **fator abiótico**: a **exposição ao ar por mais tempo durante a maré baixa**, com risco de dessecação (perda de água) e maior variação de temperatura e insolação.\n\n**b)** A espécie **A**. Na área 3, removida a espécie B, a espécie A se expandiu para a faixa inferior, o que mostra que ela suporta essas condições físicas, mas normalmente é impedida de ocupá-la pela presença de B. O fator limitante é **biótico**: a **competição interespecífica com B por espaço (substrato)** na rocha.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Fotodecomposição:\n4 HNO₃(aq) → 4 NO₂(g) + O₂(g) + 2 H₂O(l)  (em presença de luz)\n\nIonização em meio aquoso:\nHNO₃(aq) + H₂O(l) → H₃O⁺(aq) + NO₃⁻(aq)  (ou HNO₃ → H⁺ + NO₃⁻)\n\n**b)** Em 1 L de solução há 13,0 mol de HNO₃:\nm(HNO₃) = 13,0 mol × 63 g/mol = 819 g.\n\nEssa massa corresponde a 60% da massa da solução:\nm(solução) = 819 g ÷ 0,60 = 1365 g.\n\nDensidade: d = 1365 g ÷ 1000 mL ≈ **1,37 g/mL** (1,365 g/cm³).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** No esquema, o eletrodo de platina da **esquerda**, em contato com o ar espirado, é o **ânodo** (compartimento anódico): nele o etanol é oxidado a etanal, liberando elétrons e íons H⁺. O eletrodo da **direita** é o **cátodo** (compartimento catódico): nele o O₂ é reduzido a água, consumindo H⁺ e elétrons.\n\nNo fio condutor externo, os **elétrons fluem do eletrodo da esquerda (ânodo) para o da direita (cátodo)**, passando pelo microprocessador; dentro do eletrólito, os íons H⁺ migram da esquerda para a direita. (Na folha de respostas, basta copiar o esquema, desenhar uma seta no fio indo do eletrodo da esquerda para o da direita e rotular os dois compartimentos.)\n\n**b)** Ânodo (inverte-se a semirreação dada e multiplica-se por 2):\n2 CH₃CH₂OH → 2 CH₃CHO + 4 H⁺ + 4 e⁻\n\nCátodo:\nO₂ + 4 H⁺ + 4 e⁻ → 2 H₂O\n\nReação global:\n**2 CH₃CH₂OH + O₂ → 2 CH₃CHO + 2 H₂O**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** O meio fica **básico**. A hidrólise forma 2 mol de NH₃ para cada 1 mol de CO₂. A amônia é base: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻. O CO₂ forma ácido carbônico, um ácido fraco (CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻), cuja constante de ionização é menor que a de basicidade da amônia. Com a amônia em maior quantidade e de força maior, predomina [OH⁻] > [H⁺] e o pH fica acima de 7.\n\n**b)** A urease é um **catalisador** biológico: ela oferece um novo caminho de reação, **diminuindo a energia de ativação** e tornando a hidrólise mais rápida. A **entalpia de reação (ΔH) não se altera**, porque depende apenas dos estados inicial (reagentes) e final (produtos), que são os mesmos com ou sem a enzima.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Pela equação, 1 mol de acetofenona forma 1 mol de imina (rendimento teórico).\n\nFórmula da imina: C₆H₅–C(=N–CH₃)–CH₃ = C₉H₁₁N\nMassa molar: 9 × 12 + 11 × 1 + 14 = 133 g/mol\n\nCom 80% de rendimento: m = 0,80 × 133 g = **106,4 g** de imina.\n\n**b)** O grupo aldeído (–CHO) é desativante e **meta-dirigente**; por isso o bromo substitui um hidrogênio do anel na posição meta. O produto X é o **3-bromobenzaldeído (m-bromobenzaldeído)**: anel benzênico com o grupo –CHO no carbono 1 e o átomo de Br no carbono 3.\n\nC₆H₅CHO + Br₂ → Br–C₆H₄–CHO (meta) + HBr",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Na cocaína há os grupos funcionais **amina terciária** (o nitrogênio ligado a três carbonos, um deles o metil, na ponte do biciclo) e **éster**, presente duas vezes: o éster metílico (–CO–O–CH₃) e o éster benzoico (–O–CO–C₆H₅, benzoato).\n\n**b)** A reação é uma **transesterificação** (alcoólise do éster), catalisada pela base KOH: o metanol desloca a parte alcoólica do grupo benzoato, formando benzoato de metila, de odor característico.\n\nCocaína + CH₃OH → (KOH) → C₆H₅–CO–O–CH₃ (benzoato de metila) + éster metílico da ecgonina (a mesma estrutura bicíclica da cocaína com –OH no lugar do grupo –O–CO–C₆H₅)\n\nDe forma esquemática: R–O–CO–C₆H₅ + CH₃OH → R–OH + C₆H₅–CO–OCH₃.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Conservação da quantidade de movimento na colisão (perfeitamente inelástica):\n\nm(A) · v(A) = (m(A) + m(B)) · V\n0,090 × 2,0 = 0,270 · V → V = 2/3 m/s ≈ 0,67 m/s\n\nEnergia cinética do conjunto:\nEc = (0,270 × (2/3)²) ÷ 2 = **0,060 J** (6,0 × 10⁻² J).\n\n**b)** Pelo gráfico, F = 24 N para x = 0,060 m: k = 24 ÷ 0,060 = 400 N/m.\n\nA energia elástica da mola se transforma na energia cinética de A (sem atrito):\n\nk · x² ÷ 2 = m(A) · v(A)² ÷ 2\n400 · x² = 0,090 × (2,0)²\nx² = 9,0 × 10⁻⁴ m² → x = **3,0 × 10⁻² m = 3,0 cm**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Pela lei de Stevin:\n\np = p(atm) + d · g · h\np = 1,0 × 10⁵ + 10³ × 10 × 2,0\np = 1,0 × 10⁵ + 0,2 × 10⁵ = **1,2 × 10⁵ N/m²**.\n\n**b)** Peso real: P = 80 × 10 = 800 N. O peso aparente é a diferença entre o peso e o empuxo:\n\nE = P − P(ap) = 800 − 40 = 760 N\n\nE = d(água) · V · g → 760 = 10³ × V × 10\n**V = 7,6 × 10⁻² m³** (76 L).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Resistência total do circuito: R(total) = U ÷ i = 110 ÷ 2,2 = 50 Ω.\n\nResistência equivalente das lâmpadas: R(e) = 50 − 1,0 = 49 Ω.\n\nCinco lâmpadas iguais em paralelo: R(e) = R ÷ 5 → R = 5 × 49 = **245 Ω**.\n\n**b)** Potência dissipada nos fios: P = r · i² = 1,0 × (2,2)² = 4,84 W.\n\nTempo de funcionamento: Δt = 30 × 5 h = 150 h.\n\nEnergia: E = P · Δt = 4,84 × 150 ≈ **726 Wh**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Leitura dos gráficos: no ampliado, de −10 °C a 0 °C, Q vai de 0 a 1,0 × 10⁴ J (fase sólida); no completo, o trecho vertical a 0 °C vai de 1,0 × 10⁴ J a 16 × 10⁴ J (mudança de fase).\n\n**a)** Calor trocado na solidificação: Q = (16 − 1,0) × 10⁴ = 15 × 10⁴ J.\n\nQ = m · L → 15 × 10⁴ = 0,50 · L → L = **3,0 × 10⁵ J/kg** (na solidificação o calor é cedido, por isso L(solidificação) = −3,0 × 10⁵ J/kg).\n\n**b)** Fase sólida, de 0 °C a −10 °C: Q = 1,0 × 10⁴ J.\n\nQ = m · c · ΔT → 1,0 × 10⁴ = 0,50 · c · 10\nc = **2,0 × 10³ J/(kg·°C)**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Imagem direita e duas vezes maior: aumento A = +2. Pela equação do aumento em função de f e p:\n\nA = f ÷ (f − p)\n2 = f ÷ (f − p) → 2f − 2p = f → f = 2p\n\n**f/p = 2**.\n\n(Coerente: o objeto está entre o foco e a lente, situação da lupa.)\n\n**b)** Na água, f' = 2,5 f = 2,5 × 2p = 5p, com a mesma distância p:\n\nA' = f' ÷ (f' − p) = 5p ÷ (5p − p) = 5/4\n\n**A' = 1,25** (imagem direita, virtual, 1,25 vez maior que o objeto).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Dividindo p(x) = x³ + 3x − 4 por (x − 1) (Briot-Ruffini com coeficientes 1, 0, 3, −4):\n\nq(x) = x² + x + 4, resto 0.\n\nΔ = 1² − 4 · 1 · 4 = −15 < 0, logo os zeros de q são complexos não reais: x = (−1 ± i√15)/2.\n\nComo p(x) = (x − 1) · q(x), os zeros de p são 1 e esses dois números não reais. Portanto, **x = 1 é o único zero real de p(x)**.\n\n**b)** O número x = ∛(2 + √5) + ∛(2 − √5) é real (soma de duas raízes cúbicas de números reais) e, pelo enunciado, satisfaz x³ = 4 − 3x, isto é, p(x) = 0. Pelo item a, o único zero real de p é 1. Logo, **∛(2 + √5) + ∛(2 − √5) = 1**, que é um número inteiro.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** A pertence a r: A = (a, a/6). B pertence a s: B = (b, 3b/2). M(2, 1) é ponto médio de AB:\n\n(a + b)/2 = 2 → a + b = 4\n(a/6 + 3b/2)/2 = 1 → a + 9b = 12\n\nSubtraindo: 8b = 8 → b = 1 e a = 3.\n\n**A = (3, 1/2)** e **B = (1, 3/2)**.\n\n**b)** Se M é ponto médio de OP e também de AB, o quadrilátero OAPB tem diagonais que se cortam ao meio, logo é um **paralelogramo**. Construção: por P, traça-se a **paralela à reta s**; seu ponto de encontro com r é **A**. Por P, traça-se a **paralela à reta r**; seu ponto de encontro com s é **B**. Então OA ∥ BP e OB ∥ AP, OAPB é paralelogramo e suas diagonais OP e AB se cortam no ponto médio comum M.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** f(x) = cos x · cos x − sen x · sen x = cos² x − sen² x = **cos(2x)**.\n\nGráfico: cossenoide de amplitude 1 e período π. Passa por (0, 1), corta o eixo x em π/4, atinge −1 em π/2, corta de novo o eixo em 3π/4 e volta a 1 em π, repetindo-se a cada π (para x negativo, é simétrica em relação ao eixo y). Imagem: [−1, 1].\n\n**b)** f(x) = 1/f(x), com f(x) ≠ 0 → [f(x)]² = 1 → cos(2x) = 1 ou cos(2x) = −1.\n\nIsso ocorre quando 2x = kπ, isto é, **x = kπ/2, com k inteiro**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Para 71: z = 71 − (7 + 1) = 63 = 9 × 7, múltiplo de 9.\n\nPara 30: z = 30 − (3 + 0) = 27 = 9 × 3, múltiplo de 9.\n\nA afirmação é verdadeira para os dois números.\n\n**b)** O número “xy”, com x algarismo das dezenas (x ≠ 0) e y das unidades, vale 10x + y. Então:\n\nz = (10x + y) − (x + y) = 9x.\n\nComo x é inteiro (1 ≤ x ≤ 9), z = 9x é sempre múltiplo de 9, qualquer que seja o número de dois algarismos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Número de modos de escolher 4 dos 10 compartimentos (bolas idênticas): C(10, 4) = 210.\n\nCasos favoráveis (4 compartimentos consecutivos): blocos começando na posição 1, 2, …, 7 → 7 casos.\n\nP = 7/210 = **1/30**.\n\n**b)** Número de modos de escolher 10 dos 100 compartimentos: C(100, 10) = 17 310 309 456 440.\n\nAs 10 bolas ficam alinhadas se ocuparem uma linha inteira (10 casos), uma coluna inteira (10 casos) ou uma das duas diagonais (2 casos): 22 casos favoráveis.\n\nP = **22/C(100, 10)** = 22 · 10! · 90!/100! ≈ 1,3 × 10⁻¹².\n\n(Considerando apenas linhas e colunas, P = 20/C(100, 10).)",
+   "confianca": "media",
+   "pendencia": "No item b, a resposta conta como “alinhadas” as linhas, as colunas e as duas diagonais; se a banca considerar só linhas e colunas, a probabilidade fica 20/C(100,10)."
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2016_2-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** No **inverno**. No interior de São Paulo, essa estação é **seca**, com baixa pluviosidade, e tem as **temperaturas mais baixas** do ano. A falta de água e o frio reduzem o metabolismo das plantas e, portanto, o crescimento.\n\n**b)** O **fotoperíodo curto**: os dias são mais curtos e a radiação solar incide de forma mais oblíqua, então as plantas recebem menos luz. Com menos luz, a taxa de fotossíntese cai, a planta produz menos matéria orgânica (açúcares) e sobra menos energia e material para formar novos tecidos; o crescimento da grama e dos arbustos diminui.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A charge se refere ao **aquecimento global** (intensificação do efeito estufa), que derrete o gelo polar e ameaça animais como o urso-polar e o pinguim. O gás produzido pela pecuária bovina que contribui para esse impacto é o **metano (CH₄)**, eliminado sobretudo pela eructação (arroto) e também pelos gases intestinais do gado.\n\n**b)** O metano resulta da **fermentação** do alimento (rico em celulose) no rúmen, câmara do estômago dos ruminantes. Ela é feita por **microrganismos** que vivem em mutualismo com o boi: bactérias e protozoários digerem a celulose, e microrganismos **metanogênicos** (arqueas) produzem o metano a partir de produtos dessa fermentação (como CO₂ e H₂).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** **Sim.** O filho herda metade do DNA da mãe e metade do pai biológico, então cada faixa da criança deve aparecer na mãe ou no pai. As faixas da criança que não estão no padrão da mãe estão todas presentes no padrão do suposto pai; nenhuma faixa da criança deixa de ter correspondência em um dos dois.\n\n**b)** É de uma **terceira pessoa não identificada**. O padrão de faixas de uma pessoa é praticamente único, e a amostra deveria coincidir faixa a faixa com o de alguém. A amostra tem várias faixas ausentes tanto no padrão da vítima quanto no do suspeito e não tem faixas que ambos apresentam; portanto o padrão não coincide com o de nenhum dos dois.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Por **mutação e seleção natural**. Numa colônia grande, surgem ao acaso mutações (ou genes recebidos de outras bactérias por conjugação, transformação ou transdução, como plasmídeos de resistência), e algumas tornam a célula resistente ao antibiótico. O antibiótico não provoca a mutação: ele age como **agente seletivo**, eliminando as sensíveis. As resistentes sobrevivem, se reproduzem sem competição e transmitem a resistência aos descendentes, formando uma nova linhagem resistente. O uso excessivo ou incorreto do antibiótico acelera esse processo.\n\n**b)** Assemelha-se mais à **mitose**. Na divisão binária (cissiparidade), o DNA da bactéria se duplica e cada célula-filha recebe uma cópia idêntica, sem redução do número de cromossomos e sem recombinação; formam-se células geneticamente iguais à original, como na mitose. A meiose, ao contrário, reduz o número de cromossomos à metade e gera células geneticamente diferentes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** São de **espécies diferentes**. Comunidade (biocenose) é o conjunto de populações de espécies diferentes que vivem e interagem numa mesma área. Ao receber o recém-chegado com \"bem-vindo à nossa comunidade\", o personagem indica que ele passa a fazer parte desse conjunto de espécies, e os desenhos mostram seres de formas distintas.\n\n**b)** **Hábitat: primeiro quadrinho.** O personagem pede para \"mudar para esta casa\", ou seja, para o lugar onde vai viver; hábitat é justamente o local onde uma espécie vive.\n\n**Ecossistema: terceiro quadrinho.** Ele mostra o conjunto inteiro: a cabeleira (o meio físico, com suas condições) ocupada pela comunidade de organismos que interagem entre si e com esse meio. Comunidade + fatores abióticos formam o ecossistema.",
+   "confianca": "media",
+   "pendencia": "Os desenhos da tirinha são pequenos na imagem; a leitura de qual quadrinho representa hábitat e qual representa ecossistema é interpretativa, e justificativas diferentes, se coerentes, também podem ser aceitas."
+  },
+  "0:6": {
+   "resposta": "**a)** O processo é a **destilação** (evaporação seguida de condensação), feita com energia solar. A radiação aquece a água do mar no tanque; a água evapora, e os sais, não voláteis, ficam no tanque. O vapor sobe, encontra a superfície de vidro, mais fria, e se condensa em gotas que escorrem pelo vidro inclinado até as calhas laterais, onde se recolhe a água purificada.\n\n**b)** A água do mar tem **pressão de vapor menor** e **temperatura de ebulição maior** que a água purificada. Os sais dissolvidos são solutos não voláteis: suas partículas dificultam a passagem das moléculas de água para o vapor (efeito tonoscópico), de modo que a água do mar precisa ser aquecida a uma temperatura mais alta para que sua pressão de vapor iguale a pressão externa (efeito ebulioscópico). São propriedades coligativas, que dependem da quantidade de partículas dissolvidas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Massa da peça: m = 200,1 − 131,3 = 68,8 g\n\nVolume deslocado: V = 75 − 67 = 8 mL\n\nd = m ÷ V = 68,8 ÷ 8 = **8,6 g/mL**\n\n**b)** Pela equação, 10 mol de Aℓ produzem 6 mol de Nb.\n\nn(Nb) = 279 000 g ÷ 93 g/mol = 3 000 mol\n\nn(Aℓ) = 3 000 × 10 ÷ 6 = 5 000 mol\n\nm(Aℓ) = 5 000 mol × 27 g/mol = 135 000 g = **135 kg**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** A interação é mais estável com a **guanina** (b). Além da ligação coordenada entre a platina e o nitrogênio da base, que existe nos dois casos, na guanina há uma ligação de hidrogênio adicional entre um hidrogênio do grupo NH₃ ligado à platina e o oxigênio da carbonila (C=O) da guanina, representada pela linha tracejada. Na adenina, o grupo vizinho é NH₂, que não forma essa interação extra com o NH₃.\n\n**b)** Massa molar da cisplatina, [Pt(NH₃)₂Cℓ₂] (Pt = 195, N = 14, H = 1, Cℓ = 35,5):\n\nM = 195 + 2 × 17 + 2 × 35,5 = 300 g/mol\n\nMassa usada: 0,050 mol × 300 g/mol = 15 g = 15 000 mg\n\nNúmero de frascos: 15 000 mg ÷ 50 mg = **300 frascos**",
+   "confianca": "media",
+   "pendencia": "As massas atômicas não aparecem no recorte; foram usados os valores usuais (Pt = 195, Cℓ = 35,5), que podem diferir levemente da tabela da prova."
+  },
+  "0:9": {
+   "resposta": "**a)** Multiplicando a etapa 1 por 3, a etapa 2 por 6 e a etapa 3 por 4, NO₂ e parte do NO se cancelam:\n\n12 NH₃ + 15 O₂ → 12 NO + 18 H₂O\n\n12 NO + 6 O₂ → 12 NO₂\n\n12 NO₂ + 4 H₂O → 8 HNO₃ + 4 NO\n\nGlobal: **12 NH₃ (g) + 21 O₂ (g) → 8 HNO₃ (aq) + 14 H₂O + 4 NO (g)**\n\n(Confere: 12 N, 36 H e 42 O de cada lado.)\n\n**b)** O **teste 4** (resfriamento e diminuição de pressão). A etapa 1 é exotérmica (ΔH < 0): o resfriamento desloca o equilíbrio no sentido direto, que libera calor. Ela passa de 9 mol de gás (4 + 5) para 10 mol de gás (4 + 6): a diminuição de pressão favorece o sentido de maior volume gasoso, também o direto. As duas modificações aumentam o rendimento em NO.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Os anéis aromáticos se unem ao anel não aromático (da glicose) pelo grupo **éster** (–COO–). O caráter ácido vem das hidroxilas ligadas diretamente ao anel aromático, isto é, do grupo **fenol**.\n\n**b)** É uma esterificação (o ácido alfa-linolênico tem fórmula C₁₇H₂₉COOH):\n\nC₁₇H₂₉COOH + CH₃OH ⇌ C₁₇H₂₉COOCH₃ + H₂O\n\nForma-se o éster metílico do ácido (linolenato de metila) e água, em geral com catálise ácida.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** O deslocamento é a área sob o gráfico v × t.\n\nA: triângulo de base 120 s e altura 20 m/s → ΔS = 120 × 20 ÷ 2 = 1 200 m\n\nB: triângulo de base 120 s e altura 20 m/s → ΔS = 1 200 m\n\nvₘ = 1 200 ÷ 120 = **10 m/s para A e para B**.\n\n**b)** Em t = 60 s as velocidades são iguais: v = 12 m/s (B: v = 0,2·t; A cai de 20 m/s em t = 20 s a 0 em t = 120 s, ou seja, 0,2 m/s a cada segundo).\n\nA: 0 a 20 s → 20 × 20 ÷ 2 = 200 m; 20 a 60 s → (20 + 12) × 40 ÷ 2 = 640 m; total 840 m\n\nB: 0 a 60 s → 60 × 12 ÷ 2 = 360 m\n\nDistância entre eles: 840 − 360 = **480 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Na rampa: N = m·g·cos θ = 40 × 10 × 0,8 = 320 N\n\nFat = μ·N = 0,25 × 320 = **80 N**\n\n**b)** Altura da rampa: h = 10 × sen θ = 6 m.\n\nEnergia em A: Ec = 40 × 1² ÷ 2 = 20 J; Ep = 40 × 10 × 6 = 2 400 J\n\nTrabalho do atrito na rampa: 80 × 10 = 800 J\n\nEnergia cinética em C: 20 + 2 400 − 800 = 1 620 J\n\nNo trecho horizontal: Fat = 0,25 × 400 = 100 N; 100 × d = 1 620 → d = 16,2 m\n\nDistância total de A até D: 10 + 16,2 = **26,2 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Q = m(vidro)·c(vidro)·Δθ + m(água)·c(água)·Δθ\n\nQ = 100 × 0,2 × 30 + 200 × 1 × 30 = 600 + 6 000 = **6 600 cal**\n\n**b)** Cada grama de vapor cede calor em três etapas:\n\nresfriamento do vapor de 120 °C a 100 °C: 1 × 0,5 × 20 = 10 cal\n\nliquefação a 100 °C: 540 cal\n\nresfriamento da água líquida de 100 °C a 50 °C: 1 × 1 × 50 = 50 cal\n\nTotal: 600 cal por grama. Como o calor cedido é igual ao absorvido:\n\n600·m = 6 600 → m = **11 g**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Espelho convexo: f = −0,6 m; objeto real: p = 3 m.\n\n1/f = 1/p + 1/p' → 1/p' = −1/0,6 − 1/3 = −5/3 − 1/3 = −2\n\np' = −0,5 m: a imagem é virtual e fica a **0,5 m** do espelho (atrás dele).\n\n**b)** A = d ÷ D = −p'/p = 0,5 ÷ 3 = **1/6**\n\nA imagem do diâmetro do pneu é direita e mede um sexto do diâmetro real.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Resistência do fio inteiro: R = 12 ÷ 0,1 = 120 Ω. Como R é proporcional ao comprimento:\n\nRA = 120 ÷ 6 = 20 Ω; RB = 120 ÷ 3 = 40 Ω; RC = 120 ÷ 2 = 60 Ω\n\nNa figura 2, os três resistores estão ligados entre os mesmos dois nós, ou seja, em paralelo com a fonte:\n\n1/Req = 1/20 + 1/40 + 1/60 = (6 + 3 + 2)/120 = 11/120\n\nReq = 120/11 ≈ **10,9 Ω**\n\n**b)** P = U² ÷ Req = 144 ÷ (120/11) = **13,2 W**\n\n(Confere: 7,2 W em A + 3,6 W em B + 2,4 W em C.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Dose por hora: 100 U/kg × 72 kg = 7 200 U\n\nConcentração: 10 000 U ÷ 50 mL = 200 U/mL\n\nVolume por hora: 7 200 ÷ 200 = **36 mL**\n\n**b)** 36 mL × 20 gotas/mL = 720 gotas por hora\n\nx = 3 600 s ÷ 720 = **5 s** (uma gota a cada 5 segundos)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** No centro de South Hill, x = 0: D = 5 hab/km².\n\nA densidade de São Paulo supera a de South Hill em 16,5 − 5 = 11,5 hab/km², e 11,5 ÷ 5 = 2,3.\n\n**y = 230**\n\n**b)** D(x) = −15x² + 30x + 5 é uma parábola com concavidade para baixo; o máximo está no vértice:\n\nx = −30 ÷ (2 × (−15)) = **1 km**\n\nD(1) = 5 + 30 − 15 = **20 hab/km²**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** A reta r passa por (0, 0) e (3,5; 7): r: y = 2x.\n\nA reta s passa por R(3,5; 3,5) e Q(8; 7): inclinação 3,5 ÷ 4,5 = 7/9; s: y = 7x/9 + 7/9.\n\nIgualando: 2x = 7x/9 + 7/9 → 18x = 7x + 7 → x = 7/11; y = 14/11.\n\nPonto de intersecção: **(7/11, 14/11)**.\n\n**b)** t passa pela origem e é paralela a s (lados paralelos do trapézio): t: y = 7x/9.\n\nS tem y = 3,5 → x = 4,5: S(4,5; 3,5). P tem x = 8 → y = 56/9: P(8; 56/9).\n\nOs lados não paralelos são PQ e RS:\n\nPQ = 7 − 56/9 = 7/9\n\nRS = 4,5 − 3,5 = 1\n\nComo **7/9 ≠ 1**, os lados não paralelos têm medidas diferentes e o trapézio não é isósceles.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "O lado de 2,5 m forma ângulo α com o chão; o lado de 1,5 m, perpendicular a ele, forma ângulo α com a vertical. Assim:\n\ny = 2,5·sen α e x = 1,5·cos α, com h = x + y.\n\n**a)** α = 30°:\n\ny = 2,5 × 0,5 = 1,25 m; x = 1,5 × (√3/2) = 0,75√3 m\n\nh = **1,25 + 0,75√3 ≈ 2,55 m**\n\n**b)** x = 1,2 m → cos α = 1,2 ÷ 1,5 = 0,8 → sen α = 0,6\n\ny = 2,5 × 0,6 = 1,5 m\n\nh = 1,2 + 1,5 = **2,7 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Lendo os gráficos (cada hexágono vale 1 escolha):\n\nSão Paulo: A = 5, B = 3, C = 4, D = 1, E = 6, F = 5 → 24 pessoas\n\nSantos: A = 3, B = 2, C = 4, D = 0, E = 6, F = 5 → 20 pessoas\n\nTotal: 44. Escolheram D ou F: 1 + 5 + 0 + 5 = 11.\n\nP = 11/44 = **1/4 = 25%**\n\n**b)** F = 6 (única mais votada) e C = 0 (única menos votada). Restam 17 − 6 = 11 votos para A, B, D e E. Cada uma tem no máximo 5 (F é a única com mais), não pode ter 1 voto e não pode ter 0 (C é a única menos votada), logo vale de 2 a 5.\n\nFazendo cada valor = 2 + k, com k ≥ 0: a soma dos k é 11 − 8 = 3, e nenhum k passa de 3 automaticamente.\n\nNúmero de soluções: C(3 + 3, 3) = C(6, 3) = **20 configurações**.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

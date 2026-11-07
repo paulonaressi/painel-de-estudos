@@ -1,0 +1,107 @@
+{
+ "indice": "data/questoes/unifesp/2026_2-dia-prova-de-conhecimentos-especificos-discursiva.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** O javali europeu e o porco doméstico pertencem à mesma espécie, *Sus scrofa*; são subespécies (ou variedades) dela, o que explica por que o cruzamento gera descendentes férteis, como o javaporco.\n\nO javaporco é uma espécie exótica porque não é nativo do Brasil: ele (e seus ancestrais) foi introduzido pelo ser humano, vindo de outra região geográfica, e não faz parte da fauna original dos ecossistemas brasileiros. Como se espalhou e causa danos, é também classificado como invasor.\n\n**b)** O potencial biótico é a capacidade máxima de crescimento de uma população em condições ideais; a resistência do meio é o conjunto de fatores que limitam esse crescimento (predadores, parasitas, competição, falta de alimento e de espaço). O javaporco tem **alto potencial biótico** (ninhadas numerosas, maturidade precoce, dieta onívora) e, no Brasil, encontra **baixa resistência do meio**: quase não há predadores naturais nem competidores equivalentes, e há alimento abundante em lavouras. Assim, o crescimento real se aproxima do potencial biótico, a população cresce de forma acelerada e se expande por vários estados.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** A bactéria utiliza o gás oxigênio na **respiração celular aeróbica**, em que o O₂ é o aceptor final de elétrons da cadeia respiratória (cadeia transportadora de elétrons), produzindo grande quantidade de ATP.\n\nSe o RNA viral for traduzido no citosol da célula tumoral, pelos ribossomos dessa célula, serão produzidas **proteínas** (cadeias polipeptídicas), no caso proteínas virais.\n\n**b)** Uma pessoa recém-tratada de uma infecção por *Salmonella typhimurium* já teve seu sistema imunológico exposto a essa bactéria: possui anticorpos e células de memória específicos contra ela (e, se tratada com antibiótico, pode ainda ter o medicamento no organismo). Assim, a bactéria usada como \"veículo\" seria reconhecida e destruída rapidamente, antes de chegar ao tumor e liberar o vírus, e a terapia perderia a eficácia.\n\nA principal célula que reconhece e elimina, por meio da liberação de perforinas, as células infectadas por vírus é o **linfócito T citotóxico** (linfócito T CD8+).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** As células apresentam maior turgescência nas **plantas bem regadas**, cujo potencial hídrico é o mais alto (mais próximo de zero, o da água pura): elas têm mais água e maior pressão de turgor.\n\nMesmo abaixo de −2 MPa, quando o gráfico mostra que o fluxo de gases pelos estômatos praticamente cessa (estômatos fechados), a transpiração não para porque continua ocorrendo a **transpiração cuticular**, a perda de vapor de água diretamente através da cutícula e da epiderme, que não é totalmente impermeável. Além disso, o fechamento estomático raramente é completo.\n\n**b)** O ABA provoca a **saída de íons potássio (K⁺)** das células-guarda. Com menos solutos, o potencial hídrico dessas células aumenta, elas perdem água por osmose, ficam flácidas e o estômato **se fecha**.\n\nEntre −1 e −2 MPa, sob ação do ABA, os estômatos vão se fechando e diminui a **entrada de CO₂** na folha. Como o CO₂ é a matéria-prima da fotossíntese (fixado no ciclo de Calvin), a taxa fotossintética cai.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O fator ambiental é a **radiação ultravioleta (UVB) da luz solar**, que converte na pele o precursor (7-desidrocolesterol, derivado do colesterol) em vitamina D.\n\nComo a vitamina D é **lipossolúvel**, ela pode se acumular no **tecido adiposo** (tecido conjuntivo adiposo), o que explica a toxicidade da suplementação excessiva.\n\n**b)** No intestino, a vitamina D (na forma ativa, calcitriol) **aumenta a absorção de cálcio** dos alimentos. Com isso, aumenta o cálcio disponível no sangue e nos tecidos, inclusive para ser armazenado no retículo sarcoplasmático das fibras musculares. Com pouca vitamina D, há menos Ca²⁺ disponível e a contração fica prejudicada.\n\nO retículo sarcoplasmático armazena íons **Ca²⁺** e os **libera** no citosol quando a fibra é estimulada. O cálcio liga-se à troponina, que desloca a tropomiosina e expõe os sítios de ligação da actina; a miosina então se liga à actina e puxa os filamentos, encurtando os sarcômeros (contração). Depois, o retículo **recapta** o Ca²⁺ por transporte ativo, permitindo o relaxamento.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** Uma pessoa com AME 5q é homozigota para o alelo mutante do SMN1 (m1m1). Sendo também homozigota para o gene SMN2 (M2M2), seu genótipo é **m1m1 M2M2**.\n\nA mutação cromossômica estrutural que aumenta o número de cópias de um gene em um mesmo cromossomo é a **duplicação** (repetição de um segmento do cromossomo).\n\n**b)** O *splicing* é o processamento do pré-RNAm em que os **íntrons são removidos** e os **éxons são unidos**, formando o RNAm maduro que será traduzido.\n\nO *splicing* alternativo ocorre quando o mesmo pré-RNAm pode ser processado de formas diferentes, mantendo ou retirando determinados éxons, e gerando RNAm (e proteínas) distintos a partir de um único gene. O Nusinersena modifica a escolha dos éxons no pré-RNAm do SMN2: em vez de o éxon 7 ser excluído, ele passa a ser mantido, gerando um RNAm diferente do habitual e uma proteína SMN funcional. Por alterar o padrão de *splicing* do gene, o medicamento é considerado um indutor de *splicing* alternativo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Fe e Fe₃O₄ são sólidos e não entram na expressão; só os gases participam:\n\nKp = (p H₂)⁴ ÷ (p H₂O)⁴\n\nNúmero de oxidação do hidrogênio: no H₂O é +1; no H₂ é 0. Variação: de +1 para 0, ou seja, **ΔNox = −1** (o hidrogênio sofre redução, cada átomo ganha 1 elétron).\n\n**b)** ΔH = ΣΔHf(produtos) − ΣΔHf(reagentes)\n\nΔH = [(−1 117) + 4 · 0] − [3 · 0 + 4 · (−242)]\n\nΔH = −1 117 + 968\n\n**ΔH = −149 kJ** (por mol de Fe₃O₄ formado; reação exotérmica)\n\nPelo princípio de Le Châtelier, aumentar a temperatura favorece o sentido endotérmico, que aqui é o inverso. O equilíbrio se desloca para a esquerda e a **produção de H₂ diminui**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Fórmula eletrônica de Lewis do acetileno (ligação tripla entre os carbonos, cada carbono ligado a um hidrogênio):\n\nH : C ::: C : H\n\nHá três pares de elétrons compartilhados entre os dois carbonos (ligação tripla, H–C≡C–H) e um par entre cada carbono e seu hidrogênio; cada carbono fica com o octeto completo.\n\nO CO₂ (O=C=O) tem **geometria linear**: o carbono central não tem pares isolados e forma duas ligações duplas, com ângulo de 180°.\n\n**b)** Equação balanceada:\n\n2 C₂H₂ (g) + 5 O₂ (g) → 4 CO₂ (g) + 2 H₂O (g)\n\nou C₂H₂ + 5/2 O₂ → 2 CO₂ + H₂O\n\nMassa molar do C₂H₂ = 2 · 12 + 2 · 1 = 26 g/mol\n\nn(C₂H₂) = 1 000 g ÷ 26 g/mol ≈ 38,5 mol\n\nn(O₂) = 38,5 · 5/2 ≈ 96,2 mol\n\nV(O₂) = 96,2 mol · 25 L/mol ≈ **2,4 · 10³ L** (cerca de 2 404 L)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** Semirreação de redução:\n\nCrˣ⁺ (aq) + x e⁻ → Cr (s)\n\nA deposição do cromo metálico ocorreu no **cátodo**, o eletrodo onde ocorre a redução (ligado ao polo negativo da bateria).\n\n**b)** Carga elétrica:\n\nQ = i · t = 0,5 A · (2 · 3 600 s)\n\n**Q = 3 600 C**\n\nMols de elétrons: 3 600 ÷ 96 500 ≈ 0,0373 mol de e⁻\n\nMols de cromo (massa molar ≈ 52 g/mol): 0,65 ÷ 52 = 0,0125 mol de Cr\n\nElétrons por átomo de cromo: x = 0,0373 ÷ 0,0125 ≈ 3\n\n**x = 3**, ou seja, o íon é Cr³⁺.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Número de nêutrons = A − Z = 241 − 95 = **146 nêutrons**.\n\nNo gráfico, o teor de amerício-241 cai de 100% para cerca de 50% em aproximadamente 430 anos, de 50% para 25% em cerca de 860 anos e para 12,5% em cerca de 1 290 anos. A meia-vida é, portanto, de **aproximadamente 430 anos** (valor real ≈ 432 anos).\n\n**b)** Pela equação 1, X tem número de massa 2 + 239 = 241 e número atômico 0 + 94 = 94. Equação 2 balanceada:\n\n²⁴¹₉₄Pu → ²⁴¹₉₅Am + ⁰₋₁β\n\nConferência: massas 241 = 241 + 0; cargas 94 = 95 + (−1).\n\nO radionuclídeo X é o **plutônio-241** (²⁴¹Pu).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**a)** Além do tiol (–SH), a acetilcisteína apresenta as funções **ácido carboxílico** (grupo –COOH) e **amida** (grupo –NH–CO–).\n\n**b)** pH = −log[H⁺]. No pH 1,5, [H⁺] = 10⁻¹·⁵ mol/L; no pH 2,5, [H⁺] = 10⁻²·⁵ mol/L.\n\n10⁻¹·⁵ ÷ 10⁻²·⁵ = 10¹\n\nAo ir do início ao final da faixa, a concentração de H⁺ varia **10 vezes** (diminui 10 vezes).\n\nSolução saturada a 20 °C:\n\nC = 1,8 · 10² g/L ÷ 1,6 · 10² g/mol\n\n**C ≈ 1,1 mol/L** (1,125 mol/L)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** Pelo gráfico, a densidade varia linearmente com a pressão: cerca de 1 028 kg/m³ na superfície (p = 0) e 1 051 kg/m³ em p = 5 · 10⁷ N/m². Para d = 1 035 kg/m³, a pressão hidrostática lida no gráfico é cerca de **1,5 · 10⁷ N/m²**.\n\nComo a densidade varia pouco, usa-se p = d · g · h com a densidade média da coluna, ≈ (1 028 + 1 035) ÷ 2 ≈ 1 031,5 kg/m³:\n\nh = p ÷ (d · g) = 1,5 · 10⁷ ÷ (1 031,5 · 10)\n\n**h ≈ 1,45 · 10³ m** (cerca de 1 450 m; com d = 1 035 kg/m³ obtém-se praticamente o mesmo valor)\n\n**b)** Para p = 3,5 · 10⁷ N/m², o gráfico indica densidade de aproximadamente **1 044 kg/m³**.\n\nE = d · V · g = 1 044 · 40 · 10\n\n**E ≈ 4,2 · 10⁵ N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** Um intervalo de 1 °C corresponde a um intervalo de 1 K, então o coeficiente é o mesmo:\n\n**γ = 27 · 10⁻⁶ K⁻¹**\n\nUm intervalo de 1 °C equivale a 1,8 °F (ΔθF = 1,8 · ΔθC). Como ΔV = V₀ · γ · Δθ deve dar o mesmo resultado nas duas escalas:\n\nγ(°F⁻¹) = 27 · 10⁻⁶ ÷ 1,8\n\n**γ = 15 · 10⁻⁶ °F⁻¹** (1,5 · 10⁻⁵ °F⁻¹)\n\n**b)** O volume transbordado mede a dilatação aparente do líquido:\n\nΔV(ap) = V₀ · γ(ap) · Δθ\n\n6 = 500 · γ(ap) · (75 − 15)\n\nγ(ap) = 6 ÷ 30 000 = 2,0 · 10⁻⁴ °C⁻¹\n\nA dilatação real é a aparente somada à do recipiente:\n\nγ(real) = γ(ap) + γ(vidro) = 200 · 10⁻⁶ + 27 · 10⁻⁶\n\n**γ(real) = 2,27 · 10⁻⁴ °C⁻¹**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** Desenho: a imagem L₁, formada por E₁, fica atrás de E₁, na mesma vertical de L, 30 cm abaixo do espelho (simétrica de L). A imagem L₂, formada por E₂, fica atrás de E₂, na mesma horizontal de L, 40 cm à esquerda do espelho. Cada imagem é virtual, do mesmo tamanho, e simétrica do objeto em relação ao respectivo espelho.\n\nTomando o vértice comum dos espelhos como origem: L está em (40; 30), L₁ em (40; −30) e L₂ em (−40; 30). As imagens estão separadas por 80 cm na horizontal e 60 cm na vertical:\n\nd = √(80² + 60²) = √10 000\n\n**d = 100 cm**\n\n**b)** Um raio que, após refletir em um espelho convexo, sai paralelo ao eixo principal é aquele cuja direção de incidência passa pelo foco principal F. O raio parte de L a 45°, desce 30 cm até E₁ (deslocando-se 30 cm na horizontal) e, refletido, sobe a 45°. Seu prolongamento volta a atingir o eixo principal (30 cm acima de E₁) após mais 30 cm na horizontal. Assim, ele cruza o eixo a 30 + 30 = 60 cm à esquerda de L, ou seja, 60 − 40 = 20 cm além do vértice V, onde está F.\n\n**|f| = 20 cm**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Pelo gráfico, o barco volta à altura máxima (14 m) a cada 20 s, logo o período é T = 20 s:\n\nf = 1 ÷ T = 1 ÷ 20\n\n**f = 0,05 Hz**\n\nNa figura, 150 m é a distância horizontal entre uma crista e o vale seguinte, que corresponde a meio comprimento de onda: λ = 2 · 150 = 300 m.\n\nv = λ · f = 300 · 0,05\n\n**v = 15 m/s**\n\n**b)** O barco sobe de h = 10 m para h = 14 m (Δh = 4 m). Na subida, o peso realiza trabalho resistente:\n\nτ(peso) = −m · g · Δh = −500 · 10 · 4\n\n**τ = −2,0 · 10⁴ J**\n\nA amplitude é metade da distância entre as posições extremas:\n\nA = (14 − 10) ÷ 2\n\n**A = 2 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Com a chave aberta, o ramo de Rₓ não conduz. R₂ está ligado diretamente aos terminais do gerador ideal e não interfere no restante; R₁, o amperímetro e R₃ ficam em série. A indicação do voltímetro é a tensão em R₃:\n\ni = U ÷ R₃ = 15 ÷ 50\n\n**i = 0,3 A** (indicação do amperímetro)\n\nP(R₁) = R₁ · i² = 40 · 0,3²\n\n**P = 3,6 W**\n\n**b)** Com a chave fechada, Rₓ fica em paralelo com R₃, esse conjunto em série com R₁, e tudo em paralelo com R₂ (todos entre os terminais do gerador):\n\nR(eq) = R₂ ∥ [R₁ + (Rₓ ∥ R₃)] = 40 Ω\n\nComo R₂ = 80 Ω, o outro ramo também deve valer 80 Ω (dois resistores iguais em paralelo dão metade):\n\nR₁ + (Rₓ ∥ R₃) = 80 → Rₓ ∥ R₃ = 40 Ω\n\n50 · Rₓ ÷ (50 + Rₓ) = 40\n\n50 Rₓ = 2 000 + 40 Rₓ\n\n**Rₓ = 200 Ω**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Como há um prisma para cada combinação, o total é 2 · 4 · 4 · 5 = 160 prismas, e cada característica é independente das outras.\n\nP(plástico) = 1/2 e P(não azul) = 3/4\n\nP = 1/2 · 3/4\n\n**P = 3/8** (37,5%)\n\n**b)** Para diferir do prisma de referência (heptagonal, 20 cm, verde, acrílico) em exatamente duas características, escolhe-se o par de características que muda; cada uma que muda tem (número de opções − 1) possibilidades e as outras ficam iguais. Opções alternativas: material 1, altura 3, cor 3, base 4.\n\nmaterial e altura: 1 · 3 = 3\n\nmaterial e cor: 1 · 3 = 3\n\nmaterial e base: 1 · 4 = 4\n\naltura e cor: 3 · 3 = 9\n\naltura e base: 3 · 4 = 12\n\ncor e base: 3 · 4 = 12\n\nTotal: 3 + 3 + 4 + 9 + 12 + 12 = **43 prismas**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** M₄ = (62 + 75 + 62 + 89) ÷ 4 = 288 ÷ 4 = 72 pontos.\n\nNos 10 primeiros jogos, as pontuações maiores que 72 são 75, 89, 78, 86 e 87. O time venceu **5 jogos**.\n\n**b)** Total dos 10 primeiros jogos:\n\n62 + 75 + 62 + 89 + 78 + 51 + 86 + 63 + 87 + 47 = 700 pontos\n\nNos 10 últimos jogos (11º ao 20º), PA de razão 6 com primeiro termo a₁ (pontos do 11º jogo):\n\nS₁₀ = 10 · a₁ + (10 · 9 ÷ 2) · 6 = 10a₁ + 270\n\n10a₁ + 270 = 700 → a₁ = 43\n\nO 16º jogo é o 6º termo da PA:\n\na₆ = 43 + 5 · 6\n\n**73 pontos**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Os triângulos PAQ, QTR e RCS são retângulos e semelhantes (PS faz o mesmo ângulo θ com as retas horizontais PB, QT e DS). Os catetos horizontais valem hipotenusa · cos θ e os verticais, hipotenusa · sen θ.\n\n**a)** No triângulo PAQ: cos θ = PA ÷ PQ = 9 ÷ 10 = 0,9.\n\nO lado do quadrado é igual a QT (A e B estão na mesma horizontal, Q e T também):\n\nQT = QR · cos θ = 12 · 0,9 = 10,8 cm\n\nÁrea = 10,8² = **116,64 cm²**\n\n**b)** Com RS = 14 cm, o lado vertical BC é a soma dos catetos verticais dos três triângulos (BT = AQ):\n\nℓ = AQ + TR + RC = (10 + 12 + 14) · sen θ = 36 sen θ\n\nO lado horizontal é ℓ = QT = 12 cos θ. Igualando: 36 sen θ = 12 cos θ → tg θ = 1/3.\n\nEntão sen θ = 1/√10 e cos θ = 3/√10.\n\nQT = 12 · 3/√10 = 36/√10 cm e TR = 12 · 1/√10 = 12/√10 cm\n\nÁrea(QRT) = (QT · TR) ÷ 2 = (36 · 12 ÷ 10) ÷ 2\n\n**Área = 21,6 cm²**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Ponto de interseção de g e h:\n\n−x + 2 = x − 6 → 2x = 8 → p = 4\n\nf(4) = 4 − 6 = −2\n\nPelo gráfico, esse é o ponto mais baixo: para x < 4, f(x) = −x + 2 > −2; entre 4 e 9, f cresce de −2 até 3; para x ≥ 9, a parábola tem mínimo 0 (em x = 12) e cresce sem limite. Logo, a imagem é\n\n**Im(f) = [−2, +∞[**\n\n**b)** A parábola tem vértice em (12, 0), tangente ao eixo x, então f(x) = a(x − 12)² para x ≥ 9.\n\nf(9) = a · (9 − 12)² = 9a = 3 → a = 1/3\n\nf(21) = (1/3) · (21 − 12)² = 81 ÷ 3\n\n**f(21) = 27**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Sejam s₂ o lado de Q₂ e s₁ o lado de Q₁. O lado do quadrado ABCD é s₁ + s₂. Com origem em D, o vértice comum de Q₁ e Q₂ está a s₂ de DA na horizontal e a s₁ de DC na vertical. Como α é o ângulo entre DA (vertical) e o segmento que liga D a esse vértice:\n\ntg α = s₂ ÷ s₁\n\n**a)** s₂² = 2 · s₁² → s₂ ÷ s₁ = √2\n\n**tg α = √2**\n\n**b)** tg 60° = √3 → s₂ = √3 · s₁\n\ns₁² = 48 → s₁ = 4√3 cm\n\ns₂ = √3 · 4√3 = 12 cm\n\nLado de ABCD = 12 + 4√3 cm\n\nPerímetro = 4 · (12 + 4√3)\n\n**Perímetro = 48 + 16√3 cm** (≈ 75,7 cm)",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

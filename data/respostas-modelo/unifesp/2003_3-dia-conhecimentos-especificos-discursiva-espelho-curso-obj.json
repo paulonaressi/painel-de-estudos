@@ -1,0 +1,132 @@
+{
+ "indice": "data/questoes/unifesp/2003_3-dia-conhecimentos-especificos-discursiva-espelho-curso-obj.json",
+ "gerado_em": "2026-11-06",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**a)** **Gráfico A:** planta de **ambiente frio ou temperado** (por exemplo, tundra, taiga ou floresta temperada): a fotossíntese é máxima por volta de 20 °C, mesmo quando a planta se desenvolve a 40 °C, e cai muito acima de 40 °C.\n\n**Gráfico B:** planta de **ambiente quente**, como a **floresta tropical**: quando desenvolvida a 45 °C, tem taxas altas e ótimo perto de 40 °C.\n\n**Gráfico C:** planta de **deserto**, ambiente de grande amplitude térmica: ela se ajusta tanto a 20 °C quanto a 45 °C, mantendo taxas parecidas em temperaturas bem diferentes.\n\n**b)** Por ser planta de deserto (clima seco), suas folhas devem ter adaptações contra a perda de água: **cutícula espessa** e cerosa; **estômatos em pequeno número**, situados em reentrâncias (criptas) ou na face inferior; **folhas reduzidas** (área pequena) ou transformadas em espinhos; presença de **pelos** (tricomas) e de parênquima aquífero.",
+   "confianca": "media",
+   "pendencia": "A associação dos gráficos a biomas é interpretativa; outras correspondências bem justificadas (por exemplo, B como deserto quente e C como cerrado/savana) também podem ser aceitas. As características do item b valem para ambientes secos."
+  },
+  "0:2": {
+   "resposta": "**a)** Os fagos produzidos terão a **cápsula proteica do fago T4** e o **DNA do fago T4**.\n\n**b)** Na infecção, o bacteriófago injeta apenas o seu **DNA** na bactéria; a cápsula proteica fica do lado de fora. É o DNA que contém as informações genéticas e comanda, dentro da bactéria, a replicação de novas moléculas de DNA e a síntese das proteínas virais. Como o DNA injetado é de T4, todos os fagos formados terão DNA e cápsula de T4; a cápsula de T2 não é transmitida (como mostrou o experimento de Hershey e Chase).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** **Estrogênio e progesterona: baixos**. **FSH e LH: altos** (elevados em relação ao período reprodutivo).\n\n**b)** Estrogênio e progesterona são produzidos pelos folículos e pelo corpo lúteo do ovário. Com a falência ovariana na menopausa, essa produção cai. Normalmente, esses hormônios exercem **retroalimentação negativa** sobre o hipotálamo e a hipófise, inibindo a liberação de FSH e LH. Sem essa inibição, a hipófise passa a secretar grandes quantidades de **FSH e LH**, que, porém, não encontram folículos capazes de responder.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** Descrição do heredograma pintado:\n\n**F1:** todos os quatro filhos de A são afetados: as duas filhas (a mulher do 1º casal e a do 2º casal) e os dois filhos (o homem do 3º casal e o do 4º casal). Os cônjuges que entram na família são normais.\n\n**F2:** são afetados apenas os filhos das filhas de A: a menina do 1º casal e a menina e o menino do 2º casal. Os filhos dos homens de F1 (a menina do 3º casal, o menino e a menina do 4º casal) são normais.\n\n**b)** As mitocôndrias do zigoto vêm todas do **óvulo** (as do espermatozoide não são transmitidas); a herança mitocondrial é **materna**. Como A tem a mutação em todas as mitocôndrias, transmite-a a todos os seus filhos, de ambos os sexos. Na geração seguinte, só as mulheres afetadas passam a mutação aos filhos; os homens afetados não a transmitem, e seus filhos recebem as mitocôndrias normais das mães.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** DNA → (transcrição, no núcleo, pela RNA-polimerase) → RNA mensageiro → (tradução, no citoplasma, nos ribossomos: cada códon do RNAm é reconhecido pelo anticódon de um RNA transportador, que traz o aminoácido correspondente) → sequência de aminoácidos unidos por ligações peptídicas → proteína.\n\n**b)** Não é possível chegar à sequência exata de DNA. O código genético é **degenerado**: a maioria dos aminoácidos é codificada por mais de um códon, de modo que uma mesma proteína pode corresponder a muitas sequências de bases diferentes. Além disso, partes do gene não aparecem na proteína (íntrons, regiões reguladoras, códon de parada). A partir da proteína só se deduzem sequências possíveis, não a que de fato a gerou.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "**a)** Anfíbios (adultos): 3 câmaras (2 átrios e 1 ventrículo). Répteis não crocodilianos: 3 câmaras (2 átrios e 1 ventrículo parcialmente dividido). Aves: 4 câmaras (2 átrios e 2 ventrículos). Mamíferos: 4 câmaras (2 átrios e 2 ventrículos).\n\n**b)** Com quatro câmaras, o coração separa completamente o sangue venoso (lado direito) do arterial (lado esquerdo), sem mistura. Os tecidos recebem sangue rico em oxigênio e sob pressão elevada, o que sustenta uma **taxa metabólica alta**. É esse metabolismo intenso, com grande produção de calor pela respiração celular, que permite manter a temperatura corporal constante (endotermia), característica de aves e mamíferos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** Sem o HIV, Botsuana teria a pirâmide típica de um país em desenvolvimento, com natalidade e mortalidade altas: **base larga** (muitas crianças e jovens) e faixas que se estreitam regularmente com o aumento da idade, até um topo bem estreito (poucos idosos), simétrica entre homens e mulheres.\n\n**b)** Em 2020, a geração que hoje tem 20 a 30 anos (com quase 40% de infectados, sem acesso a tratamento) estará com cerca de 38 a 48 anos e muito reduzida pelas mortes por AIDS: a pirâmide fica com um **estrangulamento** nas faixas adultas, e as faixas jovens adultas continuam sendo atingidas, já que a taxa de infecção se mantém. Como a doença atinge justamente quem está em idade de ter filhos (18 a 30 anos), nascem menos crianças e parte delas é infectada pela mãe: a **base se estreita**. O esquema mostra base mais estreita que a do item a, faixas adultas encolhidas e topo reduzido.",
+   "confianca": "media",
+   "pendencia": "A questão pede desenhos de pirâmides; aqui eles foram descritos em texto. Confira no seu esquema a base estreitada e o estreitamento das faixas adultas."
+  },
+  "0:8": {
+   "resposta": "**a)** n(NH₃) = 1,70 g ÷ 17 g/mol = 0,100 mol\n\nn(O₂) = 4,00 g ÷ 32 g/mol = 0,125 mol\n\nProporção NH₃ : O₂ = 0,100 : 0,125 = 4 : 5. Balanceando os produtos (NO e H₂O):\n\n4 NH₃(g) + 5 O₂(g) → 4 NO(g) + 6 H₂O(g)\n\n**b)** Etapa II: 2 NO(g) + O₂(g) → 2 NO₂(g)\n\nEtapa III: 3 NO₂(g) + H₂O(l) → 2 HNO₃(aq) + NO(g)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**a)** Proporção 1:4 em massa em 100 g: 20 g de fenolftaleína e 80 g de α-lactose monoidratada.\n\nO etanol não dissolve a lactose; o sólido retido (80 g) recebe 100 mL de água a 80 °C, que dissolvem até 95 g: os 80 g se dissolvem.\n\nAo resfriar a 25 °C, só 25 g permanecem dissolvidos em 100 mL.\n\nMassa que cristaliza = 80 g − 25 g = **55 g de lactose**.\n\n**b)** Solubilidade da fenolftaleína em etanol a 25 °C: 6,7 g/100 mL. Em 350 mL: 6,7 × 3,5 ≈ 23,5 g, mais que os 20 g presentes; o volume **é suficiente** para dissolver toda a fenolftaleína.\n\nO etanol é miscível com a água em qualquer proporção. Ao adicionar água à solução alcoólica (já concentrada por evaporação), o solvente passa a ser uma mistura com muita água, na qual a fenolftaleína é praticamente insolúvel; sua solubilidade cai abaixo da quantidade dissolvida e ela **cristaliza**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**Experiência I (titulação):** os ácidos são monopróticos, têm a mesma concentração e o mesmo volume, logo a mesma quantidade em mol de H⁺ ionizável. Ambos consomem **o mesmo volume** de NaOH até o ponto de equivalência (o ácido fraco se ioniza à medida que é neutralizado). O resultado não permite distinguir as soluções (só o pH no ponto de equivalência, e por isso o indicador, é diferente).\n\n**Experiência II (calor de neutralização):** para o ácido forte, totalmente ionizado, o calor liberado corresponde apenas a H⁺ + OH⁻ → H₂O (cerca de 57 kJ por mol de água). No ácido fraco, parte da energia é consumida na ionização do ácido, que ocorre durante a neutralização; o calor liberado é **menor**. O resultado permite distinguir: a solução que libera menos calor é a do ácido fraco.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "**a)** No paládio (cátodo, polo negativo) ocorre a redução da água pesada:\n\n2 D₂O(l) + 2 e⁻ → D₂(g) + 2 OD⁻(aq)\n\n(ou, de forma simplificada, 2 D⁺ + 2 e⁻ → D₂).\n\nO núcleo do hidrogênio comum (¹H) tem apenas 1 próton; o do deutério (²H) tem 1 próton e **1 nêutron**. São isótopos: mesmo número atômico, número de massa diferente.\n\n**b)** ²₁D + ²₁D → ³₂He + ¹₀n + energia\n\nImportância: a fusão libera grande quantidade de energia, e o combustível (deutério) é abundante e obtido da água. Conseguir a fusão em condições ambientes dispensaria as temperaturas de milhões de graus exigidas pela fusão convencional, o que tornaria viável uma fonte de energia barata, abundante e com pouco rejeito radioativo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**a)** O composto com carbono quiral é o 2-bromobutano:\n\nCH₃–CHBr–CH₂–CH₃\n\nNa eliminação com KOH alcoólico a quente, sai HBr (H do carbono vizinho mais hidrogenado é removido com menos facilidade, regra de Saytzeff) e forma-se principalmente o but-2-eno, que tem isômeros cis e trans:\n\nCH₃–CHBr–CH₂–CH₃ + KOH → CH₃–CH=CH–CH₃ + KBr + H₂O\n\n**b)** Além da isomeria óptica, o C₄H₉Br apresenta isomeria plana de **posição** e de **cadeia**. Exemplos:\n\n1-bromobutano: CH₃–CH₂–CH₂–CH₂Br (posição)\n\n2-bromo-2-metilpropano: (CH₃)₃C–Br (cadeia)\n\n(Também vale o 1-bromo-2-metilpropano, (CH₃)₂CH–CH₂Br.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**a)** As incrustações são depósitos de **carbonato de cálcio** (CaCO₃, calcário) nas paredes de caldeiras e canos. Com o aquecimento, a solubilidade do CO₂ na água diminui e o gás escapa; a retirada de CO₂ desloca o equilíbrio para a esquerda:\n\nCa²⁺(aq) + 2 HCO₃⁻(aq) → CaCO₃(s) + H₂O(l) + CO₂(g)\n\nO CaCO₃, pouco solúvel, precipita e se acumula.\n\n**b)** Sabão: sal de ácido graxo, R–COO⁻ Na⁺ (ou K⁺), em que R é uma cadeia carbônica longa (cerca de 12 a 18 carbonos).\n\nNa água dura, os íons Ca²⁺ (e Mg²⁺) reagem com o ânion do sabão formando sais insolúveis:\n\n2 R–COO⁻ + Ca²⁺ → (R–COO)₂Ca(s)\n\nO sabão precipita (a \"borra\"), deixa de formar micelas e espuma e perde a ação de limpeza; gasta-se mais sabão.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**a)** Lançamento horizontal de h = 1,25 m.\n\nQueda: h = g·t²/2 → 1,25 = 5·t² → t = 0,5 s\n\nHorizontal: v = Δx/t = 5,0 ÷ 0,5 = **10 m/s**\n\n**b)** Na frenagem com rodas travadas, a única força horizontal é o atrito:\n\na = μ·g = 0,7 × 10 = 7 m/s² (desaceleração)\n\nTorricelli, com velocidade final de 15 m/s após 12,5 m:\n\nv² = v₀² − 2·a·d → 15² = v₀² − 2·7·12,5\n\nv₀² = 225 + 175 = 400 → v₀ = **20 m/s** (72 km/h)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**a)** Tomando como referência o ponto em que a pedra é solta, a energia elástica vira energia potencial gravitacional e cinética no ponto da fruta:\n\nE_el = m·g·H + m·v²/2\n\n30,3 = 0,15·10·H + 0,15·2²/2\n\n30,3 = 1,5·H + 0,3 → H = **20 m**\n\n**b)** A força elástica atua enquanto os elásticos voltam ao tamanho natural, ao longo de 0,20 m de subida. Velocidade da pedra ao deixar o estilingue:\n\n30,3 = 0,15·10·0,20 + 0,15·v²/2\n\n30,0 = 0,075·v² → v = 20 m/s\n\nDesprezando o impulso do peso nesse intervalo muito curto, o impulso da força elástica é igual à variação da quantidade de movimento:\n\nI = m·Δv = 0,15 × 20 = **3,0 N·s**, vertical para cima.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**a)** Ao abrir a porta, entra ar quente; ao fechá-la, esse ar é resfriado a volume constante e sua **pressão cai** abaixo da pressão atmosférica externa. A diferença de pressão produz uma força resultante que empurra a porta contra o freezer, dificultando a abertura. Depois de alguns instantes, ar externo entra pelas frestas da vedação, as pressões se igualam e a porta abre com facilidade.\n\n**b)** Transformação isovolumétrica: p₁/T₁ = p₂/T₂\n\nT₁ = 27 + 273 = 300 K; T₂ = −3 + 273 = 270 K\n\np₂ = 1,0·10⁵ × 270/300 = 0,9·10⁵ N/m²\n\nΔp = 1,0·10⁵ − 0,9·10⁵ = 1,0·10⁴ N/m²\n\nÁrea da porta: A = 0,60 × 1,0 = 0,60 m²\n\nF = Δp·A = 1,0·10⁴ × 0,60 = **6,0·10³ N**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**a)** Na figura 2 os olhos aparecem **maiores** através dos óculos: a imagem é direita e ampliada, o que ocorre com lente **convergente** quando o objeto está entre a lente e o foco. Lentes convergentes corrigem a **hipermetropia** (ou a presbiopia), defeito provável do Nicodemus.\n\n**b)** Aumento linear: A = 1,25 (imagem 25% maior, direita); p = 2 cm.\n\nA = f/(f − p) → 1,25 = f/(f − 2)\n\n1,25·f − 2,5 = f → 0,25·f = 2,5 → f = 10 cm = 0,10 m\n\nVergência: V = 1/f = 1/0,10 = **+10 di**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**a)** Potências: P = U²/R.\n\nPosição II: P = 220²/11 = 4 400 W\n\nPosição I: P = 220²/20 = 2 420 W\n\nTempo por mês: 30 × 20 min = 600 min = 10 h\n\nE(II) = 4,4 kW × 10 h = 44 kWh; E(I) = 2,42 kW × 10 h = 24,2 kWh\n\nEconomia = 44 − 24,2 = **19,8 kWh**\n\n**b)** Na posição II, toda a energia de um banho aquece a água de 25 °C para 40 °C:\n\nE = P·Δt = 4 400 × 1 200 s = 5,28·10⁶ J\n\nm = E/(c·ΔT) = 5,28·10⁶ / (4 000 × 15) = 88 kg → 88 L\n\nEconomia = 88 L − 48 L = **40 L** por banho.\n\n(Pela proporção entre as potências, 48 × 4 400/2 420 ≈ 87 L, economia ≈ 39 L; o valor esperado é cerca de 40 L.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**a)** Corrente: i = U/R = 6,0 ÷ 0,2 = 30 A\n\nCampo de um fio retilíneo longo: B = μ·i/(2π·d)\n\nB = 4π·10⁻⁷ × 30 / (2π × 1,0·10⁻¹)\n\nB = **6,0·10⁻⁵ T**\n\n**b)** O campo do fio, no centro da bússola, é horizontal e perpendicular à direção Norte-Sul (aponta para Oeste); o campo da Terra aponta para o Norte. A agulha se alinha com a resultante, que forma 60° com o Norte:\n\ntg 60° = B_fio / B_Terra\n\nB_Terra = 2√3·10⁻⁵ / √3 = **2·10⁻⁵ T**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**a)** Raio: OA = √(1² + 2²) = √5. Por simetria em relação a Oy e a Ox, e sendo C e F as interseções com o eixo Ox:\n\nB = (−1, 2); C = (−√5, 0); D = (−1, −2); E = (1, −2); F = (√5, 0)\n\nO hexágono é formado por dois trapézios iguais (acima e abaixo de Ox), cada um com bases CF = 2√5 e AB = 2 e altura 2:\n\nÁrea = 2 × (2√5 + 2)·2/2 = **4(√5 + 1)** ≈ 12,9 unidades de área\n\n**b)** Com OA = (1, 2) e OB = (−1, 2):\n\ncos AÔB = (1·(−1) + 2·2) / (√5·√5) = 3/5\n\ncos AÔB = **3/5**\n\n(Também pela lei dos cossenos no triângulo AOB, com AB = 2: 4 = 5 + 5 − 10·cos AÔB.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**a)** Área = log₁₀ t = 2 → t = 10² = **100**\n\n**b)** Pelo enunciado, a área hachurada entre 1 e t vale log₁₀ t (t > 1). Então:\n\nárea B = log a; área C = log b; área D = log(ab)\n\nPela propriedade do logaritmo do produto:\n\nlog a + log b = log(a·b)\n\nLogo, área B + área C = área D (com a > 1 e b > 1, o que garante ab > 1).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**a)** Volume do cilindro: V = π·r²·h = 3,14 × 15² × 50 = 35 325 cm³ = 35,325 L\n\nÁgua = 35,325 − 1 = **34,325 L** (34 325 cm³)\n\n**b)** Para transbordarem 2 L, a esfera deve ocupar o 1 L vazio mais os 2 L que saem: V_esfera = 3 L = 3 000 cm³.\n\n(4/3)·π·R³ = 3 000\n\nR³ = 9 000 / (4 × 3,14) ≈ 716,6\n\nR = ∛(2 250/π) ≈ **8,95 cm** (cerca de 9 cm)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**a)** O casal se encontra em P quando o tempo decorrido é múltiplo de 18 min (ela) e de 12 min (ele) ao mesmo tempo, ou seja, múltiplo de mmc(18, 12) = 36 min.\n\nEm 120 min: 36, 72 e 108 min → **3 vezes**.\n\n**b)** f(x) = número de múltiplos de mmc(12, x) entre 1 e 120 minutos, com x natural de 18 a 25:\n\nx = 18: mmc 36 → f = 3\n\nx = 19: mmc 228 → f = 0\n\nx = 20: mmc 60 → f = 2 (60 e 120 min)\n\nx = 21: mmc 84 → f = 1\n\nx = 22: mmc 132 → f = 0\n\nx = 23: mmc 276 → f = 0\n\nx = 24: mmc 24 → f = 5 (24, 48, 72, 96, 120)\n\nx = 25: mmc 300 → f = 0\n\nO gráfico é formado só por esses 8 pontos isolados (função de domínio discreto, sem ligar os pontos): (18, 3), (19, 0), (20, 2), (21, 1), (22, 0), (23, 0), (24, 5), (25, 0).",
+   "confianca": "media",
+   "pendencia": "Contamos o encontro exatamente no fim das duas horas (120 min); se ele não for considerado, f(20) = 1 e f(24) = 4. O gráfico pedido foi descrito pelos pontos."
+  },
+  "0:24": {
+   "resposta": "**a)** A reta que define α corta o eixo das cotangentes (y = 1) em A = (cotg α, 1) e o eixo das tangentes (x = 1) em C = (1, tg α); B = (1, 1). O triângulo ABC é retângulo em B, com catetos:\n\nAB = 1 − cotg α; BC = tg α − 1\n\nPara α = π/3: AB = 1 − √3/3; BC = √3 − 1\n\nÁrea = (1 − √3/3)(√3 − 1)/2 = (√3 − 1)²/(2√3) = (4 − 2√3)/(2√3)\n\nÁrea = **(2√3 − 3)/3** ≈ 0,155\n\n**b)** Para π/4 < α < π/2 (tg α > 1 > cotg α):\n\nS(α) = (1 − cotg α)(tg α − 1)/2\n\nComo tg α · cotg α = 1:\n\nS(α) = (tg α + cotg α − 2)/2\n\nE, sendo tg α + cotg α = 1/(sen α·cos α) = 2/sen 2α:\n\n**S(α) = 1/sen 2α − 1**\n\n(Confere com o item a: 2/√3 − 1 = (2√3 − 3)/3.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "**a)** x embalagens de 30 g e y de 50 g:\n\n30x + 50y = 310 → 3x + 5y = 31\n\n10x + 15y = 100 → 2x + 3y = 20\n\nMultiplicando: 6x + 10y = 62 e 6x + 9y = 60 → y = 2; então x = 7.\n\nResposta: **7 embalagens de 30 g e 2 de 50 g** (210 g + 100 g = 310 g; 70 + 30 = 100 reais).\n\n**b)** A embalagem de 50 g rende 50/15 ≈ 3,33 g por real, mais que a de 30 g (3 g por real); convém comprar o máximo de embalagens de 50 g e usar o troco nas de 30 g, com 10x + 15y ≤ 100:\n\ny = 6 (90 reais) e x = 1 (10 reais): 300 + 30 = 330 g\n\nOutras combinações dão menos (y = 5, x = 2: 310 g; y = 4, x = 4: 320 g; x = 10: 300 g).\n\nQuantidade máxima: **330 g**.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

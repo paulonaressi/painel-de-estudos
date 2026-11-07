@@ -30,7 +30,7 @@ RE_APOIO = re.compile(r'quest[õo]es\s+(?:de\s+)?(?:n[úu]meros?\s+|n[ºo]s?\.?\
 RE_APOIO_UNICA = re.compile(r'para\s+responder\s+(?:à|a)\s+quest[ãa]o\s+(?:n[ºo]\.?\s*)?0*(\d{1,3})\b', re.I)
 RE_APOIO_VERBO = re.compile(r'respond|leia|considere|examine|analise|observe|refere|texto|utilize|base|focaliz|instru[çc][ãa]o', re.I)
 RE_REDACAO = re.compile(r'^(proposta de )?reda[çc][ãa]o$|^instru[çc][õo]es para a reda[çc][ãa]o', re.I)
-RE_FIM = re.compile(r'^(classifica[çc][ãa]o peri[óo]dica|n[ãa]o assine esta folha|folha de rascunho|rascunho da reda[çc][ãa]o|transcreva a sua reda[çc][ãa]o|rascunho$)', re.I)
+RE_FIM = re.compile(r'^(classifica[çc][ãa]o peri[óo]dica|formul[áa]rio de f[íi]sica|n[ãa]o assine esta folha|folha de rascunho|rascunho da reda[çc][ãa]o|transcreva a sua reda[çc][ãa]o|rascunho$)', re.I)
 RE_CAIXA = re.compile(r'^resolu[çc][ãa]o( e resposta)?$', re.I)
 RE_FAIXA_ENEM = re.compile(r'^(ENEM\d{4}){3,}')
 
@@ -260,6 +260,8 @@ def preparar(doc):
                 if proprias:
                     marca_dir = min(proprias)
             esq = esq_par - 8
+            if marca_esq is not None:
+                esq = min(esq, marca_esq - 3)  # número da questão pendurado na margem (Unifesp 2003–2004: "01.")
             if marca_esq is None or marca_dir is None:
                 divisa = (esq_par + dir_par) / 2
             else:
@@ -285,6 +287,9 @@ def achar_inicios(paginas):
         texto_pagina = ' '.join(ln['texto'] for ln in p.corpo)
         # página em branco ou de rascunho encerra o que vinha antes (uma questão de enunciado curto não é "vazia")
         vazia = not tem_questao and (len(texto_pagina) < 40 or (len(texto_pagina) < 130 and p.imagens == 0))
+        # formulário de Física e Matemática no fim do caderno, sem título em texto (Unifesp 2004 e 2005)
+        formulario = not tem_questao and len(p.corpo) >= 10 and sum('=' in ln['texto'] for ln in p.corpo) >= 0.4 * len(p.corpo)
+        vazia = vazia or formulario
         if vazia or any(RE_FIM.match(ln['texto']) for ln in p.corpo):
             inicios.append({'tipo': 'fim', 'pag': p.numero, 'col': 0, 'y': p.topo, 'parte': parte})
             continue

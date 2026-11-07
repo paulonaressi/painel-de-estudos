@@ -23,7 +23,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 RE_MARCA = re.compile(r'^[▪■•◆\s]*quest[ãa]o?\s*0*(\d{1,3})[\s▪■•◆]*$', re.I)
 RE_MARCA_SEM_NUMERO = re.compile(r'^quest[ãa]o?$', re.I)
 RE_NUMERO = re.compile(r'^0*(\d{1,3})$')
-RE_SECAO = re.compile(r'^quest[õo]es\s+de\s+0*(\d{1,3})\s+a\s+0*(\d{1,3})(?:\s*\(op[çc][ãa]o\s+(\w+)\))?\s*$', re.I)
+RE_SECAO = re.compile(r'^quest[õo]es\s+de\s+0*(\d{1,3})\s+a\s+0*(\d{1,3})(?:\s*\(op[çc][ãa]o\s*:?\s*(\w+)\))?\s*$', re.I)
 RE_TITULO_AREA = re.compile(r'TECNOLOGIAS|^CI[ÊE]NCIAS|^MATEM[ÁA]TICA|^LINGUAGENS')
 RE_APOIO = re.compile(r'quest[õo]es\s+(?:de\s+)?(?:n[úu]meros?\s+|n[ºo]s?\.?\s*)?0*(\d{1,3})(?:\s*,\s*0*\d{1,3})*\s*(?:a|e|até|ao)\s+0*(\d{1,3})', re.I)
 # texto de apoio de uma questão só: "...para responder à questão 01" (Unesp 2019, questão 1)
@@ -314,7 +314,7 @@ def achar_inicios(paginas):
                 for acima in p.corpo:  # o título da área fica logo acima de "Questões de 01 a 45"
                     if acima['col'] == ln['col'] and 0 < ln['y0'] - acima['y0'] < 34 and RE_TITULO_AREA.search(acima['texto']):
                         y = min(y, acima['y0'])
-                ini = {'tipo': 'secao', 'y': y - 3, 'idioma': (m.group(3) or '').lower() or None}
+                ini = {'tipo': 'secao', 'y': y - 3, 'idioma': (m.group(3) or '').lower().replace('ê', 'e') or None}
             elif RE_REDACAO.match(texto):
                 ini = {'tipo': 'redacao', 'y': ln['y0'] - 6}
             elif MARCA_POR_NUMERO and RE_DISCIPLINA.match(texto):

@@ -1833,6 +1833,76 @@ window.VUNESP_CATALOGO = {
    "estrutura": "36 questões discursivas (12 Ciências Humanas, 12 Ciências da Natureza e Matemática, 12 Linguagens e Códigos) + redação, 2 dias",
    "cadernos": [
     {
+     "rotulo": "Ciências Humanas",
+     "areas": [
+      "humanas"
+     ],
+     "questoes": "1-12",
+     "local": {
+      "pdf": "provas/unesp/2016-2_ciencias-humanas-oficial.pdf",
+      "indice": "data/questoes/unesp/2016-2_ciencias-humanas-oficial.json",
+      "parte": 0,
+      "numeros": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+       10,
+       11,
+       12
+      ],
+      "redacao": false
+     },
+     "fontes": [
+      {
+       "nome": "web.archive.org",
+       "url": "https://web.archive.org/web/20160806180500id_/http://vestibular.unesp.br:80/pdf/2016M/CI_HUMANAS_CADERNO_UNESPMEIODEANO2016.pdf",
+       "oficial": true,
+       "embutir": true
+      }
+     ]
+    },
+    {
+     "rotulo": "Natureza e Matemática",
+     "areas": [
+      "natureza-matematica"
+     ],
+     "questoes": "13-24",
+     "local": {
+      "pdf": "provas/unesp/2016-2_ciencias-da-natureza-e-matematica-oficial.pdf",
+      "indice": "data/questoes/unesp/2016-2_ciencias-da-natureza-e-matematica-oficial.json",
+      "parte": 0,
+      "numeros": [
+       13,
+       14,
+       15,
+       16,
+       17,
+       18,
+       19,
+       20,
+       21,
+       22,
+       23,
+       24
+      ],
+      "redacao": false
+     },
+     "fontes": [
+      {
+       "nome": "web.archive.org",
+       "url": "https://web.archive.org/web/20160806180505id_/http://vestibular.unesp.br:80/pdf/2016M/CI_NATUREZA_E_MATEM_CADERNO_UNESPMEIODEANO2016.pdf",
+       "oficial": true,
+       "embutir": true
+      }
+     ]
+    },
+    {
      "rotulo": "Questões 25 a 36",
      "areas": [
       "redacao"

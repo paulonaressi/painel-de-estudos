@@ -1006,5 +1006,17 @@
   "bytes": 44936,
   "indice": "data/questoes/unesp/2005-2_3-dia-da-2-fase-lingua-portuguesa-e-redacao-espelho-curso-ob.json",
   "questoes": 10
+ },
+ "https://web.archive.org/web/20160806180500id_/http://vestibular.unesp.br:80/pdf/2016M/CI_HUMANAS_CADERNO_UNESPMEIODEANO2016.pdf": {
+  "arquivo": "provas/unesp/2016-2_ciencias-humanas-oficial.pdf",
+  "bytes": 842960,
+  "indice": "data/questoes/unesp/2016-2_ciencias-humanas-oficial.json",
+  "questoes": 12
+ },
+ "https://web.archive.org/web/20160806180505id_/http://vestibular.unesp.br:80/pdf/2016M/CI_NATUREZA_E_MATEM_CADERNO_UNESPMEIODEANO2016.pdf": {
+  "arquivo": "provas/unesp/2016-2_ciencias-da-natureza-e-matematica-oficial.pdf",
+  "bytes": 1079474,
+  "indice": "data/questoes/unesp/2016-2_ciencias-da-natureza-e-matematica-oficial.json",
+  "questoes": 12
  }
 }

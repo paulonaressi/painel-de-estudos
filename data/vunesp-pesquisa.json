@@ -1123,6 +1123,32 @@
       "estrutura": "36 questões discursivas (12 Ciências Humanas, 12 Ciências da Natureza e Matemática, 12 Linguagens e Códigos) + redação, 2 dias",
       "cadernos": [
         {
+          "rotulo": "Conhecimentos Específicos — Ciências da Natureza e Matemática (oficial, cópia do Internet Archive)",
+          "areas": [
+            "natureza-matematica"
+          ],
+          "questoes": "13-24",
+          "url": "https://web.archive.org/web/20160806180505id_/http://vestibular.unesp.br:80/pdf/2016M/CI_NATUREZA_E_MATEM_CADERNO_UNESPMEIODEANO2016.pdf",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Conhecimentos Específicos — Ciências Humanas (oficial, cópia do Internet Archive)",
+          "areas": [
+            "humanas"
+          ],
+          "questoes": "1-12",
+          "url": "https://web.archive.org/web/20160806180500id_/http://vestibular.unesp.br:80/pdf/2016M/CI_HUMANAS_CADERNO_UNESPMEIODEANO2016.pdf",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null
+        },
+        {
           "rotulo": "Prova da 2ª fase — arquivo único (espelho Curso Objetivo)",
           "areas": [
             "linguagens",
@@ -1152,7 +1178,7 @@
         }
       ],
       "respostas_esperadas": [],
-      "observacoes": "Formato conforme o índice de questões do Curso Objetivo (Humanas 1–12, Natureza/Matemática 13–24, Linguagens 25–36 + redação); a divisão em 2 dias é inferência a partir do padrão do período e da imprensa. Caderno oficial não localizado: o arquivo de vestibular.unesp.br começa em 2019 e, nos códigos VNSP09xx–VNSP20xx testados, as listas de documentos da Vunesp não existem ou não trazem cadernos (ex.: VNSP1308, Vestibular 2014). Nos espelhos (host_oficial=false), áreas e numeração foram inferidas do rótulo/nome do arquivo e do índice de questões do Curso Objetivo; os PDFs não foram abertos."
+      "observacoes": "Cadernos oficiais de Humanas (1–12) e Natureza/Matemática (13–24) recuperados em 07/11/2026 do Internet Archive (cópias de 06/08/2016 de vestibular.unesp.br/pdf/2016M/, hoje fora do ar); Linguagens (25–36) e redação pelo espelho do Curso Objetivo. Formato conforme o índice de questões do Curso Objetivo (Humanas 1–12, Natureza/Matemática 13–24, Linguagens 25–36 + redação); a divisão em 2 dias é inferência a partir do padrão do período e da imprensa. Caderno oficial não localizado: o arquivo de vestibular.unesp.br começa em 2019 e, nos códigos VNSP09xx–VNSP20xx testados, as listas de documentos da Vunesp não existem ou não trazem cadernos (ex.: VNSP1308, Vestibular 2014). Nos espelhos (host_oficial=false), áreas e numeração foram inferidas do rótulo/nome do arquivo e do índice de questões do Curso Objetivo; os PDFs não foram abertos."
     },
     {
       "instituicao": "UNESP",

@@ -314,7 +314,9 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 
 ### Lacunas conhecidas
 
-- Unesp 2016/2: só as questões 25–36 (o arquivo do Objetivo não traz o 1º dia; não há outra cópia).
+- Unesp 2016/2: completa desde 07/11/2026 — Humanas (1–12) e Natureza/Matemática (13–24) são os cadernos
+  oficiais recuperados do Internet Archive (`web.archive.org/web/2016…id_/vestibular.unesp.br/pdf/2016M/…`);
+  o CDX do Archive (`/cdx/search/cdx?url=…/*`) vale para outros arquivos oficiais que saíram do ar.
 - Layout que o extrator não entende, abre como PDF inteiro: Einstein 2018 (provavelmente não é prova da Vunesp). O painel de navegador do app não desenha PDF em iframe; num navegador comum aparece.
 - Sem caderno nenhum: Famema 2023, Famerp 2018 (o Objetivo só tem a resolução).
 - Unifesp 2007: o único caderno discursivo (Objetivo) é um pacote PDF com JavaScript e anexos;

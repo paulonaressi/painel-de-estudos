@@ -28,7 +28,7 @@ RE_TITULO_AREA = re.compile(r'TECNOLOGIAS|^CI[ÊE]NCIAS|^MATEM[ÁA]TICA|^LINGUAG
 RE_APOIO = re.compile(r'quest[õo]es\s+(?:de\s+)?(?:n[úu]meros?\s+|n[ºo]s?\.?\s*)?0*(\d{1,3})(?:\s*,\s*0*\d{1,3})*\s*(?:a|e|até|ao)\s+0*(\d{1,3})', re.I)
 # texto de apoio de uma questão só: "...para responder à questão 01" (Unesp 2019, questão 1)
 RE_APOIO_UNICA = re.compile(r'para\s+responder\s+(?:à|a)\s+quest[ãa]o\s+(?:n[ºo]\.?\s*)?0*(\d{1,3})\b', re.I)
-RE_APOIO_VERBO = re.compile(r'respond|leia|considere|examine|analise|observe|refere|texto|utilize|base|focaliz|instru[çc][ãa]o', re.I)
+RE_APOIO_VERBO = re.compile(r'respond|leia|considere|examine|analise|observe|refere|texto|utilize|base|focaliz|instru[çc][ãa]o|imagem|figura', re.I)
 RE_REDACAO = re.compile(r'^(proposta de )?reda[çc][ãa]o$|^instru[çc][õo]es para a reda[çc][ãa]o', re.I)
 RE_FIM = re.compile(r'^(classifica[çc][ãa]o peri[óo]dica|formul[áa]rio de f[íi]sica|n[ãa]o assine esta folha|folha de rascunho|rascunho da reda[çc][ãa]o|transcreva a sua reda[çc][ãa]o|rascunho$)', re.I)
 RE_CAIXA = re.compile(r'^resolu[çc][ãa]o( e resposta)?$', re.I)

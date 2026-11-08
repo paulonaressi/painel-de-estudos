@@ -932,7 +932,8 @@
 
   // ---------- Vunesp: gabarito das objetivas ----------
   // data/gabaritos/ tem o mesmo formato (indice.json + um arquivo por caderno), com a letra por
-  // "parte:número". Vem das resoluções comentadas do Curso Objetivo: não é gabarito oficial.
+  // "parte:número". As chaves listadas em "oficial" vêm do gabarito da Vunesp (versão do dia da
+  // prova); as demais, das resoluções comentadas do Curso Objetivo (não oficial).
   let listaDeGabaritos = null;
   const gabaritos = new Map();
   function gabaritoDaQuestao(local, numero) {
@@ -955,6 +956,14 @@
     const dados = gabaritos.get(local.indice);
     return (dados && dados.questoes[`${local.parte}:${numero}`]) || null;
   }
+  // 'oficial', 'anulada' ou 'objetivo' (só faz sentido depois que o arquivo do caderno chegou)
+  function origemDoGabarito(local, numero) {
+    const dados = gabaritos.get(local.indice);
+    const chave = `${local.parte}:${numero}`;
+    if (!dados) return null;
+    if ((dados.anuladas || []).includes(chave)) return 'anulada';
+    return (dados.oficial || []).includes(chave) ? 'oficial' : 'objetivo';
+  }
 
   function respostaVunesp() {
     const v = estado.vunesp;
@@ -965,7 +974,11 @@
     const ehRedacao = v.questao === 'redacao';
     const cad = cadernoAtual(ed);
     const gabarito = !ehRedacao && cad && cad.local ? gabaritoDaQuestao(cad.local, v.questao) : null;
-    const objetiva = (ed.formato === 'objetiva' || !!gabarito) && !ehRedacao;
+    const origem = !ehRedacao && cad && cad.local ? origemDoGabarito(cad.local, v.questao) : null;
+    const objetiva = (ed.formato === 'objetiva' || !!gabarito || origem === 'anulada') && !ehRedacao;
+    const notaDoGabarito = origem === 'oficial'
+      ? 'Gabarito oficial da Vunesp (versão do dia da prova, antes dos recursos).'
+      : 'Gabarito tirado da resolução comentada do Curso Objetivo (não é o gabarito oficial da Vunesp).';
 
     const marcarNav = () => {
       const botao = document.querySelector('#q-nav button[aria-current="true"]');
@@ -991,8 +1004,9 @@
             reg.ok
               ? h('p.veredito.ok', null, `Você acertou: ${gabarito}.`)
               : h('p.veredito.bad', null, `Você marcou ${reg.r}. A resposta é ${gabarito}.`),
-            h('p.nota-rodape', null, 'Gabarito tirado da resolução comentada do Curso Objetivo (não é o gabarito oficial da Vunesp).'))
+            h('p.nota-rodape', null, notaDoGabarito))
         : null,
+      origem === 'anulada' ? h('p.veredito.info', { style: 'margin:0 0 12px' }, 'Questão anulada pela Vunesp.') : null,
       campoDeTexto(objetiva ? 'Justificativa' : null, reg.texto,
         ehRedacao ? 'Escreva sua redação…' : 'Escreva sua resposta como escreveria na prova…',
         valor => { store.set(id, { texto: valor }); marcarNav(); },
@@ -1020,7 +1034,7 @@
             h('div.resolucao-texto', { html: md(modelo.resposta) }),
             modelo.confianca !== 'alta' && modelo.pendencia
               ? h('p.resolucao-alerta', null, h('b', null, modelo.confianca === 'baixa' ? 'Atenção. ' : 'Questão discutível. '), modelo.pendencia) : null,
-            h('p.nota-rodape', null, 'Resolução gerada por IA a partir do caderno e do gabarito do Curso Objetivo (não oficial), sem revisão humana. Pode conter erros.'))
+            h('p.nota-rodape', null, `Resolução gerada por IA a partir do caderno e do gabarito ${origem === 'oficial' ? 'oficial da Vunesp' : 'do Curso Objetivo (não oficial)'}, sem revisão humana. Pode conter erros.`))
         : h('p.nota-rodape', { style: 'margin:0 0 12px' }, 'A resolução comentada aparece depois que você conferir a resposta.');
     } else if (modelo && reg.modelo) {
       blocoModelo = h('div.resolucao', null,

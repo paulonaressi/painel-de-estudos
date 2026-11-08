@@ -18,6 +18,11 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "0:4": {
+   "resposta": "Questão sobre os valores da palavra \"se\". É preciso distinguir a conjunção condicional do pronome (reflexivo, parte integrante do verbo, índice de indeterminação ou partícula apassivadora).\n\nEm A, \"tal autor, se não disse a mesma coisa, teve intenção de dizer\", o \"se\" é conjunção e introduz uma hipótese: caso não tenha dito a mesma coisa, ao menos teve a intenção. É o único sublinhado com valor condicional.\n\nNas demais, o \"se\" é pronome: em B, \"se lembrasse\" (verbo pronominal lembrar-se); em C, \"engana-se\" (verbo pronominal enganar-se); em D, o sublinhado é o segundo \"se\" de \"Se se trata\", índice de indeterminação do sujeito (o primeiro, não sublinhado, é que é a conjunção condicional, e por isso a alternativa engana); em E, \"se fala de bailes\", também índice de indeterminação.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "0:5": {
    "resposta": "Interpretação de texto. Gleiser afirma que as primeiras explicações do mundo vieram de narrativas míticas e que, por isso, não surpreende que a ciência carregue \"nas suas raízes\" a mesma expectativa mítica de explicações finais sobre o mundo. A busca por explicações totalizantes aproxima a ciência dos antigos mitos.\n\nA exagera: a ciência não \"retoma\" as narrativas míticas, apenas compartilha a mesma expectativa. D diz que ela não pode prescindir dos mitos, o que o texto não afirma. C e E falam de avanço tecnológico e de uma explicação final próxima, ideias ausentes — o autor, aliás, insiste na imperfeição das nossas soluções.\n\n**Resposta: B**",
    "confianca": "alta",

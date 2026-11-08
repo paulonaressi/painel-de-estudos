@@ -53,7 +53,7 @@ def conferir(lote, entregue):
             problemas.append(f'confiança inválida em {rotulo}')
         elif r['confianca'] != 'alta' and not r.get('pendencia'):
             problemas.append(f'falta pendência em {rotulo}')
-        if '\\frac' in texto or '$$' in texto or '\\(' in texto or re.search(r'\$[^$\n]+\$', texto):
+        if '\\frac' in texto or '$$' in texto or '\\(' in texto or re.search(r'(?<!R)\$[^$\n]+(?<!R)\$', texto):  # "R$" é dinheiro
             problemas.append(f'latex em {rotulo}')
         if m.get('gabarito'):  # objetiva: termina com a letra do gabarito
             final = re.findall(r'\*\*Resposta: ([A-E])\*\*\s*$', texto)

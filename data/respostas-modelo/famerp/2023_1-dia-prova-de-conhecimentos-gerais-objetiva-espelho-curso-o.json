@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/famerp/2023_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Figuras de linguagem: antítese.\n\nO humor nasce do choque entre duas ideias opostas. O personagem se apresenta com tudo o que remete à escuridão: \"Cavaleiro Negro da Idade das Trevas\", nascido \"à meia-noite\", senhor da \"Floresta Negra\". Quando Hagar pergunta o nome, a resposta é \"Iluminado\", palavra ligada à luz. A aproximação de termos de sentido contrário (trevas × luz) é a **antítese**.\n\nNão há eufemismo (suavizar algo desagradável), personificação (dar traços humanos a seres inanimados), sinestesia (mistura de sentidos) nem hipérbole (exagero) como base da piada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Interpretação de poema árcade: o contraste entre campo e corte.\n\nO soneto exalta o pastor que vive da herança dos antepassados, se alimenta \"do pão que semeia\" e está livre de \"tumulto e de cuidados\". Em contraste, o trono e a Corte trazem o \"peso formidável\" de \"um espectro de ouro\": o poder e a riqueza aparecem como fardo, e o habitante da Corte nunca provou prazer igual ao do pastor \"pobre, inocente\".\n\nAo valorizar quem se contenta com pouco e associar o ouro e a vida cortesã à infelicidade, o poema critica implicitamente a ambição por riqueza e poder, isto é, a **ganância**.\n\nA penúria (pobreza extrema) não é criticada: o pastor pobre é justamente o modelo de felicidade. Indolência e luxúria não aparecem no texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Arcadismo: características.\n\nO Arcadismo (século XVIII) idealiza a vida simples no campo, com pastores, rebanhos e a natureza tranquila, em oposição à agitação da cidade e da corte (temas como o fugere urbem e o locus amoenus). O soneto faz exatamente isso: o \"Pastor pobre, inocente\", com seus gados \"gordos, alegres, bem tratados\", é mais feliz que quem ocupa o trono.\n\nAs outras alternativas não cabem: o Arcadismo valoriza o rigor formal (o próprio soneto tem métrica e rimas regulares); a ênfase na subjetividade é traço romântico; não há tom de engajamento social; e, embora a mitologia seja comum no Arcadismo, este soneto não cita nenhuma entidade mitológica.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Referência pronominal (coesão).\n\nNo verso \"Só do pão que semeia se alimenta\", o \"se\" é pronome reflexivo: quem se alimenta alimenta a si mesmo. Basta perguntar quem pratica a ação de alimentar-se e semear. Voltando ao início da estrofe, o sujeito é \"esse mortal que se contenta / Com a herdade dos seus antepassados\": é o mortal que, livre de cuidados, se alimenta só do pão que planta.\n\n\"Pão\" é o alimento, não quem se alimenta; \"herdade\" e \"antepassados\" são complementos; \"livre\" é uma característica do mortal.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Rima e classes gramaticais.\n\nÉ preciso classificar as palavras de cada par:\n\nafugenta / apascenta: dois verbos.\ngados / tratados: \"gados\" é substantivo; \"tratados\" é particípio com valor de adjetivo, qualificando os gados (\"sempre gordos, alegres, bem tratados\").\nantepassados / cuidados: dois substantivos (\"de cuidados\" significa \"de preocupações\").\ncontente / inocente: dois adjetivos.\ncontenta / alimenta: dois verbos.\n\nSó em \"gados\"/\"tratados\" a rima une classes diferentes (substantivo e adjetivo). Rimas assim são chamadas ricas, por juntarem classes gramaticais distintas; as demais são pobres.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Interpretação de crônica: a causa apontada pelo narrador.\n\nA resposta está no 12º parágrafo: \"O motor de sua volta ao estado natural foi menos o amor à natureza do que o pânico. Em cada homem vê um perigo, em cada situação uma ameaça\". Ou seja, José foi para a mata por se sentir ameaçado entre os homens; o cronista acrescenta que na cidade, inocente, ele não teria como provar sua inocência.\n\nA alternativa C é a armadilha: o texto diz justamente que o amor à natureza pesou **menos** que o medo. Não há crime cometido (A) — o texto fala em \"falta imaginária\" —, nem a ideia de rotina enfadonha (B) ou de paixão pelas coisas simples (D) como motivo principal.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Interpretação: o ponto de vista dos fazendeiros.\n\nNo trecho, o narrador reproduz, com ironia, o raciocínio dos fazendeiros. Eles admitem que José não trabalha e \"não produz\", mas dizem que isso \"não é o mais grave\": o problema é o que ele faria \"no interior da mata\", sem que ninguém saiba. O parágrafo já falava do homem \"embrenhado no mato, fazendo Deus sabe lá o quê\", e o próprio trecho diz que ele pesa no espírito de todos \"com seu mistério\".\n\nO incômodo, portanto, é com o **desconhecido**, com aquilo que escapa ao controle. A ociosidade (C) é a resposta tentadora, mas o texto descarta explicitamente o não produzir como o mais grave; desemprego, pobreza e marginalidade não são o foco.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Recursos de interlocução: inclusão do leitor.\n\nPara incluir o leitor, o cronista usa a 1ª pessoa do plural, que reúne quem escreve e quem lê. Isso ocorre em \"E quem disse que **estamos** sós, se **andamos** tão acotovelados pelas avenidas da Terra?\": o \"nós\" engloba o cronista, o leitor e toda a humanidade, e a pergunta retórica convida o leitor a refletir.\n\nNas alternativas A e B, as falas são dirigidas a José (o \"você\" é ele, não o leitor); C e E são narração em 3ª pessoa sobre José e \"os civilizados\", sem envolver o leitor.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Pontuação: vírgula de vocativo.\n\nVocativo é o termo usado para chamar ou interpelar o interlocutor, e vem sempre isolado por vírgula. Em \"Bem, isso atualmente está difícil, José.\", o nome \"José\" é a pessoa a quem a fala se dirige: é vocativo, separado pela vírgula.\n\nNas outras: em A, a vírgula separa um adjunto adverbial (\"com êxito\"); em B, separa orações (\"Venha depressa\" / \"estão nos chamando\"); em D, isola o adjunto adverbial de lugar deslocado (\"na mata de Nanuque\"); em E, aparece antes do \"e\" que liga orações condicionais.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Preposição e relação de sentido.\n\nEm \"Mais uma razão para vir\", a preposição \"para\" introduz uma oração reduzida de infinitivo (\"para vir\") que indica o objetivo, o fim a que a razão se destina: é uma razão com a finalidade de convencer José a vir. Pode-se trocar por \"a fim de vir\" sem mudar o sentido, teste típico de **finalidade**.\n\nNão há comparação, nem relação de causa (seria \"porque\") ou consequência (seria \"de modo que\"). A adição, presente no \"mais uma\", não está na palavra sublinhada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Ideia principal do texto (inglês).\n\nO texto trata do efeito da inflação sobre os encontros amorosos: os preços de jantares e bebidas subiram (8,9% em restaurantes), usuários de aplicativos dizem estar mais preocupados com o custo dos encontros, alguns solteiros estão mais seletivos ou pararam a busca, e até clientes ricos tentam cortar gastos. O objetivo é mostrar por que a alta de preços (\"soaring prices\") está mudando o jogo da paquera (\"the dating game\").\n\nA alternativa D toma uma reação de parte das pessoas como recomendação; A e C não estão no texto; E é o contrário do que se descreve, pois as pessoas buscam opções mais baratas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Vocabulário em contexto (inglês).\n\nNo trecho \"with Generation Z respondents more likely to feel the pressure\", a expressão \"be likely to\" indica probabilidade, tendência: os jovens da Geração Z estão mais propensos (mais sujeitos) a sentir a pressão dos custos. \"Likely\" equivale, portanto, a **propensos**.\n\n\"Vulneráveis\" (D) pode parecer próximo, mas o sentido de \"likely\" é de probabilidade, não de fragilidade. As demais (pacientes, responsáveis, inteligentes) não têm relação com a palavra.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Compreensão de detalhe (inglês).\n\nA reavaliação das prioridades aparece no 3º parágrafo: \"As costs escalate, some singles are scaling back and being more selective about the dates they're going on\", ou seja, à medida que os custos aumentam, alguns solteiros reduzem os encontros e ficam mais seletivos. O motivo é a alta do custo dos encontros (dating rising costs), reforçada pelos dados do OKCupid sobre a inflação afetando a vida amorosa.\n\nA Geração Z (A) aparece só como grupo que mais sente a pressão; aplicativos ruins, experiências ruins e relacionamentos difíceis não são apontados como causa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Conectivos (inglês).\n\nEm \"some singles are scaling back [...], while others are pausing their search\", o \"while\" não indica tempo (\"enquanto, durante\"), mas **contraste** entre dois grupos: alguns fazem uma coisa, ao passo que outros fazem outra. O conectivo inglês com esse valor é \"whereas\" (ao passo que, enquanto que).\n\n\"Thereafter\" (depois disso) indica tempo; \"accordingly\" (consequentemente), conclusão; \"nevertheless\" (no entanto) indica concessão e não se encaixa na estrutura; \"furthermore\" (além disso), adição.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Compreensão de detalhe (inglês).\n\nSeth Rosenberg diz: \"In the fall of 2020, I was going on dates left and right not really thinking about the costs\". A expressão \"left and right\" significa \"a torto e a direito\", em grande quantidade: no outono de 2020 ele saía em muitos encontros, sem pensar nos custos.\n\nA alternativa E é a armadilha: os 50 a 100 dólares referem-se ao que ele perde hoje (\"now\") quando um encontro dá errado, não ao que gastava em 2020. A B inverte a situação, e A e D não estão no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Questão de leitura com foco em conectivos: procura-se o trecho que exprime **consequência**.\n\nNo último parágrafo, depois de dizer que as pessoas precisam monitorar o dinheiro gasto em encontros, o texto afirma: \"As a result, people are on the hunt for less expensive options\". A expressão \"as a result\" (como resultado) marca justamente a consequência do aumento de preços: as pessoas passam a buscar opções mais baratas.\n\nAs demais não têm valor de consequência: (B) apenas identifica a fonte da informação; (C) e (D) usam \"for those…\" com sentido de \"para quem…\", delimitando um grupo; (E) \"among\" indica um universo de pesquisa (\"entre 3.000 usuários\").\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Leitura de pôster de campanha: qual o objetivo da campanha #stillme?\n\nO título \"I have dementia but I'm still me\" (tenho demência, mas continuo sendo eu) e o pedido \"talk to the person, don't just talk to other people about them\" mostram que a meta é combater o **estigma**: a pessoa com demência não deixa de ser quem é e não deve ser tratada como se não estivesse presente. A frase final reforça: \"Life changes, but it can still be good with dementia\".\n\nO pôster não fala de causas (A), tipos (B), fatores de risco (D) nem estágios iniciais da doença (E); ele trata da forma como a sociedade enxerga e trata quem vive com demência.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Questão de vocabulário: os sentidos de \"but\".\n\nNo título, \"but\" é conjunção **adversativa** (mas): opõe \"tenho demência\" a \"continuo sendo eu\". O mesmo valor aparece em (B): \"eu disse 'nunca diga nunca', mas eu estava errado\" — há contraste entre duas orações.\n\nNas outras alternativas, \"but\" significa \"exceto, a não ser\": \"nothing but the truth\" (nada além da verdade), \"nobody but Jessica\" (ninguém exceto Jessica), \"nothing but argue\" (nada além de discutir), \"nothing but hamburgers\" (só hambúrgueres). Esse é o uso de \"but\" como preposição, sem ideia de oposição entre orações.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Questão de vocabulário: sinônimo de \"support\" em \"you can help to support them\".\n\n\"Support\" aqui é apoiar, dar suporte a alguém. O equivalente é **assist** (ajudar, auxiliar), que mantém o sentido do pôster: há muitas maneiras de ajudar a pessoa com demência.\n\nAs outras mudam o sentido: \"give up on\" é desistir de alguém; \"trick\" é enganar; \"count on\" e \"rely on\" significam contar com, depender de — o inverso da ideia, pois quem recebe ajuda é a pessoa com demência, não quem a apoia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Interpretação de tirinha e relação com um texto conceitual.\n\nO humor está no fato de que o software \"analisou\" 250 terabytes de dados e a única conclusão é que existem 250 terabytes de dados. Ou seja, juntar uma montanha de informação não produz conhecimento por si só; falta a análise que gere conclusões úteis.\n\nA alternativa (A) diz exatamente isso: o Big Data costuma ser visto como solução para os problemas das empresas, mas o que frequentemente falta é a análise efetiva dos dados coletados para obter \"insights\".\n\nAs demais (B, C, D, E) são apenas definições neutras do que é Big Data (volume, tipos de dados, velocidade, origem), sem a crítica que a tirinha provoca.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Roma Antiga: a política de integração dos povos dominados.\n\nO texto mostra que Roma evitava a oposição incorporando as elites aliadas, inclusive com concessão de cidadania. Essa mesma lógica de absorção aparece na **religião**: os romanos toleravam e muitas vezes incorporavam os deuses dos povos conquistados ao seu panteão, desde que se respeitasse o culto oficial. Essa flexibilidade facilitou a dominação de povos muito diversos em um território enorme.\n\nAs demais estão erradas: Esparta não derrotou o exército romano republicano (A); as cidades-estados são marca da Grécia, não instrumento romano de dominação (B); o latim se difundiu, mas não houve imposição escolar de língua única, e o grego seguiu dominante no Oriente (C); o direito romano, ao contrário, ampliou-se aos provinciais, culminando na cidadania geral em 212 (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Brasil Colônia: a formação fragmentada do território.\n\nO excerto diz que a colonização \"não criou a unidade\": as frentes colonizadoras eram \"autocontidas, isoladas\", comunicavam-se mais com Lisboa do que entre si, e essa configuração fragmentada \"persistiu por vários séculos\", até quase o século XX. Isso corresponde a uma organização interna **dispersa**, que se manteve mesmo depois da independência (1822).\n\nAs outras contrariam o texto ou a história: a América espanhola não primou pela autonomia das áreas coloniais (A); o texto não fala de mercado mundial regulando as potências (B); os donatários deviam obediência à Coroa, que depois criou o Governo-Geral (D); o texto afirma justamente a falta de comunicação entre as regiões (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Brasil Colônia: as capitanias hereditárias (1534).\n\nA Coroa dividiu o litoral em faixas entregues a donatários, que deviam ocupá-las e explorá-las com recursos próprios. O resultado foi muito desigual: Pernambuco e, em menor grau, São Vicente prosperaram com o açúcar, enquanto a maioria fracassou ou ficou com ocupação rala. O sistema produziu, portanto, **contrastes** entre áreas de forte exploração econômica e áreas apenas de povoamento, coerente com a \"configuração espacial fragmentada\" do excerto.\n\nAs demais não procedem: a ocupação ficou concentrada no litoral, e o avanço para o interior veio depois, com bandeiras, gado e mineração (B); a metrópole continuou a intervir e, em 1548, criou o Governo-Geral (C); não houve uniformidade, como o próprio texto destaca (D); o sistema não facilitou invasões de vizinhos — as invasões estrangeiras (franceses, holandeses) vieram de potências europeias (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Leitura de gráficos sobre o tráfico negreiro (Primeiro Reinado).\n\nNo segundo gráfico, a entrada de africanos, que passava de 70 mil em 1829, cai para cerca de 50 mil em 1830 e para menos de 10 mil em 1831. Essa queda abrupta coincide com a proibição do tráfico: pelo tratado com a Inglaterra (1826, ratificado em 1827), o comércio de escravizados deveria acabar em três anos, e a lei de 7 de novembro de 1831 o declarou ilegal. (A lei foi pouco cumprida depois, mas o gráfico mostra o efeito imediato.)\n\nAs outras não batem com os dados: durante a presença da Corte (1808–1821) a entrada aumentou (A); na primeira década do século XIX houve oscilação com tendência de alta (C); entre 1810 e 1815 os valores ficaram relativamente estáveis, entre 40 e 53 mil (D); logo após 1822 houve queda em 1823 (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Segundo Reinado: consequências da Guerra do Paraguai (1864–1870).\n\nImpacto interno: o Exército saiu da guerra fortalecido e com identidade própria. Muitos soldados eram escravizados libertos para lutar, e oficiais passaram a rejeitar o papel de \"capitães do mato\"; o **abolicionismo** (e também o republicanismo) cresceu na corporação. Impacto externo: com a derrota de Solano López, a navegação dos rios Paraguai e Paraná ficou garantida, ampliando a **circulação mercantil na Bacia do Prata**, de interesse direto do Brasil (acesso ao Mato Grosso) e dos comerciantes platinos.\n\nPor que não as outras: o Paraguai não foi incorporado ao Brasil (A); a monarquia saiu desgastada, não prestigiada, e as rivalidades platinas não acabaram (B); o republicanismo cresceu no Exército, mas não houve \"hegemonia militar sobre a América do Sul\" (C); não se formou mercado comum no século XIX (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Imperialismo do século XIX: a partilha da África.\n\nO excerto descreve a corrida por colônias no último terço do século XIX, quando ter territórios africanos virou sinal de poder. A Conferência de Berlim (1884–1885) organizou essa partilha segundo os interesses das potências europeias, traçando fronteiras que ignoravam povos e culturas locais — uma divisão feita \"a partir de interesses externos ao continente\". A disputa por mercados e colônias acirrou as rivalidades entre as potências (Alemanha contra França e Grã-Bretanha, crises marroquinas) e é apontada como uma das causas da Primeira Guerra Mundial.\n\nAs demais erram: a corrida consolidou a hegemonia europeia, não a inviabilizou (A); a resistência africana existiu, mas foi reprimida, não facilitada (B); a hegemonia europeia só declinou após as guerras mundiais, não \"rapidamente\" (C); não há relação com a União Europeia (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Primeira República: a reforma urbana de Pereira Passos no Rio de Janeiro (1902–1906).\n\nA foto mostra a Avenida Central (atual Rio Branco), larga e retilínea, aberta sobre o antigo centro de ruas estreitas e cortiços. A reforma, inspirada na Paris de Haussmann, buscava facilitar a **circulação** de pessoas e mercadorias, ligando o porto modernizado ao centro, e criar espaços de **sociabilidade burguesa** — avenidas para passeio, cafés, teatros e lojas no padrão europeu (\"o Rio civiliza-se\").\n\nPor que não as outras: o \"bota-abaixo\" demoliu cortiços e expulsou os pobres do centro, sem reduzir desigualdades (A); o modelo era o francês, e a foto mostra prédios baixos (B); a ocupação dos morros foi efeito da expulsão, não uma política de \"permissão\" (D); a modernização trouxe iluminação elétrica e bondes elétricos, não lampiões e tração animal (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Pós-Segunda Guerra: a origem da Guerra Fria.\n\nO excerto fala de uma \"tensa bipolarização\" que logo dominou as relações internacionais e tornou difícil recuperar \"a aliança que derrotara o nazismo\". A aliança era a dos Aliados — EUA, URSS e Reino Unido —, e a bipolarização é a **Guerra Fria**, que opôs o bloco capitalista liderado pelos EUA ao bloco socialista liderado pela URSS, antigos aliados contra a Alemanha.\n\nPor que não as outras: o macarthismo perseguia supostos comunistas nos EUA, não colaboradores do nazismo (A); a ONU não foi criada para ajudar os países do Eixo (C); o stalinismo é anterior e os países do Leste eram aliados da URSS (D); o Muro de Berlim (1961) separou a parte ocidental de Berlim da Alemanha Oriental, e não isolou a Alemanha dos países comunistas (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "República Populista: a inflação no governo João Goulart (1961–1964).\n\nNa charge, a \"Inflação\" aparece como um monstro enorme que devora os \"salários mínimos\" — o homem traz uma sacola com eles e o monstro, de língua de fora, pede \"Outro…!\". Atrás dele, figuras femininas desesperadas representam as famílias. A mensagem: cada reajuste do salário mínimo é engolido pela alta dos preços, e a população vive angustiada com o custo de vida. Em 1963 a inflação passou de 70% ao ano.\n\nPor que não as outras: as reformas de base não chegaram a ser feitas (A); o desenho mostra justamente que não havia ganho real, pois o aumento é devorado (B); a charge não mostra o governo contendo os preços, e sim alimentando a inflação (C); o tema é a inflação, não a estagnação (D), embora o crescimento tenha de fato desacelerado.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Mundo contemporâneo: refugiados e direitos humanos.\n\nEdward Said defende que ninguém deveria ser expulso de sua casa ou terra, discriminado pela religião ou privado de identidade e cultura. Essa ideia se aplica aos **refugiados da guerra civil síria** (desde 2011): milhões foram forçados a deixar casas e país, sofreram perseguições também por motivos religiosos e étnicos e enfrentam a perda de vínculos culturais no exílio.\n\nPor que não as outras: o regime do Irã é xiita, logo não persegue xiitas por serem xiitas (A); a restrição migratória nos EUA não envolve expulsão da própria terra (C); a situação dos ucranianos não é a de quem \"se aliou à Rússia\" — trata-se de distorção (D); a separação de famílias coreanas não se relaciona a discriminação religiosa nem a expulsão de terra (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Geopolítica asiática: a questão de Taiwan.\n\nTaiwan tem governo, moeda, eleições e população próprios, mas não é reconhecida como Estado independente pela maioria dos países. O motivo é o conflito com a China: desde 1949, quando os nacionalistas derrotados na guerra civil se refugiaram na ilha, Pequim considera Taiwan uma \"província rebelde\" e adota a política de \"uma só China\". Quem quer manter relações diplomáticas com a China — potência econômica e membro permanente do Conselho de Segurança da ONU — precisa abrir mão de reconhecer Taiwan. Por isso, poucos países o fazem.\n\nPor que não as outras: os EUA são aliados informais de Taiwan, vendem-lhe armas (B); não há embargo conjunto de EUA e China (C); Taiwan é ela própria um dos Tigres Asiáticos (D); Taiwan é capitalista, não socialista (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Demografia: a queda da natalidade na Coreia do Sul.\n\nO país registra a menor taxa de fecundidade do mundo (menos de 1 filho por mulher). Entre as causas estão o **elevado custo de vida** — moradia cara, longas jornadas de trabalho e, sobretudo, gastos altíssimos com a educação dos filhos —, que leva muitos casais a adiar ou desistir de ter filhos. Somam-se a isso a urbanização e a maior escolaridade feminina.\n\nPor que não as outras: o crescimento vegetativo está diminuindo (A); a expectativa de vida das sul-coreanas é das mais altas do mundo (B); a participação feminina no trabalho aumentou, o que, junto da dificuldade de conciliar carreira e maternidade, também reduz a natalidade (D); o acesso a contraceptivos é amplo, o que favorece a queda, não o crescimento (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Saneamento básico no Brasil: leitura de tabela.\n\nCalculando a parcela do esgoto gerado que é tratada:\nNorte: 163 mil ÷ 993 mil ≈ 16%\nNordeste: 1,50 mi ÷ 3,85 mi ≈ 39%\nSul: 1,62 mi ÷ 3,25 mi ≈ 50%\nSudeste: 6,65 mi ÷ 11,45 mi ≈ 58%\nCentro-Oeste: 1,05 mi ÷ 1,72 mi ≈ 61%\n\nAs regiões mais pobres (Norte e Nordeste) coletam e tratam proporcionalmente muito menos; as mais ricas, mais. Isso mostra que as **condições socioeconômicas** influenciam a capacidade de coleta e tratamento.\n\nPor que não as outras: a maior diferença absoluta é a do Sudeste (cerca de 4,8 milhões de m³), não a do Centro-Oeste (A); o Brasil trata só cerca de 52% do que gera (B); Norte e Nordeste têm os piores índices (C); o Sudeste, que mais gera esgoto, é o que mais trata (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Geografia econômica do Brasil: café e ferrovias.\n\nAs pistas do texto: o transporte por tropeiros pelo **Caminho Novo** (estrada que ligava Minas Gerais ao Rio de Janeiro), a produção voltada ao mercado internacional, a busca por novas terras e o avanço \"em direção ao Sertão\" por meio dos trilhos. Essa é a história do **café** no Sudeste: no fim do século XIX e início do XX, as ferrovias foram construídas para levar o café do interior (Vale do Paraíba, Zona da Mata mineira, oeste paulista) até os portos do Rio e de Santos, e acompanhavam a marcha das lavouras para o interior.\n\nPor que não as outras: a desconcentração industrial paulista é das últimas décadas do século XX (B); a pecuária sulina não usava o Caminho Novo (C); a soja na Amazônia é recente e escoa por rodovias e hidrovias (D); a cana nordestina é litorânea e colonial (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Pedologia: clima e formação dos solos.\n\nO perfil 1, sob floresta, é um **laterito**: espesso, com grossa camada de óxidos de ferro e alumínio — resíduo de intensa lixiviação, típica de clima quente e úmido, em que a água abundante dissolve e remove os minerais solúveis (intemperismo químico forte). O perfil 2, sob cactos, é um **pedocal** de clima seco: raso, com húmus pouco espesso e nódulos de carbonato de cálcio precipitado, pois a pouca chuva não consegue lavar os sais.\n\nLogo, a maior profundidade do perfil 1 se deve ao clima úmido, que acelera o intemperismo.\n\nPor que não as outras: há menos matéria orgânica no ambiente árido (A); o clima é justamente o fator decisivo no perfil 1 (B); o perfil 2 é o mais raso e o menos lixiviado (C); o intemperismo químico é mais intenso no perfil 1 (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Biomas e ecossistemas costeiros: o manguezal.\n\nO manguezal se desenvolve em áreas de estuário e baixadas litorâneas, onde a água doce dos rios se mistura à água do mar, sob influência das marés. A água é **salobra** e o solo é lodoso e pobre em oxigênio; por isso a vegetação tem adaptações específicas, como raízes-escora e pneumatóforos (raízes respiratórias) e mecanismos de controle do sal.\n\nPor que não as outras: o solo do mangue é muito rico em matéria orgânica, o que faz dele um berçário de espécies (A); a drenagem é exorreica, voltada ao mar (C); a vegetação é pouco diversificada e de porte reduzido, não uma extensa floresta latifoliada (D); manguezais ocorrem em clima tropical e subtropical (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Agricultura sustentável: a agroecologia.\n\nO infográfico da FAO lista benefícios como melhorar a nutrição, integrar conhecimentos diferentes (o do agricultor tradicional e o do cientista, como mostra o desenho 2), preservar a biodiversidade (abelhas, flores, frutas, animais, fungos no desenho 3), produzir mais com menos recursos e aumentar a resiliência das populações rurais. Esse conjunto define a **agroecologia**: sistema que aplica princípios ecológicos à produção, combina culturas diversas, reduz insumos externos e valoriza o saber local.\n\nPor que não as outras: a adubação química depende de insumos industriais e não preserva a biodiversidade (A); o terraceamento é só uma técnica de contenção da erosão em encostas (B); \"plantio indireto\" não é a técnica descrita — o conhecido é o plantio direto, ligado à conservação do solo (D); a monocultura reduz a biodiversidade (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Clima urbano: as ilhas de calor.\n\nIlha de calor é a área urbana mais quente que o entorno. Ela surge onde há **concentração de edifícios** e superfícies como asfalto e concreto, que absorvem muita radiação solar durante o dia e a liberam à noite; somam-se a falta de vegetação, a impermeabilização do solo, o calor de veículos e indústrias e a barreira dos prédios à circulação do vento. Para mapeá-las, examinam-se justamente essas áreas densamente construídas.\n\nAs demais descrevem o oposto: as ilhas de calor costumam ter mais poluição, não menos (B); os materiais urbanos têm alta capacidade de absorver calor (C); telhados brancos refletem a radiação e são uma forma de combater o fenômeno (D); vegetação densa resfria o ambiente (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Fusos horários.\n\nBrasília está em GMT−3 e o Catar em GMT+3. A diferença é de 3 − (−3) = 6 horas, com o Catar adiantado (está a leste).\n\nJogo 1: 16h de 24/11 em Brasília → 16h + 6h = 22h de 24/11 no Catar.\nJogo 2: 13h de 28/11 em Brasília → 13h + 6h = 19h de 28/11 no Catar.\n\nO erro típico é subtrair as horas (achando que o Catar está atrasado) ou somar só 3 horas, esquecendo que Brasília já está 3 horas atrás de Greenwich.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Cartografia: projeções e superfícies de projeção.\n\nO mapa é circular, com a Antártida no centro, meridianos saindo em linhas retas do centro e paralelos formando círculos concêntricos. Essa é a **projeção azimutal (plana) polar**: um plano tangencia o globo em um ponto — aqui, o Polo Sul — e a superfície terrestre é projetada sobre ele.\n\nNas figuras, o plano tangente ao polo inferior (o Polo Sul) é o da alternativa (D). As figuras (A) e (B) mostram planos tangentes em pontos do equador ou de latitude intermediária (azimutais equatorial e oblíqua), que não colocariam a Antártida no centro; (C) é a projeção cilíndrica, que gera mapa retangular com meridianos paralelos; (E) é a cônica, que gera paralelos em arcos e meridianos convergentes, mas não um mapa circular centrado no polo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Citologia: espermiogênese e o complexo golgiense.\n\nNa diferenciação da espermátide em espermatozoide, as vesículas do complexo golgiense se fundem e formam o **acrossomo**, uma \"capa\" na ponta da cabeça do espermatozoide, cheia de enzimas digestivas (como a hialuronidase) que permitem atravessar os envoltórios do ovócito. Como as membranas do Golgi estavam marcadas, a fluorescência aparece no acrossomo.\n\nPor que não as outras: o flagelo se forma a partir de um dos centríolos (A, D), estruturas sem membrana derivada do Golgi; fagossomo é vesícula de material englobado por fagocitose, não existe nessa diferenciação (C); as mitocôndrias têm membranas próprias e se concentram na peça intermediária (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Ecologia e poluição: chuva ácida e respiração cutânea.\n\nDióxido de enxofre (SO₂) e dióxido de nitrogênio (NO₂) reagem com o vapor de água formando ácidos (sulfúrico, nítrico), que caem como **chuva ácida**. Os anfíbios, como as salamandras, são especialmente afetados: sua pele é fina, úmida e permeável, pois participa da respiração cutânea, e os ovos não têm casca. Assim, substâncias ácidas da água e do ar atravessam facilmente essa pele delgada e sem proteção. Por isso, anfíbios são usados como bioindicadores de poluição.\n\nPor que não as outras: minhocas não têm calcário no corpo (A); lombrigas são parasitas intestinais, protegidas dentro do hospedeiro (B); insetos têm exoesqueleto de quitina, não de queratina (C); lagartixas são répteis, com pele seca e escamas de queratina, mais resistentes que a dos anfíbios (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Taxonomia: categorias e grau de parentesco.\n\nQuanto mais restrita a categoria que duas espécies compartilham, mais próximo é o parentesco. A hierarquia é: reino > filo (subfilo) > classe > ordem > família > gênero > espécie. *Ardipithecus ramidus* e *Homo sapiens* são de gêneros diferentes (*Ardipithecus* e *Homo*), mas ambos pertencem ao reino Animalia, ao subfilo Vertebrata, à classe Mammalia e à ordem **Primates**. Entre as alternativas válidas, a ordem é a categoria mais restrita.\n\nA alternativa (A) é a armadilha: Hominidae é uma **família**, não um gênero, e as duas espécies não compartilham o gênero. Por isso ela está errada, mesmo que ambas sejam hominídeos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Fisiologia dos insetos e interações ecológicas: a ecdise.\n\nInsetos têm exoesqueleto rígido e, para crescer, precisam trocá-lo periodicamente (muda ou ecdise), processo comandado pelo hormônio ecdisona. Se a planta produz uma substância que bloqueia a ação da ecdisona, o inseto não consegue completar as mudas: fica preso nos estágios juvenis (larva ou ninfa), não chega à fase adulta reprodutiva e frequentemente morre. Com isso, a população de insetos que se alimenta da planta diminui — é uma defesa química contra a **herbivoria**.\n\nPor que não as outras: a substância atua sobre a ecdisona, hormônio da muda, e não sobre hormônios sexuais (A); não age no intestino (B); ela impede o crescimento, não o estimula (C); não há relação específica com a formação de mandíbulas (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Fotossíntese: espectro de absorção e espectro de ação.\n\nO oxigênio é liberado na fase clara da fotossíntese, que depende da luz absorvida pelos pigmentos. Portanto, a taxa de liberação de O₂ acompanha a absorção somada das clorofilas e dos carotenoides: alta entre 400 e 500 nm (azul-violeta, em que absorvem clorofila a, clorofila b e carotenoides), muito baixa entre 500 e 600 nm (verde, quase não absorvido — por isso as folhas parecem verdes) e um novo pico perto de 650–680 nm (vermelho, absorvido pelas clorofilas), caindo a zero perto de 700 nm.\n\nO gráfico (A) reproduz exatamente esse perfil. O (B) tem pico no verde, onde quase não há absorção; (C), (D) e (E) são retas ou platôs que ignoram os picos e o vale do espectro.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Fisiologia hormonal: o parto.\n\nO trabalho de parto é desencadeado por mecanismos involuntários. O principal hormônio envolvido é a **ocitocina**, produzida no hipotálamo e liberada pela **neuro-hipófise** (hipófise posterior). Ela estimula as contrações da musculatura lisa do útero (miométrio). Há uma retroalimentação positiva: a pressão do bebê sobre o colo do útero aumenta a liberação de ocitocina, que intensifica as contrações, até a expulsão do feto — por isso o parto pode ocorrer mesmo fora do hospital, sem intervenção. A ocitocina também atua na ejeção do leite.\n\nPor que não as outras: a progesterona mantém a gravidez e relaxa o útero, e é produzida pelos ovários e pela placenta (A); a prolactina vem da adeno-hipófise e estimula a produção de leite (C); o cortisol não \"desintegra\" vasos do útero (D); a gonadotrofina coriônica é produzida pelo embrião/placenta e mantém o corpo lúteo no início da gestação (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Origem da vida: hipótese heterotrófica × hipótese autotrófica.\n\nA hipótese heterotrófica afirma que os primeiros seres vivos obtinham alimento pronto do ambiente (a \"sopa primordial\") e o degradavam por fermentação. A hipótese **autotrófica** propõe que os primeiros seres produziam o próprio alimento por **quimiossíntese**: usavam a energia liberada na oxidação de compostos inorgânicos (como H₂S, ferro, H₂) para sintetizar matéria orgânica.\n\nA descoberta das fontes termais submarinas reforçou essa ideia: nelas vivem bactérias e arqueas quimiossintetizantes, num ambiente rico em compostos inorgânicos reduzidos, sem luz e parecido com as condições da Terra primitiva.\n\nPor que não as outras: quimiossíntese é autotrofia, então (E) é contraditória; respiração celular não define autotrofia (A, B), e a aeróbica exige O₂, ausente na atmosfera primitiva; fotossíntese também é autotrofia (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Botânica: fixação biológica de nitrogênio.\n\nAs bactérias do gênero *Rhizobium* vivem em mutualismo nas raízes das **leguminosas** (fabáceas): feijão, soja, ervilha, amendoim, lentilha. Nos nódulos, elas convertem o N₂ do ar em compostos nitrogenados (amônia), usados pela planta na síntese de proteínas e ácidos nucleicos; em troca, recebem compostos orgânicos. A característica marcante das leguminosas é o fruto do tipo **legume, ou vagem**, que abriga as sementes.\n\nPor que não as outras: espigas são inflorescências de gramíneas, como milho e trigo (A); colmo é o caule de gramíneas como cana e bambu (B); bulbo é o caule de cebola, alho e lírio (C); tubérculo é o caule da batata-inglesa (D). Nenhuma dessas plantas é leguminosa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Genética: dominância incompleta e probabilidade.\n\nCurto × longo gera 100% de intermediários, e cada parental puro gera só o próprio fenótipo. O heterozigoto tem fenótipo intermediário entre os dois homozigotos: é **dominância incompleta** (não é codominância, em que os dois fenótipos apareceriam juntos, sem mistura).\n\nChamando C1C1 = curto, C2C2 = longo e C1C2 = intermediário:\nC1C2 × C1C2 → 1/4 C1C1 : 1/2 C1C2 : 1/4 C2C2\nP(intermediário) = 1/2\nP(macho) = 1/2\nP(macho e intermediário) = 1/2 × 1/2 = 1/4\n\nO erro típico é parar em 1/2 (alternativa D), esquecendo que a pergunta pede **machos** com pelo intermediário, o que exige multiplicar pela probabilidade do sexo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Virologia: estrutura dos vírus envelopados.\n\nVírus envelopados (HIV, influenza, SARS-CoV-2) têm, por fora do capsídeo, um envelope lipídico obtido da membrana da célula hospedeira quando o vírus sai por brotamento. Nesse envelope ficam inseridas **glicoproteínas virais** (como a espícula S do coronavírus ou a gp120 do HIV), que se ligam a receptores específicos da membrana da célula e permitem a fusão e a entrada do vírus. Isso explica também por que cada vírus infecta tipos específicos de células.\n\nPor que não as outras: vírus não têm metabolismo próprio nem transporte ativo (A); não há microtúbulos no envelope, e as glicoproteínas mudam por mutação, como na gripe (B); o envelope vem da membrana da célula hospedeira, com lipídios dela (C); vírus não têm ribossomos, e a transcriptase reversa é a enzima que produz DNA a partir de RNA, não adiciona proteínas ao envelope (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Química orgânica: estrutura dos sabões.\n\nSabão é um **sal de ácido graxo**: uma longa cadeia carbônica apolar (parte lipofílica) ligada a um grupo carboxilato (–COO⁻) com um cátion, geralmente Na⁺ ou K⁺ (parte hidrofílica). A estrutura (A) é exatamente isso: cadeia longa terminando em CO₂⁻ Na⁺ (carboxilato de sódio).\n\nPor que não as outras: (B) é um sulfato de alquila, um detergente sintético, não um sal de ácido graxo; (C) é um carboxilato de sódio de cadeia curta (butanoato), sem a longa cadeia apolar que caracteriza o ácido graxo e a ação emulsificante; (D) é um éster (como uma cera), sem extremidade iônica; (E) é o próprio ácido graxo, não seu sal, logo não tem a extremidade iônica.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Estrutura atômica: prótons, nêutrons e elétrons de um íon.\n\nO estrôncio tem número atômico Z = 38 (consulte a tabela periódica), logo 38 prótons.\nNêutrons: n = A − Z = 90 − 38 = 52\nElétrons: o cátion Sr²⁺ perdeu 2 elétrons → 38 − 2 = 36\n\nPortanto: 38 prótons, 52 nêutrons e 36 elétrons.\n\nOs erros comuns aparecem nas outras alternativas: confundir número de massa com número de nêutrons (90 nêutrons, em B e E) ou somar elétrons em vez de subtraí-los, como se fosse um ânion (40 elétrons, em B).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Separação de misturas: solubilidade seletiva.\n\nÁgua em excesso + filtração: só o KNO₃ é solúvel em água. Ele passa para o líquido A; C e S ficam no sólido B.\nEvaporação do líquido A: a água sai como vapor C e sobra o **sólido D = KNO₃**.\nCS₂ em excesso sobre o sólido B + filtração: o enxofre se dissolve (líquido E) e o carvão, insolúvel, fica retido: **sólido F = C**.\nDestilação do líquido E: o CS₂, volátil, é recolhido como líquido G e resta o **sólido H = S**.\n\nSequência D, F, H: KNO₃, C e S.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Oxirredução: identificar oxidante e redutor pelos números de oxidação.\n\nNitrogênio: +5 no KNO₃ → 0 no N₂. Ganha elétrons, sofre redução; logo o **KNO₃ é o oxidante**.\nCarbono: 0 no C → +4 no CO₂ (e no K₂CO₃). Perde elétrons, sofre oxidação; **C é redutor**.\nEnxofre: 0 no S → +6 no K₂SO₄. Perde elétrons, sofre oxidação; **S também é redutor**.\n\nConferindo o balanço de elétrons:\nrecebidos pelo N: 10 × 5 = 50\ncedidos pelo S: 3 × 6 = 18\ncedidos pelo C: 8 × 4 = 32\n18 + 32 = 50 ✓\n\nA alternativa (B) é a armadilha de quem não confere o enxofre: ele muda de 0 para +6 e participa, sim, da transferência de elétrons.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Estequiometria com gases: na mesma temperatura e pressão, a proporção em volume é igual à proporção em mols (Lei de Avogadro).\n\nMistura estequiométrica: 2 volumes de C₂H₂ para 5 volumes de O₂, total 7 partes.\n14,0 L ÷ 7 = 2,0 L por parte\nC₂H₂ = 2 × 2,0 = 4,0 L\nO₂ = 5 × 2,0 = 10,0 L\n\nPela equação, 2 C₂H₂ → 4 CO₂, ou seja, o volume de CO₂ é o dobro do de acetileno:\nCO₂ = 2 × 4,0 = 8,0 L\n\nA água sai líquida e não entra na conta de volume gasoso. A pegadinha é responder 4,0 L, que é o volume de acetileno, ou 28,0 L, aplicando a proporção 4:2 aos 14 L da mistura inteira.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Soluções: concentração em quantidade de matéria (mol/L).\n\nQuantidade de sacarose:\nn = m ÷ M = 21 g ÷ 342 g/mol ≈ 0,0614 mol\n\nVolume: 200 mL = 0,200 L\n\nConcentração:\nC = n ÷ V = 0,0614 ÷ 0,200 ≈ 0,31 mol/L\n\nPortanto, aproximadamente 0,3 mol/L. O erro típico é esquecer de converter mililitros em litros ou dividir pelo volume errado: com 1 L em vez de 0,2 L, sairia cerca de 0,06 mol/L, próximo de (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Ligações iônicas: montagem de fórmulas pela carga dos íons.\n\nPela Classificação Periódica: alumínio (grupo 13) forma Al³⁺; lítio (grupo 1) forma Li⁺; cálcio (grupo 2) forma Ca²⁺; flúor (grupo 17) forma F⁻. O composto precisa ter carga total zero:\n\nSulfato de alumínio: 2 Al³⁺ (+6) e 3 SO₄²⁻ (−6) → Al₂(SO₄)₃\nHidróxido de alumínio: 1 Al³⁺ (+3) e 3 OH⁻ (−3) → Al(OH)₃\nCarbonato de lítio: 2 Li⁺ (+2) e 1 CO₃²⁻ (−2) → Li₂CO₃\nFluoreto de cálcio: 1 Ca²⁺ (+2) e 2 F⁻ (−2) → CaF₂\n\nNas demais alternativas, ao menos uma fórmula deixa carga sobrando — por exemplo, Ca₂F ou Al(OH)₂.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Estequiometria: determinação da fórmula molecular por combustão.\n\nQuantidade do hidrocarboneto (volume molar 24,0 L/mol):\nn = 0,6 ÷ 24,0 = 0,025 mol\n\nProdutos:\nCO₂: 4,4 g ÷ 44 g/mol = 0,10 mol → 0,10 mol de C\nH₂O: 1,8 g ÷ 18 g/mol = 0,10 mol → 0,20 mol de H (cada H₂O tem 2 H)\n\nPor molécula do hidrocarboneto:\nC: 0,10 ÷ 0,025 = 4\nH: 0,20 ÷ 0,025 = 8\n\nFórmula: C₄H₈.\n\nO erro típico é esquecer que cada molécula de água tem dois hidrogênios, o que daria C₄H₄; ou calcular só a proporção C:H = 1:2, que vale também para C₂H₄, sem usar a quantidade de matéria da amostra para chegar à fórmula molecular.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Ligações químicas: comprimento de ligação.\n\nO comprimento depende do tamanho dos átomos e da multiplicidade da ligação (mais pares compartilhados → ligação mais curta).\n\nC–H: o hidrogênio é o menor átomo, então é a ligação mais curta, cerca de 110 pm.\nC–C simples: dois carbonos, a mais longa, cerca de 154 pm.\nC–O simples: o oxigênio é menor que o carbono, então é mais curta que C–C, cerca de 143 pm.\nC=O dupla: dois pares compartilhados aproximam os núcleos, então é mais curta que C–O, cerca de 122 pm.\n\nA ordem pedida (C–H, C–C, C–O, C=O) fica 110, 154, 143, 122. A armadilha é achar que a dupla seria mais longa por ter \"mais elétrons\"; ocorre o contrário.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Cinética e termoquímica: diagrama de energia e catalisador.\n\nNo gráfico, os dois caminhos partem do mesmo nível dos reagentes (A₂ + B₂) e chegam ao mesmo nível do produto (2AB), mais baixo. Então a reação é **exotérmica** nos dois casos, e a energia liberada é **z** (a variação de entalpia não depende do caminho).\n\nA energia de ativação é a distância entre os reagentes e o topo da curva: **x** no caminho I e **y** no caminho II. Como y < x, o caminho II é o da reação catalisada: o catalisador oferece um mecanismo alternativo com menor energia de ativação, tornando a reação mais rápida.\n\nPor que não as outras: o caminho I também é exotérmico (A); o caminho I, com maior energia de ativação, é mais lento (B); a reação não é endotérmica (C); a energia liberada é z, não x + z (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Análise dimensional. Força é massa vezes aceleração, e aceleração tem dimensão de comprimento dividido por tempo ao quadrado:\n\n[F] = [M]·[L]·[T]⁻²\n\nÉ exatamente a expressão dada. Confira as outras: energia e torque são força vezes distância, [M]·[L]²·[T]⁻²; pressão é força dividida por área, [M]·[L]⁻¹·[T]⁻²; quantidade de movimento é massa vezes velocidade, [M]·[L]·[T]⁻¹.\n\nA armadilha é o torque, que tem a mesma dimensão da energia, não da força.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Velocidade angular média: ângulo girado dividido pelo tempo gasto.\n\nΔθ = 90° = π/2 rad\nω = Δθ ÷ Δt = (π/2) ÷ 0,50 = π rad/s\n\nO erro comum é esquecer de converter 90° para radianos, ou usar 2π (uma volta completa) no lugar de π/2, o que daria 4π rad/s. Repare também que só a pinça girou: as outras articulações da figura são distração e não entram na conta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Estática e lei de Hooke. Na figura 1, a parede segura uma ponta da mola e o peso puxa a outra: a tração no fio, e portanto a força sobre a mola, é 5,0 N, o que produz 10,0 cm de deformação (k = 0,50 N/cm).\n\nNa figura 2, a parede foi trocada por outro peso de 5,0 N. Para a mola, nada muda: em equilíbrio, cada extremidade continua sendo puxada por 5,0 N. A parede, na figura 1, fazia exatamente o papel do segundo peso.\n\nx = F ÷ k = 5,0 ÷ 0,50 = 10,0 cm\n\nA tentação é somar os dois pesos (10 N → 20 cm), mas a força que deforma a mola é a tração em cada ponta, não a soma das duas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Conservação da energia e teorema da energia cinética. O bloco parte do repouso em X, então E_CX = 0. Na rampa lisa não há atrito, e a energia mecânica se conserva entre X e Y:\n\nE_CX + U_X = E_CY + U_Y → 0 + U_X = E_CY + 0 → E_CY = U_X\n\nNo trecho horizontal YZ, só o atrito realiza trabalho, e o bloco para em Z. O módulo do trabalho do atrito é a energia cinética perdida:\n\n|W_at| = E_CY − 0 = E_CY = U_X\n\nToda a energia potencial que o bloco tinha em X acaba dissipada pelo atrito. Entre as alternativas, a que expressa isso é U_X. Cuidado com a (A): E_CY + U_X contaria a mesma energia duas vezes.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Empuxo e flutuação (princípio de Arquimedes). Flutuando, a maçã desloca um volume de água cujo peso é igual ao peso dela:\n\nvolume deslocado = 520 − 400 = 120 mL → massa da maçã = 120 g (densidade da água 1,0 g/mL)\n\nTotalmente submersa, ela desloca o próprio volume:\n\nV = 550 − 400 = 150 mL\n\nd = m ÷ V = 120 ÷ 150 = 0,80 g/mL\n\nO erro típico é usar 520 mL ou 550 mL direto, sem descontar os 400 mL de água iniciais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Calorimetria com mudança de estado. O gelo está a 0 °C e só derrete; o calor que ele recebe é Q = m·L:\n\nQ = 10 000 g × 80 cal/g = 800 000 cal\n\nEsse calor sai das 20 garrafas, então cada uma cede:\n\n800 000 ÷ 20 = 40 000 cal\n\nCada garrafa esfria de 25 °C para 0 °C. Com capacidade térmica C, o calor cedido é C·Δθ:\n\nC = 40 000 ÷ 25 = 1 600 cal/°C\n\nA alternativa (E), 40 000, é o calor por garrafa, não a capacidade térmica; faltou dividir pela variação de temperatura.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Refração em lâmina de faces paralelas. Ao atravessar a lâmina, o raio sofre duas refrações que se compensam: sai paralelo ao raio incidente, apenas deslocado lateralmente, como mostra a figura.\n\nPor isso, quem olha um objeto através do vidro de uma janela o vê numa posição ligeiramente deslocada em relação à real. Como os raios emergentes mantêm a mesma direção dos incidentes, a lâmina não faz convergir nem divergir a luz: não há ampliação nem redução, e o objeto aparenta o mesmo tamanho.\n\nO deslocamento é pequeno porque o vidro é fino, e por isso passa despercebido no dia a dia, mas ele existe.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Princípio da superposição e independência dos pulsos. Enquanto os pulsos se cruzam, a forma da corda é a soma das deformações, mas depois cada pulso segue como se o outro não tivesse existido: mantém forma e amplitude.\n\nA velocidade de propagação depende só do meio (tração e densidade linear da corda), que não mudou. Logo:\n\nv_A = v_D e A_A = A_D\n\nA alternativa (A) seria verdadeira se houvesse perda de energia, que a questão não sugere; e não faz sentido a velocidade mudar, já que a corda é a mesma.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Potência elétrica: P = U·i. \n\nEntrada: 220 × 0,50 = 110 W\nSaída: 20 × 5,0 = 100 W\nDiferença: 110 − 100 = 10 W\n\nEssa diferença é a potência dissipada no próprio carregador, principalmente como calor (por isso ele esquenta). O rendimento é 100 ÷ 110 ≈ 91%. O cuidado é calcular cada potência separadamente, multiplicando a tensão pela corrente do mesmo lado; subtrair tensões ou correntes antes de multiplicar não tem significado físico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Modelo de Bohr. A energia absorvida na transição é a diferença entre os níveis final e inicial:\n\nE₂ = −13,6 ÷ 4 = −3,40 eV\nE₃ = −13,6 ÷ 9 ≈ −1,51 eV\nΔE = E₃ − E₂ = −1,51 − (−3,40) ≈ 1,89 eV\n\nComo a energia do nível 3 é maior (menos negativa), o elétron precisa absorver energia para subir. As alternativas 1,51 e 3,40 eV são os módulos de cada nível isolado; a resposta é a diferença entre eles.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Porcentagem (lucro sobre o custo). \"Chance de 1 em 8 000\" significa que foram vendidos 8 000 bilhetes:\n\nreceita = 8 000 × 3,00 = R$ 24 000,00\n\nLucro de 60% sobre o custo C significa que a receita é 160% do custo:\n\n1,6·C = 24 000 → C = 15 000\n\nO erro tentador é calcular 60% de 24 000 e subtrair (24 000 − 14 400 = 9 600) ou tomar o próprio 14 400 (alternativa D): o lucro é sobre o custo, não sobre a receita.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Setor circular e progressão aritmética. O setor de 60° é 1/6 do círculo:\n\nπ·r² ÷ 6 = 600π → r² = 3 600 → r = 60 m\n\nAs filas ficam a cada 2,5 m a partir do palco, então a fila n está a 2,5·n metros de P:\n\n2,5·n = 60 → n = 24 filas\n\nOs assentos formam uma PA com a₁ = 6 e razão 4:\n\na₂₄ = 6 + 23 × 4 = 98\nS₂₄ = (6 + 98) × 24 ÷ 2 = 1 248\n\nCuidado para não usar a área do círculo inteiro (que daria r maior e mais filas).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Leitura de gráfico e porcentagem. As linhas tracejadas marcam 5, 10, 15, 20 e 25 mil km². Entre 1991 e 2020 (30 anos), procuramos as barras estritamente entre a linha de 10 mil e a de 15 mil.\n\nFicam nessa faixa: 1991, 1992, 1997, 2006, 2007, 2008, 2019 e 2020, ou seja, 8 anos. As barras de 1993 e 1994 alcançam a linha de 15 mil, e as de 2009 a 2018 ficam abaixo de 10 mil.\n\n8 ÷ 30 ≈ 0,267 ≈ 27%\n\nQuem conta também 1993 e 1994 chega a 10 anos, 33% (alternativa E).\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A resposta depende de ler as barras de 1993 e 1994 como iguais a 15 mil km² (estão sobre a linha); contando-as, daria 33%."
+  },
+  "0:74": {
+   "resposta": "Trigonometria no triângulo retângulo e razão de áreas. R está nas duas circunferências, então PR é o raio r₁ de C₁ e QR é o raio r₂ de C₂. O ângulo em R é reto, logo, no triângulo PRQ:\n\ntg α = cateto oposto ÷ cateto adjacente = PR ÷ QR = r₁ ÷ r₂\n\nA dízima 0,5333… vale 8/15 (0,5333… = 0,5 + 0,0333… = 1/2 + 1/30 = 16/30 = 8/15). Então r₁/r₂ = 8/15.\n\nÁreas são proporcionais ao quadrado dos raios:\n\nA₁ ÷ A₂ = (8/15)² = 64/225\n\nA alternativa (D), 8/15, é a razão dos raios; esquecer de elevar ao quadrado é o erro típico.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Potências. Um quadrado de área 10¹⁰⁰ tem lado √(10¹⁰⁰) = 10⁵⁰, e o perímetro é quatro vezes o lado:\n\nP = 4 × 10⁵⁰\n\nAgora é procurar a alternativa equivalente. Em (D):\n\n20² · 10⁴⁸ = 400 · 10⁴⁸ = 4 · 10² · 10⁴⁸ = 4 · 10⁵⁰\n\nAs alternativas 40⁵⁰ e 20⁵⁰ são tentadoras, mas 4·10⁵⁰ não é (4·10)⁵⁰: o expoente vale só para o 10.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Função quadrática: raízes, soma e produto. Os pontos (−2, 0) e (4, 0) dizem que −2 e 4 são as raízes de x² + mx + p. Com coeficiente líder 1:\n\nsoma das raízes = −m → −2 + 4 = 2 → m = −2\nproduto das raízes = p → (−2) × 4 = −8 → p = −8\n\nm + p = −2 + (−8) = −10\n\nTambém dá para escrever f(x) = (x + 2)(x − 4) = x² − 2x − 8 e ler os coeficientes. O erro comum é tomar m = +2, esquecendo o sinal na relação de soma.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Razão e proporção. Se as poupanças estão na razão 13 para 7, escreva Ana = 13k e Beto = 7k. Depois da transferência de R$ 90,00, ficam iguais:\n\n13k − 90 = 7k + 90\n6k = 180 → k = 30\n\nBeto = 7 × 30 = R$ 210,00 (e Ana = 390; depois da doação, ambos com 300).\n\nAs alternativas 390 e 300 são, respectivamente, o valor de Ana e o valor final comum, armadilhas para quem lê com pressa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Geometria analítica: intersecção de retas e distância entre pontos. A reta 5x + 6y − 40 = 0 passa por R = (8, 0) (5·8 − 40 = 0), então é a reta PR; a outra, 3x − 4y + 14 = 0, é PQ. P é a intersecção das duas:\n\n5x + 6y = 40 (×4) → 20x + 24y = 160\n3x − 4y = −14 (×6) → 18x − 24y = −84\nSomando: 38x = 76 → x = 2; daí 6y = 40 − 10 → y = 5\n\nP = (2, 5). Distância até R = (8, 0):\n\nPR = √((8 − 2)² + (0 − 5)²) = √(36 + 25) = √61\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Análise combinatória: combinação simples. A ordem das figurinhas dentro do pacotinho não importa, então o número de pacotes é C(670, 5):\n\nC(670, 5) = (670 × 669 × 668 × 667 × 666) ÷ 5!\n\nComo 5! = 120 = 10 × 3 × 4, distribua as divisões:\n\n670 ÷ 10 = 67\n669 ÷ 3 = 223\n668 ÷ 4 = 167\n\nResultado: 67 × 223 × 167 × 667 × 666.\n\nA alternativa (D) é o arranjo (conta a ordem), e a (E) permite figurinhas repetidas; nenhuma serve aqui.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Juros compostos (crescimento exponencial). Crescer 4% ao ano por 10 anos multiplica o PIB por 1,04¹⁰. Escrevendo 1,04 como fração:\n\n1,04 = 104/100 = 26/25\n\n1,04¹⁰ = (26/25)¹⁰ = 26¹⁰ ÷ 25¹⁰ = b ÷ c\n\nO erro comum é tratar o crescimento como simples (1 + 10 × 0,04) ou inverter a fração, chegando a c/b. Repare que 2000 a 2010 são 10 anos de crescimento, por isso o expoente é 10, que coincide com o expoente de b e de c.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

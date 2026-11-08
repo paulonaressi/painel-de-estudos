@@ -1,0 +1,257 @@
+{
+ "indice": "data/questoes/ficsae/2023_prova-i-objetiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Leitura de cartum (gênero humorístico em inglês). O cientista acaba de sair de uma máquina do tempo, com ar desolado, e diz algo como: \"Voltei para avisá-los, mas eles já sabiam e não pareciam se importar\".\n\nO ponto-chave é \"didn't seem to care\" (não pareciam se importar). As pessoas do passado tinham a informação (\"already knew\") e mesmo assim não reagiram: isso é indiferença. O humor, e a crítica, está em inverter o clichê das histórias de viagem no tempo, em que o aviso do futuro salvaria a humanidade; a charge sugere, por exemplo, a atitude diante de problemas anunciados, como a crise climática.\n\n\"Distraídas\" (C) não serve, porque distraído é quem não percebe; aqui elas sabiam. \"Atrasadas\" (E) também não se apoia no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Interpretação de texto (crônica de Fernando Sabino). O episódio conta a mesma crônica circulando entre os dois amigos, e cada versão atualiza o preço da sopa.\n\nNa versão original, de Sabino, a sopa custava um cruzeiro. Rubem Braga, ao reaproveitá-la, \"elevou o preço para cinco cruzeiros\". Quando a crônica voltou para Sabino, ele conta que atualizou o preço para dez cruzeiros. Essas mudanças explícitas no valor da sopa refletem a alta de preços ao longo do tempo, ou seja, a inflação.\n\nAs alternativas de miséria (D) e solidariedade (E) tocam em elementos da história (o menino pobre, a ajuda entre amigos), mas a pergunta é sobre as alterações feitas no texto, e o que se alterou de forma explícita foi o preço.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Características do gênero crônica: texto curto, ligado ao cotidiano, publicado em jornal e escrito em linguagem próxima da conversa.\n\nO prefácio de Werneck reproduz esse registro informal: \"nas horas de aperto\", \"permutar, na moita\", \"troca-troca\", \"escreveção\" e a definição portuguesa \"literatura em mangas de camisa\", que resume justamente a descontração do gênero. A crônica de Sabino citada segue o mesmo tom, com diálogos e humor (\"As outras estão muito gastas\").\n\nA linguagem rebuscada (D) é o oposto disso, e o tom moralizante (C) ou o engajamento social (A) não aparecem. A metalinguagem (B) está presente no prefácio, que fala da própria crônica, mas não é o traço \"bastante recorrente\" do gênero que a questão pede: a maioria das crônicas trata do cotidiano, não do ato de escrever.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "A alternativa B (caráter metalinguístico) também tem apoio, pois o prefácio é um texto sobre a crônica; o gabarito privilegia a informalidade como traço típico do gênero."
+  },
+  "0:4": {
+   "resposta": "Semântica: sentido denotativo (literal) e conotativo (figurado).\n\n\"Desovar\" significa, no sentido próprio, pôr ovos, como fazem peixes e tartarugas. No texto, os cronistas eram \"obrigados a desovar crônicas diárias\", isto é, a produzir textos em série, como quem põe ovos sem parar. A palavra foi deslocada do campo animal para o da escrita, o que caracteriza o sentido figurado, e ainda carrega a ideia de produção em quantidade e sob pressão.\n\nNas demais, o sentido é o usual: \"permutar\" é trocar, \"caiu\" refere-se a um edifício que de fato desabou, \"valer-se\" é recorrer a alguém, e \"aparecer em periódicos\" é ser publicado. O verbo \"caiu\" pode parecer figurado, mas o texto fala de um desabamento real, que até virou tema das três crônicas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Conectivos e relações de sentido: \"a não ser\" é uma locução que introduz uma exceção.\n\nA frase diz que a crônica talvez não seja um gênero de primeira necessidade, com exceção dos escritores que a praticam: para eles, sim, ela é indispensável (é o seu ganha-pão). A palavra que expressa exceção, com o mesmo valor, é \"salvo\": \"salvo talvez para os escritores que a praticam\".\n\n\"Inclusive\" (C) e \"mesmo\" (B) indicam inclusão, o contrário de exceção; \"nem\" (A) reforçaria a negação e \"aliás\" (E) introduz uma retificação ou um acréscimo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Expressões idiomáticas e sentido em contexto. \"Perder a cerimônia\" significa deixar de lado a formalidade, as convenções de cortesia que regulam o comportamento entre as pessoas.\n\nNo texto, Rubem Braga, \"numa hora de aperto\", pede emprestada ao amigo uma crônica pronta. Pedir um texto para publicar como seu é algo que normalmente não se faz, mesmo entre amigos: existe uma regra social não dita de que cada cronista entrega o próprio trabalho. Ao fazer o pedido sem rodeios, Rubem rompe essa etiqueta implícita.\n\nA alternativa D (falou com mais sinceridade) é a mais tentadora, mas a expressão não trata de franqueza, e sim de abandonar a formalidade e a reserva; as demais não têm apoio no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Coesão textual por elipse: omissão de um termo que o contexto permite recuperar.\n\nEm \"Acabou me dando de volta a da sopa\", o artigo \"a\" está no lugar de \"a crônica\": Rubem devolveu a Sabino \"a crônica da sopa\". O substantivo \"crônica\" foi omitido para não ser repetido, já que aparece logo antes (\"Uma crônica usada…\"), e o leitor o identifica facilmente.\n\nNas outras frases não há substantivo omitido recuperável do contexto: em A há verbos de ligação com adjetivos, em B o sujeito \"quem\" é indeterminado, em C o sujeito é indeterminado pelo \"se\", e em E os substantivos \"caso\" e \"ideia\" estão expressos. Em E, o \"um\" de \"mais de um de nós\" refere-se a pessoas, não substitui um substantivo do texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Transposição do discurso direto para o indireto: os tempos verbais \"recuam\". O presente do indicativo passa ao pretérito imperfeito e o futuro (inclusive o futuro com \"ir\" + infinitivo) passa ao futuro do pretérito.\n\n\"Vou ver\" é uma locução que expressa futuro (equivale a \"verei\"). No discurso indireto, com o verbo de elocução no passado (\"prometeu\"), fica:\nEle prometeu que veria o que poderia fazer.\n\n\"Veria\" é o futuro do pretérito, que expressa um fato futuro em relação a um momento passado. \"Verei\" (E) mantém o futuro do presente, adequado só ao discurso direto; \"viu\" (B) e \"vira\" (D) indicam ação já realizada, o que muda o sentido da promessa.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Vanguardas europeias do início do século XX. O texto reúne as marcas do Surrealismo: a \"onipotência dos sonhos\", o \"jogo desinteressado do pensamento\" (a escrita automática, livre do controle da razão), a valorização de associações antes desprezadas e, sobretudo, o nome de André Breton, autor do Manifesto do Surrealismo (1924). A própria expressão \"supra-realidade\" é a tradução literal de \"surréalité\", de onde vem o nome do movimento.\n\nNo Brasil, o Surrealismo deixou marcas em autores como Murilo Mendes e Jorge de Lima e em passagens de Mário e Oswald de Andrade.\n\nO Futurismo (A) exaltava a máquina e a velocidade; o Cubismo (E), a fragmentação e a simultaneidade de planos; Realismo (C) e Simbolismo (D) são estéticas do século XIX, não vanguardas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Recursos expressivos: ambiguidade, isto é, uma palavra ou expressão que admite mais de um sentido.\n\nNos dois primeiros quadros, um dos personagens olha as estrelas e faz a pergunta filosófica \"Qual o sentido da vida?\", em que \"sentido\" quer dizer significado, propósito. Nos quadros seguintes, os dois se aproximam e se encostam, e a resposta é \"O tato!\". O humor vem da troca de sentido da palavra: a resposta toma \"sentido\" como um dos cinco sentidos do corpo (visão, audição, olfato, paladar, tato), e o tato é justamente o que eles estão experimentando no abraço. Ao mesmo tempo, sugere que o afeto e o contato são o que dá sentido à vida.\n\nNão há sinestesia (E), que seria misturar sensações de sentidos diferentes numa mesma expressão; nem exagero (C) ou atenuação (A).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Compreensão geral de texto em inglês (ideia principal). O artigo, a partir do retorno da Apollo 11, explica os dois tipos de contaminação que preocupavam os cientistas: a \"forward\" contamination (levar vida da Terra para o espaço, o que atrapalharia a busca de vida extraterrestre) e a \"back\" contamination (trazer do espaço algum organismo perigoso para a Terra). O texto descreve cada uma e as medidas de quarentena adotadas.\n\nPor isso, o texto trata de \"types of possible contamination between the Earth and other outer space locations\" (tipos de contaminação possíveis entre a Terra e outros locais do espaço).\n\nA alternativa B é tentadora pelo primeiro parágrafo, que fala do desconforto dos astronautas na cápsula, mas esse é só o gancho inicial; a preocupação central não era o bem-estar deles, e sim os riscos de contaminação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Localização de informação em texto em inglês. O primeiro parágrafo conta que, após o pouso na Lua, os três astronautas esperavam o resgate dentro da cápsula que flutuava no Pacífico \"and they were hot and uncomfortable\" (estavam com calor e desconfortáveis). Por isso a NASA decidiu deixar a situação mais agradável para eles, o que trazia o risco de liberar micróbios.\n\nLogo, o parágrafo menciona o desconforto vivido pelos astronautas dentro da cápsula.\n\nA alternativa B erra porque o parágrafo fala da espera para serem resgatados (\"waiting to be picked up\"), não do momento do resgate. A E inventa um \"orgulho\" da NASA em exibir os heróis: o texto só diz que se quis tornar as coisas mais agradáveis para eles.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Compreensão de detalhe em texto em inglês. O segundo parágrafo define a \"forward\" contamination como \"the possibility that Earth-based life might accidentally hitch a ride into the cosmos\", ou seja, a possibilidade de que vida da Terra \"pegasse carona\" acidentalmente rumo ao espaço.\n\n\"Accidentally\" corresponde a \"unintentionally\" e \"into the cosmos\" corresponde a \"beyond the Earth\". Por isso, é a contaminação que poderia ser levada, sem querer, para além da Terra.\n\nA alternativa A inverte o sentido: micróbios extraterrestres seriam o problema da contaminação \"back\", tratada no parágrafo seguinte. O verbo \"silently moved onboard\" aparece no texto, mas se refere a micróbios terrestres entrando nas naves.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Compreensão de texto em inglês: como terminou a discussão sobre a contaminação \"back\". O quarto parágrafo conta que a NASA adotou medidas de quarentena, em parte a contragosto (\"a little reluctantly\"); o Serviço de Saúde Pública pediu regras mais rígidas, lembrando que poderia barrar a entrada de astronautas contaminados, e a NASA então concordou em instalar uma instalação de quarentena no navio de resgate e em manter os astronautas três semanas isolados.\n\nTrês semanas são 21 dias: houve providências para a entrada na Terra, com equipamento de quarentena e isolamento de 21 dias.\n\nA alternativa B diz o contrário (a NASA aceitou as recomendações). A D distorce a citação: a chance de trazer organismos era estimada em 1%, e o cientista disse justamente que esse 1% não permitia relaxar.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Leitura de anúncio publicitário em inglês (texto verbal e imagem). O slogan é \"Never go anywhere without your Skin-So-Soft\" (nunca vá a lugar nenhum sem o seu Skin-So-Soft). A imagem mostra astronautas, para quem o traje espacial é, literalmente, algo sem o qual não se vai a lugar nenhum: sem ele não há como sobreviver no espaço.\n\nO anúncio aproxima os dois objetos: assim como o traje é indispensável para quem o usa, o óleo de banho seria indispensável para suas consumidoras. Daí a ideia de que ambos são essenciais para quem os possui.\n\nA alternativa A é tentadora por causa de \"Next, the Moon?\", mas essa frase é uma brincadeira com o produto \"flutuante\" e com a corrida espacial; o anúncio não afirma que o óleo seja próprio para a vida na Lua.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "História da África: a tradição oral nas sociedades africanas antigas. Em sociedades ágrafas, isto é, sem escrita, a memória coletiva dependia da palavra falada. Figuras como os griôs (na África Ocidental) guardavam e transmitiam genealogias, mitos, leis e saberes de geração em geração.\n\nO excerto afirma justamente que a palavra falada era o meio de ligação com o sagrado e \"o elo entre o passado, o presente e o futuro\". Ou seja, a oralidade funcionava como mecanismo de preservação e de transmissão das tradições e costumes locais.\n\nAs alternativas B e C reproduzem um olhar preconceituoso, que vê a ausência de escrita como atraso ou carência cultural, ideia que o texto não sustenta. A E é anacrônica e estranha ao excerto, que trata das próprias comunidades africanas, não dos missionários europeus.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Brasil Colônia e o Antigo Sistema Colonial, conceito de Fernando Novais. Nesse sistema, ligado ao mercantilismo, a colônia existia para enriquecer a metrópole: fornecia produtos tropicais e metais e consumia manufaturas metropolitanas.\n\nO instrumento central dessa relação era o exclusivo metropolitano (o \"pacto colonial\"): a colônia só podia comerciar com a metrópole ou por meio dela. Assim, a metrópole comprava barato e vendia caro, acumulando capital. É esse o principal elemento do \"conjunto das relações\" citado no excerto.\n\nAs demais alternativas invertem a lógica do sistema: não havia equilíbrio ou isonomia comercial (A), o domínio político era da metrópole sobre a colônia (C), o trabalho predominante era escravo e não assalariado (D), e o liberalismo foi justamente a doutrina que criticou o mercantilismo (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Revolução Industrial e urbanização no século XIX. No mundo rural e artesanal, o trabalho seguia o \"tempo da natureza\": o ciclo do dia e da noite, as estações, as colheitas. Com a fábrica, o trabalho passou a ser medido pelo relógio, em jornadas fixas, com horários de entrada e saída controlados, e o tempo virou mercadoria.\n\nÉ essa a mudança que o excerto descreve, ao falar de atividades urbanas subordinadas ao \"tempo abstrato\", o dia dividido em 24 horas. Ela se liga ao nascimento das fábricas e ao crescimento acelerado de cidades como Londres e Paris (metropolização), citadas no título da obra.\n\nA alternativa A erra a cronologia: o capitalismo não surge no século XIX. A C cita a globalização, processo do fim do século XX, e a B e a E trazem ideias que até se relacionam ao capitalismo, mas não são o que o excerto destaca.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Primeira República (República Oligárquica). A política dos governadores, criada por Campos Sales, foi um acordo de troca de apoio: o presidente da República não interferia nos estados e reconhecia os grupos que os controlavam; em troca, os governadores garantiam a eleição de deputados e senadores favoráveis ao governo federal (com a ajuda da Comissão Verificadora de Poderes, que \"degolava\" opositores).\n\nNos estados, esse poder se sustentava no coronelismo: os coronéis controlavam o voto de seus currais eleitorais (voto de cabresto, que era aberto) e entregavam votos aos governadores. Resultado: oligarquias locais fortalecidas e coronéis com mais poder.\n\nA alternativa A diz o contrário, pois houve descentralização; a C ignora as fraudes e o voto de cabresto; e a D se refere à Proclamação da República, de 1889, anterior ao governo de Campos Sales.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Tropicalismo e a cultura brasileira dos anos 1960. \"Alegria, Alegria\" foi apresentada por Caetano Veloso em 1967 e é um marco da Tropicália. A canção é construída como uma colagem: um jovem caminha pela cidade e registra, sem hierarquia, o que vê nas bancas de revistas e nas ruas, como guerrilhas, presidentes, uma atriz de cinema, a bomba, Brigitte Bardot, um refrigerante americano.\n\nEssa sucessão de imagens soltas forma um painel fragmentário, que mistura política, cultura de massa e consumo, e retrata comportamentos novos da juventude, como a recusa à escola e ao casamento tradicional e a sensação de liberdade e deriva.\n\nA alternativa B é tentadora pelo contexto da ditadura, mas a canção não defende a luta armada: ela cita guerrilhas como um dos fragmentos do noticiário e se declara sem armas. A D lê como crítica o que é, na canção, a postura do próprio eu lírico.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Geopolítica do Oriente Médio: a questão curda. O mapa mostra uma área contínua que atravessa as fronteiras de Turquia, Síria, Iraque, Irã e um trecho da Armênia: é o Curdistão, território historicamente habitado pelos curdos.\n\nOs curdos formam uma das maiores nações sem Estado do mundo. Têm identidade cultural e linguística própria, embora falem diferentes variantes (daí o texto dizer que não há um \"dialeto padrão\"), e são majoritariamente muçulmanos sunitas. Após a Primeira Guerra Mundial, a promessa de um Estado curdo não foi cumprida, e eles ficaram divididos entre vários países, onde sofreram repressão.\n\nOs palestinos (B) vivem em Gaza e na Cisjordânia; os chechenos (A) estão no Cáucaso russo; os tibetanos (C) na China, e são budistas; e os bascos (E) entre Espanha e França.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Geografia industrial do Brasil: guerra fiscal e desconcentração industrial. Na guerra fiscal, estados e municípios disputam empresas oferecendo isenção ou redução de impostos (como o ICMS), terrenos, crédito e infraestrutura.\n\nEsses benefícios, somados a mão de obra mais barata e menor sindicalização, levaram muitas indústrias a sair das regiões tradicionais, sobretudo da Região Metropolitana de São Paulo, ou a instalar novas fábricas no interior paulista, no Sul, no Nordeste e no Centro-Oeste. Esse espalhamento das unidades produtivas pelo território é a desconcentração industrial, intensificada a partir dos anos 1990.\n\nA industrialização tardia (C) é a caracterização do processo brasileiro, iniciado no século XX, e não um efeito da guerra fiscal. A privatização (A) é a venda de empresas estatais, outro assunto; e a gentrificação (B) é um processo de valorização de bairros urbanos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Pedologia: composição do solo. O gráfico mostra a composição típica de um solo: uma parte sólida, formada por minerais (45%), resultantes do intemperismo da rocha, e matéria orgânica (5%), vinda da decomposição de restos de seres vivos; e os poros, ocupados por água (25%) e ar (25%).\n\nEsses quatro elementos são os componentes dos solos, e suas proporções não são fixas: mudam de um solo para outro e entre os horizontes de um mesmo perfil. O horizonte superficial (A), por exemplo, costuma ser mais rico em matéria orgânica que os horizontes mais profundos, mais próximos da rocha-mãe.\n\nAs forças endógenas (A) são as internas da Terra, como o tectonismo e o vulcanismo; os agentes erosivos (B) são a água, o vento e o gelo; nenhuma das duas descreve a composição mostrada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Consumo e meio ambiente: sociedade de consumo e pegada hídrica. A imagem critica a \"moda rápida\": roupas produzidas em massa, baratas, pouco duráveis e logo descartadas, num ciclo que estimula a compra constante. Esse modelo, em que o consumo é motor da economia e da identidade social, é chamado de sociedade de consumo.\n\nOs galões mostram que uma única camiseta gasta 1 750 litros de água (17 galões e meio de 100 litros), contando o cultivo do algodão, o tingimento e o processamento. Esse volume de água usado, direta e indiretamente, ao longo da produção de um bem é a pegada hídrica.\n\nA alternativa A é tentadora pela segunda parte, mas consumo consciente é o oposto do que a imagem mostra, e a pegada ecológica é um indicador mais amplo. Créditos de carbono (C) dizem respeito a emissões de gases, não à água.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Cartografia: sistema de coordenadas geográficas. Qualquer ponto da superfície terrestre pode ser localizado com precisão pela latitude (distância angular ao Equador, de 0° a 90° norte ou sul) e pela longitude (distância angular ao meridiano de Greenwich, de 0° a 180° leste ou oeste).\n\nOs Plus Codes funcionam assim: convertem a latitude e a longitude de um lugar num código curto de letras e números. Por isso permitem localizar uma casa numa área rural ou um comércio numa rua sem nome, sem depender de nome de rua ou número, como diz o excerto.\n\nO sensoriamento remoto (A) é a obtenção de imagens por satélites ou aviões; ele pode ajudar a mapear, mas não é a base do endereço. Escalas (D) e projeções (E) tratam da representação da Terra no mapa, não da localização de pontos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Imunologia: antígenos e resposta imunitária. Antígeno é qualquer substância reconhecida pelo sistema imunitário como estranha ao organismo e capaz de desencadear uma resposta, como a produção de anticorpos ou a ação de células de defesa.\n\nOs pigmentos de tatuagem, injetados na derme, são partículas estranhas: o organismo reage a elas, com macrófagos que as englobam e, em algumas pessoas, com reações alérgicas e inflamatórias, como cita o texto. Ao estimularem o sistema imunológico, os pigmentos atuam, portanto, como antígenos.\n\nImunoglobulinas (B) são os anticorpos, produzidos pelo próprio organismo em resposta ao antígeno; fagócitos (C) são as células que englobam partículas; interferons (E) são proteínas antivirais; e imunossupressores (D) teriam o efeito oposto, de reduzir a resposta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Citologia: características comuns a todas as células. A lista mistura procariontes e eucariontes: pneumococos são bactérias (procariontes); clorofíceas (algas verdes), paramécios (protozoários), leveduras (fungos), laranjeiras e moscas são eucariontes.\n\nToda célula viva produz as próprias enzimas, a partir dos ribossomos e da informação do DNA, e as usa no seu metabolismo. Essa característica vale para todos os seres citados.\n\nAs demais não são universais. Bactérias não têm núcleo individualizado (B) nem organelas membranosas (E). O glicocálice fica só na face externa da membrana (C). E a A troca termos: a fosforilação oxidativa ocorre na respiração e a fotofosforilação, na fotossíntese, que paramécios, leveduras, moscas e pneumococos não realizam.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Reprodução das angiospermas: estrutura da flor e dupla fecundação. No milho, o \"cabelo\" são os longos estiletes das flores femininas da espiga. Cada fio é parte do gineceu (estigma e estilete) e liga-se a um ovário, que após a fecundação vira um grão. O pólen que cai no \"cabelo\" forma o tubo polínico, que desce pelo estilete até o óvulo.\n\nPor que as outras erram:\nA: nas plantas, os gametas são formados por mitose no gametófito; a meiose produz esporos.\nB: o endosperma (3n) resulta da fusão de um núcleo espermático com os dois núcleos polares, não com duas oosferas.\nC: o grão de pólen é o gametófito masculino, haploide, e transporta núcleos espermáticos, não esporos.\nD: o embrião (2n) vem da fusão de um núcleo espermático com a oosfera; a D troca a oosfera pelo núcleo polar.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Teorias e mecanismos evolutivos. Texto 1: dizer que a cor da plumagem \"surgiu para camuflar\" as aves atribui uma finalidade à mudança, como se a característica aparecesse por necessidade. Esse raciocínio finalista é típico do lamarckismo; no darwinismo, a variação existe antes e a seleção apenas favorece quem já a possui.\n\nTexto 2: um incêndio, evento casual, matou 30 de 40 lagartos sem relação com a cor das escamas, e as escuras se tornaram predominantes só porque os sobreviventes as tinham. Mudança da frequência gênica ao acaso, numa população pequena, é oscilação gênica (deriva genética).\n\nTexto 3: as serpentes com fosseta loreal sobrevivem e deixam mais descendentes com essa estrutura. É a seleção natural, ideia central do darwinismo.\n\nO efeito fundador (A e D) exigiria que poucos indivíduos colonizassem uma área nova, o que não ocorre no texto 2.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Meiose com não disjunção e determinação do sexo em abelhas (haplodiploidia).\n\nA rainha tem dezesseis pares de cromossomos nas células somáticas: 2n = 32. Numa meiose normal, cada gameta (óvulo) recebe n = 16.\n\nSe um par de homólogos não se separa, esse par inteiro vai para um dos lados da divisão e o outro lado fica sem ele. Os gametas resultantes terão:\n16 + 1 = 17 cromossomos (recebeu os dois homólogos do par)\n16 − 1 = 15 cromossomos (ficou sem nenhum deles)\n\nOs zangões se desenvolvem por partenogênese, a partir de óvulos não fecundados; portanto têm exatamente o número de cromossomos do óvulo que os originou: 15 ou 17.\n\nA alternativa B (31 e 33) seria a resposta para as operárias e rainhas, que vêm de óvulos fecundados por espermatozoides com 16 cromossomos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Tema: **processos de separação de misturas**.\n\nAo mergulhar o sachê na água quente, a água atua como solvente e dissolve substâncias solúveis das ervas (pigmentos, aromas, compostos amargos), transferindo-as para a bebida: isso é **extração com solvente**.\n\nAo mesmo tempo, o papel do sachê funciona como um filtro: deixa passar a solução (o chá), mas retém as partes sólidas e insolúveis das ervas. Isso é **filtração**.\n\nNão há destilação por arraste de vapor (que exigiria vaporizar e condensar os componentes voláteis) nem decantação (não se espera um sólido assentar para depois separar o líquido).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Tema: **cálculo estequiométrico — porcentagem em massa**.\n\nMassa molar do espodumênio, LiAlSi₂O₆ (massas aproximadas: Li ≈ 6,9; Al ≈ 27; Si ≈ 28; O = 16):\nM = 6,9 + 27 + 2 · 28 + 6 · 16\nM ≈ 186 g/mol\n\nEm 1 mol do mineral há 1 mol de Li, ou seja, cerca de 6,9 g de lítio:\n%Li = 6,9 ÷ 186 × 100\n%Li ≈ 3,7%\n\nCuidado para não confundir com a alternativa D (6,9%), que é a massa molar do lítio, e não sua porcentagem no mineral.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Tema: **escala de pH**.\n\nO pH é logarítmico: pH = −log[H⁺]. Cada unidade a menos de pH corresponde a uma concentração de H⁺ dez vezes maior.\n\nMédias: suco de maçã → (2,9 + 3,3) ÷ 2 = 3,1; suco de cenoura → (4,9 + 5,3) ÷ 2 = 5,1.\n\nDiferença: 5,1 − 3,1 = 2 unidades de pH\nRazão entre as concentrações de H⁺: 10² = 100\n\nComo o suco de maçã tem pH menor, ele é **100 vezes mais ácido**. As alternativas \"alcalino\" erram o sentido: pH menor significa mais ácido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Tema: **eletrólise — leis de Faraday**.\n\nNo objeto (polo negativo, cátodo) ocorre a redução: Cu²⁺ + 2 e⁻ → Cu. Cada mol de cobre exige 2 mol de elétrons.\n\nCarga que circulou:\nQ = i · t = 0,200 A × (80 × 60 s) = 960 C\n\nElétrons:\nn(e⁻) = 960 ÷ 96 500 ≈ 9,95 × 10⁻³ mol\n\nCobre depositado:\nn(Cu) = 9,95 × 10⁻³ ÷ 2 ≈ 4,97 × 10⁻³ mol\nm(Cu) = 4,97 × 10⁻³ × 63,5 ≈ 0,32 g\n\nO valor mais próximo é 0,3 g. Esquecer o fator 2 dos elétrons leva a cerca de 0,6 g; esquecer de converter minutos em segundos leva a 0,005 g (alternativa A).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Tema: **reações de eliminação — desidratação de álcoois e catálise**.\n\nA desidratação é **intramolecular** quando a água sai de uma única molécula de álcool, formando um alceno: C₂H₅OH → C₂H₄ + H₂O. Seria intermolecular se duas moléculas de álcool se unissem, liberando água e formando um éter (C₂H₅–O–C₂H₅).\n\nCatalisador é a espécie que participa do mecanismo mas é **regenerada** ao final, sem aparecer na equação global. O H⁺ é consumido na etapa 1 e devolvido na etapa 2: é o catalisador.\n\nO C₂H₅OH₂⁺ é formado na etapa 1 e consumido na etapa 2: é um **intermediário**, não um catalisador. A H₂O é produto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Tema: **potência e energia**.\n\nPotência total das estruturas da tabela:\nP = 20 + 10 + 25 + 7 + 18 = 80 W\n\nEnergia gasta em 10 h:\nΔt = 10 × 3 600 = 36 000 s\nE = P · Δt = 80 × 36 000 = 2 880 000 J = 2 880 kJ\n\nO arroz fornece 700 kJ a cada 50 g, ou seja, 14 kJ por grama:\nm = 2 880 ÷ 14 ≈ 206 g\n\nO valor mais próximo é 200 g.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Tema: **dilatação térmica dos líquidos**.\n\nA água dilata e passa a ocupar o centímetro que faltava. Como o fundo é plano e as paredes são verticais (área da base A constante), o volume é proporcional à altura, e a dilatação pode ser escrita em termos de altura:\n\nΔV = V₀ · γ · ΔT  →  A · Δh = A · h₀ · γ · ΔT\n\nCom Δh = 0,01 m, γ = 2 × 10⁻⁴ °C⁻¹ e ΔT = 35 − 15 = 20 °C:\n0,01 = h₀ × 2 × 10⁻⁴ × 20\nh₀ = 0,01 ÷ 0,004 = 2,5 m\n\nA profundidade é H = h₀ + 0,01 ≈ 2,51 m, ou seja, aproximadamente 2,5 m. (A dilatação do material da piscina é desprezada.)\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Tema: **espelhos esféricos — equação de Gauss**.\n\nPrimeira situação: objeto e imagem real e invertida no mesmo ponto, a 40 cm. Isso só acontece quando o objeto está no centro de curvatura: R = 40 cm, logo f = 20 cm.\n(Pela equação: 1/f = 1/40 + 1/40 → f = 20 cm.)\n\nSegunda situação: objeto a p = 10 cm, entre o foco e o vértice.\n1/p' = 1/f − 1/p = 1/20 − 1/10 = −1/20\np' = −20 cm\n\nO sinal negativo indica imagem **virtual** (atrás do espelho), a 20 cm do vértice. É o caso do espelho de aumento: imagem direita e maior.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Tema: **ondas estacionárias em cordas**.\n\nA figura mostra 3 ventres (3 \"fusos\") entre as extremidades fixas. Cada fuso vale meio comprimento de onda:\n3 · λ/2 = 3 m  →  λ = 2 m\n\nVelocidade da onda:\nv = λ · f = 2 × 30 = 60 m/s\n\nDensidade linear:\nμ = 0,120 kg ÷ 3 m = 0,04 kg/m\n\nDa expressão v = √(T/μ):\nT = μ · v² = 0,04 × 3 600 = 144 N\n\nErro comum: tomar λ = 3 m (o comprimento da corda), o que daria T = 324 N, ou esquecer de converter 120 g em kg.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Tema: **geradores elétricos — curto-circuito**.\n\nA tensão nos terminais de uma pilha real é U = ε − r · i. O clip, de resistência desprezível, liga diretamente os dois polos; como a tensão em um fio ideal é R · i = 0, a diferença de potencial entre os extremos da pilha fica **nula**.\n\nCom U = 0, toda a força eletromotriz é \"gasta\" na resistência interna:\n0 = ε − r · i  →  i = ε ÷ r\n\nEssa é a maior corrente possível (corrente de curto-circuito), e a potência r · i² se dissipa dentro da própria pilha — por isso ela esquenta.\n\nO clip não altera a resistência interna nem a força eletromotriz, que são características da pilha; e a tensão nos terminais fica zero, não igual a ε.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Tema: **proporcionalidade direta**.\n\nO comprimento de cada palavra é proporcional à sua frequência. Pelas medidas indicadas, \"azul\" tem 1 cm e \"mundo\" tem 1 cm + 3,5 cm = 4,5 cm, ou seja, \"mundo\" é 4,5 vezes maior.\n\nFrequência de \"mundo\":\n4,5 × 1,5% = 6,75%\n\nO erro mais comum é usar só o trecho de 3,5 cm: 3,5 × 1,5% = 5,25% (alternativa A). A cota de 3,5 cm mede apenas a parte que excede o comprimento de \"azul\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Tema: **regra de três e dosagem por massa corporal**.\n\nDose diária: 25 mg (de amoxicilina + clavulanato) por kg.\n39 kg × 25 mg/kg = 975 mg por dia\n\nDividida em três tomadas (de 8 em 8 horas):\n975 ÷ 3 = 325 mg por dose\n\nA suspensão tem 250 mg + 62,5 mg = 312,5 mg em 5 mL, ou seja, 62,5 mg por mL:\n325 ÷ 62,5 = 5,2 mL\n\nAtenção: a referência de 25 mg inclui os dois componentes (20 + 5), por isso a comparação deve ser feita com os 312,5 mg totais da suspensão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Tema: **lei dos senos e área do círculo**.\n\nEm um triângulo inscrito, vale a lei dos senos estendida: lado ÷ seno do ângulo oposto = 2R.\nFE ÷ sen 30° = 2R\n20 ÷ 0,5 = 40  →  R = 20 cm\n\nÁrea do círculo:\nπ · R² = 3,14 × 400 = 1 256 cm²\n\nA região hachurada é o círculo menos o triângulo:\n1 256 − 370 = 886 cm²\n\n(Equivalente: o ângulo inscrito de 30° corresponde a um ângulo central de 60°, e a corda de 20 cm forma com o centro um triângulo equilátero, de lado igual ao raio.)\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Tema: **problema com frações e equação do 1º grau**.\n\nSeja x a idade de Catarina ao morrer. As frações somam:\n1/5 + 1/12 + 1/6 = 12/60 + 5/60 + 10/60 = 27/60 de x\n\nDepois disso vêm 6 anos até o filho nascer, a vida do filho (0,3x) e mais 9 anos:\n27x/60 + 6 + 0,3x + 9 = x\nx − 0,45x − 0,3x = 15\n0,25x = 15  →  x = 60 anos\n\nO filho viveu:\n0,3 × 60 = 18 anos\n\nConferência: 12 + 5 + 10 + 6 + 18 + 9 = 60.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Tema: **volume de prisma e área de polígono na malha**.\n\nVolume do prisma = área da base × altura.\n\nNa malha (1 cm por quadradinho), tomando F como origem, os vértices ficam em F(0, 0), M(2, −1), A(5, −1) e I(2, −3).\n\nDividindo o quadrilátero pela diagonal MI (vertical, de comprimento 2):\nTriângulo MAI: retângulo em M, catetos MA = 3 e MI = 2 → área 3 × 2 ÷ 2 = 3\nTriângulo FMI: base MI = 2, distância de F até a reta MI = 2 → área 2 × 2 ÷ 2 = 2\nÁrea de FMAI = 3 + 2 = 5 cm²\n(A fórmula do determinante/shoelace confirma: 5 cm².)\n\nVolume:\nV = 5 × 10 = 50 cm³\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Tema: **inequação-quociente (estudo de sinal)**.\n\nRaízes: 5x − 1 = 0 → x = 1/5; −x + 2 = 0 → x = 2; denominador 1 − 2x = 0 → x = 1/2 (excluído).\n\nEstudo de sinal de (5x − 1)(−x + 2) ÷ (1 − 2x):\nx < 1/5: (−)(+)/(+) → negativo ✓\n1/5 < x < 1/2: (+)(+)/(+) → positivo ✗\n1/2 < x < 2: (+)(+)/(−) → negativo ✓\nx = 1/5 e x = 2 anulam a expressão ✓\n\nSolução: x ≤ 1/5 ou 1/2 < x ≤ 2.\n\nTestando x = n/10, n de 1 a 9:\nn = 1 (0,1) e n = 2 (0,2) servem;\nn = 3, 4 não servem; n = 5 (0,5) zera o denominador;\nn = 6, 7, 8, 9 servem.\n\nTotal: 6 valores. Erro comum: incluir x = 1/2, que anula o denominador.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Tema: **probabilidade da união de eventos**.\n\nCompletando a tabela:\nOpção 2 das mulheres = 19 − 10 = 9\nTotal de mulheres = 4 + 9 = 13; total de homens = 30 − 13 = 17\nTotal da opção 1 = 30 − 19 = 11; homens na opção 1 = 11 − 4 = 7\n\nP(mulher ou opção 1) = P(M) + P(O1) − P(M e O1)\n= 13/30 + 11/30 − 4/30 = 20/30 = 2/3\n\nOutro caminho: o complementar é \"homem que votou na opção 2\" = 10 alunos, logo 1 − 10/30 = 2/3.\n\nSomar sem descontar a interseção dá 24/30, e a alternativa 6/5 é impossível para uma probabilidade.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Tema: **propriedades dos logaritmos**.\n\nlog(2,5 · 10⁻¹⁸) = log 2,5 + log 10⁻¹⁸ = log 2,5 − 18\n\nEscrevendo 2,5 = 10/4 = 10/2²:\nlog 2,5 = log 10 − 2 · log 2 = 1 − 0,602 = 0,398\n\nLogo:\nlog(2,5 · 10⁻¹⁸) = 0,398 − 18 = −17,602\n\nA alternativa B (−18,398) surge de somar −18 com −0,398, trocando o sinal de log 2,5; lembre que 2,5 > 1, então seu logaritmo é positivo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Tema: **trigonometria no triângulo retângulo (tangente)**.\n\nNo triângulo da figura, A é o cateto horizontal (na pele), B é o cateto vertical (profundidade do alvo) e α é o ângulo junto ao ponto de incisão, adjacente a A e oposto a B. Logo:\ntg α = B ÷ A, com B = 2 cm\n\nTestando os pares:\nS₁: 2√3 · tg(π/3) = 2√3 · √3 = 6\nS₂: 3√3 · tg(π/6) = 3√3 · (√3/3) = 3\nS₃: 2 · tg(π/4) = 2 · 1 = 2 ✓\nS₄: (2√3/3) · (√3/3) = 2/3\nS₅: 1 · 1 = 1\n\nSó S₃ dá B = A · tg α = 2 cm.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Tema: **sistemas lineares e posição relativa de retas**.\n\nRetas paralelas distintas correspondem a um sistema impossível: os coeficientes de x e y são proporcionais, mas os termos independentes não.\n\n(m − 1) ÷ 2 = −3 ÷ 5\nm − 1 = −6/5\nm = −1/5\n\nConferência de que são distintas: a razão dos termos independentes é 2 ÷ (−1) = −2, diferente de −3/5. Logo as retas são paralelas e não coincidentes.\n\n(Pelos coeficientes angulares: a primeira reta tem inclinação (m − 1)/3 e a segunda, −2/5; igualando, m − 1 = −6/5.)\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

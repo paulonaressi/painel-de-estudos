@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/fcmscsp/2023_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Leitura de tirinha em inglês e efeito de humor. A Morte lê um livro e comenta, quadro a quadro, que ele a deixa \"triste\" (\"sad\"), que lhe dá vontade de chorar e de se abraçar (\"want to cry and hug myself\") e que transmite uma sensação de \"solidão eterna\" (\"eternal solitude\"). No último quadro, a conclusão surpreende: \"I love it\", ou seja, \"eu adoro\".\n\nO humor está na quebra de expectativa: a personagem gosta justamente daquilo que a faz sofrer. Sentir prazer no próprio sofrimento é o que define o masoquismo.\n\nEla não demonstra saudade de algo passado (nostálgica), nem desconfiança, nem falta de sentimento: ao contrário, é muito sensível ao que lê, o que descarta \"insensível\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Caracterização de personagem no conto de Machado de Assis. Durante todo o trecho, Eusébio recusa com firmeza os pedidos do tio João: diz que não, \"e repetiu que não, à tarde, e no dia seguinte\"; nem a ameaça com a presença de Cirila o demove, e ele chega a declarar que faria \"coisa pior\" se ela viesse. Por fim, o tio desiste \"pela energia do sobrinho\". Esse comportamento revela determinação.\n\nResignação é a atitude do tio João, não a de Eusébio; hesitação seria o oposto da firmeza mostrada. Também não há dissimulação (ele diz claramente o que quer) nem abnegação (ele age segundo a própria vontade, não em sacrifício pelo outro).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Foco narrativo e intrusão do narrador. Na maior parte do conto, o narrador em 3ª pessoa apenas relata as ações. Na alternativa E, porém, ele comenta a própria narração e se dirige ao leitor: \"vamos ver que nenhuma destas hipóteses era sequer imaginável\". A primeira pessoa do plural (\"vamos\") inclui o narrador e o leitor, um recurso típico do Machado de Assis maduro.\n\nAs demais alternativas trazem só o relato dos fatos (a ameaça do tio, a viagem à guerra, a despedida, o medo do tio), sem marca explícita da presença do narrador.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Metalinguagem: o texto falando de si mesmo. No início do capítulo II, o narrador diz que há coisas que \"estão patentes ou se deduzem do capítulo anterior\". Ele se refere à própria estrutura do conto (o capítulo anterior) e ao modo como o leitor deve lê-lo, o que caracteriza a metalinguagem, recurso frequente na prosa machadiana da fase madura.\n\nAs outras alternativas narram fatos da história (a chegada do tio, as recusas de Eusébio, a desistência do tio, a ida à guerra); nenhuma comenta o próprio ato de narrar.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Discurso direto e indireto. Na passagem para o discurso indireto, a fala deixa de ser reproduzida literalmente e passa a ser incorporada ao relato do narrador, normalmente introduzida por \"que\". Mudam também pessoa e tempo verbal:\n\n\"Já lhe disse\" (pretérito perfeito, 1ª pessoa, dirigido ao tio) passa a \"já tinha dito a ele\" (pretérito mais-que-perfeito, 3ª pessoa);\n\"o que tenho de dizer\" (presente) passa a \"o que tinha de dizer\" (pretérito imperfeito).\n\nResultado: \"Eusébio respondeu que já tinha dito a ele o que tinha de dizer.\"\n\nB e C mantêm o travessão, logo continuam em discurso direto; A troca o passado por futuro do pretérito (\"diria\"), alterando o sentido; E usa \"teria dito\", que exprime hipótese.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Expressão expletiva (ou de realce). Em \"eu é que sou mau\", a locução \"é que\" pode ser retirada sem prejuízo do sentido: \"eu sou mau\". Ela serve apenas para enfatizar o sujeito \"eu\", como se Eusébio dissesse \"o problema sou eu, não ela\". É o exemplo clássico de expletivo em português.\n\nNas demais alternativas, nenhum termo é dispensável: \"nem\", \"não\" e \"nada\" carregam a negação, e \"melhor efeito\" e \"o que era\" são partes necessárias da estrutura das frases.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Estilos de época: o Barroco. O texto descreve uma arte marcada pela tensão entre opostos: de um lado, as exigências da Contrarreforma católica e a visão teocêntrica; de outro, o mundo terreno, as conquistas e a visão antropocêntrica herdada do Renascimento. Essa \"dicotomia, quase uma dilaceração\" entre divino e humano, sagrado e profano, é a marca central do Barroco (século XVII), que se expressa por antíteses e paradoxos.\n\nO Renascimento valorizava o antropocentrismo sem esse conflito religioso; o Arcadismo busca equilíbrio e simplicidade; o Romantismo e o Simbolismo são estéticas do século XIX, sem vínculo com a Contrarreforma.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Comparação no soneto de Camões. As duas primeiras estrofes montam uma comparação: assim como a borboleta, fascinada pela luz da vela, voa ao redor dela até se queimar, \"tal eu\" corro \"ao vivo lume / desses olhos gentis, Aónia bela\" e me abraso.\n\nOu seja, o eu lírico é a borboleta, e os olhos de Aónia correspondem à vela acesa, a luz que atrai e consome. O conectivo \"tal\" no início da segunda estrofe é a pista da comparação.\n\nAs alternativas B e D invertem os papéis, pondo Aónia no lugar da borboleta; C e E fazem do eu lírico o lume, quando é ele quem corre em direção à luz.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Vocativo é o termo usado para chamar ou interpelar alguém, geralmente isolado por vírgulas. No verso \"desses olhos gentis, Aónia bela;\", o eu lírico se dirige diretamente à amada: \"Aónia bela\" é o vocativo.\n\nA vela e a borboleta aparecem apenas como elementos da comparação; \"Amor\" e a \"alma\" são sujeitos de orações (\"não quer Amor\", \"nem a minha alma o quer\"), não termos de chamamento.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Figuras de linguagem: paradoxo. Nos versos finais, o eu lírico diz que, \"em tal tormento\", sua alma está contente \"qual em glória maior\", isto é, como se estivesse na maior felicidade. Ele une num mesmo estado duas ideias que se excluem: sofrer e estar feliz. A afirmação aparentemente absurda de que o tormento traz contentamento é um paradoxo, recurso típico da lírica amorosa camoniana.\n\nNão há repetição redundante (pleonasmo), suavização de algo desagradável (eufemismo), mistura de sentidos (sinestesia) nem atribuição de traço humano a ser inanimado (personificação).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Ideia principal de texto jornalístico em inglês. A notícia apresenta um estudo preliminar com mais de 6.200 adultos que encontrou correlações entre genes ligados ao paladar e a preferência por certos grupos de alimentos: quem é sensível ao amargo come menos grãos integrais, quem percebe muito o sabor salgado/umami come menos verduras. O propósito central é informar que a genética pode influenciar (\"could\") o que escolhemos comer.\n\nO verbo modal \"could\" é o que sustenta a alternativa B: o próprio texto ressalva que os genes não \"determinam\" as preferências, apenas têm um papel. A alternativa E é a mais tentadora, mas o texto quase não descreve o método da pesquisa. A, C e D tratam de expectativa de vida, falta de pesquisa e saúde, temas que o texto não desenvolve.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A alternativa B usa \"determine\", verbo que o próprio texto relativiza (\"none of that means genes determine your food preferences\"); o gabarito se apoia no modal \"could\"."
+  },
+  "0:12": {
+   "resposta": "Referência pronominal. Em \"Those whose genes made them sensitive to bitter flavors\", \"those\" significa \"aqueles\" e retoma pessoas: são aqueles cujos genes os tornam sensíveis ao amargo e que, por isso, comem menos grãos integrais. As únicas pessoas mencionadas antes na frase anterior são os participantes do estudo, \"over 6,200 adults\".\n\nGenes, correlações, preferências e grupos de alimentos não podem ter genes nem comer, então não servem como referente.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Vocabulário em contexto. \"Likely\" significa \"provável\"; \"less likely to eat their veggies\" quer dizer que essas pessoas têm menor probabilidade de comer verduras, ou seja, são \"menos propensas\" a comê-las.\n\nA expressão indica tendência, não esforço, capacidade ou exigência. \"Menos capazes\" (B) é a confusão mais comum, mas capacidade seria \"less able\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Polissemia de \"still\". No texto, \"Still, none of that means genes determine your food preferences\" usa \"still\" como conectivo de concessão/contraste, equivalente a \"ainda assim\", \"mesmo assim\": apesar das correlações encontradas, os genes não determinam as preferências.\n\nO mesmo sentido aparece em A: \"Não gosto muito de casamentos. Ainda assim, vou ter de ir\".\n\nEm B, \"still\" é advérbio de tempo (\"ainda não teve aulas\"); em C, D e E, é adjetivo com sentido de \"parado, imóvel, calmo\" (\"cabeça parada\", \"águas paradas\", \"noite calma\").\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Advérbios de frequência. \"Often\" significa \"frequentemente, com frequência\": \"as pessoas muitas vezes não sabem por que têm dificuldade\" para comer certos alimentos. Ele indica com que frequência algo acontece, ou seja, expressa frequência.\n\nNão exprime ênfase, incerteza (seria \"maybe\", \"perhaps\"), negação ou incapacidade; a negação da frase está em \"don't\", não em \"often\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Interpretação de fala citada. Gervis diz \"We're moving away from general nutrition advice to a more personalized approach\": estamos deixando as recomendações nutricionais gerais e indo para uma abordagem mais personalizada. A estrutura \"moving away from X to Y\" descreve a troca de um modelo por outro, isto é, uma mudança de paradigma (\"paradigm shift\").\n\nNão há consequência lógica de algo dito antes, pressuposição, contradição (paradoxo) nem questão moral.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Expressão idiomática. \"Easy does it\" é usada para pedir calma e cuidado: \"vá com calma\", \"devagar\". No pôster, o adolescente está pendurado pelos pés em cordões presos aos ícones de redes sociais, e o texto informa que jovens passam ao menos três horas por dia nelas, com efeito negativo na autoestima de 60% deles. A mensagem é desacelerar, reduzir o ritmo de uso: \"slow down their actions\".\n\nD (acompanhar o ritmo) diz o oposto; A, C e E não têm relação com o sentido da expressão.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Finalidade de texto publicitário/campanha. O pôster combina a imagem de um jovem preso, como um fantoche, às redes sociais com o dado de que adolescentes passam pelo menos três horas diárias nelas e que isso prejudica a autoestima. O objetivo é conscientizar sobre o uso excessivo, a dependência das redes: \"raise awareness about social media addiction\".\n\nC é tentadora por causa da autoestima, mas o pôster não fala de imagem corporal. D e E contrariam a mensagem, e o conteúdo não tem intenção de entreter (B).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Vocabulário e formação de palavras. \"Helpless\" é formado por \"help\" (ajuda) + \"-less\" (sem): \"sem ajuda, indefeso, impotente\"; \"helplessly\" é o advérbio, \"de modo impotente\". Snoopy pensa que todos estamos agarrados, impotentes, a um globo que voa pelo espaço, sem poder fazer nada.\n\nEntre as opções, a que traduz essa ideia de impotência é a expressão figurada \"with hands tied\", \"de mãos atadas\".\n\nD (\"sem dificuldade\") confunde o sufixo; B, C e E (silencioso, irritado, corajoso) não correspondem ao sentido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Expressão \"what if\". \"What if...?\" significa \"e se...?\" e introduz uma hipótese, uma suposição sobre algo que poderia acontecer. No último quadro, Snoopy, deitado no telhado como se fosse um avião, imagina: \"E se as asas caírem?\". É uma pergunta suposicional, e o humor vem justamente da ansiedade de imaginar catástrofes.\n\nNão é pergunta retórica (que dispensa resposta por já ter uma implícita), nem óbvia; dentro da preocupação do personagem, ela também não é sem sentido ou desnecessária.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Antiguidade tardia: cristianização do Império Romano. No século IV, o cristianismo deixou de ser perseguido (Edito de Milão, 313) e, com Teodósio I, tornou-se religião oficial; em 391 os templos pagãos foram fechados. O excerto mostra um efeito inesperado no Egito: sem os templos, onde os sacerdotes mantinham viva a escrita hieroglífica, esse sistema deixou de ser compreendido em pouco tempo.\n\nOu seja, uma decisão político-religiosa provocou uma transformação histórica com mudança cultural profunda, a perda de uma escrita milenar.\n\nA é exagerada (a arte continuou religiosa, agora cristã); B limita consequências que atravessaram séculos; D não se sustenta, pois o texto não fala de imposição de língua; E atribui ao decreto uma motivação bíblica que o texto não menciona.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Renascimento e Os Lusíadas. O censor da Inquisição aprovou o poema mesmo com a presença dos deuses pagãos (a \"fábula dos Deuses dos Gentios\"), porque entendeu que se tratava de ornamento poético, \"Poesia e fingimento\", e que a verdade da fé cristã ficava preservada.\n\nIsso revela a marca do Classicismo renascentista: Camões imita a epopeia greco-romana (Homero, Virgílio), com sua mitologia, mas conta um feito de cristãos portugueses dentro de uma visão monoteísta. O poema sintetiza o mundo clássico e o cristianismo.\n\nA erra o período (1572 é Renascimento, não Barroco) e o sentido (não há ritos pagãos ressuscitados); D contraria o texto, em que o censor libera a obra; B e E não aparecem no excerto, e o poema exalta feitos de armas, não pacifismo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Expansão marítima portuguesa e Contrarreforma. O censor fala dos \"valorosos feitos em armas\" dos portugueses na Ásia e na Europa e da \"entrada dos portugueses na Índia\", tema central de Os Lusíadas (a viagem de Vasco da Gama). Ao mesmo tempo, a própria existência da censura inquisitorial e a ressalva de que \"todos os deuses dos Gentios são Demônios\" mostram o empenho em preservar e difundir a fé católica.\n\nAssim, poema e censor expõem a expansão geográfica portuguesa associada ao projeto de universalizar o catolicismo, princípio religioso dominante na Europa, ideia de \"dilatar a fé e o império\".\n\nA, C, D e E contrariam a história: as navegações tiveram enorme peso econômico, misturavam motivos políticos, econômicos e religiosos, apoiaram-se na escravidão e ocorreram sob monarquias absolutistas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Mineração na América espanhola colonial. O texto mostra que até o Novo México, região pobre e sem metais preciosos, dependia da mineração, porque vendia produtos animais e vegetais para as vilas de prata do norte da Nova Espanha. A mineração funcionava como centro dinâmico da economia colonial: articulava em torno de si regiões fornecedoras de alimentos, animais e outros bens.\n\nB é contrariada pelo próprio texto (a mineração era a atividade mais rentável, e o Novo México era pobre); C é anacrônica, pois a política era mercantilista; D e E ignoram a exploração do trabalho indígena (como a mita) e africano na colônia.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Brasil no início do século XIX e a Missão Artística Francesa. Félix-Émile Taunay pintou, em 1830, uma mata tropical exuberante e, em primeiro plano, a derrubada de árvores: troncos cortados e empilhados para virar carvão. No detalhe, aparecem trabalhadores negros cortando e carregando a madeira, num Brasil ainda escravista.\n\nO quadro registra, portanto, a exploração do trabalho escravo na floresta tropical, ligada ao desmatamento.\n\nA é anacrônica (não havia indústria relevante em 1830); B contradiz a imagem, que mostra a mata sendo vencida pelo machado; C atribui ao quadro um julgamento sobre produtividade que ele não faz; E não se sustenta, pois a cena é rural, sem cidade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "América Latina no século XIX. A autora defende que as histórias dos países latino-americanos correm em paralelo: colonização ibérica, independência, formação dos Estados nacionais e a \"preeminência inglesa e depois a norte-americana\". Esse último ponto indica que todos se inseriram, de modo semelhante, numa ordem internacional dominada por potências hegemônicas, primeiro o Reino Unido (século XIX, comércio e empréstimos) e depois os Estados Unidos (século XX).\n\nA erra porque os regimes variaram (o Brasil foi monarquia, os vizinhos repúblicas); B contraria a ideia de semelhança; C ignora que a industrialização foi desigual; E não corresponde à realidade, já que não houve blocos coesos de resistência no período.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Primeira República: a política dos governadores. Criada por Campos Sales (1898–1902), era um acordo: o presidente apoiava as oligarquias que dominavam os estados, e os governadores garantiam a eleição de deputados e senadores alinhados ao governo federal. A Comissão de Verificação de Poderes da Câmara \"degolava\" os eleitos de oposição, negando-lhes o diploma.\n\nO mecanismo harmonizava, assim, esferas de poder distintas (Executivo federal, governos estaduais e Legislativo), eliminando conflitos entre elas.\n\nA e C são o contrário do que ocorria: a degola fraudava resultados e não seguia a Constituição; D inverte a lógica, pois o Legislativo ficava justamente nas mãos das oligarquias estaduais; E erra porque o acordo reforçava a autonomia das oligarquias nos estados.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Industrialização paulista e Primeira Guerra Mundial. O personagem de Oswald de Andrade diz que, antes da guerra de 1914, o paulista consumia produtos importados; a campanha submarina interrompeu esse comércio e obrigou a produzir localmente. Os imigrantes, com experiência artesanal e de poupança, abriram as primeiras fábricas, e a sobra de mão de obra vinda do campo deu origem aos bairros operários.\n\nA fala explicita, portanto, as causas de uma transformação histórica regional: a industrialização de São Paulo, impulsionada pela substituição de importações.\n\nB e D invertem o processo, que foi de crescimento industrial no Brasil; C generaliza para todo o país algo que o texto situa em São Paulo; E não tem apoio no texto, que fala de iniciativa de imigrantes, não de capital estatal.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Contracultura e movimentos de 1968. Hobsbawm descreve a radicalização dos anos 1960, liderada por jovens, com motins estudantis e operários na França (maio de 1968) e na Itália (\"outono quente\" de 1969). O lema \"tutto e subito\", \"queremos tudo e já\", sintetiza a recusa à espera: os jovens exigiam mudanças imediatas, em oposição ao ritmo gradual das reformas.\n\nA erra porque houve mobilizações também no mundo socialista e no Terceiro Mundo (Primavera de Praga, México); B contraria o texto, que diz serem os jovens liderados por seus pares, não por partidos tradicionais; C ignora as pautas culturais e comportamentais da contracultura; D não tem apoio no texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Segunda Guerra Mundial na memória das mulheres soviéticas. No excerto, as entrevistadas se definem como \"soviéticas — e também russas, bielorrussas, ucranianas, tadjiques\": mulheres de nacionalidades diferentes que se reconheciam numa identidade comum, a do \"homem soviético\", formada na luta contra o nazismo. O texto destaca, assim, a união de identidades femininas distintas durante a guerra.\n\nA erra porque fala de nações em luta contra o totalitarismo, quando a URSS era ela mesma um regime totalitário e o texto não trata disso; B e C atribuem ao excerto teses sobre igualdade de gênero e internacionalismo operário que ele não aborda; E contradiz a fala, que diz que \"pessoas assim\" não vão existir mais.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Tema: geopolítica da China e a política de \"Uma China\".\n\nO texto descreve um território que Pequim considera \"província rebelde\", que se apresenta como parte da \"República da China\" e cujo reconhecimento oficial obriga os demais países a romper com Pequim. Esse território é Taiwan (ilha de Formosa), para onde o governo nacionalista de Chiang Kai-shek se retirou em 1949, após a vitória comunista na guerra civil. Até hoje Taiwan mantém governo próprio e oficialmente se chama República da China, enquanto a China continental é a República Popular da China.\n\nHong Kong e Macau já foram devolvidas à China (1997 e 1999) e funcionam como regiões administrativas especiais, sob o princípio \"um país, dois sistemas\"; não reivindicam ser a \"República da China\". O Tibete e a Manchúria também estão sob controle efetivo de Pequim.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Tema: petróleo como commodity e geopolítica de 2022.\n\nO gráfico mostra o barril subindo de cerca de 99 dólares (24/02, início da invasão da Ucrânia pela Rússia) para quase 128 dólares em 08/03, caindo para 98 em 16/03 e voltando a 108 dias depois. São oscilações bruscas em poucas semanas, típicas de um mercado sensível a choques políticos e ao risco de falta de oferta: a Rússia é grande exportadora, e sanções e ameaças de embargo geraram incerteza sobre o volume disponível. Isso é exatamente o que a alternativa C descreve.\n\nA alternativa A erra ao atribuir a alta à \"redução dos investimentos em energia renovável\" na União Europeia, que não ocorreu. B fala em baixa demanda, o contrário da realidade; D atribui o controle da demanda à OPEP, que atua sobre a oferta; E fala em constância, desmentida pelo próprio gráfico.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Tema: fome e insegurança alimentar no Brasil.\n\nA charge mostra um homem pobre e magro diante de um cartaz de comida com o aviso \"aprecie com moderação\", ironizando que, para ele, o alimento é algo distante, quase um luxo. O problema retratado é a fome, que no Brasil não decorre de falta de produção (o país é um dos maiores produtores de alimentos do mundo), mas da má distribuição de renda e da estrutura agrária.\n\nUma das causas apontadas é o modelo agroexportador baseado na monocultura (soja, cana, milho, café), que ocupa grande parte das terras férteis com produtos voltados ao mercado externo, enquanto a produção de alimentos para o consumo interno fica a cargo, em boa parte, da agricultura familiar.\n\nAs demais alternativas não explicam a fome: pleno emprego e predomínio da agricultura familiar reduziriam o problema; a alta capacidade de produção é real, mas não é causa; não houve estatização das indústrias alimentícias.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Tema: desigualdade de gênero e raça no Brasil (leitura de gráficos).\n\nSomando os percentuais do ensino superior, as mulheres aparecem mais escolarizadas que os homens nos dois grupos de cor: mulher branca 23,5% contra homem branco 20,7%; mulher preta ou parda 10,4% contra homem preto ou pardo 7%. Mesmo assim, o rendimento médio dos homens (R$ 2.306) supera o das mulheres (R$ 1.764). É o que afirma a alternativa B.\n\nAs demais falham: em A, a diferença entre as mulheres é 23,5 − 10,4 = 13,1 pontos, menor que a dos homens, 20,7 − 7 = 13,7 pontos. C contraria os gráficos, que mostram forte diferença por cor. D é desmentida pelos dados, pois as mulheres têm mais acesso ao ensino superior; a diferença salarial está ligada à discriminação e à divisão do trabalho. E não tem relação com o rendimento médio, e no Brasil há mais mulheres que homens.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Tema: agentes internos (endógenos) do relevo.\n\nO esquema parte de um conjunto que inclui o tectonismo e um segundo ramo ligado à ascensão do magma; ambos são forças que vêm do interior da Terra, logo o quadro 1 corresponde aos processos endógenos (os exógenos, como intemperismo e erosão, atuam de fora para dentro).\n\nO quadro 2 engloba os processos que permitem e provocam a subida do magma: é o vulcanismo (ou magmatismo).\n\nO tectonismo divide-se em epirogenia (movimentos verticais, lentos, de soerguimento ou rebaixamento de grandes áreas) e orogenia (movimentos horizontais, que dobram e falham as rochas e formam cadeias de montanhas). Assim, o quadro 3 é a orogenia.\n\nA alternativa C é a mais tentadora, mas falhamento é apenas um dos efeitos dos movimentos horizontais, não o nome do processo que se opõe à epirogenia.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Tema: tipos de chuva.\n\nA pista do texto está em \"as características da serra forçaram a elevação dos ventos úmidos\", levando-os a temperaturas mais baixas e à precipitação. Esse é o mecanismo da chuva orográfica (ou de relevo): o ar úmido, ao encontrar uma barreira montanhosa, é obrigado a subir, resfria-se, o vapor condensa e chove na vertente a barlavento. Petrópolis fica na Serra do Mar/Serra dos Órgãos, área muito sujeita a esse processo.\n\nA alternativa A é a mais tentadora, porque o texto cita a passagem de uma massa de ar fria, o que lembra a chuva frontal. Mas a pergunta pede o fenômeno \"segundo o excerto\", e o texto destaca o papel do relevo em forçar a ascensão do ar como causa da precipitação. Brisa marítima, inversão térmica e tornado não correspondem ao processo descrito.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Tema: impactos ambientais das vias de transporte e áreas protegidas.\n\nO estudo mostra que o desmatamento é maior perto de rodovias e ferrovias, e que a maior parte da vegetação nativa fica longe delas, mas só 38% dessa vegetação está protegida por instrumento legal. A abertura de vias facilita a ocupação, a extração de madeira e a expansão agropecuária ao longo do traçado.\n\nUma forma de mitigar esse impacto é criar mais unidades de conservação nas áreas próximas às vias, impondo restrições legais ao desmatamento justamente onde a pressão é maior.\n\nAs outras alternativas vão no sentido oposto ou não resolvem: reduzir políticas socioambientais e expandir monoculturas aumentariam o desmatamento; bloquear estradas onde passam animais é inviável e não atinge a causa; privatização e modernização não garantem proteção da vegetação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Tema: Sistema Interligado Nacional (SIN) de energia elétrica.\n\nO mapa divide o Brasil nos subsistemas N, NE, SE/CO e S, com setas e valores (em MW) entre eles, além de pontos como Itaipu, a \"Coletora Porto Velho\" (que recebe a energia das usinas do rio Madeira), o \"Nó de Xingu\" (Belo Monte) e o \"Intercâmbio Internacional\" no Sul. Esses elementos indicam o intercâmbio de energia elétrica pelas linhas de transmissão: a eletricidade gerada nas usinas de uma região é enviada aos centros consumidores, principalmente o Sudeste/Centro-Oeste, que recebe os maiores fluxos.\n\nPortanto, o mapa trata da circulação de energia elétrica entre as regiões geradoras do sistema interligado.\n\nAs demais alternativas não combinam com a legenda: não há referência a produção mineral, tráfego aéreo, comunicação por satélite ou migrações; nomes como Itaipu, Xingu e Porto Velho remetem a usinas e subestações.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Tema: projeções cartográficas e suas deformações.\n\nToda projeção transfere para um plano uma superfície curva e irregular. Por isso é impossível uma carta que conserve ao mesmo tempo formas (conformidade), áreas (equivalência) e distâncias (equidistância) em todo o mapa: a planificação sempre gera alguma deformação, e o cartógrafo escolhe quais propriedades preservar conforme a finalidade. A causa apontada pela alternativa C é a forma da Terra, um geoide (aproximadamente esférica, achatada nos polos e irregular), que não pode ser estendida sobre um plano sem distorções.\n\nA não traz a razão correta; B confunde o problema com o sistema UTM, que existe e funciona; D é falsa, pois a junção de projeções não elimina as deformações; E está errada porque a projeção de Robinson é afilática justamente por não conservar nenhuma das propriedades rigorosamente, apenas equilibrando as distorções.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Tema: fusos horários.\n\nCada fuso corresponde a 15° de longitude, ou 1 hora; a leste, as horas são adiantadas.\n\nGreenwich: 16 h de terça-feira.\n\nExecutivo 1 (GMT+9): 16 + 9 = 25 h, ou seja, 1 h de quarta-feira.\n\nExecutivo 2 (GMT−4): 16 − 4 = 12 h de terça-feira.\n\nExecutivo 3: 75° a leste do executivo 2 = 75 ÷ 15 = 5 fusos a mais, ou seja, GMT+1: 12 + 5 = 17 h de terça-feira.\n\nExecutivo 4: 30° a leste do executivo 3 = 2 fusos a mais, ou seja, GMT+3: 17 + 2 = 19 h de terça-feira.\n\nO erro mais comum é contar os graus do executivo 4 a partir de Greenwich ou do executivo 2, e não do executivo 3, o que leva às alternativas A ou B.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Tema: classificação biológica e nomenclatura binomial.\n\nO epíteto específico \"brasiliensis\" se repete nos três nomes, mas ele só tem sentido junto do gênero: Triatoma brasiliensis, Tadarida brasiliensis e Sebastiania brasiliensis são espécies de gêneros diferentes. A palavra igual apenas indica a origem brasileira e não aproxima os organismos na classificação.\n\nOs três pertencem a grupos bem distintos: o barbeiro é um inseto (reino Animalia, filo Arthropoda); o morcego é um mamífero (Animalia, Chordata); a árvore-leiteira é uma planta (reino Plantae). Como há um animal e uma planta, eles não compartilham reino, classe nem ordem. A única categoria comum é o domínio Eukarya, que reúne todos os seres com células eucarióticas.\n\nA alternativa A é a armadilha: o mesmo epíteto não significa mesma espécie.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Tema: cariótipo, ploidia e cromátides.\n\nO cariótipo mostra 18 pares de autossomos mais o par sexual XY: 2 × 18 + 2 = 38 cromossomos, ou seja, o gato tem 2n = 38. Cariótipos são montados com células em metáfase da mitose, quando cada cromossomo está duplicado (duas cromátides-irmãs unidas pelo centrômero).\n\nUm gameta é haploide: n = 19 cromossomos, cada um com uma única cromátide, isto é, uma molécula de DNA. Portanto há 19 moléculas de DNA em cada gameta, como diz a alternativa B.\n\nAs demais erram: o animal é XY, portanto heterogamético (A); em metáfase II da meiose a célula teria só 19 cromossomos e sem pares de homólogos (C); a espécie é 2n = 38, não 19 (D); há 38 cromossomos, mas cada um com duas cromátides (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Tema: artrópodes, comparação entre aracnídeos e quilópodes.\n\nEscorpião e lacraia estão no mesmo filo, Arthropoda, cuja característica marcante é a presença de apêndices articulados (patas e peças bucais com articulações), além do exoesqueleto de quitina.\n\nA diferença de classe aparece nas peças bucais. O escorpião é um aracnídeo (quelicerado): tem quelíceras e pedipalpos, sem antenas e sem mandíbulas. A lacraia é um quilópode (miriápode, mandibulado): tem mandíbulas, um par de antenas e um par de forcípulas que injetam veneno.\n\nA alternativa B é a mais tentadora, mas lacraias têm um só par de antenas (dois pares é característica dos crustáceos). Em E, traqueias e aguilhão não diferenciam corretamente, pois o aguilhão é do escorpião, não da lacraia. A e C trazem características que não valem para artrópodes (circulação aberta) ou para esses animais.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Tema: peroxissomos, catalase e metabolismo bacteriano.\n\nAs células do sangue e dos tecidos têm peroxissomos, organelas membranosas que contêm a enzima catalase. Ela decompõe o peróxido de hidrogênio:\n\n2 H₂O₂ → 2 H₂O + O₂\n\nO gás oxigênio liberado forma as bolhas observadas no ferimento. O O₂ é tóxico para as bactérias anaeróbias obrigatórias, que não têm defesas enzimáticas contra as formas reativas de oxigênio. Esse é o efeito protetor: ferimentos profundos favorecem bactérias anaeróbias (como as do tétano e da gangrena gasosa), e a oxigenação local as elimina.\n\nAs alternativas com \"hidrolase\" erram a enzima; as que falam em hidrogênio ou gás carbônico erram o gás; e bactérias aeróbias utilizam o oxigênio, não morrem por causa dele.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Tema: hormônios vegetais, auxinas e partenocarpia.\n\nOs estames são os órgãos masculinos da flor, que produzem o pólen. Sem eles, a flor não é polinizada e não há fecundação; logo, não se formam sementes. Normalmente são as sementes em desenvolvimento que produzem auxina e estimulam o ovário a crescer e virar fruto.\n\nAo pulverizar as flores com ácido indolilacético (AIA), uma auxina, o pesquisador substitui esse sinal: o ovário se desenvolve em fruto mesmo sem fecundação. É a partenocarpia induzida, que gera frutos sem sementes, técnica usada na produção comercial de melancias, uvas e tomates.\n\nA alternativa A seria esperada sem o AIA. B e E não fazem sentido, pois as flores perderam os estames e o hormônio não aumenta os óvulos; D é o contrário do que acontece, já que não houve fecundação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Tema: genética, herança autossômica recessiva com probabilidade condicional.\n\nHomem: ele é normal, mas tem uma irmã afetada (aa). Logo, os pais dele são Aa × Aa. Entre os filhos normais desse cruzamento (AA, Aa, Aa), a chance de ele ser portador é 2/3.\n\nMulher: o irmão dela é afetado, então os pais dela também são Aa × Aa e, sendo normal, ela tem 2/3 de chance de ser Aa.\n\nPara nascer uma criança afetada, os dois precisam ser Aa e a criança receber os dois alelos recessivos (1/4):\n\nP = 2/3 × 2/3 × 1/4 = 4/36 = 1/9 ≈ 0,11\n\nO erro comum é usar 1/2 para cada um dos pais (o que dá 0,0625) ou esquecer de multiplicar pelas probabilidades de serem portadores, chegando a 0,25.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Tema: especiação alopátrica e fluxo gênico.\n\nUma espécie se mantém enquanto as populações trocam genes; quando o fluxo gênico é interrompido, o isolamento reprodutivo pode surgir e as populações se separam em espécies diferentes.\n\nNo esquema, as setas contínuas (fluxo intenso) ligam apenas N a O e O a P. Todas as outras ligações (Q–P, Q–N, M–Q e M–N) são tracejadas, ou seja, de fluxo baixo, que segundo o enunciado pode ser interrompido no futuro.\n\nAssim, N, O e P continuarão trocando genes com intensidade (N com O e O com P, formando uma cadeia) e terão maior chance de permanecer como uma mesma espécie. M e Q tendem a se isolar e divergir.\n\nA alternativa D é tentadora, mas a ligação entre Q e P é tracejada.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Tema: sistema endócrino, ocitocina e neuro-hipófise.\n\nA ocitocina é um hormônio produzido por neurônios neurossecretores do hipotálamo. Ela desce pelos axônios desses neurônios até a neuro-hipófise (hipófise posterior), onde é armazenada e liberada no sangue. Pela circulação chega ao útero, provocando contrações no parto, e às glândulas mamárias, promovendo a ejeção do leite. É o que afirma a alternativa D.\n\nAs demais erram: a ocitocina age como hormônio, levada pelo sangue, e não por sinapse com o músculo uterino (A); a suprarrenal produz adrenalina e cortisol, não ocitocina, e a dopamina é sobretudo neurotransmissor (B); quem estimula a produção do leite é a prolactina, não a serotonina (C); orgasmo e redução do medo envolvem o sistema nervoso autônomo e o sistema límbico, não o somático, que controla os movimentos voluntários (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Tema: clonagem e variabilidade genética.\n\nNa clonagem, todos os indivíduos obtidos a partir de uma única célula têm o mesmo material genético dessa célula, e portanto do doador. A nova população seria formada por cópias geneticamente idênticas, sem variabilidade.\n\nConsequência: a suscetibilidade a doenças determinada pelos genes do doador se repete em todos os clones. Se o doador era vulnerável a determinado patógeno, todos os indivíduos também serão, e uma única doença poderia afetar toda a população.\n\nAs outras alternativas falham: sem variabilidade, não há maior chance de adaptação a ambientes hostis (B) nem a mesma diversidade da população original (D); não há motivo para maior fertilidade (A); e o tamanho do genoma não diminui com a clonagem (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Tema: relações ecológicas interespecíficas.\n\nTrecho 1: \"interdependência entre o ser humano e sua flora\", com benefício para os dois lados e o texto afirmando que sem o microbioma não sobreviveríamos. Relação harmônica e obrigatória entre espécies diferentes: mutualismo.\n\nTrecho 2: microrganismos invasores que podem \"sobrepujar a nossa microbiota natural\". Os invasores disputam espaço e nutrientes com a microbiota residente: competição interespecífica.\n\nTrecho 3: \"algumas doenças\" causadas pelo desequilíbrio. Doença significa que microrganismos vivem à custa do hospedeiro, prejudicando-o: parasitismo.\n\nAs outras alternativas trazem relações que não se encaixam: canibalismo e sociedade são relações intraespecíficas, e comensalismo ou protocooperação não descrevem uma dependência vital como a do trecho 1.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Tema: mudanças de estado físico e curva de aquecimento.\n\nPrimeiro, converter a temperatura: 298 K − 273 = 25 °C.\n\nNa curva, os patamares horizontais são as mudanças de estado: o patamar 2 é a fusão (−30 °C) e o patamar 4 é a ebulição (5 °C). Os trechos inclinados são aquecimento de uma só fase: 1 é sólido (abaixo de −30 °C), 3 é líquido (entre −30 °C e 5 °C) e 5 é gás (acima de 5 °C).\n\nComo 25 °C está acima da temperatura de ebulição de 5 °C, a 1 atm o cloreto de nitrila é gás nessa temperatura, e o ponto está na região 5.\n\nO erro típico é esquecer a conversão ou supor que a temperatura ambiente corresponde ao líquido (região 3).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Tema: reações nucleares, conservação de número atômico e de massa.\n\nNuma reação nuclear, a soma dos números de massa (A) e a soma dos números atômicos (Z) se conservam. A radiação gama não tem massa nem carga.\n\nX + ⁴₂He → ⁷₃Li + γ\n\nMassa: A + 4 = 7, logo A = 3.\n\nPrótons: Z + 2 = 3, logo Z = 1.\n\nNêutrons de X: A − Z = 3 − 1 = 2.\n\nX é o trítio (³₁H), isótopo do hidrogênio com 1 próton e 2 nêutrons.\n\nA alternativa A é a armadilha de quem confunde número de massa (3) com número de nêutrons.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Tema: diluição de soluções.\n\nNa diluição, a massa de soluto não muda; só aumenta o volume.\n\nMassa de nitroglicerina na ampola:\n\nm = 5 mg/mL × 10 mL = 50 mg\n\nEssa massa passa a estar em 500 mL = 0,5 L de solução:\n\nC = 50 mg ÷ 0,5 L = 100 mg/L = 0,1 g/L\n\nConferindo pela fórmula da diluição: C₁ · V₁ = C₂ · V₂, com C₁ = 5 g/L (pois 5 mg/mL = 5 g/L), V₁ = 10 mL e V₂ = 500 mL:\n\nC₂ = 5 × 10 ÷ 500 = 0,1 g/L\n\nO erro comum é a confusão entre mg/mL e g/L, ou dividir pelo volume de soro acrescentado (490 mL) em vez do volume final.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Tema: forças intermoleculares, ligação de hidrogênio.\n\nA ligação de hidrogênio exige um H ligado a átomo muito eletronegativo (F, O ou N), que é o doador, e um átomo eletronegativo com par de elétrons livre na outra molécula, o aceptor.\n\nSubstâncias do quadro: 1 é a acetonitrila (H₃C–C≡N), 2 é o nitrometano (H₃C–NO₂), 3 é o propan-2-ol (isopropanol, com grupo OH) e 4 é o tolueno (hidrocarboneto apolar).\n\nSó o propan-2-ol tem H ligado a O; as moléculas 1, 2 e 4 não têm H \"ácido\" para doar, então qualquer par que forme ligação de hidrogênio precisa conter a substância 3. O tolueno não tem aceptor adequado, o que exclui o par 3 e 4. Já o nitrometano tem oxigênios com pares livres, que aceitam a ligação de hidrogênio do OH do álcool. Assim, o par 2 e 3 interage por ligação de hidrogênio. (A acetonitrila também seria aceptora, mas o par 1 e 3 não está entre as opções.)\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Tema: geometria molecular (teoria da repulsão dos pares eletrônicos, VSEPR).\n\nÂngulo de 180° corresponde à geometria linear, que ocorre quando o átomo central tem duas regiões de elétrons e nenhum par livre.\n\nCO₂: o carbono faz duas ligações duplas (O=C=O) e não tem pares livres, então a molécula é linear, com 180°.\n\nAs outras: H₂O e H₂S são angulares (dois pares livres no átomo central; cerca de 104,5° e 92°); NH₃ é piramidal (um par livre; cerca de 107°); CH₄ é tetraédrica (109,5°).\n\nA armadilha é achar que H₂O e H₂S, por terem fórmula do tipo AX₂ como o CO₂, também seriam lineares; os pares não ligantes do oxigênio e do enxofre dobram a molécula.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Tema: estequiometria de gases e combustão (pressão proporcional à quantidade de gás).\n\nCombustão completa do propano:\n\nC₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O\n\nAntes da reação, em proporção estequiométrica: 1 + 5 = 6 mol de gás.\n\nDepois, medido a 20 °C: a água está líquida e seu volume é desprezível, logo resta só o CO₂, ou seja, 3 mol de gás.\n\nCom volume e temperatura constantes, a pressão é proporcional ao número de mols (P = nRT/V):\n\nP_final ÷ P₁ = 3 ÷ 6 = 0,5\n\nP_final = 0,5 × P₁\n\nO erro comum é contar a água como gás (3 + 4 = 7 mol), o que daria cerca de 1,17 × P₁, ou comparar apenas os mols de propano com os de CO₂.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Tema: propriedades coligativas, tonoscopia (abaixamento da pressão de vapor).\n\nA adição de um soluto não volátil diminui a pressão de vapor do solvente, e o efeito depende do número de partículas dissolvidas, não da natureza delas.\n\nLíquido 1 (água pura): sem soluto, maior pressão de vapor.\n\nLíquido 3 (glicose 1 mol/L): composto molecular, não se dissocia, 1 mol/L de partículas.\n\nLíquido 2 (NaF 1 mol/L): composto iônico, NaF → Na⁺ + F⁻, cerca de 2 mol/L de partículas, maior abaixamento.\n\nOrdem: Pv₁ > Pv₃ > Pv₂.\n\nA alternativa B é a armadilha de quem considera só a concentração molar (1 mol/L nos dois casos) e esquece a dissociação iônica do NaF.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Tema: equilíbrio iônico, pH de ácido fraco.\n\nQuantidade de ácido bórico:\n\nn = 12 360 g ÷ 61,8 g/mol = 200 mol\n\nVolume: 1 m³ = 1000 L, então\n\n[H₃BO₃] = 200 ÷ 1000 = 0,2 mol/L\n\nComo o Ka é muito pequeno, a ionização é mínima e vale a aproximação [H⁺] = √(Ka · M):\n\n[H⁺] = √(5 × 10⁻¹⁰ × 0,2) = √(1 × 10⁻¹⁰) = 1 × 10⁻⁵ mol/L\n\npH = −log(10⁻⁵) = 5\n\nO erro típico é tratar o ácido como forte (ionização total), o que daria [H⁺] = 0,2 mol/L e pH perto de 1 (alternativa E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Tema: polímeros de adição e de condensação.\n\nReação 1: o isopor é poliestireno. A unidade repetitiva –CH₂–CH(C₆H₅)– vem da abertura da ligação dupla do monômero estireno (vinilbenzeno, C₆H₅–CH=CH₂). Só monômeros com dupla ligação C=C formam polímeros por adição; por isso as estruturas de A, B e C (isopropilbenzeno e etilbenzeno, sem dupla na cadeia lateral) não servem.\n\nReação 2: o PET é formado por etilenoglicol (um diálcool) e ácido tereftálico (um diácido), que se unem por ligações éster com eliminação de água (2n H₂O na equação). Polimerização com liberação de molécula pequena é de condensação.\n\nPortanto: composto 1 é o estireno e a reação 2 é de condensação. A alternativa E acerta o monômero, mas classifica errado a formação do PET.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Tema: reações de oxirredução de compostos orgânicos, teste de Tollens.\n\nO reagente de Tollens contém Ag⁺, que se reduz a prata metálica (Ag⁰), formando o espelho de prata. Se a prata foi reduzida, o composto orgânico foi oxidado.\n\nO produto é um ácido carboxílico (R–COOH). Na química orgânica, o composto oxigenado que se oxida facilmente a ácido carboxílico, por um oxidante brando como o Tollens, é o aldeído (R–CHO): o carbono do grupo carbonila passa de nox +1 para +3, no caso de um aldeído típico.\n\nAs cetonas não reagem com o Tollens, pois não têm H ligado à carbonila; éteres e ésteres também não. Álcool e éster \"reduzidos\" não fazem sentido, porque quem se reduz nessa reação é a prata.\n\nEsse teste serve justamente para diferenciar aldeídos de cetonas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Tema: interpretação física da derivada (coeficiente angular da tangente).\n\nO coeficiente angular da reta tangente a um gráfico em um ponto mede a taxa de variação instantânea da grandeza do eixo vertical em relação à do eixo horizontal. Aqui o gráfico é volume expirado (L) em função do tempo (s), então a inclinação vale ΔV/Δt naquele instante, em litros por segundo: é o fluxo (vazão) de ar que sai dos pulmões.\n\nPor isso a curva é muito inclinada no início (fluxo alto no começo da expiração forçada) e quase horizontal depois de 3 s (fluxo próximo de zero, pulmões já esvaziados).\n\nA alternativa A é a armadilha: velocidade seria a inclinação de um gráfico de posição × tempo, em m/s. O volume já expirado e o volume restante são lidos no eixo vertical, não na inclinação, e a aceleração exigiria um gráfico de velocidade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Tema: cinemática, movimento uniformemente variado (equação de Torricelli).\n\nDurante a distância de parada o carro sai de 30 m/s e chega a 0 em cerca de 75 m. Sem o tempo, usa-se Torricelli:\n\nv² = v₀² + 2 · a · Δs\n\n0 = 30² + 2 · a · 75\n\na = −900 ÷ 150 = −6,0 m/s²\n\nO módulo da aceleração (desaceleração) é 6,0 m/s².\n\nA distância de reação (21 m, em movimento uniforme) não entra nesse cálculo; ela só indica o tempo de reação, 21 ÷ 30 = 0,7 s. Usar a distância total de 96 m daria cerca de 4,7 m/s² (alternativa D), que é o erro mais comum.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Tema: conservação da energia mecânica no pêndulo.\n\nSem atrito, a energia mecânica (cinética + potencial) é constante em toda a trajetória: no gráfico, é a linha horizontal, a vermelha.\n\nNos extremos X e Z o pêndulo para por um instante (velocidade nula) e está na maior altura: energia cinética zero e potencial máxima. Em Y, o ponto mais baixo (nível de referência), a potencial é zero e a cinética é máxima.\n\nA linha azul vale zero em X e Z e é máxima em Y: é a energia cinética.\n\nA linha marrom é máxima em X e Z e zero em Y: é a energia potencial gravitacional.\n\nEm cada ponto, azul + marrom = vermelha, como exige a conservação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Tema: hidrostática, empuxo (princípio de Arquimedes) e densidade.\n\nO empuxo é igual ao peso do líquido deslocado; como a esfera está totalmente submersa, ele dá o volume total da esfera:\n\nE = d_água · V_total · g\n\n3,0 = 1,0 × 10³ · V_total · 10\n\nV_total = 3,0 × 10⁻⁴ m³ = 300 cm³\n\nO peso dá a massa de ferro e, com a densidade do ferro, o volume ocupado pelo metal:\n\nm = 7,8 ÷ 10 = 0,78 kg\n\nV_ferro = 0,78 ÷ (7,8 × 10³) = 1,0 × 10⁻⁴ m³ = 100 cm³\n\nVolume da parte oca:\n\nV_oco = 300 − 100 = 200 cm³\n\nAs alternativas E e D são os volumes total e do ferro, armadilhas de quem para no meio da conta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Tema: movimento circular uniforme, aceleração centrípeta.\n\nA aceleração centrípeta, em função da velocidade angular, é:\n\na_c = ω² · R\n\nQuerendo a_c = 9,8 m/s² a R = 20 m:\n\nω² = 9,8 ÷ 20 = 0,49\n\nω = √0,49 = 0,70 rad/s\n\nO erro comum é usar a_c = ω · R, que daria 0,49 rad/s (sem alternativa), esquecendo de tirar a raiz. Para comparar, 0,70 rad/s corresponde a uma volta a cada 2π ÷ 0,7 ≈ 9 s.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Tema: calorimetria e potência.\n\nMassa de água: 36 L × 1,0 kg/L = 36 kg.\n\nCalor necessário para elevar 2,0 °C (calor sensível):\n\nQ = m · c · ΔT = 36 × 4,2 × 10³ × 2,0 = 302 400 J\n\nCom potência P = 42 W (42 J por segundo) e sem perdas:\n\nΔt = Q ÷ P = 302 400 ÷ 42 = 7 200 s\n\n7 200 s ÷ 60 = 120 min\n\nO erro típico é esquecer de converter segundos em minutos ou usar a massa em gramas com o calor específico em J/(kg·°C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Tema: fases da Lua e eclipses.\n\nUm eclipse solar ocorre na Lua nova: a Lua fica entre o Sol e a Terra e projeta sua sombra sobre a Terra. Um eclipse lunar ocorre na Lua cheia: a Terra fica entre o Sol e a Lua, que entra na sombra da Terra.\n\nEntre a Lua nova e a Lua cheia passa meio ciclo de fases. Com o período de 28 dias dado no enunciado:\n\n28 ÷ 2 = 14 dias\n\n14 de outubro + 14 dias = 28 de outubro.\n\nDe fato, em 28/10/2023 houve um eclipse lunar parcial. Como os eclipses ocorrem quando Sol, Terra e Lua estão alinhados perto da linha dos nós da órbita lunar, é comum um eclipse solar e um lunar aparecerem com cerca de duas semanas de diferença.\n\nO erro comum é somar um quarto do período (7 dias), que corresponde à Lua crescente, e não à cheia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Tema: frequência e período.\n\nFrequência de 2 000 Hz significa 2 000 pulsos por segundo. Cada grupo dura 10 ms = 0,010 s. O número de pulsos num grupo é:\n\nN = f · Δt = 2 000 × 0,010 = 20 pulsos\n\nOutra forma: o período de cada pulso é T = 1 ÷ 2 000 = 0,0005 s = 0,5 ms; em 10 ms cabem 10 ÷ 0,5 = 20 pulsos.\n\nA pausa de 10 ms entre os grupos não entra na conta, pois a pergunta é sobre um grupo. A armadilha é somar grupo e pausa (20 ms), o que daria 40 pulsos (sem alternativa), ou errar a conversão de ms, chegando a 2 (alternativa E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Tema: circuito em série com elemento não ôhmico (curva característica do LED).\n\nEm série, a corrente é a mesma no LED e no resistor (20 mA), e a fem da bateria ideal é a soma das tensões.\n\nNo resistor (lei de Ohm):\n\nU_R = R · i = 330 × 0,020 = 6,6 V\n\nNo LED, lê-se no gráfico a tensão correspondente a 20 mA: a curva passa por i = 20 mA em U = 2,4 V.\n\nFem da bateria:\n\nε = 6,6 + 2,4 = 9,0 V\n\nA alternativa B (6,6 V) é a armadilha de quem calcula só a tensão do resistor, e a D (2,4 V) de quem lê só o LED. Não dá para aplicar a lei de Ohm ao LED com uma resistência fixa, porque sua curva não é uma reta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Tema: física moderna, efeito fotoelétrico.\n\nO efeito fotoelétrico é a emissão de elétrons por uma superfície, geralmente metálica, quando ela é atingida por radiação eletromagnética de frequência suficientemente alta. Einstein o explicou em 1905 supondo que a luz é formada por fótons de energia E = h · f: cada fóton entrega toda sua energia a um elétron, que só escapa se essa energia superar a função trabalho do metal. Isso explica por que abaixo de uma frequência mínima não há emissão, por mais intensa que seja a luz.\n\nAs outras alternativas descrevem fenômenos diferentes: B é a eletroluminescência do LED (de certa forma o processo inverso); C é a emissão térmica (radiação de corpo aquecido); D confunde com o decaimento beta, que é nuclear e espontâneo; E descreve a excitação de gases nas lâmpadas fluorescentes.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Tema: escalas termométricas e composição de funções afins.\n\nDa relação Kelvin–Celsius: T_C = T_K − 273,15.\n\nDa relação Celsius–Fahrenheit, isolando T_F:\n\nT_C = 5(T_F − 32) ÷ 9, logo T_F = 9 T_C ÷ 5 + 32 = 1,8 T_C + 32\n\nSubstituindo T_C:\n\nT_F = 1,8 (T_K − 273,15) + 32\n\nT_F = 1,8 T_K − 491,67 + 32\n\nT_F = 1,8 T_K − 459,67\n\nUma checagem rápida: 0 K (zero absoluto) corresponde a −459,67 °F.\n\nO erro mais comum é subtrair o 32 em vez de somá-lo, o que leva a −523,67 (alternativa A). As alternativas com 0,56 usam 5/9 no lugar de 9/5, invertendo a conversão.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Tema: notação científica e conversão de moedas.\n\nConverter cada orçamento para reais:\n\nPaís 1: 4,1 × 10¹² × 5,20 = 21,32 × 10¹² = 2,132 × 10¹³\n\nPaís 2: 2,2 × 10¹³ × 0,04 = 0,088 × 10¹³ = 8,8 × 10¹¹\n\nPaís 3: 7,2 × 10¹¹ × 5,50 = 39,6 × 10¹¹ = 0,396 × 10¹³\n\nPara somar, colocar tudo na mesma potência de 10:\n\n2,132 × 10¹³ + 0,088 × 10¹³ + 0,396 × 10¹³ = 2,616 × 10¹³\n\nO erro típico é somar os coeficientes sem igualar os expoentes ou deslocar a vírgula na conversão do iene (0,04).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Tema: ângulos na circunferência (ângulo inscrito).\n\nMedindo os ângulos a partir do eixo horizontal, como no círculo trigonométrico, o triângulo equilátero inscrito tem A em 90°, B em 330° (ou −30°) e C em 210°.\n\nApós o movimento: Ana sai de 90° e anda 30° no sentido anti-horário, indo para 120°. Bruna sai de 330° e anda 60° no sentido horário, indo para 270°. Caio sai de 210° e anda 45° no sentido anti-horário, indo para 255°.\n\nOs novos pontos (120°, 255° e 270°) dividem a circunferência em arcos de 135° (de 120° a 255°), 15° (de 255° a 270°) e 210° (de 270° até 120°, passando por 0°). Soma: 360°.\n\nCada ângulo interno de um triângulo inscrito é a metade do arco oposto: 135 ÷ 2 = 67,5°, 15 ÷ 2 = 7,5° e 210 ÷ 2 = 105°. O menor é 7,5°.\n\nO erro comum é dar como resposta o próprio arco de 15° (alternativa C), esquecendo que o ângulo inscrito é a metade do arco.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Tema: probabilidade com combinações.\n\nA retirada é simultânea, então a ordem não importa: o espaço amostral é o número de combinações de 26 letras tomadas 4 a 4.\n\nC(26, 4) = (26 × 25 × 24 × 23) ÷ (4 × 3 × 2 × 1) = 358 800 ÷ 24 = 14 950\n\nPara formar VIDA, os 4 cartões precisam ser exatamente V, I, D e A (letras distintas, cada uma presente uma vez na urna). Só existe 1 conjunto favorável. Como \"em alguma ordem\" a palavra pode ser montada, a ordem de retirada não importa.\n\nP = 1 ÷ 14 950\n\nO erro típico é contar as 4! = 24 ordenações como casos favoráveis e manter combinações no espaço amostral, misturando os dois critérios. Se a ordem fosse considerada, seria 24 casos em 26 × 25 × 24 × 23, e o resultado seria o mesmo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Tema: geometria analítica, elipse, circunferência e retas tangentes.\n\nDividindo a equação por 81: x² ÷ 1296 + y² ÷ 2025 = 1, ou seja, a elipse corta o eixo x em ±√1296 = ±36.\n\nAs circunferências têm centros (±20, 0) e tangenciam a elipse em (±36, 0), então o raio é 36 − 20 = 16.\n\nReta tangente por O à circunferência de centro (20, 0): o triângulo formado por O, o centro e o ponto de tangência é retângulo, com hipotenusa 20 e cateto 16 (raio). O outro cateto mede √(400 − 256) = 12.\n\nSe θ é o ângulo da reta com o eixo x, cos θ = 12 ÷ 20 = 0,6 e sen θ = 0,8. O ponto de tangência é (12 × 0,6; 12 × 0,8) = (7,2; 9,6).\n\nPor simetria, os vértices são (±7,2; ±9,6), e o retângulo mede 14,4 por 19,2:\n\nÁrea = 14,4 × 19,2 = 276,48 = 6 912 ÷ 25\n\nA alternativa B é metade da área, erro de quem esquece de dobrar uma das dimensões.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Semelhança de triângulos e teorema de Pitágoras. Como AM = BM = 1, temos AB = 2 e MB = 1.\n\nNo triângulo CBA (reto em B), o ângulo α está em A: tg α = CB/AB = CB/2.\nNo triângulo MBD (reto em B), α está em D: tg α = MB/BD = 1/BD.\nIgualando: CB/2 = 1/BD, logo CB · BD = 2.\n\nCom CB + BD = 5√3/3, CB e BD são raízes de t² − (5√3/3)t + 2 = 0.\nΔ = 25/3 − 8 = 1/3, √Δ = √3/3\nt = (5√3/3 ± √3/3)/2 → t = √3 ou t = 2√3/3\n\nComo CB < BD: CB = 2√3/3 (CB² = 4/3) e BD = √3.\n\nA mediana CM liga C ao ponto médio M de AB; no triângulo CBM, reto em B:\nCM² = CB² + BM² = 4/3 + 1 = 7/3\nCM = √(7/3) cm\n\nTrocar CB por BD é o erro típico.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Sistema linear na forma matricial. A matriz dos coeficientes do sistema é exatamente M (−x/2 corresponde ao −0,5). Então M · (x, y, z) = (0, 1, 2) e a solução é (x, y, z) = M⁻¹ · (0, 1, 2).\n\nUsando a inversa dada:\nx = (14·0 + 9·1 + 16·2)/59 = 41/59\ny = (6·0 + 33·1 − 10·2)/59 = 13/59\nz = (−10·0 + 2·1 − 3·2)/59 = −4/59\n\nx + y + z = (41 + 13 − 4)/59 = 50/59\n\nNote que não é preciso resolver o sistema por escalonamento: a questão foi montada para que a inversa já pronta dê a solução com uma multiplicação.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "A inversa impressa tem um erro: o elemento central de M⁻¹ deveria ser 33/118, não 33/59 (confira M · M⁻¹). O gabarito usa a matriz como foi dada; resolvendo o sistema diretamente, a soma seria 67/118, que não está nas alternativas."
+  },
+  "0:78": {
+   "resposta": "Desigualdade triangular. Faça QR = x. Como Q, R e S estão nessa ordem e QS = 2, RS = 2 − x, com 0 < x < 2. Os lados do triângulo seriam 1, x e 2 − x.\n\nCada lado deve ser menor que a soma dos outros dois:\n1 < x + (2 − x) = 2 → sempre verdadeiro\nx < 1 + (2 − x) → 2x < 3 → x < 3/2\n2 − x < 1 + x → 1 < 2x → x > 1/2\n\nLogo 1/2 < QR < 3/2, isto é, QR ∈ ]1/2, 3/2[.\n\nO erro comum é verificar só uma das desigualdades e esquecer que RS também depende de x.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Função exponencial. No instante inicial, r(0) = C · 3⁰ = C. Queremos r(t) = C/3:\n\nC · 3^(−6t) = C/3\n3^(−6t) = 3^(−1)\n−6t = −1\nt = 1/6 s\n\nComo C ≠ 0, pode-se dividir os dois lados por C, e a igualdade de potências de mesma base dá a igualdade dos expoentes. Cuidado para não confundir com t = 1/3, que viria de ignorar o fator 6 do expoente.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Leitura de gráfico e valores notáveis do seno. P e Q são as ordenadas dos pontos de abscissas π/2 e 7π/6, então basta calcular f nesses pontos.\n\nP = f(π/2) = (π/2) · sen(π/2) = (π/2) · 1 = π/2\nQ = f(7π/6) = (7π/6) · sen(7π/6) = (7π/6) · (−1/2) = −7π/12\n\nP + Q = 6π/12 − 7π/12 = −π/12\n\nO ângulo 7π/6 está no 3º quadrante, onde o seno é negativo, o que confere com o gráfico (Q abaixo do eixo x). Esquecer esse sinal leva a uma soma positiva.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

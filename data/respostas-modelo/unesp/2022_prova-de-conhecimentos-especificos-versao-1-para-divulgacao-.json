@@ -48,6 +48,11 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "0:10": {
+   "resposta": "Função conativa (apelativa): o cronista interpela diretamente o leitor.\n\nEm \"Perdoai se apresento matéria tão feia, em dia de flores consagradas aos mortos queridos\", o verbo no imperativo (\"Perdoai\", segunda pessoa do plural) dirige-se explicitamente a quem lê, pedindo desculpas por tratar de um tema tão sombrio no Dia de Finados.\n\nNas demais, não há interlocutor explícito: A é uma pergunta retórica sobre os mortos; C reproduz a fala de um morador; D descreve o rio personificado; E é uma reflexão do cronista sobre a quem dedicar a elegia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "0:11": {
    "resposta": "A questão cobra a classe gramatical da palavra \"se\" em \"só se lhes vejam as cabeças\".\n\nNesse trecho, \"se\" é pronome: a oração equivale a \"só as cabeças lhes sejam vistas\" (voz passiva sintética, com \"se\" partícula apassivadora, que é um pronome). A pergunta pede outra palavra da mesma classe: pronome.\n\nNa alternativa correta, em \"ou o são de mínima gente\", o \"o\" é pronome pessoal oblíquo que retoma a ideia de \"amados\" (equivale a \"ou são amados por mínima gente\").\n\nNas demais: \"mas\" é conjunção adversativa; \"o\" em \"Eis desce o rio\" é artigo (acompanha \"rio\"); \"se\" em \"se não trazem a marca\" é conjunção condicional, a mais tentadora por ter a mesma forma; e \"para\" é preposição.\n\n**Resposta: E**",
    "confianca": "alta",
@@ -75,6 +80,11 @@
   },
   "0:16": {
    "resposta": "A questão cobra o sentido do conectivo \"yet\".\n\nNa frase anterior, o texto mostra um episódio cruel: Brás Cubas vê um liberto chicotear um escravo que comprou, para descontar os próprios sofrimentos. Em seguida, \"Yet the novel floats free...\" afirma que, apesar disso, o romance flutua livre da opressão do ambiente, levado por travessura e urbanidade.\n\n\"Yet\", nesse uso, equivale a \"no entanto\", \"contudo\": introduz uma ideia que se opõe à anterior. Expressa, portanto, contraste.\n\nNão é consequência (seria \"so\", \"therefore\"), acréscimo (\"also\", \"moreover\"), alternância (\"either... or\") nem exemplificação (\"for example\").\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Coesão referencial em texto em inglês.\n\nO quarto parágrafo descreve as ousadias formais do romance: \"Machado mocks every rule of the 19th-century novel\", e logo depois vem o exemplo: \"A chapter of dialogue is written entirely in punctuation (\"!…?…!\")\". Escrever um capítulo de diálogo só com sinais de pontuação é uma quebra evidente das convenções do romance da época; é a ilustração concreta da afirmação.\n\nAs outras não exemplificam a zombaria das regras: \"Across 160 short chapters\" é só um dado de extensão; a tradução (B) é informação editorial; \"teases, dances and delights\" (C) descreve o efeito da história; e a frase de Dave Eggers (D) é um elogio, não um exemplo.\n\n**Resposta: E**",
    "confianca": "alta",
    "pendencia": null
   },

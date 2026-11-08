@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/famerp/2025_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "**Interpretação de texto** com atenção ao interlocutor do poema. O eu lírico se dirige a Glaura (\"Empenhou-se, ó Glaura, o zelo\"), e é a ela que se referem os pronomes de segunda pessoa.\n\nNa estrofe sobre Antero e Cupido, que roubaram o \"puro ornato\" (a cinta de Vênus), lemos que, receosos, \"No teu seio se acolheram, / Onde oculto asilo têm\". O possessivo \"teu\" remete a Glaura: os meninos se esconderam no peito da amada.\n\nPor isso o eu lírico diz que sabe onde a cinta está (\"Só eu vi, sei onde existe\") e que eles não se escondem dos seus olhos: ele os vê ali, mas não os alcança. A alternativa tentadora é (E), que confunde o lugar de onde o eu lírico vê os meninos com o lugar onde eles se abrigam; (C) erra porque Vênus é quem procura a cinta.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "O sentimento contraditório em relação aos filhos de Vênus é a mistura de queixa e encanto: os Amores fazem sofrer, mas atraem. Essa ambivalência fica **explícita** quando o eu lírico os chama, ao mesmo tempo, de \"cruéis\" e \"lindos\": \"(Ah cruéis, lindos Amores!)\". Os dois adjetivos de sentido oposto, lado a lado, formam uma antítese que resume o amor como prazer e dor.\n\nAs outras passagens descrevem ações ou sensações isoladas. (B) mostra um desencontro (eles correspondem, mas não vêm), não um sentimento duplo do eu lírico. (E) registra só o medo, e (A), só o afeto. (C) fala do receio dos meninos, não do eu lírico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "O **Arcadismo** (século XVIII) retoma modelos clássicos, e um de seus traços é a presença da **mitologia greco-romana**. O poema de Silva Alvarenga gira em torno de Vênus, deusa do amor, de sua cinta mágica e de seus filhos Antero e Cupido, os \"Amores\"; a amada tem nome pastoril (Glaura) e é chamada de \"Ninfa\".\n\nAs demais alternativas não cabem. Tom confessional e subjetivo (B) é marca romântica; a transitoriedade da vida (C) é tema mais barroco; o bucolismo (D) é árcade, mas não aparece no poema, que não exalta o campo nem a vida simples; e a impessoalidade (E) não combina com um eu lírico que fala de si e se dirige à amada.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**Pronomes oblíquos átonos** e sua combinação. Em \"Pede aos mares que lha deem\", \"lha\" = \"lhe\" (objeto indireto, a quem se dá) + \"a\" (objeto direto, o que se dá).\n\nQuem pede é Vênus: \"Cai a cinta a Vênus bela, / [...] E turbada entre os pesares / Pede aos mares\". Ela pede que os mares lhe deem a cinta de volta, ou seja, que deem a cinta a ela.\n\nLogo:\nlhe → Vênus (a quem a cinta deve ser dada)\na → cinta (aquilo que deve ser dado)\n\nA inversão (D) é a armadilha: o pronome feminino \"a\" faz lembrar Vênus, mas ele exerce a função de objeto direto, e o objeto do verbo \"dar\" aqui é a cinta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**Partícula apassivadora** (\"se\" da voz passiva sintética): aparece com verbo transitivo direto e pode ser trocada pela voz passiva analítica, com o termo que acompanha o verbo funcionando como sujeito.\n\n\"O tesouro se procura\" = \"O tesouro é procurado\". \"Procurar\" é transitivo direto, e \"o tesouro\" é o sujeito paciente. Esse é o caso.\n\nNas outras: em \"se acolheram\" e \"se escondem\", o \"se\" é pronome reflexivo ou parte de verbo pronominal (os meninos acolheram a si mesmos, escondem-se); não dá para dizer \"foram acolhidos\" com o mesmo sentido. Em (C) e (D), \"Se\" é conjunção subordinativa condicional (\"caso eu os procure\", \"caso eu rogue\").\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "O humor nasce da **ambiguidade** da expressão \"entender de cinema\". O primeiro personagem pergunta se o outro conhece cinema como arte (filmes, linguagem, história), condição para escrever um e-book sobre o assunto. O segundo responde \"Claro, já fui em vários\", tomando \"cinema\" como a sala de exibição, o lugar físico.\n\nOs dois sentidos da mesma palavra produzem o descompasso cômico e revelam, de quebra, a ironia: o autor do futuro livro não entende nada do tema.\n\nNão há metalinguagem (C), porque a tira não fala do próprio código; não há exagero (E), atenuação (B) nem ideias contraditórias combinadas (D).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**Interpretação de crônica**. Machado parte da ideia de que tudo muda (\"Os dias passam, e os meses, e os anos, e as situações políticas...\"), mas ressalva: \"Duas coisas, entretanto, perduram no meio da instabilidade universal\". Uma delas é a constância da polícia, que proíbe os fogos todo ano; a outra, \"a disposição do povo em desobedecer às ordens da polícia\". Ou seja, a teimosia popular resiste ao tempo.\n\n(E) contradiz justamente essa ressalva. (C) é a alternativa mais tentadora, mas o cronista diz que muitas dezenas de anos hão de correr \"primeiro que o povo perca os seus antigos amores\": as crendices duram muito, mas um dia se perderão, não são imunes. (A) vai no sentido oposto, e (D) contraria a desobediência descrita.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**Incompatibilidade semântica** entre termos de uma expressão é o **oxímoro** (ou paradoxo): unir palavras de sentidos que se excluem.\n\nEm \"sublimes ridicularias\", \"sublime\" é o que é elevado, grandioso; \"ridicularia\", segundo a nota, é coisa mínima, sem importância. Os dois termos se chocam, e o cronista usa o contraste para mostrar sua simpatia pelas crendices populares (as sortes, os ovos na água): pequenas, mas dignas de respeito.\n\nNas demais expressões, adjetivo e substantivo combinam sem conflito: um motivo pode ser histórico, os amores podem ser antigos, um resíduo pode ser comum e as noites podem ser abençoadas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "**Relações entre orações**: a locução \"não obstante\" equivale a \"apesar de\", \"embora\", e introduz uma **concessão**, isto é, um fato contrário que não impede o que se afirma.\n\nReescrita: \"apesar do ceticismo do tempo, muita e muita dezena de anos há de correr primeiro que o povo perca os seus antigos amores\". O ceticismo da época poderia levar ao fim das crendices, mas não impede que elas durem ainda muitos anos.\n\nNão há condição (seria \"se\", \"caso\"), comparação (\"como\"), consequência (\"de modo que\") nem finalidade (\"para que\").\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "**Substantivação** (derivação imprópria): uma palavra muda de classe sem mudar de forma, geralmente por vir precedida de artigo, pronome demonstrativo ou outro determinante.\n\nEm \"o motivo histórico deste foguetear\", o infinitivo \"foguetear\" vem antecedido de \"deste\" (de + este), um determinante, e funciona como núcleo de um termo nominal: equivale a \"deste foguetório\", \"desta queima de fogos\".\n\nNas outras alternativas o infinitivo continua sendo verbo: \"desobedecer às ordens\" tem complemento verbal; \"chegar a vez\" tem sujeito (\"a vez\"); \"queimar fogos\" tem objeto direto; e \"há de correr\" é locução verbal.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Questão de **ideia central** de um texto da The Economist sobre aplicativos de namoro.\n\nO texto tem duas partes. Primeiro, a ascensão: o Tinder tornou o namoro online \"easy and fun\", 30% dos adultos americanos já usaram esses serviços, o uso disparou na pandemia e o valor de mercado das empresas chegou a dezenas de bilhões de dólares. Depois, a virada: \"Yet lately online dating has lost its spark\" (\"ultimamente o namoro online perdeu o brilho\"); os downloads caíram de 287 milhões (2020) para 237 milhões (2023) e os usuários mensais, de 154 para 137 milhões. O gráfico confirma a subida e a queda.\n\nLogo, o texto trata da passagem da alta procura para o interesse em queda. (C) é a tentadora, mas a transição de sites para aplicativos aparece só no primeiro parágrafo, como ponto de partida. Saúde mental, privacidade e psicologia da atração não são abordadas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "**Conectivos em inglês**: \"although\" é conjunção **concessiva**, equivale a \"embora\", \"apesar de\".\n\nNo trecho, o texto diz que, embora o namoro online existisse desde o Match.com (1995), ele tinha dificuldade de se livrar de uma imagem de desespero. A ideia é de algo que não impediu a outra situação: concessão.\n\n\"Despite the fact that\" (\"apesar do fato de que\") tem exatamente esse valor e mantém a estrutura com oração.\n\nAs outras mudam o sentido: \"now that\" = \"agora que\" (causa/tempo), \"assuming that\" = \"supondo que\" (hipótese), \"on the condition that\" = \"com a condição de que\" (condição) e \"in order that\" = \"para que\" (finalidade).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "**Sentidos de \"but\"**: pode ser conjunção adversativa (\"mas\") ou preposição com sentido de exceção (\"exceto\", \"a não ser\").\n\nNo texto, \"But Tinder [...] made it easy and fun\" se opõe à frase anterior (o namoro online lutava contra uma imagem de desespero; **mas** o Tinder o tornou fácil e divertido). É o \"but\" adversativo, de **contraste**.\n\nEm (D), \"I studied hard but I didn't pass the exam\" (\"estudei muito, mas não passei\") o valor é o mesmo: contraste entre duas orações.\n\nEm (A), (B) e (E), \"but\" significa \"exceto\" (todos os animais exceto aranhas; todos os pratos exceto a sobremesa; todos exceto o primo). Em (C), \"no choice but to\" significa \"nenhuma escolha a não ser\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**Compreensão** dos dois primeiros parágrafos.\n\nO texto diz que o Match.com, de 1995, \"had long struggled to shed an image of desperation\" (lutava para se livrar de uma imagem de desespero) e que o Tinder, ao permitir escolher parceiros com um simples deslizar de dedo, \"made it easy and fun\". Ou seja, o aplicativo ajudou a reduzir aquela imagem ao tornar o namoro online fácil e divertido. É o que afirma (A).\n\nAs outras distorcem dados. (B): o texto não diz que o Match.com só fez sucesso em 2012 (2012 é o lançamento do Tinder). (C): os 30% são de adultos americanos que já usaram algum serviço de namoro online, e não do Tinder; entre 18 e 29 anos, o número é \"more than half\". (D): quem chegou a quase 50 bilhões foi o Match Group; o Bumble valia 13 bilhões. (E): o Tinder nem existia antes de 2012.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**Vocabulário**: \"roughly\", em \"Today roughly 350 million people [...] have a dating app\", significa \"aproximadamente\", \"cerca de\". O advérbio sinaliza que o número é arredondado.\n\nO sinônimo é \"approximately\".\n\nOs outros mudam o sentido: \"effectively\" = \"efetivamente\", \"periodically\" = \"periodicamente\", \"merely\" = \"meramente, apenas\" (daria ideia de pouco) e \"globally\" = \"globalmente\" (o \"around the world\" já indica isso). A confusão comum é associar \"roughly\" a \"rough\" (áspero, bruto), o que não ajuda aqui.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**Leitura de gráfico** relacionada ao texto. O gráfico mostra o número mundial de usuários ativos mensais de aplicativos de namoro: sobe de cerca de 131 milhões (2019) para um pico próximo de 154 milhões (2021), fica estável e depois **cai** até perto de 137 milhões em 2024.\n\nA frase que traduz essa tendência recente de queda é \"Yet lately online dating has lost its spark\" (\"ultimamente o namoro online perdeu o brilho\"), seguida no texto justamente pelos dados de 154 milhões para 137 milhões.\n\nAs demais frases trazem informações que o gráfico não mostra: casais de 18 a 29 anos, porcentagem de adultos americanos, o aplicativo do governo de Tóquio. O gráfico é mundial e só mede usuários ativos ao longo do tempo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**Vocabulário de tempo**: \"quarter\" significa \"quarta parte\"; aplicado a um ano, é um período de três meses, o **trimestre**. \"The second quarter of 2024\" é, portanto, o segundo trimestre de 2024 (abril a junho).\n\nO próprio gráfico ajuda: a nota diz \"Annual data until 2022, then quarterly\", e depois de 2022 aparecem pontos a cada três meses.\n\nAs distrações jogam com divisões do ano: bimestre (2 meses), semestre (6 meses), quadrimestre (4 meses). A armadilha é ligar \"quarter\" ao número quatro e escolher \"quadrimestre\"; mas \"quarter\" é um quarto do ano, e não um período de quatro meses.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**Tema central** de um cartaz de campanha. O título \"If it's easy to crack, you're easy to hack\" (\"se é fácil de quebrar, você é fácil de invadir\") e as dicas, como valorizar o tamanho da senha, não repetir senhas, não usar dados pessoais, ativar a autenticação em dois fatores e usar um gerenciador de senhas, tratam de proteger contas contra invasões.\n\nA palavra que resume isso é \"security\" (segurança).\n\nAs outras não cabem: \"cyberbullying\" é intimidação online; \"connection\" é conexão; \"malfunction\" é defeito, falha de funcionamento; \"oversharing\" é expor informação demais. Esse último pode tentar por causa da dica sobre informações pessoais, mas ela é só um dos itens a serviço da segurança das senhas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**Orações condicionais em inglês**: \"if\" introduz uma condição, uma **hipótese**. \"If it's easy to crack\" = \"se ela (a senha) é fácil de quebrar\"; a oração principal, \"you're easy to hack\", é a consequência caso a hipótese se confirme.\n\nÉ a estrutura do chamado \"zero/first conditional\": se X acontece, Y acontece.\n\nNão há contraste (seria \"but\", \"although\"), obrigação (\"must\", \"have to\"), comparação (\"like\", \"as... as\") nem gradação (\"gradually\", \"more and more\"). O paralelismo \"easy to crack / easy to hack\" é um jogo sonoro, não uma comparação.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**Interpretação de tirinha** em inglês. O título é a chave: \"Phrases that make my blood run colder than ice\" (\"frases que fazem meu sangue gelar mais que o gelo\"). Gelar o sangue é expressão de **medo**.\n\nEm cada quadrinho, uma frase aparentemente inofensiva (\"We need to talk\", \"Can I ask you a question?\", \"Do you remember that time you—\", \"Can I see you for a second?\") faz a personagem reagir com olhos arregalados, suor, gestos nervosos e respostas defensivas como \"Nope\". Ela teme o que vem depois: bronca, cobrança, constrangimento.\n\nLogo, as frases a deixam \"frightened\" (assustada). Ela não está grata, culpada, inspirada nem orgulhosa; \"guilty\" pode tentar, mas o desenho e o título mostram apreensão, não culpa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**Roma Antiga e cristianismo**. O império costumava tolerar os cultos dos povos conquistados, desde que estes também honrassem os deuses romanos e o imperador. Os cristãos, monoteístas, recusavam esse culto, e o texto diz que o Estado via nessa recusa \"um desafio à ordem\". Daí as perseguições por mais de dois séculos, até a liberdade de culto com Constantino (313).\n\nO excerto, portanto, mostra que o cristianismo foi visto como ameaça política, não apenas religiosa, porque o culto ao imperador era um laço de lealdade ao Estado.\n\n(B) contradiz o texto, que diz que a tolerância não existiu para os cristãos. (A) inverte: o império era politeísta. (C) atribui ao autor uma posição que ele não toma; ele explica a visão do Estado. (E) também contraria o texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**Mentalidade medieval**: na Idade Média, fenômenos naturais costumavam ser interpretados como sinais da vontade de Deus.\n\nO monge Raoul Glaber descreve a fome do século XI ligada a chuvas e inundações que impediam semeaduras e colheitas, ou seja, causas climáticas. Mas ele vai além: \"não havia dúvidas de que se punia assim o orgulho da humanidade\". O clima adverso seria um castigo divino pelos pecados dos homens.\n\n(B) reúne as duas dimensões: eventos climáticos provocados pela cólera de Deus.\n\n(A) e (C) apontam causas técnicas e sociais que o monge não menciona. (D) atribui as alterações à ação humana sobre a terra, ideia ausente no relato. (E) é o oposto: os homens estavam à mercê dos elementos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**Brasil colonial e trabalho feminino**. O autor afirma que a forte presença de mulheres no pequeno comércio resultou \"da convergência de duas referências culturais\": a africana, em que as mulheres cuidavam da alimentação e da distribuição de gêneros, e a portuguesa, cuja divisão de papéis e legislação amparavam a participação feminina nesse comércio.\n\nTrata-se, portanto, de um exemplo da combinação de tradições culturais distintas.\n\n(B) cita indígenas, que o texto não menciona. (A) atribui o fenômeno a um esforço do governo, o que o texto não diz. (C) e (D) contrariam o excerto, que mostra as mulheres fora de casa, atuando no comércio de rua, um serviço urbano.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**Mineração no século XVIII e abastecimento**. Nas Minas Gerais, a população cresceu rapidamente e se espalhou por arraiais, vilas e áreas de lavra em terreno montanhoso; o abastecimento de alimentos era um problema crônico, com crises de fome no início da mineração.\n\nO comércio ambulante descrito no texto, feito sobretudo por mulheres (muitas delas negras, livres ou escravizadas \"de ganho\", as chamadas negras de tabuleiro), levava gêneros de primeira necessidade aos moradores dispersos. Ele facilitava o abastecimento interno.\n\n(D) erra: grande parte dessas vendedoras era escravizada. (B) contraria a ideia de um comércio complementar e ignora que o comércio regular não dava conta da demanda. (A) e (E) não têm base no texto: a tributação pesada recaía sobre o ouro, e o pequeno comércio vendia muitos gêneros produzidos na própria região.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "**Expansão marítima e origens da globalização**. O autor define a globalização do início do século XVI como o contato entre partes do mundo que se ignoravam ou não se frequentavam. O que tornou isso possível foram as Grandes Navegações europeias: chegada à América (1492), rota do Cabo até as Índias (1498), Brasil (1500), ligando Europa, África, Ásia e América.\n\nNesse processo nasceu também o tráfico transatlântico de pessoas escravizadas, que integrou a África e a América à economia europeia. Por isso (C) é a resposta.\n\n(A) descreve o renascimento comercial da Baixa Idade Média, de escala regional. (B) e (E) citam processos europeus ou africanos que não produzem esse contato mundial. (D) mistura a luta contra o islã com um \"monopólio ibérico\", que não explica o encontro entre continentes.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "**Segundo Reinado e expansão cafeeira** no Oeste Paulista. O texto aponta dois problemas: a distância cada vez maior entre as fazendas e o porto de Santos, e a falta de mão de obra após o fim do tráfico negreiro (Lei Eusébio de Queirós, 1850).\n\nAs soluções: para a distância, as **ferrovias** (como a São Paulo Railway, 1867, ligando Jundiaí a Santos, e depois as linhas para o interior); para a escassez de braços, além da imigração europeia, a **mecanização** de etapas do processo, sobretudo o beneficiamento do café (despolpadores, secadores, máquinas de descascar).\n\n(A) e (C) apontam soluções que não ocorreram (portos na Bacia do Prata, escravização indígena). (B) está errada: a expansão foi para o interior, e a imigração foi sobretudo de europeus. (D) não resolve nenhum dos dois problemas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "**Revolta da Vacina (1904)**, no Rio de Janeiro. Oswaldo Cruz, diretor da Saúde Pública, liderou a campanha de vacinação obrigatória contra a varíola, aplicada de forma autoritária: agentes entravam nas casas acompanhados de policiais e soldados.\n\nA charge representa Oswaldo Cruz montado numa seringa gigante, como uma lança, empurrada por soldados contra o \"povo\" que foge; o título ironiza a \"Hygiene à muque\", ou seja, a higiene imposta à força. O desenho critica o uso da força para cumprir a lei.\n\n(A) e (E) leem a charge como elogio, quando ela é crítica (e (E) troca a varíola pela febre amarela). (B) não se sustenta: a charge não discute constitucionalidade. (C) inverte: o exército aparece aplicando a vacinação, não impedindo-a.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "**Ditadura militar: o AI-5** (dezembro de 1968), editado no governo Costa e Silva. Permitia fechar o Congresso, cassar mandatos, suspender direitos políticos e o habeas corpus para crimes políticos, e não tinha prazo de vigência.\n\nO excerto o define como instrumento de intimidação \"dotado de valor legal\", autoconferido pelos militares. Ou seja, uma ferramenta jurídica que escancarou o caráter ditatorial do regime: a repressão passou a ter respaldo em norma.\n\n(B) erra ao falar em fragilidade; o ato fortaleceu o poder dos militares. (C) inverte quem usava o ato: foi a ditadura, contra a oposição. (D) é o contrário: a abertura veio depois, e o AI-5 só foi revogado em 1978. (E) está errada porque o AI-5 foi imposto pelo Executivo, sem aprovação do Congresso, que inclusive foi fechado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "**Descolonização da África e industrialização por substituição de importações (ISI)**. Após a Segunda Guerra, os novos Estados africanos buscaram diminuir a dependência econômica das antigas metrópoles. A ISI é a estratégia de produzir internamente bens industrializados antes importados, sobretudo de consumo, protegendo a indústria nacional com tarifas e incentivos (o Brasil seguiu esse caminho a partir da Era Vargas).\n\n(B) define isso: valorizar a produção local de mercadorias industrializadas voltadas ao consumo de massa.\n\n(A) e (E) exageram: a ISI não exige recusar capital estrangeiro nem romper o comércio com o Ocidente. (C) fala de planejamento urbano, outro tema. (D) não tem relação com a política: substituir importações busca autonomia, não subordinação ao bloco socialista.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "**Guerra Fria e dissuasão nuclear**. Hobsbawm afirma que, depois que a URSS também obteve a bomba (1949), uma guerra entre as superpotências passou a ser suicida (é a lógica da \"destruição mútua assegurada\"). As armas não foram usadas; mas a ameaça nuclear foi brandida em algumas ocasiões, \"quase com certeza sem intenção de cumpri-la\".\n\nOu seja, o arsenal funcionou sobretudo como instrumento de **pressão, dissuasão e propaganda**: uma função simbólica e persuasiva.\n\n(A) e (D) exageram: houve grandes mudanças no mundo e muitos conflitos, não harmonia. (B) inverte: as armas eram a base do poder das superpotências. (E) contraria o texto, segundo o qual elas não foram usadas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "**Queimadas no Pantanal**. O bioma tem uma estação chuvosa (cheia) e uma seca; o fogo costuma se concentrar no fim da estiagem, entre agosto e outubro. Em 2024, os incêndios começaram já em junho porque o Pantanal vivia uma seca histórica: chuvas abaixo da média, rios baixos e vegetação seca, um combustível abundante.\n\nA ignição, porém, é quase sempre humana: queimadas para renovar pastagens ou limpar áreas, feitas sem controle, além de incêndios criminosos. Daí a combinação de **estiagem e ações antrópicas**.\n\n(B) erra: raios respondem por pequena parte dos focos, e a vegetação estava seca, não densa e úmida. (A), (D) e (E) citam fatores sem relação direta com o fogo no bioma; o que favorece a seca no Centro-Oeste é o El Niño, não a La Niña.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "**Economia brasileira e commodities**. O Brasil é um dos maiores exportadores mundiais de produtos primários padronizados: soja, minério de ferro, petróleo bruto, carnes, açúcar, café, celulose. Esses itens respondem pela maior parte da pauta de exportações e garantem os seguidos superávits da balança comercial, contribuindo positivamente para o PIB.\n\nPor isso (D) é a resposta.\n\n(A) e (E) negam esse peso: a exportação de industrializados perdeu espaço, e o fato de o setor de serviços ser o maior do PIB não torna as commodities inexpressivas. (B) é incorreta porque commodities têm, justamente, baixo valor agregado. (C) inverte a relação: elas são puxadas pela demanda externa (sobretudo a China), não por investimentos em infraestrutura e serviços.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "**Migrações internacionais e rotas de trânsito**. Os solicitantes de refúgio retidos no Aeroporto de Guarulhos em 2024 vinham sobretudo da Índia, além de Vietnã, Senegal e outros países. Muitos chegavam com passagem em conexão para outro país, pediam refúgio no Brasil para poder entrar e depois seguiam por terra, através da América Central e do México, rumo aos Estados Unidos. O Brasil funcionava como porta de entrada de uma **rota de imigração ilegal**, explorada por redes de coiotes.\n\nPor isso o governo endureceu as regras para viajantes em conexão sem visto.\n\nAs outras alternativas não se apoiam na notícia: não há indicação de salários altos, vagas de estudo ou emprego industrial atraindo esses grupos, nem pedido da ONU para recebê-los.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "**Questão agrária e grilagem**. Grilagem é a apropriação ilegal de terras, em geral públicas (devolutas) ou de comunidades tradicionais, por meio de **documentos falsos** ou fraudados que simulam propriedade. O nome vem da antiga prática de guardar papéis novos numa gaveta com grilos, para que ficassem amarelados e roídos, parecendo títulos antigos.\n\nA notícia mostra o mesmo objetivo: desmatar, lotear e alterar os marcos da área \"visando a dar aparência de posse regular\".\n\nAs demais alternativas descrevem mecanismos legais: regularização fundiária, demarcação de terras indígenas e reforma agrária. (E) confunde grilagem com ocupações de movimentos sociais que invocam a função social da terra, um fenômeno diferente.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "**Ecossistemas costeiros: o manguezal**. Ocupa a transição entre rio e mar, em solo lamacento, salobro e pobre em oxigênio. Suas árvores têm raízes escoras e respiratórias que fixam o sedimento e amortecem a ação de ondas e marés.\n\nPor isso uma característica importante dos mangues é a **proteção do litoral contra a erosão**, além de filtrar sedimentos e servir de berçário para peixes, crustáceos e moluscos.\n\n(D) inverte: o mangue tem alta biodiversidade e produtividade. (B) também: ele exporta matéria orgânica que alimenta a vida marinha, sem \"poluir\". (A) é uma atividade humana, não uma característica do ecossistema. (C) é tentadora, mas a produção de oxigênio atmosférico não é traço distintivo do mangue; ela é atribuída sobretudo ao fitoplâncton dos oceanos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "**Geomorfologia e tipos de rocha**. O Parque Nacional da Serra da Capivara fica na borda da Bacia Sedimentar do Parnaíba, formada por **arenitos**, rochas sedimentares compostas de grãos de areia cimentados. Na foto, as camadas horizontais e a cor alaranjada (óxidos de ferro) são típicas desse material.\n\nO arco da Pedra Furada resulta de erosão diferencial: partes menos resistentes do arenito foram removidas, sobretudo pela ação do vento, além da chuva, ao longo de milhões de anos.\n\nAs outras alternativas erram o tipo de rocha ou o agente: não há basalto nem vulcanismo na região (B); granito (C) e mármore (D) não aparecem ali, e pressão e temperatura formam rochas metamórficas, não esculpem relevo; argila não é rocha magmática (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "**Riscos urbanos e ocupação de encostas**. A Serra do Mar no litoral norte paulista tem encostas íngremes, solos rasos e chuvas intensas. Em fevereiro de 2023, 661 mm em 12 horas saturaram o solo e provocaram deslizamentos que atingiram sobretudo a Vila Sahy, ocupada de forma irregular por moradias populares em áreas de risco.\n\nUm ano depois, ainda havia moradores no alto do morro, porque obras de contenção (muros de arrimo, drenagem, retaludamento) e reassentamento são caras e lentas. O grande desafio do município é justamente essa **infraestrutura de contenção das encostas**.\n\nAs outras alternativas falam de problemas não citados nem característicos do caso: fuga em massa da população, contaminação de reservatórios, criminalidade ou falta de eletricidade.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "**Matriz elétrica brasileira**. A geração elétrica do país depende sobretudo das **hidrelétricas**. Em períodos de seca, os reservatórios baixam e o Operador Nacional do Sistema (ONS) aciona as **termelétricas** como reserva, para evitar falta de energia, ainda que a um custo maior (por isso a notícia diz que a medida pode encarecer a energia). Em 2021, a crise hídrica levou o país perto do racionamento; em 2024, diante de nova seca intensa, o governo se antecipou.\n\n(A) erra: a matriz elétrica é majoritariamente renovável, não movida a óleo. (B) e (E) apontam causas inexistentes: o Brasil não é grande exportador de gás, e a energia nuclear tem participação pequena. (C) é tentadora pela fumaça das queimadas, mas a solar tem peso menor e não é ela que motiva o acionamento das térmicas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "**Mercado de carbono**, criado a partir do Protocolo de Kyoto (1997). Por convenção, **1 crédito de carbono = 1 tonelada de CO₂** (ou o equivalente em outros gases de efeito estufa) que deixou de ser emitida ou foi retirada da atmosfera por um projeto certificado: reflorestamento, energia renovável, captura de metano em aterros, como cita o texto.\n\nEsses créditos podem ser vendidos a empresas ou países que precisam compensar as próprias emissões.\n\n(B) confunde o crédito com uma licença de emissão e o limita aos países subdesenvolvidos. (C) e (E) tratam o crédito como empréstimo ou vale-compra, o que ele não é. (D) mistura compensar emissões com compensar custos de produtos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "**Nacionalismos na Europa: a Catalunha**. A região, com língua e identidade próprias, tem um forte movimento separatista, que governou a Catalunha por anos e promoveu o referendo ilegal de independência de 2017.\n\nNas eleições regionais de maio de 2024, o Partido Socialista da Catalunha, de Salvador Illa, aliado do premiê Pedro Sánchez, ficou em primeiro lugar, e os partidos independentistas perderam a maioria no Parlamento. A posse de Illa encerrou mais de uma década de governos separatistas: uma implicação direta é a **diminuição do poder do movimento separatista**.\n\nAs demais alternativas não fazem sentido: a Espanha segue na Otan, a Catalunha já usa o euro como parte da Espanha, não há guerra civil religiosa na região, e a questão curda é do Oriente Médio.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Ecologia e fisiologia: a água. A canção fala da água, e a questão cobra o ciclo dela nos seres vivos.\n\nOs animais obtêm água bebendo, mas também pela alimentação: frutas, folhas e a carne das presas são ricas em água, e há ainda a água metabólica, liberada na respiração celular. Por isso a alternativa B está correta.\n\nAs outras falham: a lixiviação empobrece o solo em vez de fertilizá-lo (A); a água é solvente e reagente, mas quem catalisa reações são as enzimas (C); a água excretada volta ao ambiente e é reaproveitada por outros seres (D); e a matéria, inclusive a água, circula em ciclo, não em fluxo unidirecional (quem tem fluxo unidirecional é a energia), o que derruba a E.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Metabolismo energético: fermentação alcoólica. O esquema mostra a glicólise (glicose → 2 piruvato, saldo de 2 ATP e 2 NADH) seguida da conversão do piruvato em etanol com liberação de CO₂, que regenera o NAD⁺.\n\nÉ um processo anaeróbio: não usa oxigênio como aceptor final de elétrons. Quem recebe os hidrogênios do NADH é uma molécula orgânica (o acetaldeído derivado do piruvato), o que derruba a C. Ocorre no citosol, não na mitocôndria, e também em eucariontes, como as leveduras (Saccharomyces), o que derruba A e D.\n\nO saldo é de apenas 2 ATP por glicose, bem menor que os cerca de 30 a 38 ATP da respiração aeróbia, porque o etanol ainda guarda muita energia química.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Biomas brasileiros: Caatinga. A área hachurada cobre o interior do Nordeste, região semiárida, de chuvas escassas e irregulares — é a Caatinga.\n\nAs plantas desse bioma são xerófitas, adaptadas à falta de água. Uma das adaptações típicas é a transformação das folhas em espinhos, como nos cactos (mandacaru, xiquexique): sem lâmina foliar larga, a superfície de transpiração diminui e a perda de água é menor. Por isso a C está correta.\n\nAs demais descrevem o contrário do que se espera no semiárido: folhas largas e perenes (D) aumentariam a transpiração — na Caatinga muitas plantas perdem as folhas na seca; cascas grossas contra queimadas (e não delgadas, A) são marca do Cerrado; raízes aéreas (B) são típicas do mangue.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Cladística: leitura de cladograma. Táxons mais aparentados são os que compartilham o ancestral comum mais recente, ou seja, cujos ramos se encontram no nó mais próximo das pontas. Quanto mais recente o ancestral comum, maior a semelhança esperada no DNA.\n\nNo lado direito do cladograma, os ramos de E e F se unem antes de qualquer outro (são grupos-irmãos); só depois esse par se junta a G. No lado esquerdo, o par mais próximo é B e C, que depois se une a A e, mais abaixo, a D.\n\nEntre as alternativas, o único par de grupos-irmãos é E e F. A e B não formam par (B está mais perto de C), C e D se separam em nó mais antigo, e D e E estão em lados diferentes da árvore, ligados apenas pela raiz.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Fisiologia comparada: circulação nos vertebrados. A figura mostra um coração com dois átrios e um único ventrículo: a seta azul-clara (sangue venoso, vindo do átrio direito) e a seta lilás (sangue arterial, vindo do átrio esquerdo) chegam à mesma câmara ventricular. É o coração de anfíbios, com circulação dupla e incompleta.\n\nComo o ventrículo é único, o sangue arterial e o venoso se misturam ali, e o que sai pela aorta é sangue misto — por isso a A está correta e a D, errada.\n\nOs átrios não bombeiam sangue para o corpo, apenas o enviam ao ventrículo; além disso, o átrio direito recebe sangue venoso e o esquerdo, arterial, o que derruba B e C. Nos átrios não há mistura, pois eles são separados por septo (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Parasitologia: amebíase. A amebíase é causada pelo protozoário Entamoeba histolytica, que vive no intestino humano e é eliminado nas fezes na forma de cistos resistentes.\n\nA transmissão é fecal-oral: a pessoa se infecta ao ingerir água ou alimentos contaminados por esses cistos. Por isso a doença é mais comum onde o saneamento básico é precário, o que combina com o texto, que liga os casos em países desenvolvidos à imigração de pessoas vindas de regiões mais pobres. A prevenção é saneamento, água tratada e higiene dos alimentos.\n\nAs outras alternativas descrevem outras doenças: picada de mosquito (A) lembra malária; penetração de larvas na pele (B), ancilostomose ou esquistossomose; carne crua com cisticercos (C), teníase; picada de barbeiro (D), doença de Chagas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Sistema nervoso: sinapse e receptores. O texto diz que o fentanil \"interage com os receptores opioides\" do cérebro e do tronco encefálico. Receptores de neurotransmissores são proteínas da membrana do neurônio pós-sináptico, voltadas para a fenda sináptica — principalmente na superfície dos dendritos e do corpo celular.\n\nO fentanil age como um agonista: imita substâncias naturais (as endorfinas) e se liga a esses receptores, desencadeando analgesia, sensação de prazer e, em excesso, depressão respiratória. Portanto, atua na sinapse, ligando-se a proteínas de membrana dos dendritos — alternativa D.\n\nNada no texto fala em bloquear a liberação de neurotransmissores (A), inibir genes no núcleo (B), agir na bainha de mielina (C) ou no transporte axonal (E); todas contrariam a ideia de ligação a receptores.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Genética: fator Rh e eritroblastose fetal. A doença ocorre quando a mãe é Rh⁻ (rr), já foi sensibilizada por um filho Rh⁺ e gera outro filho Rh⁺; os anticorpos anti-Rh dela destroem as hemácias do feto.\n\nII-5 teve eritroblastose ao nascer, logo é Rh⁺ filho de mãe Rh⁻: herdou dela um r e é Rr. Sua esposa II-4 é Rh⁻ (rr) e já teve o filho III-2, Rh⁺, sem receber imunizante anti-Rh — então está sensibilizada.\n\nCasal II-4 (rr) × II-5 (Rr): 1/2 dos filhos é Rr (Rh⁺) e 1/2 é rr. Todo próximo filho Rh⁺ terá eritroblastose, logo a probabilidade é de 50%.\n\nNo casal II-1 × II-2 a mãe é Rh⁺, e mãe Rh⁺ não produz anti-Rh; a probabilidade ali é nula, o que elimina B e C.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Evolução: especiação. O mapa mostra o ancestral Poebrodon migrando da América do Norte para a Eurásia (origem de camelos e dromedários) e para a América do Sul (origem de lhama, vicunha, alpaca e guanaco).\n\nPopulações separadas por barreiras geográficas deixam de trocar genes. Isoladas, acumulam mutações próprias e sofrem seleção natural e deriva diferentes, até que se tornam espécies distintas. Esse é o modelo da especiação alopátrica, com interrupção do fluxo gênico — alternativa C.\n\nA especiação simpátrica (D) ocorre sem separação geográfica, o oposto do mapa. A deriva genética não cria espécies \"de forma repentina\" (A). Evolução convergente (E) é a semelhança entre grupos não aparentados, e aqui todos descendem do mesmo ancestral. A B traz uma ideia lamarckista de que o ancestral \"se modificou atendendo\" ao ambiente.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Digestão e enzimas: pH ótimo. Cada enzima atua melhor numa faixa de pH: o gráfico mostra a enzima X com pico perto de pH 7 e a enzima Y com pico em pH ligeiramente básico, perto de 8.\n\nO pH neutro é o da boca: X é a amilase salivar (ptialina), produzida pelas glândulas salivares, que hidrolisa o amido. pH em torno de 8 é o do intestino delgado, onde age o suco pancreático, alcalinizado pelo bicarbonato: Y é uma enzima do pâncreas. Entre as opções que completam assim, a B traz \"pâncreas — ácido nucleico\", isto é, as nucleases pancreáticas.\n\nO estômago (A, D) tem pH muito ácido, perto de 2, incompatível com Y. O fígado (C) não secreta enzimas digestivas — produz a bile, que emulsiona gorduras. A E erra ao dizer que a enzima da boca digere proteína.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Química nuclear: reação de fusão e número de nêutrons. Na fusão, somam-se os números atômicos (Z) e os números de massa (A).\n\nTitânio: Z = 22, A = 50. Livermório: Z = 116, e o produto da fusão tem A = 294.\nZ do alvo = 116 − 22 = 94 → plutônio (Pu).\nA do alvo = 294 − 50 = 244 (Pu-244).\n\nO Lv-294 emite 4 nêutrons e vira Lv-290, que tem Z = 116:\nn = A − Z = 290 − 116 = 174 nêutrons.\n\nAs alternativas com 178 nêutrons vêm de usar Z = 112 por engano; Fm (Z = 100) e Ds (Z = 110) não fecham o balanço de prótons.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Misturas: miscibilidade e densidade. Para formar duas fases, os líquidos precisam ser imiscíveis, e a fase de cima (líquido 1) deve ser a menos densa.\n\nÁgua (1,00 g/cm³) e tetracloreto de carbono (1,59 g/cm³): a água é polar e o CCl₄ é apolar, então não se misturam; como a água é menos densa, fica em cima. Isso corresponde à figura: líquido 1 = água, líquido 2 = CCl₄.\n\nAs demais falham: metanol e água (A) são miscíveis (fazem ligações de hidrogênio); água e pentano (D) se separam, mas a água, mais densa, ficaria embaixo; pentano e CCl₄ (E) são ambos apolares e se misturam; em metanol e pentano (C), o metanol é o mais denso e não poderia ficar em cima.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Gases: hipótese de Avogadro. Volumes iguais de gases, na mesma temperatura e pressão, contêm o mesmo número de mols (n = PV/RT é igual para os três cilindros).\n\nCom n igual, a massa é proporcional à massa molar (m = n · M):\nSO₂: 32 + 2 · 16 = 64 g/mol\nO₃: 3 · 16 = 48 g/mol\nO₂: 2 · 16 = 32 g/mol\n\nLogo, mSO₂ > mO₃ > mO₂.\n\nO erro típico é achar que, por estarem em cilindros iguais, os gases teriam a mesma massa (D): o que é igual é a quantidade de moléculas, não a massa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Balanceamento de equação química. Ajusta-se elemento por elemento, partindo de P₄, cujo coeficiente é 1.\n\nFósforo: cada Ca₃(PO₄)₂ tem 2 P; para 4 P → x = 2.\nCálcio: 2 · 3 = 6 Ca, que já batem com 6 CaSiO₃.\nSilício: 6 CaSiO₃ pedem 6 Si → y = 6.\nCarbono: 10 CO pedem 10 C → z = 10.\n\nConferência do oxigênio: à esquerda, 2 · 8 + 6 · 2 = 28; à direita, 6 · 3 + 10 = 28. Fechou.\n\nx + y + z = 2 + 6 + 10 = 18.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Interações intermoleculares: ligação de hidrogênio. Ela ocorre quando há H ligado a átomo muito eletronegativo (F, O ou N) numa molécula e um par de elétrons livre em O ou N na outra.\n\nA boldina tem grupo OH (hidroxila fenólica), além de oxigênios de éter e um nitrogênio de amina com par livre. A dietilamina é amina secundária, com ligação N–H e par de elétrons livre no nitrogênio. Assim, o H do OH da boldina pode se ligar ao N da dietilamina, e o H do N–H da dietilamina pode se ligar aos oxigênios e ao N da boldina.\n\nHá também interações dipolo-dipolo e de London, mas a mais intensa e característica entre essas moléculas é a ligação de hidrogênio. Não há íons envolvidos, o que descarta B e E.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Cinética química: fatores que afetam a velocidade. A rapidez aumenta com a superfície de contato do sólido, a concentração do reagente em solução e a temperatura.\n\nA palha de aço, formada por fios finos, expõe ao ácido uma área muito maior que a lâmina, com a mesma massa de ferro. Então o grupo mais rápido deve usar palha de aço, a solução mais concentrada (6 mol/L) e a temperatura mais alta (50 °C). O grupo 4 reúne as três condições.\n\nO grupo 1 também usa HCl 6 mol/L, mas com lâmina e a 30 °C; o grupo 5 usa palha, porém ácido 1 mol/L e 30 °C; o grupo 2 tem 50 °C, mas lâmina e ácido diluído.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Cálculo de quantidade de matéria (mol). Primeiro a regra de três para a embalagem inteira, depois a conversão para mol com a massa molar do cálcio (40 g/mol).\n\n25 g de leite → 228 mg de Ca\n200 g de leite → 228 · 8 = 1824 mg = 1,824 g de Ca\n\nn = 1,824 ÷ 40 = 0,0456 mol ≈ 4,6 × 10⁻² mol\n\nO erro típico é esquecer de multiplicar por 8 (e chegar a 5,7 × 10⁻³ mol, a quantidade em 25 g) ou errar a conversão de mg para g e cair em 4,6 × 10⁻³ mol.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Poluição atmosférica: chuva ácida. A chuva ácida se forma quando óxidos ácidos de enxofre e de nitrogênio reagem com a água da atmosfera.\n\nOs vulcões liberam grande quantidade de dióxido de enxofre. Na atmosfera ele forma ácidos:\nSO₂ + H₂O → H₂SO₃\nSO₂ + ½ O₂ → SO₃; SO₃ + H₂O → H₂SO₄\n\nO CO (A) é óxido neutro, não forma ácido com a água. O N₂ (B) é praticamente inerte. A amônia (C) tem caráter básico. O ozônio (D) é oxidante, mas não origina ácido ao reagir com a umidade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Método científico: etapas. A sequência clássica é observar um fenômeno, definir o problema, levantar uma hipótese (uma explicação provisória), testá-la por experimentação, analisar os dados e concluir, comunicando os resultados.\n\nA hipótese só tem valor científico se puder ser testada; por isso, logo depois de formulada, vêm a realização de experimentos e a coleta de dados, que vão confirmá-la ou refutá-la — alternativa B.\n\nObservação (C), definição do problema (E) e revisão da literatura (A) vêm antes da hipótese, pois são elas que a motivam. A publicação (D) é a etapa final, depois da análise dos resultados.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Química orgânica: classificação de carbonos. O heteroátomo do grupo 16 é o enxofre (S). A classificação de um carbono conta apenas quantos outros carbonos estão ligados a ele; heteroátomos (S, N, O) não entram na contagem.\n\nNo anel de cinco membros da penicilina, o S está ligado a dois carbonos:\n\nO carbono da junção dos anéis (o que também se liga ao N): além do S e do N, liga-se a um único carbono, o do anel de quatro membros → primário.\n\nO carbono com os dois grupos metila: liga-se aos dois CH₃ e ao carbono que leva o grupo COOH (o S não conta) → três carbonos → terciário.\n\nO erro típico é contar o S e o N como se fossem carbonos, o que levaria a secundário e quaternário.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Cinemática: velocidade média e frequência de partidas. Primeiro calcula-se quanto tempo cada ônibus leva para completar a volta; depois, quantos ônibus partem nesse intervalo.\n\nΔt = Δs ÷ v = 30 km ÷ 20 km/h = 1,5 h = 90 min\n\nEnquanto um ônibus faz a volta (90 min), a linha precisa de partidas a cada 20 min:\n90 ÷ 20 = 4,5\n\nCom 4 ônibus, o primeiro ainda estaria em rota (faltariam 10 min) quando chegasse a hora da 5ª partida, aos 80 min. Logo, são necessários pelo menos 5 ônibus.\n\nO erro típico é arredondar 4,5 para baixo e marcar 4.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Dinâmica: velocidade terminal. Pela 2ª lei de Newton, a força resultante é proporcional à aceleração, que é a inclinação do gráfico v × t.\n\nEntre t₀ e t₁ a velocidade aumenta (para baixo): a aceleração aponta para baixo, então a resultante também aponta para baixo — o peso supera a resistência do ar. Isso elimina A e E.\n\nEntre t₁ e t₂ a velocidade é constante (velocidade limite v_L): a aceleração é zero, e a resistência do ar equilibra o peso. Pela 1ª lei de Newton, a resultante é nula — alternativa D.\n\nO erro típico é achar que, se o paraquedista continua descendo, ainda há uma força resultante para baixo; movimento uniforme não exige força resultante.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Gravitação: velocidade orbital. Na órbita circular, a força gravitacional faz o papel de resultante centrípeta:\n\nG · M · m ÷ R² = m · v² ÷ R\n\nCancelando m e um fator R:\nv² = G · M ÷ R\nv = √(G · M ÷ R)\n\nRepare que a velocidade orbital não depende da massa do satélite, o que descarta A. A expressão com 2 · G · M (B) é a da velocidade de escape, não a de órbita circular. G · M ÷ R² (D) é a aceleração da gravidade na órbita, não uma velocidade.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Hidrostática: empuxo (princípio de Arquimedes). O empuxo é proporcional ao volume submerso.\n\nEm equilíbrio, com 85% do volume submerso, o empuxo iguala o peso:\nE(85%) = 0,34 N\n\nTotalmente submersa, a fruta receberia:\nE(100%) = 0,34 ÷ 0,85 = 0,40 N\n\nPara mantê-la totalmente afundada, o peixe precisa fornecer a diferença entre o empuxo total e o peso:\nF = 0,40 − 0,34 = 0,06 N\n\nO erro típico é responder 0,40 N (o empuxo total), esquecendo que o próprio peso da fruta já ajuda a afundá-la.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Dilatação térmica: relação entre os coeficientes. Para um sólido isótropo, o coeficiente de dilatação volumétrica é o triplo do linear (γ = 3α), porque o volume depende do cubo das dimensões.\n\nPara a mesma variação de temperatura:\nΔV ÷ V₀ = γ · Δθ = 3 · α · Δθ = 3 · (ΔL ÷ L₀)\n\nLogo:\nΔL ÷ L₀ = 0,27% ÷ 3 = 0,09%\n\nO diâmetro é uma dimensão linear, então aumenta 0,09%. (Conferindo sem aproximação: raiz cúbica de 1,0027 ≈ 1,0009.)\n\nO erro típico é achar que o diâmetro cresce na mesma proporção que o volume (0,27%).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Gases: densidade num recipiente rígido e fechado. A densidade é a razão entre massa e volume (d = m ÷ V).\n\nO cilindro tem tampa fixa e está hermeticamente fechado: o volume não muda, e nenhum gás entra ou sai, então a massa também não muda. Com m e V constantes, a densidade é constante, quaisquer que sejam as variações de pressão e temperatura (nesse caso, pressão e temperatura variam juntas, P ÷ T = constante).\n\nA pegadinha é usar a expressão d = P · M ÷ (R · T), que leva a pensar que a densidade muda com P ou T isoladamente. Ela vale, mas aqui P e T não variam de forma independente: se T aumenta, P aumenta na mesma proporção, e a razão P ÷ T fica constante.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Óptica geométrica: imagem em espelho plano. A imagem é simétrica ao objeto em relação ao plano do espelho: fica na mesma perpendicular, à mesma distância, do outro lado.\n\nPaula (P) está abaixo da linha do espelho; seu simétrico em relação a essa linha está na mesma vertical de P e à mesma distância acima dela — o ponto 3. O ponto 5 está na mesma vertical, mas mais perto do espelho, então não é o simétrico.\n\nA figura confirma: o raio que sai de P, reflete no ponto 4 do espelho e chega a Mariana parece, para ela, vir em linha reta do ponto 3 (o prolongamento do raio refletido passa pela imagem). Isso permite que Mariana veja a imagem mesmo que ela fique além da extremidade do espelho.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Energia elétrica: E = P · Δt. Calcula-se o consumo diário e divide-se pela potência.\n\nConsumo por dia: 36,3 kWh ÷ 30 = 1,21 kWh\nPotência: 110 W = 0,11 kW\nΔt = 1,21 ÷ 0,11 = 11 h\n\nO compressor funciona em média 11 horas por dia (ele liga e desliga conforme o termostato).\n\nO erro típico é não converter watts para quilowatts, o que dá um resultado mil vezes menor.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Eletromagnetismo: força magnética sobre carga em movimento. A força magnética (F = q · v · B · sen θ) é sempre perpendicular à velocidade da partícula.\n\nUma força perpendicular à velocidade não realiza trabalho; pelo teorema da energia cinética, o módulo da velocidade não muda. Mas ela muda a direção do movimento: funciona como resultante centrípeta, e o próton, com velocidade perpendicular ao campo uniforme, descreve um movimento circular uniforme.\n\nPor isso a força magnética altera só a direção da velocidade — alternativa C. As alternativas que falam em aumento ou diminuição do módulo (D, E) contrariam o fato de que a força não tem componente na direção do movimento.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Efeito fotoelétrico: frequência de corte. Só há emissão se a energia do fóton (E = h · f) for pelo menos igual à energia mínima do material (função trabalho).\n\nFrequência mínima para o potássio:\nf₀ = 3,5 × 10⁻¹⁹ ÷ 6,6 × 10⁻³⁴ ≈ 5,3 × 10¹⁴ Hz\n\nComparando com a tabela:\nvermelha 4,5 e laranja 5,0 × 10¹⁴ Hz → abaixo de f₀, não emitem;\nverde 5,5, azul 6,5 e violeta 7,5 × 10¹⁴ Hz → acima de f₀, emitem.\n\nPortanto, só violeta, azul e verde. Note que aumentar a intensidade da luz vermelha não resolveria: o que decide é a energia de cada fóton, que depende da frequência.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Porcentagem a partir da relação candidato/vaga. O número de candidatos de cada curso é vagas × relação candidato/vaga.\n\nMedicina: 4 · 32,5 = 130\nEngenharia: 2 · 31,5 = 63\nEnfermagem: 1 · 2 = 2\nDireito: 5 · 7 = 35\nTotal: 130 + 63 + 2 + 35 = 230\n\nParticipação de Engenharia:\n63 ÷ 230 ≈ 0,2739 ≈ 27,4%\n\nFica entre 27% e 28%.\n\nO erro típico é somar as relações candidato/vaga (32,5 + 31,5 + 2 + 7 = 73) e calcular 31,5 ÷ 73 ≈ 43%, como se cada curso tivesse o mesmo número de vagas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Função afim: conversão entre escalas termométricas. Cada relação é uma reta; com dois pares de valores obtêm-se o coeficiente angular e o linear.\n\nDe A para B (pontos (4, −1) e (10, 8)):\nm = (8 − (−1)) ÷ (10 − 4) = 9 ÷ 6 = 1,5\n−1 = 1,5 · 4 + n → n = −7\n\nDe B para C (pontos (−1; 3,5) e (8, 8)):\np = (8 − 3,5) ÷ (8 − (−1)) = 4,5 ÷ 9 = 0,5\n8 = 0,5 · 8 + q → q = 4\n\nm + n + p + q = 1,5 − 7 + 0,5 + 4 = −1\n\nAtenção para usar, na segunda relação, os valores de B como variável independente (e não os de A).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Análise combinatória: soluções inteiras positivas de equação. Sejam a, b, c, d os livros de Ana, Beatriz, Carmen e Dirce, todos ≥ 1.\n\nCondições: a + b + c + d = 10 e a + b = 2c. Substituindo:\n3c + d = 10\n\nCom c ≥ 1 e d ≥ 1:\nc = 1 → d = 7 e a + b = 2 → (1,1): 1 maneira\nc = 2 → d = 4 e a + b = 4 → (1,3), (2,2), (3,1): 3 maneiras\nc = 3 → d = 1 e a + b = 6 → a de 1 a 5: 5 maneiras\nc = 4 daria d = −2, impossível.\n\nTotal: 1 + 3 + 5 = 9 maneiras.\n\nO erro comum é contar só os valores de c (3 casos) ou esquecer que Ana e Beatriz precisam ter pelo menos um livro cada.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Geometria plana: ângulo inscrito e ângulo central. O ângulo inscrito mede metade do arco que ele enxerga.\n\nO ângulo CÂI = 108° tem vértice A na circunferência e enxerga o arco CI que não contém A:\narco CI = 2 · 108° = 216°\n\nO arco CI do lado de A mede, então:\n360° − 216° = 144°\n\nNo quadrilátero convexo CAIO, o ângulo interno em O é o ângulo central voltado para A, que corresponde a esse arco de 144°. Logo, α = 144°.\n\nConferência pelos triângulos isósceles OAC e OAI (OA = OC = OI = raio): os ângulos em C e I somam o ângulo em A, 108°, e a soma dos ângulos internos dá 108° + 108° + α = 360°, ou seja, α = 144°.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Geometria analítica: distância de ponto a reta. A bissetriz dos quadrantes ímpares é a reta y = x, ou x − y = 0.\n\nDistância de P(2, 8) a ax + by + c = 0:\nd = |a · x₀ + b · y₀ + c| ÷ √(a² + b²)\nd = |2 − 8| ÷ √(1 + 1) = 6 ÷ √2 = 6√2 ÷ 2 = 3√2\n\nO erro típico é parar em 6 (a diferença |x − y|, alternativa D) e esquecer de dividir por √2.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Função exponencial: decaimento radioativo. Basta substituir os tempos na fórmula.\n\nt = 50 s: expoente −0,02 · 50 = −1\nf(50) = 60 · 2⁻¹ = 30\n\nt = 150 s: expoente −0,02 · 150 = −3\nf(150) = 60 · 2⁻³ = 60 ÷ 8 = 7,5\n\nDiferença: 30 − 7,5 = 22,5\n\nRepare que a meia-vida é 50 s (o expoente vale −1 a cada 50 s): de 50 s a 150 s passam duas meias-vidas, e a quantidade cai de 30 para 15 e depois para 7,5.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Geometria espacial: área total e volume do cilindro.\n\nÁrea total = 2 bases + lateral = 2πr² + 2πrh\nVolume = πr²h\n\nIgualando:\n2πr² + 2πrh = πr²h\n\nDividindo tudo por πr (r ≠ 0):\n2r + 2h = rh\nrh − 2r = 2h\nr(h − 2) = 2h\nr = 2h ÷ (h − 2)\n\nIsso exige h > 2. O erro típico é errar o sinal ao isolar r e chegar a 2h ÷ (2 − h), que daria raio negativo para h > 2.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Proporcionalidade (regra de três inversa). Use como unidade o consumo diário de um aluno.\n\nCapacidade do reservatório: 830 · 20 = 16 600 unidades.\nNos 5 primeiros dias: 830 · 5 = 4 150. Sobram 12 450.\n\nCom 850 alunos:\n12 450 ÷ 850 ≈ 14,6 dias\n\nA água sobrante dá para 14 dias completos; no 15º dia, contado a partir do ingresso dos novos alunos, já não haverá o suficiente para todos.\n\nA questão conta os dias a partir da chegada dos 20 alunos, como diz o enunciado (\"após o ingresso\"). Se contasse desde o início do uso do reservatório, seria o 20º dia, que não está entre as alternativas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Logaritmos: propriedades do produto e do quociente. Escreva 14 com fatores conhecidos: 14 = 2 · 7, e 2 = 10 ÷ 5.\n\nlog 14 = log 2 + log 7\nlog 2 = log (10 ÷ 5) = log 10 − log 5 = 1 − y\nlog 14 = (1 − y) + x = 1 + x − y\n\nConferindo: x ≈ 0,845 e y ≈ 0,699 dão 1 + 0,845 − 0,699 = 1,146, que é log 14.\n\nO erro típico é tratar 2 como se fosse 7 − 5 e escrever log 2 = x − y; o logaritmo não transforma diferença em diferença.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Função quadrática: valor máximo. Com coeficiente de x² negativo, a parábola tem concavidade para baixo e o máximo ocorre no vértice.\n\nL(x) = −x² + 820x (a = −1, b = 820)\nx do vértice = −b ÷ 2a = −820 ÷ (−2) = 410 empregados\nL(410) = −410² + 820 · 410 = −168 100 + 336 200 = 168 100\n\nLucro máximo: R$ 168.100,00.\n\nO erro típico é parar em 820 · 410 = 336 200 (alternativa B), esquecendo de subtrair 410².\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

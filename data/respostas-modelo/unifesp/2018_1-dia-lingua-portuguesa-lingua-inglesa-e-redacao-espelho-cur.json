@@ -1,0 +1,232 @@
+{
+ "indice": "data/questoes/unifesp/2018_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Interpretação de texto: a cronologia da crônica.\n\nA data que o rapaz vê no telegrama, 28 de setembro, é a do envio, e ele reclama que a mensagem levou \"cinco dias\" de Garanhuns a Belo Horizonte. A pista decisiva vem logo depois: ele tinha marcado encontros \"para o dia seguinte\" e precisava cancelá-los, porque o pai pedia que não saísse de casa no dia 3. Se o dia seguinte é 3 de outubro, ele recebeu o telegrama em 2 de outubro. A sequência confirma: ele passa o dia na rua, dorme, é acordado às cinco da manhã pela polícia, que fala do golpe que \"vai estourar hoje\", e é solto no dia 4.\n\nA alternativa 3 de outubro é a armadilha de quem soma cinco dias a 28 de setembro sem contar o próprio dia 28; 28 de setembro é a data de expedição.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Interpretação de texto: a atitude do personagem.\n\nO filho leva o aviso a sério desde o início: relê o telegrama \"sob emoção grave\", pensa \"Ainda bem que o velho avisara\", cancela os compromissos e acaba se recolhendo ao hotel. No fim, ao se explicar ao chefe de polícia, diz que o pai tem sonhos premonitórios e que \"toda a família acredita neles\". A reação é de respeito ao sonho.\n\nPerplexidade pode tentar, porque o dia dele é cheio de situações estranhas, mas o estranhamento é com a cidade e a polícia, não com o sonho, cujo recado ele entende e acata de pronto. Não há desconfiança nem desdém, e a reação imediata exclui apatia.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Interpretação de texto: inferência a partir do desfecho.\n\nA pista está no interrogatório. O chefe da Delegacia de Ordem Política e Social mostra ao rapaz uma \"cópia do que o senhor recebeu de Pernambuco\", e ele conclui: \"Ah, então é por isso que o telegrama custou tanto a chegar?\". A polícia, desconfiada de uma conspiração, interceptou e reteve a mensagem antes de entregá-la.\n\nA alternativa tentadora é a lentidão dos telégrafos, porque é o que o narrador supõe no começo (\"Só mesmo com uma revolução esse telégrafo endireita\"), mas essa suposição é desmentida pela descoberta final. O sonho é o motivo do envio, não do atraso, e o golpe nunca aconteceu (\"Dia 4, sem golpe nenhum\").\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Tipos de discurso: o discurso indireto livre.\n\nNo discurso indireto livre, a fala ou o pensamento do personagem aparece misturado à narração, sem verbo de dizer, sem aspas e sem travessão. No trecho \"E passado às sete da manhã, veja só; o pai nem tomara o mingau com broa...\", o narrador conta em terceira pessoa, mas a exclamação \"veja só\" e o comentário afetuoso sobre o pai que saiu sem comer são a voz do próprio rapaz, admirado com a pressa do velho.\n\nOs trechos com falas entre aspas são discurso direto, que é a confusão mais comum: ali a voz do personagem vem marcada e separada da narração. Os demais trechos são apenas narração.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Figuras de linguagem: metonímia.\n\nMetonímia é a troca de um termo por outro com o qual ele mantém relação de contiguidade, como o instrumento pelo usuário. Em \"a baioneta em riste advertiu: 'Passe de largo'\", quem adverte o rapaz é o soldado, não a arma: o texto nomeia o instrumento no lugar de quem o empunha.\n\nO trecho com \"como se fossem bichos\" pode tentar por ser figurado, mas é uma comparação, marcada pelo \"como se\", não uma metonímia. Nos demais trechos as palavras estão em sentido próprio.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Sentido denotativo e conotativo das palavras.\n\n\"Manchetes sombrias\" não são manchetes escuras: o adjetivo indica, em sentido figurado, notícias preocupantes, ameaçadoras. \"O troço que vai estourar hoje\" também é figurado: \"estourar\" significa eclodir, começar de repente, referindo-se à revolta que a polícia teme. As duas palavras estão em sentido conotativo.\n\nNas outras alternativas há sempre um termo literal. \"Dinamitar\" a ponte é entendido pelo chefe no sentido próprio, explodir com dinamite, e os \"golpes na porta\" são pancadas reais. A alternativa com \"besouros na linha\" é a mais tentadora, porque a expressão é figurada (o ruído do telefone), mas vem acompanhada de \"dinamitar\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Valor expressivo do diminutivo.\n\nO diminutivo muda de sentido conforme o contexto. Em \"O senhor vai dizer a verdade bonitinho e logo\", dito pelo chefe de polícia numa cidade que era \"uma praça de guerra\", ele não exprime carinho: é uma ordem ameaçadora, uma advertência para que o rapaz confesse sem resistir. Já em \"eram uns versinhos\", o rapaz diminui o valor do que escrevia, apresentando aquilo como coisa sem importância: o diminutivo exprime modéstia e tenta desfazer a suspeita.\n\nA tentação é ler \"bonitinho\" como afeto ou ironia carinhosa, mas a situação de interrogatório deixa claro o tom de intimidação.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Orações subordinadas adverbiais: a concessiva.\n\n\"Embora a noite apenas começasse\" é uma oração subordinada adverbial concessiva, introduzida pela conjunção \"embora\". Ela apresenta um fato que se oporia à ação principal (ainda era cedo para dormir), mas não a impede: o rapaz decide deitar-se mesmo assim. Pode ser reescrita com \"ainda que\" ou \"mesmo que\" sem mudar o sentido.\n\nCausa é a confusão mais comum, porque a noite estar começando parece uma circunstância ligada à decisão de deitar; mas ela é um obstáculo que não se cumpre, não o motivo. Não há condição, consequência nem conclusão.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Classe gramatical do \"a\": preposição ou artigo.\n\nEm \"Falou rapidamente a diversas pessoas\", o \"a\" é preposição exigida por \"falar\" (falar a alguém); não pode ser artigo, porque \"diversas pessoas\" está no plural e o artigo seria \"as\". Em \"aludiu a uma ponte\", o \"a\" é preposição regida por \"aludir\" (aludir a algo); não há crase porque vem antes do artigo indefinido \"uma\". Em \"escandir as sílabas\", \"as\" é artigo definido que determina \"sílabas\", objeto direto de \"escandir\", verbo transitivo direto que não pede preposição.\n\nO erro típico é ver crase ou artigo em \"aludiu a uma ponte\", esquecendo que antes de \"uma\" o \"a\" só pode ser preposição.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Coesão em poesia: a retomada por pronome no soneto de Camões.\n\nO soneto celebra \"aquela triste e leda madrugada\" da primeira estrofe, o momento da despedida dos amantes. A anáfora \"Ela só… / Ela só viu… / Ela viu…\" retoma esse termo: foi a madrugada que, ao sair \"dando ao mundo claridade\", testemunhou a separação, as lágrimas e as palavras magoadas.\n\n\"Saudade\" e \"claridade\" são as tentações, por estarem próximas do pronome e serem femininas, mas não podem ser o sujeito que \"saía\" e \"viu\" a despedida. \"Mágoa\" e \"piedade\" apenas caracterizam a madrugada (\"cheia toda de mágoa e de piedade\").\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Figuras de linguagem: hipérbole.\n\nAs lágrimas que, vindas dos olhos dos dois amantes, \"se acrescentaram em grande e largo rio\" são um exagero intencional: ninguém chora um rio de verdade. A hipérbole amplia a imagem para expressar a intensidade da dor da separação.\n\nParadoxo é a alternativa tentadora, porque o soneto tem um, mas ele está em outro verso, o do \"fogo frio\", e une ideias contraditórias, o que não acontece com o rio de lágrimas. Também não há personificação, pleonasmo ou eufemismo, que atenuaria o sofrimento em vez de amplificá-lo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Figuras de sintaxe: elipse.\n\nElipse é a omissão de um termo que o leitor recupera pelo contexto. Na 2ª estrofe, a madrugada \"viu apartar-se de uma outra vontade\" uma vontade: o sujeito de \"apartar-se\" não aparece, e só o recuperamos porque a expressão \"uma outra vontade\" pressupõe uma primeira. O sentido completo seria \"viu [uma vontade] apartar-se de uma outra vontade\", isto é, a separação dos dois amantes.\n\nA palavra \"vontade\" escrita no verso pode confundir, mas é justamente a segunda ocorrência, explícita, que denuncia a primeira, suprimida. Nos demais versos não há nenhuma \"vontade\" subentendida.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Romantismo: a face irônica de Álvares de Azevedo.\n\nÁlvares de Azevedo, da segunda geração romântica (ultrarromantismo), tem uma face sombria e sentimental e outra irônica e humorística, que aparece na segunda parte da \"Lira dos vinte anos\". Nos versos de (B), a morte, tema típico do mal do século, é rebaixada: vira uma noiva \"lazarenta e desdentada\", e o eu lírico pergunta se terá de \"dormir com ela\", desejando ao menos que estivesse \"mascarada\". A quebra entre o tom solene e o grotesco produz o humor.\n\nAs outras alternativas são sérias: tédio e dor existencial, saudade da terra natal, sofrimento amoroso e erotismo idealizado. A primeira pode tentar pelo tom pessimista, mas não há ironia nela.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Realismo: o narrador de \"Memórias póstumas de Brás Cubas\".\n\nO comentário destaca a metalinguagem: o narrador explica ao leitor como está contando a história, quebra a ilusão realista lembrando que aquilo é um livro e exige um leitor ativo. É a marca do defunto autor Brás Cubas, que conversa com o leitor, comenta os próprios capítulos, faz digressões e o provoca o tempo todo. O título da fonte, \"Um defunto estrambótico\", também aponta para ele.\n\n\"Memórias de um sargento de milícias\" pode tentar pelo título semelhante e pelo narrador que às vezes comenta a história, mas lá isso é pontual. As demais obras têm narração convencional: romance de memória (O Ateneu), naturalista de narrador onisciente (O cortiço) e indianista (Iracema).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Escolas literárias: o Naturalismo.\n\nZola, criador do Naturalismo (o trecho é do prefácio de \"Thérèse Raquin\"), diz ter estudado \"temperamentos e não caracteres\", personagens dominadas pelos nervos e pelo sangue, sem livre-arbítrio e arrastadas pelas fatalidades da própria carne, com objetivo científico. São os preceitos naturalistas: determinismo biológico e do meio, o ser humano visto como animal governado por instintos, e o romance como experimento, à maneira das ciências do século XIX.\n\nO Romantismo valoriza a subjetividade e o livre sentimento; o Arcadismo, a natureza idealizada e o equilíbrio clássico; o Simbolismo, a sugestão e o espiritual; o Barroco, o conflito religioso e o rebuscamento.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Pré-Modernismo: \"Os sertões\" e a Guerra de Canudos.\n\nO trecho narra a derrota de uma expedição do governo contra Canudos: os soldados fogem em pânico, largam armas e feridos, a artilharia para, o coronel Tamarindo tenta em vão reorganizar a tropa e, no fim, \"a infantaria desaparecera\". É o desfecho desastroso da expedição militar.\n\nA alternativa que fala da fuga dos seguidores de Antônio Conselheiro é a armadilha: ela inverte os papéis, porque quem foge são os soldados, enquanto os jagunços seguem atacando. A destruição de Canudos não ocorre no trecho, e a ideia de bravura geral contraria o texto, que mostra só atos isolados de coragem em meio à debandada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Vocabulário em contexto: \"debalde\".\n\n\"Debalde\" é advérbio que significa em vão, sem resultado. O coronel Tamarindo tentou deter os soldados, mas não conseguiu: os toques de \"meia-volta, alto!\" \"vibraram inutilmente\", e a tropa acelerou a fuga. O próprio texto confirma o sentido com \"inutilmente\", e o parágrafo seguinte repete \"Debalde\", com oficiais que engatilhavam revólveres sem sucesso.\n\n\"Valentemente\" é tentadora, porque o coronel age com bravura, mas não é o significado da palavra. As outras opções exprimem atitudes (lealdade, desespero, humildade), não a ideia de esforço frustrado que \"debalde\" carrega.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Coesão: retomada por pronomes.\n\n\"Não havia contê-los\": quem não podia ser contido eram os \"foragidos\", os soldados em fuga em cujo peito os oficiais apontavam revólveres. Em seguida, os soldados corriam dos oficiais e dos jagunços, \"e ao verem aqueles [...] alvejados pelos últimos\" não se comoviam. Numa enumeração de dois termos, \"aqueles\" retoma o mais distante (os oficiais) e \"os últimos\", o mais próximo (os jagunços). O sentido confirma: os jagunços atiravam nos oficiais, e os soldados, ao vê-los cair, não se comoviam.\n\nA armadilha é ligar \"los\" aos oficiais, sujeito da frase anterior; mas eram os oficiais que tentavam conter, não os que deviam ser contidos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Estilo de Euclides da Cunha.\n\nO estilo de \"Os sertões\" é marcado por vocabulário erudito e raro (\"estrídulo\", \"tibieza\", \"macegas\", \"malferidos\"), períodos longos com inversões, enumerações e gradações (\"correndo, correndo ao acaso, correndo em grupos\"), adjetivação intensa e um tom ao mesmo tempo épico e científico. É um estilo rebuscado, ornamentado, que exige leitura atenta.\n\n\"Didático\" pode tentar, porque Euclides tem pretensão científica em outras partes da obra, mas o trecho é narrativo e dramático. Não é informal nem lacônico, já que é exuberante e prolixo, e \"transgressor\" não se aplica: Euclides não rompe a norma, exibe domínio da norma culta.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Transitividade verbal: verbo intransitivo com sujeito posposto.\n\nEm \"Um a um tombavam os soldados da guarnição estoica\", o sujeito vem depois do verbo (\"os soldados da guarnição estoica\"), e \"tombar\", no sentido de cair ou morrer, tem significação completa: não pede objeto direto nem indireto. \"Um a um\" é expressão adverbial de modo, não complemento.\n\nO erro comum é tomar o sujeito posposto por objeto direto. Basta pôr a frase na ordem direta, \"Os soldados da guarnição estoica tombavam um a um\", para ver que o termo concorda com o verbo e é o sujeito. Também não é verbo de ligação, pois não liga o sujeito a um predicativo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Interpretação de texto histórico: a ideologia que sustentava a escravidão no Brasil, segundo Emília Viotti da Costa.\n\nA historiadora mostra que a escravidão era justificada por argumentos religiosos: dizia-se que ela tirava os africanos \"da ignorância\", convertia-os ao cristianismo e lhes abria a salvação eterna, e a ordem social era vista como vontade da Providência, sancionada pela Igreja e pelo Estado. Ou seja, as classes dominantes legitimavam a instituição pela religião.\n\nAs demais contrariam o texto: os próprios escravos contestavam a escravidão com fugas e insurreições (B); a Igreja apenas pregava paciência aos escravos e benevolência aos senhores (C); essas ideias eram a ideologia dominante, não marginal (D); e os expulsos da Colônia foram os poucos que questionaram o tráfico, não os africanos (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Sentido de palavra no contexto (semântica e polissemia de \"vilão\").\n\nA frase organiza a sociedade em pares de opostos: \"nobres, outros, vilões\", \"ricos, outros, pobres\", \"livres, outros, escravos\". Se \"vilão\" se opõe a \"nobre\", só pode significar o homem comum, que não pertence à nobreza: o plebeu. É o sentido antigo da palavra, anterior ao sentido moral de pessoa má.\n\nA mais tentadora é a (B), o sentido corrente hoje, mas ela desfaria a antítese com \"nobres\". A (E), \"quem reside em vila\", é a origem etimológica, e a (A), camponês servo medieval, é uma acepção histórica restrita ao feudalismo; nenhuma das duas responde à oposição nobreza × não nobreza que o trecho constrói. A (D) não tem relação com o contexto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Sintaxe do período composto: oração subordinada substantiva subjetiva.\n\nEm \"não cabia aos homens modificar a ordem social\", o verbo \"caber\" (no sentido de competir, ser de responsabilidade de) tem \"aos homens\" como objeto indireto. Pergunta-se: o que não cabia aos homens? \"Modificar a ordem social\". Essa oração reduzida de infinitivo é, portanto, o sujeito de \"cabia\". O teste do pronome confirma: \"isso não cabia aos homens\".\n\nA armadilha é a (B), objeto direto: \"a ordem social\" é, sim, objeto direto de \"modificar\", mas o trecho destacado inteiro funciona como sujeito do verbo \"caber\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Literatura brasileira do século XX: reconhecer traços do Surrealismo na poesia.\n\nO Surrealismo busca o irracional e o onírico, com imagens ilógicas que aproximam realidades incompatíveis. É o que se vê nos versos de João Cabral de Melo Neto: bicicletas \"que eram poemas\", amigos \"alucinados\" que engolem seus relógios, um \"hierofante armado cavaleiro\" que move \"seu único braço\". São imagens de sonho, típicas da fase inicial do poeta (Pedra do sono), influenciada pelo movimento.\n\nOs outros trechos são lógicos e referenciais: a cena cotidiana irônica de Bandeira (A), a memória da igreja em Drummond (B), a repetição do obstáculo em \"No meio do caminho\" (C) e o relato do retirante de Morte e vida severina, do próprio João Cabral (E), já de fase objetiva e social.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Prosa brasileira pós-1945: a ficção introspectiva.\n\nO comentário de Alfredo Bosi destaca metáfora insólita, fluxo da consciência, ruptura com o enredo factual, exacerbação do momento interior e uma subjetividade perdida \"no labirinto da memória e da autoanálise\". São as marcas de Clarice Lispector (Perto do coração selvagem, A paixão segundo G.H., Laços de família), cuja prosa pouco narra de exterior e se concentra na epifania e no mergulho interior das personagens.\n\nJorge Amado e José Lins do Rego fazem romance de enredo regional e social. Graciliano Ramos, a alternativa mais tentadora, também explora a interioridade, mas com linguagem seca e enxuta, sem fluxo de consciência. Guimarães Rosa se destaca pela invenção linguística e pelo universo do sertão.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Coesão referencial: a quem se refere o possessivo \"seu\".\n\nO autor argumenta que o presente não pode ter duração, \"pois nesse caso poderíamos definir um período no seu passado e no seu futuro\". Se o presente durasse, haveria dentro dele um trecho anterior (o passado do presente) e um posterior (o futuro do presente), o que contradiz a própria ideia de presente; por isso ele conclui que o presente não existe.\n\nO possessivo concorda com a coisa possuída (\"passado\", \"futuro\"), mas remete ao possuidor, que é o assunto da oração: \"o presente\". \"Período\" (E) é tentador por estar mais próximo, mas não faz sentido falar no passado e no futuro de um período que só se define dentro deles; \"separação\", \"caso\" e \"tempo\" também não cabem como possuidores.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Vozes verbais: transposição da voz ativa para a passiva analítica.\n\nNa ativa, \"a presença de massa (sujeito) influencia (presente do indicativo) a passagem do tempo (objeto direto)\". Na passiva analítica, o objeto direto vira sujeito, o verbo \"ser\" assume o tempo e o modo do verbo original e o verbo principal vai para o particípio, concordando com o novo sujeito; o antigo sujeito passa a agente da passiva: \"a passagem do tempo também é influenciada pela presença de massa\".\n\nComo \"influencia\" está no presente do indicativo, o auxiliar fica no presente: \"é\". As demais alternativas usam o auxiliar em outros tempos (pretérito perfeito, imperfeito, futuro do pretérito, futuro do presente), o que altera o sentido do original.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Conjunções: valor semântico de \"embora\" (concessão).\n\n\"Embora\" é conjunção subordinativa concessiva: introduz um fato que poderia se opor ao da oração principal, mas não o impede. Einstein mostrou que a massa influencia a passagem do tempo, apesar de esse efeito ser irrelevante no dia a dia. \"Ainda que\" tem o mesmo valor concessivo e também pede o subjuntivo (\"seja\"), de modo que a troca preserva o sentido e a construção.\n\nAs outras locuções têm valores diferentes: \"visto que\" é causal, \"a menos que\" e \"desde que\" são condicionais, e \"a fim de que\" é final. Qualquer uma delas mudaria a relação lógica entre as orações.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Formação de palavras: derivação sufixal.\n\n\"Estrutural\" forma-se pelo acréscimo do sufixo \"-al\" ao substantivo \"estrutura\", gerando um adjetivo. O mesmo processo aparece em \"plasticidade\": ao adjetivo \"plástico\" junta-se o sufixo \"-idade\", formando um substantivo abstrato.\n\nNas outras palavras não há sufixo acrescentado a uma base portuguesa: \"futuro\", \"momento\" e \"origem\" são palavras primitivas no português, herdadas prontas do latim (o \"-mento\" de \"momento\" não se liga a nenhum verbo nosso); \"portanto\" resulta de composição (\"por\" + \"tanto\"). A chave é reconhecer uma palavra já existente na língua mais um sufixo que muda sua classe gramatical.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Vanguardas europeias: o Cubismo.\n\nO texto descreve uma arte que rompe com a imitação da natureza e com a perspectiva renascentista, decompõe as formas em planos geométricos e representa simultaneamente vários pontos de vista, num \"realismo conceitual\". São os traços do Cubismo, cujo marco inicial é As senhoritas de Avignon (1907), de Picasso: corpos facetados em planos angulosos, rostos inspirados em máscaras africanas, figuras vistas de frente e de perfil ao mesmo tempo.\n\nAs outras obras pertencem a outras correntes: O grito, de Munch, é Expressionismo (A); O império das luzes, de Magritte, é Surrealismo (B); Matisse é o principal nome do Fauvismo (D); e Lichtenstein, da Pop Art (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Interpretação de tira em inglês: o tema do humor.\n\nO irmão pede para usar o computador, mas a irmã adolescente responde \"hold on\" e passa a checar Facebook, Twitter e Tumblr sem parar, para ver se alguém escreveu, respondeu ou passou a segui-la, embora tenha verificado segundos antes. No último quadro, o irmão conclui que ela \"has gone infinitely loopy\" (ficou infinitamente pirada), enquanto o balão mostra o ciclo sem fim entre as redes. O alvo da crítica é o uso compulsivo das mídias sociais pelos adolescentes.\n\nA disputa pelo computador (C) é só o ponto de partida da tira, não o tema. Também não há crítica à falta de controle dos pais (B), conflito real entre irmãos (D) ou diferença entre meninos e meninas (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Verbos modais em inglês: possibilidade referente ao passado.\n\nA menina diz que vai checar o Facebook de novo porque alguém pode ter escrito algo \"in the last 30 seconds\". É uma suposição sobre um fato passado recente, e em inglês isso se expressa com modal + have + particípio: \"could have written\" (alguém pode ter escrito).\n\n\"Might write\" (D) é a mais tentadora por também indicar possibilidade, mas aponta para o futuro e não combina com \"nos últimos 30 segundos\". \"Is writing\" afirma uma ação em curso; \"have written\" exigiria \"has\" com \"someone\" e afirmaria o fato, sem a ideia de hipótese; \"used to write\" indica hábito no passado.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Vocabulário em inglês: sentido de \"loopy\" no contexto.\n\n\"Loopy\" é gíria informal para maluco, pirado. Na tira, o irmão diz que a irmã \"has gone infinitely loopy\" depois de vê-la passar de Facebook a Twitter e a Tumblr num ciclo sem fim. Há ainda um jogo com \"loop\" (laço, repetição), reforçado por \"infinitely\": ela está presa num circuito compulsivo. Entre as opções, o sentido que se mantém é \"obsessed\" (obcecada).\n\n\"Selfish\" (egoísta) e \"spoilt\" (mimada) podem atrair quem pensa na disputa pelo computador, mas descrevem caráter, não o comportamento repetitivo retratado. \"Affectionate\" (carinhosa) e \"upbeat\" (animada) não têm relação com a cena.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Interpretação de texto em inglês: o aspecto positivo atribuído ao celular.\n\nLogo no primeiro parágrafo, o texto diz que os marcos da história do celular \"have made almost everything we do easier, more public and very, very fast\", isto é, tornaram quase tudo o que fazemos mais fácil, mais público e muito rápido. Esse é o aspecto positivo apontado, e corresponde à alternativa que fala da rapidez das nossas atividades.\n\nAs demais não se sustentam: a exposição de imagens (A) é tratada com ironia (a comparação com as Kardashians); o texto não compara uso profissional e pessoal (B); os primeiros aparelhos eram símbolo de status (C), mas isso é descrito, não valorizado; e a escrita abreviada do SMS (E) aparece como economia de tempo, não como criatividade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Interpretação de texto em inglês: identificar um dos \"big milestones\" (grandes marcos) do celular.\n\nO texto organiza a história do celular em marcos: os primeiros aparelhos, símbolos de status; as mensagens de texto e sua linguagem abreviada; os telefones que \"turn us all into photographers\", com a câmera incorporada a partir de 2002; e a exposição nas redes sociais. A incorporação da câmera ao telefone é, portanto, explicitamente um desses marcos.\n\nO alto preço dos primeiros aparelhos (C) é um detalhe do primeiro marco, não um marco em si; o texto não chama a linguagem do SMS de \"internacional\" (D); não fala em irrelevância de mapas (B), apenas que os guias de ruas parecem coisa do passado; e imprimir fotos (E) é visto hoje como estranho.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Localização de informação em texto em inglês: quando os celulares chegaram ao público.\n\nO texto informa que a primeira ligação de celular foi feita em Nova York em 1973, \"but handsets with a network to use were not available until 1983 in the US, and 1985 in the UK\". Aparelhos com uma rede para usar só ficaram disponíveis, portanto, na década de 1980.\n\nA armadilha é a (B), anos 1970: 1973 marca apenas a primeira chamada experimental, não a disponibilidade dos aparelhos. As outras datas são de outros marcos do texto: 1992 é o primeiro SMS (A); os anos 1990 são a era dos aparelhos digitais e das mensagens (D); 2002 é a chegada dos celulares com câmera (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Interpretação de texto em inglês: a origem da linguagem abreviada do SMS.\n\nO terceiro parágrafo diz que o envio de mensagens cresceu depressa \"even though it was still a pretty cumbersome procedure\" (embora ainda fosse um procedimento bem trabalhoso). Em seguida explica que, nos anos 1990, economizava-se muito tempo cortando letras, em geral as vogais, e assim nasceu o \"txtspk\". A abreviação surgiu, portanto, para compensar uma digitação trabalhosa e lenta.\n\nA mais tentadora é a (E), mas o texto usa \"like a rocket\" para o crescimento do SMS, não para o texto preditivo, que só \"would make things easier\" mais tarde. A (B) mistura um dado atual (mais de 100 mensagens por mês) com a causa da abreviação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Conectivos em inglês: valor de \"so\".\n\nO autor diz que era possível economizar tempo eliminando letras de uma mensagem, muitas vezes as vogais, \"and so\" nasceu a linguagem abreviada, ilustrada por \"txtspk ws brn\" (text speak was born). O conector \"so\" introduz o resultado da ação descrita antes: equivale a \"assim\", \"por isso\", \"portanto\". Indica, pois, decorrência.\n\nA (B), exemplificação, pode atrair porque \"txtspk ws brn\" é ele próprio um exemplo de escrita abreviada, mas a palavra destacada é o conector, e ele expressa consequência. Não há ideia de condição (\"if\", \"unless\") nem de resumo (\"in short\").\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Interpretação de texto em inglês: como eram vistos os primeiros celulares com câmera.\n\nO quarto parágrafo abre com \"There seemed to be no good reason for the first camera phones\": parecia não haver bom motivo para os primeiros celulares com câmera, lançados em 2002 com cerca de 0,3 megapixel e fotos granuladas e borradas. Só com a melhora da qualidade \"the uses followed\". A ideia de que no início eles pareciam sem utilidade (\"pointless\") está explícita.\n\nAs demais distorcem o texto: a câmera dupla produz retratos com aparência profissional, mas não é de uso exclusivamente profissional (A); o texto não chama as fotos borradas de criativas (C) nem discute se megapixels garantem bons retratos (D); e o desenvolvimento do primeiro aparelho não é medido em vinte anos (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Referência pronominal em inglês: a que se refere \"these\".\n\nOs primeiros celulares com câmera \"took grainy, blurry pictures on postage stamp-sized screens, and even these filled the phone's memory in no time\". Até essas fotos granuladas e borradas, de baixa qualidade e portanto pequenas, enchiam a memória do aparelho rapidamente. O \"even\" (até mesmo) reforça o contraste: mesmo imagens tão ruins ocupavam toda a memória.\n\nA tentação é a (B), \"screens\", por ser o substantivo mais próximo, mas telas não enchem a memória de um aparelho: quem ocupa memória são as fotos. \"Camera phones\" (D) são os aparelhos que tiravam as fotos, não o que enchia a própria memória, e a resolução (E) é uma característica das imagens, não algo que ocupa espaço.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Expressão idiomática em inglês: \"in no time\".\n\n\"In no time\" significa \"em pouquíssimo tempo\", \"num instante\". No trecho, o texto diz que as primeiras fotos de celular, mesmo granuladas e de baixa resolução, enchiam a memória do aparelho num piscar de olhos, o que mostra como era pequena a memória dos aparelhos de 2002. O equivalente é \"instantaneamente\".\n\nO erro típico é traduzir palavra por palavra (\"em nenhum tempo\") e cair em \"nunca\" (B), que inverte o sentido. \"De modo precipitado\" (C) traz a ideia de pressa imprudente, que não cabe a uma memória sendo preenchida, e \"lentamente\" (E) é o oposto do que se diz.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Conectivos em inglês: valor de \"while\".\n\nA câmera dupla permite focar o objeto fotografado \"while blurring out the background\", isto é, ao mesmo tempo que desfoca o fundo. As duas ações acontecem juntas, no mesmo clique, e é essa combinação que produz retratos com aparência profissional. \"While\" seguido de verbo em -ing tem aqui o valor de \"enquanto\", \"ao mesmo tempo em que\": simultaneidade.\n\n\"While\" também pode expressar contraste (\"ao passo que\"), e isso pode atrair para outra opção, mas focar e desfocar não são ideias que se opõem: são partes complementares do mesmo efeito. Também não há alternância (uma ação depois da outra), comparação, semelhança nem previsão.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Interpretação de texto em inglês: a mudança de comportamento trazida pelo celular com câmera.\n\nO quinto parágrafo contrasta duas épocas: \"Twenty years ago\" as pessoas achariam um pouco estranho alguém tirar fotos lisonjeiras de si mesmo e distribuí-las aos amigos, quanto mais ao público; hoje, compartilhar a vida nas redes sociais \"is now the norm, not the exception\", e foi o celular com câmera que tornou isso possível. Houve, portanto, uma grande mudança na atitude diante da divulgação pública de fotos.\n\nAs outras distorcem o texto: ele não diz que as pessoas imprimem muitas fotos (A), e sim que quem usasse fotos impressas ainda pareceria estranho; não afirma que a maioria condena a exposição (B), que hoje é a norma; não fala de uso indevido por desconhecidos (C); e as Kardashians são só uma comparação bem-humorada sobre quantidade de fotos (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Referência em inglês: \"so\" como pró-forma que retoma uma ideia.\n\nA frase anterior afirma que, vinte anos atrás, \"people would have thought you a little strange\" se você tirasse fotos lisonjeiras de si e as distribuísse. Em seguida: se você usasse fotos impressas em vez de um aplicativo, \"they would still think so today\", ou seja, ainda pensariam assim hoje. Em \"think so\", o \"so\" substitui o conteúdo já dito: que a pessoa é \"um pouco esquisita\".\n\nNão ter noção de privacidade (A), buscar apreciação (C) ou gostar de se exibir (D) são leituras possíveis do comportamento, e por isso tentam, mas não são o que a palavra retoma: o julgamento expresso no texto é \"a little strange\". \"Respeita as normas sociais\" (B) contraria a ideia.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Interpretação de tira em inglês: o humor e a crítica ao uso das redes sociais.\n\nA mulher de verde anuncia \"I've broken up with Jim\" (terminei com o Jim). A amiga pergunta como ele reagiu, e a resposta revela o humor: \"He doesn't know it yet. Twitter is down\". Ele ainda não sabe porque o Twitter está fora do ar; ou seja, ela pretendia comunicar o fim do namoro pela rede social, e a falha do serviço impediu.\n\nA graça está na crítica ao hábito de resolver até assuntos íntimos pelas redes. Nada indica que as duas desaprovem Jim (A) ou prefiram conversar pessoalmente (B), nem que a de vermelho reprove a amiga (C) ou esteja triste (D): ela apenas faz uma pergunta.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

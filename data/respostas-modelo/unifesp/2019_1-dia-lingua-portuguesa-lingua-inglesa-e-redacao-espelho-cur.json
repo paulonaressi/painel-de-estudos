@@ -1,0 +1,232 @@
+{
+ "indice": "data/questoes/unifesp/2019_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Interpretação de tira: nos dois primeiros quadrinhos, o personagem faz uma crítica amarga e lúcida à sociedade: a terapia como entretenimento dos ricos, a televisão como analista despreparado dos pobres, a humanidade como um cão preso ao \"poste da ignorância\".\n\nO anjo, ao lado de Deus, comenta \"Demora, mas eles aprendem\". Dizer que o homem \"aprendeu\" é tratar o que ele disse como uma descoberta verdadeira: o anjo concorda com as afirmações. A resposta de Deus, de que o personagem vai \"voltar atrás\", reforça a leitura: o anjo vê ali uma conclusão correta, e Deus duvida que ela dure.\n\nA (E) é a mais tentadora, porque as falas são de fato pessimistas, mas o anjo não as julga assim: ele as valoriza como aprendizado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Análise linguística da tira: na fala de Deus, \"Ele vai voltar atrás, você vai ver\", \"voltar atrás\" é locução de sentido figurado, consagrada pelo uso, que significa desdizer-se, recuar de uma posição. Deus prevê que o personagem vai renegar o que acabou de dizer, e \"se arrepender\" pode ocupar o lugar da expressão sem prejuízo para o sentido da fala.\n\nAs outras falham. Em (A), \"Senhor\" é vocativo, não sujeito. Em (B), \"correndo\" e \"amarrado\" formam um contraste que constrói a imagem do cão preso, não um pleonasmo. Em (C), \"isso\" é catafórico: anuncia o que vem depois dos dois-pontos.\n\nA tentação é a (D), porque \"voltar atrás\" costuma ser citado como pleonasmo. Mas, como locução fixa de sentido figurado, a expressão não é uma redundância: o \"atrás\" não repete o movimento físico, e o conjunto ganha o sentido de \"mudar de ideia\".\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "Muitas gramáticas classificam \"voltar atrás\" como pleonasmo, o que torna a alternativa D defensável; o gabarito trata a expressão como locução de sentido figurado."
+  },
+  "0:3": {
+   "resposta": "Pontuação e elipse: a vírgula pode marcar o lugar de um verbo omitido porque já apareceu antes (zeugma).\n\nNo primeiro quadrinho, \"A terapia é o entretenimento dos ricos e a televisão, o analista despreparado dos pobres\": a vírgula depois de \"televisão\" substitui o verbo \"é\", já expresso. Lê-se \"a televisão [é] o analista despreparado dos pobres\".\n\nNo segundo quadrinho, a vírgula antes de \"amarrado ao poste\" isola um termo de valor adjetivo (oração reduzida de particípio), sem verbo suprimido. No terceiro, as vírgulas separam o vocativo (\"Viu, Senhor?\") e orações coordenadas (\"Demora, mas eles aprendem\"; \"vai voltar atrás, você vai ver\"). Por isso só o primeiro quadrinho serve, e as alternativas que incluem o segundo ou o terceiro estão erradas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Interpretação de texto (conto de Drummond): no segundo parágrafo, as mães dizem que provocar a doida é horroroso e que dos doidos se deve ter piedade, explicando mal os tais \"benefícios\" de que os loucos não gozam. O narrador conclui: \"E isso não comovia ninguém\".\n\nO pronome \"isso\" retoma o discurso das mães, e \"ninguém\" se refere aos meninos, que continuavam dispostos a apedrejar a doida. São as explicações das mães que não comovem os garotos.\n\nA armadilha é a (C), que inverte o referente: não são as provocações que deixam de comover, e sim a pregação materna. A (A) erra o objetivo da descida, que era o banho e a pega de passarinho; (D) e (E) atribuem às mães atitudes que o texto não sustenta.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Efeito de sentido: dizer que só Deus sabe por que razão o noivo repudiou a moça equivale a admitir que ninguém na cidade sabe o motivo. A expressão reforça o caráter incerto da história.\n\nO trecho já vinha marcado pela imprecisão (\"Sabia-se confusamente\", história que corria \"com variantes\"), e logo adiante o narrador apresenta outra versão e observa que os adultos não contavam o caso direito e os meninos o deformavam.\n\nA armadilha é a (C), \"religioso\": a menção a Deus é apenas uma fórmula da fala corrente, sem valor de fé. \"Dramático\" (B) e \"popular\" (E) até descrevem a história, mas não o efeito específico dessa expressão, que é marcar a falta de certeza.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Regência: no trecho, \"com que nós fomos aquinhoados\" usa \"com\" porque quem é aquinhoado é aquinhoado com alguma coisa. A questão pede a expressão que, no lugar de \"fomos aquinhoados\", exigiria a preposição \"a\".\n\nÉ \"fazer jus\", que pede \"a\": faz-se jus a alguma coisa. A frase ficaria \"os benefícios a que nós, os sãos, fazemos jus\".\n\nNas demais, a preposição seria outra ou nenhuma: \"recebemos\" é transitivo direto (\"os benefícios que recebemos\"); \"ser merecedor\" pede \"de\" (\"de que somos merecedores\"); \"estar satisfeito\" pede \"com\" (\"com que estamos satisfeitos\"); \"orgulhar-se\" pede \"de\" (\"de que nos orgulhamos\"). A (C) pode tentar porque \"merecer\" é próximo de \"fazer jus\", mas o nome \"merecedor\" rege \"de\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Denotação e conotação: é preciso comparar cada termo com seu sentido próprio.\n\n\"Lavrar\" significa arar, sulcar a terra. Dizer que a loucura e a idade \"lavraram o corpo\" da doida é metáfora para as marcas e rugas deixadas pelo tempo: sentido figurado.\n\n\"Ânimo\", em \"Ninguém tinha ânimo de visitá-la\", aparece no sentido corrente de disposição, coragem: sentido literal.\n\n\"Afogar\" significa matar por submersão em líquido. A ideia de compensação que \"afogava o remorso\" é a que o abafava, sufocava: de novo sentido figurado.\n\nA sequência é figurado, literal e figurado. A armadilha é tomar \"ânimo\" como figurado, pela sua origem ligada a \"alma\"; no uso atual, \"disposição\" é o sentido próprio da palavra.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Orações adverbiais: \"como\", no início do período e seguido de verbo (\"respondesse\"), introduz uma oração subordinada adverbial causal.\n\nO sentido é: porque a doida sempre respondia furiosa, formou-se na mente dos meninos a ideia de que pedradas e respostas se compensavam, e isso afogava o remorso. A paráfrase com \"já que\" ou \"visto que\" confirma o valor de causa.\n\nA armadilha é a (D), comparação. O \"como\" comparativo liga dois termos comparados, em construções como \"furiosa como uma fera\", e costuma vir depois do termo de referência; aqui não há nada sendo comparado. A (E) inverte os papéis: a consequência está na oração principal (\"criara-se... a ideia\"), não no trecho sublinhado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Transitividade verbal: em \"Não aparecia de frente e de corpo inteiro, como as outras pessoas, conversando na calma\", o verbo \"aparecer\" tem sentido completo e não pede complemento.\n\nOs termos que o acompanham são adjuntos adverbiais de modo (\"de frente e de corpo inteiro\", \"conversando na calma\") e uma comparação (\"como as outras pessoas\"). Nenhum é objeto direto ou indireto, o que afasta (B), (C) e (E).\n\nA armadilha é a (A), \"de ligação\". Verbo de ligação liga o sujeito a uma característica (predicativo), como em \"ela parecia cansada\". Aqui \"aparecer\" indica a ação de mostrar-se, surgir à vista, e não há predicativo: é verbo intransitivo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Formação de palavras: na derivação regressiva, um substantivo, geralmente de ação, nasce de um verbo pela supressão da terminação, como em caçar, caça; combater, combate; buscar, busca.\n\n\"Pega\", em \"a pega de passarinho\", vem de \"pegar\" e significa a ação de pegar passarinhos: é derivação regressiva.\n\nAs outras não servem. \"Moça\" e \"boca\" são palavras primitivas. \"Doida\" é o adjetivo usado como substantivo, caso de derivação imprópria. A armadilha é \"culpa\" (E): parece formada de \"culpar\", mas o caminho é o inverso, pois o substantivo \"culpa\" é o primitivo e o verbo \"culpar\" deriva dele. O teste é ver se o substantivo indica a ação do verbo, como \"a pega\"; \"culpa\" não é a ação de culpar.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Arcadismo: o movimento do século XVIII nasceu como reação ao Barroco, cujos excessos (rebuscamento cultista, jogos de conceito, antíteses e hipérboles acumuladas) os árcades consideravam de mau gosto. Contra isso propunham simplicidade, clareza e equilíbrio, retomando os modelos greco-latinos e o lema de cortar o inútil.\n\nA \"hidra do mau gosto\", monstro mitológico de muitas cabeças, é a imagem do estilo que eles queriam destruir: o barroco.\n\nA armadilha é a (C), \"neoclássico\", que é outro nome do próprio Arcadismo, e não o seu adversário. O Renascimento (A) era um modelo admirado pelos árcades, o pré-romantismo (B) vem depois, e a estética medieval (E) não era o alvo imediato.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Interpretação de poema (Fernando Pessoa ortônimo): o eu lírico diz que, logo que nasceu, \"fecharam-me em mim\" e que ele fugiu. A prisão é o próprio eu, a identidade única e fixa.\n\nA última estrofe confirma: \"Ser um é cadeia, / Ser eu é não ser\". A alma o procura, e ele deseja nunca ser encontrado por ela. É uma fuga da identidade, tema central de Pessoa, cuja obra se desdobra nos heterônimos.\n\nA armadilha é a (C), \"multiplicidade\": ela é o que o eu lírico busca, e não aquilo de que foge, já que ser um só é que o aprisiona. Não há no poema fuga do anonimato, da sociedade ou da aparência.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Modalização e modos verbais: a interjeição \"oxalá\" (de origem árabe, algo como \"queira Deus\") exprime desejo, e o verbo no presente do subjuntivo (\"encontre\") reforça esse valor. Em \"Oxalá que ela / Nunca me encontre\", o eu lírico deseja que sua alma nunca o alcance.\n\nNas outras alternativas não há desejo. \"Ser eu é não ser\" é uma afirmação paradoxal; \"Ah, mas eu fugi\" relata um fato passado; \"Logo que nasci / Fecharam-me em mim\" narra o que aconteceu ao eu; e \"Minha alma procura-me / Mas eu ando a monte\" descreve uma situação presente, no indicativo.\n\nA (B) pode tentar pela interjeição \"Ah\", mas ela expressa ênfase ou alívio diante de um fato já consumado, não um desejo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Pessoa do discurso: em \"Se a gente se cansa / Do mesmo lugar\", a locução \"a gente\" equivale a \"nós\" e generaliza a experiência. O eu lírico se coloca ao lado do leitor, como se dissesse que todos nós nos cansamos do mesmo lugar, e a pergunta \"Por que não se cansar?\" do mesmo ser convida o leitor a aceitar a conclusão.\n\nIsso só acontece na segunda estrofe. Nas demais predomina a primeira pessoa do singular (\"eu fugi\", \"Minha alma procura-me\", \"eu ando a monte\", \"Viverei fugindo\") ou afirmações sobre o próprio eu.\n\nA armadilha é a (E), que inclui a terceira estrofe: ali o eu lírico fala da sua alma e do seu desejo pessoal (\"Oxalá que ela / Nunca me encontre\"), sem envolver o leitor.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Interpretação de poema: ao fugir de si mesmo, o eu lírico se divide em dois. De um lado está a alma, que o procura; de outro, o eu que \"anda a monte\", foragido, e deseja nunca ser encontrado. A evasão produz, portanto, uma cisão interna do sujeito, tema característico de Fernando Pessoa.\n\nA última estrofe resume o paradoxo: ele viverá fugindo, mas é assim que vive \"a valer\".\n\nAs demais alternativas contrariam o poema. Não há desprezo pelo mundo, desejo de morrer ou falta de esperança: a fuga é a forma de viver plenamente. A (E), \"isolamento social\", é a mais tentadora pela imagem do foragido, mas a fuga é de si mesmo, não dos outros.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Versificação: rima rica, segundo o enunciado, é a que une palavras de classes gramaticais diferentes. Basta classificar cada par.\n\n\"Nasci\" e \"fugi\" são dois verbos, logo rima pobre. \"Lugar\" é substantivo e \"cansar\" é verbo, logo rima rica. \"Monte\" é substantivo e \"encontre\" é verbo, logo também rima rica (e imperfeita, pela diferença de som entre \"-onte\" e \"-ontre\").\n\nAs rimas ricas estão na segunda e na terceira estrofes. As alternativas (A) e (D) incluem o par \"nasci\"/\"fugi\" e estão erradas; a (B) e a (C) ficam incompletas, por citar só uma das estrofes. A armadilha é deixar de considerar \"monte\"/\"encontre\" como rima por ser imperfeita: para o critério de classe gramatical, ela conta.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Classes do \"se\": em \"Se a gente se cansa / Do mesmo lugar, / Do mesmo ser / Por que não se cansar?\", há três ocorrências.\n\nO primeiro \"Se\" introduz uma oração subordinada adverbial condicional; equivale a \"caso\", portanto é conjunção.\n\nO segundo (\"a gente se cansa\") e o terceiro (\"não se cansar\") acompanham o verbo pronominal \"cansar-se\": são pronomes oblíquos átonos, parte integrante do verbo (ou reflexivos, numa análise mais tradicional). Nenhum deles liga orações.\n\nA sequência é conjunção, pronome e pronome. O teste prático é trocar por \"caso\": só o primeiro aceita a troca, o que afasta as alternativas que veem mais de uma conjunção ou que tomam o primeiro \"se\" por pronome.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Indianismo na literatura brasileira: Antonio Candido contrapõe duas maneiras de tratar o índio.\n\nOs românticos, sobretudo José de Alencar e Gonçalves Dias, idealizaram o índio como herói nacional e lhe atribuíram virtudes do cavaleiro medieval europeu, como honra, lealdade e coragem: é o \"cavalheirismo convencional\" de que fala o texto.\n\nOs modernistas da primeira fase, como Oswald de Andrade com a Antropofagia, Mário de Andrade com \"Macunaíma\" e Raul Bopp com \"Cobra Norato\", buscaram no índio e no negro o primitivismo, que injetaram na cultura como renovação e quebra das convenções acadêmicas.\n\nA armadilha é pôr os árcades na primeira lacuna: eles têm poemas com índios (\"O Uraguai\", \"Caramuru\"), mas sem a idealização cavaleiresca que marca o indianismo romântico. Os simbolistas não trataram do tema.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Figuras de linguagem: na tira de Steinberg, o caixa eletrônico exibe \"Do not remove card\" duas vezes, depois \"Please remove card\" e, quando o cartão sai, diz \"Kidding! Do everything all over again\" (brincadeirinha, faça tudo de novo).\n\nO humor nasce de atribuir à máquina uma atitude humana, a de pregar uma peça no cliente, o que traduz a frustração comum de quem usa esses aparelhos. Dar características humanas a um ser inanimado é personificação (prosopopeia).\n\nA armadilha é a (B), \"pleonasmo\", pela repetição de \"Do not remove card\". Mas a repetição está na sequência das telas, não numa redundância de sentido dentro da frase, e não é dela que vem a graça. Também não há exagero (hipérbole), suavização (eufemismo) nem mistura de sentidos (sinestesia).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Interpretação de texto (sociedade colonial): o texto afirma que os ladrões, \"naqueles tempos piedosos\", raramente ousavam entrar nas capelas para roubar as joias dos santos. \"Piedoso\", aqui, significa devoto, religioso: era o temor religioso que inibia os furtos.\n\nO único caso citado, o de São Benedito, é justificado por um pretexto racista da época, e não por falta de fé.\n\nA armadilha é a (E), \"medo de assombrações\": elas aparecem no texto, mas ligadas às casas mal-assombradas onde se enterrava dinheiro, não aos roubos nas capelas. Violência dos senhores (A), respeito aos mortos (B) e rigor da justiça (D) não são apontados como motivo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Interpretação de texto: a relação dos senhores de engenho com o poder público.\n\nO trecho diz que escravos eram \"justiçados pelos senhores\" e enterrados no quintal ou dentro de casa \"à revelia das autoridades\", isto é, sem o conhecimento nem o consentimento delas. O senhor aplicava sua própria \"justiça patriarcal\", inclusive com a morte, passando por cima da lei. O texto reforça essa autonomia ao lembrar senhores que mandavam matar os próprios filhos. Diante das autoridades, portanto, o comportamento era transgressor.\n\nA alternativa tentadora é \"vingativo\" (B), mas ela descreve a relação com os escravos ou com o filho, não a atitude diante das autoridades. Submissão, respeito ou isenção não têm apoio no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Literatura brasileira: o romance de 1930 e o ciclo da cana-de-açúcar.\n\nO texto de Gilberto Freyre trata da casa-grande patriarcal dos engenhos do Nordeste, com o poder absoluto do senhor sobre a família e os escravos. Esse universo é o centro da obra de José Lins do Rego, romancista regionalista da geração de 1930, em livros como \"Menino de engenho\", \"Banguê\" e \"Fogo morto\", que retratam a decadência dos engenhos da Paraíba. O autor, aliás, era amigo de Freyre e foi influenciado por ele.\n\nOs demais não tratam desse ambiente: Euclides da Cunha escreveu sobre o sertão e Canudos; Machado de Assis e Lima Barreto, sobre o Rio de Janeiro urbano; Aluísio Azevedo, sobre o cortiço e a vida urbana.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Coesão e relações de sentido entre frases: a concessão.\n\nA frase anterior afirma que os ladrões raramente ousavam roubar os santos nas capelas. A frase sublinhada, aberta por \"É verdade que\", admite uma exceção: um ladrão roubou as joias de São Benedito. Logo depois, o \"mas\" mostra que até essa exceção tinha uma justificativa aceita na época, o que preserva a afirmação geral. A estrutura \"É verdade que…, mas…\" é a típica da ressalva (concessão): reconhece-se um dado contrário sem abandonar a ideia principal.\n\nNão é ratificação (B), porque a frase não confirma o que foi dito, e sim o relativiza; também não é condição, conclusão nem redundância.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Conectivos: relação de explicação entre orações.\n\nA segunda frase explica a primeira. Não é de admirar que senhores mandassem enterrar escravos supliciados, porque eram homens capazes de mandar matar os próprios filhos. Essa relação explicativa é expressa pela conjunção coordenativa \"pois\": \"Não é de admirar, pois eram senhores… que mandavam matar os próprios filhos\".\n\n\"Como\" (A) é a tentação, por ter valor causal, mas só funciona no início do período, antes da oração principal, e exigiria reestruturar a frase. \"Mas\" indicaria oposição; \"embora\", concessão; \"se\", condição. Nenhuma dessas relações existe entre as duas frases.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Vocabulário em contexto.\n\n\"Piedoso\" significa devoto, religioso. \"Naqueles tempos piedosos\" equivale a uma época de fervor religioso, e é essa devoção que explica por que os ladrões raramente roubavam os santos das capelas. A correspondência \"época fervorosa\" está correta.\n\nAs outras falham: \"ponderável\" quer dizer digno de consideração, aceitável, o oposto de \"desprezível\"; \"excessos demagógicos\" são abusos de agitadores das massas, não \"desmando político\" em geral; \"tendências comunistas\" são inclinações à partilha dos bens, não \"incitação pública\"; e \"zelos exagerados\" são cuidados excessivos com a propriedade, não \"aflições\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Vozes verbais: da passiva sintética para a analítica.\n\n\"Guardavam-se joias nas capelas\" está na voz passiva sintética: verbo transitivo direto mais o pronome apassivador \"se\", com o sujeito paciente \"joias\". Na passiva analítica, usa-se o verbo \"ser\" no mesmo tempo e modo do verbo original, seguido do particípio concordando com o sujeito. \"Guardavam\" está no pretérito imperfeito do indicativo, então fica \"eram guardadas\" (feminino plural, por causa de \"joias\").\n\nA alternativa tentadora é \"foram guardadas\", mas ela passa o verbo para o pretérito perfeito. \"São guardadas\" estaria no presente; \"seriam\" e \"fossem\" mudariam o modo verbal.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Concordância verbal: sujeito oracional.\n\nEm \"Sucedeu muita dessa gente ficar sem os seus valores e acabar na miséria…\", o sujeito de \"sucedeu\" é a oração reduzida de infinitivo sublinhada: equivale a \"isso sucedeu\". Sujeito oracional leva o verbo à 3ª pessoa do singular, e é exatamente a esse termo que a flexão se deve.\n\nNas demais, o termo sublinhado não é o sujeito do verbo destacado. Em (A), \"alguma cousa\" é objeto direto de \"deu\" (o sujeito é \"você\"); em (C), \"outra função…\" é objeto de \"desempenhou\" (sujeito: a casa-grande); em (D), \"as joias e o ouro\" é objeto de \"enterraram\", que concorda com \"os grandes proprietários\"; em (E), \"outros\" está dentro de \"dinheiro dos outros\", e \"se haviam apoderado\" concorda com \"os senhores\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Literatura: as duas faces da poesia de João Cabral de Melo Neto.\n\nOs versos de (A) tratam da cana cortada que vira foice e fere o menino, deixando uma cicatriz interior. É a fase madura do poeta, voltada para o Nordeste canavieiro: linguagem concreta, objetiva e cortante, que sugere a violência do mundo do açúcar e do trabalho no eito. É aí que a dimensão social aparece.\n\nAs outras alternativas trazem versos da fase inicial (\"Pedra do sono\", 1942), de imagens oníricas de inspiração surrealista: escafandros, sonhos cobertos de pó, manequins, fantasmas e pesadelos. São poemas centrados no mundo interior, sem referência a uma realidade social concreta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Literatura: a prosa inventiva da terceira geração modernista.\n\nO texto descreve um escritor que criou uma língua própria, de início obscura para o leitor, mas que acaba por enfeitiçá-lo, com vocabulário renovado pelo uso sistemático do neologismo e pela exploração dos recursos sonoros. São as marcas de Guimarães Rosa (\"Sagarana\", \"Grande sertão: veredas\", \"Primeiras estórias\"), que recriou a fala sertaneja com invenção lexical, arcaísmos, aliterações e sintaxe inovadora.\n\nJosé de Alencar pode tentar, porque defendia um português brasileiro, mas não praticava o neologismo sistemático. Graciliano Ramos tem prosa seca e econômica; Euclides da Cunha, linguagem científica e erudita; Machado de Assis, estilo clássico e irônico.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Artes visuais: a pop art.\n\nO texto descreve um movimento surgido em meados do século XX, na Inglaterra e nos Estados Unidos, apoiado no imaginário do consumo e da cultura de massa e visto como reação ao expressionismo abstrato. É a pop art, que retomou a figuração e os temas banais. \"No carro\", de Roy Lichtenstein, reproduz em grande escala um quadro de história em quadrinhos, com cores chapadas e os pontos de retícula da impressão gráfica.\n\nA tentação é Pollock, por estar no mesmo período, mas ele é justamente o expressionismo abstrato (action painting) contra o qual a pop art reagiu. Magritte e Dalí são surrealistas; Kandinsky, abstracionista.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Inglês, compreensão de texto: o termo \"catfishing\".\n\nNo segundo parágrafo, o autor diz que há \"two ways of looking at this\". Uma é positiva: a internet dá liberdade para ampliar ou mudar a identidade, um novo passo na evolução. A outra é negativa: um \"false dawn\" (falso amanhecer), uma arena amoral, uma selva. Ele próprio prefere a segunda. Portanto, o fenômeno admite interpretações positivas ou negativas.\n\nA alternativa (A) distorce o texto, que apenas diz que a veracidade do documentário \"Catfish\", de onde vem o termo, foi questionada. As demais não têm apoio no texto, que define \"catfishing\" como criar identidades falsas para atrair pessoas a relacionamentos falsos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Inglês, compreensão de texto: a ideia do primeiro parágrafo.\n\nO parágrafo afirma que, num tempo em que o mundo muda mais rápido do que nunca, \"we need a new vocabulary to help us grasp what's happening\": precisamos de um vocabulário novo que nos ajude a compreender o que está acontecendo. \"Grasp\" significa captar, compreender. Daí a ideia de que novas palavras ajudam as pessoas a entender as transformações do mundo.\n\nA alternativa (E), sobre a língua não poder ficar estagnada, é a mais tentadora, mas generaliza além do texto: o foco é a necessidade de nomear o que muda, não uma tese sobre a língua. Pessoas mais velhas, conflito de gerações e comportamentos passageiros não são mencionados.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Inglês, vocabulário em contexto: o verbo \"to lure\".\n\nEm \"they lure other people into continued messaging correspondence\", \"to lure\" significa atrair, seduzir, aliciar, em geral com engano. \"Lure\" também é o nome da isca artificial de pesca, o que combina com a metáfora do \"catfishing\". O sentido do trecho é: os catfishers atraem outras pessoas para uma troca contínua de mensagens, construindo relações falsas.\n\n\"Conversar\" é a alternativa tentadora, mas descreve o resultado (a troca de mensagens), não a ação de levar alguém a ela. Selecionar, desprezar e impressionar não traduzem o verbo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Inglês, expressão idiomática: \"watch our backs\".\n\n\"To watch one's back\", literalmente \"vigiar as próprias costas\", significa ficar atento, tomar cuidado com perigos ou traições. No texto, a visão negativa descreve a internet como \"a new jungle where we must watch our backs and struggle for survival\": uma selva em que é preciso estar sempre alerta para não ser surpreendido.\n\nA alternativa que fala em \"virar as costas\" é a armadilha de quem traduz palavra por palavra, mas o sentido é o oposto: não se trata de ignorar alguém, e sim de se proteger. Também não é enfrentar desafios de frente, lutar contra adversidades em geral nem deixar o passado para trás.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Inglês, referência textual: \"the former\" e \"the latter\".\n\n\"The former\" e \"the latter\" retomam, respectivamente, o primeiro e o último de dois elementos citados. O parágrafo apresenta duas visões numeradas: 1) a internet é maravilhosa, um novo passo na evolução; 2) ela é um \"false dawn\", uma arena amoral, uma selva, um retrocesso. Ao dizer \"I lean toward the latter\", o autor declara inclinar-se para a segunda visão, a negativa.\n\nA alternativa que remete ao primeiro item é a confusão clássica entre \"latter\" e \"former\". As que retomam a visão positiva também estão erradas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Inglês, leitura de cartum: humor por inversão.\n\nNo balão de pensamento, a mulher diz que só quer alguém que a ame e a aceite \"for who I pretend to be on the internet\", isto é, pela pessoa que ela finge ser on-line. O humor está na inversão do clichê romântico: em vez de querer ser amada por quem realmente é, ela quer ser amada pela identidade inventada. Ela se apresenta, portanto, de modo falso na internet, o que a aproxima do \"catfishing\" do texto anterior.\n\nA alternativa (A), segundo a qual ela lamenta que só aceitem sua identidade virtual, é tentadora, mas inverte o desejo: é justamente essa aceitação que ela quer. Ela também não descobriu um par falso nem se apaixonou por um perfil falso.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Inglês, compreensão de texto: relação de causa e efeito.\n\nNo trecho \"In ageing rich countries, demand for nursing care is becoming increasingly insatiable\", \"ageing\" indica países cuja população está envelhecendo, e \"increasingly insatiable\" indica uma demanda cada vez maior, impossível de satisfazer. Daí a relação: quanto mais velha a população dos países ricos, maior a necessidade de cuidados de enfermagem.\n\nA alternativa que fala da capacidade de os países pagarem por esse cuidado é tentadora por mencionar riqueza, mas o trecho não trata de custo. Ele também não fala de enfermeiros particulares nem de recusa em atender idosos, e contradiz a ideia de demanda estável.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Inglês, expressão idiomática: \"greener pastures\".\n\n\"Greener pastures\" (pastos mais verdes) é expressão idiomática para uma situação melhor em outro lugar, geralmente um emprego com salário e condições superiores. No contexto, os países pobres perdem enfermeiros que emigram em busca de trabalho mais vantajoso no exterior, em geral nos países ricos citados antes, que têm milhares de vagas. Ou seja: melhores condições profissionais.\n\nA leitura literal, vida no campo, é a armadilha óbvia. Também não se trata de sair do desemprego: os enfermeiros já têm profissão e partem em busca de algo melhor. Estudo e família não são mencionados.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Inglês, compreensão de texto: as raízes do estereótipo.\n\nO segundo parágrafo diz que a visão da enfermagem como \"trabalho de mulher\" tem raízes profundas: Florence Nightingale achava as mãos masculinas impróprias para cuidar de doentes; o Royal College of Nursing só admitiu homens em 1960; escolas americanas só passaram a aceitá-los em 1982, por decisão da Suprema Corte. Há, portanto, uma tradição histórica que desencorajava e até impedia homens de serem enfermeiros.\n\nA alternativa sobre a Suprema Corte é tentadora, mas inverte o fato: a corte obrigou a admissão de homens, não a vetou. A que repete o estereótipo do trabalho feminino apresenta como afirmação do texto aquilo que ele critica.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Inglês, valor de advérbio: \"even\".\n\nEm \"did not even admit men as members until 1960\", \"even\" (nem sequer, nem mesmo) é um intensificador. Ele sublinha quanto a exclusão era extrema: a entidade da profissão nem ao menos aceitava homens como membros até 1960. O advérbio destaca um fato surpreendente que reforça o argumento das raízes profundas do preconceito. Seu valor é de ênfase.\n\nDescrédito poderia tentar, por causa do tom crítico do trecho, mas a crítica vem do conteúdo, não da palavra \"even\". Ela também não expressa conclusão, generalização nem conformidade.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Inglês, compreensão de texto: exemplo de visão ultrapassada.\n\nO terceiro parágrafo trata das crenças antiquadas sobre o que é o trabalho de enfermagem, que podem afastar os homens. O exemplo é o dos filmes, que mostram enfermeiros como meros ajudantes de médicos heróis, homens: \"In films, nurses are commonly portrayed as the helpers of heroic male doctors\".\n\nAs alternativas sobre o trabalho independente e sobre as campanhas que apresentam a enfermagem como carreira com especializações trazem a visão correta e atual, usada para desfazer o mito. As que falam da dificuldade de atrair homens sem estereótipos e do slogan polêmico tratam das campanhas de recrutamento, não exemplificam a visão ultrapassada.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Inglês, gramática: infinitivo de finalidade.\n\nEm \"To dispel myths, nurse-recruitment campaigns display nursing as a professional job…\", o \"to\" introduz um infinitivo de propósito, equivalente a \"in order to\" (para, a fim de). As campanhas de recrutamento apresentam a enfermagem como carreira com progressão e especializações para desfazer os mitos. A prova é que se pode trocar por \"In order to dispel myths\" sem mudar o sentido.\n\nCausa é a alternativa mais tentadora, porque os mitos motivam as campanhas, mas o \"to\" indica o objetivo a alcançar, não o motivo. Equivalência, adição e contraste não se aplicam.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Inglês, conectivos: concessão.\n\n\"Although\" é conjunção concessiva (embora, ainda que): \"Embora muitos estereótipos de gênero sobre empregos e cuidados tenham ruído, a enfermagem até agora não foi afetada\". \"Though\" tem o mesmo valor concessivo e pode substituí-lo sem alterar o sentido: \"Though many gender stereotypes… have crumbled\".\n\n\"Unless\" pode confundir por também introduzir uma oração subordinada, mas significa \"a menos que\" e expressa condição. \"Because\" indica causa, \"otherwise\" (caso contrário) indica alternativa e \"therefore\" (portanto) indica conclusão.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Inglês, vocabulário em contexto: \"crumbled\".\n\n\"To crumble\" significa esfarelar-se, desmoronar, ruir. No trecho, os estereótipos de gênero sobre profissões e cuidados \"have crumbled\", isto é, desabaram, perderam força. \"Collapsed\" (desmoronaram) é o sinônimo adequado. O contexto confirma: a oração é concessiva (\"Although…\") e opõe a queda dos estereótipos à enfermagem, que continua não afetada.\n\n\"Continued\", \"strengthened\" e \"recovered\" dizem o contrário e destruiriam a oposição marcada por \"although\". \"Aggregated\" (agregaram-se) não tem relação de sentido com o verbo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Inglês, relação entre texto e cartum.\n\nNo cartum, uma enfermeira diz que o médico acabou de fazer \"his rounds\" (a ronda dele, portanto um homem) e que ela vai cuidar da psique dos pacientes. A cena reproduz exatamente os papéis que o texto \"Why so few nurses are men\" aponta como estereótipo: a enfermagem feita por mulheres, associada ao cuidado emocional, e o médico homem como figura principal. O cartum confirma o estereótipo da enfermeira mulher.\n\nA alternativa que diz que o cartum incentiva homens e mulheres a serem enfermeiros vai na direção oposta. Ele também não sugere que enfermeiras veem médicos como heróis, nem afirma que homens são melhores médicos, nem mostra médicos angustiados.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

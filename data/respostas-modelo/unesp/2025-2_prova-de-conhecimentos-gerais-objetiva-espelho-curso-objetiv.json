@@ -1,0 +1,442 @@
+{
+ "indice": "data/questoes/unesp/2025-2_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Questão de compreensão e inferência a partir de um texto jornalístico.\n\nO quarto parágrafo diz que a obra foi “criada como uma crítica satírica ao sistema da arte” e que questiona “o que pode ou não ser considerado arte”. Ou seja, a polêmica não é um efeito colateral: ela faz parte do projeto da obra desde a origem. O último parágrafo confirma isso, ao lembrar que os primeiros compradores, em 2019, se interessaram justamente “pela polêmica e pelo debate que a obra gerou”.\n\nAs demais alternativas atribuem a Cattelan sentimentos ou atitudes que o texto não registra: ele não se diz lesado pela diferença de preço (A), não reage ao comentário de Justin Sun (B), não se surpreende com a polêmica (C) nem altera a obra para valorizá-la (D). Quem se surpreende, segundo o texto, são os representantes da Sotheby’s.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Questão de semântica e expressões idiomáticas.\n\nNo uso corrente, “a preço de banana” significa “muito barato”. O texto diz que a expressão ganhou um “novo significado” porque uma banana comprada por 35 centavos de dólar virou obra vendida por 6,2 milhões. Agora, “preço de banana” passa a sugerir algo caríssimo, um valor exorbitante.\n\nA expressão idiomática que traduz essa ideia é “custar os olhos da cara”, isto é, custar muito caro.\n\n“Custe o que custar” (E) pode atrair por falar de preço, mas significa “a qualquer custo, independentemente do sacrifício”, e não indica que algo é caro. “Fazer um pé-de-meia” é poupar dinheiro; as outras duas não tratam de valor.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Questão de artes visuais: relação entre a obra de Cattelan e as vanguardas do século XX.\n\nA pergunta de Cattelan — com base em que um objeto adquire valor no sistema da arte? — é a mesma provocação do ready-made de Marcel Duchamp. Em “Fonte” (1917), Duchamp pegou um mictório industrial, assinou “R. Mutt” e o apresentou numa exposição: um objeto comum vira arte pelo gesto do artista e pela legitimação da instituição, não pela técnica ou pela beleza. A banana colada na parede com fita adesiva repete e atualiza esse gesto.\n\nAs outras obras pertencem à tradição da pintura ou da escultura feitas pelo artista: a natureza-morta de Cézanne e as “Bananas” de Juan Gris (que só coincidem no tema da fruta), a escultura de Picasso e o quadro surrealista de Magritte. Nenhuma questiona o próprio estatuto do objeto artístico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Questão de vozes verbais (passagem da voz ativa para a passiva analítica).\n\nNa frase ativa, “a venda” é o sujeito e “os próprios representantes da Sotheby’s” é o objeto direto. Na passiva, o objeto direto vira sujeito paciente, o antigo sujeito vira agente da passiva, e o verbo passa a ser formado por ser + particípio, mantendo o tempo do verbo original (pretérito perfeito):\n\nOs próprios representantes da Sotheby’s foram surpreendidos pela venda.\n\nComo o novo sujeito está no plural masculino, o auxiliar fica no plural (“foram”) e o particípio concorda com ele (“surpreendidos”). A alternativa C erra a concordância, tomando “venda” como sujeito; A, D e E mudam o tempo verbal ou nem chegam a ser passivas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Questão de recursos expressivos em texto não verbal (tirinha).\n\nA graça da tirinha depende de o leitor reconhecer a obra “Comedian”, de Maurizio Cattelan: a banana colhida, vendida na feira e levada para a galeria acaba presa à parede com fita adesiva, como na obra famosa. Esse diálogo com outra obra é a **intertextualidade**.\n\nNo último quadrinho, a própria banana fala (“A vida é mesmo imprevisível!”), comentando o destino inesperado. Atribuir fala e reflexão a um objeto inanimado é **personificação** (ou prosopopeia).\n\nNão há eufemismo (suavização de algo desagradável), nem antítese evidente, nem metalinguagem (a tirinha não fala sobre a própria linguagem dos quadrinhos). Também não há ambiguidade que sustente o humor.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Questão de compreensão da argumentação.\n\nO autor afirma que Capitu, “mais do que a probabilidade do adultério incerto, representa a incerteza”, e que o tema de Dom Casmurro é “a impossibilidade de saber”. Se Capitu encarna a incerteza, ela funciona como contraponto — o oposto — da **certeza**. O texto completa a ideia ao dizer que é preciso conviver com ela “do mesmo modo que é preciso conviver com o que não é certo e sabido”.\n\nAs alternativas A, C, D e E citam traços que o autor associa à personagem (indefinição, modernidade e até a infidelidade de que ela costuma ser acusada), e não aquilo a que ela se opõe.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Questão sobre marcas de subjetividade no texto (função emotiva e pessoa do discurso).\n\nO autor se manifesta explicitamente quando aparece em primeira pessoa. No trecho da alternativa C, isso acontece no pronome “me” em “O que me interessa destacar”: o enunciador se coloca no texto e declara sua própria intenção.\n\nNos outros trechos há opinião, mas formulada de modo impessoal, em terceira pessoa (“O moderno… vai se levantar”, “Machado já avisava”, “Dom Casmurro vem ao leitor”, “O tema de Machado… é”). Vale lembrar que o primeiro parágrafo também tem marcas explícitas (“De minha parte, não creio”, “eu a escalaria”), mas esses trechos não estão entre as alternativas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Questão de literatura: a lírica medieval (Trovadorismo).\n\nO amor cortês do século XII é o tema central das cantigas de amor dos trovadores provençais, depois imitadas na Península Ibérica: o trovador idealiza uma dama inacessível, de posição superior, a quem serve como um vassalo serve o senhor (a “vassalagem amorosa”). Essa é a lírica **trovadoresca**.\n\nO Humanismo (século XV), o Classicismo (século XVI), o Barroco (século XVII) e o Arcadismo (século XVIII) são posteriores; podem retomar a idealização amorosa, mas não são a origem do amor cortês do século XII mencionado no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Questão de semântica: relação de sentido entre palavras no contexto.\n\nEpitáfio é a inscrição colocada sobre um túmulo; remete, portanto, à morte. O autor já havia dito, no parágrafo anterior, que o “felizes para sempre” consistia “na morte da incerteza”. No quarto parágrafo, a mesma ideia aparece no verbo “matava”: o “final feliz” matava a imprevisibilidade. Por isso dizer que o “felizes para sempre” tem “sabor de epitáfio” é retomar a ideia de morte expressa por “matava”.\n\nOs outros verbos (duvidar, principiar, amar, confessar) não têm relação de sentido com morte ou sepultura.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Questão de coesão: valor semântico das orações subordinadas adverbiais.\n\n“Ainda que” é conjunção concessiva, equivalente a “embora”, “mesmo que”. A oração “ainda que não o confesse” apresenta um fato que poderia contrariar a ideia principal, mas não a impede: o moderno se levanta contra o final tolo para amar o incerto, **mesmo sem admitir isso**. Essa é a ideia de concessão.\n\nCondição (B) seria marcada por “se”, “caso”; causa (A) por “porque”, “já que”; comparação (D) por “como”, “tal qual”; consequência (E) por “de modo que”, “tanto que”.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Questão de literatura: a estética naturalista em O cortiço.\n\nO Naturalismo (fim do século XIX) vê o ser humano como produto do meio, da raça e do instinto, e por isso descreve pessoas com traços animais — a chamada **zoomorfização**. No trecho da alternativa E, os moradores do cortiço são uma “aglomeração tumultuosa de machos e fêmeas”: palavras usadas para animais, não para homens e mulheres. É a marca mais direta da estética naturalista.\n\nA alternativa B também tem um recurso expressivo, mas oposto: o cortiço “acordava”, “abrindo… a sua infinidade de portas e janelas”, ou seja, o ambiente ganha vida como um organismo (personificação do espaço coletivo). É uma imagem importante no romance, mas menos direta que a animalização das pessoas. As demais (A, C, D) são descrições de ações cotidianas, sem marca estética forte.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Questão de coesão referencial: anáfora (retoma o que veio antes) e catáfora (antecipa o que vem depois).\n\nEm “despachavam-se ali mesmo, no capinzal dos fundos”, o advérbio “ali” aponta para um lugar que só é dito logo em seguida: “no capinzal dos fundos, por detrás da estalagem ou no recanto das hortas”. É um termo **catafórico**, que antecipa a informação.\n\nNos demais casos, o termo retoma algo já mencionado (anáfora): o “lá” de “lá ir” e de “lá dentro” remete às latrinas, citadas antes; “esses” retoma “os homens”; e “Uns” retoma os “machos e fêmeas” da aglomeração em volta das bicas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Questão de coesão por elipse (omissão de um termo que se recupera pelo contexto).\n\nNo trecho “apinhavam-se latas de todos os feitios, sobressaindo as de querosene com um braço de madeira em cima”, o artigo “as” está acompanhado de um substantivo subentendido: sobressaindo **as [latas]** de querosene. O narrador omite “latas” para não repeti-lo logo depois de tê-lo usado.\n\nOs demais substantivos (venda, formigueiro, corridas, bicas) aparecem no trecho, mas nenhum deles está subentendido em outro ponto. “Bicas” pode atrair por estar próximo, mas o que sobressai com “um braço de madeira em cima” são as latas de querosene.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Questão de sintaxe: identificação do sujeito posposto ao verbo.\n\nEm “Principiava o trabalho”, quem principiava? O trabalho. Logo, “o trabalho” é o **sujeito**, colocado depois do verbo (ordem inversa). O verbo “principiar” aqui é intransitivo.\n\nO mesmo ocorre em “Rompiam das gargantas os fados portugueses e as modinhas brasileiras”: o que rompia das gargantas? Os fados e as modinhas. O verbo está no plural justamente para concordar com esse sujeito composto posposto.\n\nNas outras: “ao seu apogeu” é adjunto adverbial (ou complemento de lugar) de “chegava”; “todo o cortiço” é objeto direto de “enchia”; “compras na venda” é objeto direto de “fazer” acompanhado de adjunto; “as suas tinas” é objeto direto de “enchiam”.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Questão de leitura de meme (texto multimodal) e ironia.\n\nO meme junta uma legenda e uma gravura de Newton decompondo a luz branca com um prisma. A legenda diz: “*a peste está assolando a Europa*” e, em seguida, “Isaac Newton: haha cores”. A referência histórica é a peste de 1665–1666, quando Newton, afastado de Cambridge, fez parte de seus estudos de óptica.\n\nO humor está no contraste: enquanto a epidemia mata pessoas ao redor, Newton aparece entretido, rindo com as cores do arco-íris, indiferente à tragédia coletiva. A figura construída pelo meme é a de alguém **insensível** ao sofrimento alheio.\n\n“Divertida” (E) pode atrair por causa do “haha”, mas o riso só produz efeito por contraste com a peste; o que o meme critica, com humor, é a indiferença.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Questão de interpretação de poema (soneto do Arcadismo/pré-Romantismo português).\n\nO título explica a situação: pessoas reclamam que o eu lírico faz sempre versos tristes. O soneto é a resposta. O eu lírico diz que não consegue falar de prazer porque nunca o sente, que as Musas só lhe ditam “queixas do seu fado adverso” e, no último terceto, que, sendo vítima da desventura, serve “sempre a cruel melancolia”. Ou seja, a melancolia o domina e o obriga a escrever versos tristes.\n\nB e E contrariam o poema: as Musas continuam ditando (só que queixas) e ele continua produzindo. C generaliza o contrário do que está escrito; D não tem base no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Questão de funções da linguagem: metalinguagem.\n\nO título, “Arguindo-me várias pessoas de fazer sempre versos tristes”, anuncia que o poema vai tratar da própria poesia: o eu lírico é acusado de escrever versos tristes e responde a essa acusação. Já no primeiro verso aparece a pergunta “Como posso explicar em brando verso…”. Um poema que fala do fazer poético usa a **metalinguagem** — a linguagem voltada para si mesma.\n\nO poema é melancólico, mas não sarcástico; não trata de questões políticas, não se volta com saudade para o passado (nostalgia) nem tem conteúdo religioso.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Questão de literatura: traços da estética neoclássica (Arcadismo) no soneto da Marquesa de Alorna.\n\nO Neoclassicismo retoma a Antiguidade greco-latina, e uma de suas marcas é a referência à mitologia clássica. No soneto, o eu lírico se dirige às **Musas** (“Musas, vós não ditais ao descontente…”), entidades mitológicas que, para os antigos, inspiravam os poetas.\n\nAs outras alternativas descrevem traços árcades que não aparecem aqui: não há natureza bucólica nem elogio da vida no campo (C, E); o poema não é moralizante (D); e, longe de uma “rigorosa contenção lírica” (A), ele expõe intensamente a mágoa e a melancolia do eu lírico, já anunciando a sensibilidade pré-romântica.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Questão de coesão: referente de pronome oblíquo.\n\nNa primeira estrofe, o pronome oblíquo átono está em “se o peito nunca o sente”. O verbo “sentir” pede objeto direto: o peito nunca sente… o quê? O “doce prazer” mencionado no verso anterior: “Como posso explicar em brando verso / Doce prazer, se o peito nunca o sente?”. Portanto, “o” retoma “Doce prazer”.\n\n“Peito” (C) é o sujeito de “sente”, não o objeto; “brando verso” é o meio pelo qual se explicaria; “descontente” e “fado adverso” estão em outros versos e não completam “sente”.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Questão de versificação: rima rica e rima pobre.\n\nRima rica une palavras de classes gramaticais diferentes; rima pobre, palavras da mesma classe. Basta classificar as palavras rimadas:\n\n1ª estrofe: verso (substantivo) / adverso (adjetivo); sente (verbo) / descontente (substantivo).\n2ª estrofe: diverso (adjetivo) / Universo (substantivo); apresente (verbo) / amargamente (advérbio).\nTercetos: afigura (verbo) / escura (adjetivo) / desventura (substantivo); fantasia / alegria / melancolia.\n\nA única série de rimas com a mesma classe é fantasia, alegria e melancolia, todas **substantivos** — rima pobre, nos tercetos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Questão de compreensão de texto em inglês (notícia com imagens de satélite).\n\nO segundo parágrafo diz que, graças às chuvas de novembro, o rio “has partially regained its flow” (recuperou parcialmente sua vazão), como mostra a imagem de 19 de novembro, “allowing river transport to resume at 50 per cent of its capacity” (permitindo que o transporte fluvial fosse retomado com 50% da capacidade). É exatamente o que diz a alternativa A: o rio se recuperou em parte, o bastante para permitir metade do volume de transporte.\n\nB erra ao falar em cheias em outubro (outubro foi o mês da seca histórica); C fala em navegação plena, mas foi só metade; D e E contradizem a recuperação mostrada na imagem de novembro.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Questão de compreensão de texto em inglês: localizar a informação.\n\nO primeiro parágrafo apresenta o Tapajós como “a key artery for grain trade from the state of Mato Grosso”, isto é, uma artéria fundamental para o comércio de grãos vindos de Mato Grosso. O segundo parágrafo reforça a ideia ao dizer que a seca obrigou a suspender o tráfego de barcos de transporte de mercadorias. A importância do rio está, portanto, no **tráfego de barcos que escoa a produção de grãos**.\n\nO texto não fala da extensão do rio (A), não atribui ao rio uma capacidade especial de recuperação (B), não menciona irrigação (D) e não trata da qualidade do leito como motivo de sua importância (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Questão de vocabulário em inglês: conectivos de finalidade.\n\nEm “provides data on global drought conditions to support water resource management”, o “to” introduz uma oração de **finalidade**: o observatório fornece dados **para** apoiar a gestão dos recursos hídricos. Um equivalente com o mesmo sentido é “so as to” (a fim de, de modo a).\n\nOs demais conectivos mudariam o sentido: “in spite of” = apesar de (concessão); “as well as” = assim como (adição); “even if” = mesmo que (concessão/condição); “due to” = devido a (causa).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Questão de ideia principal de texto em inglês.\n\nO texto parte do crescimento da produção de milho e soja e da consequente destruição da Amazônia, e então apresenta um estudo mostrando que o desmatamento prejudica os próprios agricultores. Os parágrafos seguintes explicam o mecanismo: sem floresta, o ciclo da água é rompido, a estação de chuvas atrasa, chove menos e as temperaturas sobem — o que resulta em colheitas e receitas menores. O tema central é, portanto, o **impacto do desmatamento sobre o clima e sobre a agricultura** na Amazônia brasileira.\n\nA e B tomam detalhes como tema; C fala em enchentes, que o texto não menciona; D trata do aumento das exportações, que é só o ponto de partida.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Questão de vocabulário em inglês: expressão idiomática.\n\n“To be at loggerheads” significa estar em forte desacordo, em conflito com alguém. O contexto confirma: a expansão do milho e da soja levou à destruição de vastas áreas da floresta, e isso há muito tempo coloca agricultores e ambientalistas em lados opostos. O sentido é o de **um desacordo antagônico**.\n\nMesmo sem conhecer a expressão, a frase seguinte ajuda: “However” introduz uma novidade — o estudo mostra que o desmatamento prejudica também os agricultores —, o que só faz sentido se antes os dois grupos estivessem em conflito. As alternativas A, B, C e E sugerem cooperação ou busca de acordo, o oposto do que a expressão indica.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Questão de organização do texto (relação entre parágrafos) em inglês.\n\nO segundo parágrafo traz os números do relatório: o corte raso na Amazônia reduziu as produções agrícolas, causando perdas de cerca de 1 bilhão de dólares entre 2006 e 2019; os rendimentos líquidos da soja caíram 10% e os do milho, 20%. Esses dados detalham a afirmação do fim do primeiro parágrafo: o estudo da UFMG e da RFN “shows the extent to which deforestation is hurting farmers too” (mostra até que ponto o desmatamento também prejudica os agricultores).\n\nAs alternativas A e E pertencem ao terceiro parágrafo e são detalhadas pelo quarto; C e D tratam do conflito e do crescimento da produção, que o segundo parágrafo não desenvolve.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Questão de leitura em inglês: função de um trecho entre parênteses.\n\nO trecho “removing all trees from a given area” (remover todas as árvores de uma determinada área) explica o que significa o termo técnico “clear-cutting” (corte raso). Um aposto explicativo que diz o que uma palavra significa tem a função de **definição**.\n\nNão há condição (ideia de “se”), possibilidade, crítica explícita ou justificativa: o parêntese apenas esclarece o termo para o leitor.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Questão de leitura em inglês: relação de causa e consequência.\n\nO quarto parágrafo descreve o que acontece nas regiões mais desmatadas: o início das chuvas atrasou 76 dias, a chuva caiu 40% e 23% nas épocas de cultivo, e as temperaturas máximas subiram cerca de 2,5 °C. A frase final, “Less rain and hotter days mean smaller harvests and smaller revenues” (menos chuva e dias mais quentes significam colheitas e receitas menores), apresenta o resultado disso: é **uma consequência do desmatamento**.\n\nC pode atrair, mas o texto atribui as mudanças ao desmatamento local, não às mudanças climáticas mundiais. B, D e E não têm base no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Questão de leitura de tirinha em inglês com raciocínio simples de frações.\n\nNa tira, a mulher pergunta se deve cortar a pizza em seis ou oito pedaços, e o homem responde “Better make it eight, I’m extra hungry” — como se mais fatias significassem mais pizza. Na verdade, a quantidade de pizza não muda; só o tamanho de cada fatia.\n\nPara saber quando ele come mais, basta comparar as frações da pizza inteira:\n4 de 6 = 4/6 ≈ 0,67\n4 de 8 = 4/8 = 0,50\n2 de 6 = 2/6 ≈ 0,33\n5 de 8 = 5/8 = 0,625\n3 de 8 = 3/8 = 0,375\n\nA maior parte é 4 fatias de uma pizza cortada em 6. A alternativa D (5 de 8) é a armadilha de quem pensa como o personagem e só conta fatias.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Questão de leitura de tirinha em inglês: intenção comunicativa.\n\nNo terceiro quadrinho, a mulher pergunta “How should I slice it… six pieces or eight?” (Como devo cortar… em seis ou oito pedaços?). Ela não decide sozinha: oferece duas opções e espera que o marido diga qual prefere. Está, portanto, **esperando uma sugestão**, que vem no quadrinho seguinte (“Better make it eight”).\n\n“Asking for consent” (B) pode atrair, mas pedir consentimento seria perguntar se pode fazer algo; ela pergunta como fazer. Não há desconforto (A), não expressa um desejo seu (D) nem cumpre uma obrigação (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Questão de História Antiga: educação e sociedade na Grécia.\n\nO autor lembra que “escola” vem do grego scholé, “tempo livre”: só quem não precisava trabalhar — os mais ricos — podia dedicar-se integralmente à arte de falar, argumentar e conhecer. Por isso o ensino virou uma “fronteira interna”, separando ricos e pobres, e uma “fronteira externa”, separando as elites gregas dos demais povos do Mediterrâneo. Ao mesmo tempo, a educação tornou-se um fator de integração dessas elites no Mediterrâneo. Ou seja, a escola servia para **consolidar a dominação social** e a **hegemonia regional** grega.\n\nC é a armadilha: o texto fala em integração, mas das elites, e nega a universalidade do ensino (“Não era… uma atividade aberta a todos”). A, B e D atribuem à escola caráter étnico-nacionalista, sagrado ou artístico que o excerto não menciona.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Questão de História medieval: a cultura popular segundo Mikhail Bakhtin.\n\nPara Bakhtin, o carnaval medieval era uma “segunda vida” do povo. O excerto destaca três traços: os ritos cômicos estão livres de “qualquer dogmatismo religioso ou eclesiástico” e de caráter mágico (alheio à religião); não há separação entre atores e espectadores, todos vivem a festa, que “existe para todo o povo” (envolvente); e, enquanto ela dura, só se vive segundo “as leis da liberdade” (libertadora), suspendendo a ordem cotidiana.\n\nB fala em violência e rebelião contra o poder, o que o texto não diz; C contradiz a ausência de distinção e o caráter livre da festa; D a restringe ao campo e a chama de anticatólica, quando o texto diz apenas que ela não tem dogma; E fala em dimensão sobrenatural, negada no excerto (“desprovidos de caráter mágico”).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Questão de Brasil Colônia: a tributação e o pacto colonial.\n\nA autora lista as fontes de renda da Coroa: os monopólios régios (estancos) sobre pau-brasil, sal, diamante e pesca da baleia; os dízimos sobre toda a produção; os quintos, sobretudo sobre o ouro e os couros; e “um conjunto multifacetado de taxas” sobre o consumo, o trânsito de mercadorias e o comércio de escravizados. E conclui que esses tributos eram cobrados “de modo diferenciado nas distintas capitanias”. Há, portanto, **grande variedade de itens tributados** e **nenhum sistema unificado** de cobrança.\n\nB afirma o contrário (uniformidade e centralização). C ignora os dízimos sobre a produção agrícola; A inventa uma exigência internacional; E fala em tolerância com inadimplentes, tema ausente do texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Questão de Brasil Colônia: Igreja católica e escravidão.\n\nEmília Viotti da Costa mostra que a Igreja forneceu justificativas para a escravidão: a teoria da “guerra justa” (quem se opunha ao cristianismo podia ser escravizado) e a ideia de que a escravidão era punição pelo pecado. Ao mesmo tempo, limitava-se a pedir benevolência ao senhor e resignação ao escravizado, condenando a revolta como pecado. Em vez de combater a escravidão, a instituição se **comprometeu com ela** e ajudou a legitimar o uso de mão de obra escravizada na produção colonial.\n\nA, C e D atribuem à Igreja proibições, defesa de direitos humanos ou abolicionismo que o texto não registra; E fala em desinteresse, quando a Igreja participou ativamente da justificativa do sistema.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Questão de Revolução Francesa: a Declaração dos Direitos do Homem e do Cidadão (1789).\n\nOs artigos citados expressam o jusnaturalismo iluminista: os direitos do homem são “naturais e imprescritíveis”, anteriores à sociedade e ao Estado, e “os homens nascem e permanecem livres e iguais em direitos”. A função da associação política (o Estado) é apenas a **conservação** desses direitos — liberdade, propriedade, segurança e resistência à opressão. É isso que diz a alternativa B: liberdade e igualdade são intrínsecas aos seres humanos, e cabe ao governo garanti-las.\n\nA contradiz a igualdade jurídica, que aboliu as distinções de origem; C fala em igualdade social e controle de riquezas, ideia estranha a uma declaração que protege a propriedade; D omite a igualdade, a propriedade e a segurança; E introduz o voto universal, que a Declaração não estabelece.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Questão de Segundo Reinado: Guerra do Paraguai (1864–1870) e escravidão, numa charge de Angelo Agostini.\n\nA ilustração, publicada em 1870, logo após o fim da guerra, mostra um soldado negro voltando para casa, com uniforme e medalhas, que leva a mão à cabeça ao ver, ao fundo, um homem negro amarrado a um tronco sendo açoitado. Muitos escravizados foram enviados à guerra (inclusive como substitutos de senhores e de seus filhos) com a promessa de alforria. O soldado ganhou a liberdade combatendo pelo Império, mas encontra, ao voltar, a escravidão e os castigos intactos.\n\nA contradição é entre a **alforria dos que lutaram** e a **persistência da escravidão**. A está errada porque a Lei Áurea é de 1888; B, porque a proibição do tráfico (1850) não é o tema da imagem; C e E falam de indenizações e de modernização militar, que não aparecem.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Questão de História dos Estados Unidos: o excepcionalismo norte-americano.\n\nA chegada à Lua é apresentada como celebração do “excepcionalismo” e da “capacidade norte-americana de superar qualquer fronteira”. Essa ideia remete diretamente ao **Destino Manifesto**, doutrina do século XIX segundo a qual os norte-americanos teriam a missão, dada por Deus, de expandir-se pelo continente. Ela justificou a Marcha para o Oeste, a anexação de territórios do México e o avanço sobre as terras indígenas — a “fronteira” sempre empurrada para adiante.\n\nA Guerra nas Estrelas (A) é um projeto de defesa, não de expansão; o lema de B é associado a candidaturas conservadoras, não liberais e de esquerda; o republicanismo da independência (D) e a fuga dos puritanos (E) não tratam da superação de fronteiras.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Questão de historiografia: memória e esquecimento.\n\nO autor parte da ideia de que “indivíduos e nações escolhem aquilo que vão lembrar e aquilo que vão esquecer”. Em 1969, a memória social dos Estados Unidos guardou a chegada à Lua e o Festival de Woodstock, mas deixou “praticamente esquecido” o Festival Cultural do Harlem, celebração da cultura afro-americana com 300 mil pessoas e grandes artistas. A comparação mostra que a construção da memória histórica envolve **silenciamentos** de certos grupos sociais — no caso, a população negra.\n\nB é contrariado pela própria lembrança de Woodstock; C culpa os organizadores, sem base no texto; D fala em acaso e “desigualdade natural”, quando o autor diz que a memória é escolhida; E não percebe a crítica ao esquecimento.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Questão de Era Vargas/Primeira República e literatura: o romance proletário de Pagu.\n\n“Parque Industrial” (1933) retrata o cotidiano das operárias têxteis de São Paulo. No trecho, Bruna, cansada, é repreendida e insultada pelo chefe (“Malandros!… Sua vagabunda!”) e reage com a cabeça baixa, “revoltada”, mas obrigada a se calar. A frase destaca justamente o choque entre o que a personagem sente (revolta) e a ordem impessoal e opressiva da fábrica, que a força à submissão. A última linha generaliza a cena para “todos os setores proletários”.\n\nA ignora a ironia: dormir à vontade é privilégio dos ricos, não aceitação. B toma a metáfora “penitenciária social” ao pé da letra. C chama de paternalista uma relação marcada por autoritarismo e ofensas. D lê a generalização final como se tratasse de acidentes, quando ela se refere à opressão cotidiana.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Questão de Ditadura Militar: cultura e resistência após 1964.\n\nO autor descreve um cenário de repressão: imprensa liberal e de esquerda calada, partidos atemorizados e depois abolidos, comícios e propaganda política proibidos. Nesse contexto, as salas de teatro passaram a ser um dos poucos lugares de encontro e de manifestação de opinião, e a necessidade de falar “em linguagem semicifrada”, por causa da censura, criava uma sensação de cumplicidade e de “perigoso desafio aos poderes constituídos”. É o teatro como espaço de **resistência** ao regime (Arena, Oficina, Opinião).\n\nA inverte o sentido (o teatro não validava o discurso oficial); D exagera ao falar em atos político-partidários, quando o texto fala de linguagem indireta; C e E tratam de acesso social e de recursos financeiros, temas ausentes do excerto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Questão de Geografia: globalização pós-1970 e neoliberalismo.\n\nStuart Hall caracteriza a fase da globalização posterior a 1970 pelos interesses das transnacionais, pelas tecnologias de comunicação e, sobretudo, pela “desregulamentação dos mercados mundiais e do fluxo global do capital”. Desregulamentação dos mercados e livre circulação de capitais são marcas do **neoliberalismo**, que ganhou força a partir dos anos 1970–1980 (Thatcher, Reagan, Consenso de Washington).\n\nA erra a cronologia: a URSS só acabou em 1991, e o texto liga a hegemonia americana a ambições “neo-imperiais”, não a um imperialismo iniciado depois disso. C contradiz o peso das transnacionais; B e D citam tecnologias com finalidades (bens de capital, políticas ambientais) que o texto não menciona.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Questão de Geografia: o Estado-nação na globalização.\n\nO autor afirma que a globalização é “descentrada”, mas faz uma ressalva importante: “Isso não significa que falta a ela poder ou que os Estados-nação não têm função nela”. Essa função, porém, passou a estar “subordinada às operações sistêmicas mais globais”, e as formações supranacionais, como a União Europeia, mostram uma erosão da soberania nacional. Ou seja, os Estados **continuam importantes**, mas parte de sua ação depende da economia e da política globalizadas.\n\nA e B dizem que os Estados perderam ou abriram mão do poder, o que o texto nega expressamente. D e E falam de hierarquia bélica e de alianças militares da Guerra Fria (a OTAN e o Pacto de Varsóvia), que não aparecem no excerto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Questão de Geopolítica: o programa nuclear do Irã.\n\nA AIEA cobra explicações sobre urânio em locais não declarados, e o Irã responde anunciando novas centrífugas para acelerar o enriquecimento. Urânio enriquecido a níveis elevados pode ser usado em armas nucleares; daí a desconfiança internacional de que o programa iraniano, oficialmente civil, possa levar à **fabricação de uma bomba**. A pressão se soma à rivalidade entre o Irã e Israel, que se vê ameaçado e enfrentou com Teerã, em 2024, trocas diretas de ataques no contexto da guerra no Oriente Médio.\n\nA confunde o Irã com a Espanha (separatismo basco); B e C inventam o fim de importações e exportações de petróleo como motivo; E atribui ao Irã o controle territorial do Golfo Pérsico, que ele não tem.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Questão de Geografia econômica: o “socialismo de mercado” chinês.\n\nA partir das reformas de Deng Xiaoping, no fim dos anos 1970, a China manteve o Partido Comunista no poder, o planejamento estatal e grandes empresas estatais em setores estratégicos, mas abriu a economia ao mercado: Zonas Econômicas Especiais, capital estrangeiro, empresas privadas e produção voltada à exportação. O sistema **associa elementos socialistas e capitalistas**, combinando planificação e mercado.\n\nC pode atrair, mas descreve o modelo de forma estreita (o Estado não define os investimentos públicos com base na demanda de mercado; ao contrário, o planejamento estatal continua central). A e E atribuem à China intenções de desestabilizar ou violar regras do comércio mundial; D descreve outra coisa (economia criativa e equidade).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Questão de Geografia do Brasil: leitura de mapas e desigualdades regionais.\n\nNo mapa de renda per capita, as faixas mais altas (verde escuro) concentram-se no Centro-Sul, enquanto o Norte e sobretudo o Nordeste têm as menores rendas. No mapa de analfabetismo entre 18 e 24 anos, as taxas mais altas (marrom escuro) aparecem justamente no Nordeste e em partes da Amazônia. A sobreposição mostra que a porção **setentrional** (norte) do país reúne baixa renda e baixa escolaridade: a fragilidade socioeconômica é maior ali, e a escolarização precária limita a renda do trabalho.\n\nB fala em resultados positivos no Norte, o contrário do que os mapas mostram. C, D e E situam no Brasil meridional (Sul e Sudeste) problemas que os mapas indicam em menor grau ali — essa porção tem as menores taxas de analfabetismo e as maiores rendas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "A questão trata de **cidadania, direitos humanos e sistema prisional**. A reincidência alta (cerca de um terço dos egressos volta a ser preso) indica que a prisão, sozinha, não reintegra a pessoa à sociedade.\n\nPelo viés dos direitos humanos, o problema está na falta de condições para que o egresso recomece: acesso a educação, qualificação, emprego, moradia e redução das desigualdades que empurram para o crime. Isso é o que se chama de **políticas públicas de inclusão e igualdade social**.\n\nAs alternativas A, B e C apostam em mais punição e vigilância, que é justamente a lógica que já produz a terceira maior população carcerária do mundo sem reduzir a reincidência. A E parece tentadora por citar o mercado de trabalho, mas junta isso a \"segregação socioespacial\", que é o oposto de inclusão.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "O conteúdo é **rede urbana**: o conjunto de cidades interligadas por fluxos de pessoas, mercadorias, informações e capitais, que circulam por sistemas de transporte e comunicação.\n\nO macramê funciona como analogia: os **nós** são pontos onde vários fios se encontram, como as cidades; os **fios** são as ligações entre eles, como rodovias, ferrovias e rotas. Sem os fios, os nós ficariam isolados; é a conexão que transforma cidades soltas em rede.\n\nA alternativa C (hierarquia urbana) é a mais tentadora, mas hierarquia trata da posição de cada cidade (metrópole, capital regional, centro local) e da influência de umas sobre as outras; fios não representam \"graus de relevância\". Densidade demográfica, gentrificação e verticalização não têm relação com a imagem de pontos interligados.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "O excerto critica o **agronegócio exportador**, modelo que se expandiu com a Revolução Verde e a modernização agrícola do pós-Segunda Guerra.\n\nA autora aponta o paradoxo: a área agrícola cresceu 30%, mas a fome aumentou mais de 100%. Isso acontece porque a produção não se volta ao alimento da população, e sim a **commodities** (soja, milho, cana, carne) vendidas no mercado internacional, com uso intensivo de agrotóxicos, desmatamento e subordinação da agricultura \"à indústria e aos bancos\".\n\nA alternativa A é a armadilha: também fala em agronegócio, mas diz que ele se baseia em \"demandas nacionais\" de alimentos, o contrário do que o texto afirma. Agrofloresta (B) é um modelo alternativo e sustentável, e as alternativas sobre agroindústria (D e E) não correspondem à crítica feita.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "O conteúdo é **extrativismo mineral e prospecção geológica**. Os minérios só existem onde a formação geológica permitiu sua concentração (escudos cristalinos, bacias sedimentares, depósitos aluviais etc.).\n\nPor isso, conhecer a geologia de uma região é o primeiro passo para uma empresa ou um governo decidir se vale investir ali: o levantamento geológico indica a probabilidade de haver jazidas de valor econômico, seu volume e o custo de extração. É essa informação que sustenta a **decisão de investimento** em um projeto minerador.\n\nAs demais alternativas desviam do foco: acordos de livre-comércio (A) e doação de terrenos (E) não dependem da geologia; a D fala em \"impacto ambiental zero\", meta que não existe em mineração, e a C mistura custos com organizações trabalhistas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "O tema é a **função ecológica do manguezal** na zona costeira. Na situação 1, há uma faixa de vegetação densa entre o mar e as construções; na situação 2, ela foi retirada e a água avança diretamente sobre as casas e o prédio.\n\nO mangue, com suas raízes escoras e o solo lodoso, dissipa a energia das ondas e das marés, retém sedimentos e reduz a erosão costeira. Quando é suprimido para ocupação urbana, essa barreira natural desaparece e a área fica exposta a inundações e ao avanço do mar.\n\nA alternativa C é a mais tentadora pelo caminho inverso: as imagens mostram que a barreira natural é eficiente, e não ineficiente. A vegetação ali é típica de mangue, e o problema mostrado é a retirada dela, não as mudanças climáticas globais (E) nem a fragilidade do mangue à água salobra (B), à qual ele é adaptado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "O conteúdo é **massas de ar que atuam no Brasil**.\n\nO texto 1 descreve uma massa quente e úmida, formada sobre a Amazônia, cuja umidade vem da evapotranspiração da floresta e é levada a outras regiões (os \"rios voadores\"): é a **massa Equatorial continental (mEc)**.\n\nO texto 2 descreve uma massa seca formada na depressão do Chaco, que no inverno bloqueia a entrada das frentes frias e provoca o veranico: é a **massa Tropical continental (mTc)**.\n\nA alternativa E erra no texto 1: a Equatorial atlântica é úmida, mas se forma sobre o oceano, não sobre a floresta. As Tropicais atlânticas também são úmidas, de origem oceânica, e não combinam com a descrição de massa \"seca\" do texto 2.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "O tema é o **impacto socioambiental de hidrelétricas na Amazônia**, no caso Belo Monte, no rio Xingu.\n\nO excerto explica que a usina desvia a água por um canal artificial e deixa um trecho de 130 km, a Volta Grande do Xingu, com vazão controlada pela empresa, ou seja, bem menor do que a natural. O mapa mostra que justamente nesse trecho de vazão reduzida estão as terras indígenas Paquiçamba e Arara da Volta Grande.\n\nCom menos água, o rio perde volume, áreas de reprodução de peixes secam e a navegação fica difícil. A consequência direta para essas comunidades, que dependem do rio, é a **redução da pesca artesanal**.\n\nA alternativa A inverte o efeito: a vazão diminui, não se cria drenagem perene. As demais (irrigação, rede de energia, nível freático) não são tratadas no texto nem aparecem no mapa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "O conteúdo é o **clima urbano**, em especial a **ilha de calor**: em áreas muito urbanizadas a temperatura é mais alta que no entorno, porque asfalto, concreto e telhados escuros absorvem muita radiação solar e liberam esse calor, há pouca vegetação e pouca evapotranspiração.\n\nAs técnicas da imagem atacam exatamente essas causas: tetos verdes repõem vegetação; fachadas sombreadas e janelas com ventilação reduzem o aquecimento; telhados e paredes claros refletem a radiação em vez de absorvê-la (maior albedo).\n\nA alternativa D é a armadilha mais comum: inversão térmica é a camada de ar frio presa sob uma camada quente, que dificulta a dispersão de poluentes; ela depende da dinâmica atmosférica, não dos materiais das construções. Chuva ácida, degradação e lixiviação do solo não se relacionam com essas técnicas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "O conteúdo é **escala cartográfica**: a relação entre a medida no mapa e a medida real.\n\nCada lado da praça mede 2,5 cm no mapa e 90 m na realidade:\n2,5 cm → 90 m\n1 cm → 90 ÷ 2,5 = 36 m\n\nA escala gráfica mostra um segmento de 1 cm associado à distância real que ele representa, ou seja, **36 m** (escala numérica 1 : 3.600).\n\nO erro típico é trocar a unidade: a alternativa E (36 cm) ignora que 1 cm no mapa corresponde a 36 m, e a C (3,6 m) erra a casa decimal. A alternativa A (225 m) multiplica 90 por 2,5 em vez de dividir.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "O excerto mostra a **maiêutica socrática**, o método de investigação de Sócrates. Primeiro vem a **ironia**: com perguntas, Sócrates leva o interlocutor a perceber que não sabe aquilo que julgava saber. É o que acontece com Mênon, que já fez muitos discursos sobre a virtude e agora não consegue sequer dizer o que ela é.\n\nEsse estado de dúvida (a aporia, o \"entorpecimento\" de que Mênon fala) não é o fim, mas o ponto de partida: reconhecendo a própria ignorância, a pessoa passa a procurar de fato o conhecimento. O método serve, portanto, para **promover a reflexão e a busca pelo saber**.\n\nA alternativa D é a tentadora: Sócrates expõe a ignorância do interlocutor, mas o objetivo não é humilhá-lo, e sim fazê-lo pensar. Também não se trata de impor uma conclusão (B) nem de negar que a verdade possa ser alcançada (E), posição mais próxima dos céticos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "O texto 2 apresenta o conceito de **revolução científica** de Thomas Kuhn. Na \"ciência normal\", a comunidade trabalha dentro de um paradigma aceito; quando surgem anomalias que ele não explica, há uma crise e, por fim, a troca por um novo conjunto de compromissos, isto é, um novo paradigma.\n\nLigando ao texto 1: o uso maciço do chatbot para decisões cotidianas, terapia e informação é uma transformação que, segundo o pesquisador citado, muda a compreensão do público sobre a IA. Se isso configura uma revolução no sentido de Kuhn, as categorias antigas já não bastam e é preciso **formular novos conceitos** para entender essas mudanças sociais e epistemológicas (sobre como conhecemos e em quem confiamos como fonte).\n\nA B contradiz Kuhn: revolução rompe compromissos consolidados, não os reforça. A E fala em mudança \"superficial\", o oposto de revolução, e A e C exageram (\"elimina\", \"completamente\").\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "O conteúdo é o **contratualismo** (Hobbes, Locke, Rousseau) e a teoria do direito natural, base do pensamento político moderno.\n\nChaui contrapõe dois conceitos. Comunidade é vista como algo natural ou divino, homogêneo, com destino comum. Sociedade é formada por indivíduos livres, com direitos naturais, que decidem **por um ato voluntário** associar-se. Essa associação voluntária é o pacto ou contrato social.\n\nSe a vida coletiva nasce de um acordo entre indivíduos, e não da natureza ou de Deus, o poder político também passa a ter origem humana: os indivíduos consentem em criar o Estado, e esse consentimento é o que **legitima** o seu poder. Por isso a escolha do termo \"sociedade\" justifica a existência do Estado e a legitimidade do seu poder.\n\nA, C e D descrevem a lógica da comunidade, que o texto apresenta como a ideia superada; a B contradiz o contratualismo, que não rejeita o poder político, e sim o funda.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "O conceito em jogo é a **biopolítica** de Michel Foucault: a forma moderna de poder que toma como objeto a vida da população, gerindo nascimentos, saúde, longevidade e mortalidade por meio de políticas e estatísticas.\n\nFoucault resume essa virada dizendo que o soberano antigo tinha o poder de \"fazer morrer e deixar viver\", enquanto o poder moderno passa a \"fazer viver e deixar morrer\". Krenak usa exatamente essa ideia: na lógica de mercado, quem não produz vira despesa, e os governos tratam como aceitável deixar morrer os grupos de risco na pandemia. É uma gestão da vida e da morte da população segundo critérios econômicos.\n\nA alternativa B (mais-valia) é tentadora porque o texto fala de produção e capitalismo, mas o conceito é de Marx, não de Foucault. Utilitarismo, mecanicismo e imperativo categórico pertencem a outros autores e não tratam da gestão de populações.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "A questão envolve **ética e direitos humanos**, com foco na igualdade de gênero.\n\nAdichie argumenta que dizer apenas \"direitos humanos\" seria vago, porque esconderia um problema específico: as mulheres, embora formalmente incluídas na humanidade e nos direitos universais, não têm sua humanidade plenamente reconhecida na cultura. Daí a frase de que, se a humanidade inteira das mulheres não faz parte da cultura, é preciso mudar a cultura.\n\nEm termos éticos, isso revela um **descompasso entre os princípios morais proclamados** (igualdade e dignidade de todos) **e a prática social** (desigualdade de gênero). A palavra \"feminista\" nomeia esse descompasso para que ele possa ser enfrentado.\n\nAs outras alternativas não aparecem no texto: poder econômico (B), terceiro setor (C) e pesquisas acadêmicas (D) não são tratados, e a E contradiz a autora, que defende transformar a cultura, não preservar tradições.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "O conteúdo é o **ceticismo pirrônico** e a **epokhé** (suspensão do juízo).\n\nSegundo o excerto, o cético opõe a todo argumento outro de força igual (equipotência). Como nenhum se mostra mais digno de crédito, ele suspende o juízo, deixando de afirmar ou negar dogmaticamente. Essa atitude parte do reconhecimento de que nossas certezas são frágeis: o cético **reconhece a limitação das certezas humanas** e não se apressa em declarar algo verdadeiro.\n\nA alternativa C é a armadilha clássica: afirmar que o conhecimento é impossível já seria uma tese dogmática, justamente o que a epokhé evita; o cético nem afirma nem nega. Ele também não é indiferente à filosofia (B), pois investiga continuamente, nem se propõe a destruir todos os sistemas de crenças (E), e nada no texto diz que seja incapaz de emitir juízos morais na vida prática (A).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "O conteúdo é **dinâmica de populações**: potencial biótico, resistência do meio e capacidade de suporte (ou carga biótica máxima, a linha laranja do gráfico, perto de 100 renas).\n\nSem predadores e com alimento abundante (líquens), a população cresceu muito e, em 1938, passou de 2.000 renas, cerca de vinte vezes a capacidade de suporte. Esgotado o alimento, a **resistência do meio** (falta de comida, inverno rigoroso) passou a agir com força crescente, e a população despencou até quase desaparecer em 1950.\n\nPor que as outras falham: E confunde o pico com a capacidade de suporte, que é bem menor e corresponde ao que o ambiente sustenta de forma duradoura; C está errada porque não houve estabilização depois de 1930; em D, se a natalidade superasse a mortalidade, a população cresceria, e ela caiu; em A, o potencial biótico é a capacidade máxima de crescimento sem limitações, e entre 1910 e 1920 o crescimento ainda era modesto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "O conteúdo é **organelas celulares**, em especial os **lisossomos**, e seu papel na metamorfose.\n\nDurante a metamorfose do girino em sapo, estruturas larvais como a cauda e as brânquias regridem. Isso acontece por morte celular programada e autólise: as células liberam e usam **enzimas hidrolases** (proteases, nucleases, lipases etc.) que digerem os próprios componentes. Essas enzimas ficam armazenadas nos lisossomos, que atuam na digestão intracelular e na autofagia. A cauda é, literalmente, digerida e seus materiais são reaproveitados.\n\nAs demais organelas têm outras funções: mitocôndrias fazem a respiração celular; o retículo agranular sintetiza lipídios e participa da desintoxicação; o núcleo guarda o material genético; peroxissomos contêm oxidases e catalase (que decompõe H₂O₂), e não as hidrolases da digestão celular.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "O conteúdo é a **evolução das plantas** a partir do cladograma.\n\n1 só tem embrião protegido: **briófitas** (musgos), em que o gametófito é a fase duradoura do ciclo.\n2 já tem vasos condutores, mas não sementes: **pteridófitas** (samambaias), com esporângios agrupados em **soros**.\n3 tem sementes, mas não flores: **gimnospermas**. Nelas o tecido nutritivo da semente vem do próprio gametófito feminino, por isso o endosperma é **haploide** (n).\n4 tem flores: **angiospermas**, que formam **fruto**.\n\nA sequência é a da alternativa A.\n\nErros nas outras: o esporófito é sempre diploide (B); nas briófitas o esporófito não é a fase dominante, e endosperma diploide não ocorre (C); soros não caracterizam gimnospermas (D); e protalo duradouro não existe, pois o protalo das pteridófitas é a fase passageira (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "O conteúdo é a **reprodução dos mamíferos marsupiais**.\n\nNos marsupiais (gambá, canguru, coala), a placenta é pouco desenvolvida e a gestação é curta. O filhote nasce muito pequeno e imaturo, rasteja até o **marsúpio**, a bolsa da mãe, e se prende a uma mama. Ali termina seu desenvolvimento, protegido e alimentando-se do **leite materno**.\n\nA alternativa D é a mais tentadora, mas o cordão umbilical liga embrião e placenta dentro do útero, não tem relação com a bolsa. Vitelo (C) é a reserva do ovo, que nos mamíferos é escassa; líquido amniótico (E) fica no âmnio durante a gestação; e a bolsa não armazena excretas (A).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "O conteúdo é **bioquímica dos carboidratos**: as fibras alimentares vegetais são principalmente **polissacarídeos estruturais**, como a celulose da parede celular (além de hemicelulose e pectinas).\n\nO ser humano não produz enzimas capazes de digerir a celulose, por isso ela atravessa o tubo digestório sem ser absorvida. Essa massa não digerida retém água, aumenta o volume do bolo fecal e estimula o **peristaltismo**, facilitando a eliminação das fezes e prevenindo a constipação.\n\nA alternativa A é a armadilha: acerta ao falar em polissacarídeos estruturais, mas diz que eles fornecem glicose ao metabolismo, o que não acontece justamente porque não digerimos celulose. B, C e D erram já na natureza química: fibras não são proteínas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "O conteúdo é **evidências da evolução**: órgãos **homólogos**.\n\nNadadeira do golfinho, braço humano e pata do cavalo têm funções diferentes (nadar, manipular, correr), mas a mesma organização óssea: úmero, rádio, ulna, carpos, metacarpos e falanges, na mesma sequência. Essa semelhança de plano estrutural, e não de função, indica que as três estruturas se originaram de um **ancestral comum**, o membro anterior de um mamífero ancestral, e depois se modificaram por **divergência adaptativa**, conforme o ambiente de cada linhagem.\n\nA alternativa B é a armadilha: convergência adaptativa produz órgãos análogos (mesma função, origens diferentes, como a asa da ave e a do inseto), o caso inverso. A está errada porque as pressões seletivas foram diferentes; D e E contradizem o fato de os três serem mamíferos de mesma origem e com fenótipos distintos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "O conteúdo é **concentração comum** (massa de soluto por volume de solução), C = m ÷ V.\n\nConvertendo para as unidades pedidas:\nm = 100 mg = 0,100 g\nV = 5 mL = 0,005 L\n\nC = 0,100 ÷ 0,005 = 20 g/L\n\nOutra forma: 100 mg em 5 mL equivale a 20 mg por mL, e 20 mg/mL é o mesmo que 20 g/L (multiplicando numerador e denominador por 1.000).\n\nO cuidado é só com as conversões de miligramas para gramas e de mililitros para litros; errar uma delas desloca a vírgula do resultado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "O conteúdo é **solubilidade de gases** pela **lei de Henry**: a solubilidade é diretamente proporcional à pressão do gás sobre o líquido, s = kH · P.\n\nCom os dados da questão:\nkH = 2,3 × 10⁻² mol·L⁻¹·atm⁻¹\nP = 0,03 atm = 3 × 10⁻² atm\n\ns = 2,3 × 10⁻² × 3 × 10⁻²\ns = 6,9 × 10⁻⁴ mol/L\n\nRepare que a unidade atm se cancela, sobrando mol/L. O cuidado aqui é só com a multiplicação das potências de dez: 10⁻² × 10⁻² = 10⁻⁴. Quem divide em vez de multiplicar, ou esquece o fator 3, cai em alternativas como 2,3 × 10⁻⁴.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "O conteúdo é **termoquímica**: cálculo do ΔH pela **lei de Hess** com entalpias de formação.\n\nΔH = Σ ΔHf(produtos) − Σ ΔHf(reagentes)\n\nSubstâncias simples no estado padrão (Al e Nb) têm ΔHf = 0.\n\nProdutos: 5 × (−1676) = −8380 kJ\nReagentes: 3 × (−1900) = −5700 kJ\n\nΔH = −8380 − (−5700)\nΔH = −2680 kJ\n\nA reação é exotérmica, o que é típico da aluminotermia: o Al₂O₃ é muito estável e sua formação libera bastante energia.\n\nAs alternativas E (−8380) e C (−5700) correspondem a usar só um dos lados da equação, e −3576 aparece quando se soma −1900 com −1676 sem considerar os coeficientes. É preciso multiplicar cada ΔHf pelo número de mols da equação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "O conteúdo é **radioatividade**: o **decaimento beta** (β⁻).\n\nNa emissão β⁻, um nêutron do núcleo se transforma em um próton, liberando um elétron (a partícula β⁻) e um antineutrino. Consequências:\nnúmero atômico Z aumenta 1\nnúmero de massa A não muda\n\nO níquel tem Z = 28. Então:\n⁶³Ni (Z = 28) → ⁶³X (Z = 29) + β⁻\n\nO elemento de número atômico 29 é o cobre. Forma-se, portanto, o ⁶³Cu.\n\nAlternativas com massa 64 ou 62 erram porque a partícula beta praticamente não tem massa e não altera A; e cobalto (Z = 27) seria resultado de uma diminuição de Z, que não ocorre no decaimento β⁻.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "O conteúdo é **isomeria óptica**: carbono quiral (ou assimétrico) é o carbono saturado ligado a quatro grupos diferentes.\n\nAnalisando o limoneno:\nos carbonos da dupla ligação do anel e do grupo isopropenila (C=CH₂) não podem ser quirais, pois fazem ligação dupla;\nos CH₃ e os CH₂ têm átomos de hidrogênio repetidos;\no carbono do anel ligado ao grupo isopropenila é um CH ligado a: H, o grupo isopropenila, e dois caminhos diferentes do anel.\n\nEsses dois caminhos são diferentes porque, a partir desse carbono, de um lado a dupla ligação está a dois carbonos de distância e, do outro, a três. Logo, os quatro grupos são diferentes e esse carbono é quiral.\n\nHá, portanto, **1** carbono quiral; por isso o limoneno tem dois enantiômeros (o R tem cheiro de laranja e o S, de limão).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "O conteúdo é **cinemática**: no gráfico v × t, o deslocamento é a **área sob a curva**.\n\nIntervalo da ultrapassagem: de t = 2 s a t = 10 s, ou seja, 8 s.\n\nMoto: a velocidade cresce de 8 m/s para 10 m/s (trapézio)\nΔsM = (8 + 10) ÷ 2 × 8 = 72 m\n\nCaminhão: velocidade constante de 5 m/s (retângulo)\nΔsC = 5 × 8 = 40 m\n\nL = ΔsM − ΔsC = 72 − 40 = 32 m\n\nFaz sentido com a figura: em t = 2 s a moto estava alinhada com a traseira do caminhão e, em t = 10 s, com a frente, de modo que ela percorreu a mais exatamente o comprimento do caminhão.\n\nO erro típico é usar só a velocidade inicial da moto (8 × 8 = 64, dando 24 m) em vez da área do trapézio.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "O conteúdo é **lançamento horizontal**: o movimento se decompõe em um horizontal uniforme (velocidade v₀ constante) e um vertical de queda livre, que parte do repouso.\n\nComo os intervalos de tempo T entre as imagens são iguais, na horizontal o projétil avança sempre a mesma distância D, e é isso que a figura mostra.\n\nNa vertical, contando as linhas da grade, as quedas acumuladas são h, 4h e 9h: a proporção 1 : 4 : 9 dos quadrados dos tempos, típica de queda livre. No primeiro intervalo:\nh = g · T² ÷ 2\nT = √(2h ÷ g)\n\nNa horizontal:\nv₀ = D ÷ T = D ÷ √(2h ÷ g)\nv₀ = D · √(g ÷ 2h)\n\nO erro mais comum é tratar a queda como se fosse de velocidade constante, sem a proporção 1 : 4 : 9, ou trocar a ordem da fração dentro da raiz ao isolar T.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "O conteúdo é **hidrostática**: o **princípio de Arquimedes** e a condição de flutuação.\n\nOs dois barcos estão em repouso, sujeitos apenas ao peso e ao empuxo. Para haver equilíbrio, as duas forças se anulam:\nE = P = m · g\n\nLogo, o empuxo é maior sobre o barco de **maior massa** (e, portanto, maior peso).\n\nPelo princípio de Arquimedes, E = dlíquido · Vimerso · g; então o barco de maior empuxo também é o de **maior** volume imerso, o que elimina A. Largura e altura fora da água (B e E) não determinam o empuxo: um barco largo pode afundar pouco, e a altura acima da água nada diz sobre o volume submerso. A alternativa D contradiz E = P.\n\nO erro comum é olhar o desenho e julgar pela aparência: o empuxo depende do que está **dentro** da água e, na flutuação, simplesmente iguala o peso.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "O conteúdo é **movimento circular uniforme** e sua relação com o **movimento harmônico simples**: a projeção de um MCU sobre um eixo que passa pelo centro oscila como um MHS, com amplitude igual ao raio e período igual ao da volta.\n\nRaio: no gráfico, S varia aproximadamente entre −1,8 × 10⁶ km e +1,85 × 10⁶ km. A amplitude é o raio da órbita, R ≈ 1,8 × 10⁶ km.\n\nPeríodo: um mínimo ocorre perto de t = 3 dias e o seguinte perto de t = 20 dias:\nT ≈ 20 − 3 = 17 dias\n(confere com o máximo em t ≈ 11 dias, meio período depois do mínimo: 3 + 8,5 ≈ 11.)\n\nAs armadilhas: 3,6 × 10⁶ km é a distância entre os extremos (o diâmetro), e 8,5 dias é o tempo entre um mínimo e um máximo (meio período). Os valores reais de Calisto, cerca de 1,88 × 10⁶ km e 16,7 dias, confirmam a leitura.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "O conteúdo é **calorimetria** combinada com **termoquímica**.\n\nCalor absorvido pelo líquido (Q = m · c · Δθ):\nm = 1000 g = 1 kg\nc = 4,0 kJ/(kg·°C)\nΔθ = 55 − 20 = 35 °C\nQ = 1 × 4,0 × 35 = 140 kJ\n\nMols de glicose queimados:\nn = 9 ÷ 180 = 0,05 mol\n\nComo todo o calor da reação foi para o líquido, a combustão de 0,05 mol liberou 140 kJ. Para 1 mol:\n140 ÷ 0,05 = 2800 kJ\n\nComo a reação libera calor e ocorreu a pressão constante, a entalpia de combustão é ΔH = −2800 kJ/mol (exotérmica, sinal negativo).\n\nA alternativa D usa o calor certo, mas não chega à entalpia por mol; cuidado também com as unidades: o calor específico está em kJ/(kg·°C), por isso a massa entra em quilogramas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "O conteúdo é **óptica geométrica**: propagação retilínea da luz e **semelhança de triângulos** com sombras. Os raios solares chegam paralelos e, no mesmo local e horário, fazem o mesmo ângulo com o solo; então altura ÷ sombra é constante.\n\nSeja H a altura do homem.\nFigura 1: H ÷ 1,35\nFigura 2: o objeto que projeta a sombra tem altura H + 0,40 (homem sobre o banco), com sombra 1,65 m.\n\nH ÷ 1,35 = (H + 0,40) ÷ 1,65\n1,65 H = 1,35 H + 0,54\n0,30 H = 0,54\nH = 1,80 m\n\nUma leitura rápida: os 40 cm a mais de altura geram 0,30 m a mais de sombra, ou seja, cada metro de altura produz 0,75 m de sombra; com 1,35 m de sombra, H = 1,35 ÷ 0,75 = 1,80 m.\n\nO erro comum é esquecer de somar o banco à altura na segunda situação.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:81": {
+   "resposta": "O conteúdo é **ondulatória**: a relação v = λ · f e o que muda quando a onda passa por meios diferentes.\n\nA **frequência** é imposta pela fonte e não muda com o meio; o próprio texto diz que os instrumentos operam com frequências que independem da profundidade. O gráfico mostra que a **velocidade** do som diminui com a profundidade (de cerca de 1625 m/s na superfície para cerca de 1500 m/s a 800 m).\n\nComo λ = v ÷ f, com f constante e v diminuindo, o **comprimento de onda diminui** com o aumento da profundidade.\n\nPor que as outras falham: B e C contrariam a frequência constante (a altura do som depende da frequência, e o período é o inverso dela); em D, a velocidade em 200 m é maior que em 550 m, então λ é diferente; em E, a pressão aumenta com a profundidade, mas o gráfico mostra a velocidade diminuindo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:82": {
+   "resposta": "O conteúdo é **eletrodinâmica**: lei de Ohm-Pouillet e potência dissipada (P = R · i²).\n\nSó uma lâmpada acende de cada vez, então cada situação é um circuito em série com o gerador.\n\nJogador 1 (lâmpada + R₁):\nReq = 5 + 10 + 25 = 40 Ω\ni = 20 ÷ 40 = 0,5 A\nP = 10 × 0,5² = 2,5 W\nEm 2 s: 2,5 × 2 = 5 J; quatro vezes: 20 J\n\nJogador 2 (lâmpada + R₂):\nReq = 5 + 10 + 35 = 50 Ω\ni = 20 ÷ 50 = 0,4 A\nP = 10 × 0,4² = 1,6 W\nEm 2 s: 3,2 J; seis vezes: 19,2 J\n\nTotal nas lâmpadas: 20 + 19,2 = 39,2 J\n\nErros comuns: esquecer a resistência interna do gerador, ou calcular a energia de todo o circuito (E · i · t), e não só a das lâmpadas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:83": {
+   "resposta": "A ideia é **razão**: \"candidatos por vaga\" é o total de candidatos dividido pelo número de vagas. O número de candidatos não muda; só aumentam as vagas.\n\nTotal de candidatos:\n120 × 15,5 = 1860\n\nNovo número de vagas:\n120 + 30 = 150\n\nNova relação:\n1860 ÷ 150 = 12,4 candidatos por vaga\n\nO erro típico é tentar ajustar a razão diretamente (por exemplo, subtrair algo de 15,5) sem passar pelo total de candidatos, ou dividir por 30 em vez de 150.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:84": {
+   "resposta": "A ideia é **trigonometria no triângulo retângulo**: o triângulo 30°–60°–90°.\n\nÂngulos na proporção 1 : 2 : 3 somam 180°:\nx + 2x + 3x = 180 → x = 30°\nÂngulos: 30°, 60° e 90°.\n\nO menor lado fica oposto ao menor ângulo (30°) e mede k. Nesse triângulo, os lados são proporcionais a 1 : √3 : 2, então:\ncateto oposto a 30° = k\ncateto oposto a 60° = k√3\nhipotenusa = 2k\n\nComo o triângulo é retângulo, a área é metade do produto dos catetos:\nA = k · k√3 ÷ 2 = k²√3 ÷ 2 cm²\n\nA alternativa A (k²√3/4) é a área do triângulo equilátero de lado k, a confusão mais comum aqui. As alternativas com k em vez de k² esquecem que área tem dimensão de comprimento ao quadrado.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:85": {
+   "resposta": "A ideia é resolver um **sistema linear com soluções inteiras não negativas** (contagem de soluções).\n\nPontos: 3v + e = 36\nJogos: v + e + d = 20\n\nDa primeira, e = 36 − 3v. Substituindo na segunda:\nd = 20 − v − (36 − 3v) = 2v − 16\n\nCondições:\ne ≥ 0 → v ≤ 12\nd ≥ 0 → v ≥ 8\n\nEntão v pode ser 8, 9, 10, 11 ou 12, gerando as ternas:\n(8, 12, 0), (9, 9, 2), (10, 6, 4), (11, 3, 6), (12, 0, 8)\n\nSão **5** ternas possíveis.\n\nO erro comum é esquecer de impor d ≥ 0 (e aceitar v menor que 8) ou descartar os casos extremos com zero empates ou zero derrotas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:86": {
+   "resposta": "A ideia é **função logarítmica** combinada com **distância entre dois pontos**.\n\nPrimeiro, a base: D = (16, 4) está no gráfico, então\nlog_k 16 = 4 → k⁴ = 16 → k = 2\n\nOs retângulos têm 1 cm de altura e cada um liga dois pontos consecutivos do gráfico, então as ordenadas de A, B, C e D crescem de 1 em 1. Como D tem y = 4, temos C com y = 3, B com y = 2 e A com y = 1.\n\nAs abscissas vêm de x = 2^y:\nA = (2, 1)\nC = (8, 3)\n\nDistância:\nAC = √((8 − 2)² + (3 − 1)²) = √(36 + 4) = √40 = 2√10 cm\n\nA alternativa B (√10) aparece quando se erra a simplificação de √40 ou se usa uma das coordenadas pela metade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:87": {
+   "resposta": "A ideia é **volume da esfera** aplicado à contagem dos furos do dado.\n\nNúmero de furos: as faces vão de 1 a 6, então\n1 + 2 + 3 + 4 + 5 + 6 = 21 semiesferas\n\nCada semiesfera tem diâmetro 12 cm, logo raio 6 cm. Volume da semiesfera (metade de 4πr³/3):\nV = (2/3) · π · r³ = (2/3) · 3 · 216 = 432 cm³\n\nVolume total retirado:\n21 × 432 = 9072 cm³\n\nErros típicos: usar o diâmetro (12) como raio, calcular o volume da esfera inteira em vez da metade, ou contar mal o número de furos (por exemplo, 20 ou 24 furos dão 8640 ou 10368 cm³, valores que aparecem nas alternativas).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:88": {
+   "resposta": "A ideia é **probabilidade com espaço amostral de pares ordenados**.\n\nEspaço amostral: 30 × 30 = 900 pares possíveis (uma bola de cada urna).\n\nDivisores positivos de 87 = 3 × 29: 1, 3, 29 e 87.\n\nPares (a, b), com a e b de 1 a 30, cujo produto é um desses divisores:\nproduto 1: (1, 1)\nproduto 3: (1, 3) e (3, 1)\nproduto 29: (1, 29) e (29, 1)\nproduto 87: (3, 29) e (29, 3)\n\nTotal: 7 casos favoráveis.\n\nP = 7 ÷ 900\n\nO erro comum é esquecer que a ordem importa (as urnas são distintas) e contar (1, 3) e (3, 1) como um só caso, ou esquecer o produto 1.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:89": {
+   "resposta": "A ideia é **média aritmética**: média × quantidade = soma.\n\nSoma das idades das 20 pessoas:\n20 × 42 = 840\n\nSem Enzo e Noel, ficam 18 pessoas com média 42 − 2 = 40:\n18 × 40 = 720\n\nSoma das idades de Enzo e Noel:\n840 − 720 = 120\n\nMédia dos dois:\n120 ÷ 2 = 60 anos\n\nO erro típico é manter 20 pessoas no segundo cálculo (20 × 40 = 800), o que daria soma 40 e média 20, ou parar na soma 120 sem dividir por 2.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:90": {
+   "resposta": "A ideia é **geometria plana com coordenadas** (ou Pitágoras).\n\nColoque C na origem: C = (0, 0), D = (2√3, 0), E = (2√3, 2), B = (0, 2).\n\nO triângulo ABE é isósceles com AB = AE = 2 e base BE = 2√3. A altura relativa à base cai no ponto médio de BE:\naltura = √(2² − (√3)²) = √(4 − 3) = 1\nLogo A = (√3, 3).\n\nLados do triângulo ACE:\nAE = 2 (dado)\nCE = √((2√3)² + 2²) = √(12 + 4) = 4\nAC = √((√3)² + 3²) = √(3 + 9) = √12 = 2√3\n\nPerímetro = 2 + 4 + 2√3 = 6 + 2√3 cm\n\nO passo que costuma falhar é a altura de A: quem esquece de somar a altura do retângulo (2) à altura do triângulo (1) erra a medida de AC.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

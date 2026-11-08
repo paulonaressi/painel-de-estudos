@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/fcmscsp/2025_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A tirinha (em inglês) joga com a franqueza. O pássaro vermelho lamenta que a tempestade destruiu seu ninho e pergunta o que fez para merecer \"this unjust suffering\" (esse sofrimento injusto). Simon, o pássaro azul, responde sem rodeios: \"você come muitos animais indefesos\" e lembra que ontem ele comeu uma família inteira de ratos \"sem a permissão deles\".\n\nO pássaro vermelho fica irritado e encerra: \"é por isso que ninguém anda com você, Simon\". A graça está no contraste entre a pergunta retórica, que pedia consolo, e a resposta sincera e inconveniente.\n\nSimon diz o que pensa, sem disfarce: é franco. Ele não é dissimulado (o contrário disso), nem agressivo, porque não ataca, apenas constata. Também não é distraído, já que entendeu bem a pergunta, nem volúvel.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Conteúdo: Arcadismo (Cláudio Manuel da Costa). O soneto descreve a paisagem pastoril se alterando de repente: a fonte fica turva, o céu escurece, o gado deixa de pastar, um raio cai e o lírio branco se torna roxo. Esses sinais de \"agouro funestíssimo\" preparam o último verso, que revela a causa: \"Morreu Nise (ai de mim!)\".\n\nA transfiguração da natureza acompanha, portanto, um acontecimento trágico, a morte da amada, e o eu lírico termina dizendo que \"tudo é martírio\".\n\n\"Bucólico\" descreve o cenário, não o evento. \"Enigmático\" pode tentar, por causa das perguntas da última estrofe, mas a resposta é dada no próprio verso final.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Conteúdo: sintaxe, vocativo. Vocativo é o termo usado para chamar ou interpelar o interlocutor, sem função sintática dentro da oração.\n\nNo soneto, ele aparece apenas no verso \"Que é isto, Pastor meu? que anúncio é este?\", na quarta estrofe. Ali o eu lírico se dirige a outro pastor, interlocutor típico da poesia árcade.\n\n\"O Céu\" (1ª estrofe) é sujeito de \"se vai escurecendo\". \"O agouro funestíssimo\" (2ª) é sujeito de \"aponte\". \"Um raio\" (3ª) é sujeito de \"rebentou\". Nenhum desses termos chama alguém.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Conteúdo: tópicos (lugares-comuns) do Arcadismo.\n\nO locus amoenus é o cenário natural agradável e harmonioso, ideal da poesia árcade: fonte de águas límpidas, céu azul, gado pastando, vozes no monte, lírios brancos.\n\nO soneto desmonta esse quadro passo a passo. A fonte fica \"turvada\", o céu escurece, o gado para de pastar de susto, o monte fica em silêncio, o raio rebenta e o lírio branco toma \"a cor das violetas\". É a desconstrução gradual e sistemática do lugar aprazível, motivada pela morte de Nise.\n\nO locus horrendus (C) é tentador, porque é o resultado final, mas a pergunta pede o tópico que está sendo desconstruído, e esse tópico é o lugar ameno.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Conteúdo: ordem direta e inversões (hipérbatos). Na ordem direta vêm sujeito, verbo e complementos, com o adjetivo normalmente depois do substantivo.\n\n\"Um branco lírio / Da cor das violetas se reveste\" passa a \"Um lírio branco se reveste da cor das violetas\": sujeito com adjetivo posposto, verbo e complemento. A alternativa D está correta.\n\nAs outras não ficam em ordem direta. Em A, o verbo vem antes do sujeito (\"Se vai escurecendo o Céu\"); o direto seria \"O Céu vai-se escurecendo no horizonte\". Em B, o adjunto abre a frase e o verbo antecede o sujeito (\"rebentou um raio\"). Em C, o verbo também vem antes do sujeito (\"pasta o gado\"). Em E, a reescrita troca as funções: no verso, quem \"deixou turvado o licor\" é a fonte.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Conteúdo: versificação, rima rica (entre palavras de classes gramaticais diferentes) e rima pobre (mesma classe).\n\n\"pesado\" (adjetivo) / \"gado\" (substantivo): rica.\n\"celeste\" (adjetivo) / \"reveste\" (verbo): rica.\nA alternativa A é a única com os dois pares ricos.\n\nNas demais há sempre algum par pobre. \"fonte\"/\"horizonte\": dois substantivos. \"turvado\"/\"azulado\": dois adjetivos (particípios com valor adjetivo). \"delírio\"/\"martírio\": dois substantivos. \"aponte\"/\"monte\" (verbo/substantivo) seria rica, mas aparece ao lado de pares pobres em B e E.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Conteúdo: o gênero crônica. A crônica é um texto curto, ligado ao cotidiano, com tom leve e linguagem próxima da fala.\n\nEm \"O tapete persa\", Fernando Sabino usa marcas de registro coloquial do começo ao fim: \"me custou os tubos\", \"meu velho\", \"eu lhe mando a mão na cara\", \"foi-lhe metendo o braço\", \"Misteique é a mãe\", \"tá bem?\", \"ô gringo\", \"morou?\". São gírias, expressões populares e até a mistura cômica de português e inglês.\n\nO texto não faz crítica política (A) nem reflete sobre a própria linguagem (C). A sintaxe é simples, não rebuscada (D). O humor predomina sobre qualquer lição moral (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Conteúdo: discurso indireto livre. Nele, a fala ou o pensamento de um personagem entra na voz do narrador sem verbo de elocução, sem travessão e sem conjunção integrante.\n\nNo 1º parágrafo, o narrador conta em 3ª pessoa e, de repente, passa a soar a voz do dono do tapete: \"ah, isso não, meu velho, tenha santa paciência, mas vá fumar ali fora, na varanda\". A fala aparece fundida à narração, sem \"disse ele\" e sem travessão. É o discurso indireto livre.\n\nAs alternativas A e D trazem falas com travessão, ou seja, discurso direto. B e C são narração pura.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Conteúdo: vocabulário e sinonímia no contexto.\n\n\"Invariavelmente\" quer dizer sem variar, sempre do mesmo jeito. O americano chegava bêbado todas as noites, como regra, o que o próprio trecho reforça com \"todas as noites\". O substituto que mantém esse sentido de regularidade constante é \"sistematicamente\".\n\n\"Eventualmente\" e \"ocasionalmente\" (A e D) dizem o contrário: de vez em quando. \"Tragicamente\" e \"lamentavelmente\" (C e E) acrescentam um julgamento do narrador e perdem a ideia de constância.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Conteúdo: orações subordinadas adverbiais reduzidas de gerúndio.\n\nEm \"tendo o tapete obstruído por completo sua janela, cuidou [...] que ainda era noite\", a oração reduzida explica por que o americano achou que ainda era noite: a janela estava tapada.\n\nDesenvolvida, ela fica assim: \"como o tapete tinha obstruído por completo sua janela\" ou \"porque o tapete tinha obstruído...\". As conjunções \"como\" e \"porque\" confirmam o valor de causa.\n\nSeria consequência se indicasse o efeito, e é o contrário: o engano dele é que é a consequência. Também não há condição (o fato ocorreu de fato) nem concessão (não há oposição).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Questão de ideia central (main purpose). O texto inteiro gira em torno de um fato: os americanos com 70 anos ou mais aumentaram sua fatia da riqueza do país durante a pandemia, chegando a um recorde de 30% (\"have seen their share of collective wealth surge during the pandemic\"). Os parágrafos seguintes só explicam esse ganho: envelhecimento da população, valorização de imóveis e ações, mais idosos trabalhando, bom momento na bolsa.\n\nPor isso o propósito é destacar que esse grupo teve os maiores ganhos financeiros do período pandêmico.\n\nA alternativa C é a mais tentadora, mas o texto não fala em \"decisões melhores\" de investimento nem em período \"após\" a pandemia; fala em \"good timing\" e em ganhos durante ela. A e B contrariam o texto, e E trata de um detalhe secundário (trabalho), não da ideia principal.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Leitura de gráfico. É preciso identificar cada linha pela legenda: verde = 70+, azul = 55-69, laranja = 40-54, roxo = menores de 40. A faixa cinza marca o período desde a pandemia.\n\nDentro da faixa cinza, a linha roxa (Under 40), a mais baixa do gráfico, sobe um pouco: o grupo mais jovem aumentou sua participação na riqueza desde a pandemia.\n\nAs outras não se sustentam. A: a linha laranja (40-54) cai na faixa cinza. B e D: em 1989 a linha azul (55-69, por volta de 30%) está acima da laranja (40-54, um pouco abaixo); portanto 40-54 não era mais rico nem igual. E: desde 1989 a linha roxa caiu, de cerca de 10% para algo em torno de 5%.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Função de um trecho no texto. A frase começa afirmando que o envelhecimento da população \"helps explain some of the gains\" e, depois dos dois-pontos, apresenta o dado que sustenta essa afirmação: há cerca de 2,3 milhões de pessoas a mais acima de 70 anos do que em 2019.\n\nOs dois-pontos introduzem justamente a explicação anunciada: mais idosos significa mais riqueza concentrada nessa faixa etária. É um fato apoiado em dados, então não se trata de opinião (B) nem de hipótese (D); também não há pedido de desculpas (C) nem conselho (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Vocabulário em contexto. \"About\", antes de um número, significa \"cerca de, aproximadamente\": \"about 2.3 million\" = \"aproximadamente 2,3 milhões\".\n\nO sinônimo é \"roughly\" (grosso modo, aproximadamente).\n\nAs demais mudariam o sentido: \"luckily\" (felizmente), \"undeniably\" (inegavelmente), \"barely\" (mal, por pouco; daria a ideia de \"quase não chega a 2,3 milhões\") e \"actually\" (na verdade). \"Barely\" é a armadilha, porque também se usa com números, mas indica algo no limite, não uma aproximação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Relações de sentido: qual trecho sublinhado traz uma causa (reason). Em A, a frase diz que \"one major driver\" (um dos principais motores, fatores) do ganho de riqueza foi \"the surge in home values and stocks during the pandemic\". A alta de imóveis e ações é apresentada como causa do enriquecimento dos idosos: é a razão.\n\nNas outras, o sublinhado tem outra função. B: \"As a group\" apenas delimita o sujeito (como grupo). C: \"even after many retired early\" expressa concessão (mesmo depois de...). D: o trecho introduzido por \"but\" expressa contraste com \"Most don't work anymore\". E: \"Although...\" também é concessão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Polissemia de \"since\". A palavra pode ser temporal (desde, desde então) ou causal (já que, como). No texto, \"has since almost doubled\" significa \"desde então quase dobrou\": a participação dos idosos na força de trabalho atingiu 10% nos anos 1980 e, a partir dali, quase dobrou. Sentido temporal, combinado com o present perfect.\n\nEm E, \"Since leaving school, he has had three or four temporary jobs\" = \"Desde que saiu da escola, ele teve três ou quatro empregos temporários\". Mesmo sentido temporal, também com present perfect.\n\nEm A, B, C e D, \"since\" é causal: \"já que o tempo está bom\", \"já que nós dois gostamos de música\", \"como estava chovendo\", \"já que a biblioteca está fechada\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Conectivos. \"Despite\" significa \"apesar de\" e introduz uma ideia que contrasta com a principal: os idosos aproveitaram o bom momento da bolsa, apesar das recessões no caminho. As recessões seriam um obstáculo, e mesmo assim os ganhos vieram. É uma relação de contraste (concessão).\n\nNão é conclusão (como \"therefore\"), adição (\"furthermore\"), condição (\"if\", \"unless\") nem consequência (\"so\", \"as a result\").\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Compreensão de tirinha e humor. O homem vê o cachorro Roscoe esfregando o focinho na perna da mulher (\"nudge nudge\") e interpreta isso como carinho: \"I think it means he likes you\". No último quadro, o pensamento do cachorro desmonta essa leitura: \"Actually, I was just wiping my nose\" (na verdade, eu só estava limpando o nariz).\n\nO humor está justamente na interpretação errada do homem: ele estava enganado (mistaken).\n\nEle não demonstra curiosidade (A), tédio (D) nem raiva (E), e a revelação final mostra que ele não estava certo (B).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Vocabulário em contexto. \"Actually\" é um falso cognato: não quer dizer \"atualmente\", e sim \"na verdade, na realidade\". No último quadro, o cachorro corrige a interpretação do casal: \"Actually, I was just wiping my nose\" = \"Na verdade, eu só estava limpando o nariz\".\n\nO equivalente é \"In fact\" (de fato, na verdade), que também introduz uma correção ou um esclarecimento.\n\n\"Wisely\" (sabiamente), \"Therefore\" (portanto), \"Furthermore\" (além disso) e \"Luckily\" (felizmente) mudariam o sentido da frase.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Expressão idiomática em tirinha. Snoopy começa a escrever uma redação com o título \"Why dogs are superior to cats\" e a resolve numa linha só: \"They just are, and that's all there is to it!\". A expressão \"that's all there is to it\" significa \"e não há mais nada a dizer\", \"é só isso\", ou seja, o assunto está encerrado e não precisa de explicação.\n\nO último quadro reforça a ideia com ironia, quando Snoopy elogia o próprio texto: \"Short and to the point!\" (curto e direto ao ponto).\n\nAs demais alternativas trazem máximas (sobre imagens, conhecimento, ações e verdade) que nada têm a ver com a expressão.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Conteúdo: período helenístico e as escolas filosóficas que surgem nele, como o epicurismo. O ponto-chave do excerto é a passagem do habitante da \"polis\" para o \"kosmo-polites\", o \"cidadão do mundo\".\n\nEssa mudança se explica pelas conquistas de Alexandre Magno (século IV a.C.) e pelos reinos helenísticos que se formaram depois de sua morte (ptolomaico, selêucida, macedônico). Eram impérios extensos, centralizados e multiétnicos, que submeteram as cidades-Estado gregas e esvaziaram sua autonomia política. Sem a polis como centro da vida cívica, a filosofia passa a se preocupar com a felicidade individual (ataraxia, no epicurismo), e o indivíduo se percebe como parte de um mundo amplo.\n\nA erra porque a crise entre democracias e oligarquias (Guerra do Peloponeso) é anterior e não explica o cosmopolitismo. C inverte o processo, já que a cultura grega se difundiu ainda mais no helenismo. B e D não têm base histórica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Conteúdo: formação do Estado absolutista na Idade Moderna. O autor explica por que a Itália não se unificou: faltava ali a \"articulação entre nobreza fundiária e monarquia dinástica\" que, em outros países, deu origem a um Estado cuja autoridade agia \"no ápice da pirâmide de poder\", sem eliminar a base senhorial.\n\nOu seja, para o excerto o absolutismo nasce quando um poder central (o rei) se sobrepõe aos poderes locais dos senhores, mantendo os direitos senhoriais embaixo. É a ideia da alternativa C.\n\nB contraria o texto, que diz que a estrutura senhorial permaneceu na base. E inverte a relação, porque quem passa a controlar as decisões é a monarquia, não os senhores. A é a mais tentadora, por lembrar a explicação clássica da aliança rei-burguesia, mas o excerto fala de aliança com a nobreza fundiária. D é anacrônica.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Conteúdo: unificação italiana (1859-1870) no contexto europeu da segunda metade do século XIX.\n\nEsse período foi marcado pela difusão da Segunda Revolução Industrial para além da Inglaterra (França, Estados alemães, norte da Itália) e pela disputa entre potências. A própria unificação italiana se fez por guerras: o Piemonte, aliado à França, lutou contra a Áustria (1859), e Veneza e Roma foram incorporadas aproveitando a guerra austro-prussiana (1866) e a franco-prussiana (1870). Daí a alternativa D: industrialização e conflitos entre as potências do continente.\n\nE é a mais tentadora, mas descreve o período anterior: a unificação ajudou justamente a derrubar a ordem do Congresso de Viena, que tinha restaurado a fragmentação da península. A erra ao falar em guerras generalizadas, que só viriam em 1914. B e C são anacrônicas: ainda não havia Estados socialistas nem governos populares consolidados.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Conteúdo: invasões holandesas no Nordeste (1630-1654) e a formação territorial do Brasil.\n\nO autor argumenta que a \"primeira fronteira\" do Brasil foi o Nordeste: perder o Rio Grande do Sul ou o Uruguai não teria destruído a unidade da América portuguesa, mas a consolidação do Brasil holandês, sim. O motivo é que o Nordeste açucareiro (Pernambuco, Bahia) era o coração econômico e estratégico da colônia no século XVII. Ou seja, era uma região de grande importância geoeconômica dentro do vasto território luso-brasileiro.\n\nB contraria o sentido do texto, que trata justamente de disputas territoriais decisivas. C erra porque Portugal lutou contra os holandeses no Brasil; a Restauração de 1640 não foi garantida por eles. D é anacrônica: a mineração só ganha peso no fim do século XVII. E ignora que a expulsão holandesa resultou de guerra (Insurreição Pernambucana).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Conteúdo: independência da América espanhola (início do século XIX) e a influência das ideias iluministas e da Revolução Francesa.\n\nO excerto mostra livros proibidos e jornais chegando às colônias e alimentando os descontentes, com ideias \"parecidas\" com as dos revolucionários de Paris. Essas ideias circulavam sobretudo entre os criollos, a elite colonial letrada. Somam-se outros fatos europeus: a independência dos EUA e, principalmente, a invasão napoleônica da Espanha (1808), que abriu a crise de legitimidade da Coroa. A independência foi, portanto, influenciada por transformações da história europeia.\n\nA é a mais tentadora, mas os movimentos liderados pelos criollos eram conservadores no plano social: queriam autonomia política sem igualdade para indígenas e escravizados (o próprio título do artigo fala em \"desempenho conservador\"). C inverte a relação, pois o liberalismo econômico interessava às elites. D erra porque os déspotas esclarecidos não deram liberdade às colônias. E não é o tema do texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Conteúdo: chegada das ferrovias a São Paulo (a São Paulo Railway, de capital inglês, inaugurada em 1867) e o fim do transporte por tropas de mulas.\n\nNa charge, o trem atropelou a mula, e o tropeiro, de chicote na mão, ameaça: se o \"ingreis\" (inglês) não pagar a mula, ele prende a \"comitiva\" (o trem). O humor está no choque entre o tropeiro, símbolo da atividade tradicional que levava café e mercadorias ao porto, e a locomotiva, que vinha substituí-lo. A ferrovia \"atropela\" literalmente o antigo meio de transporte e os negócios que ele sustentava. É o impacto da modernização tecnológica sobre as atividades econômicas tradicionais, como diz A.\n\nB erra porque as locomotivas eram importadas, não fabricadas em São Paulo. D atribui a reação às classes dominantes, mas quem protesta é um tropeiro. E não aparece na charge, e C não é o que ela mostra.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Conteúdo: Corolário Roosevelt (1904) e a política do \"Big Stick\".\n\nA Doutrina Monroe (1823), resumida em \"a América para os americanos\", nasceu como oposição à recolonização do continente pelas potências europeias da Santa Aliança. Theodore Roosevelt a reinterpretou: os EUA teriam o dever de exercer um \"poder de polícia internacional\" na América, intervindo nos países latino-americanos para garantir \"ordem\" e pagamento de dívidas. O texto resume isso como a conciliação do monroísmo com o intervencionismo. Na prática, o corolário fundamentou a preponderância político-militar dos EUA sobre a América Latina, com intervenções no Caribe e na América Central.\n\nB descreve a Doutrina Monroe original, de 1823, e não a releitura de Roosevelt. A trata da expansão para o Oeste (Destino Manifesto). D remete à Aliança para o Progresso, dos anos 1960. E fala em reserva de mercado, enquanto o texto enfatiza a ação de polícia, de caráter político-militar.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Conteúdo: imigração e elites paulistas na Era Vargas, num romance modernista de Oswald de Andrade.\n\nO personagem Robério Spin é descendente de imigrantes (a senhora paulista procura \"a origem imigrante\" dele), mas parece revelar \"uma velha civilização herdada\", um \"faquir vestido de lorde\". Ele sobe com a Revolução de 1930, vira técnico de finanças e acaba aderindo à oposição paulista a Getúlio Vargas, a mesma da antiga oligarquia cafeeira. O trecho mostra, portanto, o filho de imigrante que adota as maneiras e as posições políticas da elite tradicional: a incorporação de padrões culturais oligárquicos.\n\nA é tentadora, mas o foco não é a elite cafeeira mudando de comportamento, e sim o imigrante que se assimila a ela. B e C não correspondem ao período: não houve democracia consolidada nem ascensão operária pelo voto. E inverte o texto: é a senhora paulista quem observa a origem do advogado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Conteúdo: ocupação da Amazônia durante a ditadura militar (Plano de Integração Nacional, Transamazônica).\n\nOs lemas citados resumem a lógica do regime: \"integrar para não entregar\" (medo de perder a soberania) e \"terras sem homens para homens sem terra\". Esta última frase tratava a Amazônia como um vazio demográfico, como se ali não vivessem povos indígenas nem populações tradicionais, como o próprio autor ressalta. O modelo de ocupação, baseado em estradas, colonização e pecuária (\"seguirá as patas do boi\"), desconsiderava os povos nativos, como afirma D.\n\nC contraria o texto: a pecuária extensiva e o desmatamento não eram sustentáveis. A e E falam em integração das populações tradicionais e assimilação de suas culturas, quando o texto diz que elas foram ignoradas. B não decorre do excerto; movimentos de contestação existiram, mas como reação, não como algo que a política tenha facilitado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Conteúdo: arte contemporânea e a pandemia de covid-19. A obra de Banksy foi doada a um hospital britânico em 2020.\n\nNa pintura, um menino brinca com uma boneca de enfermeira de capa, em pose de super-heroína, enquanto os bonecos de super-heróis tradicionais (como Batman e Homem-Aranha) foram deixados no cesto. A \"troca do brinquedo\" simboliza uma mudança de valores: no contexto de medo e incerteza da pandemia, os verdadeiros heróis passam a ser os profissionais de saúde, e não os personagens da ficção. É a redefinição de valores sociais e culturais de que fala E.\n\nA é a mais tentadora, porque os heróis descartados são produtos da cultura de massa, mas a obra não fala de opressão política nem de desprezo, e sim de homenagem. B, C e D não correspondem ao que a imagem mostra.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Conteúdo: Revolução Técnico-Científico-Informacional e suas fases, em especial a chamada Indústria 4.0.\n\nO excerto descreve uma transformação rápida e profunda baseada na integração de tecnologias digitais: internet das coisas, sistemas ciberfísicos, inteligência artificial. Essas tecnologias se aplicam a todos os setores, da agropecuária aos serviços. É exatamente a definição da quarta revolução industrial (Indústria 4.0), que sucede a terceira, marcada pela eletrônica e pela automação.\n\nA desconcentração industrial (A) é a dispersão espacial das fábricas, um processo geográfico e não tecnológico. As cidades globais (C) são nós de comando da economia mundial. A obsolescência programada (D) é a redução proposital da vida útil de produtos. O volvismo (E) é um modelo de organização do trabalho na fábrica, posterior ao fordismo, e não envolve IA nem internet das coisas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Conteúdo: geopolítica da África, terrorismo e instabilidade no Sahel.\n\nO Sahel é a faixa de transição entre o deserto do Saara e as savanas, que atravessa Mauritânia, Mali, Burkina Faso, Níger e Chade. O mapa mostra quatro grupos jihadistas atuando nesses países, entre eles braços do Estado Islâmico e da Al-Qaeda (a JNIM) e o Boko Haram. A região sofre com atentados, ataques a vilarejos, deslocamento de populações e até golpes militares ligados à crise de segurança. Portanto, a presença dos grupos evidencia a violência de extremistas islâmicos.\n\nA não faz sentido: os países não promovem o jihadismo, combatem-no. D erra porque a França atuou contra os jihadistas (Operação Barkhane), não articulada a eles. B e E não têm relação com o mapa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Conteúdo: blocos econômicos e o estágio de integração do Mercosul.\n\nO Mercosul é uma união aduaneira (imperfeita): além de reduzir tarifas entre os membros, adota a Tarifa Externa Comum (TEC), um imposto de importação igual para produtos vindos de fora do bloco. Ao se tornar membro pleno, a Bolívia tem quatro anos para incorporar as normas do bloco, e a principal delas é justamente a TEC, além do livre comércio intrabloco.\n\nAs demais alternativas descrevem estágios que o Mercosul não alcançou. Banco central unificado (B) e moeda comum (C) são características de uma união econômica e monetária, como a zona do euro. Padronização de leis trabalhistas (D) também não é exigida, e ampliar subsídios agrícolas (E) não é norma do bloco.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Conteúdo: urbanização brasileira e problemas de moradia.\n\nEndereços sem número (24,4 milhões, quase 23% do total) costumam estar em áreas de ocupação irregular ou informal: favelas, loteamentos clandestinos, assentamentos precários, ou em áreas rurais pouco estruturadas. A falta de numeração indica ausência de regularização fundiária e de planejamento urbano, e muitas vezes vem acompanhada de falta de infraestrutura (saneamento, coleta, correio). É um sinal de vulnerabilidade habitacional.\n\nAs demais apontam melhorias que o dado não indica: redução da desigualdade (A), menos domicílios precários (B), mais infraestrutura (C) ou sobra de moradias (E). O Brasil, aliás, tem déficit habitacional, não superávit.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Conteúdo: modernização da agricultura brasileira e Revolução Verde.\n\nO gráfico mostra que as vendas de tratores saltam de cerca de 10 mil unidades no fim dos anos 1960 para mais de 60 mil em meados dos anos 1970, e as colheitadeiras aparecem a partir de 1975. Nessa década, a ditadura militar promoveu a modernização conservadora do campo: crédito rural farto e subsidiado (Sistema Nacional de Crédito Rural, de 1965), expansão da fronteira agrícola para o Cerrado, pesquisa da Embrapa (1973) e o pacote da Revolução Verde, com sementes selecionadas, fertilizantes, defensivos e máquinas. Essa política estimulou a mecanização.\n\nA inverte os fatos: o crédito foi ampliado, não revogado. C também inverte, porque a modernização concentrou terras. B confunde consequência com causa; a mecanização expulsou trabalhadores do campo, mas não explica a alta das vendas. E não se sustenta, já que os tratores eram vendidos no mercado interno.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Conteúdo: biomas brasileiros, com identificação pelas características citadas.\n\nAs pistas são claras: \"extensas áreas alagadas\", uma \"planície\" cujos rios transbordam no verão, e fauna e flora típicas, como jacarés, tuiuiús (a ave símbolo do bioma), piranhas, cambarás e aguapés, convivendo com a pecuária extensiva (gado e cavalos). Essa é a descrição do Pantanal, a maior planície inundável do mundo, cujo regime de cheias e vazantes depende das chuvas de verão. A menção à Embrapa remete à unidade Embrapa Pantanal, em Corumbá (MS).\n\nA Amazônia (B) também tem áreas alagáveis (várzeas e igapós), mas o tuiuiú, a planície com pecuária e o termo \"diques marginais\" de uma planície aberta apontam para o Pantanal. Pampa, Mata Atlântica e Cerrado não têm essa dinâmica de inundação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Conteúdo: geologia do petróleo; rochas sedimentares e bacias sedimentares.\n\nAs imagens mostram a sequência: matéria orgânica (plâncton, algas, restos de plantas) se deposita no fundo de uma depressão, em ambiente anóxico, que impede sua decomposição completa. Com o tempo, ela é soterrada por novas camadas de sedimentos (\"sobrecarga\"). O calor e a pressão transformam essa matéria orgânica em óleo e gás na rocha geradora, que depois migram até ficar presos sob uma rocha selante (trapa). Todo o processo ocorre em bacias sedimentares, onde camadas de sedimentos se acumulam por milhões de anos.\n\nA e D erram porque terrenos pré-cambrianos e escudos cristalinos são formados por rochas magmáticas e metamórficas muito antigas, sem acúmulo de matéria orgânica (vida complexa era rara). B confunde o tipo de rocha. E erra porque a formação é lenta e o tectonismo intenso tende a destruir os reservatórios.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Conteúdo: ciclo hidrológico, evapotranspiração e \"rios voadores\".\n\nA ilustração mostra a umidade vinda do oceano chegando ao continente e caindo como chuva sobre a floresta. As árvores devolvem essa água ao ar pela evapotranspiração (as setas que sobem das copas), e ela forma novas nuvens, que chovem mais adiante. A floresta funciona como uma bomba que recicla a umidade e a leva para o interior do continente, os chamados rios voadores, responsáveis por parte das chuvas do Centro-Sul do Brasil.\n\nCom o desmatamento, essa reciclagem diminui: menos evapotranspiração, menos nuvens, menos chuva vento abaixo. O efeito é a redução da disponibilidade de água.\n\nB, C e E apontam o contrário, pois desmatar enfraquece os rios voadores, a evapotranspiração e as chuvas. D também erra: sem a floresta, que resfria o ambiente ao evaporar água, as temperaturas tendem a subir.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Conteúdo: fusos horários. O jeito mais seguro é passar tudo pelo horário de Greenwich (GMT).\n\nBrasília está em GMT -3 (horário oficial em julho de 2024, sem horário de verão). Logo:\n14h em Brasília = 14 + 3 = 17h GMT\n\nCalifórnia (GMT -7):\n17 - 7 = 10h do mesmo dia\n\nSydney (GMT +10):\n17 + 10 = 27h, ou seja, 3h do dia seguinte\n\nO erro típico é usar 14h como se fosse a hora de Greenwich. Isso dá 7h na Califórnia e 0h em Sydney (alternativa C). Outro tropeço é esquecer a virada do dia em Sydney (alternativas D e E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Conteúdo: cartografia, projeções e a ideologia dos mapas.\n\nO novo mapa-múndi do IBGE (2024) coloca o Brasil no centro, com o meridiano de Greenwich deslocado para a esquerda. Os mapas tradicionais, herdeiros da projeção de Mercator (século XVI), centralizam a Europa e o meridiano de Greenwich, uma convenção que reflete a visão de mundo europeia. Ao trazer o Brasil e o Atlântico Sul para o centro, o IBGE questiona essa perspectiva eurocêntrica e propõe outro ponto de vista.\n\nA erra porque a superfície de uma esfera não tem um \"centro\" correto: qualquer centralização é uma escolha. D também erra, pois toda projeção plana gera distorções; mudar o centro não as elimina. B e E não fazem sentido, já que o mapa continua com coordenadas geográficas e elementos cartográficos padronizados (veem-se os paralelos e meridianos).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Conteúdo: pirâmides ecológicas, em especial a pirâmide de números. Cada barra representa a quantidade de indivíduos de um nível trófico, de baixo (produtores) para cima.\n\nMontando a cadeia de baixo para cima:\nárvores: poucos indivíduos (uma árvore sustenta muitos pulgões), barra muito estreita\npulgões: muitíssimos, barra mais larga\npassarinhos: bem menos que os pulgões, barra mais estreita\npiolhos: muitos parasitas em cada passarinho, barra de novo larga\n\nA figura fica com a base minúscula, uma barra larga, uma intermediária e, no topo, outra larga: é a alternativa E. Essa é uma pirâmide \"invertida\" em dois pontos, típica de cadeias com árvores (poucos produtores grandes) e parasitas (muitos consumidores pequenos).\n\nA é a pirâmide clássica, que valeria para uma cadeia com capim na base. D inverte tudo. C erra no topo: piolhos ficariam em menor número que passarinhos, o que não ocorre.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Conteúdo: mutações gênicas do tipo inserção e o código genético.\n\nO código genético é lido em trincas (códons), a partir de um ponto inicial fixo. Inserir dois nucleotídeos, que não formam um múltiplo de três, desloca a matriz de leitura (mutação frameshift): todos os códons depois do ponto de inserção mudam. Com isso, a sequência de aminoácidos da proteína a partir daquele ponto fica diferente da original.\n\nC erra porque a leitura mudou. D e E dificilmente se mantêm, já que estrutura secundária, estrutura tridimensional e função dependem da sequência de aminoácidos. A é a mais tentadora: o deslocamento pode criar um códon de parada precoce e encurtar a proteína, mas isso não é obrigatório; ela também pode ficar maior ou do mesmo tamanho. A única consequência garantida, com a proteína sendo expressa, é a sequência diferente.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Conteúdo: vírus e ciclo reprodutivo dos retrovírus.\n\nRetrovírus, como o HIV, têm RNA como material genético e carregam a enzima transcriptase reversa. Dentro da célula hospedeira, essa enzima usa o RNA viral como molde para sintetizar DNA, ao contrário do fluxo habitual (DNA → RNA). Esse DNA viral é então integrado ao genoma da célula pela enzima integrase e, a partir dele, a célula produz novos RNAs e proteínas virais.\n\nA e B erram porque o HPV não é retrovírus: é um vírus de DNA, sem transcriptase reversa. C atribui à transcriptase reversa a tradução, que é feita pelos ribossomos. E troca a função da integrase, que insere o DNA viral no genoma da célula e não o converte em RNA.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Conteúdo: ciclos de vida com metagênese (cnidários) e partenogênese (abelhas); ploidia das células.\n\nNos cnidários com metagênese, pólipo e medusa são duas fases do mesmo organismo diploide: o pólipo produz medusas por brotamento assexuado, e a medusa produz gametas por meiose. As células somáticas das duas fases são diploides e têm X cromossomos, se X é o número das células diploides da espécie.\n\nNas abelhas, o zangão (macho) se desenvolve por partenogênese, a partir de um óvulo não fecundado. Ele é haploide: suas células somáticas têm X/2 cromossomos.\n\nPólipo: X\nMedusa: X\nZangão: X/2\n\nO erro mais comum é achar que a medusa, por produzir gametas, seria haploide (alternativa D). Ela é diploide e forma os gametas por meiose. Também não há células com 2X nesses organismos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Conteúdo: tropismos vegetais (fototropismo e geotropismo, ou gravitropismo) e a ação das auxinas.\n\nCom o vaso deitado, o caule curvou-se para cima, em direção à luz do sol. Crescer em direção à fonte de luz é fototropismo positivo. Isso acontece porque a auxina se acumula no lado sombreado do caule e estimula o alongamento das células desse lado.\n\nA raiz responde à gravidade crescendo para baixo: geotropismo positivo. Na raiz, a auxina acumulada no lado inferior inibe o alongamento, e a raiz se curva para baixo.\n\nA alternativa B é a mais tentadora porque o caule, que cresce contra a gravidade, tem geotropismo negativo. Mas a pergunta é sobre o geotropismo da raiz, que é positivo. A raiz não aparece na figura (está dentro do vaso), então a resposta vem do comportamento geral das raízes.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Conteúdo: controle hormonal do ciclo menstrual.\n\nLendo o gráfico: na primeira metade do ciclo (fase folicular), o FSH sobe e, em seguida, o estrógeno aumenta até um pico perto do 14º dia. Isso acontece porque o FSH, produzido pela hipófise, estimula o crescimento dos folículos ovarianos, que secretam estrógeno. O pico de estrógeno provoca o pico de LH, que desencadeia a ovulação. Depois, o corpo lúteo produz progesterona (e estrógeno) na segunda metade.\n\nAs outras trocam as origens dos hormônios. A: a progesterona vem do ovário (corpo lúteo), não da hipófise, e só sobe depois do pico de LH. B: a queda final da progesterona se deve à degeneração do corpo lúteo, que ocorre quando a progesterona inibe o LH; não há feedback do FSH. C inverte as glândulas: o LH é da hipófise e a progesterona, do ovário. D: o corpo lúteo só existe após a ovulação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Conteúdo: infecções sexualmente transmissíveis, com agentes e sintomas.\n\nA candidíase vaginal é causada pelo fungo Candida albicans, portanto é uma micose. Provoca coceira, ardência e corrimento espesso e esbranquiçado, com aspecto de \"leite talhado\". A descrição de C está correta. A candidíase nem sempre é transmitida por via sexual, mas é estudada junto às ISTs.\n\nOs erros das outras: A, a tricomoníase é de fato uma protozoose, mas causa corrimento esverdeado e espumoso, não verrugas (que são do HPV). B, a gonorreia é bacteriana, não virose, e não causa verrugas. D, o herpes é virose, mas suas bolhas são localizadas, e \"cancro duro\" é a lesão da sífilis. E, a sífilis é bacteriana, mas o cancro duro é indolor e endurecido, não doloroso e mole.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Conteúdo: análise de heredograma e tipos de herança.\n\nA pista decisiva está na geração I e seus filhos: pai (I-1) e mãe (I-2) são afetados e têm uma filha normal (II-2). Pais afetados com filho normal indicam herança dominante: os dois são heterozigotos (Aa) e a filha recebeu os dois alelos recessivos normais (aa). Isso descarta B e C, já que em herança recessiva pais afetados (aa) só teriam filhos afetados.\n\nFalta decidir entre autossômica e ligada ao X. Se fosse dominante ligada ao X, o pai afetado passaria o X com o alelo para todas as filhas, que seriam todas afetadas. Mas II-2 é normal, então a herança é autossômica dominante.\n\nE também é descartada, porque herança mitocondrial passa só pela mãe, e II-4 e III-1, filhos de mães afetadas, são normais.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Conteúdo: evolução segundo Darwin, seleção natural e seleção sexual.\n\nPara Darwin, existe variação entre os indivíduos, e as características que aumentam o sucesso reprodutivo se tornam mais frequentes nas gerações seguintes. Na seleção sexual, essa vantagem vem da escolha de parceiros: o enunciado diz que patas mais brilhantes indicam saúde e fertilidade, então as fêmeas preferem acasalar com machos de patas mais azuis e vistosas. Esses machos deixam mais descendentes, e a característica se espalha.\n\nA é tentadora, mas fala em \"resposta à necessidade\", uma ideia finalista mais próxima de Lamarck: a característica não surge porque é necessária. D tem o mesmo problema, com mutações \"para\" tornar as patas chamativas. C e E usam conceitos de genética (recombinação, mutação) que Darwin não conhecia, e E ainda sugere que a alimentação geraria mutações.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Conteúdo: osmorregulação em diferentes ambientes.\n\n1. Vacúolo pulsátil (contrátil): presente em protozoários de água doce. O meio é hipotônico, e a água entra continuamente por osmose; o vacúolo a bombeia para fora. Em protozoários marinhos, isotônicos ao meio, ele costuma não existir.\n\n2. Excreção ativa de sais pelas brânquias: típica de peixes ósseos marinhos. O corpo deles é hipotônico em relação ao mar, então perdem água e ganham sais; bebem água do mar e eliminam o excesso de sal pelas brânquias. Peixes de água doce fazem o contrário: absorvem sais pelas brânquias.\n\n3. Néfrons com alças de Henle curtas: reabsorvem pouca água e produzem urina diluída. Servem a mamíferos de ambiente úmido, com água disponível. Mamíferos de deserto têm alças longas, para concentrar a urina.\n\nA combinação é: protozoário dulcícola, osteícte marinho e mamífero de ambiente úmido. C é a mais tentadora, mas associa alça curta ao deserto, ao contrário do que ocorre.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Conteúdo: massa atômica média, mol e constante de Avogadro.\n\nPrimeiro, a massa atômica do magnésio é a média ponderada dos isótopos:\nM = 24 × 0,7899 + 25 × 0,1000 + 26 × 0,1101\nM = 18,958 + 2,500 + 2,863 ≈ 24,32 g/mol\n\nQuantidade de magnésio em 4,86 g:\nn = 4,86 ÷ 24,32 ≈ 0,20 mol\n\nTotal de átomos:\n0,20 × 6,0 × 10²³ = 1,2 × 10²³ átomos\n\nDesses, 10,00% são de magnésio-25:\n0,10 × 1,2 × 10²³ = 1,2 × 10²² átomos\n\nO erro típico é esquecer a abundância e parar no total de átomos (1,2 × 10²³), valor que não aparece nas alternativas, mas que leva quem se distrai a marcar a potência errada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Conteúdo: estequiometria com gases e equação de Clapeyron.\n\nReação do antiácido com o ácido do estômago:\nCaCO₃ + 2 HCl → CaCl₂ + H₂O + CO₂\n\nA proporção é 1 mol de CaCO₃ para 1 mol de CO₂.\n\nMassa molar do CaCO₃ = 40 + 12 + 3 × 16 = 100 g/mol\nn = 0,500 g ÷ 100 g/mol = 0,005 mol de CaCO₃, logo 0,005 mol de CO₂\n\nTemperatura em kelvin: T = 37 + 273 = 310 K\n\nEquação dos gases, P · V = n · R · T:\n1,0 · V = 0,005 · 0,08 · 310\nV = 0,124 L ≈ 120 mL\n\nErros comuns: usar 37 °C sem converter para kelvin, o que daria cerca de 15 mL, ou esquecer de converter 500 mg em 0,5 g, o que multiplica o resultado por mil. Os 140 mL da alternativa E não saem dos dados com R = 0,08.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Conteúdo: reações nucleares (conservação de número de massa e número atômico) e ligação iônica.\n\nNa equação nuclear, a soma dos números de massa e a soma dos números atômicos se conservam:\nmassa: 4 + A = 211 + 2 × 1, então A = 209\nnúmero atômico: 2 + Z = 85 + 2 × 0, então Z = 83\n\nO elemento de número atômico 83 é o bismuto (²⁰⁹Bi). O polônio tem Z = 84, e o frâncio, Z = 87.\n\nFórmula do composto: o astato é halogênio (família 17), com 7 elétrons de valência; recebe 1 elétron e forma o ânion At⁻. Os metais alcalinos (família 1) formam cátions M⁺. A combinação neutra é 1 : 1, ou seja, MAt, como NaCl ou KI.\n\nMAt₂ seria a fórmula para um metal de carga 2+ (alcalino-terroso), e M₂At exigiria um ânion de carga 2−.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Conteúdo: deslocamento de equilíbrio pelo princípio de Le Chatelier, efeito da pressão.\n\nDo equilíbrio I para o II, a temperatura é a mesma (125 °C) e o volume cai de 10 L para 2 L, então a pressão sobe de 1 para 5 atm. O aumento de pressão desloca o equilíbrio para o lado com menor quantidade de mols de gás.\n\nContando mols gasosos (reagentes → produtos):\n1: 1 + 1 = 2 → 1 + 3 = 4 (desloca para os reagentes)\n2: 2 + 6 = 8 → 2 + 2 + 3 = 7 (desloca para os produtos)\n3: 1 + 3 = 4 → 2 (desloca para os produtos)\n4: 1 + 1 = 2 → 1 + 1 = 2 (não se desloca)\n\nAumentam a formação de produtos os experimentos 2 e 3.\n\nA armadilha está no experimento 2: com muitos coeficientes, é fácil errar a soma. Confira com calma, 8 contra 7. Na reação 4 a pressão não interfere, porque o número de mols é igual dos dois lados.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Conteúdo: termoquímica e Lei de Hess.\n\nQueremos a reação de formação do DyCl₃ sólido a partir das substâncias simples:\nDy(s) + 3/2 Cl₂(g) → DyCl₃(s)\n\nCombinando as equações dadas:\nmantém a 1ª: Dy(s) + 3 HCl(aq) → DyCl₃(aq) + 3/2 H₂(g)   ΔH = −700 kJ\nmultiplica a 2ª por 3: 3/2 H₂(g) + 3/2 Cl₂(g) → 3 HCl(aq)   ΔH = 3 × (−160) = −480 kJ\ninverte a 3ª: DyCl₃(aq) → DyCl₃(s)   ΔH = +180 kJ\n\nSomando, cancelam-se HCl(aq), H₂(g) e DyCl₃(aq), e sobra a equação desejada:\nΔHf = −700 − 480 + 180 = −1 000 kJ/mol\n\nErros típicos: não inverter a dissolução (−700 − 480 − 180 = −1 360, alternativa E) ou esquecer de multiplicar a 2ª equação por 3 (−700 − 160 + 180 = −680, alternativa D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Geometria molecular pela teoria da repulsão dos pares eletrônicos (VSEPR): conta-se quantas regiões de elétrons cercam o átomo central.\n\nNa ureia, o carbono faz uma dupla com o O e duas simples com os N: são três regiões de elétrons e nenhum par livre no carbono, o que dá geometria **plana trigonal** (ângulos de cerca de 120°).\n\nNo CO₂ (O=C=O), o carbono tem duas regiões (duas duplas) e nenhum par livre: geometria **linear** (180°).\n\nA alternativa tentadora \"angular\" serve para a água, em que o oxigênio central tem dois pares livres; no CO₂ não há par livre no carbono.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Cinética química: o catalisador (a enzima urease) aumenta a rapidez da reação sem alterar concentração nem temperatura, porque oferece um caminho de menor energia de ativação.\n\nPara isolar o efeito da enzima, compare experimentos com as mesmas condições. Os experimentos 3 e 4 têm a mesma concentração (2,5 mol/L) e a mesma temperatura (20 °C), mas o 3 leva 12 minutos e o 4 apenas 2 minutos. Como nada mais mudou, só a enzima explica essa diferença.\n\nO experimento 2 também é rápido (3 min), mas ali a concentração é maior e a temperatura é de 60 °C, fatores que já explicam a aceleração quando comparado ao experimento 1.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Eletrólise ígnea e estequiometria.\n\nCada Al₂O₃ fornece 3 íons O²⁻. No polo positivo (ânodo): 2 O²⁻ → O₂ + 4e⁻, ou seja, 3 mol de O²⁻ geram 1,5 mol de O₂.\n\nCom a grafite: C + O₂ → CO₂, na proporção 1 : 1. Logo:\n1 mol Al₂O₃ → 3 mol O²⁻ → 1,5 mol O₂ → 1,5 mol CO₂\n\nNo polo negativo (cátodo), o Al³⁺ recebe elétrons (Al³⁺ + 3e⁻ → Al): é uma **redução**. Lembre: no cátodo sempre ocorre redução, e na eletrólise o cátodo é o polo negativo.\n\nQuem marca 3 confunde mol de O²⁻ com mol de CO₂; cada O₂ (e, portanto, cada CO₂) usa dois íons óxido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Comportamento ácido-base de aminas: uma base de Brønsted-Lowry recebe H⁺.\n\nA morfina age como base fraca: Morfina + H₂O ⇌ MorfinaH⁺ + OH⁻. Quem aceita o próton é o átomo com par de elétrons livre mais disponível, que é o **nitrogênio da amina terciária** (seta 5). Ao receber o H⁺, ele fica com carga positiva (íon amônio).\n\nOs oxigênios das hidroxilas (setas 1 e 3) e do éter (seta 2) têm pares livres, mas são bases muito mais fracas que a amina; o hidrogênio da seta 4 não tem par de elétrons para receber H⁺. A hidroxila fenólica (seta 1), aliás, tende a doar H⁺, não a receber.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Equilíbrio de base fraca e pH.\n\nPara base fraca pouco ionizada: [OH⁻]² ≈ Kb · [base]\n[OH⁻]² = 10⁻⁸ · 10⁻² = 10⁻¹⁰\n[OH⁻] = 10⁻⁵ mol/L\npOH = 5\n\nA 20 °C o enunciado não dá Kw; usando a aproximação usual pH + pOH = 14:\npH = 14 − 5 = 9\n\nA alternativa 5 é o pOH, não o pH; e pH abaixo de 7 seria impossível para uma solução de base.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Movimento uniforme: distância = velocidade × tempo.\n\nCada etapa dura 3 minutos = 180 s. A velocidade nessa etapa foi:\nv = 396 m ÷ 180 s = 2,20 m/s\n\nNa tabela, 2,20 m/s corresponde exatamente à etapa 5; nenhuma outra etapa dá 396 m em 3 minutos.\n\nCuidado com a unidade: usar 3 em vez de 180 s daria 132 m/s, valor absurdo para uma esteira.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Terceira e segunda leis de Newton numa colisão.\n\nAs forças que X exerce em Y e que Y exerce em X formam um par ação-reação: têm a mesma intensidade em cada instante, logo também a mesma intensidade média. Então Fx = Fy, o que elimina A e E.\n\nComo Fx = Fy, basta comparar os denominadores: dividindo a mesma força por uma massa maior (mx > my), o quociente fica menor. Assim:\nFx/mx < Fy/my\n\nPelo mesmo motivo, Fx · mx > Fy · my, o que elimina B; e C só valeria se as massas fossem iguais.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Teorema do impulso: o impulso da força resultante é igual à variação da quantidade de movimento.\n\nI = ΔQ = m · v − m · 0\nm = 72 t = 72 000 kg\nI = 72 000 · 80 = 5 760 000 N·s ≈ 5,8 × 10⁶ N·s\n\nO erro comum é esquecer de converter toneladas para quilogramas (72 · 80 = 5 760), o que não leva a nenhuma alternativa coerente.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Gravitação universal: a aceleração da gravidade na superfície de um planeta é\ng = G · M ÷ R²\n\nSe Urano e Terra têm g próximos, então M/R² tem valor próximo nos dois, ou seja, as **razões entre massa e raio ao quadrado** são próximas.\n\nIsso não exige massas parecidas nem diâmetros parecidos: Urano tem massa cerca de 14 vezes maior que a da Terra e raio cerca de 4 vezes maior, e 14/16 fica perto de 1. O produto massa × raio² (alternativa C) não aparece na expressão de g.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Dilatação térmica do recipiente: a proveta se expande e passa a conter mais que os 500 mL marcados.\n\nCoeficiente volumétrico do vidro: γ = 3α = 3 · 3,3 × 10⁻⁶ = 9,9 × 10⁻⁶ °C⁻¹\nΔT = 25 − 20 = 5 °C\nΔV = V₀ · γ · ΔT = 500 · 9,9 × 10⁻⁶ · 5 ≈ 0,0248 mL ≈ 2,5 × 10⁻² mL\n\nO principal cuidado é usar o coeficiente volumétrico (3α), e não o linear: com α sozinho a conta daria cerca de 0,8 × 10⁻² mL, valor fora das opções.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Óptica da visão: lente de correção da presbiopia (lente convergente usada como lupa).\n\nA lente deve formar, de um objeto a 25 cm, uma imagem virtual a 50 cm (o ponto próximo do olho). Pela equação de Gauss, com imagem virtual negativa e distâncias em metros:\n1/f = 1/p + 1/p'\n1/f = 1/0,25 − 1/0,50 = 4 − 2 = 2 m⁻¹\n\nVergência V = 1/f = 2,0 di (positiva, como deve ser numa lente convergente).\n\nQuem soma os dois termos (4 + 2 = 6) esquece que a imagem é virtual; o sinal negativo é essencial.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Equação fundamental da ondulatória combinada com leitura de gráfico.\n\nv = λ · f = 1,84 · 200 = 368 m/s\n\nNo gráfico, a velocidade vale cerca de 332 m/s a 0 °C e cerca de 380 m/s a 80 °C, crescendo uns 0,6 m/s por grau. O valor 368 m/s fica a cerca de 36 m/s acima de 332, isto é, 36 ÷ 0,6 ≈ 60 °C. Conferindo direto na reta: em 60 °C a linha passa perto de 367–368 m/s.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Campo e potencial elétricos de cargas puntiformes.\n\nEm P, entre as cargas, o campo de Q₁ e o de Q₂ só podem se anular se tiverem sentidos opostos. Entre duas cargas de mesmo sinal os campos apontam em sentidos contrários (ambos \"saindo\" se positivas, ambos \"entrando\" se negativas); entre cargas de sinais opostos eles apontariam no mesmo sentido e se somariam. Logo, as cargas têm o **mesmo sinal**.\n\nO potencial, porém, é grandeza escalar: V = kQ₁/d₁ + kQ₂/d₂. Com Q₁ e Q₂ de mesmo sinal, as duas parcelas têm o mesmo sinal e não se cancelam, então V ≠ 0 (positivo se as cargas forem positivas, negativo se negativas).\n\nCampo nulo não implica potencial nulo: esse é o erro que leva à alternativa E.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Circuito série com gerador real: a fem se divide entre a resistência interna, o resistor e o led.\n\nε = r·i + R·i + U_L\n3,0 = r · 0,060 + 10 · 0,060 + 2,25\n3,0 = 0,060·r + 0,60 + 2,25\n0,060·r = 0,15\nr = 2,5 Ω\n\nErro comum: esquecer de converter 60 mA para 0,060 A.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Modelo de Bohr para o hidrogênio: o elétron só absorve a energia exata para passar de um nível a outro.\n\nRemover o elétron (ionização) é levá-lo de n = 1 (−13,6 eV) a n = ∞ (0 eV):\nΔE = 0 − (−13,6) = 13,6 eV\n\nA menor excitação é a passagem de n = 1 para n = 2 (primeiro estado excitado):\nΔE = −3,4 − (−13,6) = 10,2 eV\n\nA alternativa B usa 3,4 eV, que é o valor do nível 2, não a diferença entre os níveis.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Porcentagem: o melhor cenário para X é ganhar todos os votos que ainda faltam apurar.\n\nTome o total de votos como 100%. Já foram apurados 80%, e X tem 35% deles:\n0,35 · 80% = 28% do total\n\nFaltam 20% do total. Se todos forem para X:\n28% + 20% = 48%\n\nO erro tentador é somar 35% + 20% = 55% (ou algo perto de 54%), tratando os 35% como se fossem do total, quando são só dos 80% já apurados.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Análise combinatória, princípio multiplicativo com restrições.\n\nComece pelos lugares com restrição:\nMotorista: só um dos 3 adultos → 3 maneiras.\nÚltima fileira (2 lugares, só crianças): arranjo de 4 crianças tomadas 2 a 2 → 4 · 3 = 12 maneiras.\n\nSobram 4 pessoas (2 adultos e 2 crianças) para 4 lugares livres (o lado do passageiro na frente e os 3 do meio), sem restrição:\n4! = 24 maneiras.\n\nTotal: 3 · 12 · 24 = 864.\n\nQuem usa combinação (C(4,2) = 6) na última fileira, ignorando que os dois lugares são distintos, chega à metade: 432, que não está entre as opções.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Probabilidade condicional: P(A | B) = P(A ∩ B) ÷ P(B).\n\nSejam A = \"foi aprovado\" e C = \"fez cursinho\":\nP(A) = 0,20 e P(C) = 0,40\nP(A | C) = 3/8, então P(A ∩ C) = 3/8 · 0,40 = 0,15\n\nA pergunta inverte a condição: entre os aprovados, qual fração fez cursinho?\nP(C | A) = P(A ∩ C) ÷ P(A) = 0,15 ÷ 0,20 = 3/4\n\nO erro clássico é confundir P(C | A) com P(A | C), respondendo 3/8 ou usando 0,40 no denominador.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Função periódica: f(x + 6) = f(x), então basta reduzir o argumento ao intervalo de um período.\n\nPelo gráfico, no intervalo [0, 6] a função sobe em linha reta de f(0) = 0 até f(3) = 3 e desce até f(6) = 0. Logo, f(x) = x em [0, 3] e f(x) = 6 − x em [3, 6].\n\n25 = 4 · 6 + 1 → f(25) = f(1) = 1\n47 = 7 · 6 + 5 → f(47) = f(5) = 6 − 5 = 1\n\nf(25) + f(47) = 1 + 1 = 2\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Geometria analítica: área de polígono a partir dos vértices.\n\nA região verde fica no 1º quadrante, abaixo das duas retas. Vértices:\n(0, 0), origem;\n(0, 3), onde r corta o eixo y;\n(2, 0), onde s corta o eixo x (0 = −2x + 4);\nintersecção de r e s: −x + 3 = −2x + 4 → x = 1, y = 2 → (1, 2).\n\nDivida o quadrilátero pela diagonal da origem até (1, 2):\ntriângulo (0,0), (0,3), (1,2): base 3 no eixo y, altura 1 → área 3/2\ntriângulo (0,0), (2,0), (1,2): base 2 no eixo x, altura 2 → área 2\nTotal: 3/2 + 2 = 7/2\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Juros compostos e logaritmos.\n\nCom taxa i, após 14 anos: 1000 · (1 + i)¹⁴ = 3000, logo (1 + i)¹⁴ = 3.\n\nCom depósito de 2000, queremos 2000 · (1 + i)ⁿ > 3000, isto é, (1 + i)ⁿ > 1,5.\n\nEscrevendo (1 + i) = 3^(1/14): 3^(n/14) > 3/2\nn/14 > log₃(3/2) = 1 − log₃ 2 = 1 − 0,6 = 0,4\nn > 14 · 0,4 = 5,6\n\nO menor número inteiro de anos é 6.\n\nAtenção: a tentação é achar que dobrar o depósito \"corta o tempo pela metade\" (7 anos); no regime composto o tempo depende do logaritmo da razão, não da razão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Função trigonométrica e inequação com seno.\n\nT(x) ≥ 22 → 8 · sen(πx/12 − π) + 18 ≥ 22 → sen(πx/12 − π) ≥ 1/2\n\nChamando θ = πx/12 − π: para x em [0, 24[, θ vai de −π a π. Nesse intervalo, sen θ ≥ 1/2 ocorre para π/6 ≤ θ ≤ 5π/6.\n\nVoltando para x:\nπx/12 − π = π/6 → x = 14\nπx/12 − π = 5π/6 → x = 22\n\nConferência: T(14) = 8 · sen(π/6) + 18 = 22 e T(18) = 26 (máximo). A temperatura fica em 22 °C ou mais das 14h00 às 22h00.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Semelhança de triângulos (caso ângulo-ângulo).\n\nOs triângulos RPQ e RQS têm o ângulo R em comum e o ângulo P de um igual ao ângulo Q do outro; logo são semelhantes, com a correspondência R↔R, P↔Q, Q↔S. Daí:\nRQ/RP = RS/RQ → RQ² = RP · RS\n\nCom PR = 12 e PS/SR = 5/4, dividimos 12 em 9 partes: PS = 5 · 12/9 = 20/3 e SR = 4 · 12/9 = 16/3.\n\nRQ² = 12 · 16/3 = 64 → QR = 8 cm\n\nO erro típico é montar a proporção com a correspondência errada de vértices, por exemplo usando PS no lugar de SR.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Comprimento da circunferência e divisão com resto.\n\nUma volta: C = 2πr = 2 · 3,14 · 50 = 314 m\nDistância total: 84 km = 84 000 m\nNúmero de voltas: 84 000 ÷ 314 ≈ 267,5\n\nEle completou 267 voltas inteiras (a 268ª ficou pela metade). Conferindo: 267 · 314 = 83 838 m ≤ 84 000 m e 268 · 314 = 84 152 m > 84 000 m.\n\nCuidado para não usar o raio como se fosse o diâmetro (πr = 157 m), o que dobraria o número de voltas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Pirâmide regular inscrita no prisma: a altura da pirâmide é a altura da caixa (80 cm) e a base é o quadrado de 40 cm.\n\nA área lateral é formada por 4 triângulos isósceles de base 40 cm e altura igual ao apótema da pirâmide (g). O apótema é a hipotenusa do triângulo retângulo formado pela altura (80) e pelo apótema da base (metade do lado, 20):\ng² = 80² + 20² = 6400 + 400 = 6800\ng = √6800 = 20√17 cm\n\nÁrea lateral = 4 · (40 · 20√17 ÷ 2) = 1600√17 cm²\n\nO erro comum é usar a aresta lateral (que vai até o vértice da base) no lugar do apótema.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

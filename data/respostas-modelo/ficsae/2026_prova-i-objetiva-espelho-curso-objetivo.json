@@ -1,0 +1,257 @@
+{
+ "indice": "data/questoes/ficsae/2026_prova-i-objetiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Figuras de linguagem. O comentário final atribui às árvores um estado psicológico humano, a ansiedade: isso é **personificação** (prosopopeia). Ao mesmo tempo, o \"até\" leva a ideia ao exagero: a propaganda de viagens seria tão intensa que afetaria seres que, por natureza, jamais saem do lugar. Esse exagero intencional é a **hipérbole**.\n\nO humor nasce justamente do cruzamento das duas: a árvore \"pensa\" o mesmo que a moça e reclama de nunca sair dali.\n\nNão há gradação (sequência crescente ou decrescente de termos) nem eufemismo (suavização de algo desagradável) no comentário, o que elimina as demais alternativas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Leitura de tirinha. No primeiro quadro, a moça está deitada na natureza, mas olhando o celular, bombardeada por anúncios (\"Viaje pelo mundo\", \"Conheça novos lugares\", \"A vida está passando\"). No segundo, ela sai correndo, inquieta, e até a árvore lamenta \"nunca sair daqui\".\n\nA crítica, portanto, recai sobre o excesso de ofertas e estímulos do ambiente digital, que gera ansiedade por não se conseguir viver tudo o que é anunciado — o famoso medo de estar perdendo algo.\n\nA alternativa B é tentadora, mas a tirinha não mostra a natureza sendo transformada em marketing; ela mostra a propaganda tirando a personagem da tranquilidade. Também não há foco em exposição nas redes (C) nem em reconexão espiritual (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Interpretação de texto (Ailton Krenak). Logo na abertura, o autor define: o fim do mundo \"talvez seja uma breve interrupção de um estado de prazer extasiante que a gente não quer perder\". No fim do texto, retoma a ideia: o que realmente gostamos \"é gozar, viver no prazer aqui na Terra\".\n\nAssim, o \"fim do mundo\" é representado como a ruptura com um modo de vida pautado pelo prazer e pelo conforto que não queremos abandonar — daí o medo da \"queda\".\n\nAs demais alternativas trazem elementos citados no texto (tradições, revoluções de massa, ciência e técnica), mas nenhum deles é a definição que o autor dá ao \"fim do mundo\"; catástrofes naturais (C) nem aparecem.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Interpretação de texto. No primeiro parágrafo, Krenak lembra que as tradições antigas chamam a Terra de Mãe (Pacha Mama, Gaia) e a associam a \"graça, beleza e fartura\", com a imagem da cornucópia, símbolo de abundância. Em seguida, contrapõe: a imagem do pai \"rompe essa paisagem\" e \"é sempre para depredar, detonar e dominar\".\n\nA oposição simbólica, portanto, serve para associar o feminino à abundância e o masculino à força destrutiva.\n\nAs outras alternativas invertem o sentido: o texto não exalta o papel do homem (B), não critica a ausência de figuras masculinas (C), nem defende o culto ao pai (D) ou o progresso (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Interpretação de analogia. No último parágrafo, o autor diz que \"já caímos\" várias vezes e que talvez seja preciso descobrir um paraquedas: \"Não eliminar a queda, mas inventar e fabricar milhares de paraquedas coloridos, divertidos, inclusive prazerosos\".\n\nO paraquedas não impede a queda; ele amortece o impacto. A queda é tratada como algo que vai acontecer, e a proposta é tornar essa experiência menos traumática, até prazerosa.\n\nPor isso, as alternativas que falam em evitar (A), superar sem se aproximar (B) ou eliminar a queda (D) contrariam a frase \"não eliminar a queda\". A alternativa C fala em \"aparato eficiente\", justamente a lógica técnica que o autor recusa no fim do texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Sintaxe: anacoluto. Ocorre quando o enunciado começa com um termo que fica \"solto\", sem função sintática na oração que vem depois.\n\nEm B, o trecho começa com \"O desconforto que a ciência moderna, as tecnologias, as movimentações... resultaram\", mas a frase muda de rumo e o sujeito passa a ser \"tudo isso\" (\"tudo isso não ficou localizado\"). O termo inicial \"O desconforto\" fica sem função na oração principal: é o anacoluto típico da linguagem falada (lembre que o texto vem de palestras).\n\nNas outras alternativas a construção sintática se mantém coerente do começo ao fim: em A, C, D e E todos os termos têm função clara na oração em que aparecem.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Classes de palavras: locução adjetiva. Uma locução tem valor adjetivo quando caracteriza um substantivo e pode ser trocada por um adjetivo.\n\nEm C, \"a imagem do pai\" equivale a \"a imagem paterna\": \"do pai\" qualifica o substantivo \"imagem\", logo tem valor adjetivo.\n\nNas demais: \"de fazer\" (A) completa \"tenha\", com valor verbal; \"do lado de lá\" (B) indica lugar, valor adverbial; \"do que\" (D) introduz o complemento de \"medo\" (oração substantiva); \"de despistar\" (E) completa o verbo \"pare\", também com valor verbal.\n\nO cuidado é com B: apesar da preposição \"de\", a expressão localiza a ação, não qualifica um nome.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Interpretação de poema (Mia Couto). O título \"Desencontro\" já indica a ausência. O eu lírico fala \"da minha solidão\", ama \"sem saberes\", ama \"de te procurar\" e \"de te inventar\", ou seja, ama alguém ausente, que ele precisa imaginar.\n\nNa última estrofe, ele tenta se acostumar à \"intermitente ausência\" e ensina às timbilas \"a espera do silêncio\". O sentimento é solitário, vivido em silêncio e moldado pela falta da pessoa amada.\n\nNão há desespero nem aceitação de ausência definitiva (A): a ausência é \"intermitente\". Também não há morte (B), conflito entre euforia e ressentimento (C) nem negação do desejo (D) — o eu lírico afirma repetidamente \"eu te amei\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Formação de palavras: derivação imprópria (mudança de classe sem mudar a forma).\n\nEm D, \"o teu imperceptível crescer\", o verbo \"crescer\" vem precedido de artigo, pronome possessivo e adjetivo: funciona como substantivo. É derivação imprópria.\n\nA pegadinha está em B: em \"sem o saber\", o \"o\" não é artigo, é pronome oblíquo (\"sem saber isso\"); \"saber\" continua sendo verbo. Em C, \"espera\" vem do verbo esperar pela perda da terminação: derivação regressiva, não imprópria. Em E, \"contrária\" é adjetivo usado como adjetivo. Em A, \"avesso\" já está registrado como substantivo no uso comum, sem a conversão expressiva que o poema faz com \"crescer\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Literatura: Romantismo. A citação de Obermann (\"Eu sinto, eu existo para me consumir em desejos indomáveis... para viver aterrado com o seu voluptuoso engano\") resume a estética ultrarromântica: subjetividade extrema, sentimento acima da razão, desejo impossível, solidão e evasão para um mundo fantástico.\n\nO poema de Mia Couto se aproxima disso: amor por alguém ausente e inventado (\"amando de te inventar\"), solidão, noite, silêncio e espera.\n\nO Realismo-Naturalismo (A) é objetivo e científico; o Parnasianismo (C) busca a forma perfeita e a impessoalidade; o Dadaísmo (D) é a vanguarda do nonsense e da destruição da lógica; \"pós-modernista\" (E) não corresponde à estética descrita na citação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Ideia principal (inglês). O texto apresenta a Biosphere 2, no deserto do Arizona, e o experimento do início dos anos 1990: oito pessoas isoladas por dois anos num sistema fechado. Depois, mostra os problemas (\"the experiment did not go well\": queda do oxigênio, aumento de CO₂, morte de animais, perda de peso) e termina dizendo que, hoje, especialistas veem no projeto \"valuable lessons\" sobre ecologia, atmosfera e a insubstituibilidade do nosso planeta.\n\nOu seja: o experimento, com suas falhas e as lições que deixou.\n\nAs outras alternativas pegam só uma parte do texto: a estrutura física (E), o esforço de sobrevivência (D), os perigos de reproduzir a Terra (C). Não há propriamente uma controvérsia entre especialistas (B): há uma mudança de avaliação ao longo do tempo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Vocabulário em contexto (inglês). O parágrafo descreve, dentro de um complexo de vidro de 1,2 hectare, uma floresta tropical com cachoeira de 7,6 metros, uma savana e um deserto de neblina — os grandes ambientes do planeta reunidos num espaço pequeno. Por isso o texto diz que é \"seemingly a little capsule of Earth\" e que o nome Biosphere 2 vem do nosso planeta, a Biosphere 1.\n\n\"A little capsule of Earth\" significa, portanto, uma Terra em miniatura, uma reprodução reduzida do planeta.\n\nA alternativa C é a leitura literal tentadora (\"um pedaço da Terra dentro de uma cápsula\"), mas o sentido é figurado: não se trata de um pedaço real do planeta, e sim de uma réplica. Remédio (D) e nave espacial (E) não têm relação com o trecho.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Referência textual (inglês). \"Scenery\" é o cenário, a paisagem visual. A frase \"The scenery forms the perfect background for the futuristic experiment\" retoma o que foi descrito no parágrafo anterior: uma estrutura que \"parece saída das páginas de ficção científica\", um complexo de pirâmides e torres de vidro com biomas artificiais.\n\nÉ esse visual futurista, a arquitetura inovadora do complexo, que combina com um experimento futurista.\n\nA alternativa B é a armadilha: o deserto do Arizona também é mencionado, mas é apenas a localização; o que dá o clima de \"science fiction\" é a construção. As alternativas D e E falam da experiência de viver lá, que não é \"cenário\", e A fala em perfeição da construção, ideia ausente do texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Compreensão de detalhe (inglês). O terceiro parágrafo diz que, para a vida humana, o experimento não foi bem: \"Oxygen levels fell significantly, making the inhabitants sick, while carbon dioxide (CO₂) levels increased\". Em seguida, cita a morte de muitos animais, inclusive polinizadores, e a perda de peso dos participantes.\n\nO desequilíbrio ecológico da atmosfera foi o aumento do CO₂, acompanhado da queda do oxigênio. Entre as alternativas, a que nomeia esse desequilíbrio é E, \"impact of expanded carbon dioxide levels\".\n\nC fala em \"oscillation\" (oscilação) do oxigênio, mas o texto diz que ele caiu, não que oscilou. A não procede: não houve \"incidente inesperado\" com mortes humanas. B e D tratam de consequências (dieta restrita, morte de animais), não da causa que comprometeu a habitabilidade.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "A alternativa C também se apoia no texto (o oxigênio caiu e deixou os moradores doentes); E é a melhor opção porque C fala em oscilação, não em queda."
+  },
+  "0:15": {
+   "resposta": "Gênero informativo (inglês). O guia descreve a visita autoguiada por aplicativo e lista os requisitos físicos: passeio a pé de 75 minutos (\"a 75-minute walking tour\"), parte interna e externa, cerca de 100 degraus, percurso de 1 milha e calor e umidade de até 37 °C nos biomas.\n\nDas alternativas, a única informação de fato apresentada é quanto tempo dura a visita inteira: 75 minutos.\n\nO guia cita o uso do próprio smartphone e de fones, mas não ensina a usar o aplicativo (A) nem detalha tecnologias disponíveis (B). Não lista lugares históricos (C) nem explica como entrar nos prédios (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "História Antiga: Cartago e o comércio no Mediterrâneo. Cartago, fundada por fenícios no norte da África, foi uma potência marítima e mercantil. O excerto mostra dois pilares dessa importância: o controle naval das rotas (colônias que só negociavam com Cartago, navios estrangeiros afundados pela \"forte marinha cartaginesa\") e a expansão do comércio para dentro da África (contatos com povos do Sudão, comércio do ouro, possível ligação com a África Subsaariana).\n\nIsso corresponde ao poderio mercantil naval e à ramificação comercial no Mediterrâneo e no continente africano.\n\nA exagera ao falar em monopólio sobre \"todas as possessões\" subsaarianas e em domínio territorial. C contraria o texto, que mostra Cartago barrando gregos e romanos, não comerciando com eles sem interrupção. D e E citam agricultura, Índia e minérios, ausentes do excerto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Formação dos Estados nacionais modernos e absolutismo. O excerto descreve a \"concentração de poder à volta de um rei\", processo conflituoso contra os senhores feudais, que se valiam da fragmentação política. É a passagem da descentralização feudal para as monarquias centralizadas da Idade Moderna, com corte, burocracia, exército permanente, tributos e leis gerais impostas pelo rei a todo o território.\n\nDaí a centralização monárquica e a ordenação jurídica das sociedades.\n\nB é anacrônica: democracia e direitos dos cidadãos vêm com as revoluções liberais, que se opuseram ao absolutismo. C inverte o sentido: a concentração de poder marca o fim do período medieval, não o começo. D confunde com a Idade Contemporânea. E erra porque as cortes preservaram os valores aristocráticos (etiqueta) e o Renascimento retomou a cultura clássica.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Escravidão no Brasil e resistência quilombola. O excerto afirma que os quilombos se formaram \"dentro da sociedade escravista\", com laços econômicos criados nesse sistema, que nenhum deles expressou \"uma explícita ideologia antiescravista\", mas que suas ações desestabilizaram a escravidão. Viver e trabalhar como livre \"diante dos olhos dos proprietários\" já era uma forma de rejeitar a escravidão.\n\nOu seja, era uma reação nascida dentro da lógica escravista que mostrava, na prática, uma alternativa ao trabalho compulsório.\n\nC e E atribuem aos quilombos um projeto político explícito (derrubar a monarquia, ideais republicanos franceses), o que o texto nega. A idealiza a organização interna, sem apoio no excerto. D é falsa duas vezes: os quilombos não eram aceitos pelo sistema e não existiu \"escravidão pacífica\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Transformações sociais na América Latina no pós-guerra (Hobsbawm). O excerto mostra que a porcentagem de camponeses caiu pela metade ou em até dois terços em poucas décadas e que, em 1970, eles já eram minoria em quase todos os países da região.\n\nEsse processo se explica pelo êxodo rural ligado à urbanização e à industrialização, somado à modernização agrícola (mecanização, concentração fundiária), que reduziu a necessidade de mão de obra no campo.\n\nD é a alternativa mais próxima, mas o deslocamento foi sobretudo interno, do campo para as cidades, não emigração para a Europa. A atribui a queda à mortalidade, sem base no texto. B contradiz o excerto, que mostra justamente a redução dos camponeses. E fala em carência de mão de obra especializada, o que o texto não discute.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Governo João Goulart (1961-1964) e charge política. Na charge, Jango aparece montado ao mesmo tempo em dois cavalos que correm em direções opostas: um com a palavra \"Direita\", outro com \"Esquerda\". Ele está suado e com expressão aflita, tentando não cair enquanto os animais se separam.\n\nA imagem representa um presidente pressionado pelos dois polos políticos e sem conseguir escolher um lado, ou seja, indeciso. O contexto é o de 1962, com o parlamentarismo, as reformas de base defendidas pela esquerda e a forte oposição conservadora.\n\nD é a armadilha: Jango de fato tentou conciliar, mas a charge não mostra controle; mostra desequilíbrio. B erra porque ele não aparece como radical. A e C não têm relação com a imagem.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Colonialismo na Austrália e povos originários. A \"geração roubada\" foi a política de retirar à força crianças aborígenes de suas famílias, entre 1910 e a década de 1970, entregando-as a instituições ou famílias brancas \"com fins de assimilação\". O objetivo era apagar a identidade aborígene: língua, laços familiares, crenças e costumes.\n\nA ação, portanto, comprometeu aspectos socioculturais dos povos originários.\n\nA erra porque os aborígenes não são colonizadores, e o foco do texto é a separação familiar, não a perda de território. B e C invertem a lógica: não houve valorização dos saberes aborígenes nem tomada de poder pelos nativos. E não tem base no excerto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Geografia econômica: capitalismo e indústria alimentícia. As manchetes tratam de produtos que \"parecem, mas não são\": bebidas lácteas que imitam leite, azeite adulterado e \"café fake\". Em todos os casos, a indústria usa a tecnologia para substituir ingredientes caros por outros mais baratos, mantendo a aparência do produto original.\n\nNo modelo capitalista, a motivação é reduzir custos e ampliar o lucro, mesmo à custa da qualidade e com possíveis prejuízos à saúde e ao consumidor.\n\nB, C e D falam em trustes, holdings e cartéis, formas de concentração empresarial que as manchetes não mencionam: o problema descrito é a composição dos produtos. E erra porque a oferta de produtos não diminui; ao contrário, surgem novas versões mais baratas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Geologia: tectônica de placas. A brincadeira joga com \"shifty\" (traiçoeiro, que se move muito): as placas tectônicas não param quietas. Isso ocorre porque a litosfera é dividida em placas que \"flutuam\" sobre o manto. O calor do interior da Terra gera correntes de convecção no material do manto: o material quente sobe, esfria, desce e arrasta as placas, provocando afastamento, colisão e deslizamento entre elas.\n\nA inverte a relação: as cordilheiras (barreiras orográficas) são consequência do tectonismo, não causa. B confunde com o efeito da rotação sobre ventos e correntes. C trata do intemperismo, que é agente externo e modela o relevo, mas não move placas. E atribui o movimento à ação humana, sem fundamento.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Geopolítica ambiental: as COPs do clima. A COP reúne os países signatários da Convenção do Clima da ONU para negociar metas como limitar o aquecimento a 1,5 °C e zerar as emissões líquidas até 2050. A dificuldade em cumprir essas metas vem dos interesses opostos: países ricos e emergentes divergem sobre quem deve cortar emissões e quanto pagar; países exportadores de petróleo resistem a abandonar os combustíveis fósseis; nações vulneráveis cobram financiamento. Como as decisões dependem de consenso, há impasses.\n\nA e C chamam a ONU de \"bloco econômico\", o que está errado: é uma organização internacional, não um bloco como o Mercosul ou a União Europeia. D erra porque a COP reúne praticamente todos os países, não uma minoria. E também é falsa: os países desenvolvidos participam das COPs e têm grande peso nelas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Cartografia: Linha Internacional de Data. A linha destacada acompanha aproximadamente o antimeridiano de Greenwich (180°), mas faz desvios para não cortar países e arquipélagos do Pacífico. É uma convenção internacional que marca a mudança de data: ao cruzá-la para oeste, avança-se um dia; para leste, volta-se um dia.\n\nA erra porque a divisão entre os hemisférios oriental e ocidental é dada pelos meridianos de 0° e 180°; a linha com desvios existe para definir a data, não os hemisférios. B não procede: fusos não se sobrepõem. D confunde com latitude, que é medida a partir do Equador; a linha é de longitude. E trata das zonas térmicas, definidas por paralelos (trópicos e círculos polares).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Fontes de energia: energia eólica. O vento é uma fonte **renovável**: é gerado pelo aquecimento desigual da atmosfera pelo Sol e não se esgota com o uso. Isso já elimina B e C.\n\nEntre as renováveis, é preciso achar o impacto ambiental correto. Os aerogeradores produzem ruído constante (das pás e da maquinaria), que incomoda as comunidades vizinhas aos parques eólicos; também podem afetar aves e morcegos e alterar a paisagem.\n\nD e E erram porque a turbina eólica não queima combustível: durante a operação, não emite poluentes nem gases de efeito estufa, não afeta a camada de ozônio e não intensifica o aquecimento global — ao contrário, ajuda a reduzir as emissões ao substituir termelétricas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Citogenética: cariótipo e ploidia. No idiograma, os cromossomos estão agrupados por tamanho e forma, numerados de 1 a 23, e cada grupo de homólogos tem **três** cromossomos iguais.\n\nLogo, a célula tem 3 lotes cromossômicos (3n), com n = 23:\n2n seria 46; aqui temos 3 × 23 = 69 cromossomos.\n\nTer mais de dois lotes completos é **poliploidia** (no caso, triploidia), comum em plantas. São 23 trios de homólogos.\n\nC erra ao chamar de diploide. D confunde com aneuploidia, que é o ganho ou perda de cromossomos isolados, não de um lote inteiro. A erra porque a célula somática não é haploide (haveria um só cromossomo de cada tipo). E usa \"poligênica\", termo de herança de características, não de número de cromossomos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Parasitologia e epidemiologia: ciclos de transmissão. Cada ciclo do esquema:\n\n1. humano → humano, direto: gripe (gotículas e aerossóis).\n2. humano → vetor → humano: malária (mosquito Anopheles transmite o Plasmodium entre pessoas).\n3. circula entre animais e eventualmente atinge humanos, sem vetor: raiva (mordida de cães, morcegos e outros mamíferos).\n4. circula entre animais por meio de vetor e eventualmente atinge humanos: febre amarela silvestre (macacos e mosquitos Haemagogus e Sabethes; o ser humano é hospedeiro acidental).\n\nAs outras sequências falham em algum ponto. Por exemplo, em B a ancilostomose não tem vetor (a larva penetra pela pele); em C a esquistossomose não passa diretamente entre humanos e a AIDS não vem de ciclo animal; em D a peste bubônica envolve ratos e pulgas, e não o ciclo humano–vetor–humano, e a tuberculose passa de pessoa a pessoa, sem reservatório animal.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Fisiologia vegetal: transpiração e estômatos. A vaselina impede a saída de água pela superfície revestida. Comparando a perda de massa:\n\nFolha 1 (nenhuma face coberta): 40%.\nFolha 2 (só a superior coberta, perde pela inferior): 36%.\nFolha 3 (só a inferior coberta, perde pela superior): 4%.\nFolha 4 (ambas cobertas): 2%.\n\nA face inferior responde por quase toda a perda de água. Como a maior parte da transpiração ocorre pelos estômatos, conclui-se que há mais estômatos na face inferior da folha (padrão comum em plantas terrestres).\n\nA inverte o resultado. D contraria a grande diferença entre as folhas 2 e 3. B não pode ser concluída: o experimento não mede a espessura da cutícula. E também não: a folha 3 perde só 4%, e o experimento não separa as transpirações estomática e cuticular na face superior.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Genética: epistasia dominante. W (dominante) impede a cor e deixa o cavalo branco; com ww, a cor aparece: B_ preto, bb marrom.\n\nA égua branca duplamente heterozigota é WwBb. O cavalo marrom precisa ser ww (para ter cor) e bb (marrom): wwbb. É um cruzamento-teste.\n\nA égua forma quatro gametas, WB, Wb, wB, wb, cada um com 1/4; o cavalo, só wb. Filhos:\nWwBb e Wwbb: brancos, 1/4 + 1/4 = 1/2\nwwBb: preto, 1/4\nwwbb: marrom, 1/4\n\nBranca : preta : marrom = 2 : 1 : 1.\n\nA proporção 12:3:1 (B) é a armadilha: é a epistasia dominante no cruzamento entre dois duplo-heterozigotos (WwBb × WwBb), não neste cruzamento-teste.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Estados físicos da matéria. Para a substância estar sólida nos dois lugares, sua temperatura de fusão precisa ser maior que a maior temperatura registrada, 46,6 °C (se for sólida a 46,6 °C, também será a −10 °C).\n\nConferindo as temperaturas de fusão:\n1: −19 °C, 3: −12 °C e 4: −84 °C → já seriam líquidas (ou gasosas) nas duas cidades.\n2: 34 °C → sólida a −10 °C, mas líquida a 46,6 °C.\n5: 53 °C → sólida nas duas situações.\n\nA armadilha é a substância 2: ela funde a 34 °C, abaixo do recorde de Portugal, e mudaria de estado físico.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Termoquímica: dissolução. A temperatura da água subiu de 20 °C (etapa 1) para 35 °C (etapa 3) após a dissolução do CaCl₂. Se o sistema aqueceu, a dissolução **liberou** calor: é um processo exotérmico.\n\nEm processos exotérmicos, a entalpia dos produtos é menor que a dos reagentes, então:\nΔH = H(produtos) − H(reagentes) < 0\n\nÉ por isso que o cloreto de cálcio anidro é usado em bolsas de calor instantâneo, além de absorver umidade em armários.\n\nA tem o tipo de processo certo, mas o sinal errado: ΔH > 0 indica processo endotérmico, que esfriaria a água.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Concentração em quantidade de matéria (mol/L) e dissociação iônica. Foi dissolvido 0,1 mol de CaCl₂ em 100 mL (0,1 L) de solução:\n\n[CaCl₂] = 0,1 mol ÷ 0,1 L = 1 mol/L\n\nO cloreto de cálcio é um composto iônico que se dissocia totalmente em água:\nCaCl₂ → Ca²⁺ + 2 Cl⁻\n\nCada fórmula libera dois íons cloreto, então:\n[Cl⁻] = 2 × 1 mol/L = 2 mol/L\n\nA armadilha é parar em 1 mol/L (B), que é a concentração do sal, não do íon cloreto. Quem esquece de converter mL para L chega a valores como 0,2 ou 0,02.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Segurança no laboratório: pictogramas de perigo (GHS). O pictograma da figura, em losango com borda vermelha, mostra líquido escorrendo de tubos de ensaio sobre uma superfície e sobre uma mão, que ficam danificadas. É o símbolo de substância **corrosiva**, que pode causar queimaduras na pele e lesões nos olhos e corroer materiais.\n\nOs outros pictogramas são diferentes: tóxico é uma caveira com ossos cruzados; inflamável, uma chama; explosivo, uma bomba explodindo; oxidante, uma chama sobre um círculo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Eletrólise e potenciais de redução. O cátodo é o polo onde ocorre redução. Na figura, o H₂ sai pelo eletrodo negativo, que na eletrólise é o cátodo:\n2 H₂O + 2 e⁻ → H₂ + 2 OH⁻\n\nNo ânodo (polo positivo) ocorre a oxidação dos OH⁻, liberando O₂, o inverso da primeira semirreação.\n\nA diferença de potencial mínima é o módulo da ddp da pilha correspondente, que seria espontânea no sentido inverso:\nΔE = E(maior) − E(menor) = 0,40 − (−0,83) = 1,23 V\n\nNa eletrólise, é preciso aplicar pelo menos 1,23 V para forçar a reação não espontânea.\n\nQuem multiplica o potencial pelo número de elétrons (2 × 0,83 + 0,40) encontra 2,06 V, mas o potencial não depende da quantidade de elétrons. E 0,43 V vem de fazer −0,83 + 0,40.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Conservação da energia mecânica. Sem atrito, a energia potencial perdida por A vira energia potencial ganha por B mais a energia cinética dos dois.\n\nComo o fio é inextensível, quando A desce uma distância d, B sobe a mesma distância d. As bases ficam na mesma altura quando:\n3,2 − d = d → d = 1,6 m\n\nBalanço de energia:\nmA·g·d − mB·g·d = (mA + mB)·v²/2\n(6 − 2) · 10 · 1,6 = 8 · v²/2\n64 = 4·v²\nv² = 16 → v = 4 m/s\n\nO erro comum é usar a queda total de 3,2 m, o que leva a v ≈ 5,7 m/s, valor fora das alternativas, ou esquecer a energia potencial ganha por B.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Calorimetria e potência. A energia elétrica consumida em 1 min 40 s (100 s):\nE = P · Δt = 1 200 · 100 = 120 000 J\n\nSó 50% vai para a água:\nQ = 0,5 · 120 000 = 60 000 J\n\nCalor sensível:\nQ = m · c · ΔT\n60 000 = 0,2 · 4 000 · ΔT\nΔT = 75 °C\n\nTemperatura final: 20 + 75 = 95 °C.\n\nComo a cidade está ao nível do mar, a água ferve a 100 °C; a 95 °C a ebulição ainda não começou.\n\nQuem esquece o rendimento de 50% calcula ΔT = 150 °C e pensa que a água atingiu 100 °C e começou a ferver (B).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Óptica: espelho plano. No espelho plano, a imagem fica atrás do espelho, à mesma distância que o objeto está dele.\n\nRenato está a 1,2 m do espelho, então sua imagem está 1,2 m atrás do espelho.\n\nO relógio está na parede atrás dele. Seja D a distância entre as paredes; como o espelho está numa parede, o relógio está a D do espelho e sua imagem fica a D atrás do espelho.\n\nAs duas imagens estão do mesmo lado (atrás do espelho), então:\nD − 1,2 = 4,6\nD = 5,8 m\n\nA armadilha é somar 1,2 m duas vezes (4,6 + 2,4 = 7,0 m). Note que a distância entre as imagens é igual à distância entre Renato e o relógio, porque o espelho plano preserva distâncias.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Ondas: mecânicas e eletromagnéticas. As ondas eletromagnéticas são oscilações de campos elétrico e magnético que se propagam até no vácuo; as mecânicas precisam de um meio material.\n\nTomografia computadorizada: usa raios X, que são ondas eletromagnéticas de alta frequência.\nRessonância magnética: usa um campo magnético intenso e ondas de rádio, também eletromagnéticas.\nUltrassonografia: usa ultrassom, ou seja, ondas sonoras de frequência acima da audível — ondas **mecânicas**, que se propagam pela vibração dos tecidos.\n\nPortanto, só TC e RM usam ondas eletromagnéticas.\n\nA pegadinha é achar que \"alta frequência\" do ultrassom o torna eletromagnético; frequência não muda a natureza da onda.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Circuitos elétricos: associação de resistores e valores nominais. Os três ramos estão em paralelo com o gerador, então cada um recebe 60 V.\n\nResistência e corrente nominais de cada lâmpada (R = U²/P, i = P/U):\nL1: 30²/10 = 90 Ω; 1/3 A\nL2: 60²/10 = 360 Ω; 1/6 A\nL3: 20²/10 = 40 Ω; 0,5 A\n\nRamo Z (sem resistor): a lâmpada recebe 60 V → L2.\n\nRamo Y (90 Ω em série): com L1, 90 + 90 = 180 Ω; i = 60/180 = 1/3 A; tensão em L1 = 90 · 1/3 = 30 V. Correto.\n\nRamo X (40 + 40 = 80 Ω em série): com L3, 80 + 40 = 120 Ω; i = 60/120 = 0,5 A; tensão em L3 = 40 · 0,5 = 20 V. Correto.\n\nLogo, L1 em Y, L2 em Z e L3 em X.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Razão e proporção. Pela manhã foram vendidos 200 + 320 = 520 litros. À tarde, 110 litros a mais:\n520 + 110 = 630 litros\n\nNa tarde, chocolate : baunilha = 2 : 5. Dividindo 630 em 2 + 5 = 7 partes:\n630 ÷ 7 = 90 litros por parte\nChocolate: 2 · 90 = 180 litros\nBaunilha: 5 · 90 = 450 litros\n\nConferindo: 180 + 450 = 630 e 180/450 = 2/5.\n\nO erro comum é aplicar os 110 litros só à baunilha (320 + 110 = 430) ou tratar 2/5 como fração do total, em vez de dividir 630 em 7 partes.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Probabilidade condicional (teorema de Bayes). Probabilidade de sair 1 nas duas execuções:\nApp honesto: (1/8)² = 1/64\nApp viciado: (1/4)² = 1/16\n\nCada app é escolhido com probabilidade 1/2 (moeda equilibrada):\nP(coroa e 1,1) = 1/2 · 1/16 = 1/32\nP(cara e 1,1) = 1/2 · 1/64 = 1/128\nP(1,1) = 1/32 + 1/128 = 5/128\n\nProbabilidade condicional:\nP(coroa | 1,1) = (1/32) ÷ (5/128) = 4/5\n\nO erro típico é considerar só uma execução: com 1/4 e 1/8, chega-se a 2/3, que nem está entre as alternativas; ou esquecer de dividir pela probabilidade total.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Sistema linear com duas incógnitas. Seja a o número de viagens no ônibus A e b no ônibus B.\n\nGasto: 5a + 6b = 162\nDistância: 12a + 15b = 396 → dividindo por 3: 4a + 5b = 132\n\nMultiplicando a primeira por 5 e a segunda por 6:\n25a + 30b = 810\n24a + 30b = 792\nSubtraindo: a = 18\n\nSubstituindo: 5 · 18 + 6b = 162 → 6b = 72 → b = 12\n\nConferindo a distância: 12 · 18 + 15 · 12 = 216 + 180 = 396 km.\n\nDiferença pedida: a − b = 18 − 12 = 6.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Geometria analítica: área do triângulo por determinante. A área é metade do módulo do determinante formado pelas coordenadas.\n\nCom vetores a partir de A(−1, 4):\nAB = (2, −5) e AC = (k + 1, −4)\ndet = 2 · (−4) − (−5) · (k + 1) = −8 + 5k + 5 = 5k − 3\n\nÁrea = |5k − 3| / 2 = 11 → |5k − 3| = 22\n5k − 3 = 22 → k = 5 (positivo)\n5k − 3 = −22 → k = −19/5 (descartado, pois k > 0)\n\nCom C(5, 0), o lado AC mede:\nAC² = (5 − (−1))² + (0 − 4)² = 36 + 16 = 52\n\nA área do quadrado de lado AC é AC² = 52; não é preciso extrair a raiz.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Trigonometria no triângulo retângulo e tangente da soma. Pela figura, α = ângulo BCD, β = ângulo DCA e δ = ângulo ACE.\n\nNo triângulo BCD (reto em B): tg α = BD/BC = 3/4, com BC = 8 → BD = 6 e CD = 10 (triângulo 6-8-10).\n\nNo triângulo CDE (reto em D): DE² = (5√5)² − 10² = 125 − 100 = 25 → DE = 5.\ntg(β + δ) = DE/CD = 5/10 = 1/2\n\nDe tg(α + β) = 1, obtemos tg β:\n(3/4 + tg β) / (1 − 3/4 · tg β) = 1\n3/4 + tg β = 1 − 3/4 · tg β\n7/4 · tg β = 1/4 → tg β = 1/7\n\nEntão, com δ = (β + δ) − β:\ntg δ = (1/2 − 1/7) / (1 + 1/2 · 1/7) = (5/14) / (15/14) = 1/3\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Questão de **média aritmética**: a soma das alturas ausentes é a diferença entre a soma total e a soma dos presentes.\n\nSoma dos 7: 174 + 183 + 185 + 191 + 195 + 198 + 199 = 1325\nSoma dos 5 presentes: 5 · 188,4 = 942\nSoma dos 2 ausentes: 1325 − 942 = 383\n\nEntre as alternativas, só 185 + 198 dá 383 (191 + 198 = 389; 191 + 195 = 386; 185 + 199 = 384; 183 + 199 = 382). Também não há outro par da lista com essa soma.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Conteúdo: **intersecção entre reta e parábola**. Como a reta f tem inclinação −1, a variação de y entre os dois pontos é igual à de x; com distância horizontal 4, as abscissas são −1 e 3 (pela figura, o ponto de abscissa −1 é o da esquerda, e a parábola tem concavidade para cima).\n\nPontos na reta:\nf(−1) = 11 e f(3) = 7\n\nEsses pontos também estão em g:\ng(−1) = p − q + 4 = 11 → p − q = 7\ng(3) = 9p + 3q + 4 = 7 → 3p + q = 1\n\nSomando as equações: 4p = 8 → p = 2 e q = −5.\nLogo p + q = −3.\n\nConferência: g(3) = 18 − 15 + 4 = 7. Um erro comum é escrever 9p + 3q = −3 (esquecendo de subtrair o 4 corretamente), o que leva a −4.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Conteúdo: **progressão aritmética** e soma dos termos. As ligações por minuto formam a PA 4, 7, 10, … de razão 3.\n\nSoma dos n primeiros minutos:\nSₙ = n · (2 · 4 + (n − 1) · 3) ÷ 2 = n · (3n + 5) ÷ 2\n\nS₂₅ = 25 · 80 ÷ 2 = 1000 (exatamente 1000, ainda não passou)\nS₂₆ = 26 · 83 ÷ 2 = 1079\n\nO total ultrapassa 1000 durante o 26º minuto. Como o 1º minuto é de 0h00 a 0h01, o 26º vai de 0h25 a 0h26.\n\nA armadilha é parar em n = 25 e marcar 0h24–0h25: ali o total chega a 1000, mas não passa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Questão de **lógica de algoritmos**: basta executar o laço passo a passo, lembrando que pop(r) retira o r-ésimo elemento e o coloca no fim da lista embaralhada.\n\n(1, 9, 15, 16, 24, 25, 26): d = 7, D = 50 − 26 = 24, resto 3, r = 4 → sai 16\n(1, 9, 15, 24, 25, 26): d = 6, D = 24, resto 0, r = 1 → sai 1\n(9, 15, 24, 25, 26): d = 5, D = 24, resto 4, r = 5 → sai 26\n(9, 15, 24, 25): d = 4, D = 25, resto 1, r = 2 → sai 15\n(9, 24, 25): d = 3, D = 25, resto 1, r = 2 → sai 24\n(9, 25): d = 2, D = 25, resto 1, r = 2 → sai 25\n(9): d = 1, r = 1 → sai 9\n\nLista embaralhada: (16, 1, 26, 15, 24, 25, 9). Atenção a D, que muda quando o maior elemento sai.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Conteúdo: **análise combinatória** (caminhos em malha). Saindo de uma das 12 letras C, todo caminho tem 11 passos e termina no A do canto inferior direito; um caminho é uma sequência de 11 movimentos B (baixo) e D (direita), e cada troca de direção separa blocos.\n\nCaso 1: mais de 8 descidas e 3 mudanças (4 blocos alternados). Com 9 B e 2 D: os D formam 2 blocos de 1, e os 9 B se dividem em 2 blocos (8 modos); a sequência pode começar por B ou por D: 2 · 8 = 16. Com 10 ou 11 B não há D suficientes para 2 blocos.\n\nCaso 2: menos de 3 descidas e 2 mudanças (3 blocos). Com 2 B: B-D-B dá 1 modo; D-B-D dá 8 (9 D em 2 blocos) → 9. Com 1 B: só D-B-D, 9 modos. Com 0 B não há mudança.\nTotal do caso 2: 18.\n\nTotal: 16 + 18 = 34 (conferido por enumeração).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

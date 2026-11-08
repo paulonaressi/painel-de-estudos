@@ -1,0 +1,257 @@
+{
+ "indice": "data/questoes/ficsae/2027_prova-i-objetiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Conteúdo: **interpretação de texto**, contraposição.\n\nNo segundo parágrafo, a autora comenta que a mãe dela, dona Erani, \"era mesmo capaz\" de lhe dar dois tapas na cara se estivesse viva, como dissera a irmã. Logo em seguida contrapõe: \"Já você\", dirigindo-se à avó, teria feito um bolo de chocolate ou um doce de abóbora e adoçado sua vida.\n\nO \"Já\" marca a oposição entre duas reações hipotéticas: a provável reação firme da mãe e a possível atitude acolhedora da avó.\n\nA opinião da irmã e o desejo da filha (Thulane) aparecem no texto, mas não são os termos contrapostos nesse trecho (A, B, D, E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Conteúdo: **variação linguística**, registro informal na escrita.\n\nNa fala da irmã reproduzida no primeiro parágrafo, o imperativo \"Para de chorar!\" é a forma típica da conversa cotidiana. Pela norma-padrão, como o tratamento é \"você\" (terceira pessoa), o imperativo seria \"Pare de chorar!\". O uso de \"para\", forma do indicativo, como ordem é marca de informalidade, coerente com uma bronca entre irmãs (e o mesmo trecho segue com \"pra você acordar\").\n\nOs outros trechos seguem a norma-padrão sem marcas de oralidade: \"Depois de um tempo, quando Thulane dizia orgulhosa\" (B), \"um dia, no apartamento da minha irmã, comecei a chorar\" (C), \"entendi a importância de mostrar a ela\" (D) e \"Foram anos complexos na faculdade\" (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Conteúdo: **discurso direto e indireto**.\n\nNa passagem para o discurso indireto, quem narra é a autora, que ouviu a frase. Por isso mudam:\n\nPessoa: \"te\" (a ela) vira \"me\"; \"de você\" vira \"de mim\".\n\nTempos verbais: o pretérito perfeito \"deu\" recua para o mais-que-perfeito (\"tinha dado\" ou \"dera\"); o presente \"está\" passa ao pretérito imperfeito \"estava\".\n\nResultado: \"o professor só tinha me dado nota alta porque estava a fim de mim\".\n\nC acerta o mais-que-perfeito (\"me dera\"), mas troca \"está\" por \"estaria\", futuro do pretérito, que transforma um fato afirmado em hipótese. B e E mantêm a segunda pessoa (\"te\", \"você\"), como se a fala ainda fosse dirigida à autora, e D põe o verbo no futuro.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Conteúdo: **recursos expressivos**, ambiguidade.\n\nNo primeiro quadrinho, o personagem diante do espelho cita a máxima: o ignorante afirma, o sábio duvida, o sensato reflete. Quando pergunta ao reflexo se ele \"está afirmando\" aquilo, a imagem responde \"Estou refletindo\".\n\nO humor nasce do duplo sentido de \"refletir\": pensar, ponderar (o que faria dele o \"sensato\" da frase) e reproduzir a imagem como num espelho, que é literalmente o que o reflexo faz. Essa duplicidade de sentido é a **ambiguidade**.\n\nNão há repetição de conjunções (polissíndeto), atenuação de uma ideia desagradável (eufemismo), exagero (hipérbole) nem comparação explícita com \"como\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Conteúdo: **transitividade verbal**.\n\nO verbo intransitivo tem sentido completo e não pede complemento; o que vier depois é adjunto adverbial. Em \"Os ventos fortes continuam em toda a região\", \"continuar\" significa permanecer, persistir, e \"em toda a região\" é um adjunto adverbial de lugar. O verbo é intransitivo, como os do quadrinho.\n\nNas outras frases o verbo tem outro papel. Em B, \"continua intenso\" é verbo de ligação, com \"intenso\" como predicativo do sujeito. Em C, \"continuar seu tratamento\" é transitivo direto. Em D, \"continua a trabalhar\" funciona como auxiliar numa locução verbal. Em A, \"continuam com o projeto\" equivale a \"prosseguem com o projeto\", com complemento introduzido por preposição, o que o aproxima de um transitivo indireto.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "A classificação de 'continuar com o projeto' (alternativa A) é discutível: há gramáticos que tratariam 'com o projeto' como adjunto, o que tornaria o verbo intransitivo também ali."
+  },
+  "0:6": {
+   "resposta": "Interpretação de texto: o conceito de \"homem cordial\" em Sérgio Buarque de Holanda.\n\nO autor avisa logo de início que seria engano confundir a cordialidade com \"boas maneiras\" ou civilidade. O cordial tem \"aversão ao ritualismo social\": aceita fórmulas de reverência só enquanto não impedem o convívio familiar, e no lugar do respeito formal busca \"estabelecer intimidade\". Até o gosto pelos diminutivos serve para aproximar pessoas e coisas do coração. Ou seja, o brasileiro leva para a esfera pública a lógica das relações íntimas.\n\nA alternativa D resume exatamente isso. A e B dizem o contrário (civilidade, polidez e apego à reverência, que o texto atribui aos portugueses); C inventa uma preferência pelos portugueses; E fala em valorizar hierarquias, o oposto da dificuldade de manter \"reverência prolongada ante um superior\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Classe de palavras e coesão: distinguir o artigo \"o\" do pronome demonstrativo \"o\".\n\nSó retoma uma expressão anterior a palavra que funciona como pronome. Em \"abusos tão ridículos para eles quanto o é para nós\", o \"o\" equivale a \"isso\" e retoma o adjetivo \"ridículos\": a pieguice lusitana é ridícula para nós tanto quanto nossos abusos o são para os portugueses. É um pronome demonstrativo com valor anafórico.\n\nNas demais, o \"o\" é artigo definido, que apenas determina o substantivo seguinte: \"o zombarem\" (verbo substantivado), \"o 'homem cordial'\", \"o indivíduo\" e \"o emprego\". Nenhum deles remete a algo já dito.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Vozes verbais: transposição da voz ativa para a passiva analítica.\n\nNa ativa, \"Nosso temperamento\" é o sujeito (agente) e \"fórmulas de reverência\" é o objeto direto. Na passiva, o objeto vira sujeito paciente, o verbo passa para ser + particípio e o agente aparece com \"por\":\n\nFórmulas de reverência são admitidas por nosso temperamento.\n\nDois cuidados: o verbo \"ser\" mantém o tempo do original (presente, \"admite\" → \"são admitidas\") e concorda com o novo sujeito, que está no plural; o particípio concorda em gênero e número com \"fórmulas\" (feminino plural).\n\nA e B erram a concordância (singular); D muda o tempo para o futuro; E muda para o pretérito e o gênero.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Semântica dos diminutivos: valor afetivo versus valor depreciativo.\n\nBechara lembra que o diminutivo pode indicar tamanho, desprezo ou carinho. A questão pede o caso afetivo. Em \"ato cruel contra o cachorrinho Orelha\", o diminutivo mostra ternura pelo animal vítima, reforçando a comoção da notícia.\n\nNas outras: \"boquinha\" é expressão popular para comer algo (sem afeto); \"famosinho\", entre aspas, é irônico e depreciativo; \"carrinho\" é termo técnico do futebol (o lance de deslizar no chão); \"showzinho\" é pejorativo, indicando exibicionismo do motorista.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Literatura e contexto histórico: Raízes do Brasil (1936) e o Modernismo.\n\nA obra saiu na década de 1930, quando o Modernismo, depois da Semana de 1922, se desdobrava em ensaios de interpretação do país (ao lado de Gilberto Freyre e Caio Prado Jr.). Bosi fala de escritores divididos entre a \"cultura ocidental\" e as raízes múltiplas do povo, empenhados numa revisão dos valores herdados. É o projeto modernista de buscar uma identidade nacional autêntica, e é isso que Sérgio Buarque faz ao descrever o \"homem cordial\".\n\nAs outras escolas não cabem: o \"rigor\" não é traço que o autor atribui ao brasileiro (A); não há ironia realista (C) nem idealização indianista romântica (D); e o texto não trata o meio como determinante, à maneira naturalista (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Leitura em inglês: identificar o tema central.\n\nO texto inteiro gira em torno de \"fairness\", definida na nota como ser imparcial e livre de viés. O autor mostra que a imparcialidade depende do contexto, que os dados históricos carregam desigualdades (o exemplo da contratação de mulheres), que medir a justiça é complicado e que ela é um alvo móvel. Portanto o assunto é a (falta de) neutralidade dos sistemas de IA: \"The issue of AI's neutrality\".\n\nA é ampla demais (desafios morais em geral); B e C fogem do tema; D exagera, pois o texto não fala em consequências \"malignas\", e sim discute a dificuldade de garantir imparcialidade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Leitura em inglês: função dos exemplos no 1º parágrafo.\n\nO autor afirma que \"What counts as fair in one domain may be inappropriate in another\" e dá três exemplos: na justiça criminal, evitar dano desproporcional a comunidades; na educação, igualdade de oportunidades; nas finanças, equilibrar acesso ao crédito e risco. Os exemplos mostram que a noção de justiça muda conforme o contexto, ou seja, não pode ser entendida de forma independente dele.\n\nB é a mais tentadora, mas o texto não defende que cada área \"deva ter seu próprio sistema de regras\"; apenas constata que o critério de justiça varia. C exagera (\"virtually impossible\"): o texto diz que é complexo, não impossível.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Leitura em inglês: ideia comum aos parágrafos 3 e 4.\n\nO 3º parágrafo mostra que uma IA de contratação treinada com o histórico de uma empresa que promovia poucas mulheres pode favorecer características masculinas \"even if gender is not explicitly included as an input\". O 4º mostra que um sistema pode parecer justo ao comparar homens e mulheres ou grupos étnicos isoladamente e, ainda assim, prejudicar mulheres mais velhas de minorias. Nos dois casos, preconceitos humanos ficam embutidos de forma oculta (covertly) nos sistemas automatizados.\n\nA generaliza demais (\"inescapably\"); B diz que a IA tentou compensar injustiças, o que o texto não afirma; D é conclusão radical que o autor não tira; E inverte o foco, que é o viés escondido, não benefícios obscurecidos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Leitura em inglês: localizar a informação no 5º parágrafo.\n\nO parágrafo começa com \"Societies change, demographics shift and language evolves\" e conclui que a justiça é \"an ongoing responsibility requiring monitoring, and a willingness to revise or withdraw systems when harms emerge\". Ou seja, é preciso supervisionar continuamente os sistemas de IA porque a realidade social muda: é a alternativa A.\n\nB é tentadora, mas o texto fala em monitorar e revisar ou retirar sistemas diante de danos, não em detectar e corrigir erros de saída; C, D e E não aparecem no parágrafo (o texto até aponta que os LLMs usam vastas coleções de texto histórico, o que é parte do problema).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Leitura de gráfico em inglês.\n\nO gráfico mostra, por faixa etária, quem fica mais propenso a escolher a marca que usa IA na publicidade (azul), quem não muda (verde) e quem fica menos propenso (amarelo). A parcela \"more likely\" é maior entre 18 e 29 anos (17%), seguida de 30 a 44 (16%), 45 a 54 (8%) e quase nada acima de 55. Logo, os adultos jovens são os mais inclinados a escolher essas marcas.\n\nC é a armadilha: os jovens tendem mais, mas 17% está longe de uma atração \"poderosa\", pois a maioria (52%) é indiferente. A inverte a tendência; D é falsa porque os números variam com a idade; E também, pois a indiferença não diminui com a idade (52%, 53%, 57%, 55%).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Roma Imperial: o Édito de Caracala (212 d.C.).\n\nO texto dá a pista: quando a cidadania foi estendida a todos os homens livres, os romanos já viviam havia dois séculos sob o Império e os cidadãos \"já haviam perdido a capacidade de influenciar o sistema político\", concentrado nas mãos do imperador. Assim, ser cidadão passou a significar sobretudo um estatuto jurídico (e base de cobrança de impostos), sem participação real no poder. A ampliação de direitos não redistribuiu o poder político.\n\nAs alternativas A, B e C supõem ganhos de participação que o texto nega expressamente; E não tem relação com o excerto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Brasil Colônia: a Guerra dos Tamoios e a França Antártica.\n\nNo século XVI, os franceses instalaram-se na baía de Guanabara (França Antártica, 1555) aliados aos tamoios (tupinambás), enquanto os portugueses contavam com tupiniquins e temiminós. O conflito culminou na expulsão dos franceses por Estácio de Sá e Mem de Sá, com a fundação do Rio de Janeiro (1565–1567). O resultado foi a consolidação do domínio português na Guanabara contra as alianças franco-indígenas.\n\nAs outras não correspondem: as missões não ganharam autonomia (A), lideranças indígenas não entraram nos órgãos de governo (B), não houve interiorização dos núcleos coloniais (D) e não se firmaram acordos permanentes com os franceses (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Brasil Colônia: a Inconfidência Mineira (1789).\n\nO movimento reuniu militares, clérigos, intelectuais, mineradores e grandes devedores da Fazenda Real, como o próprio delator Joaquim Silvério dos Reis. O estopim foi a ameaça da derrama, a cobrança forçada dos impostos atrasados do ouro, num quadro de declínio da mineração e de rígido controle metropolitano. Era, portanto, uma reação da elite colonial às limitações e à exploração fiscal impostas por Portugal, inspirada no Iluminismo e na independência dos EUA.\n\nA e D erram ao atribuir caráter popular e abolicionista: a abolição não era consenso entre os inconfidentes. B contradiz o objetivo de independência (a ideia era uma república). C fala em integração ao Império português, o contrário de libertar-se dele.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Revolução Industrial: a industrialização alemã no século XIX.\n\nA pintura de 1847 mostra uma grande fábrica de locomotivas e máquinas em Berlim, com chaminés fumegantes, galpões e pátios de material. É a imagem do sistema fabril: produção concentrada em grandes unidades, com uso de máquinas a vapor e mecanização do trabalho, típica da expansão industrial que chegava aos Estados alemães.\n\nAs demais vão na direção contrária: as corporações de ofício foram justamente superadas pela fábrica (B); o tema não é rural (C); a indústria rompe com as estruturas do Antigo Regime (D); e a industrialização aumentou a importância econômica das cidades (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Era Vargas: a CLT (1943) e a exclusão dos trabalhadores rurais.\n\nO artigo exclui da Consolidação os trabalhadores rurais. Os direitos trabalhistas de Vargas se dirigiram aos operários urbanos, base de seu apoio político, enquanto o campo ficou de fora para não confrontar as oligarquias agrárias, aliadas importantes do governo. Os direitos dos trabalhadores do campo só viriam com o Estatuto do Trabalhador Rural (1963).\n\nA é falsa, pois não havia legislação equivalente para o campo; C e D atribuem ao governo justificativas que o artigo não traz. E é a mais tentadora, mas a agricultura era então o setor central da economia (café e exportações), de modo que excluí-la não se explica por ser \"menos importante\"; o motivo é político.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Geografia econômica: cadeias globais de suprimentos e a Nova Divisão Internacional do Trabalho.\n\nO texto mostra que a lógica do custo mínimo, que espalhou a produção pelo mundo, ficou arriscada diante de pandemias, guerras, tensões geopolíticas e eventos climáticos. A resposta das empresas tem sido reduzir a dependência de fornecedores distantes ou de países rivais, trazendo a produção para mais perto (nearshoring) ou para países politicamente alinhados (friendshoring). É isso que diz a alternativa A.\n\nB é incoerente, pois as transnacionais são as próprias organizadoras das cadeias; C, D e E não têm relação com a mitigação de riscos logísticos descrita.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Geopolítica atual: relação entre Estados Unidos e União Europeia na área de defesa.\n\nA charge mostra um barco com o formato dos EUA, cujo ocupante rema para longe do mapa da Europa marcado com as estrelas da UE. A ideia é o afastamento americano em relação à segurança europeia: no governo Trump, Washington cobrou dos europeus maiores gastos militares e anunciou a redução de seu compromisso e de seus recursos com a defesa do continente, obrigando a UE a planejar o próprio rearmamento.\n\nO gabarito oficial é D (redução unilateral dos recursos para a cooperação militar com a UE). A alternativa C, sobre a Otan e a Ucrânia, é a mais próxima, mas fala de decisões sobre um conflito específico. A, B e E não combinam com a imagem: não se trata de refugiados, da ONU nem de comércio.\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "A charge mostra apenas os EUA se afastando da Europa; distinguir entre a alternativa C (afastamento nas decisões da Otan sobre a Ucrânia) e a D depende do noticiário de 2026, e a escolha da D segue o gabarito oficial."
+  },
+  "0:23": {
+   "resposta": "Geologia do Brasil: estrutura geológica e recursos minerais.\n\nO texto informa que os elementos terras-raras de Caçapava do Sul estão em rochas formadas na evolução geológica do \"planalto Sul-riograndense\", ou seja, do Escudo Sul-Rio-Grandense. Os escudos cristalinos são terrenos muito antigos (pré-cambrianos), formados por rochas magmáticas (ígneas) e metamórficas, onde se concentram as jazidas de minerais metálicos. Os elementos raros se concentram durante a cristalização do magma, origem dessas rochas.\n\nA, B e C associam a jazida a rochas sedimentares ou a bacias sedimentares, que não são o ambiente típico desses minérios; D fala em meteorização (intemperismo), que é desagregação superficial, não o processo de formação descrito.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Geografia agrária: fronteira agrícola e desmatamento no Brasil.\n\nO mapa mostra a maior mancha vermelha (calor alto de área desmatada) dentro do limite do MATOPIBA, região de Maranhão, Tocantins, Piauí e Bahia, que é a principal fronteira de expansão da soja e da pecuária no Cerrado. Logo, a pressão sobre a vegetação vem sobretudo da produção agropecuária, atividade do setor primário.\n\nA é falsa: o extrativismo mineral não mitiga o desequilíbrio. C cita a Amazônia, mas a concentração mais intensa está fora dela, no Cerrado do MATOPIBA. D trata de clima urbano, sem relação com o mapa de desmatamento. E atribui o fenômeno à La Niña, explicação climática que o mapa não sustenta.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Cartografia e tecnologias de localização: GPS (GNSS).\n\nO texto fala do aplicativo de navegação, da \"localização por satélite\" e de um atraso no sinal entre o satélite e o receptor causado pela atmosfera, o Atraso Zenital Total. Esse atraso depende sobretudo do vapor d'água na troposfera; medindo-o com os receptores do sistema de posicionamento global, os cientistas estimam a umidade atmosférica e monitoram eventos extremos.\n\nAs outras alternativas são conceitos da cartografia tradicional (projeções, simbologia, cartografia sistemática, rosa-dos-ventos) que não envolvem sinais de satélite.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Ecologia: cadeia alimentar e níveis tróficos.\n\nO texto descreve a cadeia: plantas (produtores) → insetos como as abelhas, que se alimentam de néctar e pólen (consumidores primários) → lagartos, que comem os insetos (consumidores secundários) → gatos, que comem os lagartos (consumidores terciários). Os ratos não fazem parte dessa sequência; aparecem apenas como presas dos gatos, que aumentaram quando os predadores morreram.\n\nAssim, consumidor primário = abelhas e consumidor terciário = gatos. A alternativa C troca os gatos pelos lagartos, que são consumidores secundários.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Ecologia: bioacumulação e magnificação trófica.\n\nO DDT é uma substância persistente e lipossolúvel: não é degradada nem eliminada com facilidade e se acumula nos tecidos gordurosos. Cada predador ingere muitas presas contaminadas, de modo que a concentração do inseticida aumenta a cada nível trófico. Por isso os gatos, no topo da cadeia, recebiam doses que os matavam. Esse aumento progressivo ao longo da cadeia alimentar é a magnificação trófica (biomagnificação).\n\nC é a pegadinha: o aumento dos ratos é um efeito em cascata sobre as populações, mas o fenômeno causado pelo DDT ao percorrer a cadeia é a magnificação. Biorremediação é o uso de seres vivos para despoluir; eutrofização é o excesso de nutrientes na água; decomposição é a reciclagem da matéria orgânica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Citologia: citoesqueleto e movimento ameboide.\n\nA ameba muda de forma emitindo pseudópodes. Isso acontece porque, sob a membrana, filamentos de actina (microfilamentos) se polimerizam e despolimerizam e interagem com a miosina, empurrando a membrana e alterando a consistência do citoplasma (gel e sol). Esse é o movimento ameboide, o mesmo usado por glóbulos brancos na fagocitose.\n\nA membrana é flexível, mas sozinha não gera movimento (D); a ameba não tem parede celular (B), que daria forma rígida; os microtúbulos atuam em cílios, flagelos e no fuso de divisão (C); o glicocálix tem função de reconhecimento e proteção (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Genética molecular: mutação pontual e replicação do DNA.\n\nUm SNP é a troca de uma única base (na figura, T no lugar de C), ou seja, uma mutação pontual por substituição. Ela surge quando a DNA polimerase pareia uma base errada durante a replicação e o erro não é corrigido; a nova sequência passa adiante nas divisões e, se ocorrer em células germinativas, é herdada.\n\nA e E falam em não disjunção, que altera o número de cromossomos, não uma base. B não serve, pois erros na transcrição afetam o RNA, não o genoma. D é deleção, que remove bases em vez de trocá-las.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Evolução humana: leitura de árvore filogenética.\n\nNo diagrama, cada barra indica o período em que a espécie viveu. As barras de H. sapiens (de cerca de 0,25 milhão de anos até hoje) e de H. neanderthalensis (de cerca de 0,25 milhão até perto de 0,03 milhão) se sobrepõem, logo as duas espécies foram contemporâneas.\n\nAs demais não se sustentam: H. antecessor viveu por volta de 1 milhão a 0,8 milhão de anos e não se sobrepõe ao neandertal (A); A. afarensis desaparece antes de 3 milhões de anos, antes do surgimento de H. erectus (B). C e E tratam de comportamentos (enterrar os mortos, cozinhar com fogo) que a figura não mostra.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Estrutura atômica: número de massa, prótons e nêutrons.\n\nNo gráfico, o isótopo mais abundante é o de número de massa 158 (24,9%). O número atômico informa os prótons: Z = 64.\n\nNêutrons:\nN = A − Z\nN = 158 − 64 = 94\n\nErro comum: usar o isótopo de maior massa (160), que dá 96 nêutrons (alternativa B), mas ele não é o mais abundante.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Soluções: concentração em porcentagem em massa (título).\n\nMassa da solução, pela densidade:\n5 L = 5000 mL\nm = d · V = 1 g/mL · 5000 mL = 5000 g\n\nConcentração máxima segura: 10% em massa.\nm(ClO₂) = 0,10 · 5000 g = 500 g\n\nErro típico: esquecer de converter litros em mililitros e chegar a 0,5 g, ou tomar a massa da solução (5000 g) como resposta.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Termoquímica e estequiometria: calor liberado por mol de reagente.\n\nPela equação 1, a decomposição de 1 mol de ClO₂ libera 105 kJ (ΔH = −105 kJ).\n\nQuantidade de ClO₂:\n270 kg = 270 000 g\nn = 270 000 ÷ 67,5 = 4000 mol\n\nCalor liberado:\nQ = 4000 · 105 = 420 000 kJ = 4,20 × 10⁵ kJ\n\nEsquecer de converter kg em g leva a 4,20 × 10² kJ (alternativa C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Oxirredução: cálculo do número de oxidação (Nox) do cloro.\n\nUsando Na = +1, H = +1 e O = −2:\nNaClO₃: +1 + x + 3(−2) = 0 → x = +5\nHCl: +1 + x = 0 → x = −1\nClO₂: x + 2(−2) = 0 → x = +4\nCl₂: substância simples → 0\nNaCl: +1 + x = 0 → x = −1\n\nO menor Nox (−1) aparece no HCl e no NaCl; o maior (+5) no NaClO₃. Entre as alternativas, a que combina menor e maior é NaCl e NaClO₃.\n\nA e D se apoiam no ClO₂, cujo Nox +4 é alto, mas não o maior.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Funções inorgânicas: caráter ácido-básico e indicadores.\n\nA amônia (NH₃) é uma base fraca: em água, NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, e o OH⁻ deixa a solução básica. Pela figura, o indicador fica azul em meio básico.\n\nHCl e HNO₃ são ácidos fortes, que liberam H⁺ (H₃O⁺) em água; a solução fica ácida e o indicador, amarelo.\n\nLogo: solução 1 azul; soluções 2 e 3 amarelas. O verde corresponde ao meio neutro, que nenhuma das três apresenta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Estática: equilíbrio de um ponto material (decomposição de forças).\n\nNo ponto onde o cabide está pendurado agem o peso e as duas trações da corda. Cada trecho de corda faz 60° com a parede, que é vertical; então a componente vertical de cada tração é T · cos 60°.\n\nPeso:\nP = m · g = 1,2 · 10 = 12 N\n\nEquilíbrio na vertical:\n2 · T · cos 60° = P\n2 · T · 0,50 = 12\nT = 12 N\n\nAs componentes horizontais se anulam. Pelo princípio da ação e reação, a força da corda em cada parede tem intensidade 12 N. Usar o seno (ângulo medido como se fosse com a horizontal) daria cerca de 6,9 N, valor que não aparece.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Termologia: transformação isotérmica (lei de Boyle-Mariotte).\n\nCom temperatura constante e massa fixa de gás ideal, o produto P · V se mantém (o gráfico é uma hipérbole):\n\nP(inicial) · V(inicial) = P(final) · V(final)\n24 · 0,1 = P(final) · 0,8\nP(final) = 2,4 ÷ 0,8 = 3 kPa\n\nO volume ficou 8 vezes maior, então a pressão ficou 8 vezes menor.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Óptica: condição de reflexão total.\n\nA reflexão total só ocorre quando a luz vai de um meio mais refringente para um menos refringente e incide com ângulo maior que o ângulo limite. Na fibra, a luz viaja pelo núcleo e precisa refletir totalmente na fronteira com a casca, então n(N) > n(C).\n\nAlém disso, a casca precisa ter índice maior que o do ar (n(C) > n(Ar), como ocorre com qualquer material transparente sólido), já que o ar tem índice praticamente igual a 1 e é o meio externo.\n\nPortanto: n(N) > n(C) > n(Ar).\n\nA erra ao igualar casca e ar; D e C invertem a relação entre núcleo e casca, o que impediria a reflexão total; E, com núcleo e casca iguais, não teria fronteira óptica.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Ondulatória: equação fundamental v = λ · f.\n\nAs duas ondas estão na mesma corda, sob a mesma tração: a velocidade de propagação é a mesma. Então frequência e comprimento de onda são inversamente proporcionais.\n\nPela malha: a onda 1 vai de uma crista a outra em 4 quadrinhos (λ₁ = 4 divisões); a onda 2 completa um ciclo em 2 quadrinhos (λ₂ = 2 divisões).\n\nv = λ₁ · f₁ = λ₂ · f₂\nf₁ ÷ f₂ = λ₂ ÷ λ₁ = 2 ÷ 4 = 1/2\n\nO erro típico é fazer a razão dos comprimentos de onda (λ₁/λ₂ = 2, alternativa D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Eletrodinâmica e calorimetria: associação de resistores, efeito Joule e calor sensível.\n\nAssociação: três ramos em paralelo (10 + 10 = 20 Ω; 10 + 10 = 20 Ω; 5 + 5 = 10 Ω).\n1/R = 1/20 + 1/20 + 1/10 = 1/5 → R = 5 Ω\nEm série com 20 Ω e 5 Ω: R(eq) = 5 + 20 + 5 = 30 Ω\n\nCorrente: i = 60 ÷ 30 = 2 A\nPotência no resistor de 20 Ω: P = R · i² = 20 · 4 = 80 W\n\nCalor para aquecer a água:\nQ = m · c · Δθ = 0,5 · 4000 · (30 − 24) = 12 000 J\n\nTempo: Δt = Q ÷ P = 12 000 ÷ 80 = 150 s = 2,5 min\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Porcentagem de porcentagem.\n\nPrimeiro, os brasileiros de 25 a 64 anos com ensino superior:\n0,234 · 117,5 milhões ≈ 27,5 milhões\n\nDepois, os residentes em São Paulo entre esses:\n0,284 · 27,5 milhões ≈ 7,8 milhões\n\nNuma só conta: 117,5 · 0,234 · 0,284 ≈ 7,81 milhões.\n\nA alternativa A (27,5 milhões) é a armadilha de parar no primeiro passo; C (33,4 milhões) resulta de aplicar 28,4% sobre o total.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Média aritmética e sistema linear.\n\nCada um dos 100 clientes deu uma nota de atendimento e uma de produto. A soma das notas de atendimento é 100A e a do produto é 100P:\n100A + 100P = 760 → A + P = 7,6\n\nNota geral:\n(A + 2P) ÷ 3 = 4,0 → A + 2P = 12\n\nSubtraindo as equações:\n(A + 2P) − (A + P) = 12 − 7,6\nP = 4,4 (e A = 3,2)\n\nErro comum: dividir 760 por 100 e tomar 7,6 como média de uma categoria só.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Inequações modulares e intersecção de conjuntos.\n\nConjunto A: |x − 1| < 4 + x.\nSe x ≥ 1: x − 1 < 4 + x, verdadeiro sempre → x ≥ 1.\nSe x < 1: 1 − x < 4 + x → x > −3/2.\nA = {x > −3/2}.\n\nConjunto B: x + |x| < 5.\nSe x ≥ 0: 2x < 5 → x < 5/2.\nSe x < 0: x + (−x) = 0 < 5, sempre verdadeiro.\nB = {x < 5/2}.\n\nA ∩ B = (−3/2; 5/2). Inteiros: −1, 0, 1 e 2, ou seja, 4 números.\n\nEsquecer o caso x < 0 em B (achando B = [0; 5/2)) leva a 3 inteiros, valor que nem aparece; o cuidado está nos dois casos de cada módulo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Função quadrática e área de triângulo no plano cartesiano.\n\nPontos A e B: igualar a parábola à reta y = 8.\n(8/25)(x − 1)² = 8\n(x − 1)² = 25\nx − 1 = ±5 → x = 6 ou x = −4\n\nA = (−4, 8) e B = (6, 8). O lado AB é horizontal e mede 6 − (−4) = 10.\n\nA altura relativa a AB é a distância da origem O à reta y = 8, ou seja, 8.\n\nÁrea = (10 · 8) ÷ 2 = 40\n\nEsquecer de dividir por 2 leva a 80 (alternativa B).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Trigonometria no triângulo retângulo: a mesma tangente de θ propagada pelos quatro triângulos.\n\nNo triângulo BCD (reto em C), θ está em B:\ntg θ = CD ÷ BC = (7/10) ÷ (2/5) = 7/4\n\nTriângulo do canto superior direito (θ em D, cateto adjacente 1 − 7/10 = 3/10 sobre a parede): cateto oposto no lado de cima = (3/10) · (7/4) = 21/40. Sobra no lado de cima: 1 − 21/40 = 19/40.\n\nTriângulo do canto superior esquerdo (θ no vértice de cima, adjacente 19/40): cateto oposto na parede esquerda = (19/40) · (7/4) = 133/160. Sobra embaixo: 1 − 133/160 = 27/160.\n\nTriângulo do canto inferior esquerdo (θ no vértice da esquerda, adjacente 27/160): distância do canto a A = (27/160) · (7/4) = 189/640.\n\nAB = 1 − 2/5 − 189/640 = 384/640 − 189/640 = 195/640 = 39/128 m\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Sistema linear homogêneo e trigonometria.\n\nUm sistema homogêneo (termos independentes nulos) sempre tem a solução (0, 0); ele tem infinitas soluções quando o determinante dos coeficientes é zero:\n\ndet = sen α · sen α − (−1) · cos α = sen² α + cos α = 0\n\nUsando sen² α = 1 − cos² α:\n1 − cos² α + cos α = 0\ncos² α − cos α − 1 = 0\ncos α = (1 ± √5) ÷ 2\n\n(1 + √5)/2 ≈ 1,618 é maior que 1 e não pode ser cosseno. Sobra (1 − √5)/2 ≈ −0,618.\n\nA alternativa B é a raiz descartada; C tem o sinal trocado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Trigonometria: arco duplo e lei dos senos.\n\nNo triângulo CED (reto em E): CD² = 1² + 2² → CD = √5.\nÂngulo C: sen C = ED ÷ CD = 2/√5.\nÂngulo θ = CDE: tg θ = EC ÷ ED = 1/2.\n\nÂngulo A = 2θ, pela tangente do arco duplo:\ntg 2θ = 2 · (1/2) ÷ (1 − 1/4) = 4/3\nLogo sen A = 4/5 (triângulo 3-4-5).\n\nLei dos senos no triângulo ABC:\nBC ÷ sen A = AB ÷ sen C\nBC = 3 · (4/5) ÷ (2/√5) = (12/5) · (√5/2) = 6√5/5 cm\n\nConferência: os ângulos ficam A ≈ 53,1°, C ≈ 63,4° e B ≈ 63,4°, triângulo possível.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Progressão geométrica e função quadrática.\n\nEm uma PG de razão r: b = a · r e c = a · r².\n\nCalculando f(r):\nf(r) = a · r² + b · r + c\nf(r) = a · r² + (a · r) · r + a · r²\nf(r) = 3 · a · r²\n\nComo f(r) = 1: a · r² = 1/3.\n\nMas f(0) = c = a · r². Portanto f(0) = 1/3.\n\nA alternativa B (1) confunde f(0) com f(r).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Geometria espacial: volume de cilindro cortado por um plano inclinado (tronco de cilindro).\n\nO ponto de contato com a parede é o ponto mais baixo da borda da boca do copo. A superfície da água é o plano horizontal que passa por ele.\n\nNa boca, o diâmetro (6 cm) está inclinado 45° em relação à horizontal; a diferença de altura entre o ponto mais baixo e o mais alto da borda é 6 · sen 45° = 3√2 cm. Na geratriz de cima, descer 3√2 cm na vertical corresponde a 3√2 ÷ sen 45° = 6 cm ao longo do copo. Então a água ocupa 12 cm numa geratriz e 6 cm na oposta.\n\nVolume de um tronco de cilindro = área da base × média das geratrizes:\nV = π · 3² · (12 + 6) ÷ 2 = 9π · 9 = 81π cm³ = 81π mL\n\nErro comum: achar que sobra metade do copo (54π mL).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Probabilidade condicional (teorema de Bayes).\n\nImagine 1000 mensagens:\nmaliciosas: 100; com alerta: 95% de 100 = 95\nnão maliciosas: 900; com alerta indevido: 3% de 900 = 27\n\nTotal de alertas: 95 + 27 = 122.\n\nP(maliciosa | alerta) = 95 ÷ 122 ≈ 0,779 ≈ 78%\n\nA armadilha é responder 95% (alternativa E), que é a probabilidade de alerta dado que a mensagem é maliciosa, a condição invertida. Como as mensagens não maliciosas são muitas, os 3% de alarmes falsos pesam bastante.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "indice": "data/questoes/fmj/2025_prova-ii-objetiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Conteúdo: figuras de linguagem — pleonasmo (redundância).\n\nO humor da tirinha está na resposta do último quadrinho: se a pessoa recebeu flores, nem precisa avisar que o amor é novo. A personagem de óculos insinua que só no começo de uma relação alguém dá flores; depois, o gesto desaparece. Assim, dizer \"recebi flores do meu novo amor\" é dizer duas vezes a mesma coisa, pois receber flores já indica um amor novo. Essa repetição de uma ideia já contida em outra é o pleonasmo.\n\nParadoxo exigiria ideias contraditórias, e aqui elas se confirmam. A ironia está no tom da tira como um todo (a crítica ao fim do romantismo nas relações), mas a pergunta é sobre a relação entre as duas ações, que é de redundância.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Conteúdo: relações de sentido entre orações (conectivo \"se\").\n\nNormalmente \"se\" introduz condição, mas aqui o fato já aconteceu e é conhecido: a personagem acabou de mostrar as flores que recebeu. Por isso \"Se recebeu flores...\" equivale a \"Já que recebeu flores\" ou \"Como recebeu flores\": é a razão pela qual \"não precisa avisar que o amor é novo\". O trecho sublinhado expressa, portanto, a causa da conclusão seguinte.\n\nConcessão pediria uma ideia contrária que não impede o fato (\"embora recebesse flores...\"), e finalidade indicaria objetivo (\"para que...\"). Não há comparação nem proporção entre as ideias.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Conteúdo: Romantismo (traços que reaparecem no Simbolismo).\n\n\"Ismália\" é um poema simbolista, mas a questão pede uma característica herdada do Romantismo. O poema narra a loucura de Ismália (\"Quando Ismália enlouqueceu\", \"no desvario seu\") e termina com sua morte: a alma sobe ao céu, o corpo desce ao mar. Loucura e morte aparecem como saída de uma realidade insuportável, rumo ao sonho e ao ideal — é o escapismo típico da segunda geração romântica (o \"mal do século\").\n\nA D é tentadora, porque o poema opõe céu e mar, alma e corpo, mas essa dualidade matéria/espírito é marca mais forte do Barroco e do Simbolismo. A B (culto à forma) remete ao Parnasianismo, e a E, ao Classicismo e ao Arcadismo. Não há idealização do amor no poema (A).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Conteúdo: figuras de linguagem — eufemismo.\n\nO eufemismo suaviza uma ideia dura. No 19º verso, \"Sua alma subiu ao céu\" é um modo delicado de dizer que Ismália morreu (o verso seguinte, \"Seu corpo desceu ao mar\", sugere que ela se lançou da torre). A morte, ideia mórbida, é apresentada como elevação espiritual.\n\nA E é tentadora, mas \"enlouqueceu\" nomeia a loucura diretamente, sem atenuação. \"E como um anjo pendeu\" é comparação, e \"Banhou-se toda em luar\" é imagem poética, não suavização de algo desagradável. \"Queria descer ao mar\" expressa o desejo da personagem, não substitui uma palavra mais forte.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Conteúdo: foco narrativo no poema (eu lírico em terceira pessoa).\n\nO eu lírico conta a história de Ismália de fora, em terceira pessoa: não conversa com ela (não há vocativo nem \"tu\"), não participa da cena e não interfere no que ela faz. Mesmo assim, revela o que se passa dentro da personagem: o que ela sonha (\"No sonho em que se perdeu\"), o que deseja (\"Queria subir ao céu\", \"Queria a lua do mar\"), seu \"desvario\". Isso só é possível porque ele tem acesso à subjetividade dela, como um narrador onisciente.\n\nA B pode atrair, mas o eu lírico não reflete nem julga os atos de Ismália; apenas os narra, sem comentário. A A, a C e a E são negadas pela narração em terceira pessoa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Conteúdo: vozes verbais — voz reflexiva.\n\nNa voz reflexiva, o sujeito pratica e sofre a ação: em \"Banhou-se toda em luar\", Ismália banhou a si mesma. O mesmo ocorre em \"Feri-me descascando uma laranja\": eu feri a mim mesmo; \"me\" é objeto direto e retoma o sujeito.\n\nNas outras frases o pronome tem outro papel. Em A e C, \"lhe\" refere-se a outra pessoa (penteou os cabelos dela; chamei-o pelo apelido). Em B, \"se\" é partícula apassivadora (roupas usadas são vendidas: voz passiva sintética). Em D, \"se\" é índice de indeterminação do sujeito, com verbo que pede preposição (fala-se em).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Conteúdo: Modernismo brasileiro, a partir do texto de Antonio Candido.\n\nAs pistas do texto: movimento que foi além da literatura e promoveu a \"reavaliação da cultura brasileira\"; coincidência com fatos políticos e artísticos importantes (a década de 1920, a Semana de Arte Moderna de 1922, a crise da República Velha); influência das vanguardas europeias, francesas e italianas (como o Futurismo), que exprimiam \"a civilização mecânica e o ritmo das grandes cidades\"; e a valorização dos componentes \"primitivos\" da realidade brasileira (o primitivismo da Antropofagia e do Pau-Brasil).\n\nNenhum movimento anterior combina vanguardas do início do século XX com a vida urbana mecanizada. O Romantismo também buscou a identidade nacional, mas no século XIX, sem vanguardas nem máquinas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Conteúdo: formação de palavras por prefixação.\n\n\"Coincidiu\" vem de coincidir, formado com o prefixo co- (do latim cum, \"junto com\", \"ao mesmo tempo\") mais incidir. Coincidir é ocorrer ao mesmo tempo: o movimento aconteceu simultaneamente a outros fatos políticos e artísticos. O prefixo exprime, portanto, simultaneidade, como em coexistir e contemporâneo.\n\nA A é a armadilha: \"reavaliação\" tem prefixo (re-), mas ele indica repetição (avaliar de novo), não simultaneidade. \"Revisão\" também traz a ideia de ver de novo. \"Anteriores\" expressa anterioridade, não simultaneidade, e \"impulsos\" e \"exemplo\" não trazem prefixo com esse sentido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Conteúdo: semântica, substituição de palavras por sinônimos no contexto.\n\nNo trecho, as vanguardas ofereceram modelos para \"exprimir\" a civilização mecânica, isto é, para expressar, dar forma artística, representar essa realidade. \"Delimitar\" (marcar limites) e \"desenvolver\" (fazer crescer) mudam o sentido.\n\n\"Civilização mecânica\" é a sociedade das máquinas, da indústria, do automóvel, típica do início do século XX. O equivalente mais adequado é \"tecnológica\". \"Robótica\" é restritivo demais e anacrônico (refere-se a robôs), e \"automatizada\" vem acompanhada de \"delimitar\", que já invalida a alternativa E.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Conteúdo: transposição do discurso direto para o indireto (correlação de tempos verbais).\n\nNo discurso indireto, a fala passa a ser relatada por um narrador, com verbo de elocução no passado: \"Ele disse que queria uma casa no campo onde pudesse ficar no tamanho da paz\".\n\nO presente do indicativo \"quero\" passa a pretérito imperfeito do indicativo: queria.\n\nO presente do subjuntivo \"possa\" passa a pretérito imperfeito do subjuntivo: pudesse.\n\nA A erra ao trocar o subjuntivo pelo indicativo (\"pode\"). \"Quis\" (pretérito perfeito) indicaria uma ação concluída, e \"quisera\" (mais-que-perfeito) desloca o desejo para antes de outro fato passado; o desejo da canção é contínuo, e por isso pede o imperfeito.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Conteúdo: estatística — média, mediana e moda.\n\nPrimeiro descobrimos o valor ilegível da 3ª F pela média. Se a média das seis classes é 13, o total é:\n\n6 · 13 = 78\n\nAs cinco classes visíveis somam 10 + 12 + 15 + 8 + 18 = 63, logo a 3ª F tem 78 − 63 = 15 alunos.\n\nEm ordem: 8, 10, 12, 15, 15, 18.\n\nMediana (média dos dois termos centrais): (12 + 15) ÷ 2 = 13,5\n\nModa (valor mais frequente): 15\n\nRazão mediana/moda: 13,5 ÷ 15 = 27/30 = 9/10\n\nO erro típico é ler a barra borrada da 3ª F como 9: a moda deixaria de existir de forma clara e a conta se perderia. Outro erro é inverter a ordem pedida (moda/mediana = 10/9).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Conteúdo: progressão aritmética (crescimento linear).\n\nEm milhares de indivíduos, a população n meses depois de 1º de janeiro de 2022 é:\n\nP(n) = 200 + 75n\n\nQueremos P(n) > 1.500:\n\n75n > 1.300\nn > 17,33…\n\nO primeiro inteiro é n = 18. Conferindo: P(17) = 1.475 (ainda abaixo) e P(18) = 1.550 (ultrapassou).\n\nContando 18 meses a partir de janeiro de 2022: janeiro de 2023 corresponde a n = 12, e mais 6 meses levam a julho de 2023.\n\nO erro mais comum é contar o próprio janeiro de 2022 como primeiro mês de crescimento, o que desloca a resposta em um mês (junho ou agosto).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Conteúdo: geometria plana — triângulo retângulo isósceles e perímetro.\n\nO triângulo OPQ tem catetos de 10 cm, então é isósceles e seus ângulos agudos medem 45°. Como JUND é retângulo e JU está sobre PQ, o lado DN é paralelo a PQ. Assim, o triângulo ODN também é retângulo isósceles: OD = ON = d.\n\nLado DN (hipotenusa de ODN): DN = d√2\n\nLado DJ (distância entre DN e PQ): o triângulo DPJ é retângulo isósceles com hipotenusa DP = 10 − d, então DJ = (10 − d) ÷ √2 = (10 − d)√2 ÷ 2\n\nPerímetro:\n\n2 · DN + 2 · DJ = 2d√2 + (10 − d)√2 = 10√2 + d√2\n\nTeste rápido: com d = 0 o retângulo vira um segmento de comprimento 5√2 (a altura do triângulo), percorrido ida e volta: 10√2, como dá a fórmula.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Conteúdo: equação logarítmica (definição de logaritmo).\n\nPela definição, log₁₀ x = 2 significa x = 10² = 100. Então:\n\n5t − 2 = 100\n5t = 102\nt = 20,4 horas\n\nAgora a conversão da parte decimal para minutos:\n\n0,4 h = 0,4 · 60 = 24 minutos\n\nLogo, t = 20 horas e 24 minutos.\n\nA armadilha é ler 20,4 h como \"20 horas e 40 minutos\" (alternativa A), tratando a parte decimal como se fossem minutos. A alternativa C vem de usar 10¹ no lugar de 10² (5t − 2 = 20, t = 4,4 h).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Conteúdo: trigonometria no triângulo retângulo e seno do arco duplo.\n\nO segmento do centro ao inseto é um raio de 10 m e a altura é o cateto oposto a α:\n\nsen α = 6 ÷ 10 = 0,6\n\nPela relação fundamental, cos α = √(1 − 0,36) = 0,8 (α é agudo).\n\nCom o ângulo 2α, o inseto continua na cúpula, a 10 m do centro, e sua altura passa a ser 10 · sen(2α):\n\nsen(2α) = 2 · 0,6 · 0,8 = 0,96\naltura = 10 · 0,96 = 9,6 m\n\nO erro tentador é dobrar a altura (12 m, que nem cabe na cúpula) ou achar que dobrar o ângulo dobra o seno. O seno não é proporcional ao ângulo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Conteúdo: geometria espacial — volume de pirâmide com triedro trirretângulo.\n\nComo as três arestas que partem de D são perpendiculares entre si, VD é a altura da pirâmide em relação à base MED, e o triângulo MDE é retângulo em D, com hipotenusa ME:\n\nDE² = ME² − DM² = 36 − 16 = 20\nDE = 2√5 cm\n\nÁrea da base:\n\nA = (4 · 2√5) ÷ 2 = 4√5 cm²\n\nVolume:\n\nV = (1/3) · 4√5 · h = 6√5\n4h = 18\nh = 4,5 cm\n\nO erro comum é tomar ME = 6 como um cateto, ou esquecer o fator 1/3 do volume da pirâmide (o que daria h = 1,5).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Conteúdo: probabilidade de eventos independentes.\n\nOs sorteios são independentes, então multiplicamos as probabilidades.\n\nJUNDIAI tem 7 letras: J, U, N, D, I, A, I. Consoantes: J, N, D, ou seja, 3 de 7.\n\nMEDICINA tem 8 letras: M, E, D, I, C, I, N, A. Consoantes: M, D, C, N, ou seja, 4 de 8.\n\nP = (3/7) · (4/8) = 12/56 = 3/14 ≈ 0,2143 = 21,43%\n\nEstá entre 21% e 22%.\n\nO erro típico é contar letras distintas em vez de todas as letras (o I aparece repetido nas duas palavras), ou somar as probabilidades em vez de multiplicá-las.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Conteúdo: porcentagem e notação científica.\n\nO detalhe que derruba muita gente é o símbolo %: (2,125 × 10⁻⁶)% significa 2,125 × 10⁻⁶ dividido por 100, isto é, 2,125 × 10⁻⁸.\n\nNúmero de estrelas visíveis:\n\n4 × 10¹¹ · 2,125 × 10⁻⁸ = 8,5 × 10³ = 8.500\n\nQuem esquece de dividir por 100 obtém 850.000 (alternativa D), cem vezes mais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Conteúdo: razão e proporção (encadeamento de razões).\n\nAs razões são azuis : brancas = 4 : 5 e brancas : cinzas = 7 : 11. Para juntá-las, igualamos a quantidade de brancas usando o MMC de 5 e 7, que é 35:\n\nazuis : brancas = 28 : 35\nbrancas : cinzas = 35 : 55\n\nLogo, azuis : brancas : cinzas = 28k : 35k : 55k.\n\nCinzas superam brancas em 140:\n\n55k − 35k = 20k = 140\nk = 7\n\nDiferença entre cinzas e azuis:\n\n55k − 28k = 27k = 27 · 7 = 189\n\nO erro mais comum é juntar as razões diretamente (4 : 5 : 11, por exemplo), sem igualar o termo comum das brancas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Conteúdo: geometria analítica — retas paralelas.\n\nRetas paralelas (não verticais) têm o mesmo coeficiente angular. A reta r tem m = −2/5, então s também tem m = −2/5.\n\nO coeficiente linear é a ordenada do ponto em que a reta corta o eixo y; para s, esse ponto é (0, −2), logo n = −2.\n\ns: y = −(2/5)x − 2\n\nA figura confirma: s desce da esquerda para a direita (inclinação negativa), como r. A alternativa D tem o sinal trocado (seria uma reta crescente), e A usa o inverso do coeficiente, que não dá paralelismo (nem perpendicularidade, que exigiria o inverso com sinal trocado, 5/2).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Conteúdo: migrações internacionais e a política migratória do Reino Unido (o plano Ruanda).\n\nA charge mostra migrantes num bote, com coletes salva-vidas, chegando ao Reino Unido (a bandeira britânica ao fundo). Um policial aponta para a escada de um avião com o letreiro \"Ruanda-Fretado\" e diz, com ironia, que eles podem ficar... com o colete. Trata-se da lei aprovada em abril de 2024, que previa enviar para Ruanda os solicitantes de asilo que chegassem de forma irregular, sobretudo pelo Canal da Mancha, independentemente da nacionalidade. A consequência é a deportação desses imigrantes.\n\nA A diz o oposto: a política negava a análise do asilo no Reino Unido. A C confunde o Reino Unido com o Espaço Schengen, do qual o país nunca fez parte. A D trata do Brexit, e a B contradiz o caráter restritivo da medida.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Conteúdo: conflitos territoriais e uso econômico do espaço no Nordeste.\n\nA área disputada entre Piauí e Ceará fica na Serra da Ibiapaba e é, em boa parte, zona rural, com cerca de 25 mil pessoas envolvidas. Sem definição de qual estado tem jurisdição, ficam incertos o registro das terras, o licenciamento, a cobrança de impostos e o acesso a crédito, o que afasta investimentos agropecuários. O Piauí integra o Matopiba (Maranhão, Tocantins, Piauí e Bahia), principal área atual de expansão da fronteira agrícola, e a insegurança jurídica atinge justamente as atividades do agronegócio, que dependem de títulos de propriedade claros.\n\nAs outras alternativas trazem informações erradas: a Ferrogrão liga Mato Grosso ao Pará, as obras da transposição do São Francisco não passam por essa serra, o parque eólico de Campo Largo fica na Bahia, e a região não é o maior polo de leite e proteína animal do país.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A Serra da Ibiapaba não é o núcleo do Matopiba (que no Piauí fica mais ao sul); a alternativa B é a única sem erro factual, mas a afirmação sobre a fronteira agrícola é discutível para essa área específica."
+  },
+  "0:23": {
+   "resposta": "Conteúdo: clima urbano e agricultura urbana.\n\nAs cidades têm grande parte do solo impermeabilizada por asfalto, concreto e telhados: a água da chuva não infiltra, escoa rapidamente pela superfície e sobrecarrega galerias e rios, provocando alagamentos. Hortas e pomares devolvem solo exposto e vegetação ao espaço urbano, o que aumenta a infiltração da água e reduz o escoamento superficial. Assim, ajudam a mitigar os alagamentos.\n\nAs demais alternativas distorcem os efeitos da vegetação: ela ameniza a ilha de calor em vez de \"retê-la\" (C), não potencializa a chuva ácida (B), não dispersa poluentes para a alta atmosfera (A) e amplia a biodiversidade, não a contém (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Conteúdo: matriz energética, exploração de petróleo na Margem Equatorial e transição energética.\n\nO texto mostra o conflito entre a Petrobras, que defende explorar petróleo e gás na foz do Amazonas, e o Ministério do Meio Ambiente, que resiste por razões ambientais. Ampliar a extração de combustíveis fósseis vai na direção oposta aos compromissos assumidos pelo Brasil em acordos internacionais, como o Acordo de Paris, de reduzir as emissões de gases de efeito estufa e avançar na transição para fontes limpas. Daí o risco à credibilidade desses compromissos.\n\nAs outras alternativas têm erros de conteúdo: o fitoplâncton é conhecido pela produção de oxigênio, não de nitrogênio (B); o Fundo Amazônia é um fundo brasileiro com doadores estrangeiros, não uma representação continental (C); comunidades ribeirinhas praticam pesca artesanal (D); e os recifes de coral não circundam todo o litoral (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Conteúdo: cartografia — tipos de projeção segundo as propriedades conservadas.\n\nO mapa do IBGE de 2024 tem contorno arredondado e meridianos curvos, um formato típico das projeções de compromisso (como a de Robinson ou a de Winkel Tripel). Elas não conservam integralmente nenhuma propriedade — nem áreas, nem formas, nem distâncias —, mas distribuem as deformações para que nenhuma fique exagerada. Por isso são chamadas afiláticas e são as preferidas para mapas-múndi de uso geral.\n\nAs demais alternativas descrevem outras famílias: a conforme (como a de Mercator) conserva ângulos e formas locais, com meridianos retos e paralelos; a equivalente (como a de Peters) conserva áreas; a equidistante conserva distâncias a partir de um ponto ou linha; e a azimutal é plana, com menor deformação junto ao ponto de tangência, e não na zona equatorial em geral.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Conteúdo: Grécia Antiga — Guerra do Peloponeso (431-404 a.C.).\n\nTucídides distingue os pretextos imediatos da causa mais verdadeira: o crescimento do poder de Atenas, que inquietava os espartanos e os levou à guerra. Depois das Guerras Médicas, Atenas liderou a Liga de Delos e a transformou num instrumento de domínio sobre outras cidades (cobrança de tributos, uso do tesouro comum), o chamado imperialismo ateniense. Esparta, à frente da Liga do Peloponeso, reagiu a essa hegemonia.\n\nA B é tentadora, porque Atenas (democracia) e Esparta (oligarquia militarista) eram realmente diferentes, mas o texto atribui a guerra ao poder ateniense, não ao regime. A D inverte a história: a aliança contra os persas é anterior e não causou o conflito.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Conteúdo: Brasil colonial — economia açucareira do Nordeste.\n\nO período citado (do fim do século XVII ao início do XIX) coincide com a decadência do açúcar nordestino. Depois da expulsão dos holandeses (1654), eles levaram para as Antilhas a técnica e o capital do engenho e passaram a produzir açúcar com custos menores e maior proximidade da Europa. A concorrência derrubou os preços e a participação do Brasil no mercado, e a renda da região declinou por cerca de um século, como descreve Celso Furtado.\n\nA E é anacrônica: a economia cafeeira só ganhou peso no século XIX, e no Sudeste. O pau-brasil (B) e as capitanias hereditárias (D) pertencem ao início da colonização, e a pecuária (A) era atividade complementar, que se expandiu justamente quando o açúcar entrou em crise.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Conteúdo: Reforma Protestante (século XVI).\n\nErasmo, humanista crítico da Igreja, diz que nada tornou Lutero mais popular do que \"os costumes dessa gente\", isto é, a vida dos monges e do clero. O texto fala de uma instituição vista como \"irremediavelmente corrompida\". O sucesso de Lutero veio, em boa parte, de denunciar essa crise moral: venda de indulgências, simonia (venda de cargos religiosos), luxo e ignorância de parte do clero.\n\nA D é a armadilha: Lutero criticou a venda de indulgências, mas ela não foi proibida pelos católicos naquele momento. A B inverte as doutrinas: a salvação pela fé é princípio luterano, enquanto a Igreja defendia fé e obras. A A contradiz o texto, e a C não tem relação com a fala de Erasmo (Lutero, aliás, condenou as revoltas camponesas).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Conteúdo: transição do trabalho escravo para o livre no Brasil (século XIX) e o sistema de parceria.\n\nO senador Vergueiro trouxe imigrantes europeus para sua fazenda Ibicaba, a partir de 1847, no sistema de parceria. O texto diz que a motivação era econômica, não humanitária. A pressão da Inglaterra contra o tráfico negreiro (a lei de 1831, o Bill Aberdeen de 1845) e a Lei Eusébio de Queirós (1850), que proibiu de fato o tráfico internacional, sinalizavam que a oferta de africanos escravizados ia acabar e seu preço subir. Com a lavoura cafeeira em expansão, os fazendeiros buscaram outra fonte de mão de obra.\n\nA A é tentadora, mas a substituição não decorreu de uma constatação de que o escravo produzia pouco, e sim da ameaça de falta de braços. A C contraria o texto (não havia interesse humanitário), e a B e a E não têm apoio no excerto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Conteúdo: Revolução Russa de 1917 (Revolução de Fevereiro).\n\nO texto destaca a \"imensa aspiração à paz\" dos movimentos que derrubaram o czar. A Rússia estava na Primeira Guerra Mundial desde 1914, com derrotas, milhões de mortos, fome e colapso econômico. Por isso, a saída da guerra era uma reivindicação central de soldados, operários e camponeses, resumida depois no lema bolchevique \"paz, terra e pão\". A permanência do Governo Provisório no conflito ajudou a abrir caminho para a Revolução de Outubro, e a saída veio com o Tratado de Brest-Litovsk (1918).\n\nA E é a tentadora, mas o texto fala em excluir o czar e sua família, e a monarquia foi derrubada, não reformada. A C inverte o processo (os sovietes ganharam força, a Duma perdeu), e a D contraria a reivindicação de reforma agrária (\"terra\").\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Questão de compreensão geral: qual é o propósito (purpose) do texto. Trata-se de uma reportagem da BBC que relata um fato recente: a instalação de uma tela preta (\"black mesh screen\") na calçada em frente à loja Lawson, em Fuji Kawaguchiko, para impedir que turistas continuassem se aglomerando ali, sujando as ruas e desrespeitando as regras de trânsito para fotografar o Monte Fuji.\n\nO texto informa, ouve moradores e turistas e mostra as dúvidas sobre a eficácia da medida. Isso corresponde a \"report on the installation of a screen barrier\".\n\nA alternativa D é a mais tentadora, porque o Monte Fuji e sua popularidade aparecem no começo, mas são apenas o pano de fundo; o foco é a barreira. O texto também não defende medidas ambientais (A), não minimiza danos (B) nem dá conselhos (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Questão de localização de informação nos dois primeiros parágrafos. O segundo parágrafo explica que a barreira resultou de \"a chorus of complaints from locals\": os moradores dizem que sua vida foi perturbada por turistas que \"dirty the streets and disobey traffic rules\", ou seja, sujam as ruas e desobedecem às regras de trânsito.\n\nEsse é o incômodo central: o comportamento de visitantes que desrespeitam normas e costumes locais, o que interfere no modo de vida da cidade. Isso corresponde à alternativa A.\n\nAs demais extrapolam o texto: não se fala de estrangeiros buscando abrigo (B), nem se restringe o problema a turistas jovens (C); as malas pesadas aparecem só como descrição da cena, sem destruição de espaços históricos (D); e nenhuma loja foi fechada pelo governo (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Questão de vocabulário em contexto. Em \"a sign of Japan's struggle to accommodate this many visitors\", o substantivo \"struggle\" significa luta, esforço difícil para conseguir algo. O Japão se esforça para acomodar tantos visitantes e, ao mesmo tempo, proteger suas ruas e seu modo de vida.\n\nO equivalente mais próximo é \"intense effort\" (esforço intenso).\n\n\"Unbeatable fight\" (E) pode tentar pela ideia de luta, mas \"unbeatable\" (imbatível) acrescenta um sentido que o texto não tem. \"Sincere wish\" (desejo sincero), \"increasing urgency\" (urgência crescente) e \"desired pact\" (pacto desejado) não traduzem a ideia de esforço.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Questão sobre conectivo. Em \"a sign of Japan's struggle to accommodate this many visitors while protecting its streets...\", a conjunção \"while\" indica simultaneidade: o país tenta acomodar os turistas e, ao mesmo tempo, proteger suas ruas, seus pontos famosos e seu modo de vida.\n\nAssim, \"while\" corresponde a \"ao mesmo tempo que\".\n\n\"While\" pode ter valor de contraste (\"enquanto, ao passo que\"), mas nenhuma alternativa traz essa leitura, e \"ao invés de\" (A) seria \"instead of\", que inverte o sentido. \"Com o objetivo de\" seria \"in order to\"; \"como resultado de\", \"as a result of\"; \"uma vez que\", \"since/because\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Questão de referenciação (coesão). \"This dedication\" retoma o que foi dito no parágrafo anterior: o turista do Cazaquistão, Yuri Vavilin, ficou decepcionado por perder a foto, mas afirma que voltará e tentará fotografar \"from either end of the screen\", de qualquer das pontas da tela. Ele ainda prevê que alguém fará um buraco na barreira para tirar a foto.\n\nA \"dedicação\" que surpreende o morador Kazuhiko Iwama é, portanto, o empenho dos turistas em fotografar o Monte Fuji apesar das objeções (a barreira e as reclamações).\n\nNada se diz sobre preservação ambiental (A), sobre compromisso dos japoneses em deter turistas (B), sobre locais de difícil acesso (D) nem sobre o governo local (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Movimento uniforme: com velocidade constante, basta achar a velocidade num trecho e aplicá-la no outro.\n\nDe Itirapina (9h20) a Campinas (13h20) passaram 4 h para 120 km:\nv = 120 km ÷ 4 h = 30 km/h\n\nDe Campinas a Jundiaí são 40 km:\nΔt = 40 km ÷ 30 km/h = 4/3 h = 1 h 20 min\n\nHorário de chegada:\n13h20 + 1h20 = 14h40\n\nErro comum: ler 4/3 h como 1,33 h e converter para 1h33; 1/3 de hora são 20 minutos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Conservação da energia mecânica num sistema massa–mola sem atrito. A energia potencial elástica é E = k·x²/2, com x medido a partir da posição em que a mola não está deformada (x = 0).\n\nNa posição x = 2L o bloco está em repouso, então toda a energia é elástica:\nE = k·(2L)²/2 = 2k·L²\n\nNa posição x = L, parte da energia continua elástica:\nEel = k·L²/2\n\nA energia cinética é a diferença:\nEc = 2k·L² − k·L²/2 = (3/2)·k·L²\n\nErro típico: achar que, na metade do caminho, metade da energia já virou cinética (k·L²). Como a energia elástica depende do quadrado da deformação, em x = L resta só 1/4 da energia inicial, e 3/4 viraram cinética.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Transformações de energia. No experimento de Joule, a energia potencial gravitacional dos pesos vira energia mecânica (cinética) das pás, e o atrito das pás com a água a converte em energia térmica: é a transformação de **energia mecânica em calor**, que mostrou a equivalência entre trabalho e calor.\n\nEsfregar as mãos é exatamente isso: o trabalho realizado contra o atrito entre as mãos se converte em energia térmica, aquecendo-as.\n\nNas outras alternativas a transformação é diferente: o forno a lenha (A) e o fogão a gás (D) convertem energia química da combustão em calor; o condicionador de ar (C) usa energia elétrica; o motor a explosão (E) faz o caminho inverso, de energia química (calor) para mecânica.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Refração e lentes. Uma lente só desvia a luz se o índice de refração do material (n(lente)) for diferente do índice do meio (n(meio)); se forem iguais, a luz atravessa sem desvio. A questão pergunta apenas se o índice deve ser maior ou menor.\n\nO que a relação entre os índices decide é o comportamento da lente:\n- n(lente) > n(meio): bordas finas (grupo 1) convergem e bordas grossas (grupo 2) divergem;\n- n(lente) < n(meio): inverte-se, bordas finas divergem e bordas grossas convergem.\n\nNos dois casos o objeto funciona como lente, só muda se ela é convergente ou divergente. Por isso o índice pode ser maior ou menor que o do meio, para os dois grupos.\n\nA tentação é a alternativa B, pensando no caso usual (vidro no ar), mas a condição exigida é apenas que os índices sejam diferentes.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Lei de Ohm em circuito série: a corrente é a mesma no reostato e na lâmpada, e a resistência equivalente é a soma das duas.\n\nCom Rv = 60 Ω e i = 0,40 A:\nReq = U ÷ i = 120 ÷ 0,40 = 300 Ω\nR(lâmpada) = 300 − 60 = 240 Ω\n\nPara i = 0,20 A:\nReq = 120 ÷ 0,20 = 600 Ω\nRv = 600 − 240 = 360 Ω\n\nErro comum: pensar que, para reduzir a corrente pela metade, basta dobrar a resistência do reostato (120 Ω) ou que a lâmpada não entra na conta. Quem dobra é a resistência total, de 300 Ω para 600 Ω; a alternativa E (240 Ω) é a resistência da lâmpada, não do reostato.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

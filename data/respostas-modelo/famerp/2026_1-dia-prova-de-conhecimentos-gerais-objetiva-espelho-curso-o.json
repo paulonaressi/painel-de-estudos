@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/famerp/2026_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão pede a leitura de um meme, gênero que produz humor pela combinação de legenda e imagem. A legenda, em inglês, diz: \"eu contando um segredo à minha mãe\" e \"minha mãe no dia seguinte\". A foto mostra uma mulher falando diante de um homem com uma câmera montada num tripé, como se desse uma entrevista à imprensa.\n\nO exagero da cena sugere que, no dia seguinte, a mãe já está espalhando o segredo para todo mundo, como se o anunciasse na televisão. Ela é, portanto, uma pessoa que não sabe guardar segredo: indiscreta, alternativa C.\n\nA alternativa A, \"impulsiva\", até combina com a pressa em contar, mas o traço que o meme destaca é a falta de discrição, e não um temperamento de agir sem pensar. As demais (sensível, rancorosa, carismática) não têm relação com a cena.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "O conteúdo é a metalinguagem: a linguagem que fala de si mesma, como um poema sobre o próprio fazer poético.\n\nEm \"Tortura\", Florbela Espanca trata do ato de escrever. O eu lírico tenta \"tirar dentro do peito\" a emoção e sonhar \"um verso de alto pensamento\", mas o resultado vira \"cinza\" e \"pó\" depois de sair do coração. Na terceira estrofe, julga os próprios versos \"ocos, rudes\", e na última deseja encontrar \"o verso puro\" que expresse o que sente. O tema central é, portanto, a criação poética e a distância entre o sentimento e a palavra: o teor é metalinguístico, alternativa D.\n\nA comparação \"como um ritmo de oração\" pode atrair para a alternativa A, mas é apenas uma imagem: o poema não trata de religião. Também não há crítica social, saudade do passado nem ironia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão trata da concepção de poesia do eu lírico. O ideal estético aparece com nitidez nos dois tercetos. O eu lírico condena os próprios versos por serem ocos, versos \"com que eu iludo os outros, com que minto!\", e deseja \"o verso puro\" que dissesse, \"a chorar, isto que sinto!!\".\n\nO critério que guia esse ideal é, portanto, a sinceridade: o bom verso é aquele que traduz com fidelidade o que o poeta sente, sem enganar o leitor. É a alternativa B.\n\nA alternativa A (beleza) é a armadilha: o eu lírico até qualifica o verso desejado como \"altivo e forte, estranho e duro\", mas o defeito que aponta nos seus versos é a mentira, e não a falta de beleza. Clareza, erudição e originalidade não são mencionadas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão pede que se reconheça a estética literária pelos aspectos formais do poema.\n\n\"Tortura\" é um soneto, forma fixa de dois quartetos e dois tercetos. Os versos são decassílabos, como em \"Ti-rar-den-tro-do-pei-to a E-mo-ção\", com dez sílabas poéticas, e as rimas são regulares, por exemplo emoção/coração e sentimento/vento, alternadas nos quartetos. Esse rigor formal, com soneto, métrica fixa e rimas ricas e bem marcadas, é a marca do Parnasianismo, alternativa E.\n\nO conteúdo confessional e emotivo poderia lembrar o Romantismo (A), mas o enunciado pede expressamente os aspectos formais. O Modernismo (D) se caracteriza pelo verso livre e pela ruptura com as formas fixas, o oposto do que se vê aqui. Naturalismo e Realismo são estéticas da prosa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "O conteúdo é a ordem dos termos da oração, com o sujeito posposto ao verbo.\n\nEm A, \"São assim ocos, rudes, os meus versos\", o verbo \"são\" concorda com \"os meus versos\", que é o sujeito e aparece no fim do verso. Na ordem direta, a frase seria \"Os meus versos são assim ocos, rudes\". O sujeito está, portanto, posposto.\n\nNas outras alternativas, isso não acontece. \"Encontrar\", \"sonhar\" e \"tirar\" são infinitivos com sujeito indeterminado ou elíptico, sem um termo explícito depois deles que funcione como sujeito, e o que vem após o verbo é objeto direto (\"o verso puro\", \"um verso\", \"a Emoção\"). Em E, o sujeito de \"dissesse\" é o pronome relativo \"que\", que vem antes do verbo, e \"isto que sinto\" é objeto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "O conteúdo é a antítese, figura que aproxima ideias opostas.\n\nEm C, Sacks diz que muitas vezes sente que a vida \"está prestes a começar\" e percebe que ela \"está quase no fim\". Começo e fim se opõem diretamente na mesma frase, o que forma um enunciado antitético. A oposição resume o sentimento do autor aos oitenta anos: o entusiasmo de quem ainda tem projetos convive com a consciência da proximidade da morte.\n\nAs demais não trazem esse contraste. Em A, \"da nossa\" e \"de outros\" apenas se somam. Em B, há uma repetição de \"concluir\". Em D, o trecho é narrativo. Em E, quarenta e sessenta são idades citadas lado a lado, sem oposição de sentido.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "O tema é a interpretação de uma fala e do sentimento que ela revela.\n\nAo saber da volta do câncer, Francis Crick ficou em silêncio, olhou ao longe por um minuto e voltou ao trabalho. Semanas depois, perguntado sobre o diagnóstico, respondeu: \"Tudo o que tem um começo deve ter um fim\". A frase mostra aceitação serena de algo inevitável, sem revolta nem lamento. Esse sentimento é a resignação, alternativa B. O contexto confirma a leitura: Sacks cita Crick como modelo de quem morreu \"na ativa\", comprometido com o próprio trabalho.\n\nA resposta não expressa mágoa nem indignação, o que pressuporia revolta, nem incredulidade, porque ele não nega o diagnóstico. A perplexidade (E) também não serve: o silêncio inicial poderia sugerir espanto, mas a pergunta é sobre a resposta posterior, que é tranquila e conformada.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "O conteúdo é a personificação (ou prosopopeia), que atribui características humanas a seres inanimados ou abstratos.\n\nNo último parágrafo, o autor diz ter visto teorias \"acabarem derrubadas por fatos teimosos\". Teimosia é um traço de comportamento humano: quem é teimoso insiste e não cede. Ao chamar os fatos de \"teimosos\", Sacks os trata como se tivessem vontade própria e resistissem às teorias até derrubá-las. É a alternativa D.\n\nNas outras expressões, os adjetivos podem ser aplicados normalmente aos substantivos, sem humanizá-los: teorias podem ser notáveis, experiências podem ser longas, urgências podem ser infundadas e ambiguidades podem ser profundas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "O conteúdo são as orações adverbiais e o valor dos conectivos.\n\nEm \"Ele sentiu, como começo a sentir, não um encolhimento, e sim uma expansão\", a conjunção \"como\" introduz uma oração comparativa. O autor compara a própria experiência com a do pai: o pai sentiu essa expansão da vida mental aos oitenta anos, assim como ele, Sacks, começa a sentir agora. Uma boa substituição é \"assim como\" ou \"do mesmo modo que\", o que confirma a ideia de comparação, alternativa C.\n\nO erro mais comum é ler \"como\" como causal (B). Para isso, ele teria de vir antes da oração principal e equivaler a \"já que\", o que não se encaixa aqui: o fato de Sacks começar a sentir algo não é a causa do que o pai sentiu.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "O conteúdo é a regência verbal, isto é, a relação entre o verbo e seus complementos.\n\nNo trecho, os dois verbos compartilham o mesmo complemento, \"uma existência após a morte\", mas têm regências diferentes. \"Crer\" é transitivo indireto nesse sentido e exige a preposição \"em\" (quem crê, crê em algo). \"Desejar\" é transitivo direto e não aceita preposição (quem deseja, deseja algo).\n\nPor isso os parênteses vêm depois de \"em\". Assim, a preposição fica ligada só a \"creio\", e \"nem desejo\" se liga diretamente a \"uma existência\". Se o parêntese viesse logo após \"creio\", a construção ficaria \"desejo em uma existência\", o que é um erro de regência. A questão é, portanto, de regência verbal, alternativa E.\n\nA regência nominal (D) diz respeito a nomes, como substantivos e adjetivos, e não a verbos. Concordância e estilo não explicam essa posição.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "É uma questão de compreensão geral sobre a ideia central do texto. A reportagem apresenta um estudo de dez anos no Quênia: dar 1.000 dólares a famílias pobres reduziu a mortalidade infantil quase pela metade e as mortes de crianças com menos de 5 anos em 45%, queda maior do que a atribuída a vacinas ou mosquiteiros. Um economista chama o resultado de \"o maior impacto\" que já viu, e o último parágrafo reforça os benefícios das transferências de renda. O objetivo do texto é, portanto, destacar a eficácia da ajuda em dinheiro, alternativa B.\n\nA alternativa A toma um detalhe pelo todo, porque vacinas e mosquiteiros aparecem só como termo de comparação. A D contradiz o texto, e a C e a E prometem explicações de causas e um histórico que o texto não traz.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "O conteúdo é vocabulário e referência textual. \"Drops\" significa \"quedas\", \"reduções\". Na frase \"Those are much bigger drops than have been credited to routine immunizations\", o autor retoma os dados anteriores: a mortalidade infantil caiu quase pela metade e as mortes de crianças com menos de 5 anos caíram 45%. São essas quedas que ele diz serem maiores do que as atribuídas às vacinas e aos mosquiteiros. A palavra se refere, portanto, às reduções na mortalidade infantil e nas mortes de crianças, alternativa A.\n\nA alternativa B é a armadilha: vacinas e mosquiteiros aparecem logo depois na frase, mas como termo de comparação, e não como aquilo que \"drops\" designa.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "O conteúdo é o sentido de vocabulário pelo contexto. \"Showstopping\" vem de \"showstopper\", o número de um espetáculo tão impressionante que o público aplaude até interromper o show. Por extensão, significa \"impressionante\", \"extraordinário\".\n\nO contexto confirma essa leitura: o economista acabou de dizer que aquele é \"easily the biggest impact\", ou seja, de longe o maior impacto que já viu numa intervenção contra a pobreza. O sinônimo adequado é \"stunning\", que quer dizer impressionante, espantoso: alternativa A.\n\nAs demais contrariam o tom elogioso da fala: \"ordinary\" (comum), \"partial\" (parcial), \"questionable\" (questionável) e \"temporary\" (temporário).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "O conteúdo são os verbos modais. \"Might\" expressa possibilidade, e com grau baixo ou moderado de certeza. Na frase, os resultados \"sugerem\" que dar quantias ainda menores às famílias perto do parto poderia permitir que as mulheres buscassem atendimento médico e melhorassem muito as chances de sobrevivência dos filhos. É uma hipótese sobre um efeito possível, e não uma certeza: um resultado potencial, alternativa D.\n\nO próprio verbo \"suggest\" reforça o tom cauteloso. A alternativa A (certeza forte) seria expressa por \"will\", e a B (necessidade) por \"must\" ou \"have to\". \"Might\" também não indica verdade universal nem fato passado já ocorrido.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "O enunciado pede o trecho que mostra um efeito do auxílio financeiro além da queda na mortalidade infantil.\n\nA alternativa C diz que, de modo geral, os experimentos verificaram que dar dinheiro a famílias pobres melhora a frequência escolar, a nutrição e o uso de serviços de saúde. São benefícios diferentes da sobrevivência das crianças, e por isso esse trecho confirma a afirmação.\n\nAs demais não servem. A E trata justamente da redução da mortalidade, que é o efeito já conhecido, e não de outro. A D apresenta o problema, que são 32 mortes a cada mil nascimentos. A B fala de estudos em geral, e a A apenas informa quantos países adotaram transferências de renda, sem citar resultados.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão pede a interpretação de uma citação. Na frase de Michael Jordan, \"All I knew is that I never wanted to be average\", \"average\" significa \"mediano\", \"comum\". O jogador diz que a única certeza que sempre teve foi a de não querer ser apenas mais um, o que revela a ambição de superar a mediocridade. O \"never\" destacado na imagem reforça que esse desejo sempre existiu. É a alternativa E.\n\nA alternativa D diz o oposto, porque falta de ambição é justamente o que ele recusa. As demais (indiferença ao sucesso, preferência por seguir os outros, fuga de desafios) também contrariam a ideia de quem quer se destacar.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "É uma questão de interpretação de letra de música. O eu lírico se dirige a alguém que sofreu numa relação anterior e se oferece para ajudar, dizendo que pode curar a dor que a pessoa sente por dentro. Promete ser bom para ela, protegê-la, amá-la e respeitá-la, e pede várias vezes que ela lhe mostre o coração. O sentimento predominante é o desejo sincero de cuidar e de curar, alternativa D.\n\nA alternativa B é a armadilha: há, sim, um relacionamento perdido, mas ele é da pessoa amada, com \"him\", e não do eu lírico, que está esperançoso, e não triste. Não há raiva (A), nem um olhar distante sobre erros passados (C), nem uma postura emocionalmente fechada (E). Ao contrário, o eu lírico se expõe e insiste.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "O conteúdo são as funções de \"that\" em inglês. No verso da 3ª estrofe sobre um amante que não consegue ser amigo, \"that\" é pronome relativo: retoma \"a lover\" e introduz a oração que o caracteriza, equivalente a \"que\" ou \"who\" em português.\n\nEm A, \"I read a book that changed my life\", \"that\" tem a mesma função: retoma \"a book\" e introduz a oração relativa (\"um livro que mudou minha vida\").\n\nNas outras, a função é diferente. Em B e D, \"that\" é conjunção integrante, que introduz o conteúdo do que foi dito. Em C, é pronome demonstrativo (\"aquilo\"). Em E, também é conjunção (\"não é que eu não me importe\").\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "O conteúdo é a correção enunciativa: o falante reformula o que acabou de dizer, ajustando o próprio discurso.\n\nNa quarta estrofe, o eu lírico diz que daria à pessoa amada proteção, amor e respeito como já faz, e logo se corrige: com a expressão \"or rather\" (\"ou melhor\"), troca o presente pelo condicional e passa a dizer que faria. \"Or rather\" é a marca típica da autocorreção. A mudança faz sentido: o eu lírico percebe que ainda não está na relação, então não pode dizer que já oferece esse cuidado, apenas que ofereceria. É a alternativa B.\n\nAs outras são pedidos ou desejos (A, C, E) e uma hipótese (D), sem nenhuma reformulação do que foi dito antes.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "É uma questão de leitura de cartaz publicitário. O cartaz do órgão do estado de Nova York para dependência química pergunta em destaque \"Struggling with addiction?\", isto é, \"Lutando contra a dependência?\". Em seguida, afirma: \"This is the sign you've been waiting for\", \"este é o sinal que você estava esperando\". Há um jogo de palavras com \"sign\", que significa \"sinal\" e também \"placa\" ou \"cartaz\": o próprio cartaz se apresenta como o sinal para a pessoa buscar ajuda. A frase \"Every Step of the Way\" (\"em cada passo do caminho\") promete apoio. O objetivo é chamar a atenção de quem enfrenta a dependência, alternativa B.\n\nO cartaz não fala de consequências legais (A), transporte gratuito (C), novo tratamento (D) nem coleta de dados (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "O tema é a pólis da Antiguidade clássica, a cidade-Estado grega e romana, e a organização do seu espaço urbano.\n\nO autor afirma que a grande novidade dessas cidades foi a criação de espaços públicos, como a ágora grega e o fórum romano. Eram centrais e não pertenciam a nenhuma instituição dominante, como um palácio ou um templo. Ali os cidadãos se reuniam para discutir, comerciar e decidir assuntos coletivos, e por isso, \"em termos arqueológicos\", uma pólis se reconhece pela ágora ou pelo fórum. É a alternativa A.\n\nA B descreve o modelo palaciano que o texto contrapõe à pólis. A D erra porque o texto diz que a religião ganhou caráter \"cívico e público\", e não de devoção íntima. A C e a E tratam de temas que o excerto não aborda.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "O tema são as ordens mendicantes da Baixa Idade Média: os dominicanos, fundados por São Domingos de Gusmão, e os franciscanos, fundados por São Francisco de Assis, aprovadas pelo papa Inocêncio III no início do século XIII.\n\nNo contexto do renascimento urbano e comercial, a Igreja era criticada pela riqueza, e heresias como a dos cátaros e a dos valdenses atraíam fiéis com a pregação da pobreza. Segundo Duby, o papa entendeu que, para responder a esse povo e \"desarmar as heresias\", precisava apoiar frades que viviam em pobreza, iam diretamente às pessoas e pregavam na língua vulgar, e não no latim. A Igreja mudou, assim, sua forma de se relacionar com os pobres e de pregar, alternativa A.\n\nA D inverte o texto, porque os frades eram aliados contra as heresias, e não hereges. As \"comunidades eclesiais de base\" (C) são um fenômeno do século XX.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "O tema é a mineração no Brasil colonial do século XVIII e a formação de um mercado interno em torno das Minas Gerais.\n\nO excerto mostra que a abertura do Caminho Novo, que ligava a região ao Rio de Janeiro, intensificou o trânsito de pessoas e mercadorias. Vila Rica passou a receber alimentos, gado e manufaturados, em boa parte importados e redistribuídos pelos portos. A mineração criou, assim, uma rede de abastecimento que integrou as Minas ao Rio de Janeiro, a São Paulo e a outras regiões, como o Sul, que fornecia gado e mulas. É a alternativa E.\n\nA D é anacrônica, porque as ferrovias só chegam no século XIX. A C também, pois os Estados Unidos ainda não existiam como país, e o pacto colonial impunha a intermediação de Portugal. A B contraria a história: as Minas viveram crises de fome no início da ocupação, e a autossuficiência nunca existiu. A A não tem apoio no texto, e houve revoltas no período, como a de Vila Rica, em 1720.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "O tema é a economia açucareira do Brasil colonial, base da colonização de povoamento e exploração entre os séculos XVI e XVII.\n\nO excerto fala de uma \"colônia de agricultura tropical capitalizada a partir da Europa\", que atendia à demanda europeia por produtos tropicais. No século XVII, esse produto era o açúcar, produzido nos engenhos do Nordeste, sobretudo em Pernambuco e na Bahia, em grandes latifúndios monocultores. A mão de obra predominante era a dos africanos escravizados, trazidos pelo tráfico atlântico, que também dava grandes lucros. Essas características correspondem à alternativa C.\n\nA D é anacrônica, porque o café só ganha importância no século XIX. O cacau (A) e o algodão (B) foram secundários no período e não usavam trabalho imigrante nem exclusivamente indígena. O comércio de produtos florestais com mão de obra livre (E) também não corresponde à economia da época.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "O tema é a Revolução Francesa e a crítica aos privilégios do Antigo Regime.\n\nNo Antigo Regime, até a pena de morte variava conforme a ordem social: nobres eram decapitados à espada, e plebeus enfrentavam a forca, a roda e outros suplícios demorados. O texto diz que a proposta de Guillotin buscava eliminar dois escândalos: essa desigualdade na execução e o sofrimento dos condenados. Uma mesma máquina, aplicada a todos os condenados, traduz o princípio da igualdade perante a lei, um dos pilares da Revolução. É a alternativa B.\n\nA A é a mais tentadora, porque a guilhotina ficou associada ao Terror. Mas a pergunta é sobre a proposta original, de 1789-1792, cuja motivação o texto explica. A D erra porque a pena de morte foi mantida, e não houve valorização da vida. A C e a E não têm apoio no excerto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "O tema é o neocolonialismo (ou imperialismo) europeu na África no século XIX e suas justificativas ideológicas, como o racismo \"científico\" e a ideia de \"missão civilizadora\".\n\nA autora mostra que a hierarquia entre raças \"superiores\" e \"inferiores\" ganhou, no século XIX, uma falsa legitimidade científica. Essa classificação servia para apresentar a dominação da África como \"necessária\" para \"desenvolver os selvagens\" segundo os valores ocidentais. O excerto identifica, portanto, a construção de um discurso que une o projeto político colonial ao etnocentrismo europeu, a crença na superioridade da própria cultura. É a alternativa D.\n\nA C é a armadilha: o texto descreve essa defesa da supremacia europeia, mas para criticá-la (\"falsa legitimidade\"), e não para endossá-la. A A e a B deslocam o tema, e a E inverte o papel atribuído ao Iluminismo, cujo \"mito\" do saber científico foi usado para legitimar a desigualdade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "O tema é a escravidão no Brasil do século XIX, retratada pelo artista francês Jean-Baptiste Debret, que viveu no Rio de Janeiro entre 1816 e 1831.\n\nA litografia mostra um armazém do Valongo, o maior mercado de escravizados das Américas. Os africanos aparecem quase nus, magros, sentados ou deitados no chão, alguns ainda crianças. À direita, o traficante e o comprador estão vestidos à europeia, de chapéu e casaca, e o senhor está sentado numa cadeira. A cena evidencia o contraste entre as figuras, nas roupas e no estado dos corpos, alternativa C.\n\nA B e a D são anacrônicas, porque a obra é de 1835, antes da abolição (1888) e do movimento abolicionista organizado. A A ignora o caráter comercial do espaço, e a E lê como \"naturalidade\" uma cena que expõe a desumanização.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "O tema é a entrada do Brasil na Segunda Guerra Mundial durante o Estado Novo de Getúlio Vargas.\n\nAté 1941, Vargas manteve uma política ambígua, negociando ao mesmo tempo com a Alemanha e com os Estados Unidos. Os norte-americanos ofereceram financiamento e tecnologia, como o crédito para a Companhia Siderúrgica Nacional, em Volta Redonda, e equipamento militar, em troca do alinhamento brasileiro e do uso de bases no Nordeste. Em janeiro de 1942, o Brasil rompeu relações com o Eixo, e, após o afundamento de navios brasileiros por submarinos alemães e a pressão popular citada no texto, declarou guerra em agosto de 1942. Essas negociações com os Estados Unidos correspondem à alternativa A.\n\nA B erra, porque a URSS não era aliada de Vargas, que era anticomunista. A C e a E também erram: o Estado Novo era uma ditadura com traços fascistas, e não um regime militar, e não havia identidade ideológica com os Aliados. A D atribui o processo a anarquistas e socialistas, que não tiveram esse papel.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "O tema são as consequências da Segunda Guerra Mundial (1939-1945) no mundo e no Brasil.\n\nA vitória aliada derrotou o nazismo e o fascismo e desacreditou os regimes autoritários, enquanto a democracia liberal ganhou prestígio no Ocidente. No Brasil, ficou evidente a contradição de lutar na Europa contra ditaduras enquanto se vivia sob uma, e o Estado Novo desmoronou: Vargas foi deposto em outubro de 1945, os partidos foram reorganizados e veio a Constituição democrática de 1946. É a alternativa E.\n\nA A erra porque o Partido Comunista foi legalizado no Brasil em 1945 (só seria cassado em 1947), e os comunistas saíram fortalecidos em vários países da Europa. A C também erra, porque o fascismo foi derrotado e o grande confronto que se seguiu, a Guerra Fria, opôs capitalismo e comunismo. A B e a D não descrevem o cenário do pós-guerra, que foi de forte militarização.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão pede a leitura de um gráfico ligada à história econômica da Nova República, com o tema da hiperinflação e dos planos de estabilização.\n\nO gráfico mostra inflação mensal alta e crescente nos anos 1980, com picos perto de 80% ao mês por volta de 1989-1990, no fim do governo Sarney, e novamente perto de 45% no início de 1994. A partir de meados de 1994, a curva despenca para valores próximos de zero e assim permanece até 2012. Essa queda coincide com o Plano Real, lançado em julho de 1994 no governo Itamar Franco, quando Fernando Henrique Cardoso era ministro da Fazenda. É a alternativa B.\n\nA D e a E contrariam o gráfico, que mostra justamente os períodos de maior instabilidade. A A atribui a estabilidade de preços a \"crescimento econômico\", e a C ignora que a inflação já crescia no regime militar.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Tema: **geopolítica da China na América do Sul** e corredores logísticos bioceânicos.\n\nUma ferrovia ligando o litoral baiano ao porto de Chancay (Peru, construído com capital chinês) encurta a rota entre a produção sul-americana e o Pacífico, ou seja, o caminho até a Ásia. A China é a maior compradora de soja, minério e carne da região; baratear e agilizar esse fluxo amplia sua influência econômica e política no continente, servindo tanto às exportações sul-americanas quanto às importações chinesas.\n\nAs demais alternativas exageram ou distorcem: não há objetivo militar (A), nem redesenho de fronteiras (D); falar em \"escassez crônica\" que seria \"solucionada\" (B) vai além do texto; e uma ferrovia de integração não é infraestrutura de \"segregação\" (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Tema: **dinâmica demográfica e expansão da fronteira agrícola**.\n\nMato Grosso cresceu 1,49% em um ano, quase quatro vezes a média nacional (0,39%). Como o crescimento vegetativo brasileiro está em queda em todas as regiões, a diferença se explica sobretudo pela migração: o estado é o maior produtor de grãos e de gado do país, e o agronegócio (lavouras, frigoríficos, logística, serviços nas cidades médias como Sinop, Sorriso e Lucas do Rio Verde) atrai trabalhadores de outras regiões.\n\nAs outras opções não descrevem a economia mato-grossense: biotecnologia (A) e setor quaternário (C) não são o motor do estado, privatizações (B) não explicam migração, e zona franca (E) é traço de Manaus, não de Mato Grosso.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Tema: **camada de ozônio e acordos ambientais**.\n\nO gráfico mostra uma queda brusca a partir de 1989 até valores próximos de zero no século XXI. Esse é o comportamento típico do consumo de **clorofluorcarbonos (CFCs)**, gases que destroem o ozônio estratosférico. O Protocolo de Montreal (assinado em 1987, em vigor desde 1989) estabeleceu a eliminação progressiva dos CFCs e é considerado o acordo ambiental mais bem-sucedido justamente por isso.\n\nO contraste ajuda a descartar as outras: emissões de gás carbônico e metano continuam crescendo no mundo, e o Acordo de Paris (2015) e o Protocolo de Kyoto (1997) são posteriores ao início da queda; o ozônio não é a substância cuja emissão foi controlada; Cartagena trata de biossegurança e Nagoya, de recursos genéticos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Tema: **projeções cartográficas e eurocentrismo**.\n\nA projeção de Mercator (1569) é cilíndrica e conforme: preserva ângulos, útil à navegação, mas distorce as áreas, ampliando muito as regiões de alta latitude. Assim, a Groenlândia parece do tamanho da África, embora a África seja cerca de 14 vezes maior; Europa e América do Norte aparecem infladas. A crítica da União Africana é que essa imagem diminui o continente e reforça uma visão eurocêntrica, por isso a defesa de projeções equivalentes, como a de Peters ou a Equal Earth.\n\nNão se trata de erro de coordenadas (B): a posição da África está correta, o problema é o tamanho relativo. Fronteiras coloniais (A) e omissão de recursos (E) não são propriedades da projeção.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Tema: **degradação dos solos no semiárido**.\n\nO mapa destaca o semiárido nordestino e as áreas subúmidas secas ao redor, exatamente as categorias usadas pela ONU para definir as terras suscetíveis à **desertificação**: degradação da terra em zonas áridas, semiáridas e subúmidas secas, causada por variações climáticas e por atividades humanas (desmatamento da caatinga, sobrepastoreio, manejo inadequado do solo e salinização na irrigação). Núcleos como Gilbués (PI) e Seridó (RN/PB) são exemplos.\n\nA alternativa mais próxima é a arenização (E), mas ela ocorre em clima úmido, sobre solos arenosos, como no sudoeste do Rio Grande do Sul, e não está ligada à aridez. Ressurgência e eutrofização são fenômenos aquáticos; subsidência é afundamento do terreno.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Tema: **cidades inteligentes e alfabetização midiática**.\n\nO texto explica que as Cidades MIL acrescentam às cidades inteligentes um componente humano: capacitar moradores e empresas para um uso \"crítico, ético, criativo e responsável\" das tecnologias e da informação. Alfabetização midiática e informacional significa justamente saber avaliar fontes, checar dados e consumir mídia com senso crítico, o que fortalece o combate à desinformação.\n\nAs demais se apoiam em elementos que o texto descarta: o foco não está na infraestrutura (acesso à internet, subsídios, distribuição digital, gratuidade de aplicativos) e sim nas pessoas; e \"padronizar\" com divulgação \"unilateral\" (A) é o oposto de formar cidadãos críticos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Tema: **leitura de curvas de nível**.\n\nNuma carta topográfica, cada curva liga pontos de mesma altitude, e a equidistância entre elas é constante. Por isso o espaçamento horizontal indica a declividade: curvas muito próximas significam grande variação de altitude em pouca distância (terreno íngreme); curvas afastadas, terreno suave.\n\nNo segmento 1-2 as curvas estão amontoadas, quase coladas umas às outras: é o trecho mais íngreme da carta. Isso confirma a alternativa E.\n\nAs outras falham no critério: a forma das curvas (convexa, côncava, sinuosa) não mede inclinação; e o trecho 5-6, embora tenha curvas mais espaçadas, cruza várias delas, logo não é plano. O segmento 3-4 também cruza curvas bem juntas, portanto não é suave.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Tema: **Revolução Verde**.\n\nOs dados mostram que a produção de grãos cresceu de 2 para 8 bilhões de toneladas (×4), mais do que a população (×2,7), e que o rendimento passou de 1,3 para 4 t/ha. O aumento veio principalmente da produtividade, não da expansão da área. Esse é o resultado da Revolução Verde, difundida a partir das décadas de 1950–1960: sementes melhoradas (híbridas, de alto rendimento), fertilizantes químicos, agrotóxicos, irrigação e mecanização.\n\nAs alternativas com \"Revolução Agrícola\" usam o nome de outro processo (o dos séculos XVIII–XIX, na Europa) e atribuem a ele medidas que não ocorreram. A (D) erra o conteúdo: a Revolução Verde não promoveu reforma agrária; ao contrário, favoreceu a concentração fundiária e a grande produção.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Tema: **tectônica de placas e expansão do assoalho oceânico**.\n\nA linha branca no meio do Atlântico é a **dorsal mesoatlântica**, um limite divergente: as placas Sul-Americana e Africana (e Norte-Americana e Euroasiática) se afastam, o magma sobe pela fenda (rifte) e forma nova crosta oceânica. Esse processo é o rifteamento.\n\nNo mapa, o vermelho acompanha a dorsal dos dois lados e as cores mudam simetricamente para amarelo, verde e azul rumo aos continentes. Isso representa a idade das rochas: a crosta mais jovem fica junto à dorsal e a mais antiga perto das margens continentais.\n\nSubducção (B) ocorre em limites convergentes, não no centro do Atlântico; intemperismo, metamorfismo e sedimentação não formam essa cadeia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Tema: **ciclagem de nutrientes em florestas**.\n\nO \"lixo verde\" descrito no texto (folhas, galhos, flores, frutos caídos) que vira composto e fertiliza o solo corresponde, na floresta, à **serrapilheira** (ou serapilheira): a camada de matéria orgânica que se acumula no chão. Fungos, bactérias e pequenos animais a decompõem, devolvendo nutrientes ao solo e às raízes, o que sustenta florestas como a Amazônica mesmo sobre solos pobres.\n\nAs outras não se encaixam: fotossíntese é um processo de produção de matéria orgânica, não um resíduo; banquisa é gelo marinho; moraina é depósito de sedimentos deixado por geleiras; restinga é vegetação de cordões arenosos litorâneos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Tema: **cadeias e teias alimentares; níveis tróficos**.\n\nA cadeia começa no produtor (fitoplâncton, 1º nível) e é preciso achar o caminho mais longo seguindo as setas. Por exemplo:\n\nfitoplâncton → camarão/krill → arenque (peixe central) → cação → foca\n\nou fitoplâncton → camarão → cavala (peixe da esquerda) → bacalhau → foca.\n\nAmbas têm 5 níveis tróficos: produtor, consumidor primário, secundário, terciário e quaternário. Não há caminho com seis elos, porque a foca e o atum não são presas de ninguém na teia e nenhum caminho passa por cação e bacalhau ao mesmo tempo.\n\nO erro comum é contar as setas (4) em vez dos organismos, o que leva à alternativa E.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Tema: **organelas celulares — retículo endoplasmático liso**.\n\nNo hepatócito, a desintoxicação de medicamentos, álcool e outras substâncias estranhas é feita por enzimas (como as do citocromo P450) presentes na membrana do **retículo endoplasmático agranular** (liso). Essas enzimas tornam as moléculas mais solúveis em água, facilitando sua eliminação. Quando o indivíduo consome muito de um fármaco, como os benzodiazepínicos ou barbitúricos, o fígado responde aumentando a quantidade de retículo liso, ou seja, a área de membrana onde essas enzimas ficam, o que também explica a tolerância ao medicamento.\n\nMitocôndria produz ATP, complexo golgiense empacota e secreta, lisossomo faz digestão intracelular: nenhuma delas é a sede da detoxificação.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Tema: **vírus e o conceito de vida**.\n\nOs vírus têm material genético (DNA ou RNA) e sofrem mutação e evolução, características dos seres vivos. O que leva alguns cientistas a excluí-los é a **ausência de metabolismo próprio**: não têm ribossomos nem sistemas para produzir energia e sintetizar proteínas, e fora da célula hospedeira são partículas inertes. Só se replicam usando a maquinaria do hospedeiro.\n\nAs outras alternativas trazem afirmações falsas: vírus têm genoma e, alguns, enzimas (como a transcriptase reversa) (A); o envelope lipídico de certos vírus vem da célula hospedeira e não é argumento contra a vida (B); vírus não têm organelas (D); e mutam muito, por exemplo influenza e SARS-CoV-2 (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Tema: **classificação dos seres vivos — ordem Primates**.\n\nOs hominídeos pertencem à classe Mammalia e, dentro dela, à ordem **Primates**, que também inclui macacos, lêmures e társios. A característica marcante da ordem, entre as alternativas, é o **polegar oponível**, que permite a preensão e a manipulação fina de objetos.\n\nAs demais misturam níveis taxonômicos ou erram a característica: glândulas mamárias (A) e placenta (B) não são exclusivas dos primatas, valem para os mamíferos (a placenta, para os placentários); hemácias anucleadas (E) caracterizam os mamíferos, mas \"Mammalia\" é classe, não ordem; e a visão dos primatas é tridimensional (binocular), não bidimensional (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Tema: **acidificação dos oceanos**.\n\nO gráfico mostra o pH caindo de cerca de 8,11 para 8,05 entre 1985 e 2022: o oceano está ficando mais ácido. A causa é o aumento do CO₂ atmosférico, que se dissolve na água:\n\nCO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻\n\nOs íons H⁺ reagem com os carbonatos (CO₃²⁻), reduzindo sua disponibilidade. Corais e moluscos dependem desse carbonato para formar o calcário (CaCO₃) das conchas e esqueletos, que passa a ser produzido com dificuldade ou até dissolvido.\n\nCompostos \"alcalinos\" elevariam o pH, o contrário do gráfico (C, E). Quitina e queratina não são o material afetado (A, D), e em moluscos e corais o esqueleto calcário é externo (exoesqueleto/concha), não endoesqueleto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Tema: **parasitoses humanas e suas vias de transmissão**.\n\nVia 1: o parasita sai no sangue humano e volta a outra pessoa por um mosquito. É o caso da **malária** (Plasmodium, transmitido pela fêmea do Anopheles), da dengue e da leishmaniose (mosquito-palha).\n\nVia 2: ovos saem nas fezes, desenvolvem-se no solo e a larva penetra ativamente pela pele, geralmente dos pés descalços: **ancilostomose** (amarelão).\n\nVia 3: ovos de Taenia solium nas fezes são ingeridos por porcos, que desenvolvem cisticercos na carne; o ser humano que come carne de porco crua ou malpassada desenvolve a **teníase**.\n\nA armadilha é a alternativa D: na cisticercose o ser humano ingere os ovos (água e alimentos contaminados), não a carne do porco; e a doença de Chagas é transmitida pelas fezes do barbeiro, que não é mosquito. Em A, a leishmaniose não vem do solo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Tema: **fisiologia da audição**.\n\nO som chega à cóclea (orelha interna) e faz vibrar a membrana basilar, onde ficam as **células ciliadas** do órgão de Corti; são elas que convertem a vibração em impulsos nervosos levados pelo nervo coclear. Exposição prolongada a som intenso, como em fones de ouvido em volume alto, danifica e destrói essas células, que nos mamíferos não se regeneram: por isso a perda auditiva induzida por ruído é permanente.\n\nAs outras falham em detalhes de anatomia: o nervo vestibular cuida do equilíbrio, não da audição (C); a tuba auditiva liga a orelha média à faringe e contém ar, não líquido, e o tímpano não fica nela (D, E); a rigidez dos ossículos (otosclerose) não é a causa típica ligada aos fones (B).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Tema: **alelos múltiplos e número de genótipos**.\n\nCom n alelos num loco, há n homozigotos e n(n − 1)/2 heterozigotos, ou seja, n(n + 1)/2 genótipos.\n\nCromossomo 9 (4 alelos): 4 homozigotos; 4 · 5 / 2 = 10 genótipos.\n\nCromossomo 13 (5 alelos): 5 homozigotos; 5 · 6 / 2 = 15 genótipos.\n\nComo os locos estão em cromossomos diferentes, as combinações se multiplicam:\n\nduplo-homozigotos = 4 · 5 = 20\n\ntotal de genótipos = 10 · 15 = 150\n\nQuem soma em vez de multiplicar (4 + 5 = 9 e 10 + 15 = 25) cai nas alternativas C e D.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Tema: **ciclo de vida das pteridófitas (samambaias)**.\n\nO esquema mostra a alternância de gerações de uma samambaia. O esporófito (2n) forma, nos soros, os esporângios, onde ocorre a **meiose** que produz os esporos (n): é a etapa 1. O esporo germina por mitoses e origina o gametófito, chamado prótalo (etapa 2). No prótalo, o anterídio libera anterozoides flagelados, que precisam **nadar em uma película de água** até a oosfera no arquegônio. Formado o zigoto (2n), ele se desenvolve por mitoses no novo esporófito (etapa 3).\n\nPor isso a fecundação depende da água, descartando A e D; e a meiose está em 1, não em 3 (C). A alternativa B erra ao chamar de mitose a formação dos esporos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Tema: **teorias evolutivas — Lamarck e Darwin**.\n\nA frase \"algumas delas se esforçaram para escutar\" sugere que o próprio esforço da mariposa produziu a mudança, ideia típica de Lamarck (uso e desuso e herança dos caracteres adquiridos).\n\nPara Darwin, a explicação seria outra: na população de mariposas já existia variação na capacidade auditiva; os morcegos capturavam mais as que ouviam pior, e as que já percebiam frequências altas sobreviviam e deixavam mais descendentes (seleção natural).\n\nAs demais distorcem as teorias: Darwin não falava em mutações induzidas pelo meio (A), conceito que nem existia na época; seleção artificial é feita pelo ser humano (E); Lamarck não tratava de modificações genéticas nem de seleção (B, D), e a ideia do texto é lamarckista, não darwinista.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Tema: **densidade e estados físicos**.\n\nA 25 °C, o líquido precisa ter temperatura de fusão abaixo de 25 °C: só IV (−23 °C) ou V (−38 °C). Os sólidos têm fusão acima de 25 °C: I, II ou III.\n\nNo béquer, o sólido 1 flutua e o sólido 2 afunda. Assim:\n\nd(sólido 1) < d(líquido) < d(sólido 2)\n\nSe o líquido fosse V (13,5 g/cm³, o mercúrio), todos os sólidos flutuariam. Logo o líquido é IV (1,59 g/cm³). O sólido que afunda tem d > 1,59: só II (2,70). O sólido que flutua tem d < 1,59: I (0,94) ou III (1,16); entre as alternativas, só aparece a combinação I, II e IV.\n\nA alternativa A põe a substância IV, que é líquida a 25 °C, como sólido 2.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Tema: **tabela periódica e estrutura atômica**.\n\nO estrôncio tem número atômico Z = 38 e está no grupo 2 (família 2A), o dos **metais alcalinoterrosos**, junto com Be, Mg, Ca, Ba e Ra. Sua configuração termina em 5s², com dois elétrons na camada de valência.\n\nNo isótopo ⁹⁰Sr, o número de massa é A = 90. Os nêutrons são:\n\nN = A − Z = 90 − 38 = 52\n\nAs pegadinhas: 38 é o número de prótons (B), 90 é o número de massa (E), e metais alcalinos são os do grupo 1 (Li, Na, K, Rb…), não o estrôncio.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Tema: **equação de Clapeyron (gases ideais)**.\n\nDados: P = 1,2 atm; V = 180 L; T = 27 °C = 300 K; R = 0,08 atm·L·mol⁻¹·K⁻¹.\n\nNúmero de mols:\n\nn = PV ÷ RT\n\nn = (1,2 × 180) ÷ (0,08 × 300)\n\nn = 216 ÷ 24 = 9 mol\n\nMassa de ar:\n\nm = n × M = 9 × 29 = 261 g ≈ 260 g\n\nCuidado com dois deslizes comuns: em PV = nRT a temperatura é sempre em kelvin, e o resultado da equação é a quantidade em mols, que ainda precisa ser convertida em massa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Tema: **fórmula molecular e fórmula mínima**.\n\nContando os átomos na estrutura:\n\nCarbonos: 6 do anel com OH + 3 do anel com o oxigênio (C2, C3 e C4, a carbonila) + 6 do anel com OCH₃ + 1 do metila = 16.\n\nOxigênios: OH, O do anel, C=O e O do éter = 4.\n\nHidrogênios: 3 no primeiro anel aromático, 1 do OH, 1 no C2 do anel heterocíclico, 4 no anel do OCH₃ e 3 do metila = 12.\n\nFórmula molecular: C₁₆H₁₂O₄.\n\nA fórmula mínima é a menor proporção inteira: dividindo por 4 (MDC de 16, 12 e 4), obtém-se C₄H₃O.\n\nA alternativa E é a fórmula molecular, não a mínima; é a armadilha da questão.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Tema: **funções orgânicas e anéis aromáticos**.\n\nAnéis benzênicos: a molécula tem três anéis, mas só dois são benzênicos (o que tem o OH, à esquerda, e o que tem o OCH₃, à direita). O anel do meio contém um átomo de oxigênio e uma carbonila: é um heterociclo (pirona), não um anel benzênico.\n\nGrupos oxigenados:\n\nOH ligado diretamente a carbono de anel aromático → **fenol**;\n\nC=O entre dois carbonos → **cetona**;\n\nO entre dois carbonos (no OCH₃ e também no anel) → **éter**.\n\nNão há aldeído (C=O na ponta da cadeia, com H), ácido carboxílico (COOH) nem éster (COO entre carbonos). O erro mais comum é contar os três anéis como benzênicos, o que leva à alternativa C.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Tema: **número de oxidação (Nox)**.\n\nNum íon, a soma dos Nox de todos os átomos é igual à carga do íon. O oxigênio, em compostos comuns (não peróxidos), tem Nox −2.\n\nNo MnO₄⁻:\n\nx + 4 · (−2) = −1\n\nx − 8 = −1\n\nx = +7\n\nO manganês está no seu estado de oxidação máximo (+7) e, na reação, é reduzido a Mn²⁺ (+2), perdendo a cor violeta; por isso o permanganato é um oxidante forte e um indicador da própria reação.\n\nA alternativa −7 vem de errar o sinal: ligado ao oxigênio, que é mais eletronegativo, o manganês só pode ter Nox positivo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Tema: **balanceamento e estequiometria**.\n\nEquação: P₄ + Cl₂ → PCl₃.\n\nComece pelo fósforo: há 4 átomos de P no P₄, então se formam 4 PCl₃.\n\nP₄ + Cl₂ → 4 PCl₃\n\nAgora o cloro: 4 PCl₃ têm 4 × 3 = 12 átomos de Cl, que vêm de 12 ÷ 2 = 6 Cl₂.\n\nP₄ + 6 Cl₂ → 4 PCl₃\n\nLogo, para 1 mol de fósforo branco (P₄), reagem 6 mol de Cl₂ e formam-se 4 mol de PCl₃.\n\nO erro mais comum é tratar o fósforo como P (um átomo) em vez de P₄, o que levaria a 1,5 mol de Cl₂ e 1 mol de PCl₃.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Tema: **ligações químicas e geometria molecular (VSEPR)**.\n\nTipo de ligação: P e Cl são ambos ametais e compartilham elétrons, logo a ligação é covalente. A diferença de eletronegatividade é 3,2 − 2,2 = 1,0: diferente de zero, então a ligação é **covalente polar** (o par fica deslocado para o cloro). Isso descarta A, B e D.\n\nGeometria: o fósforo (grupo 15) tem 5 elétrons de valência. Usa 3 para ligar-se aos três cloros e fica com **1 par de elétrons livre**. São 4 regiões eletrônicas (arranjo tetraédrico), das quais só 3 são átomos: geometria **piramidal trigonal**, como a da amônia (NH₃).\n\nA plana trigonal (C) valeria para moléculas sem par livre no átomo central, como o BF₃.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Tema: **concentração e proporção**.\n\nA lupa aparece quando a bebida tem mais de 7,5 g de açúcar adicionado em 100 mL. Basta uma regra de três para 250 mL:\n\n7,5 g → 100 mL\n\nx → 250 mL\n\nx = 7,5 × 250 ÷ 100 = 7,5 × 2,5 = 18,75 g\n\nPortanto, uma bebida com a lupa tem, em 250 mL, no mínimo cerca de 18,75 g de açúcar adicionado (o limite a partir do qual o selo é obrigatório).\n\nA alternativa A repete o valor de 100 mL sem fazer a conversão de volume; a E corresponde a 200 mL, e a B resulta de dividir em vez de multiplicar pelo fator 2,5.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Tema: **aminoácidos e ligação peptídica**.\n\nO composto é a glicilglicina, um dipeptídeo. Cortando na ligação C–N do meio (o grupo –CO–NH–), cada metade é um aminoácido igual: H₂N–CH₂–COOH, a **glicina**.\n\nA ligação –CO–NH– formada entre o grupo carboxila de um aminoácido e o grupo amino do outro, com saída de uma molécula de água, é a **ligação peptídica** (uma amida).\n\nFórmula da glicina: 2 carbonos, 5 hidrogênios (2 do NH₂, 2 do CH₂, 1 do OH), 1 nitrogênio e 2 oxigênios: C₂H₅NO₂.\n\nA fórmula C₂H₄N₂O₃ (B) não é nem do aminoácido nem do dipeptídeo (que é C₄H₈N₂O₃). Ligação de hidrogênio e ligação iônica não unem aminoácidos numa cadeia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Tema: **interpretação de gráficos — significado da área**.\n\nA área sob uma curva representa o produto da grandeza do eixo vertical pela do eixo horizontal. Aqui, o eixo vertical é o fluxo (vazão), em L/s, e o horizontal é o tempo, em s:\n\nárea → (L/s) × s = L\n\nO resultado tem unidade de volume. Como a vazão é o volume que atravessa a seção por unidade de tempo (Q = ΔV ÷ Δt), a área entre 0,1 s e 0,3 s é o volume de sangue que passou pela seção transversal da aorta nesse intervalo (aproximadamente o volume ejetado na sístole).\n\nNão é o fluxo médio (B), que seria essa área dividida por 0,2 s; nem velocidade (m/s) ou aceleração (m/s²), que têm outras unidades; e massa exigiria multiplicar pela densidade do sangue, que o gráfico não fornece.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Tema: **movimento uniforme**.\n\nQuando Lyles cruza a chegada, o cronômetro marca 9,79 s. Seville só termina em 9,91 s, ou seja, ainda precisa de:\n\nΔt = 9,91 − 9,79 = 0,12 s\n\nComo ele corre a velocidade constante de 11 m/s, a distância que falta percorrer é:\n\nd = v · Δt = 11 × 0,12 = 1,32 m\n\nEssa é a distância entre os dois no instante em que Lyles termina a prova.\n\nUm caminho alternativo, usar a velocidade média de cada atleta (100 ÷ 9,79 e 100 ÷ 9,91), não serve aqui, porque o enunciado manda considerar a velocidade final de 11 m/s, constante no trecho final.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Tema: **queda livre e resistência do ar**.\n\nEm queda livre, sem nenhuma outra força além do peso, todos os corpos caem com a mesma aceleração, a da gravidade, independentemente da massa: o peso é maior para o corpo mais massivo, mas a inércia também, e a = P ÷ m = g para ambos.\n\nNa Terra, a pena cai mais devagar por causa da **resistência do ar**, que é relevante para ela (muita superfície, pouca massa) e quase desprezível para o martelo. Na Lua não há atmosfera, logo não há essa força, e os dois chegam juntos.\n\nA alternativa C é verdadeira (a gravidade lunar é cerca de 1/6 da terrestre), mas não explica a queda simultânea. A afirma que não há gravidade na Lua, o que é falso; D é falsa (massa não muda com o lugar); e E é verdadeira, mas também não explica o resultado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Tema: **impulso e quantidade de movimento**.\n\nPelo teorema do impulso, o impulso recebido pelo projétil é igual à variação da sua quantidade de movimento:\n\nI = ΔQ = m · v − m · v₀\n\nO projétil parte do repouso e sai com 180 m/s. Convertendo a massa para quilogramas:\n\nm = 0,50 g = 0,50 × 10⁻³ kg\n\nI = 0,50 × 10⁻³ × 180\n\nI = 0,09 N·s\n\nO cuidado principal é converter gramas em quilogramas: sem isso, 0,50 × 180 daria 90, mil vezes maior. Note também que o impulso depende só da massa e da variação de velocidade, não do tempo de disparo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Tema: **conversão de escalas termométricas**.\n\nOs pontos fixos dados são: 32 °F = 0 °C e 212 °F = 100 °C. Assim, 180 divisões Fahrenheit correspondem a 100 divisões Celsius, e a relação é:\n\nC ÷ 100 = (F − 32) ÷ 180, ou C = 5 · (F − 32) ÷ 9\n\nPara F = 451:\n\nC = 5 × (451 − 32) ÷ 9\n\nC = 5 × 419 ÷ 9\n\nC = 2 095 ÷ 9 ≈ 233 °C\n\nO título seria, portanto, \"Celsius 233\".\n\nA alternativa C (419) é a armadilha: é só a diferença F − 32, sem a multiplicação por 5/9.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Tema: **calorimetria — equilíbrio térmico**.\n\nSem perdas, o calor cedido pela água é igual ao calor recebido pela xícara (soma dos calores igual a zero).\n\nÁgua: Q = m · c · ΔT = 200 × 1,0 × (T − 80)\n\nXícara: Q = C · ΔT = 100 × (T − 20)\n\n200 · (T − 80) + 100 · (T − 20) = 0\n\n200T − 16 000 + 100T − 2 000 = 0\n\n300T = 18 000\n\nT = 60 °C\n\nRepare que a capacidade térmica da xícara (100 cal/°C) já inclui massa e calor específico, por isso não é multiplicada por mais nada.\n\nA média simples (80 + 20) ÷ 2 = 50 °C (D) seria válida só se água e xícara tivessem a mesma capacidade térmica; como a água tem o dobro (200 cal/°C), o equilíbrio fica mais perto de 80 °C.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Tema: **óptica geométrica — espelho esférico convexo**.\n\nO espelho convexo é divergente: os raios refletidos se afastam, e seus prolongamentos se encontram atrás do espelho. Para qualquer objeto real, em qualquer posição, a imagem formada é sempre **virtual, direita e menor** que o objeto, e fica entre o espelho e o foco.\n\nÉ por isso que esse espelho é usado em garagens, lojas, retrovisores e cruzamentos: as imagens reduzidas permitem enxergar um campo visual maior.\n\nImagens invertidas (A, B) só aparecem em espelhos côncavos, com o objeto além do foco; imagens maiores e direitas (C) são do côncavo com objeto entre foco e espelho; e imagens de mesmo tamanho (E) são características do espelho plano.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Tema: **natureza das ondas: som e luz**.\n\nO som é uma onda **mecânica**: precisa de um meio material (ar, água, sólidos) para se propagar. No ar, as partículas oscilam na mesma direção em que a onda se propaga, formando compressões e rarefações; por isso é uma onda **longitudinal**. A audição humana capta aproximadamente de 20 Hz a 20 kHz.\n\nA luz é uma onda **eletromagnética** (campos elétrico e magnético oscilantes), que se propaga até no vácuo. O olho é sensível a uma faixa estreita do espectro, a luz visível (cerca de 400 a 700 nm).\n\nA armadilha é a alternativa A: ondas sonoras no ar não são transversais. As alternativas D e E invertem os dois sentidos, e C considera a luz uma onda mecânica.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Tema: **circuito em série e Primeira Lei de Ohm**.\n\nEm série, a corrente é a mesma no resistor e no LED (70 mA = 0,070 A), e as tensões se somam:\n\nU(total) = U(R) + U(LED)\n\n5,0 = U(R) + 1,5\n\nU(R) = 3,5 V\n\nPela Lei de Ohm:\n\nR = U ÷ i = 3,5 ÷ 0,070\n\nR = 50 Ω\n\nO erro mais tentador é usar a tensão total no resistor, 5,0 ÷ 0,070 ≈ 71 Ω (alternativa A), esquecendo que parte da tensão fica no LED. Outro erro é usar só a tensão do LED, 1,5 ÷ 0,070 ≈ 21 Ω (alternativa E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Tema: **efeito fotoelétrico (equação de Einstein)**.\n\nPrimeiro, descubra a energia do fóton usando os dados do sódio:\n\nE(F) = E(C) + E₀\n\nE(F) = 3,0 × 10⁻¹⁹ + 3,6 × 10⁻¹⁹ = 6,6 × 10⁻¹⁹ J\n\nA radiação é a mesma, portanto o fóton tem essa energia também ao atingir o cobalto, cuja energia mínima é 6,2 × 10⁻¹⁹ J:\n\nE(C) = 6,6 × 10⁻¹⁹ − 6,2 × 10⁻¹⁹\n\nE(C) = 0,4 × 10⁻¹⁹ = 4,0 × 10⁻²⁰ J\n\nComo E(F) é maior que E₀ do cobalto, há emissão, mas com elétrons bem mais lentos, já que o cobalto prende mais seus elétrons.\n\nO erro típico é subtrair diretamente 6,2 − 3,0 ou trocar a ordem, sem calcular antes a energia do fóton.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Tema: **progressão aritmética — termo geral**.\n\nRazão:\n\nr = a₂ − a₁ = 29/4 − 8 = 29/4 − 32/4 = −3/4\n\nTermo geral:\n\naₙ = 8 + (n − 1) · (−3/4)\n\nO termo é negativo quando:\n\n8 − 3(n − 1)/4 < 0\n\n3(n − 1) > 32\n\nn − 1 > 10,67 → n ≥ 12\n\nConferindo: a₁₁ = 8 − 30/4 = 1/2 (ainda positivo) e a₁₂ = 8 − 33/4 = −1/4 (primeiro negativo).\n\nDo 12º ao 35º termo, todos são negativos:\n\n35 − 12 + 1 = 24 termos\n\nO erro comum é começar a contagem no 11º termo, que ainda é positivo, chegando a 25 (A).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Tema: **porcentagem — aumentos e descontos relativos**.\n\nSe o preço em A é 24% menor que em B:\n\nA = 0,76 · B\n\nPara comparar B com A, a base agora é o preço em A:\n\nB = A ÷ 0,76 ≈ 1,3158 · A\n\nOu seja, o preço em B é cerca de 31,6% maior que o preço em A, valor entre 30% e 33%.\n\nA armadilha é achar que, se A é 24% mais barato, B é 24% mais caro (alternativa D). As porcentagens mudam porque mudam as bases: 24% de B é a mesma quantia que cerca de 31,6% de A, já que A é o valor menor.\n\nExemplo numérico: B = R$ 100 e A = R$ 76; a diferença de R$ 24 representa 24 ÷ 76 ≈ 31,6% de A.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Tema: **probabilidade — princípio multiplicativo**.\n\nCada amigo tem 4 opções, então há 4³ = 64 resultados igualmente prováveis.\n\nCasos favoráveis (exatamente dois com a mesma cor e o terceiro com cor diferente):\n\nescolher qual par de amigos coincide: 3 maneiras (C₃,₂ = 3);\n\ncor do par: 4 opções;\n\ncor do terceiro, diferente da do par: 3 opções.\n\nfavoráveis = 3 × 4 × 3 = 36\n\nP = 36 ÷ 64 = 9/16\n\nConferência pelo complemento: todos iguais = 4 casos; todos diferentes = 4 × 3 × 2 = 24 casos; 64 − 4 − 24 = 36.\n\nO erro mais comum é esquecer de escolher quais dois amigos formam o par (fator 3), obtendo 12/64 = 3/16, ou incluir o caso dos três iguais.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Tema: **sistema linear com três incógnitas**.\n\nSejam a, u e l as quantidades de garrafas de água, suco de uva e suco de laranja.\n\na + u + l = 41 (garrafas)\n\n1,5a + 2u + l = 59 (litros)\n\n3,5a + 28u + 15l = 489 (reais)\n\nSubtraindo a 1ª da 2ª:\n\n0,5a + u = 18 → u = 18 − 0,5a\n\nSubstituindo l = 41 − a − u na 3ª:\n\n3,5a + 28u + 615 − 15a − 15u = 489\n\n−11,5a + 13u = −126\n\nCom u = 18 − 0,5a:\n\n−11,5a + 234 − 6,5a = −126\n\n18a = 360 → a = 20\n\nu = 18 − 10 = 8\n\nl = 41 − 20 − 8 = 13\n\nConferência: 30 + 16 + 13 = 59 L e 70 + 224 + 195 = 489 reais.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Tema: **geometria analítica — retas e área de triângulo**.\n\nO ponto T está em r e tem ordenada 4:\n\n4 = 2x + 1 → x = 1,5; T = (1,5; 4)\n\nT também está em s, o que determina k:\n\n4 = −1,5 + k → k = 5,5\n\nIntersecções com o eixo x (y = 0):\n\nr: 0 = 2x + 1 → P = (−0,5; 0)\n\ns: 0 = −x + 5,5 → Q = (5,5; 0)\n\nO triângulo PQT tem base PQ sobre o eixo x e altura igual à ordenada de T:\n\nbase = 5,5 − (−0,5) = 6\n\naltura = 4\n\nÁrea = 6 × 4 ÷ 2 = 12\n\nO erro típico é tomar P na origem (base 5,5, área 11) ou esquecer de dividir por 2 (área 24).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Retângulo com área e perímetro dados recai em **soma e produto** (equação do 2º grau).\n\nSejam x e y os lados:\nx · y = 450\n2x + 2y = 86 → x + y = 43\n\nx e y são raízes de t² − 43t + 450 = 0:\nΔ = 43² − 4 · 450 = 1849 − 1800 = 49 → √Δ = 7\nt = (43 ± 7) ÷ 2 → 25 ou 18\n\nLados: 25 m e 18 m. Diferença: 25 − 18 = 7 m.\n\nAtalho: (x − y)² = (x + y)² − 4xy = 49, logo x − y = 7. Cuidado para não usar 86 como soma dos lados: o perímetro conta cada lado duas vezes.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "**Trigonometria no triângulo retângulo**: a diagonal QS divide o retângulo em dois triângulos retângulos; em PQS o ângulo reto está em P, a hipotenusa é QS = 9 cm e α fica no vértice Q.\n\nCateto adjacente a α:\nQP = 9 · cos α = 9 · 1/3 = 3 cm\n\nPela relação fundamental:\nsen² α = 1 − 1/9 = 8/9 → sen α = 2√2/3\n\nCateto oposto a α:\nPS = 9 · sen α = 9 · 2√2/3 = 6√2 cm\n\nÁrea do retângulo:\nA = QP · PS = 3 · 6√2 = 18√2 cm²\n\nErro comum: calcular só a área do triângulo PQS (9√2), esquecendo que o retângulo é o dobro dele.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "**Semelhança de triângulos** (caso AA). Os triângulos KLM, KMN e KNO têm o ângulo em K igual (LKM = MKN = NKO) e o ângulo em L, M e N igual (MLK = NMK = ONK). Logo são semelhantes, com a correspondência:\n\nKL ↔ KM ↔ KN e KM ↔ KN ↔ KO\n\nRazão de semelhança entre um triângulo e o seguinte:\nk = KM ÷ KL = 6 ÷ 4 = 1,5\n\nEntão:\nKN = KM · 1,5 = 6 · 1,5 = 9 cm\nKO = KN · 1,5 = 9 · 1,5 = 13,5 cm\n\nOu seja, KL, KM, KN, KO formam uma progressão geométrica de razão 1,5: 4, 6, 9, 13,5.\n\nO cuidado está em casar os lados certos: o lado adjacente ao ângulo marcado em L (KL) corresponde ao adjacente ao ângulo marcado em M no triângulo seguinte (KM).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "**Área total e volume do paralelepípedo** retângulo de base quadrada.\n\nBase 4 cm × 4 cm, altura h desconhecida.\n\nÁrea total = 2 bases + 4 faces laterais:\n2 · (4 · 4) + 4 · (4 · h) = 112\n32 + 16h = 112\n16h = 80 → h = 5 cm\n\nVolume:\nV = 4 · 4 · 5 = 80 cm³\n\nErro típico: esquecer uma das bases (16 + 16h = 112 dá h = 6 e volume 96, que nem aparece) ou contar só duas faces laterais.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "**Porcentagem de porcentagem** e **gráfico de setores**: o ângulo de cada setor é proporcional à fração da população, sobre 360°.\n\nFora da zona urbana: 20% → na zona urbana: 80% da população.\n\nCondomínios: 12,5% dos que moram na zona urbana:\n0,125 · 80% = 10% da população total\n\nÂngulo do setor:\n0,10 · 360° = 36°\n\nA armadilha é aplicar os 12,5% direto sobre o total: 0,125 · 360° = 45°, que não está entre as alternativas, ou confundir com o setor de quem mora fora da zona urbana (0,2 · 360° = 72°).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

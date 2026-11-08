@@ -163,6 +163,11 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "0:33": {
+   "resposta": "O ponto é a **função gramatical de \"that\"**. Em \"the traditional view ... means that child care responsibilities often fall exclusively on women\", \"that\" é uma conjunção integrante: liga o verbo \"means\" à oração que funciona como seu objeto (\"significa que...\"). Pode até ser omitida sem prejuízo.\n\nEm (D), \"The label says that the product is organic\", ocorre o mesmo: \"that\" introduz a oração objeto de \"says\" (\"o rótulo diz que...\").\n\nNas demais, a função muda: em (A), \"that restaurant\", é determinante (aquele restaurante); em (B), \"I didn't see that coming\", é pronome demonstrativo (aquilo); em (C) e (E), \"that tired\" e \"that fast\", é advérbio de intensidade (tão).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "0:34": {
    "resposta": "A questão cobra o sentido da expressão “to be meant to be”. Em inglês, dizer que algo “is meant to be” significa que está destinado a acontecer, que é obra do destino. Portanto, “Some things are meant to be” equivale a “algumas coisas estão destinadas a acontecer”, ou seja, “destined to happen”.\n\nAs demais mudam o sentido: “worth waiting for” é “vale a pena esperar”; “beyond our control” é “fora do nosso controle”; “better left unsaid” é “melhor não dizer”; “too good to be true” é “bom demais para ser verdade”.\n\n**Resposta: B**",
    "confianca": "alta",
@@ -180,6 +185,21 @@
   },
   "0:37": {
    "resposta": "Conceito: queda livre, movimento uniformemente variado a partir do repouso. Pode-se usar a equação de Torricelli (ou a conservação da energia mecânica).\n\nDados: v₀ = 0; h = 20 m; g = 10 m/s².\nv² = v₀² + 2 · g · h\nv² = 0 + 2 · 10 · 20 = 400\nv = √400 = 20 m/s\n\nPela energia: m · g · h = m · v² ÷ 2 → v = √(2gh), mesmo resultado. O tempo de queda é t = v ÷ g = 2 s.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "O conteúdo é **hidrostática: líquidos imiscíveis e vasos comunicantes**.\n\nPrimeiro, a estratificação: líquidos que não se misturam se organizam com o mais denso embaixo. No ramo esquerdo, A está sobre B, e B está sobre C (C ocupa o fundo e liga os dois ramos). Logo, dA < dB e dB < dC.\n\nA figura confirma pelo teorema de Stevin. Tomando o nível da interface B–C no ramo esquerdo, a pressão ali é a mesma nos dois ramos. À esquerda, ela vem da coluna de A mais a de B; à direita, só de uma coluna de C, que é visivelmente mais baixa que a soma das colunas de A e B. Uma coluna mais baixa só equilibra uma mais alta se o líquido for mais denso, então C é o mais denso.\n\nAs alternativas com igualdade (A, B, D) não explicariam líquidos separados em camadas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "O conteúdo é **calorimetria: calor latente e calor sensível**, com potência = energia ÷ tempo.\n\nDe 0 a 20 s o gelo derrete (temperatura constante); de 20 a 40 s a água esquenta de 0 °C a 80 °C. A fonte é constante, então basta um trecho. Pela fusão:\n\nQ = m·L = 300 × 80 = 24 000 cal\n\nEm joules: 24 000 × 4 = 96 000 J\n\nP = 96 000 ÷ 20 = 4 800 W = 4,8 kW\n\nConferindo com o processo todo:\n\nQ = 300 × 80 + 300 × 1 × 80 = 48 000 cal = 192 000 J\n\nP = 192 000 ÷ 40 = 4 800 W\n\nO erro típico é esquecer de converter caloria em joule (daria 1,2 kW, que não está nas opções) ou usar só um dos calores com o tempo total de 40 s, o que leva a 2,4 kW (A).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "O conteúdo é **circuito em série e primeira lei de Ohm**. O resistor de 4 Ω, o amperímetro (ideal, resistência nula), a bateria de 36 V e o trecho ativo do reostato Rx formam uma única malha, então a resistência equivalente é a soma.\n\nPara corrente de 4 A:\n\nReq = U ÷ i = 36 ÷ 4 = 9 Ω\n\nRx = 9 − 4 = 5 Ω\n\nA alternativa (E), 9 Ω, é o erro de quem calcula a resistência total e esquece de descontar o resistor de 4 Ω.\n\n**Resposta: A**",
    "confianca": "alta",
    "pendencia": null
   }

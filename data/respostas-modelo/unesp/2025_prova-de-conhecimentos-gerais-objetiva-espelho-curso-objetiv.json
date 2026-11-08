@@ -1,0 +1,457 @@
+{
+ "indice": "data/questoes/unesp/2025_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Interpretação de texto: a relação entre história e ficção no conto de Agualusa.\n\nO lado histórico aparece em fatos e referências verificáveis: a independência de Angola em 1975, a colônia penal do Tarrafal, a Revolução dos Cravos de 1974, a perseguição a quem era acusado de \"terrorismo\" e \"sublevação\" — todos ligados à política colonial e à descolonização. O lado ficcional está no sonho com um pássaro que fala, nas penas que curam a elefantíase e devolvem a vista a um cego: elementos fantásticos, maravilhosos.\n\nA ordem pedida é \"história e ficção\", ou seja, eventos políticos e eventos fantásticos.\n\nA alternativa E falha porque os eventos ficcionais do conto não são \"corriqueiros\"; a D falha porque o histórico não é lendário.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Interpretação e cronologia da narrativa.\n\nO narrador diz que encontrou Justo Santana \"muitos anos depois, em Luanda\", quando ele já estava velho e doente, e acrescenta que os devotos o mantinham \"preso ali, naquele quarto, quase isolado do mundo, desde 1975\" — ano da independência de Angola, segundo a nota. A sequência dos fatos é: desterro no deserto do Namibe, prisão no Tarrafal, soltura com a Revolução de Abril (1974), volta a Angola e, depois, a vida reclusa em Luanda. O encontro acontece, portanto, numa Angola já independente.\n\nAs alternativas C e D erram a época (o encontro não foi logo após o exílio nem durante ele), e a E põe o encontro na prisão, onde o narrador nunca diz ter estado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Interpretação: o conteúdo das falas do pássaro.\n\nO pássaro diz que veio \"trazer a liberdade a este pobre país\", manda anunciar \"um mundo novo\" e profetiza que \"os brancos vão partir e os pretos ocuparão as casas, os palácios, as igrejas e os quartéis\". São discursos de ruptura com a ordem colonial — revolucionários. Não por acaso, Justo Santana é preso sob acusação de fomentar \"o terrorismo e a sublevação\".\n\nA alternativa E é a armadilha: há imagens religiosas (Cristo na cruz, a pena como hóstia), mas elas caracterizam a figura do pássaro e o culto a Justo Santana, não o conteúdo das falas, que é político. Reacionário (A) seria o oposto, e nostálgico (D) é o sentimento do enfermeiro, não do pássaro.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Gramática: valores do presente do indicativo.\n\nEm \"a liberdade há de reinar para sempre\", o verbo \"há\" está no presente do indicativo, mas a locução \"haver de + infinitivo\" projeta a ação para o futuro: equivale a \"a liberdade reinará\". É o presente com valor de futuro pedido pelo enunciado.\n\nNas outras: \"morrem todos os anos\" (B) e \"está sempre a acontecer\" (C) são presente habitual, de fatos que se repetem; \"é como começa quase tudo\" (E) é presente atemporal, de verdade geral; e em D \"for\" é futuro do subjuntivo e \"conte\" é imperativo, não presente do indicativo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Gramática: voz passiva e voz ativa.\n\nEm \"Fui sonhado por ti\", o sujeito paciente é \"eu\" (implícito em \"fui\"), o verbo está na passiva analítica (ser + particípio) e o agente da passiva é \"por ti\". Na voz ativa, o agente vira sujeito (\"tu\"), o sujeito paciente vira objeto direto (\"me\") e o verbo assume o tempo do auxiliar \"fui\": pretérito perfeito do indicativo.\n\nFui sonhado por ti → Tu me sonhaste.\n\nA troca de pessoa (A: \"Eu te sonhei\") inverte quem sonha; C e E mudam o tempo para o mais-que-perfeito (\"sonhara(s)\"); D troca o \"tu\" por \"você\", alterando o tratamento usado no conto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Morfologia: formação de palavras por prefixação.\n\n\"Incrédulos\" é formada pelo prefixo \"in-\", que exprime negação, somado a \"crédulo\": quem não crê. É exatamente o caso pedido.\n\nNas outras alternativas não há prefixo de negação: \"regresso\", \"escuridão\" e \"encalhou\" (B) não negam nada; \"avesso\" (C) é palavra primitiva, embora tenha sentido de contrariedade, e \"simples\" e \"tímido\" não têm prefixo; em D e E a negação vem de advérbios (\"Não\"), e \"precisar\" não é formado por prefixo negativo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Gramática: transposição do discurso direto para o indireto.\n\nNo discurso indireto (por exemplo, \"Justo Santana disse à mulher que...\"), com verbo de elocução no passado, os tempos recuam: o futuro do subjuntivo \"continuar\" passa a pretérito imperfeito do subjuntivo, \"continuasse\"; o futuro do presente \"veremos\" passa a futuro do pretérito, e a pessoa muda de \"nós\" para \"eles\", \"veriam\". Também \"esse pássaro\" viraria \"aquele pássaro\".\n\nFica: \"se aquele pássaro continuasse assim tão generoso, ainda o veriam transformado numa alma despenada\".\n\nAs alternativas com \"continuara\" (mais-que-perfeito do indicativo) e \"vissem\" ou \"viram\" quebram essa correlação.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Intertextualidade: meme e fábula.\n\nO meme põe na boca de um velho eremita, numa pintura clássica, a frase \"depois de 27 selfies, percebi que a beleza da alma é mais importante\". A graça está na racionalização: a pessoa só \"descobre\" o valor da beleza interior depois de fracassar em conseguir uma boa foto. É desprezar aquilo que não se conseguiu alcançar.\n\nÉ a moral de \"A raposa e as uvas\": sem conseguir alcançar os cachos, a raposa vai embora dizendo que eles \"não estão maduros\". Nos dois casos, o fracasso é disfarçado de desinteresse.\n\nAs outras fábulas tratam de temas diferentes: coragem protegida pelo lugar (A), querer ir contra a própria natureza (B), quem reclama sem trabalhar (C) e ganância (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Modernismo: o Manifesto da Poesia Pau-Brasil e a valorização da fala brasileira.\n\nO trecho defende uma língua \"natural e neológica\", com a \"contribuição milionária de todos os erros\", escrita \"como falamos\". A alternativa C realiza esse princípio: o poema (é \"Vício na fala\", de Oswald) registra a pronúncia popular — \"mio\", \"mió\", \"pió\", \"teia\", \"teiado\" — e ainda mostra, no fecho \"E vão fazendo telhados\", que quem fala \"errado\" é quem constrói as coisas de verdade.\n\nOs outros poemas tratam de temas brasileiros ou do cotidiano, mas em língua padrão; nenhum incorpora o \"erro\" da fala como matéria poética.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Modernismo: contra o que o Manifesto Pau-Brasil se opõe.\n\nOswald ataca a poesia escondida nos \"cipós maliciosos da sabedoria\", na \"saudade universitária\", e defende uma língua \"sem arcaísmos, sem erudição\". O alvo é a poesia livresca, de vocabulário raro, sintaxe rebuscada e culto à forma — traço central do Parnasianismo (Bilac, Raimundo Correia, Alberto de Oliveira), que ainda era a poesia oficial e acadêmica no Brasil dos anos 1920 e que os modernistas combatiam diretamente.\n\nO Barroco e o Classicismo também eram eruditos, mas estavam distantes no tempo; o adversário imediato dos modernistas de 1922–1924 era o parnasiano.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Pontuação: vírgula indicando elipse (zeugma) do verbo.\n\nEm \"O quadro histórico, uma aberração\", a vírgula ocupa o lugar de um verbo de ligação subentendido: \"O quadro histórico [era] uma aberração\". O mesmo se vê nas frases vizinhas do parágrafo (\"A peça de tese era um arranjo monstruoso. O romance de ideias, uma mistura\"), em que o \"era\" da primeira frase fica implícito nas seguintes.\n\nNas demais, a vírgula separa termos de mesma função (A e D), isola uma expressão adverbial deslocada (C) ou separa um aposto/qualificação (E), sem verbo omitido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Figura de linguagem e conceito geográfico em um cartum.\n\nO cartum desenha a América do Sul e a África lado a lado, com o contorno do litoral brasileiro \"encaixando\" no golfo da Guiné, e o continente sul-americano diz sentir \"saudade de dormir de conchinha\". Atribuir sentimento e fala a um continente é personificação (prosopopeia).\n\nA \"saudade\" só faz sentido pela deriva continental: os dois continentes formavam um único bloco (Gondwana) e se separaram ao longo de milhões de anos com a abertura do Atlântico Sul, pelo movimento das placas tectônicas. O encaixe das costas é, aliás, um dos argumentos clássicos de Wegener.\n\nErosão, abalo sísmico, vulcanismo e intemperismo não explicam a separação dos continentes.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Interpretação: o Surrealismo segundo Breton.\n\n\"Hastear a meio pau\" uma bandeira é sinal de luto ou de recuo. Breton diz que não será o medo da loucura que vai obrigá-lo a fazer isso com a bandeira da imaginação: mesmo que levá-la ao extremo pareça loucura, ela deve ser defendida e explorada por inteiro. Isso combina com o que o artigo diz do manifesto: prevalência absoluta do sonho, do inconsciente, do instinto e do desejo.\n\nA alternativa C é tentadora, mas Breton não afirma que a loucura potencializa a imaginação; diz apenas que o medo dela não vai limitá-la. A e B invertem ou exageram a relação.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Semântica: sentido figurado.\n\n\"Detonar\" significa, no sentido próprio, provocar a explosão de algo. Em \"Breton detonava o equilíbrio, o realismo\", não há explosão física: o sentido é figurado, de destruir, atacar com violência valores artísticos e morais.\n\nOs outros verbos estão em sentido próprio: \"augurar\" é prever, pressagiar (Breton previu o fim do dinheiro); \"lograr\" é conseguir (a poesia não conseguiu essa utopia); \"proclamar\" é anunciar publicamente; \"parecer\" tem o sentido usual.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Artes plásticas: Surrealismo.\n\nO artigo trata do Surrealismo, lançado pelo manifesto de André Breton em 1924. Entre as obras, a representativa é \"A reprodução proibida\", de René Magritte: um homem de costas diante de um espelho que, em vez do rosto, reflete de novo as costas dele. A cena é pintada com técnica realista, mas cria uma situação impossível, como num sonho — marca do surrealismo de Magritte.\n\nAs demais pertencem a outros movimentos: Lichtenstein é Pop Art (A), Picasso é Cubismo (B), Caspar David Friedrich é Romantismo (D) e Caravaggio é Barroco (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Funções da linguagem: interlocução com o leitor.\n\nO cronista fala diretamente com quem lê quando usa a segunda pessoa do plural: em \"Não serei eu que desvendarei os mistérios [...], e vos contarei as horas deliciosas\", o pronome \"vos\" se refere aos leitores. É a função conativa (apelativa) aparecendo na crônica, gênero que conversa com o público. O mesmo recurso aparece em \"chamarei como quiserdes\" e \"Só vos direi\", no início do texto.\n\nA alternativa D é a armadilha: em \"no que lhes acho toda a razão\", o \"lhes\" retoma \"as fadas\", não os leitores. As outras são trechos de narração, sem interlocutor explícito.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Concordância verbal: verbo e sujeito.\n\nEm \"Assim se passou muito tempo\", o sujeito de \"passou\" é \"muito tempo\" (posposto ao verbo): o tempo é que se passou. Por isso o verbo concorda com essa expressão; se fosse \"muitos anos\", seria \"se passaram\".\n\nNas outras, o termo sublinhado não é sujeito do verbo destacado: \"havia mais papel\" usa \"haver\" impessoal (existir), e \"mais papel\" é objeto direto; em C o sujeito de \"brincava\" é \"a pena\", e \"uma fada\" é termo da comparação; em D \"a sua pena de ouro\" é objeto direto de \"deu\"; em E \"dizem\" tem sujeito indeterminado, e \"as fadas\" é sujeito de \"podem\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Foco narrativo: limites da onisciência.\n\nNarrador onisciente sabe tudo sobre os fatos e as personagens. Em \"Um belo dia, não sei de que ano, uma linda fada [...]\", o próprio narrador confessa não saber quando o fato aconteceu, e ainda deixa ao leitor o nome da fada (\"que chamarei como quiserdes\"). Essa declaração de ignorância mostra o conhecimento incompleto dos eventos.\n\nEm B o narrador escolhe não revelar tudo (\"Só vos direi\"), mas isso é discrição, não falta de conhecimento — logo antes ele diz que não desvendará os mistérios, o que supõe que os conhece. As demais são narração segura dos fatos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Sintaxe: oração subordinada adverbial reduzida de gerúndio.\n\n\"Temendo a rivalidade dos anjinhos cá deste mundo\" explica o motivo de a fada ter tomado a forma de uma pena e se entregado ao amante: ela fez isso porque temia as rivais. Pode-se desenvolver a reduzida assim: \"como temia a rivalidade dos anjinhos, tomou as formas de uma pena\". O conector \"e por isso\", logo antes, já anuncia a relação de causa.\n\nNão cabe concessão (seria \"embora temesse\"), condição (\"se temesse\") nem consequência, porque o temor vem antes da ação e a motiva.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Coesão: palavras que retomam termos anteriores (anáfora).\n\nEm \"Não serei eu que desvendarei os mistérios\", o \"que\" se liga ao pronome \"eu\", dito antes: o verbo \"desvendarei\" vai para a 1ª pessoa justamente porque concorda com esse \"eu\" retomado. Assim, o \"que\" funciona como pronome relativo que retoma \"eu\".\n\nNas outras alternativas, a palavra sublinhada não retoma nada: em A e B o \"que\" é conjunção integrante, que introduz o conteúdo do que se diz (\"dizem que...\", \"direi [...] que...\"); em C e D o \"como\" é conjunção comparativa (\"como as cordas da harpa\", \"como os nossos\").\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "Na construção \"ser ... que\", muitos gramáticos tratam o \"que\" como expressão de realce (expletiva), e não como pronome relativo; o gabarito supõe a leitura em que ele retoma \"eu\"."
+  },
+  "0:21": {
+   "resposta": "Compreensão de texto em inglês: objetivo do texto.\n\nO texto, da revista The Economist, começa dizendo que o preço do cacau dobrou desde o fim de 2022 e bateu recorde em janeiro de 2024 (\"reaching an all-time high\"). Em seguida explica por quê: o El Niño trouxe chuva excessiva em 2023 e seca em 2024 na África Ocidental, onde Gana e Costa do Marfim produzem cerca de 60% do cacau do mundo; e doenças (o vírus \"swollen-shoot\" e a podridão-parda, \"black-pod\") atacaram as plantações. O objetivo é, portanto, explicar as razões da alta do preço.\n\nA alternativa C é a armadilha: o clima é apontado como \"partly to blame\" — em parte culpado —, não como causa única, já que o texto cita também as doenças.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Leitura de gráfico relacionada ao texto.\n\nO gráfico 1 mostra o preço do cacau em milhares de dólares por tonelada de 1990 a 2024, com uma subida abrupta no fim, passando de 4 mil dólares. Essa informação aparece no primeiro parágrafo: o preço começou a subir na segunda metade de 2022, dobrou e chegou ao maior valor da história (\"all-time high\") em janeiro de 2024.\n\nO segundo e o terceiro parágrafos tratam das causas (clima, produção, doenças), não do preço ao longo do tempo; o segundo parágrafo, aliás, conversa com o gráfico 2, de produção por país.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Leitura de gráfico de barras com texto em inglês.\n\nNo gráfico 2, os países africanos são Costa do Marfim (cerca de 44%), Gana (cerca de 14%), Camarões (cerca de 6%) e Nigéria (cerca de 5–6%). Somando:\n44 + 14 + 6 + 6 ≈ 70%\n\nO texto confirma a ordem de grandeza ao dizer que Gana e Costa do Marfim sozinhos produzem cerca de 60% do cacau mundial. Logo, cerca de 70% da produção está na África.\n\nAs outras não se sustentam: o gráfico é de um ano só (2023), sem série histórica para o Brasil (A) ou Gana (B); a seca em Tailândia e Índia, e não chuvas, afetou o arroz (C); e Brasil mais Equador (cerca de 4% + 9%) ficam bem abaixo da Costa do Marfim (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Vocabulário em inglês: o advérbio \"further\".\n\nO texto diz que, em 2023, a chuva excessiva já tinha arruinado plantações; \"This year El Niño has brought severe drought to the cocoa farms, reducing production further\" — neste ano, a seca reduziu a produção ainda mais. \"Further\" indica aqui que a queda se acentua, ou seja, intensificação de um processo que já vinha ocorrendo.\n\nNão há ideia de propósito (que exigiria \"to\" ou \"in order to\"), condição (\"if\") nem opinião do autor.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Compreensão de detalhe em inglês.\n\nNo terceiro parágrafo, o texto diz que eventos climáticos extremos atingiram outras commodities e cita: \"Torrential rain in Brazil, the world's biggest sugar exporter, has affected its exports\" — chuvas torrenciais no Brasil, maior exportador de açúcar do mundo, afetaram as exportações. Ou seja, condições climáticas adversas, como chuva intensa.\n\nA seca prolongada (C) é o que atingiu o cacau e o arroz da Tailândia e da Índia; as doenças (B) são específicas do cacau; e o desequilíbrio entre produção e consumo (D) é a estimativa do ING para o cacau. \"Predictable\" (E) contradiz a ideia de clima extremo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Conectivos em inglês.\n\n\"Besides\", no início da frase, significa \"além disso\": acrescenta um novo fator às causas já citadas (o clima) — as pressões sobre o preço específicas da indústria do cacau, isto é, as doenças. O sinônimo entre as alternativas é \"Also\" (também, além disso).\n\n\"Whereas\" e \"Although\" expressam contraste/concessão (enquanto, embora), \"Therefore\" expressa conclusão (portanto) e \"Unlikely\" é adjetivo (improvável), sem função de conectivo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Leitura de tirinha em inglês.\n\nNa mesa há pilhas de barras de chocolate. No primeiro quadrinho, o pinguim da esquerda avisa que estocar \"comida essencial\" não protege ninguém das mudanças climáticas; no segundo, o coelho lembra que chocolate estraga (\"goes off\"). Os dois questionam o estoque.\n\nAs respostas vêm do lado direito da cena, onde estão o urso (comendo chocolate da pilha) e o pinguim da direita: \"Why?\", a afirmação de que nunca viram chocolate estragar (fala que a questão 28 atribui ao urso) e, quando perguntam se chocolate é \"essencial\", o \"Absolutely\". São esses dois que defendem estocar chocolate como comida essencial.\n\nAs alternativas que incluem o pinguim da esquerda ou o coelho contrariam as falas de crítica desses personagens.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "As setas dos balões são pequenas e pouco nítidas na imagem; a divisão das falas entre o urso e o pinguim da direita não fica clara, embora os dois apareçam do lado que defende o estoque."
+  },
+  "0:28": {
+   "resposta": "Leitura de tirinha em inglês: o sentido implícito.\n\n\"To go off\", referindo-se a comida, significa estragar, passar do ponto. O coelho argumenta que chocolate estraga, e o urso responde \"I've never had chocolate go off\" — nunca tive um chocolate que estragasse. O humor está no implícito: isso nunca aconteceu porque ele come todo o chocolate que tem antes que dê tempo de estragar.\n\nA alternativa E é a leitura literal errada: o urso não diz que come chocolate estragado; diz que o chocolate dele nunca chega a estragar. As outras falam de quantidade pequena (A, contradita pelas pilhas de chocolate) ou de gosto (C), que a tirinha não menciona.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Compreensão geral de texto em inglês.\n\nO texto parte de dois fatos conhecidos — algumas pessoas têm predisposição genética a viver menos, e o estilo de vida afeta a longevidade — e apresenta um estudo que mediu quanto um estilo de vida saudável pode \"counterbalance genetics\": ele compensaria em 62% o efeito de genes que encurtam a vida e acrescentaria até cinco anos. O tema central é o papel do estilo de vida saudável para compensar uma genética desfavorável.\n\nA alternativa D é a armadilha: o texto não fala em melhorar a genética, mas em compensar seus efeitos. As outras tratam de produtividade (B), qualidade de vida (C) e medo da morte (E), assuntos ausentes do texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Verbos modais em inglês.\n\nEm \"a healthy lifestyle could offset effects of life-shortening genes by 62%\", o modal \"could\" expressa possibilidade: os estudos sugerem (\"suggest\") que um estilo de vida saudável poderia compensar esses efeitos. O equivalente, sem mudar o sentido, é \"may\" (pode, é possível que).\n\n\"Ought to\" e \"must\"/\"has to\" expressam recomendação e obrigação ou dedução forte; \"is going to\" indica futuro planejado ou certo. Todos tirariam o tom de hipótese, coerente com \"suggest\", que o texto mantém.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "História da África: a metalurgia do ferro.\n\nO excerto de Alberto da Costa e Silva destaca três pontos. Primeiro, a antiguidade do domínio técnico: desde pelo menos 600 a.C. os africanos fundiam ferro, com uma técnica de pré-aquecimento dos fornos que a Europa só desenvolveria no século XIX — precocidade técnica. Segundo, a qualidade do produto: um ferro e até um aço comparáveis ou superiores aos das usinas europeias, sinal de qualificação de quem operava os fornos. Terceiro, o uso: como as barras eram pequenas, faziam enxadas e facas, não grandes espadas, capacetes ou couraças — o emprego possível dos objetos.\n\nA alternativa C é a armadilha, porque fala em destinação militar, justamente o que o texto nega. A e B inventam limitações comerciais que o texto não menciona.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Idade Média: as ordens mendicantes e a Igreja.\n\nO afresco de Giotto, na basílica de Assis, mostra São Francisco e seus frades ajoelhados diante do papa (a cena da aprovação da regra franciscana por Inocêncio III). O contraste é visível: os frades vestem hábitos simples, marrons, de quem fez voto de pobreza; o papa e os cardeais usam mitras, mantos vermelhos e ornamentos. A posição dos corpos — os franciscanos ajoelhados, o papa sentado e elevado — expressa a submissão da nova ordem mendicante à autoridade central de Roma, que a reconheceu e a manteve dentro da Igreja, ao contrário de movimentos de pobreza tratados como heréticos.\n\nA alternativa D inverte a história: os franciscanos foram aprovados, não condenados. A, B e E atribuem à imagem conteúdos que ela não mostra.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Brasil Colônia: o ciclo do ouro e o deslocamento do eixo colonial.\n\nO excerto mostra que a mineração em Minas Gerais, Goiás e Mato Grosso mudou o centro de gravidade da população e da economia do Nordeste para o Centro-Sul; que o transporte pelo interior fez o comércio dessas áreas passar pelo porto do Rio de Janeiro; e que a Coroa reconheceu essa realidade ao transferir a capital de Salvador para o Rio, em 1763. Há, portanto, uma ligação entre a ocupação de novos espaços (o interior minerador) e a reorganização política e econômica da colônia.\n\nAs outras alternativas não encontram apoio: o Nordeste perdeu peso (A), o texto não fala em navegação fluvial (B) nem em disputas de poder na metrópole (C), e não trata das relações entre classes sociais (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Brasil Colônia: a mineração e suas consequências.\n\nA descoberta do ouro, no fim do século XVII, levou a Coroa portuguesa a criar novas formas de controle administrativo: as Casas de Fundição e o quinto, as Intendências das Minas, os registros nas estradas, a criação de novas capitanias e, como o texto lembra, a transferência da capital para o Rio de Janeiro em 1763. Ao mesmo tempo, o ouro brasileiro alimentou o comércio atlântico: pagava a compra de africanos escravizados e as importações portuguesas, sobretudo da Inglaterra (Tratado de Methuen).\n\nA está errada porque o eixo era o Atlântico, não as Índias; C erra ao dizer que a colônia ficou fora do sistema mundial; D erra a data (a União Ibérica terminou em 1640); e E erra ao falar em liberalização, já que vigorava o monopólio metropolitano.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Independência do Brasil: a formação da nação como processo.\n\nJoão Paulo Pimenta afirma que a nação brasileira não existia antes da Independência, embora fatos coloniais ajudem a explicar seu surgimento; que ela começou a se definir como comunidade política \"não portuguesa\" entre 1820 e 1822; e que naqueles anos surgiram as condições para o nascimento da nação, sem garantia de que ela \"teria vida longa\". Ou seja, a nação se construiu num processo com raízes coloniais e que continuou depois de 1822.\n\nA alternativa B contradiz o texto, que diz que o surgimento \"não se fez de repente\". E também erra, pois o autor nega que a nação existisse durante a colonização. C e D não têm apoio no excerto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Segundo Reinado: a Guerra do Paraguai e o sentimento nacional.\n\nA Guerra do Paraguai (1864–1870), travada na região do Prata, mobilizou o país inteiro: os Voluntários da Pátria vieram de várias províncias, e a guerra foi acompanhada por imprensa, caricaturas e campanhas patrióticas. A luta contra um inimigo externo, por anos, reforçou a identificação dos habitantes com o Império, associando a comunidade política ao sentimento de ser brasileiro.\n\nAs outras alternativas têm erros de fato: o Primeiro Reinado foi marcado por conflitos e pelo Poder Moderador, não por poderes harmônicos e equipotentes (A); no período colonial não havia nação brasileira (C); as revoltas regenciais não se resumem a uma vitória monárquica sobre republicanos (D); e a Primeira República não se definiu por resistência ao imperialismo inglês (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Colonialismo na África (séculos XIX e XX): trabalho assalariado.\n\nO texto mostra que a administração britânica na Nigéria introduziu o trabalho assalariado, uma novidade ligada às relações capitalistas, por exemplo na construção de ferrovias. Mas os salários eram \"de fome\" e insuficientes para sustentar a família, de modo que o trabalho comunitário e o trabalho das mulheres continuaram tão necessários quanto antes. Houve, então, imposição de novas relações de trabalho que conviviam com o trabalho comunitário tradicional e dependiam dele.\n\nA alternativa B erra ao falar de escravidão; A fala em sindicatos rurais, ausentes do texto; C e D atribuem ao colonialismo valorizações que o excerto não descreve.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Colonialismo e relações de gênero na África.\n\nOyèrónkẹ́ Oyěwùmí argumenta que o colonialismo britânico, ao pagar salário apenas aos homens, deu ao trabalho masculino valor de troca, enquanto o trabalho das mulheres ficou só com valor de uso, desvalorizado e \"invisível\", apesar de continuar indispensável. Isso reestruturou as relações entre homens e mulheres e criou uma hierarquia de gênero que reforçou a dimensão patriarcal da sociedade nigeriana — é a tese do livro, de que a categoria \"mulher\" subordinada foi em parte uma invenção colonial.\n\nA alternativa D é a armadilha: o trabalho feminino era importante, mas o texto diz justamente que ele não foi reconhecido. B e C contrariam o excerto, e A exagera ao falar em fim da vida comunitária.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Imigração italiana em São Paulo no início do século XX.\n\nA Itália se unificou em 1861–1870, mas para a maioria dos camponeses que emigraram a pátria era um conceito abstrato: sua identidade se limitava à aldeia ou à província de origem. A autora diz que em São Paulo eles \"partilhariam, talvez pela primeira vez, uma história em comum\", construída coletivamente. Ou seja, a identidade italiana comum nasceu dos vínculos formados na terra de destino.\n\nA alternativa E diz o oposto do texto, que chama a unificação de \"conceito abstrato\" para a população. A, B e C trazem afirmações que o excerto não faz — em particular, a maioria dos imigrantes foi para a lavoura de café, e não para as fábricas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Golpe de 1964: militares e instituições.\n\nA foto mostra um tanque do Exército em Brasília, com o Congresso Nacional (as duas torres e as cúpulas) ao fundo. A imagem condensa a tensão entre as Forças Armadas e as instituições constitucionais: em 1964 os militares depuseram o presidente João Goulart, e o Congresso declarou vaga a Presidência; nos anos seguintes vieram cassações de mandatos e fechamentos do Legislativo.\n\nA alternativa C repete a justificativa dos golpistas, que diziam defender a democracia, mas o golpe instaurou uma ditadura. B situa a cena antes do golpe; D (confronto com o STF) e E (destruição da capital) não aconteceram — o golpe se consumou praticamente sem combates.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "História das mulheres e dos costumes a partir de 1970.\n\nA autora descreve uma mudança nos padrões de gênero: parte da \"graça feminina\" passou a ser vista como sensibilidade masculina, e a \"ferocidade\" deixou de ser atributo só dos homens. Entre os fatores dessa transformação está a pílula anticoncepcional, difundida a partir dos anos 1960: ao dar às mulheres controle sobre a gravidez, favoreceu sua entrada maior e mais duradoura no mercado de trabalho e em espaços antes masculinos, o que embaralhou os papéis tradicionais.\n\nAs outras alternativas erram: não houve \"inexistência\" de padrões (A); a Igreja Católica condenou a contracepção, em vez de defendê-la (B); as jornadas femininas não diminuíram (D); e a Segunda Guerra não é o contexto dos anos 1970 (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Fim da Guerra Fria: a queda do Muro de Berlim.\n\nO excerto mostra que a queda do Muro, em 9 de novembro de 1989, não resultou de crise internacional planejada: o chanceler Kohl estava em visita à Polônia, e o presidente Bush soube pela televisão, surpreso a ponto de comentar que os soviéticos estavam \"falando sério\". O \"eles\" se refere à abertura política de Gorbatchev (glasnost e perestroika) e à decisão soviética de não intervir no Leste Europeu, que permitiu a queda dos regimes comunistas.\n\nA alternativa C contradiz o texto, que mostra os líderes ocidentais sendo pegos de surpresa. A ignora o contexto soviético; D vai além do que o excerto afirma; e E não tem base no texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Geopolítica pós-Guerra Fria: da \"Nova Ordem Mundial\" à multipolaridade.\n\nBush pai anunciou, em 1990, um mundo ordenado e liderado pelos Estados Unidos, a única superpotência. Magnoli lembra que essa ideia \"não durou sequer uma década\": o poder militar seguiu concentrado nos EUA, mas o poder econômico se dividiu entre três grandes polos — Estados Unidos, União Europeia (consolidada pelo Tratado de Maastricht, em 1992) e Japão —, configurando uma ordem multipolar.\n\nA alternativa A erra a data: os BRICS só foram nomeados em 2001 e se reuniram a partir de 2009. C também erra, pois a Rússia viveu grave crise econômica nos anos 1990; D erra, pois os EUA cresceram fortemente na década; e B não descreve nenhum processo real.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Blocos econômicos: o Mercosul.\n\nCriado pelo Tratado de Assunção (1991), o Mercosul previa um mercado comum, mas se consolidou, na prática, como uma união aduaneira imperfeita: há livre comércio entre os membros e uma Tarifa Externa Comum, com listas de exceções. Ele reúne Estados Partes (membros plenos, como Brasil, Argentina, Uruguai e Paraguai) e Estados Associados (como Chile, Colômbia e Peru), que participam de acordos de comércio e cooperação sem integrar a união aduaneira — daí os graus diferentes de integração.\n\nA alternativa B é a armadilha: não há livre circulação plena de fatores nem autoridade monetária comum (moeda única). Mercosul não é república federativa (A), união política (D) nem organismo supranacional com essa função (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Geografia urbana: marketing urbano e gentrificação.\n\nInfluenciadores mostram uma vida glamorosa em Nova Iorque (compras no SoHo, bares em coberturas), o MIT encontrou correlação entre esse comportamento e o aumento dos aluguéis, e a agência oficial de turismo os contrata para promover bairros. Isso estimula a reprodução de um estilo de vida de alto consumo que atrai moradores e negócios de maior renda para certos bairros, valoriza os imóveis e expulsa os moradores antigos, de menor renda. Esse processo se chama gentrificação.\n\nA alternativa A é tentadora, mas a apropriação do solo urbano por interesses diferentes não é algo que essa estratégia \"inaugura\". Megalópole (C) e conurbação (E) são fenômenos de escala regional, e B não se relaciona ao texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Tema: saneamento básico na Amazônia. A região concentra a maior reserva de água doce do país, mas as comunidades ribeirinhas raramente têm rede de abastecimento com tratamento. Por isso consomem água \"barrenta\" direto dos rios, com alto risco de doenças de veiculação hídrica.\n\nO filtro coletivo com nanotecnologia é uma solução técnica descentralizada justamente para suprir essa falta de infraestrutura: a água existe em abundância, o que falta é tratamento. Daí a alternativa A.\n\nAs demais não se sustentam: a Zona Franca de Manaus não tem relação com o projeto no Pará; a demanda por água não é baixa; não há compartilhamento com países vizinhos no texto; e a Amazônia fica na faixa equatorial, não na temperada.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Tema: geografia econômica e segurança alimentar. O excerto descreve a lógica de corporações que querem tornar o preparo doméstico desnecessário, controlando a publicidade e \"direcionando o consumo\", numa engrenagem baseada no \"consumo desenfreado\".\n\nDo ponto de vista econômico, isso serve à acumulação de capital: o alimento deixa de ser entendido como direito e necessidade básica e passa a ser só mercadoria, cuja venda deve crescer sempre. Essa mercantilização compromete a segurança alimentar (dependência de ultraprocessados e de terceiros, perda de autonomia alimentar). Alternativa B.\n\nA alternativa E é a mais tentadora, mas inverte o sentido: as grandes corporações tendem a padronizar a alimentação, não a \"resgatar culturas locais\". As outras falam de especulação financeira, bens duráveis ou bens digitais, temas ausentes do texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Tema: modais de transporte e velocidade média. Velocidade média de todo o trajeto é distância total dividida pelo tempo total (não a média das velocidades).\n\nOpção 1:\nferroviário: 400 ÷ 80 = 5 h\nrodoviário: 1100 ÷ 55 = 20 h\ntotal: 1500 km em 25 h → 60 km/h\n\nOpção 2:\nhidroviário: 1200 ÷ 48 = 25 h\nrodoviário: 300 ÷ 60 = 5 h\ntotal: 1500 km em 30 h → 50 km/h\n\nA opção 2 é dominada pela hidrovia, o modal mais barato e de maior eficiência energética, porém lento. Ela convém a cargas de baixo valor agregado e sem urgência. Alternativa C.\n\nAs outras erram as contas (54; 67,5 e 65 km/h não batem) ou a lógica: a D soma velocidades, o que não faz sentido; a B chama de pouco eficiente a ferrovia, que na verdade é eficiente.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Tema: globalização, cadeias produtivas e critérios ESG. A lei europeia obriga as empresas que negociam com a UE a verificar toda a cadeia de valor, da extração da matéria-prima à venda, quanto a violações de direitos humanos e danos ambientais.\n\nIsso significa agir antes do problema: a lei \"antevê\" incidentes socioambientais, exigindo prevenção e monitoramento. Como o texto fala em efeito cascata sobre empresas de todos os portes, haverá custos e impactos econômicos, inclusive a revisão de contratos já firmados com fornecedores que não atendam às exigências. Alternativa E.\n\nAs demais extrapolam: a lei não pune países-membros \"arcaicos\" (A), não desloca centros hegemônicos para a periferia (B), não flexibiliza relações de trabalho (C) nem reestrutura instituições supranacionais para questionar o capitalismo (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Tema: relevo litorâneo e agentes exógenos. A abrasão marinha é o desgaste das rochas pelo impacto das ondas, que carregam areia e fragmentos. Quando atua sobre terrenos altos junto ao mar, ela escava a base e provoca desmoronamentos, formando paredões abruptos: as falésias.\n\nNa foto da praia de Carro Quebrado (AL) aparecem exatamente esses paredões avermelhados, típicos dos sedimentos da Formação Barreiras no litoral nordestino. Alternativa C.\n\nDepressão é área rebaixada em relação ao entorno; dobra resulta de esforços tectônicos (agente interno); coxilha é colina suave dos pampas gaúchos; colina é elevação arredondada. Nenhuma delas é produto da abrasão marinha.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Tema: populações tradicionais e conservação ambiental. Os dados mostram que, entre 1985 e 2022, os territórios quilombolas perderam 4,7% da vegetação nativa, contra 25% nas áreas privadas.\n\nA diferença expressa o modo particular como essas comunidades se relacionam com a natureza: uso de recursos para subsistência, manejo tradicional, vínculo cultural e coletivo com o território, em vez da exploração voltada ao mercado, que tende a desmatar para expandir pasto e lavoura. Alternativa D.\n\nA alternativa A é a armadilha: o baixo desmatamento não significa \"desinteresse\" pelo uso do território, mas outra forma de uso. As demais falam de coleta de dados, reintegração produtiva ou falta de legislação (a Constituição de 1988 já reconhece os territórios quilombolas), ideias que os números não sustentam.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Tema: brisas marítima e continental, circulação local de ventos. A terra se aquece e se resfria mais rápido que a água (o oceano tem maior calor específico).\n\nDe dia, o continente fica mais quente: o ar sobre ele sobe, forma-se baixa pressão, e o ar mais frio do oceano (alta pressão) avança em direção à terra: é a brisa marítima. À noite o continente esfria mais depressa, a situação se inverte e o vento sopra da terra para o mar: brisa continental. É o que mostram as setas do esquema.\n\nPortanto, o mecanismo é o aquecimento diferencial das superfícies, que gera um gradiente de pressão. Alternativa A.\n\nAs outras descrevem fenômenos diferentes: chuva orográfica (B), zona de convergência dos alísios (C), ciclones (D) e chuva frontal (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Tema: conservação dos solos. A serrapilheira é a camada de folhas, galhos, frutos, sementes e restos animais sobre o solo, como mostra o infográfico.\n\nEla cumpre duas funções centrais. Ao ser decomposta por fungos, bactérias e pequenos animais, devolve ao solo os nutrientes que a planta absorveu, que são de novo captados pelas raízes: é a ciclagem de nutrientes (as setas do esquema). Além disso, cobre o solo, amortece o impacto da chuva e reduz o escoamento superficial, protegendo contra a erosão. Alternativa A.\n\nAs demais erram os conceitos: litificação é a formação de rocha sedimentar; voçorocas são justamente erosão grave, que a serrapilheira evita; ela não interrompe a pedogênese (formação do solo), nem acaba com a lixiviação ou altera a continentalidade (fator climático).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Tema: cartografia e visões de mundo. Os mapas-múndi mais difundidos colocam a Europa no centro e no alto, herança da cartografia produzida pelas potências europeias: é o eurocentrismo. O mapa do IBGE de 2024 desloca o centro para o Brasil (com o meridiano central passando pela América), e foi isso que causou surpresa.\n\nPortanto, o mapa contraria a visão eurocêntrica. Alternativa C.\n\nA alternativa A é tentadora, mas nenhum mapa é neutro: centrar a Europa também é uma escolha. O mapa do IBGE continua usando latitude e longitude corretamente (D) e não define regiões (E). Na B, etnocentrismo não é \"doutrina que defende simetria entre países\"; a definição está errada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Tema: filosofia da linguagem em John Locke. Segundo o excerto, a linguagem existe porque não temos acesso direto às ideias dos outros: para \"entrar em acordo\" e nos entendermos, precisamos de signos sensíveis que comuniquem nossos pensamentos.\n\nEsse acordo entre os homens é a base da vida em sociedade. Locke, um dos teóricos contratualistas, pensa a sociedade política como fruto de um pacto entre indivíduos; sem linguagem para comunicar ideias e firmar acordos, o pacto social não seria possível. Por isso o argumento tem implicações no âmbito político. Alternativa E.\n\nAs demais não se ligam ao texto: ele não discute o senso comum (A), não nega a evidência científica (B), não trata do acesso ao divino (C) nem de uma nova compreensão do ser (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Tema: racismo ambiental e desigualdade social. O gráfico compara duas projeções de mortes por calor: sem considerar crescimento da renda e investimentos em adaptação, as mortes chegam a cerca de 220 por 100 mil em 2100; com esses benefícios, ficam em torno de 70 (redução de 62%). A área entre as curvas é o \"excesso de calor\", mortes evitáveis.\n\nOu seja, quem morre mais é quem não tem renda nem acesso a adaptação (moradia adequada, saúde, infraestrutura). O conceito de racismo ambiental diz que esses danos recaem sobre grupos vulnerabilizados, mesmo sem intenção racista. Os dois tratam do impacto da falta de políticas que garantam acesso a bem-estar social. Alternativa B.\n\nAs outras citam causas (organizações internacionais, negacionismo de minorias, campanhas de conscientização, lucro da economia verde) que não aparecem nem no gráfico nem no texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Tema: segregação socioespacial urbana. Arquitetura hostil são bancos com divisórias, pinos sob viadutos, grades e outros recursos que impedem a permanência de pessoas, sobretudo da população em situação de rua, em espaços públicos.\n\nA frase citada pelo historiador, \"só somos cidadãos se estamos trabalhando ou consumindo\", mostra a lógica de excluir do espaço público quem não se encaixa nesse padrão. Isso reforça uma cultura de estranhamento diante do outro e de segregação, já presente nas cidades brasileiras. Alternativa B.\n\nA alternativa E exagera: a arquitetura hostil restringe a presença de certos grupos, mas não \"anula\" a socialização entre indivíduos de modo geral. A e C dizem o contrário do texto (não há democratização nem fortalecimento da cidadania), e a D desvia para o emprego formal.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Tema: eurocentrismo na história da filosofia. Renato Noguera, pesquisador da filosofia africana, afirma que a filosofia não nasceu na Grécia: já existia no Egito (rekhet), entre os maias e em outros povos. A \"disputa política\" é a que fez prevalecer só a voz filosófica do Ocidente.\n\nEssa disputa coloca o pensamento ocidental acima dos demais, tratando os outros saberes como inferiores ou como \"não filosofia\": é uma hierarquização do pensamento humano. Alternativa D.\n\nA alternativa C é a mais próxima, mas o texto não fala em impor uma verdade única; fala em decidir quais tradições são reconhecidas como filosofia. A ideia de relativizar o conhecimento (A) é a posição de Noguera, não da disputa que ele critica.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Tema: lógica aristotélica. O Organon reúne os escritos de Aristóteles sobre lógica, e os Analíticos tratam da demonstração, isto é, do raciocínio que parte de premissas verdadeiras e chega necessariamente a uma conclusão verdadeira.\n\nO texto 2 traz a definição de silogismo: dadas certas premissas, outra coisa decorre delas \"necessariamente\". O exemplo clássico: todo homem é mortal; Sócrates é homem; logo, Sócrates é mortal. Isso é raciocínio dedutivo, em que a conclusão está garantida pelas premissas. A grande contribuição é, portanto, a estruturação do conhecimento dedutivo. Alternativa A.\n\nAs outras citam ideias de Aristóteles que não estão nos textos: classificação dos seres (B), crítica a Platão (C), justo meio da ética (D) e finalidade do cosmos (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Tema: arte contemporânea e estética. A autora afirma que, hoje, o que faz de um objeto \"arte\" não são suas qualidades intrínsecas (linhas, textura, técnica), mas o discurso do artista que o declara arte e propõe uma reflexão. O artista é reconhecido por se colocar \"no centro de uma rede de discursos\", assumindo ele mesmo o discurso sobre sua obra (pense no mictório de Duchamp).\n\nLogo, a mudança corresponde ao conceito elaborado pelo artista sobre sua produção. Alternativa E.\n\nA alternativa A é a armadilha: museus e galerias legitimam obras, mas o excerto põe o peso no discurso do próprio artista. C e D retomam justamente o que o texto diz ter perdido importância (técnica e materiais), e B não tem apoio no texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Tema: relações ecológicas interespecíficas. Orcas e seres humanos exploram o mesmo ambiente marinho e, segundo o texto, 69% das espécies predadas pela orca também são afetadas (capturadas) pelo ser humano. Quando duas espécies usam o mesmo recurso limitado, no caso o alimento, há sobreposição de nicho, e a relação é de competição interespecífica: ambas saem prejudicadas, pois a pesca humana reduz a oferta de presas para as orcas e vice-versa.\n\nAlternativa A.\n\nProtocooperação e mutualismo são relações em que as duas espécies se beneficiam; comensalismo beneficia uma sem afetar a outra; amensalismo é quando uma espécie inibe a outra sem ganho próprio (como fungos que liberam antibióticos). Nenhuma delas descreve a disputa pelo mesmo alimento.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Tema: fisiologia vegetal, estômatos e trocas gasosas. As micrografias mostram partículas de poluentes depositadas sobre a epiderme e dentro de um estômato, a abertura delimitada por duas células-guarda por onde a folha troca gases com o ambiente.\n\nOs estômatos permitem a entrada de CO₂ para a fotossíntese e a saída de O₂ e de vapor de água (transpiração). Se ficam obstruídos e a superfície foliar coberta de partículas, essas trocas gasosas ficam prejudicadas, o que reduz também a fotossíntese. Alternativa C.\n\nAs outras alternativas tratam de processos que não ocorrem na epiderme nem nos estômatos: o transporte de seiva elaborada é feito pelo floema, a citocinina é produzida principalmente nas raízes, e fototropismo do caule e desenvolvimento das gemas laterais dependem de hormônios (auxina, citocinina), não da superfície da folha.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Tema: vírus como parasitas intracelulares obrigatórios e crescimento bacteriano.\n\nTubo 1: os bacteriófagos foram colocados em meio de cultura sem bactérias. Vírus não têm metabolismo próprio e só se multiplicam dentro de uma célula hospedeira; nutrientes no meio não adiantam. Logo, a quantidade de vírus fica constante ao longo do tempo.\n\nTubo 2: bactérias em meio rico e em condições ideais se reproduzem por divisão binária, e a população cresce de forma exponencial (cada geração dobra o número de células).\n\nO par \"vírus constante, bactérias em crescimento exponencial\" é o da alternativa B.\n\nAs alternativas A, C, D e E mostram vírus aumentando sem hospedeiro, o que é impossível. A C pode parecer razoável para as bactérias (com fase estacionária), mas erra no tubo 1.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Tema: composição do sangue e localização do material genético. A informação genética herdada dos ancestrais está no DNA, que nos animais fica no núcleo das células.\n\nNo sangue humano, os componentes são: plasma (parte líquida, sem células), hemácias, plaquetas e leucócitos. As hemácias maduras dos mamíferos perdem o núcleo durante a formação, e as plaquetas são fragmentos de células (megacariócitos), também sem núcleo. Só os leucócitos são células nucleadas, com DNA nuclear formado por sequências de nucleotídeos. Alternativa B.\n\nAs demais trazem erros conceituais: plasma e plaquetas não têm núcleo nem DNA circular (A); histonas são proteínas que organizam o DNA, não definem a sequência de aminoácidos (C); glicocálix não carrega informação genética (D); hemoglobina é proteína, formada por aminoácidos, e não por bases nitrogenadas (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Tema: mecânica respiratória e controle da respiração.\n\nInspiração: para encher os pulmões, os músculos intercostais externos e o diafragma se contraem; o diafragma desce, a caixa torácica se expande, a pressão interna cai e o ar entra. Primeira lacuna: contrair.\n\nDurante o mergulho em apneia, o CO₂ produzido pelas células se acumula no sangue. Ele reage com a água formando ácido carbônico (CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻), o que aumenta a concentração de H⁺ e diminui o pH. Segunda lacuna: diminui.\n\nO centro respiratório que detecta a queda do pH e aumenta a frequência respiratória fica no bulbo (medula oblonga). Terceira lacuna: bulbo.\n\nSequência: contrair, diminui, bulbo. Alternativa E. O cerebelo, citado em outras alternativas, cuida do equilíbrio e da coordenação motora, não da respiração.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Tema: ciclo da Taenia solium, teníase e cisticercose. São duas doenças diferentes: a teníase é a presença da tênia adulta no intestino humano, adquirida ao comer carne de porco malcozida com cisticercos; a cisticercose é a infecção pelas larvas (cisticercos) nos tecidos, quando se ingerem os ovos.\n\nNa figura, o arco vermelho corresponde ao portador da tênia adulta: a pessoa com o verme no intestino (5) elimina ovos e proglotes nas fezes (1). O arco azul representa a cisticercose no porco (2) e no ser humano, inclusive a neurocisticercose (3); o 4 é a carne contaminada.\n\nDiagnosticar teníase é, portanto, buscar o verme adulto no hospedeiro humano (5) e seus ovos ou proglotes nas fezes (1). Alternativa D.\n\nOs alvos 2 e 3 servem para diagnosticar cisticercose, a confusão mais comum.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Tema: expressão gênica e receptores de membrana. Um gene não produz células nem se liga a moléculas: ele codifica uma proteína. O texto diz que o gene OR6A2 codifica um receptor olfativo sensível aos aldeídos do coentro.\n\nReceptores olfativos são proteínas da membrana plasmática dos neurônios olfativos, com o sítio de ligação voltado para o meio externo, onde encontram as moléculas odorantes. Ao se ligar ao aldeído, o receptor dispara o impulso nervoso. Logo, o gene expressa uma proteína ligada à superfície externa da membrana das células olfativas. Alternativa A.\n\nErros das outras: o gene não produz células (B); os aldeídos ligam-se à proteína receptora, não ao gene (C); a ligação ao receptor não \"aumenta a sensibilidade\" das células, a sensibilidade maior vem da variante genética (D); e o aldeído não estimula a síntese de um gene (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Tema: deriva continental e fisiologia dos anfíbios.\n\nPrimeira parte: a posição atual dos continentes resulta do movimento das placas tectônicas, impulsionado pelas correntes de convecção do magma no manto. O material mais quente sobe, esfria e desce, arrastando as placas. Foi esse processo que fragmentou a Pangeia e afastou o atual Brasil da Rússia. Não se trata de condução, nem de correntes oceânicas.\n\nSegunda parte: anfíbios têm pele fina, permeável e muito vascularizada, que participa das trocas gasosas (respiração cutânea). Para isso a pele precisa estar úmida, pois os gases se difundem dissolvidos em água. Um buraco revestido de muco protege da seca e mantém a pele úmida, garantindo a respiração cutânea. Anfíbios são ectotérmicos, então o muco não serve para manter temperatura corporal.\n\nAlternativa C.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Tema: misturas eutéticas e azeotrópicas e curvas de aquecimento. Substância pura tem patamares (temperatura constante) na fusão e na ebulição. Mistura comum muda de estado com a temperatura variando. Há dois tipos especiais: a mistura eutética funde a temperatura constante (mas ferve com variação) e a azeotrópica ferve a temperatura constante (mas funde com variação).\n\nLiga 63-37: o trecho S + L é horizontal (fusão a temperatura constante), e o trecho L + G é inclinado. É uma mistura eutética.\n\nLiga 60-40: os dois trechos de mudança de estado são inclinados. É uma mistura comum.\n\nLogo, apenas a liga 63-37 é eutética. Alternativa B. Por isso essa liga é preferida em solda eletrônica: solidifica toda de uma vez, numa única temperatura.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Tema: estequiometria e volume molar de gases. A sublimação é CO₂(s) → CO₂(g); cada mol de sólido gera 1 mol de gás.\n\nMassa molar do CO₂: 12 + 2 × 16 = 44 g/mol\n\nQuantidade de matéria em 1,1 kg:\nn = 1100 g ÷ 44 g/mol = 25 mol\n\nVolume nas CATP (25 L/mol):\nV = 25 mol × 25 L/mol = 625 L\n\nO valor mais próximo entre as alternativas é 600 L. Alternativa C.\n\nErro comum: esquecer de converter 1,1 kg para 1100 g, ou usar 22,4 L/mol (CNTP) em vez dos 25 L/mol dados, o que levaria a cerca de 560 L.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Tema: diluição de soluções e concentração em g/L e mol/L.\n\nA solução estoque tem 10 g do sal em 100 mL. Em 10 mL dela há:\n10 g × (10 mL ÷ 100 mL) = 1 g de sal\n\nEssa massa é diluída até 1 L, então:\nconcentração = 1 g ÷ 1 L = 1 g/L\n\nPara mol/L, divide-se pela massa molar do sal hidratado (250 g/mol):\n1 g/L ÷ 250 g/mol = 0,004 mol/L = 4 × 10⁻³ mol/L\n\nAlternativa E.\n\nErro típico: usar a concentração da solução estoque (100 g/L) ou esquecer o fator de diluição 100 (10 mL → 1000 mL). A alternativa D tem o g/L certo, mas erra a potência de 10 no mol/L.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Tema: funções orgânicas e fórmula molecular.\n\nFórmula: contando na estrutura, há 6 C no anel, 1 C no CH ligado ao OH, 1 C no CH₂ e 1 C no CH₃: 9 carbonos. Hidrogênios: 3 no anel, 2 nas hidroxilas fenólicas, 1 no CH e 1 no OH da cadeia, 2 no CH₂, 1 no NH e 3 no CH₃: 13 hidrogênios. Há 1 N e 3 O. Logo, C₉H₁₃NO₃.\n\nOrigem: a adrenalina é produzida pela medula das glândulas suprarrenais (adrenais), nas situações de luta ou fuga.\n\nFunção nitrogenada: o grupo NH–CH₃ é um nitrogênio ligado a carbonos e a um hidrogênio, sem carbonila vizinha; é uma amina (secundária). Amida exigiria o N ligado a um C=O, o que não existe na molécula.\n\nAlternativa D.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Tema: deslocamento de equilíbrio químico (princípio de Le Chatelier) e hidrólise salina.\n\nO cianeto sofre hidrólise: CN⁻ + H₂O ⇌ HCN + OH⁻. O HCN formado pode escapar como gás. Para reduzir a liberação, é preciso diminuir a quantidade de HCN em solução, ou seja, deslocar o primeiro equilíbrio para a esquerda.\n\nAdicionando OH⁻ (por exemplo, NaOH), aumenta a concentração de um produto e o equilíbrio se desloca para a esquerda, consumindo HCN. Ao mesmo tempo, o pH sobe. Alternativa E.\n\nA alternativa C é a armadilha: adicionar HCl diminui o pH (não eleva) e, pior, o H⁺ consome OH⁻ e reage com CN⁻, produzindo mais HCN, que é exatamente o que se quer evitar. NaCl é sal neutro e não altera o pH (A), e NaOH não diminui o pH (B).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Tema: reações nucleares e conservação de número de massa e número atômico.\n\nA partícula α é um núcleo de hélio: A = 4, Z = 2. O berílio-9 tem Z = 4 e A = 9. O nêutron tem A = 1 e Z = 0.\n\nNúmeros de massa: 4 + 9 = A + 1 → A = 12\nNúmeros atômicos: 2 + 4 = Z + 0 → Z = 6\n\nX tem Z = 6, então é o carbono-12. Número de nêutrons:\nN = A − Z = 12 − 6 = 6\n\nAlternativa B.\n\nErros comuns: responder o número atômico do berílio somado ao da α sem tirar nada, ou confundir número de massa (12) com número de nêutrons; ou ainda esquecer o nêutron emitido e obter A = 13 (alternativa E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Tema: termoquímica, cálculo de ΔH pelas energias de ligação. Romper ligações absorve energia; formar ligações libera.\n\nLigações rompidas (reagentes):\nN₂H₄: 4 N–H + 1 N–N = 4 × 391 + 163 = 1727 kJ\nO₂: 1 O=O = 497 kJ\ntotal absorvido = 2224 kJ\n\nLigações formadas (produtos):\nN₂: 1 N≡N = 949 kJ\n2 H₂O: 4 H–O = 4 × 463 = 1852 kJ\ntotal liberado = 2801 kJ\n\nΔH = 2224 − 2801 = −577 kJ\n\nA combustão de 1 mol de hidrazina libera 577 kJ. Alternativa C.\n\nAs alternativas B, D e E são somas parciais (1727 só da hidrazina; 2224 e 2801 são os totais de ruptura e de formação), armadilhas para quem não faz a diferença.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Tema: transmissão de movimento circular por engrenagens. Engrenagens acopladas pelos dentes têm a mesma velocidade linear no ponto de contato: v = 2π·f·R é igual nas duas, logo f_A · R_A = f_B · R_B.\n\nA manivela M está presa à engrenagem A, que gira com a mesma frequência dela: f_A = 2,4 Hz. Com R_A = 3 R_B:\n2,4 · 3 R_B = f_B · R_B\nf_B = 7,2 Hz\n\nA roda R e o cesto estão presos ao mesmo eixo de B (acoplamento coaxial), então giram com a mesma frequência de B: 7,2 Hz. Alternativa A.\n\nLembre que a engrenagem menor gira mais rápido, por isso se multiplica pela razão dos raios. Também não importa o tamanho da roda R: no mesmo eixo, a frequência é a mesma. Quem soma 2,4 + 1,2 ou confunde a razão acaba em valores como 3,6 Hz.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Tema: lançamento oblíquo. O movimento se decompõe em horizontal uniforme (vₓ constante) e vertical uniformemente variado (g = 10 m/s²).\n\nPonto mais alto (B): é o vértice da parábola.\nx_B = −1,6 ÷ (2 · (−0,2)) = 4 m, atingido em t = 0,8 s.\n\nVelocidade horizontal:\nvₓ = 4 m ÷ 0,8 s = 5 m/s\n\nVelocidade vertical inicial: no ponto mais alto vᵧ = 0, então\n0 = v₀ᵧ − 10 · 0,8 → v₀ᵧ = 8 m/s\n\nConferência pela equação: o coeficiente de x² deve ser g ÷ (2 vₓ²) = 10 ÷ 50 = 0,2 e o de x deve ser v₀ᵧ ÷ vₓ = 8 ÷ 5 = 1,6. Batem. E em t = 2 s, x = 10 m e y = −20 + 16 + 4 = 0, o solo.\n\nMódulo de v₀:\nv₀ = √(5² + 8²) = √89 m/s\n\nAlternativa E. Erro comum: tomar só uma das componentes (5 ou 8 m/s) ou somá-las (13 m/s, alternativa D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Tema: dinâmica com atrito estático em plano inclinado. Quem acelera a caixa para cima da esteira é o atrito estático, que aponta para cima do plano. Ao longo do plano:\nf_at − m·g·sen θ = m·a\n\nA aceleração é máxima quando o atrito atinge seu valor máximo:\nf_at,máx = μ · N = μ · m·g·cos θ\n\nEntão:\na_máx = g (μ cos θ − sen θ)\na_máx = 10 · (0,8 · 0,8 − 0,6)\na_máx = 10 · (0,64 − 0,60) = 0,4 m/s²\n\nAlternativa A.\n\nErro típico: esquecer que parte do atrito precisa primeiro equilibrar a componente do peso ao longo da rampa (m·g·sen θ = 6m). Sem isso, chega-se a 6,4 m/s², valor absurdo para a questão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Tema: gases ideais e manometria (equação de Clapeyron).\n\nPressão do gás: no manômetro de mercúrio, a coluna do lado aberto está 152 mm acima da do lado do gás. Logo, o gás empurra o mercúrio com pressão maior que a atmosférica:\np = 760 mmHg + 152 mmHg = 912 mmHg\n\nConvertendo (760 mmHg = 10⁵ Pa):\np = (912 ÷ 760) · 10⁵ = 1,2 · 10⁵ Pa\n\nClapeyron, p·V = n·R·T:\nT = p·V ÷ (n·R)\nT = (1,2 · 10⁵ · 6 · 10⁻³) ÷ (0,25 · 8)\nT = 720 ÷ 2 = 360 K\n\nAlternativa D.\n\nErro típico: subtrair o desnível (608 mmHg, achando que o gás está abaixo da atmosfera) ou usar só a pressão atmosférica. Com 10⁵ Pa, o resultado seria 300 K, que nem está entre as opções.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Tema: lentes esféricas e aumento linear transversal. O aumento é a razão entre o tamanho da imagem e o tamanho do objeto: A = i ÷ o. O objeto, a lapiseira, é o mesmo nas duas fotos.\n\nFigura 1 (lente convergente, A₁ = 2): a largura da imagem é 1,6 cm, então\no = 1,6 ÷ 2 = 0,8 cm\n\nFigura 2 (lente divergente, A₂ = 0,8): a imagem é menor que o objeto, como sempre ocorre com lente divergente e objeto real:\nL = 0,8 · 0,8 = 0,64 cm\n\nAlternativa B.\n\nErro típico: aplicar A₂ diretamente sobre a imagem da figura 1 (1,6 · 0,8 = 1,28 cm) ou dividir em vez de multiplicar. Antes, é preciso voltar ao tamanho real do objeto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:81": {
+   "resposta": "Tema: ondulatória, equação fundamental v = λ · f.\n\nNa figura, a cota de 0,6 m mede um pulso completo, ou seja, um comprimento de onda: λ = 0,6 m. A cota de 1,8 m vai da frente da onda até o pino.\n\nA frequência é a da mão do garoto, 3 Hz. Velocidade da onda:\nv = λ · f = 0,6 · 3 = 1,8 m/s\n\nTempo para a frente da onda chegar ao pino:\nt = 1,8 m ÷ 1,8 m/s = 1,0 s\n\nAlternativa E.\n\nO ponto delicado é ler as cotas: elas são desenhadas em perspectiva, e as linhas tracejadas mostram que os 1,8 m partem da frente do pulso, não do garoto. Quem usar λ = 0,3 m (dividindo os 0,6 m pelos dois pulsos) chega a 2,0 s, alternativa C.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:82": {
+   "resposta": "Tema: potência elétrica em circuito residencial (P = U · i). Os aparelhos estão em paralelo, então as potências se somam e a corrente total passa pelo disjuntor.\n\nPotência máxima suportada pelo disjuntor:\nP_máx = 110 V · 30 A = 3300 W\n\nJá ligados: TV + máquina de lavar = 220 + 880 = 1100 W. Sobram 2200 W.\n\nTestando as alternativas (potência adicional):\nA) micro-ondas: 880 W → total 1980 W\nB) micro-ondas + liquidificador: 1430 W → total 2530 W\nC) micro-ondas + ferro: 2310 W → total 3410 W\nD) ferro: 1430 W → total 2530 W\nE) liquidificador + ferro: 1980 W → total 3080 W\n\nSó na alternativa C a potência passa de 3300 W (a corrente seria 3410 ÷ 110 = 31 A), e o disjuntor desarma.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:83": {
+   "resposta": "Tema: leitura de gráfico e razão (preço por quilograma). Cada ponto dá a massa (eixo horizontal) e o preço cobrado por ela (eixo vertical). Contando os quadradinhos a partir da origem:\nI: 1 kg por 5 unidades → 5 por kg\nII: 1 kg por 2 unidades → 2 por kg\nIII: 2 kg por 4 unidades → 2 por kg\nIV: 3 kg por 2 unidades → cerca de 0,67 por kg\nV: 5 kg por 1 unidade → 0,2 por kg\n\nPara grande quantidade, vale o menor preço por quilograma: mercado V. Graficamente, é o ponto cuja reta até a origem tem a menor inclinação.\n\nO mercado II vende 1 kg pelo preço de 2 unidades. O triplo, 3 kg, pelo mesmo preço de 2 unidades, é exatamente o ponto IV (mesma altura de II, três vezes mais à direita).\n\nSequência: V e IV. Alternativa D.\n\nErro comum: escolher o ponto mais baixo ou o mais alto do gráfico sem dividir preço por massa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:84": {
+   "resposta": "Tema: função modular e função afim. Primeiro, a diferença entre as duas fórmulas:\nT_C − T*_C = 5(T_F − 32)/9 − (T_F − 30)/2\n\nCom denominador comum 18:\n= [10(T_F − 32) − 9(T_F − 30)] ÷ 18\n= (10 T_F − 320 − 9 T_F + 270) ÷ 18\n= (T_F − 50) ÷ 18\n\nLogo, E(T_F) = |T_F − 50| ÷ 18.\n\nO gráfico é um \"V\": vale zero em T_F = 50 e, em T_F = 0, vale 50 ÷ 18 = 25/9. Isso corresponde à alternativa B.\n\nA alternativa C tem o zero certo em 50, mas o valor 18 em T_F = 0 está errado (seria o denominador, não o valor da função). A D tem 25/9 no eixo, mas o zero em 25.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:85": {
+   "resposta": "Tema: princípio da casa dos pombos (pior caso). Para ter certeza, imagine o azar máximo: retirar o maior número possível de cartões sem que nenhum número apareça 10 vezes.\n\nOs números de 1 a 9 têm menos de 10 cartões cada; dá para tirar todos sem completar 10 iguais:\n1 + 2 + … + 9 = 45 cartões\n\nOs números de 10 a 100 (91 números) têm 10 cartões ou mais; dá para tirar até 9 de cada:\n91 × 9 = 819 cartões\n\nNo pior caso, são 45 + 819 = 864 cartões sem 10 iguais. O próximo cartão obrigatoriamente será o décimo de algum número de 10 a 100:\n864 + 1 = 865\n\nAlternativa A.\n\nErro típico: esquecer que os números de 1 a 9 nunca chegam a 10 cartões e fazer 100 × 9 + 1 = 901, ou contar 91 × 9 + 1 = 820, deixando de fora os 45 cartões dos números pequenos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:86": {
+   "resposta": "Tema: soma dos ângulos internos de polígonos e triângulo isósceles.\n\nSoma dos ângulos internos do pentágono: (5 − 2) · 180° = 540°. Chamando de y o ângulo interno em N:\n102° + 120° + 76° + x + y = 540° → x + y = 242°\n\nTriângulo UVN: V está no prolongamento de PU além de U e também no prolongamento de EN além de N. Assim, os ângulos do triângulo são suplementos dos ângulos internos:\nângulo em U: 180° − x\nângulo em N: 180° − y\n\nComo UV = UN, o triângulo é isósceles de base VN, e os ângulos da base são iguais: o ângulo em V também vale 180° − y. Somando:\n(180° − x) + 2(180° − y) = 180° → x + 2y = 360°\n\nSubtraindo a primeira equação: y = 118°, e então x = 242° − 118° = 124°.\n\nAlternativa E. Erro comum: tomar como iguais os ângulos em U e N, em vez dos ângulos opostos aos lados congruentes (em V e em N).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:87": {
+   "resposta": "Tema: geometria analítica, vértices de quadrado por rotação de vetor e interseção de retas.\n\nQuadrado ABCD: AB = B − A = (6, −1). O lado AD é perpendicular e de mesmo comprimento; pela figura, aponta para baixo: AD = (−1, −6). Logo D = (−1, −5).\n\nQuadrado AEFG: AE = (2, −1), e AG = (−1, −2), então G = (−1, −1) e F = (1, −2).\n\nP é a interseção dos lados AD e GF.\nReta AD: x = −t, y = 1 − 6t\nReta GF: x = −1 + 2s, y = −1 − s\n\nIgualando x: t = 1 − 2s. Igualando y:\n1 − 6(1 − 2s) = −1 − s\n−5 + 12s = −1 − s\n13s = 4 → s = 4/13\n\nOrdenada de P: y = −1 − 4/13 = −17/13 (cerca de −1,31, coerente com a figura).\n\nAlternativa D. As outras opções têm valores numericamente próximos (−1,30; −1,32; −1,35), por isso a conta tem de ser exata.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:88": {
+   "resposta": "Tema: sólidos de revolução (cone) e relações métricas no triângulo retângulo.\n\nA diagonal BD divide o retângulo em dois triângulos retângulos, ABD e CBD, um de cada lado do eixo. Girando 180°, cada triângulo descreve meio \"duplo cone\" (dois cones unidos pela base, com vértices em B e D), e as duas metades ficam em semiespaços opostos, sem se sobrepor. Juntas, valem um duplo cone completo.\n\nDiagonal: BD = √(20² + 15²) = 25 cm.\nRaio da base comum (altura relativa à hipotenusa):\nr = (20 · 15) ÷ 25 = 12 cm\n\nAs alturas dos dois cones somam BD = 25 cm, então o volume do duplo cone é:\nV = (1/3) · π · r² · 25 = (1/3) · π · 144 · 25 = 1200π cm³\n\nAlternativa B.\n\nErro típico: achar que, por ser só meia volta, o volume é metade de um duplo cone (600π, que não aparece) ou usar os lados do retângulo como raio, o que leva a valores como 2400π.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:89": {
+   "resposta": "Tema: função logarítmica, domínio e assíntota.\n\nAssíntota: f(x) = log₂(x − 1) só existe para x − 1 > 0, e o gráfico se aproxima da reta vertical x = 1 sem tocá-la. Então P = (1, 0).\n\nInterseção com o eixo x: log₂(x − 1) = 0 → x − 1 = 1 → x = 2. Então Q = (2, 0).\n\nPonto médio de PQ:\nx_M = (1 + 2) ÷ 2 = 1,5\n\nComo M pertence ao gráfico:\ny_M = log₂(1,5 − 1) = log₂(0,5) = log₂(2⁻¹) = −1\n\nAlternativa C.\n\nErro comum: tomar a assíntota em x = 0 (como em log₂ x), o que levaria a x_M = 1 e a um logaritmo de zero, que não existe.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:90": {
+   "resposta": "Tema: progressão geométrica (soma de PG) e velocidade média.\n\nUnidades: lado = 10 cm = 0,1 m; v inicial = 6 m/min = 0,1 m/s.\n\nTempo em cada lado: no primeiro, t₁ = 0,1 m ÷ 0,1 m/s = 1 s. Como a velocidade dobra a cada lado, o tempo cai pela metade: 1 s, 1/2 s, 1/4 s, … É uma PG de razão 1/2.\n\nDez voltas completas no triângulo correspondem a 30 lados. Soma dos 30 primeiros termos:\nS = 1 · (1 − (1/2)³⁰) ÷ (1 − 1/2) = 2 · (1 − 1/2³⁰) ≈ 2 s\n\nO termo (1/2)³⁰ é menor que um bilionésimo, por isso a resposta é aproximadamente 2 s. Alternativa A.\n\nErro típico: não converter unidades (cm e m/min) ou contar 10 lados em vez de 30. Note que, mesmo contando só 10 lados, a soma também ficaria perto de 2 s, porque a PG converge rapidamente.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,457 @@
+{
+ "indice": "data/questoes/unesp/2026_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Questão de interpretação do trecho inicial de \"As aventuras de Nhô Quim\", de Angelo Agostini, considerado o primeiro romance ilustrado (quadrinho) brasileiro.\n\nO texto informa que sinhá Rosa é \"moça virtuosa, mas que... de louça nem um pires\": a expressão diz, com ironia, que ela não tinha bens. O velho Quim acha que \"mulher sem dinheiro é asneira\" e, para afastar o filho do namoro, manda-o passear na Corte. A viagem, portanto, é um expediente do pai para separar o rapaz de uma moça de condição social inferior.\n\nA alternativa A inverte o sentido: a moça é descrita como virtuosa, não de índole duvidosa. A D atribui a Nhô Quim uma desconfiança que o texto não menciona; quem rejeita o namoro é o pai, e o motivo é a pobreza da moça.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "O humor do trecho vem da exploração de uma expressão idiomática.\n\n\"Mandar plantar batatas\" significa, em sentido figurado, mandar alguém embora, livrar-se dele com desdém. O narrador comenta, entre parênteses, que isso \"seria muito proveitoso na roça\", ou seja, finge entender a expressão ao pé da letra: na fazenda, plantar batatas de verdade seria útil. O contraste entre o sentido figurado (despachar o filho) e o literal (cultivar a terra) é explícito e produz o efeito cômico.\n\nNas demais alternativas há ironia (o queijo que \"parece queijo suíço\" pelo cheiro, a gente \"malcriada\" da Corte, o pires de louça), mas nenhuma delas confronta abertamente os dois sentidos de uma mesma expressão. Em D, \"de louça nem um pires\" é figurado, mas o narrador não o contrapõe ao sentido literal.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Questão de contexto histórico. O romance foi publicado entre 1869 e 1872, no Segundo Reinado.\n\nNessa época, \"a Corte\" designava a cidade do Rio de Janeiro, capital do Império e sede da família imperial (o Município Neutro). A viagem do caipira \"à Corte\" é, portanto, uma viagem ao Rio. Os quadrinhos confirmam o cenário: Nhô Quim chega à \"estação do Campo de Santana\", local da estação da Estrada de Ferro D. Pedro II, no centro do Rio.\n\nSão Paulo era então uma cidade provinciana, Salvador e Ouro Preto haviam sido capitais em outros contextos (da Colônia e de Minas, respectivamente) e Paraty era um porto secundário.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Questão de literatura: Romantismo brasileiro e a vertente cômica/satírica.\n\nEntre as obras citadas, a única romântica com tom cômico, de crônica de costumes e personagens populares, é \"Memórias de um sargento de milícias\" (1852-1853), de Manuel Antônio de Almeida, que narra as peripécias do malandro Leonardo no Rio de Janeiro do tempo do rei.\n\nAs demais estão fora do critério: \"O cortiço\" é naturalista; \"Memórias póstumas de Brás Cubas\" tem ironia, mas inaugura o Realismo; \"Iracema\" é romântica, mas indianista e lírica, sem comicidade; \"Macunaíma\" tem humor, mas é modernista (1928). A armadilha está em C e E, que são cômicas, mas não pertencem ao Romantismo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Questão de sintaxe: oração subordinada adverbial reduzida de gerúndio.\n\n\"Encostando-se à vidraça do Grande Mágico\" é uma oração reduzida de gerúndio que pode ser desenvolvida como \"Quando se encostou à vidraça do Grande Mágico, Nhô Quim sentiu uma coisa\". O gerúndio marca o momento em que acontece o fato da oração principal: o choque elétrico ocorre no instante em que ele encosta na vidraça. A ideia é, portanto, de tempo.\n\nNão há condição (o encostar não é hipótese; aconteceu), nem finalidade (ele não se encosta para sentir algo), nem conclusão. A tentação seria ler causa ou consequência, mas a consequência é o choque, expresso na oração principal, e não na subordinada.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A tirinha de Laerte é construída com antíteses (pares de opostos) que se multiplicam.\n\nO primeiro quadro apresenta um par de opostos: agradáveis × desagradáveis. No segundo nível, cada termo se divide em novo par (pagas × grátis; obrigatórias × voluntárias): 2 antíteses. No terceiro, cada um desses quatro termos se divide de novo (curtas × longas, legais × ilegais, locais × universais, nobres × vis): 4 antíteses. O último quadro, com balões ilegíveis, sugere a continuação: 8 antíteses.\n\nA sequência de antíteses é 1, 2, 4, 8: cada etapa dobra a anterior, o que caracteriza uma progressão geométrica de razão 2.\n\nNão se trata de hipérbole nem de paradoxo, pois os termos são simplesmente opostos, sem exagero nem contradição lógica. A alternativa D erra a razão: PG de razão 1 seria uma sequência constante.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Questão sobre o poema de Sophia de Mello Breyner Andresen em homenagem a Ricardo Reis.\n\nNa primeira estrofe, o eu lírico diz a Lídia que nenhum \"estio\" (verão) perdido poderá regressar para oferecer a flor que eles adiaram colher. O tempo que passou não volta: o que não foi aproveitado está perdido para sempre. A ênfase é na irreversibilidade do tempo.\n\nA alternativa E é a mais tentadora, mas o poema não fala de imprevisibilidade (não saber o que virá), e sim da impossibilidade de recuperar o que passou. Também não há reflexão sobre o caráter desumano ou enigmático do mundo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Interpretação da terceira estrofe do poema de Sophia de Mello Breyner Andresen.\n\nO sujeito de \"apaga\" é \"o tempo\"; ele apaga tudo, exceto \"esse longo indelével rasto que o não-vivido deixa\". Indelével é o que não se pode apagar. Ou seja, o que deixamos de viver deixa uma marca permanente (o arrependimento, a falta), e essa marca o tempo não consegue apagar.\n\nA alternativa C diz o oposto (o não-vivido se perderia com o tempo). A B troca o \"não-vivido\" pelas \"vivências mais íntimas\": segundo o poema, o tempo apaga tudo o que foi vivido, e só o rastro do não-vivido permanece. A e D tratam de concepções de tempo que o trecho não discute.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Questão sobre tópicos clássicos (topoi) e a poética de Ricardo Reis, heterônimo neoclássico e epicurista de Fernando Pessoa.\n\nO poema insiste que o tempo não volta, que \"cada dia te é dado uma só vez\", que não há piedade \"para aquele que hesita\" e que \"mais tarde será tarde\". A mensagem a Lídia é: não adie, aproveite o presente. Esse é o \"carpe diem\" de Horácio, tópico central nas odes de Ricardo Reis.\n\n\"Locus amoenus\" e \"fugere urbem\" são temas árcades ligados à natureza e à vida no campo, ausentes aqui. \"Inutilia truncat\" é um princípio de estilo (cortar o supérfluo), não um tema. \"Locus horrendus\" não tem relação com o texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Questão sobre a filosofia que embasa a visão de mundo do poema, escrito à maneira de Ricardo Reis.\n\nO eu lírico reconhece a fugacidade da vida, a ação implacável do tempo (Kronos) e recomenda colher o momento presente sem hesitar. Essa é a base da filosofia de Epicuro, adotada por Ricardo Reis: buscar a serenidade e o prazer moderado no presente, diante da certeza da morte e da passagem do tempo (Reis também incorpora traços estoicos).\n\nIluminismo, marxismo e darwinismo não têm relação com o tema. Platão também não: sua filosofia valoriza o mundo das ideias, eterno, e não o aproveitamento do instante vivido.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Questão sobre figuras de linguagem: pleonasmo (redundância intencional para reforçar uma ideia).\n\nEm \"E no redondo círculo da noite\", o adjetivo \"redondo\" não acrescenta informação ao substantivo \"círculo\", que já é redondo por definição. A redundância é expressiva: reforça a imagem do ciclo fechado e repetitivo do tempo, da noite que sempre retorna.\n\nNos demais versos não há repetição de sentido. \"Por nós perdido possa regressar\" tem inversão sintática (hipérbato); \"O tempo apaga tudo menos esse\" traz uma exceção, não uma redundância.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Questão de leitura de texto multimodal (post com imagem e legenda) e do conceito de estereótipo.\n\nA foto mostra a placa \"Caution – Wet Floor\" (cuidado, piso molhado) e, no chão, vários modelos moleculares de bolas e varetas: uma esfera vermelha (oxigênio) ligada a duas brancas (hidrogênio), ou seja, moléculas de H₂O. A piada é que o piso está literalmente \"molhado\" de moléculas de água. A legenda \"If you laugh, you probably have no friends\" (se você rir, provavelmente não tem amigos) explora o estereótipo do \"nerd\": quem é inteligente o bastante para entender esse humor químico seria socialmente isolado.\n\nB erra o conhecimento envolvido (não é física da reflexão da luz); A, C e E falam em arrogância, armadilha ou comportamento dos fluidos, que não aparecem na imagem.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Interpretação do ensaio de Jorge Coli sobre Gustave Courbet, pintor realista francês.\n\nO texto contrapõe o modo de ser do artista, \"truculento, tagarela, escandaloso, barulhento\", à sua obra, que é \"grave e silenciosa\", exige \"recolhimento, meditação\" e \"olhar prolongado\". O traço que define a obra, em contradição com o temperamento do pintor, é a discrição: ela não seduz pelo fascínio imediato nem chama a atenção.\n\nEloquência, escárnio, rebuscamento e combatividade se aproximam mais do modo de ser atribuído ao artista (ou não aparecem no texto), e não da obra.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Questão sobre impessoalidade e marcas de pessoa no discurso.\n\nUm trecho é menos impessoal quando o enunciador se mostra no texto, por exemplo com verbos e pronomes de 1ª pessoa. Em E, o autor escreve \"O que nós assistimos com a arte de Courbet\", incluindo-se no discurso com a primeira pessoa do plural. É o único trecho com essa marca.\n\nNos outros, a linguagem é de 3ª pessoa e as afirmações são apresentadas de forma objetiva (\"Courbet circunscreve\", \"Os quadros de Courbet dão a impressão\", \"Não se trata de uma obra\"), mesmo quando há avaliação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Questão de vocabulário em contexto: o sentido de \"artista marginal\" no ensaio.\n\nPara Coli, o lugar da \"marginalidade\" é aquele que o artista estabelece longe dos \"critérios externos que possuem valores já constituídos\"; é um lugar \"independente e que lhe é próprio\". O artista marginal \"não deve mais nada nem ao mundo, nem a ninguém\", e precisa estabelecer seus próprios valores e \"construir uma ética para si\". Isso define a autonomia: dar a si mesmo as próprias regras.\n\nO termo \"marginal\" não tem aqui o sentido pejorativo comum (delinquente, mesquinho), nem se relaciona com obsessão, inconstância ou abstração.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Questão que relaciona o ensaio com a identificação de obras de arte.\n\nO texto diz que, antes de Courbet, os artistas veiculavam valores externos: Jacques-Louis David celebra a Revolução Francesa e o Império napoleônico, e Delacroix trata da liberdade política. Assim, \"Napoleão cruzando os Alpes\" e \"A morte de Marat\" são de David, e \"A liberdade guiando o povo\" é de Delacroix. \"Últimas palavras do imperador Marco Aurélio\", de tema histórico e grandioso, também é de Delacroix.\n\nResta o \"Autorretrato com um cachorro preto\": um retrato do próprio artista, sem tema político ou heroico, de cores sóbrias, compatível com a obra \"grave e silenciosa\" e centrada no artista que o ensaio descreve. É de Courbet.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Questão de coesão referencial: identificar os referentes de pronomes.\n\nEm \"um lugar que é independente e que lhe é próprio\", o pronome relativo \"que\" retoma o antecedente imediato, \"lugar\" (o lugar é independente). O pronome \"lhe\" equivale a \"para ele\" e se refere a quem o lugar pertence: \"o artista\" (o lugar é próprio do artista).\n\nEm \"Courbet circunscreve pela primeira vez o campo da marginalidade, e o define como um território de eleição\", o pronome oblíquo \"o\" é objeto de \"define\" e retoma \"o campo da marginalidade\". \"Território de eleição\" é o predicativo, aquilo que o campo passa a ser, não o referente do pronome.\n\nA distração mais comum está em C, que confunde o referente do \"o\" com o predicativo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Questão sobre o Modernismo brasileiro e a ruptura com o Parnasianismo.\n\n\"No meio do caminho\", publicado em 1928 na Revista de Antropofagia, é um marco da 1ª geração modernista. Os parnasianos prezavam a métrica regular, a rima rica, o vocabulário erudito e a \"arte pela arte\". O poema de Drummond rompe com isso: usa verso livre, sem métrica nem rima fixa, e linguagem coloquial, como no \"tinha uma pedra\" (uso popular de \"ter\" no lugar de \"haver\"), com repetição deliberada, quase banal.\n\nA \"contenção lírica\" e a \"busca pela perfeição formal\" são justamente traços parnasianos. O poema também não tem discurso socialmente engajado, que aparece em Drummond só mais tarde, em \"A rosa do povo\" (1945).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Questão de leitura do desenho que representa os versos do poema como peças de Lego, à luz do comentário de Arnaldo Saraiva.\n\nSaraiva diz que os versos repetidos ou invertidos não acrescentam \"valor lógico\": todo o poema caberia em três versos. São os versos distintos: \"No meio do caminho tinha uma pedra\" (peças amarelo, vermelho, verde-claro, verde-escuro), \"Nunca me esquecerei desse acontecimento\" (salmão + verde-oliva) e \"Na vida de minhas retinas tão fatigadas\" (verde-limão + marrom).\n\nA alternativa D monta exatamente essas três linhas, nessa ordem. As outras trazem versos repetidos ou invertidos (\"tinha uma pedra / no meio do caminho\") e omitem algum dos três versos essenciais: A e C não têm o verso das \"retinas fatigadas\", B não tem o verso inicial completo e E não tem o verso da pedra.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Questão sobre fenômenos semânticos: homonímia.\n\nCalvin lê no exercício \"duas milhas marítimas é igual a dois nós\". Nesse caso, \"nós\" é o plural de \"nó\", unidade de velocidade usada na navegação. Calvin pergunta o que é \"nós\" e Haroldo entende o pronome pessoal \"nós\": \"Eu e você, por exemplo\". O humor nasce da confusão entre duas palavras idênticas na grafia e na pronúncia, mas com significados diferentes. Isso é homonímia (homônimos perfeitos).\n\nNão é paronímia, que exige palavras apenas parecidas (como \"comprimento\" e \"cumprimento\"). Também não há sinonímia, antonímia ou onomatopeia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Questão de leitura de cartaz em inglês: identificar a finalidade principal.\n\nO cartaz, da Regione Piemonte (Itália), alerta sobre o besouro Popillia japonica: \"Do not bring this pest home\" (não leve esta praga para casa) e \"check carefully your vehicle before you leave\" (verifique bem seu veículo antes de partir). No fim, explica o motivo: o inseto \"does not sting or bite and it's not poisonous\" (não pica, não morde e não é venenoso), \"but it poses a serious threat to agriculture and to the environment\" (mas é uma séria ameaça à agricultura e ao meio ambiente). O objetivo é evitar que a praga se espalhe e prejudique plantações e ambiente.\n\nC contradiz o cartaz, que diz que o inseto não pica. B é tentadora por causa do \"Don't get into a panic\", mas acalmar as pessoas é só um detalhe, não o propósito. O cartaz não proíbe dirigir (D) nem diz que a praga está fora de controle (A).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Questão de referência em inglês: o sentido de \"home\" em \"Do not bring this pest home\".\n\nO cartaz é dirigido a quem está numa área infestada (\"You are in an area infested by this pest\") e vai partir de carro: pede que a pessoa verifique o veículo antes de sair para não levar o inseto consigo. \"Home\" (para casa) indica, portanto, o lugar para onde o viajante está indo, o destino final da viagem de carro, e não um lugar específico como o Japão ou a região do Piemonte.\n\nB é uma armadilha: o Japão aparece no cartaz como local de origem do inseto (\"Native of Japan\"). C e A indicam justamente a área infestada, de onde o inseto não deve sair, e D é o meio de transporte.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Questão de compreensão geral de texto em inglês sobre a pesquisadora da Embrapa Mariangela Hungria, ganhadora do World Food Prize de 2025.\n\nO texto diz que ela desenvolveu tratamentos biológicos de sementes e solo que permitem às plantas obter nutrientes por meio de bactérias do solo, \"significantly increasing yields of major crops\" (aumentando significativamente a produtividade das principais culturas) e reduzindo o uso de fertilizantes sintéticos. Ou seja, o resultado positivo foi a melhora da produção agrícola.\n\nAs outras alternativas contradizem o texto: o trabalho dela reduz fertilizantes sintéticos (D), usa bactérias do solo em vez de eliminá-las (E), não envolve sementes transgênicas (C) e se opõe à lógica petroquímica da Revolução Verde (A).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Questão sobre conectivos em inglês: o sentido de \"while\".\n\n\"While\" pode indicar simultaneidade (enquanto, ao mesmo tempo que) ou contraste (ao passo que). No trecho, os produtos de Hungria economizam até US$ 40 bilhões por ano em custos \"while avoiding more than 180 million metric tons of CO₂\" (ao mesmo tempo que evitam mais de 180 milhões de toneladas de CO₂). Os dois benefícios acontecem juntos e se somam; não há oposição entre economizar dinheiro e reduzir emissões.\n\nPor isso a leitura de contraste, que costuma ser a mais tentadora por ser um uso conhecido de \"while\", não se aplica aqui.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Questão de compreensão de texto em inglês.\n\nO terceiro parágrafo cita trigo, milho, arroz e feijão, mas destaca a soja: \"including soybean, which is now Brazil's top agricultural export\" (incluindo a soja, hoje o principal produto de exportação agrícola do Brasil). Em seguida, dá números só para ela: ao longo dos 40 anos de carreira de Hungria na Embrapa, a produção nacional de soja passou de 15 milhões de toneladas em 1979 para 173 milhões previstas em 2025. É a cultura mais impactada, segundo o texto.\n\nMilho, feijão, arroz e trigo aparecem apenas na lista geral, sem nenhum dado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Questão de compreensão de texto em inglês (quarto parágrafo).\n\nHungria conta que muitas pessoas questionaram a ela e às suas capacidades ao longo da carreira, \"but I believed in what I was doing and persevered\" (mas eu acreditei no que fazia e perseverei). Ela atribui parte do seu sucesso, portanto, à perseverança.\n\nO preconceito (A) é um obstáculo que ela superou, não a causa do sucesso. Fama e reconhecimento (B e C) são consequências do trabalho: ela até diz que o papel das mulheres \"deserves more recognition\". Religião não aparece no texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Questão sobre a função de um trecho em inglês.\n\nHungria usa a expressão \"micro green revolution\" e, logo depois do travessão, explica o que ela significa: \"a green revolution, but with microorganisms\" (uma revolução verde, mas com microrganismos). O trecho sublinhado define o conceito novo, relacionando-o à Revolução Verde de Norman Borlaug, citada antes.\n\nNão é um exemplo (B), pois não apresenta um caso particular; não é uma consequência (D); não é um comentário desnecessário (C). O \"but\" pode sugerir contraste (E), mas ele só especifica a diferença dentro da própria definição.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Questão de compreensão de texto em inglês (quarto parágrafo).\n\nO texto diz que Hungria \"overcame prejudices against women and young mothers in academia\" (superou preconceitos contra mulheres e mães jovens no meio acadêmico) e que \"many people questioned me and my abilities\". Ela também defende mais reconhecimento para as mulheres na ciência. O que ela enfrentou foi, portanto, preconceito de gênero contra mulheres na ciência.\n\nB distorce o texto: o problema não eram mães jovens na equipe dela, e sim o preconceito contra ela, como mãe jovem. Borlaug foi sua inspiração, não um supervisor (A); a Forbes apenas a incluiu numa lista (D); e as pessoas que a questionavam não eram amigos com perguntas estranhas (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Questão de leitura de gráfico em inglês: área plantada de soja (acres, linha) e produção (bushels, barras) no Brasil.\n\nÉ preciso comparar os dois dados ano a ano. De 2017-18 para 2018-19, a área subiu de 87 para 89 milhões de acres, mas a produção caiu de 4.529 para 4.399 milhões de bushels. De 2020-21 para 2021-22, a área subiu de 98 para 103 e a produção caiu de 5.122 para 4.613. O mesmo ocorre em 2023-24 (114 acres, 5.415 contra 5.681 no ano anterior). Logo, aumentar a área plantada não resulta necessariamente em maior produção.\n\nA está errada porque em 2016-17 a produção subiu (3.516 para 4.227). B e D são falsas porque a área não cresce em ritmo constante nem proporcional à produção. E é falsa porque a produção oscilou e voltou a subir depois de 2020.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Questão de compreensão de tirinha em inglês (Calvin e Haroldo).\n\nO pai encontra o banheiro alagado e pergunta o que Calvin estava fazendo. Calvin muda de versão a cada quadro: primeiro diz que a torneira \"blows sky high all by itself\" (voou sozinha); depois culpa Haroldo, que estaria mexendo nas ferramentas do pai; quando o pai diz \"One more try\" (mais uma tentativa), ele culpa alienígenas de Plutão. Calvin está inventando desculpas para o que fez de errado.\n\nD e E não se sustentam: o pai, de braços cruzados e com o \"One more try\", claramente não acredita, e Calvin não fica feliz com isso. B e C tomam as desculpas de Calvin como se fossem crenças sinceras ou fatos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Questão de História Antiga: o surgimento do cristianismo no Império Romano.\n\nA autora contrapõe duas visões. A teologia cristã posterior construiu uma \"absoluta incompatibilidade\" entre Jesus e Dioniso, mas, para um romano dos séculos I ou II, o cristianismo não pareceria tão hostil aos cultos extáticos: era \"apenas mais uma religião 'oriental'\", vinda do leste e, como outras de origem semelhante, atraente para mulheres e pobres. Ou seja, aos olhos romanos, ele se parecia com outras expressões religiosas da época, como os cultos de mistério.\n\nD exagera: dizer que o cristianismo era parecido com outros cultos não é dizer que ele derivava diretamente dos ritos dionisíacos. A, B e C atribuem ao texto ideias que ele não contém (heresia dionisíaca, perseguição como opressão a mulheres e pobres, oposição entre rituais).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Questão sobre a mentalidade medieval e a imagem da Roda da Fortuna.\n\nNa iconografia medieval, a deusa Fortuna gira uma roda em que as pessoas sobem ao topo (poder, riqueza) e depois despencam, sem controle algum. A imagem expressa a crença de que o destino humano está sujeito a forças superiores e instáveis, à providência divina e ao acaso, e que ninguém controla a própria sorte. O meme brinca com isso: o estudante \"vai escolher a alternativa certa\", mas quem decide é a roda.\n\nE contradiz a imagem: a roda representa justamente a falta de controle, não o livre-arbítrio. A e B confundem o tema com a ambição ou com o gosto por jogos, e C é falsa para a Idade Média, marcada pela forte ligação entre poder político e religioso.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Questão sobre a escravidão africana no Brasil colonial e a contribuição econômica dos africanos.\n\nAlberto da Costa e Silva mostra que os africanos não trouxeram só força de trabalho: trouxeram saberes produtivos. Eram pioneiros na metalurgia do ferro, conheciam as técnicas da bateia e da escavação de minas (essenciais na mineração do ouro), eram ourives e teciam em teares. Esses conhecimentos aumentaram a produção colonial e, portanto, a riqueza transferida à metrópole portuguesa.\n\nAs demais alternativas não decorrem do excerto: ele não trata do trabalho escravo na Europa (A), do monopólio do tráfico (C), de um aprendizado com os indígenas (D) nem de missionários que preservassem a cultura africana (E). O \"também\" do enunciado indica uma contribuição além do trabalho braçal, que é o domínio técnico.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Questão sobre a contribuição cultural africana na formação do Brasil.\n\nNo último parágrafo, o autor diz que os relatos das nações africanas se misturavam \"entre si e com os dos ameríndios e europeus\", a ponto de ser difícil separar o Curupira tupi do \"moatia\" dos axantes. Cita também bichos-papões, jogos, brinquedos e os desfiles de reis que reaparecem nos maracatus, congadas e reisados. Os africanos trouxeram um repertório cultural que se combinou com tradições indígenas e europeias, num processo de sincretismo.\n\nB contradiz o texto, que diz que os tecidos eram produzidos \"ao arrepio das proibições régias\". D é tentadora, mas o texto não diz que os africanos levaram os portugueses a descobrir jazidas; fala de técnicas de mineração. A e C não têm apoio no excerto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Questão sobre arte e construção da identidade nacional no Segundo Reinado.\n\n\"Primeira missa no Brasil\" (1860), de Victor Meirelles, foi pintada no contexto do Romantismo e do projeto do Império, apoiado pela Academia Imperial de Belas Artes, de criar uma memória nacional. Inspirada na carta de Pero Vaz de Caminha, a tela mostra os indígenas observando a cerimônia de forma pacífica e curiosa, integrados à natureza ao redor, sem sinais de violência ou conflito. A obra idealiza o \"encontro\" e sugere harmonia entre os grupos que formariam a nação.\n\nD e C atribuem à tela uma crítica que ela não faz: a pintura celebra o momento fundador, não denuncia a imposição do catolicismo. B anacronicamente fala em liberdade de culto, e E trata de uma questão (separação Estado-Igreja) ausente da imagem.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Questão sobre a Proclamação da República (1889) vista pela literatura de Machado de Assis, em \"Esaú e Jacó\".\n\nO dono da \"Confeitaria do Império\" acabou de mandar pintar a tabuleta quando a República é proclamada. Ele teme que o nome provoque ataques (\"venham quebrar-me as vidraças\"), mas não quer trocar para \"Confeitaria da República\", porque, se houver outra reviravolta, perderá de novo o dinheiro. A mudança de regime o incomoda apenas pelo prejuízo que pode causar: a preocupação dele é financeira, não ideológica.\n\nE é a alternativa mais tentadora, mas o confeiteiro não demonstra adesão à monarquia; ele mudaria o nome se não tivesse gasto com a tabuleta. A ironia de Machado está justamente na indiferença política do personagem diante da mudança de regime, tratada como questão de custo. A e B citam inflação e rebeliões populares, que o texto não menciona.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Questão sobre a expansão territorial dos Estados Unidos no século XIX (marcha para o Oeste, \"Destino Manifesto\").\n\nO mapa mostra as Treze Colônias e as terras obtidas após a Independência (1783), e depois as aquisições: compras de potências europeias (Louisiana da França em 1803, Flórida da Espanha em 1819, Alasca da Rússia em 1867), a cessão mexicana após a guerra contra o México (1848), a anexação do Texas (1845) e a compra de Gadsden (1853). Os limites do território resultaram, portanto, de guerras e de compras de terras.\n\nB erra a cronologia: a expansão para o Oeste ocorreu antes da Guerra de Secessão (1861-1865). C ignora as guerras e remoções forçadas de indígenas. D é falsa porque a maior parte das terras mexicanas foi tomada por guerra, e a expansão não terminou ali (Alasca, 1867). E contradiz o mapa, que mostra um território unificado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Questão de leitura de tabela sobre a população brasileira no primeiro censo (1872).\n\nCalcule a proporção de imigrantes estrangeiros em cada região:\nSul: 54.193 ÷ 721.337 ≈ 7,5%\nCentro-Sul: 148.706 ÷ 4.016.922 ≈ 3,7%\n7,5% é cerca do dobro de 3,7% (razão ≈ 2,03). A alternativa C está correta.\n\nD é a mais tentadora. Pessoas livres incluem brasileiros livres e imigrantes: Extremo Norte, 576.851 + 11.660 = 588.511 (≈ 85,1%); Sul, 573.809 + 54.193 = 628.002 (≈ 87,1%). O Sul tem mais livres em número e em proporção. A tabela não informa o tipo de lavoura nem a indústria, então as explicações causais de A, B e E não podem ser tiradas dela. Além disso, o Oeste tem menos imigrantes que o Sul, mas o Sul tem bem mais escravizados que o Oeste.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "Se \"pessoas livres\" na alternativa D for lida só como a coluna \"brasileiros livres\", o Extremo Norte supera o Sul (576.851 contra 573.809; 83,4% contra 79,5%) e D também seria verdadeira; somando os imigrantes, D é falsa."
+  },
+  "0:39": {
+   "resposta": "Questão sobre a África no século XX: descolonização e diáspora africana.\n\nA capa de \"Survival\" (1979) traz bandeiras de países africanos já independentes (Angola, Gana, Quênia, Nigéria, Argélia, Libéria, entre outros), além da Etiópia, nunca colonizada. Atravessando o título, há uma faixa com figuras humanas enfileiradas: a planta estilizada de um navio negreiro, como nos diagramas do tráfico atlântico. Bob Marley, jamaicano e rastafári, liga o continente livre às populações descendentes de africanos escravizados na América, num discurso pan-africanista.\n\nE erra porque as bandeiras são de países independentes, não de colônias. A e D falam da conquista dos séculos XV e XVI, que não é o tema da capa (e os EUA nem existiam). C reduz a capa ao islamismo, embora haja bandeiras de países de várias tradições religiosas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Questão sobre o trabalho feminino na Primeira República.\n\nO texto contrapõe a norma oficial, de origem nas elites, que reservava à mulher a casa e ao homem a rua, aos dados reais. Com a industrialização, as mulheres, junto com as crianças, chegaram a mais da metade da força de trabalho em algumas indústrias. No Rio Grande do Sul, eram cerca de 42% da população economicamente ativa em 1900 e 49,4% em 1920 (50,8% em Porto Alegre). Havia, portanto, contradição entre a convenção social e a participação efetiva das mulheres no mercado de trabalho.\n\nD é tentadora, mas o texto diz o contrário: a percepção não mudou radicalmente, e a norma conservadora persistia apesar dos fatos. A atribui o padrão a uma imposição europeia na República, quando o texto o liga às elites coloniais. C inventa leis que proibiam o trabalho feminino. E explica a presença feminina por \"facilidade\" das mulheres, o que o texto não diz.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Questão sobre desigualdade social e marginalização no Brasil contemporâneo, a partir do rap dos Racionais MC's.\n\nA letra contrapõe dois irmãos. Um seguiu o percurso socialmente esperado: estudou, está \"bem perto de fazer a formatura\" em Direito, tem filho e é visto como quem \"merece ser feliz\". O outro, atraído pela rua e pela necessidade (\"tinha que sobreviver\"), entrou na criminalidade e agora pode pegar \"quinze anos pra cada latrocínio / sem dinheiro pra me defender\". A canção mostra o contraste entre as normas de conduta valorizadas (estudo, profissão, família) e a marginalização de parte da população pobre.\n\nA transforma a criminalidade em problema puramente moral, quando a letra aponta as condições sociais. B e E erram o tempo histórico: o disco é de 1997, e a letra não fala da ditadura nem do seu fim. C afirma que o racismo estrutural surgiu depois da abolição, mas ele tem raízes na própria escravidão.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Questão sobre movimentos sociais em rede, segundo Manuel Castells.\n\nPara Castells, esses movimentos são formados por indivíduos à vontade com as tecnologias digitais, têm organização baseada na cultura da autonomia, \"não poderiam existir sem a internet\" e se opõem a instituições políticas consideradas obsoletas. A Primavera Árabe (2010-2012) é o exemplo clássico: protestos em vários países (Tunísia, Egito, Líbia) convocados e articulados por redes sociais contra regimes autoritários.\n\nA e B tratam de conflitos armados entre Estados ou grupos armados, não de movimentos sociais. C é uma lei, não um movimento. D distorce o Occupy Wall Street, que foi um protesto contra o sistema financeiro, e não uma campanha de investidores do mercado.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Questão de geopolítica contemporânea: o conceito de \"Sul Global\".\n\nO texto define o \"Sul Global\" como um grupo de países com desafios socioeconômicos parecidos e um histórico de marginalização nas relações internacionais, sem limite geográfico rígido. A presidência do G20 pelo Brasil e depois pela África do Sul simboliza a emergência dessas nações e a redefinição da cooperação internacional. O termo expressa, portanto, a busca de mais representatividade e relevância para os países periféricos.\n\nD exagera: o texto fala de emergência e de maior peso, não de transferência do centro do poder mundial. C acrescenta um viés militar ausente do texto. B confunde \"Sul\" com \"Oriente\". E não é sustentada pelo texto, que trata de representação, não de independência em relação aos organismos internacionais.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Questão sobre a Divisão Internacional do Trabalho (DIT).\n\nA charge mostra montanhas de soja e vagões de minério sendo oferecidos em troca de um único chip (\"Troco isso aí por um chip!\"). Ela ironiza a especialização produtiva desigual: países periféricos, como o Brasil, exportam commodities de baixo valor agregado, enquanto países centrais exportam produtos de alta tecnologia e alto valor agregado. Uma enorme quantidade de matéria-prima vale tanto quanto um pequeno componente eletrônico, o que expressa a deterioração dos termos de troca.\n\nB é próxima, mas usa o rótulo \"neocolonialismo\", ligado à partilha da África e da Ásia no século XIX, e fala em importação de bens industrializados em geral. A charge foca na troca desigual medida pelo valor agregado. D remete à Guerra Fria, e A e E não têm relação com a imagem.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Questão sobre economia solidária: bancos comunitários e moedas sociais.\n\nA moeda \"Sampaio\", do Jardim Maria Sampaio (Zona Sul de São Paulo), é emitida por um banco comunitário regulamentado pelo Banco Central, vale o mesmo que o real (\"troca um por um\") e só pode ser usada no bairro. Por isso, o dinheiro circula entre os moradores e o comércio local, em vez de sair da comunidade. É uma estratégia de fomento à economia local.\n\nC é tentadora, mas a moeda não se desvincula do real: mantém paridade e é regulamentada pelo próprio sistema oficial. A e E atribuem à iniciativa caráter socialista ou especulativo que o texto não sustenta. D contradiz a reportagem, que mostra a moeda facilitando as compras, e não criando burocracia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "O tema é a **Lei de Terras de 1850**, aprovada no Segundo Reinado no mesmo ano da Lei Eusébio de Queirós, que proibiu o tráfico negreiro.\n\nCom o fim do tráfico, os cafeicultores previram a falta de mão de obra. A Lei de Terras determinou que terras devolutas só poderiam ser obtidas por compra, e não mais por posse ou ocupação. Assim, ex-escravizados e imigrantes pobres, sem dinheiro, ficaram impedidos de se tornar pequenos proprietários e foram empurrados para o trabalho nas fazendas, exatamente o que o excerto descreve.\n\nA consequência que perdura é a **estrutura fundiária concentrada**: o acesso à terra ficou restrito a quem já tinha capital, reforçando o latifúndio que marca o campo brasileiro até hoje.\n\nA Lei Eusébio de Queirós é da mesma época, mas trata do tráfico, não da terra; as sesmarias são coloniais e o Estatuto da Terra é de 1964.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "A questão cruza Geografia agrária e Biologia a partir de alimentos geneticamente modificados (edição gênica por CRISPR, a técnica premiada com o Nobel de Química de 2020).\n\nDo ponto de vista geográfico, as sementes transgênicas ou editadas são produtos de laboratório patenteados por grandes empresas (no texto, a parceria com a Bayer). Elas costumam ser caras e exigem pagamento de royalties, o que **dificulta o acesso de pequenos agricultores** e reforça a dependência tecnológica do campo em relação às multinacionais.\n\nDo ponto de vista biológico, o exemplo do texto é revelador: a picância da mostarda vem de compostos (glucosinolatos) que funcionam como **defesa química da planta contra herbívoros e pragas**. Remover essa característica para agradar o consumidor descaracteriza um mecanismo natural de defesa contra predadores.\n\nAs demais alternativas falham: transgênicos não \"redefinem\" o espaço rural nem invalidam a evolução, não reduzem necessariamente o impacto ambiental e não incorporam saberes tradicionais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "O conceito em jogo é o de **meio técnico-científico-informacional**, de Milton Santos, base da regionalização dos \"Quatro Brasis\" (Amazônia, Nordeste, Centro-Oeste e Região Concentrada).\n\nEssa regionalização não segue fronteiras estaduais, mas a densidade de técnica, ciência e informação no território: rodovias, redes de comunicação, centros de distribuição, indústrias. A Região Concentrada (Sudeste e Sul) reúne a maior densidade desses objetos técnicos; a Amazônia, a menor.\n\nO mapa mostra exatamente isso: os prazos de entrega mais curtos (1 a 6 dias) aparecem na Região Concentrada, onde estão quase todos os centros de distribuição e os eixos rodoviários; os mais longos (13 a 69 dias), na Amazônia. Portanto, tanto a variação dos prazos quanto a própria divisão regional dependem da **densidade do meio técnico-científico-informacional**.\n\nA alternativa A é a armadilha: os Quatro Brasis justamente não respeitam limites político-administrativos (o Mato Grosso do Sul, por exemplo, fica fora da Região Concentrada mesmo sendo vizinho dela).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "A questão trata do **consumo de recursos naturais pela economia digital** e da ideia de alienação do consumidor.\n\nOs webstories informam que cada imagem gerada consome energia e que o resfriamento dos data centers gasta água: \"mais de 2 litros de água a cada 50 consultas\" e 7 500 litros por hora no pico da trend. Quem usa a ferramenta por diversão não percebe esse custo, porque o processo produtivo (servidores, energia, refrigeração) fica invisível para ele.\n\nEsse distanciamento entre o consumidor e as etapas de produção do que consome é o que se chama de **alienação** em relação aos processos produtivos, e o exemplo do gasto de água ilustra bem o debate.\n\nAs outras alternativas não se sustentam: o texto não fala de direitos autorais flexibilizados, de formação de preços nem de serviços públicos, e os dados apresentados mostram consumo alto de água, não \"reduzido\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "O esquema ilustra a formação de ilhas vulcânicas por um **ponto quente (hotspot)**, fenômeno de **intraplaca**.\n\nUma pluma do manto, fixa, sobe da profundidade e perfura a Placa do Pacífico longe de qualquer borda. Como a placa se desloca (as setas para a esquerda), o vulcão ativo é \"arrastado\" para longe da pluma e se extingue, enquanto um novo se forma sobre ela. O resultado é uma cadeia de ilhas cada vez mais antigas no sentido do movimento: Havaí (0,7 a 0 milhões de anos) e o vulcão submarino Loihi sobre a pluma, e Kauai e Niihau (5,6 a 4,9 milhões de anos) do outro lado.\n\nAs alternativas sobre limites (transcorrentes, convergentes, divergentes) não servem, porque o arquipélago está no meio da placa; e o vulcanismo é processo endógeno, não força exógena.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "O experimento trata da **textura do solo**, isto é, da proporção entre partículas de argila, silte e areia.\n\nAo agitar o solo com água e deixar decantar, as partículas se separam por tamanho: a areia, mais grossa, assenta primeiro, no fundo; depois o silte; e a argila, mais fina, fica por cima. Medindo a espessura de cada camada, classifica-se o solo como arenoso, siltoso ou argiloso, como nos frascos.\n\nEssa informação tem uso direto na **construção civil**: a textura determina a capacidade de suporte, a drenagem, a plasticidade e a tendência a expandir, contrair ou desmoronar. Solos muito arenosos são pouco coesos; solos muito argilosos retêm água e podem se deformar. Por isso a análise granulométrica faz parte do estudo da estabilidade do terreno antes de uma obra.\n\nA alternativa D é a mais tentadora, mas confunde conceitos: horizontes são as camadas do perfil natural do solo (O, A, B, C), formadas pela pedogênese, e não as camadas criadas artificialmente pela decantação no frasco.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "A questão relaciona construção civil e **ciclo do carbono**.\n\nDurante o crescimento, a árvore faz fotossíntese: retira CO₂ da atmosfera e incorpora o carbono em sua biomassa (celulose e lignina). Quando essa madeira vira viga ou painel de um prédio, o carbono continua \"guardado\" na estrutura por décadas, em vez de voltar à atmosfera. Esse é o **sequestro (ou estocagem) de carbono**. Além disso, a madeira substitui parte do aço e do concreto, materiais cuja produção emite muito CO₂.\n\nAs demais alternativas têm erros conceituais: a cadeia produtiva da madeira ainda usa combustíveis fósseis (transporte, máquinas), então não há \"eliminação\"; madeira não cria estoque de oxigênio nem absorve metano depois de beneficiada; e uma peça de construção não faz evapotranspiração, que é processo de plantas vivas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "O bordado retrata uma **vereda**, paisagem típica do **Cerrado**: áreas úmidas ao redor de nascentes, marcadas pelos buritis, palmeiras que só crescem onde há água aflorando. Pirapora, no norte de Minas Gerais, está no domínio do Cerrado, e a fala da artesã reforça a \"urgência de preservar\".\n\nEntre as duas alternativas sobre o Cerrado, a correta é a que aponta seu **baixo percentual de áreas sob proteção integral**: apenas uma pequena fração do bioma (em torno de 3%) está em unidades de conservação desse tipo, enquanto grande parte já foi convertida em pastagens e lavouras de soja.\n\nA alternativa B erra a descrição: o Cerrado é uma savana com estrato herbáceo, mas também com arbustos e árvores de troncos tortuosos, além de matas ciliares e veredas; não é formado apenas por plantas herbáceas. A Mata dos Cocais é a faixa de babaçu e carnaúba do Maranhão e Piauí, e a Caatinga não tem buritis.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "O tema é **sensoriamento remoto** e a escolha do tipo de sensor.\n\nSensores ópticos (fotografias aéreas, imagens na faixa do visível e do infravermelho) dependem da luz refletida pela superfície e não \"enxergam\" através de nuvens. A Amazônia e boa parte do território brasileiro têm **cobertura de nuvens quase permanente**, o que inviabilizava mapear essas áreas por fotografia.\n\nO radar é um sensor ativo: emite micro-ondas e capta o eco. Micro-ondas atravessam nuvens, chuva e fumaça e funcionam de dia ou de noite. Por isso o Projeto Radam (Radar na Amazônia) e o RadamBrasil usaram radar para levantar relevo, vegetação e recursos naturais.\n\nA alternativa E é a única que aponta a causa certa, a alta nebulosidade. As outras erram: radar não opera na faixa da luz visível (A e C), e altitude de voo ou variedade do relevo não impedem o uso de sensores ópticos (B e D).\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "A segunda parte da alternativa oficial tem redação imprecisa: os sensores ópticos também operam com ondas eletromagnéticas (luz visível e infravermelho); o que os distingue do radar é a faixa de frequência."
+  },
+  "0:55": {
+   "resposta": "O texto de Gusdorf discute a **passagem do mito à filosofia** e insiste que as duas cumprem a mesma função: dar ao homem um lugar ordenado no mundo, um \"estado de paz\" diante do espanto ou da angústia.\n\nO mito é a primeira forma dessa adaptação, coletiva. Quando essa consciência coletiva se rompe, o pensador \"retoma-o por sua conta\", agora com os recursos da reflexão. Ou seja, a filosofia não nega o que o mito buscava; ela ocupa o lugar dele usando outro instrumento, o conceito e a justificação racional. Essa é a ideia de **substituição progressiva da fabulação mítica pela análise conceitual sistemática**.\n\nAs outras alternativas contradizem o texto: o autor não fala em rejeitar o mito como irracional (E) nem em negar métodos racionais (B); também não associa a filosofia à preservação do consenso comunitário, já que ela surge justamente quando esse consenso se rompe (A); e o tema não é o conhecimento científico (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "A questão aplica à história da Biologia a noção de **paradigma científico**, de Thomas Kuhn.\n\nPara Kuhn, a ciência não avança só por acúmulo de dados. Durante a \"ciência normal\", uma comunidade trabalha dentro de um paradigma aceito; quando ele deixa de explicar os fenômenos, vem uma crise e, por fim, uma **revolução científica**, que substitui o paradigma antigo por outro.\n\nO excerto descreve exatamente essa sequência: o fixismo dominou até o século XIX; a partir do século XVIII surgem teorias evolucionistas (Buffon, Lamarck) que o contestam; e em 1859 Darwin propõe uma explicação \"muito diferente\" das anteriores, que reorganiza todo o campo. São rupturas sucessivas, não conciliação nem consolidação.\n\nAs demais alternativas vão contra o texto: a mudança não reforça um modelo dogmático, não concilia concepções opostas, não marca um limite do conhecimento e não rejeita evidências, já que a teoria de Darwin se apoiou justamente em observações.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "O conceito cobrado é o de **indústria cultural**, de Adorno e Horkheimer (Escola de Frankfurt).\n\nPara eles, os meios de comunicação de massa produzem cultura como mercadoria padronizada, voltada ao lucro, e com isso reproduzem a ideologia dominante e tornam o público passivo e conformado, isto é, **alienado**, em benefício dos interesses de quem controla esses meios.\n\nO excerto mostra que a internet, apesar de transformar cada usuário em emissor, repete a mesma lógica: a relevância da informação passa a ser medida por audiência (compartilhamentos, seguidores, tempo de permanência) e não por seu \"potencial emancipatório\". Sem cultura crítica, a massificação vira \"remassificação\". Ou seja, a comunicação digital continua **reproduzindo a alienação a favor de interesses hegemônicos**.\n\nAs outras alternativas dizem o oposto do texto: falam em neutralizar a ideologia, em emancipação, em autonomia ou em legitimação democrática, justamente o que o autor diz que ainda não aconteceu.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "O contexto é a **Revolução Científica** dos séculos XVI e XVII, que rompe com a autoridade da tradição aristotélico-escolástica.\n\nO telescópio de Galileu e o aperfeiçoamento proposto por Kepler mostram duas coisas ao mesmo tempo: a **observação** ampliada por instrumentos e o uso da **razão**, expressa em teoria matemática da óptica (Kepler calcula como lentes convergentes produzem maior campo e ampliação). Com isso, o conhecimento do universo passa a depender do que se observa e se demonstra, e não mais da autoridade de Aristóteles ou da Igreja.\n\nPor isso a alternativa D é a correta: razão e observação aparecem como formas autônomas de compreender a natureza.\n\nA alternativa A inverte o sentido histórico: as observações de Galileu (luas de Júpiter, crateras da Lua) derrubaram crenças medievais, não as confirmaram. Pelo mesmo motivo, C está errada. E a E ignora que o próprio texto mostra a teoria (óptica de Kepler) guiando o instrumento.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Os dois textos tratam da **relação entre ser humano e tecnologia**, tema clássico da filosofia da técnica.\n\nO Texto 1 mostra usuários tratando a IA com cortesia, como se fosse um interlocutor humano, e notando que isso muda a resposta. O Texto 2 revela o que fica fora da vista: cada \"obrigado\" consome energia, água e dinheiro, e os grandes modelos exigem uma enorme infraestrutura com impacto ambiental.\n\nJuntando os dois, percebe-se que as pessoas incorporam a IA ao cotidiano de forma espontânea e pouco reflexiva, sem considerar o que ela implica, seja na dimensão ética (tratar a máquina como pessoa), seja na dimensão material (custos ambientais). Isso é a **assimilação acrítica** da tecnologia, que obscurece suas implicações.\n\nA alternativa A está errada porque os textos não negam os impactos materiais, ao contrário, os expõem. B, D e E falam em emancipação, neutralidade ou evolução moral \"sem impactos\", o que contradiz o Texto 2.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "O conceito central é o de **racismo estrutural**: o racismo não se resume a atos individuais, mas está embutido nas instituições, nas regras e nas práticas sociais, reproduzindo desigualdades mesmo quando ninguém age de forma declaradamente racista.\n\nTarcízio Silva diz que o racismo algorítmico é uma \"atualização\" desse racismo. Os algoritmos aprendem com dados que carregam o histórico social de discriminação e, ao classificar e ranquear pessoas em áreas como trabalho, segurança e saúde, reproduzem e ampliam essas desigualdades. O detalhe é que a decisão parece técnica, objetiva, \"inteligente\", o que esconde seu caráter discriminatório. Daí a ideia de que **as estruturas de dominação são preservadas sob aparência de neutralidade**.\n\nAs alternativas A, B, C e D vão na direção contrária ao autor: tratam o problema como mera falha técnica fácil de corrigir ou apostam que a tecnologia, por si só, superaria os conflitos sociais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "O conteúdo é o **código genético**: a correspondência entre a sequência de nucleotídeos do RNA mensageiro e a sequência de aminoácidos da proteína.\n\nNo excerto, o autor compara o alfabeto a um código: combinações de letras guardam um sentido (\"a alma\") que é transmitido ao leitor. Na célula, o equivalente é a regra que associa cada **códon** (trinca de bases do RNAm) a um **aminoácido** específico. Essa tabela de correspondência é o que se chama de código genético. Por isso, \"um código genético\" pode ser trocado por \"na relação entre um códon e um aminoácido\".\n\nA alternativa B é a armadilha: o pareamento códon-anticódon é apenas o mecanismo de reconhecimento por complementaridade de bases (A com U, C com G) durante a tradução; ele não é o código em si, que define qual aminoácido corresponde a cada trinca. As demais misturam termos sem relação direta (anticódon e proteína, genoma e anticódon, gameta e aminoácido).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "A questão junta Zoologia e **funções orgânicas**.\n\nA cochonilha é um inseto, portanto um artrópode, cuja característica marcante são as **patas articuladas** (além do exoesqueleto de quitina). Isso elimina A (circulação fechada, insetos têm circulação aberta), B (insetos respiram por traqueias, não pela pele) e E (insetos têm, em geral, fecundação interna). A alternativa D tem \"exoesqueleto de quitina\", que é correto, mas exige éster e amina, que não existem na molécula.\n\nNa estrutura do ácido carmínico aparecem: hidroxilas ligadas a carbonos saturados do anel de açúcar (**álcool**); hidroxilas ligadas ao anel aromático (fenol); duas carbonilas entre carbonos no anel central, típicas de antraquinona (**cetona**); e o grupo COOH (ácido carboxílico). Não há éter fora do anel do açúcar, nem amida, éster, amina, aldeído ou haleto.\n\nA única combinação inteiramente correta é patas articuladas, álcool e cetona.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "O tema é a **produção de biogás por digestão anaeróbica** dentro da lógica de economia circular.\n\nEconomia circular significa reaproveitar resíduos e subprodutos como matéria-prima de outro processo. A lentilha-d'água já é usada para limpar a água das criações de peixes; depois disso, sua biomassa vira substrato para gerar energia renovável, em vez de virar lixo.\n\nO metano do biogás é produzido pela **metanogênese**, realizada por **arqueas metanogênicas**, que são **anaeróbicas** estritas: só atuam na ausência de oxigênio, decompondo a matéria orgânica até CH₄.\n\nAs outras alternativas erram no organismo ou no ambiente: bactérias aeróbicas não produzem metano (B), arqueas metanogênicas não são aeróbicas (C) e cianobactérias fazem fotossíntese, não biogás (E). A alternativa D fala em \"bactérias\", mas a etapa que produz o metano é feita por arqueas, e o texto não trata de autossuficiência de áreas rurais. Note também que queimar metano libera CO₂, então não há \"impedimento\" de emissões.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "O conteúdo é **teia alimentar e níveis tróficos**. Em uma teia, uma espécie pode ocupar mais de um nível, dependendo do que come.\n\nSeguindo as setas (verde parte das plantas, laranja dos consumidores primários, azul e roxa dos consumidores de nível mais alto):\n\n- o pica-pau come frutos do cacto (nível 2) e insetos (nível 3);\n- o camundongo, ao lado do lagarto, come plantas (nível 2) e insetos (nível 3);\n- a cobra come roedores herbívoros (nível 3) e o camundongo que comeu insetos (nível 4);\n- a coruja come herbívoros (nível 3) e consumidores secundários como o camundongo e o escorpião (nível 4);\n- o gavião come herbívoros (nível 3), o lagarto e o camundongo (nível 4) e a cobra (até nível 5).\n\nSão **cinco espécies em pelo menos dois níveis**.\n\nAs demais falham: consumidores terciários são três (cobra, coruja e gavião), não quatro; o quarto nível tem mais de uma espécie; só o gavião chega a consumidor quaternário; e, contando os cinco produtores, há bem mais que seis espécies num único nível.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A alternativa E também seria verdadeira se só os consumidores fossem contados (seis deles ocupam um único nível); o gabarito pressupõe incluir os cinco produtores na contagem. A leitura das setas foi feita na figura do caderno."
+  },
+  "0:65": {
+   "resposta": "O conteúdo é a **herança mitocondrial**. As mitocôndrias do zigoto vêm do óvulo: o espermatozoide praticamente não transmite as suas. Assim, o DNA mitocondrial passa só da mãe para todos os filhos, homens e mulheres, mas apenas as mulheres o repassam adiante.\n\nNo heredograma há duas linhagens maternas:\n\n- a mulher 1 transmite seu DNA mitocondrial aos filhos 6 e 7; a filha 7 o passa à filha 9. Grupo: 1, 6, 7 e 9;\n- a mulher 3 transmite o seu aos filhos 5 e 8. Grupo: 3, 5 e 8.\n\nOs homens 2 e 4 têm DNA mitocondrial de suas próprias mães, que não aparecem no heredograma, e não o transmitem a ninguém. O pai de 9 é o homem 8, que não contribui com mitocôndrias.\n\nA alternativa A é tentadora por reunir a linhagem de 3, mas inclui o homem 4, que tem DNA mitocondrial diferente.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "O conteúdo é **anexos embrionários**, as estruturas que protegem e nutrem o embrião.\n\nO texto descreve \"a camada fina de tecido que envolve imediatamente o feto\". Essa é a definição do **âmnio**: a membrana mais interna, que forma a bolsa cheia de líquido amniótico ao redor do embrião, protegendo-o contra choques e desidratação. A membrana amniótica é fina, transparente e resistente (como na foto), e já é usada em medicina como curativo biológico em queimaduras e lesões de córnea.\n\nAs outras opções não correspondem: o cório é a membrana mais externa, que contribui para formar a placenta; a placenta é um órgão espesso de trocas entre mãe e feto, não uma película que envolve o feto; o alantoide e o saco vitelínico são anexos pequenos e reduzidos nos mamíferos, ligados ao cordão umbilical.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "A questão junta História do Brasil e **Botânica**.\n\nNa parte histórica, o contexto é a Segunda Guerra Mundial. Em 1942, com os seringais asiáticos sob controle japonês, os Estados Unidos fecharam com o governo Vargas, em pleno **Estado Novo** (1937-1945), os Acordos de Washington: investimentos em troca de borracha. O governo recrutou milhares de nordestinos, os \"soldados da borracha\", e a extração de látex na Amazônia voltou a crescer para atender à demanda americana. Isso elimina B e C, que falam no governo JK (1956-1961), e D e E, que fazem afirmações sem relação com o texto.\n\nNa parte botânica, a alternativa A também está correta: o látex é um líquido leitoso produzido e armazenado em **células ou vasos laticíferos**, e contém compostos orgânicos que ajudam a defender a planta contra herbívoros e a fechar ferimentos. As outras descrições erram: látex não é seiva bruta (xilema) nem seiva elaborada (floema), nem vem de meristema ou de parênquima amilífero.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "O conteúdo é a **circulação pulmonar e as trocas gasosas** (hematose).\n\nO sangue que sai do ventrículo direito pela artéria pulmonar é pobre em O₂ e rico em CO₂. Nos capilares dos alvéolos, o O₂ difunde do ar para o sangue e o CO₂ faz o caminho inverso. Assim, ao longo dos pulmões, a concentração de O₂ sobe e a de CO₂ cai; ambas se estabilizam no sangue que chega ao átrio esquerdo pelas veias pulmonares.\n\nE a hemoglobina? Ela é uma proteína dentro das hemácias. Ela se liga a mais ou menos O₂, mas sua quantidade no sangue não muda ao passar pelo pulmão: nenhuma hemácia é criada ou destruída nesse trajeto. Logo, a curva da hemoglobina é uma **linha horizontal**.\n\nO gráfico C mostra exatamente isso. O gráfico A é a armadilha: confunde a quantidade de hemoglobina com a quantidade de oxiemoglobina. O D tem a forma das curvas de gases errada (CO₂ subindo de novo no átrio), e B e E invertem o comportamento dos gases ou da hemoglobina.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "A questão combina **geometria espacial (volume do cilindro)** com **densidade e quantidade de matéria (mol)**.\n\nRaio = 0,8 ÷ 2 = 0,4 cm; altura = 5,6 cm.\n\nVolume = π · r² · h = π · 0,16 · 5,6 ≈ 2,81 cm³\n\nMassa = densidade · volume = 2,2 · 2,81 ≈ 6,19 g\n\nMassa molar do carbono = 12 g/mol, então:\n\nn = 6,19 ÷ 12 ≈ 0,52 mol, isto é, aproximadamente 0,5 mol.\n\nUm erro comum é usar o diâmetro no lugar do raio, o que multiplica o volume por 4 e leva a cerca de 2,1 mol, perto da alternativa C.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "O conteúdo é **estrutura atômica: número atômico**. O que define o elemento químico é o número de prótons (Z).\n\nChumbo: Z = 82\nOuro: Z = 79\n\nPara um núcleo de chumbo virar núcleo de ouro, ele precisa perder 82 − 79 = 3 prótons.\n\nForam formados 86 bilhões de núcleos de ouro, então o total de prótons eliminados é:\n\n86 bilhões × 3 = 258 bilhões\n\nA massa de 29 picogramas citada no texto é um dado que não precisa ser usado. Quem esquece de multiplicar por 3, ou erra os números atômicos, cai em alternativas como 86 ou 172 bilhões (esta última supõe a perda de 2 prótons).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "O conteúdo é **estequiometria**, com balanceamento de uma reação de oxirredução.\n\nBalanceando: o manganês passa de +4 (MnO₂) para +2 (MnSO₄), ganhando 2 elétrons, e o oxigênio passa de −2 para 0 (O₂), perdendo 2 elétrons por átomo, 4 por molécula de O₂. Assim:\n\n2 MnO₂ + 2 H₂SO₄ → 2 MnSO₄ + O₂ + 2 H₂O\n\nA proporção que interessa é 1 mol de MnO₂ para 1 mol de MnSO₄, ou seja, 1 mol de íons Mn²⁺.\n\nMassa molar do MnO₂ (Mn = 55, O = 16): 55 + 2 · 16 = 87 g/mol\n\n869 kg = 869 000 g\n\nn = 869 000 ÷ 87 ≈ 10 000 mol de MnO₂, logo 10 000 mol de Mn²⁺.\n\nO erro típico é esquecer de converter kg para g, o que leva a 10 mol (alternativa E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "O conteúdo é **hidrólise salina**: o pH da solução de um sal depende da força do ácido e da base que o formaram.\n\n1. NaCl: ácido forte (HCl) e base forte (NaOH). Nenhum dos íons sofre hidrólise; pH ≈ 7.\n\n2. Na(CH₃COO): base forte e ácido fraco. O acetato hidrolisa e libera OH⁻; pH > 7.\n\n3. NH₄(CH₃COO): ácido fraco e base fraca, com **Ka = Kb = 1,8 × 10⁻⁵**. O NH₄⁺ gera H⁺ e o acetato gera OH⁻ na mesma extensão, e os efeitos se cancelam; pH ≈ 7.\n\n4. NH₄Cl: ácido forte e base fraca. O amônio hidrolisa e libera H⁺; pH < 7.\n\nPortanto, as soluções neutras são 1 e 3. A pegadinha é achar que só sais de ácido e base fortes são neutros; o sal de ácido e base fracos de mesma força também dá pH próximo de 7.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "O conteúdo é **termoquímica e oxirredução**.\n\nNo diagrama, os reagentes (Mg + ½ O₂) estão em entalpia 0 e o produto (MgO) em −601,6 kJ. Como a entalpia final é menor que a inicial, ΔH = −601,6 kJ: a reação libera calor, é **exotérmica** (por isso a vela solta faíscas brilhantes).\n\nQuanto aos elétrons: o magnésio passa de Nox 0 (Mg metálico) para +2 (Mg²⁺ no MgO). Ele **perde elétrons**, sofre oxidação. Quem sofre oxidação provoca a redução do outro reagente (o O₂, que vai de 0 a −2), portanto atua como **agente redutor**.\n\nA alternativa A é a armadilha clássica: confunde \"sofrer oxidação\" com \"ser oxidante\". O oxidante aqui é o O₂.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "O conteúdo é **refino do petróleo** e as reações que aumentam a quantidade e a qualidade da gasolina.\n\nCraqueamento: quebra de moléculas grandes em menores. Na equação III, C₁₆H₃₄ se divide em C₈H₁₆ e C₈H₁₈.\n\nAlquilação: junção de moléculas pequenas formando uma maior, na faixa da gasolina. Na equação II, C₄H₁₀ + C₄H₈ formam C₈H₁₈.\n\nIsomerização: transformação de cadeia linear em ramificada, mantendo a fórmula molecular. Na equação I, o octano, CH₃(CH₂)₆CH₃, vira CH₃C(CH₃)₂CH₂CH(CH₃)CH₃, o 2,2,4-trimetilpentano (isoctano). Os dois têm fórmula C₈H₁₈, por isso são isômeros.\n\nNa ordem pedida (craqueamento, alquilação, isomerização), a sequência é III, II e I.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "A questão junta **funções orgânicas** e **digestão de lipídios**.\n\nNa fórmula, cada ramo tem o grupo –O–C(=O)–, isto é, um oxigênio ligado entre um carbono e uma carbonila: é a função **éster**. O triglicerídeo é um triéster de glicerol com ácidos graxos.\n\nA hidrólise de um éster produz ácido carboxílico e álcool. No triglicerídeo, o álcool é o glicerol e os ácidos são **ácidos carboxílicos** de cadeia longa (os ácidos graxos).\n\nEssa digestão ocorre no intestino delgado pela ação das **lipases** do **suco pancreático**, depois que a bile emulsifica as gorduras.\n\nA alternativa C é a mais tentadora porque acerta \"ácidos graxos\", \"pancreático\" e \"lipases\", mas troca éster por éter, que tem o oxigênio entre dois carbonos sem carbonila. A B erra a enzima (proteases digerem proteínas).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "O conteúdo é **movimento harmônico simples e aceleração escalar média**.\n\nA aceleração média é a variação da velocidade dividida pelo intervalo de tempo: a = Δv ÷ Δt. Basta calcular v nos dois instantes com a expressão dada.\n\nEm t = 1 s: sen(π/2 · 1) = sen(π/2) = 1\nv(1) = −(0,3π ÷ 2) · 1 = −0,15π m/s\n\nEm t = 4 s: sen(π/2 · 4) = sen(2π) = 0\nv(4) = 0\n\na = [0 − (−0,15π)] ÷ (4 − 1) = 0,15π ÷ 3 = 0,05π m/s²\n\nFisicamente: em t = 1 s a sombra passa pelo centro com velocidade máxima, e em t = 4 s está num extremo, parada. Quem divide 0,15π por 1 s em vez de 3 s, ou esquece o sinal, cai na alternativa C.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "O conteúdo é **movimento circular devido à rotação da Terra**.\n\nUm morador de Oslo, parado em relação ao solo, descreve uma circunferência em torno do eixo da Terra, no plano do paralelo de 60° N. Sua aceleração centrípeta aponta para o centro dessa circunferência, ou seja, perpendicularmente ao eixo de rotação, no plano do paralelo.\n\nA força gravitacional, numa Terra esférica, aponta para o **centro da Terra**.\n\nO ângulo entre a direção \"para o centro da Terra\" e o plano do equador é justamente a latitude. Como a aceleração centrípeta é paralela ao plano do equador (aponta para o eixo), o ângulo entre ela e a força gravitacional é igual à latitude: **60°**.\n\nA longitude (11° L) não interfere, pois a rotação é a mesma em qualquer meridiano. Um erro comum é usar o complemento da latitude e marcar 30°.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "O conteúdo é **conservação e conversão de energia**, ligando energia química do combustível à energia potencial gravitacional.\n\nDistância percorrida: 50 km/h × 2 h = 100 km\nGasolina consumida: 100 km ÷ 10 km/L = 10 L\nMassa de gasolina: 10 L × 0,7 kg/L = 7 kg\nEnergia liberada: 7 kg × 4 × 10⁷ J/kg = 2,8 × 10⁸ J\nEnergia usada para mover o motorista (1%): 2,8 × 10⁶ J\n\nTransformando tudo em energia potencial do motorista:\n\nm · g · h = 2,8 × 10⁶\n70 · 10 · h = 2,8 × 10⁶\nh = 2,8 × 10⁶ ÷ 700 = 4 000 m\n\nEsquecer a densidade (usar 10 kg em vez de 7 kg) leva a cerca de 5 700 m, e esquecer o 1% dá um valor absurdo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "O conteúdo é **espelho esférico convexo e equação de Gauss**: 1/f = 1/p + 1/p'.\n\nNo espelho convexo a imagem é virtual, então p' é negativo. Com f = −0,8 m = −4/5 m:\n\nEm t₀: p' = −8/11 m\n1/p = 1/f − 1/p' = −5/4 + 11/8 = 1/8 → p = d₀ = 8 m\n\nEm t₁: p' = −20/29 m\n1/p = −5/4 + 29/20 = −25/20 + 29/20 = 4/20 → p = d₁ = 5 m\n\nO espelho se aproximou 8 − 5 = 3 m do muro em 2 s:\n\nv = 3 ÷ 2 = 1,5 m/s\n\nO erro típico é usar p' positivo (como se a imagem fosse real), o que dá distâncias negativas ou sem sentido; outro é usar a variação da posição da imagem em vez da do objeto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "A questão une **fototropismo** (Botânica) e **espectro eletromagnético** (Física).\n\nAs fototropinas absorvem **luz azul**. No espectro visível, o azul fica do lado das **maiores frequências e menores comprimentos de onda** (o vermelho, no lado oposto, tem menor frequência e maior comprimento de onda).\n\nQuanto ao mecanismo: com luz lateral, a auxina é deslocada para o **lado sombreado** do caule. Ali as células se alongam mais, e o caule cresce mais desse lado, curvando-se em direção à luz. Isso é o fototropismo positivo.\n\nJuntando os dois pontos: menores comprimentos de onda e maior concentração de auxina no lado sombreado.\n\nB tem a física certa (maiores frequências), mas erra o lado da auxina: se ela se acumulasse no lado iluminado, a planta se curvaria para longe da luz. D erra o espectro, e E nega a redistribuição da auxina, que é a causa da curvatura.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:81": {
+   "resposta": "O conteúdo é **campo elétrico uniforme e força elétrica**.\n\nEntre duas placas com diferença de potencial U, separadas por d, o campo uniforme vale E = U ÷ d. Converta a distância para metros: d = 5 mm = 5 × 10⁻³ m.\n\nE = 4 ÷ (5 × 10⁻³) = 800 V/m = 8 × 10² V/m\n\nA força sobre cada íon é F = q · E:\n\nF = 1,6 × 10⁻¹⁹ × 8 × 10² = 12,8 × 10⁻¹⁷ = 1,28 × 10⁻¹⁶ N\n\nA alternativa E (8,00 × 10² N) é o valor do campo, não da força; a D surge ao usar d em centímetros ou esquecer a carga; a B multiplica a carga pela tensão (q · U dá energia, em joules, e não força).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:82": {
+   "resposta": "A questão combina **circuito com reostato (1ª lei de Ohm)** e **dilatação térmica de lâminas bimetálicas**.\n\nPelo texto, conforme o combustível acaba, uma porção maior do resistor entra no circuito. Com a tensão da bateria constante e a resistência aumentando, a corrente i = U ÷ R **diminui**. Menos corrente significa menos aquecimento da lâmina.\n\nAgora a lâmina: no tanque cheio (maior corrente, lâmina quente), a figura 1 mostra a extremidade livre curvada para o lado do metal A. Quando uma lâmina bimetálica é aquecida, ela se curva para o lado do metal que dilata menos (este fica na parte côncava, e o que dilata mais fica na parte externa da curva). Logo, o metal A dilata menos: seu coeficiente de dilatação é **menor** que o do metal B. Na figura 2, com pouca corrente, a lâmina fica reta.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:83": {
+   "resposta": "O conteúdo é **porcentagem e média**.\n\nA taxa é 2,5% de R$ 40,00 por hora:\n0,025 × 40 = R$ 1,00 por hora\n\nEla é cobrada só nas 6 primeiras horas:\n6 × 1,00 = R$ 6,00 no dia\n\nA média por hora trabalhada, num dia de 8 horas:\n6,00 ÷ 8 = R$ 0,75\n\nO erro mais comum é parar no R$ 1,00 por hora ou dividir pelas 6 horas taxadas em vez das 8 trabalhadas; também é possível errar a porcentagem e chegar a valores como R$ 7,50 (dividir 60 por 8 com a taxa calculada como 25%).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:84": {
+   "resposta": "O conteúdo é **função afim** (decaimento linear).\n\nEm 1901 a potência era 60 W; em 2025, 4 W. O intervalo é de 2025 − 1901 = 124 anos, e a queda total é 60 − 4 = 56 W.\n\nTaxa de decaimento:\n56 ÷ 124 ≈ 0,4516 W por ano\n\nAos 100 anos de funcionamento (ano de 2001), a potência era:\nP = 60 − 0,4516 × 100 ≈ 60 − 45,2 = 14,8 W\n\nA alternativa E (45,2 W) é a armadilha: é a queda acumulada em 100 anos, não a potência restante.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:85": {
+   "resposta": "O conteúdo é **porcentagem e razão (consumo per capita)**.\n\nO consumo per capita dos 20% mais pobres é a parte do PIB que eles consomem dividida pelo número de pessoas desse grupo.\n\n1998: (0,013 × 3,2 × 10¹³) ÷ (0,2 × 6 × 10⁹)\n= 4,16 × 10¹¹ ÷ 1,2 × 10⁹ ≈ 346,7 dólares por pessoa\n\n2013: (0,01 × 7,8 × 10¹³) ÷ (0,2 × 7,3 × 10⁹)\n= 7,8 × 10¹¹ ÷ 1,46 × 10⁹ ≈ 534,2 dólares por pessoa\n\nAumento: 534,2 ÷ 346,7 ≈ 1,541, ou seja, cerca de 54%.\n\nEsse valor fica entre 50% e 60%. O ponto do texto é que, embora o PIB mundial tenha crescido cerca de 144%, a fatia dos mais pobres caiu de 1,3% para 1% e a população aumentou, de modo que o ganho per capita deles foi bem menor que o crescimento total.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:86": {
+   "resposta": "O conteúdo é **função quadrática e vértice da parábola**.\n\nO coeficiente de x² é negativo, então a parábola tem concavidade para baixo e o vértice é um **ponto de máximo**: o mês com maior porcentagem de lavoura infestada. A menor parte livre da praga ocorre justamente aí.\n\nAbscissa do vértice:\nx = −b ÷ (2a) = −(1280/49) ÷ (2 · (−80/49)) = 1280 ÷ 160 = 8\n\nx = 8 corresponde ao início de agosto, que está dentro do intervalo [1, 12].\n\nValor máximo:\nf(8) = (−80 · 64 + 1280 · 8 − 1200) ÷ 49 = (−5120 + 10240 − 1200) ÷ 49 = 3920 ÷ 49 = 80\n\nEntão 80% da lavoura tinha a praga e a parte livre era 100% − 80% = **20%**, no início de agosto.\n\nA alternativa E é a armadilha: 80% é a porcentagem infestada, não a livre. Já a B confunde o mínimo da infestação (f(1) = 0, em janeiro) com o pedido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:87": {
+   "resposta": "O conteúdo é **área de setor circular e de polígonos**.\n\nÁrea do pentágono: quadrado de lado 4 mais triângulo equilátero de lado 4.\n16 + (16√3) ÷ 4 = 16 + 4√3 = 4 · (4 + √3) cm²\n\nRaio do círculo: como a circunferência de centro N tangencia SE em T, o raio NT é perpendicular a SE, ou seja, é a altura do triângulo equilátero:\nr = 4√3 ÷ 2 = 2√3 cm, logo r² = 12\n\nÂngulo do setor: vai da direção NU até a direção NE. De NU a NS há 90° (ângulo do quadrado) e de NS a NE há 60° (ângulo do triângulo equilátero), total de 150°.\n\nÁrea do setor:\n(150 ÷ 360) · π · 12 = 5π cm²\n\nRazão:\n5π ÷ [4 · (4 + √3)] = (5/4) · π/(4 + √3) = 1,25 · 0,548 = 0,685 = **68,5%**\n\nAtenção: a figura não está em escala; o raio é a altura do triângulo, não o lado 4.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:88": {
+   "resposta": "O conteúdo é **semelhança em sólidos (pirâmide seccionada por um plano paralelo à base)**.\n\nO cilindro cabe enquanto o círculo do seu topo, de raio 1 m, couber dentro da seção quadrada da pirâmide naquela altura. Um círculo cabe num quadrado se seu raio for no máximo metade do lado.\n\nNa altura h, a seção da pirâmide é um quadrado semelhante à base, com razão (10 − h) ÷ 10:\n\nlado(h) = 8 · (10 − h) ÷ 10\n\nCondição: metade do lado ≥ raio\n4 · (10 − h) ÷ 10 ≥ 1\n10 − h ≥ 2,5\nh ≤ 7,5 m\n\nNa altura máxima, o topo do cilindro toca as quatro faces laterais da pirâmide no meio de cada lado da seção (não nas arestas), por isso a comparação é com a metade do lado e não com a metade da diagonal.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:89": {
+   "resposta": "A questão junta Geografia física (**intemperismo e erosão**) e **trigonometria** (declividade).\n\nNo esquema, o processo 1 \"altera as rochas\": é o **intemperismo**, a desagregação física e a decomposição química da rocha no lugar. O processo 2 \"remove partículas\" já desgastadas: é a **erosão**. Depois vêm o transporte e a sedimentação.\n\nA declividade percentual é a razão entre a componente vertical e a horizontal, isto é, a tangente do ângulo de inclinação, em porcentagem.\n\nPara areias finas: tg 35° = 0,70 → 70%\nPara seixos: tg 45° = 1 → 100%\n\nComo não se sabe de que material é a encosta, é preciso adotar o caso mais restritivo: o ângulo de repouso menor, 35°. A declividade máxima segura é **70%**.\n\nA alternativa E usa o caso dos seixos, que não vale para encostas de areia fina; A e B usam o cosseno (0,82) em vez da tangente; C troca a ordem dos processos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:90": {
+   "resposta": "O conteúdo é **soma dos termos de uma progressão geométrica**.\n\nEm cada rodada a empresa fica com 7% do que foi apostado e devolve 93%, que é reapostado em seguida.\n\n1ª aposta: ganho 0,07R; volta aos jogadores 0,93R\n2ª aposta: ganho 0,07 · 0,93R; volta 0,93²R\n3ª aposta: ganho 0,07 · 0,93²R\n...\n\nOs ganhos formam uma PG com a₁ = 0,07R e q = 0,93. Somando x termos:\n\nG(x) = 0,07R · (1 − 0,93ˣ) ÷ (1 − 0,93)\nG(x) = 0,07R · (1 − 0,93ˣ) ÷ 0,07\nG(x) = R · (1 − 0,93ˣ)\n\nFaz sentido: quanto mais rodadas, mais o ganho se aproxima de R, todo o dinheiro inicial. A alternativa C é a fórmula sem simplificar o 0,07 do primeiro termo com o 0,07 do denominador; a A troca a razão pela taxa de lucro.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

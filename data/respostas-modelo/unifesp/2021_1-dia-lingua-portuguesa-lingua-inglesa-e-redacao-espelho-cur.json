@@ -1,0 +1,132 @@
+{
+ "indice": "data/questoes/unifesp/2021_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Interpretação de cartum: o humor está na legenda, \"You said you'd be home at half a candle\" (\"Você disse que estaria em casa em meia vela\").\n\nNuma época sem relógio à mão nem luz elétrica, a vela que queima serve de medida de tempo. A expressão \"meia vela\" substitui o nosso \"meia hora\": a filha tinha combinado voltar quando metade da vela tivesse queimado, e a cobrança indica que esse prazo passou. Ela, portanto, chegou tarde e descumpriu o horário combinado.\n\nAs demais alternativas inventam situações que o cartum não sustenta. A mais tentadora é a (C), por também falar em vela acesa, mas a vela não foi esquecida: é o \"relógio\" pelo qual a mãe mede o atraso.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Interpretação de texto: o sentido está na fala final da moça, que admite também não ter entendido a própria história e conclui que os contos devem ser \"contados, e não entendidos; exatamente como a vida\".\n\nOu seja, para ela, contos e vida não precisam ser explicados para valer a pena: ambos prescindem de explicação, como afirma a alternativa (E).\n\nA (D) diz exatamente o contrário, ao afirmar que a vida precisa ser decifrada. A (A) também falha: ela não finge nada para perturbar o rapaz, pois confessa com franqueza que não entendeu (\"Nem eu\"). E nada no texto fala de finais infelizes (B) ou da dificuldade de a vida caber num conto (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Coerência textual: a questão pede o ponto em que a narradora se contradiz, não o ponto mais absurdo da história.\n\nEla conta que Osmundo resolveu transformar-se em satélite artificial, observa em seguida que os satélites artificiais ainda não tinham sido inventados e, mesmo assim, diz que ele seguiu como \"humilde satélite\" de Sertória. Afirma a impossibilidade e logo depois a desmente: aí está a contradição.\n\nCaravelas, recusa de Sertória, tentativa de suicídio e pedras preciosas são elementos fantasiosos, mas narrados de modo consistente dentro da lógica do conto. A armadilha é confundir o insólito, que é próprio da narrativa, com a incoerência lógica que a questão procura.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Metalinguagem: o título \"O entendimento dos contos\" anuncia que o texto vai falar do próprio ato de contar e de compreender histórias.\n\nÉ o que o conto encena: o rapaz pede uma história, a moça a narra e, no fim, os dois discutem o sentido dela, concluindo que contos devem ser contados, e não entendidos. Uma narrativa que reflete sobre a narrativa tem caráter metalinguístico.\n\nA alternativa mais tentadora é a (B), \"fantástico\", porque a história de Osmundo tem elementos absurdos. Mas o título não aponta para esses fatos insólitos, e sim para a reflexão sobre o gênero conto e sobre a compreensão das histórias.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Variação linguística: a questão pede uma expressão própria do registro coloquial.\n\nEla está em \"que de latinas não tinham um centavo\". A fórmula \"não ter um centavo de alguma coisa\" é típica da fala informal e significa \"não ter nada de\". A narradora brinca com ela: as velas latinas oferecidas por Osmundo de latinas não tinham nada, isto é, eram falsas.\n\nOs demais trechos estão em registro neutro ou formal. A armadilha é a (C), \"Era uma vez\": a fórmula é marca do gênero conto, ligada à tradição oral, mas não é uma expressão coloquial no sentido pedido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Discurso direto e indireto: na transposição, com o verbo de dizer no pretérito, os tempos verbais da fala recuam.\n\nO presente do indicativo \"quero\" passa ao pretérito imperfeito do indicativo, \"queria\"; o presente do subjuntivo \"entrem\" passa ao pretérito imperfeito do subjuntivo, \"entrassem\". O resultado é algo como: o rapaz disse à moça que queria ouvir uma história de amor em que entrassem caravelas, pedras preciosas e satélites artificiais.\n\n\"Quis\" (pretérito perfeito) apresentaria o desejo como fato concluído, o que muda o sentido, e \"entravam\" troca o subjuntivo, exigido pela ideia de hipótese (\"uma história em que entrem\"), pelo indicativo. Por isso (A), (B) e (C) erram em pelo menos um dos termos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Interpretação de texto: o autor contrapõe a importância do sonho à sua \"banalização no mundo industrial globalizado\", marcado pela rotina de trabalho, pela falta de tempo para dormir e pelo despertador que interrompe o sono em nome de compromissos sem fim. A banalização aparece ligada, portanto, ao ritmo acelerado da vida contemporânea, como diz a (C).\n\nAs alternativas (A), (D) e (E) exageram: o texto não fala em extinção do sonho, nem em impossibilidade de vivê-lo, nem em irrelevância; ao contrário, observa que, apesar de tudo, ainda se sonha muito. A (B) é a mais tentadora, mas introduz uma tese sobre a transformação histórica da natureza dos sonhos que o trecho não desenvolve.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Conectivos: \"mesmo assim\" equivale a \"apesar disso\", \"ainda assim\", e introduz uma ideia que contraria a expectativa criada antes, ou seja, uma oposição de valor concessivo.\n\nO período anterior diz que a indústria da saúde do sono cresce depressa e movimenta bilhões de dólares; seria de esperar que tanto investimento reduzisse o problema. \"Mesmo assim a insônia impera\" quebra essa expectativa.\n\nNão há causa nem consequência entre os dois fatos: a insônia não domina por causa do mercado do sono, e sim apesar dele. Também não há condição ou conclusão. A armadilha é ler \"assim\" isoladamente, como se indicasse conclusão; na locução \"mesmo assim\", o valor é de oposição.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Classes gramaticais do \"se\": em \"se despertamos diariamente\", o \"se\" é conjunção subordinativa condicional (equivale a \"caso\"), numa série de hipóteses que o autor enumera.\n\nNa alternativa (B), o primeiro \"se\" de \"se tão poucos se lembram que sonham\" faz parte da mesma série e também é conjunção condicional. Note que o segundo \"se\" do trecho já é pronome (lembrar-se).\n\nNas outras alternativas o \"se\" é pronome: índice de indeterminação do sujeito em \"sonha-se\" (A) e \"chega-se\" (D); pronome que acompanha os verbos pronominais em \"o bocejo se impõe\" (C) e \"compromissos que se renovam\" (E). A distinção prática: a conjunção liga orações e pode ser trocada por \"caso\"; o pronome se prende ao verbo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Vozes verbais: só vai para a voz passiva a oração com verbo transitivo direto e objeto direto, porque é o objeto que passa a sujeito.\n\nEm (A), \"dramatizou\" é transitivo direto e \"a liberdade de construir o próprio destino\" é seu objeto: \"A liberdade de construir o próprio destino foi dramatizada por Pedro Calderón de la Barca\". A transformação mantém o sentido.\n\nEm (B), (C) e (E), o verbo é de ligação (\"é\"), que liga o sujeito a um predicativo e não tem objeto. Em (D), \"imperar\" é intransitivo (\"a insônia impera\"). Sem objeto direto, nenhuma delas admite a passiva analítica.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Figuras de linguagem: no cartum de Quino, a placa manda fechar a porta antes de entrar, uma ordem que não pode ser cumprida, porque quem fecha a porta antes de passar fica do lado de fora. O personagem diante da porta materializa esse absurdo.\n\nUma afirmação que traz em si uma contradição lógica é um paradoxo, e é dele que nasce o humor.\n\nA armadilha é a antítese (A): ela aproxima ideias opostas (\"fechar\" e \"entrar\", por exemplo) sem que o conjunto seja impossível. No cartum, a oposição gera uma ordem logicamente irrealizável, o que caracteriza o paradoxo. Também não há exagero (hipérbole), suavização (eufemismo) nem coisa agindo como gente (personificação).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Interpretação de poema: a morte do dono da tabacaria tira do eu lírico um ponto fixo de referência, e o refrão \"Desde ontem a cidade mudou\" mostra que o mundo à volta dele perdeu o eixo. Daí a desorientação.\n\nA melancolia aparece no tom de tristeza e na reflexão final: se ele próprio morrer, ninguém sentirá sua falta nem dirá que a cidade mudou. Os dois estados juntos estão na alternativa (A).\n\nA mais tentadora é a (B), \"desamparado e entediado\". O desamparo até combina com o poema, mas o tédio não: o eu lírico lamenta justamente ter perdido a rotina que o dono da tabacaria representava. Euforia, orgulho e alívio contrariam o tom do texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Objeto direto pleonástico: o texto de Kury explica que, para dar ênfase, o objeto direto pode aparecer repetido.\n\nÉ o que ocorre em \"Mas ao menos a ele alguém o via\": o verbo \"ver\" é transitivo direto, e seu objeto aparece duas vezes, como \"a ele\" (objeto direto preposicionado, antecipado para destaque) e como o pronome \"o\". A repetição reforça o contraste entre o dono da tabacaria, que ao menos era visto, e o eu lírico, que ninguém nota.\n\nA armadilha é a (A), \"Todos os dias o via\": ali também há objeto direto (\"o\"), mas um só, sem repetição. Nas demais alternativas não há objeto direto reiterado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Pontuação e elipse: a vírgula pode marcar o lugar de um verbo omitido porque já foi dito antes (zeugma).\n\nEm \"Ele era fixo, eu, o que vou\", a vírgula depois de \"eu\" ocupa o lugar do verbo de ligação que não se repete: \"eu [era/sou] o que vou\". A construção paralela reforça o contraste entre o dono da tabacaria, que permanecia, e o eu lírico, que passa.\n\nNas demais alternativas a pontuação tem outras funções: separar orações completas, marcar pergunta e resposta em \"Quem era? Ora, era quem eu via\" ou introduzir uma fala com dois-pontos em \"ninguém diria:\". Em (A), \"Ao diabo o bem-'star\" é uma exclamação elíptica, mas não há vírgula marcando a supressão.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Escolas literárias: Antonio Candido descreve um movimento de ruptura que quer liquidar a \"convenção universalista dos herdeiros de Grécia e Roma\" em favor de um sentimento novo, de inspiração local, que busca \"o único em lugar do perene\".\n\nAbandonar o modelo clássico, universal e permanente, para valorizar o particular, o nacional e a expressão individual é marca do Romantismo.\n\nA armadilha é a (C): o Arcadismo é justamente o herdeiro da tradição greco-latina contra a qual o movimento descrito se volta. Realismo, Naturalismo e Parnasianismo vêm depois e não se definem por essa ruptura com a convenção clássica (o Parnasianismo, aliás, retoma o ideal clássico).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Interpretação de texto em inglês: o primeiro parágrafo lembra os \"good old days\", quando se discutia com amigos, de modo acalorado mas agradável, sobre coisas que \"didn't matter that much\", como torcer pelo Manchester United sem ser de Manchester. O segundo, \"How things have changed\", marca o contraste com o presente.\n\nOs dois parágrafos mostram, portanto, como divergências pouco importantes eram tratadas antes, em comparação com hoje, o que corresponde à (C).\n\nA armadilha está nas alternativas sobre futebol, (B) e (E): o time é apenas o exemplo, não o assunto. A (A) generaliza para a vida em geral, e a (D) fala em modos de resolver conflitos, tema que o texto só aborda depois.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Interpretação de texto em inglês: o terceiro parágrafo começa com \"Now disagreements feel deadly serious\" (agora as divergências parecem mortalmente sérias) e traz os dois casos introduzidos por \"Like when\" (como quando): o colega que diz que a máscara ameaça sua liberdade e o amigo que tuíta \"all lives matter\".\n\nLogo depois, o autor diz que, num piscar de olhos, já estamos com raiva e fazendo julgamentos duros sobre colegas e amigos. Os trechos funcionam como exemplos da facilidade com que uma diferença de opinião vira discórdia grave.\n\nA (E) exagera: o texto fala em \"culture wars\", mas não anuncia uma convulsão social iminente. A (C) atribui ao autor uma surpresa que ele não declara, e a (B) troca exemplos por uma discussão dos temas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Vocabulário em inglês, falso cognato: \"actually\" não significa \"atualmente\", e sim \"na verdade\", \"de fato\". No trecho, o amigo afirma enfaticamente, como quem corrige uma ideia, que \"all lives matter\".\n\nEntre as opções, o equivalente é \"indeed\" (de fato, realmente).\n\nAs armadilhas são justamente as que seguem o falso cognato: \"lately\" (ultimamente) e \"in the present times\" (nos tempos atuais) dariam o sentido de \"atualmente\", que a palavra não tem em inglês. \"Fortunately\" (felizmente) e \"most possibly\" (muito provavelmente) mudam o sentido da frase.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Expressão idiomática em inglês: \"before you know it\" significa \"antes que você perceba\", \"quando você menos espera\", \"num piscar de olhos\".\n\nNo texto, indica a rapidez com que passamos da divergência à raiva: sem nos darmos conta, já estamos irritados e formando julgamentos duros sobre colegas e amigos. A paráfrase correta é \"earlier than you realize it\" (mais cedo do que você percebe).\n\nAs alternativas (A) e (C) leem \"know\" ao pé da letra, como ser informado ou aprender sobre algo, o que não faz sentido no contexto. A (B), \"as soon as you get to know it\", inverte a ideia: a reação viria depois de saber, e não antes de perceber. A (E) introduz uma condição inexistente.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Referência pronominal em inglês: o autor diz que John Nerst usou os termos para descrever as maneiras contrastantes como as pessoas abordam \"contentious issues\" (questões polêmicas). Em seguida: \"Those of us more inclined to 'couple' see them as inextricably related to a broader matrix of factors\".\n\nQuem tende a \"acoplar\" vê essas questões como inseparáveis de uma rede maior de fatores; logo, \"them\" retoma \"contentious issues\", o referente mais próximo e específico.\n\nA armadilha é a (C), \"topics\", citada na frase anterior: ela é retomada pelo mesmo conceito, mas de modo mais geral, e a questão pede o referente \"most specifically\". \"Wider political and social factors\" (B) é a matriz à qual as questões se ligam, não o referente. \"Terms\" e \"contrasting ways\" não podem ser vistos como relacionados a fatores.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Conectivos em inglês: \"whereas\" equivale a \"ao passo que\", \"enquanto\" (em sentido de oposição) e introduz um contraste.\n\nNo período, o autor opõe dois grupos: quem tende a \"acoplar\" vê as questões ligadas a uma rede ampla de fatores, \"whereas\" quem prefere \"desacoplar\" considera cada questão isoladamente. As duas atitudes são apresentadas como opostas, e o conector marca essa oposição.\n\nNão há explicação, condição ou consequência entre as orações. A armadilha é a (B), \"exemplo\": o exemplo existe, mas vem só na frase seguinte, introduzido por \"To take a crude example\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Ideia central em inglês: a questão pede o subtítulo que falta na seção 2, formada pelos dois parágrafos sobre fatos numa discussão.\n\nO primeiro diz que, diante de fatos que contradizem nossas crenças, muitas vezes preferimos descartá-los a rever o que pensamos. O segundo relata o estudo da Arizona State University: as pessoas mudavam mais de opinião diante de argumentos baseados em evidências, e os pesquisadores concluíram que fatos, estatísticas e citações podem convencer. O fio comum é o papel dos fatos nas disputas.\n\nA (E), \"Attaining attitude change\", é a mais tentadora, mas cobre só a conclusão do estudo. A (C) e a (D) tocam em crenças e fatos sem resumir o conjunto, e a (A) se limita aos temas morais citados de passagem.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Verbos modais em inglês: \"will\" pode indicar decisão, previsão ou certeza conforme o contexto, e a questão pede o valor dele neste trecho.\n\nA frase é uma estrutura de proporção, \"the more we create that kind of a climate, the more open-minded... we will all be inclined to be\": a abertura de espírito é a consequência esperada de uma condição que ainda não se realizou (criar um clima de respeito). O resultado depende dessa condição, e o próprio autor reconhece que isso é \"easier said than done\". A frase seguinte, com \"hopefully\", confirma o tom de expectativa. Por isso a banca lê \"will\" como possibilidade, um resultado possível no futuro.\n\nA tentação é a (C), \"certeza\", porque \"will\" costuma ser ensinado como futuro categórico; aqui, porém, a previsão é condicionada. Decisão, necessidade e sugestão (esta marcada por \"let's\" e \"should\") não cabem.\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "Muitas gramáticas tratam o \"will\" de previsão como certeza; a leitura de possibilidade adotada pelo gabarito depende do caráter condicional da frase."
+  },
+  "0:24": {
+   "resposta": "Opinião explícita em inglês: a questão pede algo que o próprio autor afirma, e não um dado, um exemplo ou uma conclusão do leitor.\n\nNo início da seção 2, ele diz que a maioria de nós é muito apegada às próprias crenças, sobretudo em temas morais e sociais, a ponto de preferir descartar fatos contrários a atualizá-las. A alternativa (E) parafraseia isso: as convicções influenciam muito o modo como avaliamos uma questão.\n\nA (A) atribui ao autor uma preferência por \"decoupling\" que ele não declara; ele apenas descreve as duas atitudes. A (C) exagera ao falar em \"todas\" as dificuldades: o autor só diz que o respeito tornaria as divergências mais construtivas. A (D) generaliza o \"How things have changed\", e a (B) não aparece como opinião.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Intertextualidade em inglês: no último parágrafo, Jarrett propõe que sejamos \"more respectful of and attentive to each other's positions\", isto é, mais respeitosos e atentos às posições dos outros, para criar um clima de abertura e de flexibilidade intelectual.\n\nEntre as orientações do cartaz, a que mais dialoga com isso é a (A): ouvir a outra pessoa para entender o ponto de vista dela. Prestar atenção à posição alheia é exatamente o que o autor recomenda.\n\nAs demais, como manter a calma, falar um de cada vez, aproximar-se da pessoa ou buscar soluções juntos, são etapas razoáveis da resolução de conflitos, mas não tratam da atenção à posição do outro, que é o foco do parágrafo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

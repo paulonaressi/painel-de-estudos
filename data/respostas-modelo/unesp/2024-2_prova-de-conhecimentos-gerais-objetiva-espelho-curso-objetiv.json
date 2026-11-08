@@ -1,0 +1,457 @@
+{
+ "indice": "data/questoes/unesp/2024-2_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Recurso expressivo: hipérbole, o exagero intencional para dar força ao que se diz.\n\nExpressões como \"já morri de inveja\", \"de raiva\", \"de ciúmes\" e \"de vontade de fazer cocô\" são hipérboles cristalizadas no uso cotidiano: ninguém morre de fato dessas coisas. O humor da tirinha está em levar o exagero ao pé da letra. O personagem, apresentado como herói (\"Pegando Fogo Man\"), aparece em chamas a cada fala, como se cada \"morte\" fosse real, e a última hipérbole, banal e escatológica, quebra qualquer solenidade.\n\nNão é eufemismo, que suaviza em vez de exagerar, nem personificação, porque não há atribuição de traços humanos a seres inanimados.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Compreensão de texto: a relação entre religião e ciência no epílogo de Marcelo Gleiser.\n\nO autor afirma que \"não existe uma ruptura abrupta\" entre os dois discursos e que o fascínio e o medo dos céus \"influenciaram e influenciam\" as teorias científicas. Ou seja, a ciência atual ainda deve algo (é tributária) a esses sentimentos antigos, e ele ainda diz que a \"magia\" persiste no discurso científico.\n\nA alternativa D exagera: dizer que fascínio e medo estão \"no cerne\" das teorias é mais do que o texto afirma, já que as teorias descrevem os fenômenos por causa e efeito entre objetos materiais. A não tem apoio (a ciência não transformou a religião), B contradiz o texto (o começo do Universo \"ainda\" não é conhecido, e só o fim \"talvez\" jamais seja) e E não aparece.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Relação de sentido entre a epígrafe e uma expressão consagrada.\n\nA epígrafe de John Muir diz que cada toque na Natureza \"causa reverberações no resto do Universo\": uma ação pequena e local produz consequências amplas e distantes. É exatamente a ideia do \"efeito borboleta\", expressão tirada da teoria do caos segundo a qual o bater de asas de uma borboleta pode, em cadeia, desencadear um fenômeno de grande escala em outro lugar.\n\n\"Círculo vicioso\" sugere repetição que se retroalimenta, sem a noção de propagação; \"comportamento de manada\", \"fim dos tempos\" e \"ato falho\" não têm relação com a frase.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Inferência a partir do trecho do 2º parágrafo.\n\nSe é \"difícil aceitar\" que somos insignificantes no contexto cósmico, é porque o ser humano tende a se ver como importante, central, com peso no desenrolar do Universo. Essa autoimagem exagerada é a vaidade: resistimos à ideia de pouca importância porque gostamos de nos julgar relevantes.\n\nHumildade (C) seria o oposto: quem é humilde aceita com facilidade a própria pequenez, e o autor aliás a recomenda no final (\"respeito, curiosidade, humildade\"). Volubilidade (inconstância), obstinação (teimosia) e perspicácia (agudeza de percepção) não explicam a dificuldade descrita.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Impessoalidade e marcas de primeira pessoa.\n\nUm enunciado é mais impessoal e objetivo quando não traz marcas do enunciador (eu, nós, nosso) nem juízos de valor. Em B, \"Cada árvore que tomba dá origem a muitas outras; cada vida humana semeia muitas outras\", há apenas a constatação de um fato geral, sem pronome de primeira pessoa e sem avaliação.\n\nAs demais têm marcas de subjetividade: A traz \"nos compele\" e \"nosso lugar\"; C, \"procurei argumentar\" (primeira pessoa do singular); D, \"nossa volta\"; E, \"Nós somos\" e adjetivos avaliativos como \"imaturos\" e \"horrendos\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Interpretação: identificar os dois polos da pergunta.\n\nA pergunta opõe dois dados da condição humana. De um lado, a vida é curta: \"nossas vidas são tão curtas\", isto é, a finitude. Do outro, a capacidade de refletir sobre o mundo e a sensação de que \"teremos sempre muito mais o que amar e aprender\", ou seja, um desejo de conhecer que nunca se satisfaz, uma inquietação permanente.\n\nA alternativa A é a armadilha: \"transitoriedade\" corresponde à vida curta, mas \"plenitude\" contraria o texto, que diz justamente que nunca chegamos a amar e aprender tudo. Resignação, revolta, satisfação e apatia também não estão na pergunta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Conjunções: valor concessivo.\n\n\"Mesmo que\" introduz uma oração concessiva: apresenta um fato que poderia impedir o da oração principal, mas não impede. A magia agora faz parte do discurso científico e, apesar disso, persiste. A locução equivalente é \"ainda que\", também concessiva: \"A magia, ainda que agora faça parte do discurso científico, persiste.\"\n\nAs outras mudam o sentido: \"a menos que\" e \"desde que\" são condicionais, \"visto que\" é causal e \"a fim de que\" é final.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Dêixis temporal: palavras cujo referente depende do momento em que se fala.\n\nEm D, o advérbio \"hoje\" só pode ser entendido a partir do momento da enunciação: indica o tempo presente do autor, em oposição ao passado (\"durante a história da humanidade\"). É o dêitico de tempo pedido.\n\nNas outras alternativas não há expressão que remeta ao momento da fala. \"Após morrermos\" (A) é uma referência relativa à morte, não ao agora; \"antes ainda da formação do sistema solar\" (E) toma como referência um evento, não a enunciação. Os pronomes \"nós\" e \"nossa\" são dêiticos de pessoa, não de tempo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Formação de palavras: derivação imprópria (mudança de classe sem alterar a forma).\n\nEm E, \"desenrolar\" é originalmente um verbo, mas aparece precedido do artigo contraído em \"no desenrolar das criações\", funcionando como substantivo. É exatamente o exemplo citado por Celso Cunha: verbo que passa a substantivo.\n\nNas demais, as palavras mantêm a classe de origem: \"aceitar\", \"conhecemos\", \"conhecer\", \"passar\", \"preocupando\" e \"fazer\" funcionam como verbos; \"fascínio\", \"medo\", \"começo\" e \"fim\" são usados como substantivos comuns, sem que um verbo ou adjetivo tenha mudado de classe.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Intertextualidade e metalinguagem num meme.\n\nA pintura de Collier é dramática: o título (\"Sentença de morte\") e a cena mostram um médico prestes a comunicar um diagnóstico grave a um paciente tenso. O meme mantém a primeira fala no registro da consulta (\"há quanto tempo tem esses episódios?\"), mas o paciente responde perguntando \"por que há um pintor aqui?\". Essa fala quebra a quarta parede: o personagem passa a comentar a própria condição de figura pintada, isto é, a obra fala de si mesma, o que caracteriza a dimensão metalinguística.\n\nO efeito é cômico, de modo que o caráter dramático é desfeito, e não ressaltado (o que elimina B e C). Não há lição moral nem reflexão filosófica nas falas, o que afasta A e E.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Interpretação de poema: a visão do amor no soneto de Bilac.\n\nO eu lírico diz que quem ama \"inventa as penas em que vive\" e, em vez de acalmá-las, \"busca novo pesar\" para reavivá-las. Fecha afirmando que é próprio \"dos loucos somente e dos amantes / Na maior alegria andar chorando\". Ou seja, o amante procura o sofrimento, sente-se atraído por ele e até o cultiva.\n\nOs loucos aparecem apenas como termo de comparação: o soneto não diz que os amantes idolatram a loucura (A), que a encenam (D) nem que o amor leva sempre a ela (E). E o amor não é apresentado como cura, mas como fonte de sofrimento, o oposto de B.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Literatura: traços românticos num poeta parnasiano.\n\nO Parnasianismo prega objetividade, contenção e impessoalidade. Este soneto de Bilac, porém, é centrado no eu lírico, que fala de si (\"Em mim também\", \"eu, por mim\") e dos próprios sentimentos amorosos, o sofrimento e o \"andar chorando\". Predomina, portanto, a função emotiva da linguagem, voltada para o emissor, marca típica da lírica romântica, que expõe a subjetividade e o sentimentalismo.\n\n\"Rigorosa contenção lírica\" (C) seria justamente o traço parnasiano, não o romântico. O poema não é descritivo (D), não tem engajamento social (B) nem idealiza o passado (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Figuras de linguagem: paradoxo, a união de ideias que parecem se excluir numa mesma afirmação.\n\nEm \"Na maior alegria andar chorando\", o eu lírico afirma que os amantes choram justamente quando estão no auge da alegria. Alegria e choro, aqui, não são apenas contrastados, mas atribuídos ao mesmo estado ao mesmo tempo, o que gera a aparente contradição característica do paradoxo.\n\nOs outros versos não reúnem ideias contraditórias: A e C falam de coisas diferentes das ouvidas antes, D é um convite à reflexão, e E é uma afirmação do eu lírico sem contradição interna.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Coesão referencial: pronome relativo e conjunção.\n\nEm D, os dois \"que\" sublinhados são pronomes relativos e retomam o mesmo antecedente, \"coisas tristes\": coisas tristes que mais aflijam, coisas tristes que torturem tanto.\n\nNas outras estrofes, os referentes diferem ou nem existem. Em A, o primeiro \"que\" é conjunção integrante (tereis notado que...) e o segundo retoma \"coisas\". Em B, ambos são conjunções, sem referente. Em C, o primeiro retoma \"penas\" e o segundo, \"novo pesar\". Em E, o primeiro retoma \"mim\" (o eu lírico, que vistes descuidado) e o segundo, \"coisas\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Literatura: pré-modernismo e \"Os sertões\".\n\nO comentário reúne as pistas de Os sertões (1902), de Euclides da Cunha: mistura de ensaio científico, relato literário e panfleto; denúncia do \"crime\" cometido na repressão a Canudos, movimento messiânico liderado por Antônio Conselheiro; e o determinismo geográfico e racial do autor, influenciado pelo cientificismo do século XIX. A frase entre aspas, \"o sertanejo é antes de tudo um forte\", é a mais célebre do livro.\n\nAs outras obras tratam do sertão ou da miséria (Vidas secas, Morte e vida severina, Grande sertão: veredas) ou da infância abandonada em Salvador (Capitães da areia), mas nenhuma é um relato sobre a guerra de Canudos com caráter de ensaio científico.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Variação linguística: expressão coloquial.\n\n\"Entregar os pontos\" é uma expressão idiomática da fala informal que significa desistir, render-se ao cansaço. Em E, \"quase entregando os pontos\" mostra o rapaz exausto, a ponto de desistir de correr.\n\nNas demais alternativas, a linguagem é comum, sem expressões típicas do registro coloquial. \"Pingando como uma vela\" (A) é uma comparação, não uma expressão idiomática da fala cotidiana; \"terreiro\" (B) e \"aldeia\" (C) são palavras de uso geral.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Discurso direto e indireto: correlação de tempos verbais.\n\nNa passagem para o discurso indireto, com verbo introdutor no pretérito (\"tornou a falar\", ou perguntou), o presente do indicativo da fala passa ao pretérito imperfeito. Na locução \"está indo\", o auxiliar \"está\" vira \"estava\", e o gerúndio se mantém: \"o rapaz perguntou se ele estava indo para a aldeia\".\n\n\"Estaria indo\" (A) e \"iria\" (D) trazem o futuro do pretérito, que corresponderia a um futuro do presente na fala original. \"Ia\" (B) desfaz a locução que o enunciado pede. \"Vai\" (E) mantém o presente.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Pontuação: vírgulas facultativas e vírgulas que separam termos ligados.\n\nEm A, a vírgula depois de \"De repente\" isola um adjunto adverbial curto deslocado para o início da oração. Essa vírgula é facultativa: com ou sem ela, a frase é correta e o sentido se mantém.\n\nAs demais introduzem erros. Em C, a vírgula entre \"eles\" e \"ainda a viram\" separa o sujeito do verbo. Em D, sai a vírgula antes do \"que\" explicativo e entra uma entre \"que em nhengatu\" e \"significa\", de novo separando sujeito e verbo. Em E, o vocativo \"amigo\" deixa de ser isolado por vírgula, o que é obrigatório.\n\nA alternativa B é o ponto discutível: isolar \"olhando para trás\" entre vírgulas não parece agramatical, embora mude a leitura de \"o tempo todo\", que passa a se ligar a \"vinha\". A banca aceitou apenas A.\n\n**Resposta: A**",
+   "confianca": "media",
+   "pendencia": "A alternativa B também parece gramaticalmente aceitável (a oração reduzida de gerúndio \"olhando para trás\" pode vir isolada por vírgulas); a escolha de A se apoia em ser o caso mais claro de pontuação facultativa."
+  },
+  "0:19": {
+   "resposta": "Formação de palavras: prefixo \"re-\" com sentido de repetição.\n\nEm \"recomeçou\" (B), o prefixo \"re-\" acrescenta ao verbo \"começar\" a ideia de fazer de novo: o rapaz voltou a andar depois de ter parado para chamar a luz.\n\nAs outras alternativas trazem a ideia de repetição por outros meios, não por prefixo: \"voltando a entrar\" (C) é uma locução, e \"mais uma vez\" (E) é uma expressão adverbial. Em \"voltando\" (D) e em \"olhando para trás\" (A) não há prefixo de repetição.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Vozes verbais: passagem da passiva analítica para a ativa.\n\nNa voz passiva \"A luz estranha tinha sido atacada pelos cachorros\", o agente da passiva (\"pelos cachorros\") vira sujeito da ativa e o sujeito paciente (\"a luz estranha\") vira objeto direto. O tempo verbal deve ser mantido: a locução \"tinha sido atacada\" está no pretérito mais-que-perfeito composto (auxiliar \"ter\" no imperfeito + \"ser\" no particípio). Na ativa, fica \"tinham atacado\", com \"ter\" no imperfeito concordando com \"os cachorros\".\n\nA e D permanecem na passiva. B muda o tempo para o futuro do pretérito (\"teriam atacado\") e E, para o pretérito imperfeito simples (\"atacavam\").\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Referência pronominal em inglês.\n\nO texto, da revista The Economist, trata de baterias de íon-lítio. A primeira frase diz que \"They power tiny phones and two-tonne electric cars\", ou seja, \"Elas alimentam celulares minúsculos e carros elétricos de duas toneladas\". O pronome \"They\" é o sujeito de \"power\" (alimentar, fornecer energia): são as baterias que alimentam celulares e carros. O segundo parágrafo confirma o referente ao retomar \"But lithium-ion (Li-ion) batteries have downsides\".\n\n\"Tiny phones\" (E) e \"two-tonne electric cars\" (D) são os objetos alimentados, não quem alimenta. As baterias de sódio (C) só aparecem no último parágrafo, como alternativa.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Inglês: o auxiliar \"would\" em construção hipotética.\n\n\"Without them, the electrification [...] would be unimaginable\" significa \"Sem elas, a eletrificação necessária para evitar os piores efeitos do aquecimento global seria inimaginável\". \"Without them\" funciona como uma condição irreal (se não existissem as baterias), e \"would\" forma o equivalente ao futuro do pretérito em português (\"seria\"): indica uma hipótese, uma situação imaginada.\n\n\"Would\" pode expressar pedido educado (\"Would you...?\") ou vontade (\"I would like\"), mas não é esse o uso aqui, o que elimina solicitação (E) e vontade (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Compreensão de texto em inglês: vocabulário.\n\nO segundo parágrafo começa com \"Lithium-ion batteries have downsides\" (têm desvantagens) e logo diz: \"Lithium is scarce, for one\", isto é, \"o lítio é escasso, para começar\". \"Scarce\" equivale a \"rare\" (raro, escasso).\n\n\"Common\" (B) e \"plentiful\" (D) dizem o contrário (comum, abundante). \"Weird\" (estranho) e \"worthless\" (sem valor) não têm relação com o trecho.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Compreensão de texto em inglês.\n\nO segundo parágrafo diz que o cobalto é \"problematic because a lot of it is mined in the Democratic Republic of Congo, where working conditions leave much to be desired\": é problemático porque grande parte dele é extraída na República Democrática do Congo, onde as condições de trabalho \"deixam muito a desejar\". O país é citado, portanto, como grande fonte de cobalto com condições de trabalho ruins.\n\nO texto não fala em mão de obra ineficiente (A), em depósitos de lítio no Congo (B), em exportação de níquel ou transporte (C) nem em regiões áridas (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Compreensão de texto em inglês.\n\nO terceiro parágrafo apresenta o sódio como alternativa: \"Unlike lithium, sodium is abundant: it makes up most of the salt in the oceans\", ou seja, ao contrário do lítio, o sódio é abundante e compõe a maior parte do sal dos oceanos. É a vantagem principal, em contraste direto com a escassez do lítio apontada no parágrafo anterior.\n\nA alternativa C é a mais tentadora, mas o texto diz que os cátodos de óxido em camadas com sódio \"can get by without cobalt or nickel\" como um ganho adicional, não como a vantagem central. Rapidez de produção (A), vida útil (D) e designs populares (E) não são mencionados; \"designs\" aparece apenas em \"Engineers are adjusting designs\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Vocabulário em inglês: phrasal verb.\n\n\"Spring up\" significa surgir, aparecer rapidamente e em grande número, como brotos que despontam do chão. \"Factories, particularly in China, are springing up\" quer dizer que fábricas, sobretudo na China, estão surgindo, o que combina com a ideia de que a produção em escala de baterias de sódio \"is gaining traction\" (está ganhando força). O sinônimo é \"emerging\".\n\nQuem associa \"spring\" a \"saltar\" pode pensar em \"moving\" (D), mas o phrasal verb não indica deslocamento. \"Closing\" (fechando) é o oposto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Relação entre texto e infográfico em inglês.\n\nO infográfico afirma que um quarto dos peixes amostrados em mercados da Califórnia e da Indonésia \"contained plastic pieces and fibers in their guts\", ou seja, tinha pedaços e fibras de plástico no trato digestivo. Como são peixes vendidos para consumo, o dado ilustra o trecho de C: quando o peixe come plástico, este passa a fazer parte do seu corpo e, se comemos esse peixe, nossa comida contém plástico.\n\nO infográfico não mostra animais enredados ou sufocados (A), não trata da sensação de saciedade nem da morte por fome (B e E) e não explica como o plástico se fragmenta (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Conectivos em inglês: adição.\n\n\"Furthermore\" significa \"além disso\" e acrescenta um argumento ao anterior: depois de dizer que o plástico prejudica os animais, o texto acrescenta que ele também chega à nossa comida. O equivalente é \"Also\" (também, além disso).\n\n\"So\" (então, portanto) indica conclusão; \"Since\" (já que, desde) indica causa ou tempo; \"Then\" (então, depois) indica sequência; \"Despite\" (apesar de) indica concessão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Relações de sentido: consequência.\n\nO trecho encadeia causa e efeito: os peixes comem plástico, o plástico passa a fazer parte do corpo deles, e se nós comemos esses peixes, nossa comida contém plástico. A frase sublinhada, \"we are eating our own plastic waste\" (estamos comendo nosso próprio lixo plástico), é o desfecho dessa cadeia, isto é, a consequência do que foi descrito antes do travessão.\n\nNão há restrição (limitação), objetivo (finalidade), acordo (concordância) nem comparação entre elementos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Humor em quadrinho: quebra de expectativa.\n\nO homem diz \"Oh Marsha, all I want to hear are those three little words...\", aludindo às três palavras românticas que todo mundo espera, \"I love you\". Mas o balão de pensamento da mulher traz outras três palavras: \"Reduce! Reuse! Recycle!\", o lema ambiental dos três Rs. O humor nasce do contraste entre a expectativa amorosa dele e o pensamento ecológico dela: o que ela pensa não é o que ele deseja ouvir.\n\nE diz o oposto. A e C não explicam a graça, e D é falsa, já que nada indica que ele conheça ou apoie as ideias dela.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Egito antigo: economia agrária às margens do Nilo.\n\nA primeira imagem mostra uma fileira de homens curvados, cada um com uma foice curva, cortando hastes altas de cereal: é a colheita, atividade agrícola (o trigo e a cevada cultivados nas terras fertilizadas pelas cheias do Nilo). A segunda mostra homens com bastões conduzindo um grupo de animais, provavelmente gado ou caprinos, o que caracteriza o pastoreio. As cenas, de pinturas de tumbas, registram as principais bases econômicas do Egito.\n\nNão há pesca, caça, vinhas, artesanato nem jardinagem representados.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Reinos germânicos na Idade Média: realeza sagrada.\n\nMarc Bloch, em Os reis taumaturgos, mostra que entre os germânicos os reis eram escolhidos \"apenas em certas famílias nobres\", \"hereditariamente dotadas de uma virtude sagrada\", e vistos como divinos ou descendentes dos deuses. Ou seja, origem dinástica e vínculo com o divino andavam juntos e definiam quem podia ser rei.\n\nA alternativa C inverte o texto: os chefes de guerra eram escolhidos pelo valor pessoal, e não pela origem divina. E também confunde as duas figuras, pois o valor pessoal (coragem, heroísmo) não demonstrava origem sagrada. B fala em laicidade, contrária ao caráter religioso descrito, e D introduz manipulação religiosa, que o texto não menciona.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Expansão marítima portuguesa no século XV e motivação religiosa.\n\nZurara, cronista da corte, apresenta como razão do infante D. Henrique o desejo de \"acrescentar\" a fé cristã e trazer a ela as almas que quisessem se salvar. O documento, portanto, liga diretamente a expansão atlântica ao esforço de converter outros povos ao catolicismo, herança do espírito de cruzada da Reconquista.\n\nA está errada porque a Reforma Protestante só começa em 1517, depois do documento. B cita a América, que ainda não havia sido alcançada em meados do século XV. D pode ser uma leitura crítica possível, mas não é o que o excerto \"trata\": o texto não revela interesses econômicos. E é anacrônica, já que não havia defesa da liberdade religiosa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Brasil Império: indianismo e política indigenista.\n\nO excerto diz que, embora o Romantismo idealizasse o indígena como símbolo das origens do Brasil, esse discurso se aliava a um projeto de Estado que pretendia \"perpetuar esse modelo vitorioso de colonização, de subjugação dos povos indígenas\". Na prática, portanto, a independência não mudou a situação dos povos indígenas: eles continuaram marginalizados e subordinados, como no período colonial.\n\nA está errada porque o texto não fala em reconhecimento de cidadania. B confunde a idealização literária com a realidade política. C e D não aparecem no excerto, e D seria contraditória, já que trata do domínio português e não do Estado nacional.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Romantismo e construção da identidade nacional.\n\nDepois da independência (1822), as elites e os intelectuais do Império procuraram dar ao novo país uma identidade própria, distinta da portuguesa. O Indianismo, com obras como as de José de Alencar e Gonçalves Dias, elegeu o indígena idealizado como símbolo das origens do Brasil: o excerto fala em \"nacionalidade brasileira\" e no indígena como \"tipo mítico\". Trata-se, portanto, de um esforço de construir uma identidade nacional.\n\nD é a armadilha: o texto descreve um indígena mítico, idealizado, e não um resgate das \"verdadeiras origens\". C e E contrariam o texto, que mostra a idealização associada à subjugação dos indígenas, e B não tem apoio.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Segundo Reinado: Guerra do Paraguai (1864-1870) e escravidão.\n\nSegundo o excerto, escravizados particulares só iriam para o Exército se os donos aceitassem vendê-los ao Estado. Como o fim do tráfico negreiro (Lei Eusébio de Queirós, 1850) havia encarecido a mão de obra escrava, poucos proprietários se dispunham a abrir mão dela. A participação de escravizados foi, então, limitada por um fator econômico interno: o valor e a escassez dos cativos para a lavoura.\n\nC contraria o texto, já que os latifundiários resistiam a ceder escravizados. A é falsa, pois a abolição só viria em 1888. D e E não têm relação com o excerto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Expansão para o Oeste dos Estados Unidos e a historiografia sobre os indígenas.\n\nDee Brown observa que os grandes mitos do Oeste nasceram justamente na época em que a cultura indígena foi destruída (1860-1890) e que esses relatos foram feitos por negociantes, soldados, colonizadores e outros brancos. A voz indígena só foi ouvida \"ocasionalmente\" e, com frequência, nem foi registrada. O excerto ressalta, portanto, que prevaleceu uma visão parcial do processo, a dos conquistadores, e o livro do autor se propõe a contar a conquista do ponto de vista dos indígenas.\n\nA e E reproduzem exatamente a visão heroica e épica que o autor critica. B e D não têm apoio no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Século XIX: exposições universais, Iluminismo e liberalismo.\n\nAs exposições universais (Londres 1851, Paris 1889 e outras) exibiam as conquistas industriais e técnicas das nações burguesas. O excerto dá duas pistas. \"Riqueza das nações\" remete a A riqueza das nações (1776), de Adam Smith, obra fundadora do liberalismo econômico. E \"o ideal obsessivo do saber enciclopédico\" remete à Enciclopédia de Diderot e d'Alembert, símbolo do Iluminismo, que valorizava a razão e o acúmulo e a organização do conhecimento. O \"otimismo progressista\" da sociedade burguesa é herdeiro dessas duas tradições.\n\nD e A trazem socialismo e proletariado, opostos à ideologia burguesa descrita. B e E citam mercantilismo e absolutismo, sistemas anteriores e superados pelo liberalismo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Primeira República: a economia brasileira durante a Primeira Guerra Mundial.\n\nUma interpretação clássica diz que a guerra estimulou a indústria brasileira, pois a dificuldade de importar teria favorecido a substituição de importações. Os autores contestam essa visão (\"não se sustenta o ponto de vista\"): para eles, a guerra provocou \"um profundo transtorno\" no comércio internacional, reduzindo as exportações agrícolas e também a importação de bens de capital e insumos de que a indústria dependia. Ou seja, o conflito limitou tanto as exportações quanto o crescimento industrial.\n\nC é exatamente a tese que o excerto rejeita, e B também, ao sugerir a ampliação do mercado interno. D e E não são tratadas no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Fim da Guerra Fria: a queda do Muro de Berlim (1989).\n\nAs fotografias mostram uma menina martelando o muro e um rapaz espiando, sorridente, por uma fenda aberta no concreto. O muro, erguido em 1961 pela Alemanha Oriental socialista, separava Berlim Oriental de Berlim Ocidental e simbolizava a divisão do mundo em blocos. Sua derrubada, com a abertura da passagem, representou a retomada do contato entre os alemães orientais e o Ocidente, que levaria à reunificação alemã em 1990.\n\nA é a armadilha: as fotos não mostram fuga heroica, mas a demolição festiva de uma fronteira já aberta. C é o oposto do que ocorreu, B lê a cena de modo descabido e E ignora o sentido político da destruição do muro.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Nova República: o impeachment no Brasil.\n\nO autor afirma que impeachments \"não são golpes\", isto é, estão previstos na Constituição e são legítimos. Mas também não são processos regulares de substituição de presidentes: devem ser excepcionais, porque suas consequências para o sistema político são \"incomensuráveis\". A citação de Fernando Henrique Cardoso, que compara o impeachment a uma bomba atômica, \"para dissuadir, não para usar\", reforça o alerta para os riscos do instrumento.\n\nB é a mais tentadora, mas o texto não diz que o impeachment seja decisivo para preservar a democracia. A, C e D atribuem ao autor julgamentos sobre os casos de Collor e Dilma que o excerto não faz, e C ainda contradiz a constitucionalidade afirmada.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Pensamento decolonial: a amefricanidade de Lélia Gonzalez.\n\nA intelectual Lélia Gonzalez propôs a categoria \"amefricanidade\" para nomear a experiência das populações negras nas Américas. Segundo o excerto, ela ultrapassa fronteiras territoriais, linguísticas e ideológicas e reúne um processo histórico \"afrocentrado\" de adaptação, resistência, reinterpretação e criação, inspirado em modelos africanos. A \"Améfrica\" é apresentada como uma criação dos negros e de seus antepassados no continente americano: trata-se de uma nova identidade para as pessoas pretas da América.\n\nA e E contrariam a proposta, que valoriza a resistência e a diferença, e não uma integração cordial ou homogênea. C confunde a ideia com o povoamento original da América, e D inverte o sentido da influência.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Ordem econômica do pós-guerra: o FMI e o neoliberalismo.\n\nCriado em Bretton Woods (1944), o FMI empresta recursos a países com dificuldades no balanço de pagamentos. A partir dos anos 1980, com a hegemonia neoliberal e o chamado Consenso de Washington, os empréstimos passaram a vir acompanhados de condições: corte de gastos públicos, privatizações, abertura comercial e ajuste fiscal. Essas exigências de austeridade, aplicadas na América Latina, na Ásia e mais tarde na Grécia, são o principal alvo de críticas, por agravarem recessão e desemprego.\n\nA inverte a crítica habitual, segundo a qual o FMI atende aos interesses dos países ricos. B trata de união aduaneira, que não é função do FMI. D fala em protecionismo, oposto ao receituário neoliberal. E cita o padrão-ouro, abandonado no sistema monetário internacional desde 1971.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Questão Palestina: o plano de partilha da ONU.\n\nO mapa divide a Palestina sob mandato britânico em áreas de um \"Estado árabe\" e de um \"Estado judeu\", em faixas entrelaçadas, e coloca Jerusalém como \"cidade internacional\". Esse é o desenho da Resolução 181 da Assembleia Geral da ONU, de novembro de 1947. O plano foi aceito pelos líderes sionistas e rejeitado pelos árabes, e a criação de Israel em 1948 deu início à primeira guerra árabe-israelense.\n\nAs demais alternativas trazem erros factuais: os Acordos de Oslo (1993) foram mediados pelos Estados Unidos e não criaram dois Estados reconhecidos (A); Jerusalém nunca se tornou independente (B); a Guerra dos Seis Dias (1967) foi vencida por Israel, que ocupou territórios (C); e o Yom Kippur foi uma guerra em 1973, não um movimento separatista (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Geografia urbana: vazios urbanos e especulação imobiliária.\n\nO excerto define os vazios urbanos como \"terras urbanas ociosas, normalmente mantidas desocupadas como reserva de valor\". Manter um terreno ou imóvel sem uso à espera de valorização, para vendê-lo mais caro no futuro, é a prática típica da especulação imobiliária. Por isso esses espaços se tornam objeto de disputa entre o interesse público e o privado.\n\nDesregulamentação (A) não é a ideia central do trecho. Industrialização tardia (B) se refere à história econômica, e não ao uso do solo. Macrocefalia urbana (D) é a concentração excessiva de população em uma cidade, e conurbação (E) é a junção de manchas urbanas de municípios vizinhos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "O tema é a **precarização do trabalho** no capitalismo globalizado.\n\nA charge transforma o trabalhador num \"Frankenstein\" montado com pedaços de problemas: descumprimento da jornada, horas extras não pagas, falta de condições de trabalho, risco de acidente, assédio moral, ausência de normas técnicas. O balão \"Meu nome é...\" pede ao leitor que dê nome a esse conjunto, e o nome é precarização: perda de direitos, de segurança e de proteção. Esse quadro se agrava onde as empresas buscam produzir barato, isto é, onde se espera mão de obra de baixo custo, o que a alternativa D explicita.\n\nAs outras leituras não se sustentam: a charge não discute a inviabilidade da fábrica (B), a qualificação do trabalhador (C) nem a substituição da mão de obra pela técnica (E); e não há \"gestão horizontal\" (A), e sim falta de supervisão e de controle de riscos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "O conteúdo é a **transição demográfica** e o envelhecimento da população.\n\nO texto diz que o Brasil envelhece muito mais depressa que a França e que, de 2011 a 2030, a parcela de pessoas com 60 anos ou mais dobrará. Ao mesmo tempo, registra um preconceito: \"o velho é sempre o outro\". Uma população que envelhece rápido terá mais idosos permanecendo ou querendo permanecer no mercado de trabalho (também pela pressão sobre a previdência), e o preconceito contra a idade, o **etarismo**, vira obstáculo concreto. Daí a necessidade de políticas que combatam a discriminação etária no trabalho.\n\nAs demais não decorrem do texto: migrações inter-regionais (B) e desoneração tributária (C) não são tratadas; o crescimento vegetativo já está em queda e não há por que \"evitá-lo\" (D); e ampliar a razão de dependência (E) seria agravar o problema, não respondê-lo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "O conteúdo é **estrutura geológica**: a diferença entre bacias sedimentares, escudos cristalinos e formas de relevo.\n\nO enunciado já dá a pista: áreas deprimidas, mais baixas que o entorno, preenchidas por material detrítico (sedimentos) trazido das áreas vizinhas. No bloco-diagrama, a depressão central aparece pontilhada, cheia de detritos e seixos, sobre camadas dispostas em estratos. Uma depressão que recebe e acumula sedimentos ao longo do tempo é, por definição, uma **bacia sedimentar**.\n\nEscudo cristalino (C) é o oposto: rochas ígneas e metamórficas antigas, áreas que fornecem sedimentos em vez de recebê-los. Escarpa (A), planalto (B) e relevo tabular (D) são formas de relevo, não a estrutura de acumulação mostrada; o planalto, aliás, é área elevada onde predomina o desgaste.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "O tema é a **recuperação de solos degradados** em regiões semiáridas e o papel da infiltração da água.\n\nOs buracos rasos em meia-lua (técnica de captação de água da chuva, usada no Sahel e na África Oriental) funcionam como pequenas bacias: retêm a água que escorreria sobre o solo seco e compactado, dando tempo para que ela infiltre. Com isso diminui o escoamento superficial, aumenta a umidade disponível para as sementes e reduz-se a erosão. Num lugar onde chove pouco, aproveitar cada chuva é o que permite a volta da vegetação mostrada na foto \"Depois\".\n\nAs demais alternativas não descrevem o processo: os buracos não afloram o lençol freático (C), não combatem a serrapilheira, que é desejável (D), e não ampliam a erosão eólica (E), que é justamente um agente de degradação. A alternativa A inventa um efeito sem relação com a técnica.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "A questão junta **reprodução das angiospermas** e **causas do aquecimento global**.\n\nNa flor, a polinização leva o grão de pólen ao estigma; depois da fecundação da oosfera, o óvulo vira semente e o **ovário se desenvolve (hipertrofia)** e forma o fruto. Por isso a falta de polinizadores reduz a produção de frutos. Já a crise climática se explica principalmente pela emissão de gases de efeito estufa, sobretudo o CO₂ vindo da **queima de combustíveis fósseis**.\n\nAs outras falham na biologia: óvulos e anteras não são \"fecundados\" e anterozoides são gametas de briófitas e pteridófitas, não das plantas com flores (B, C, D). A alternativa E erra ao dizer que o fruto vem do óvulo (o óvulo origina a semente); além disso, termelétricas são parte do problema, mas a formação do fruto já elimina a opção.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "O conteúdo é **domínios morfoclimáticos brasileiros**, em especial a Caatinga.\n\nA foto mostra cactáceas (o mandacaru em primeiro plano), bromélias de chão, arbustos e solo raso e pedregoso sob paredões de arenito: paisagem típica do semiárido nordestino, a Caatinga. As plantas desse bioma estão adaptadas à seca longa: muitas são **caducifólias** (perdem as folhas na estiagem para reduzir a transpiração) e têm **raízes profundas** para alcançar a água do subsolo, além de folhas transformadas em espinhos e caules que armazenam água.\n\nA alternativa A erra ao falar em espécies latifoliadas (folhas largas são próprias de florestas úmidas). A B erra porque a vegetação da Caatinga não é perene nem dominada por gramíneas extensas. D e E atribuem a paisagem ao Cerrado, cujos traços (árvores de troncos retorcidos e casca grossa em meio a gramíneas) não são os da foto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "O tema é **consumo consciente e marketing ambiental**.\n\nO selo eureciclo mostrado nas embalagens traz a ideia \"a cada produto vendido, 1 outra embalagem é reciclada\". Trata-se de um mecanismo de compensação ambiental (ligado à logística reversa): a empresa financia a reciclagem de uma quantidade de material equivalente à que põe no mercado, compensando o impacto das embalagens que distribui. O texto completa o raciocínio: como a maioria dos consumidores quer comprar de forma sustentável, o selo também serve para que eles identifiquem essas empresas.\n\nAs outras alternativas descrevem coisas que o selo não faz: ele não condiciona a venda à reciclagem (A), não limita o acesso a mercadorias (C), não denuncia concorrentes (D) nem tem relação com reduzir preços (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "O conteúdo são os **acordos internacionais sobre o clima**.\n\nA COP21, realizada em Paris em 2015, produziu o **Acordo de Paris**, que estabelece metas nacionais de redução de emissões para limitar o aquecimento global a bem menos de 2 °C. O mapa mostra quem ratificou, quem só assinou e quem abandonou entre 2017 e 2021: o destaque em laranja para os Estados Unidos corresponde à saída anunciada no governo Trump, revertida em 2021. Logo, o mapa expressa a adesão dos países a esse acordo.\n\nAs outras opções citam tratados diferentes: o Protocolo de Quioto (B) é de 1997 (COP3); o de Montreal (C) trata da camada de ozônio; o de Cartagena (A) trata de biossegurança e transgênicos; a Eco-92 (E) é a conferência do Rio de 1992, que criou a própria Convenção-Quadro, não a COP21.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "O conteúdo é **cartografia e geotecnologias**.\n\nO texto descreve a obtenção de informações sobre a superfície terrestre à distância, sem contato direto: fotografias aéreas tiradas de aviões e imagens de satélites em órbita, depois processadas por equipamentos eletrônicos para gerar mapas. Esse conjunto de técnicas se chama **sensoriamento remoto**, base da cartografia atual (junto com o GPS e os sistemas de informação geográfica).\n\nAs demais não correspondem: atlas (B) é uma coletânea de mapas, um produto, não um meio de obtenção de dados; estratigrafia (C) estuda camadas de rochas; anamorfose (D) é um tipo de representação que deforma as áreas conforme um dado estatístico; toponímia (E) estuda os nomes dos lugares.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "A questão pede a relação entre dois textos sobre **capacitismo**.\n\nO Texto 1 define capacitismo como o preconceito contra pessoas com deficiência, que lhes priva de direitos e de dignidade. O Texto 2 traz a fala de uma atleta paralímpica que rejeita o rótulo de \"superação\" usado só por ela ter deficiência: ela pede que se veja a eficiência e o treino, não a deficiência. Os dois textos convergem na crítica ao preconceito e na defesa de que pessoas com deficiência sejam tratadas como sujeitos plenos de direitos, ou seja, no **enfrentamento da exclusão social**.\n\nFinanciamento do esporte (A), novas modalidades (B) e políticas públicas (E) não são mencionados; e a \"linguagem acadêmica\" (D) não está em discussão, apesar de o Texto 1 citar uma professora.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "O tema é **linguagem inclusiva e direitos humanos**.\n\nO texto apresenta a linguagem neutra como tentativa de incluir pessoas trans, travestis, não binárias e intersexo, que não se sentem contempladas pelo masculino genérico, e fala em uma \"parcela invisibilizada da população\". Do ponto de vista dos direitos humanos, a invisibilidade e o não reconhecimento da identidade são formas de violência simbólica ligada ao gênero, que alimentam a discriminação e a exclusão. A motivação da proposta, portanto, é combater essa violência de gênero, garantindo reconhecimento e dignidade.\n\nAs outras invertem o sentido: a proposta não hierarquiza minorias (A) nem uniformiza identidades (B), mas pede o reconhecimento da diversidade; o texto diz expressamente que não se trata de uma nova norma que suprima padrões (D); e não há apego à erudição (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "O conteúdo é a crítica à **indústria cultural**, conceito de Adorno e Horkheimer (Escola de Frankfurt).\n\nNo Texto 1, publicidade e indústria cultural se confundem: a repetição mecânica dos mesmos produtos e slogans transforma a técnica em \"psicotécnica\", um procedimento de **manipulação** das pessoas. O Texto 2 atualiza a ideia: a publicidade atual usa o apelo à personalização e ao reconhecimento afetivo para produzir o próprio desejo de consumir. Nos dois casos, o que parece escolha pessoal é, em boa medida, fabricado de fora. O ponto comum é, então, o questionamento da liberdade de escolha do indivíduo.\n\nA alternativa A inverte a tese: os textos apontam a eficácia, e não a ineficácia, do marketing. Produção artesanal (B), pequenas empresas (C) e autonomia dos processos criativos (D) não são o foco.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "O tema é o problema filosófico da **verdade** e seu papel na vida social.\n\nO Texto 1 define pós-verdade como a recusa deliberada de dar crédito aos fatos, mesmo quando confirmados por fontes confiáveis. O Texto 2 (de um manual de filosofia moral) imagina uma sociedade que não valoriza a verdade: ninguém presumiria que o outro fala a verdade e não haveria razão para dar atenção ao que alguém diz. Se nada do que se diz merece crédito, cada um passa a acreditar no que quiser, e a realidade compartilhada é substituída por versões arbitrárias. É isso que a alternativa B descreve: sem verdade, cria-se uma realidade arbitrária.\n\nA alternativa D é a mais tentadora, porque o Texto 2 sugere que a conversa perderia sentido; mas os textos não dizem que a comunicação se torna impossível: as pessoas continuam falando, só que sem compromisso com os fatos. Legislação própria (A), restrição de fontes (C) e revisão da moral (E) não aparecem.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A alternativa D (impossibilidade de comunicação) também encontra algum apoio no Texto 2; a escolha de B depende de ler os dois textos juntos como perda de uma realidade comum."
+  },
+  "0:59": {
+   "resposta": "O tema é a **natureza do pensamento filosófico**.\n\nNo Texto 1, o argumento atribuído a Aristóteles mostra que até para negar a filosofia é preciso filosofar: questionar se vale a pena filosofar já é um exercício filosófico. No Texto 2, o trabalho do filósofo é \"clarificar e justificar alegações\", isto é, não aceitar nada sem exame, pedir razões para tudo o que se afirma. Os dois textos representam a filosofia como atitude de **questionamento radical**, que não poupa nenhum tema, nem a si própria.\n\nA alternativa E é o contrário da filosofia: aceitar dogmas é justamente o que ela recusa. Dúvidas sobre os limites da razão (C) são um tema específico (Kant, por exemplo), não o que os textos descrevem; interdisciplinaridade (A) e acúmulo de teorias (B) não são mencionados.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "O conteúdo é o **contratualismo de Thomas Hobbes**.\n\nO excerto distingue as leis naturais (eternas, morais: justiça, equidade, hábitos propícios à paz) das leis positivas, que se tornam leis pela vontade de quem detém o poder soberano. Em Hobbes, os homens, no estado de natureza, vivem em guerra de todos contra todos; para sair dele e garantir a paz, que a própria lei natural recomenda, fazem um **contrato social** pelo qual transferem seus direitos a um soberano, o Leviatã. É esse soberano, criado pelo pacto, que produz as leis positivas e mantém a ordem.\n\nA alternativa B descreve o estado de natureza, que o contrato justamente supera. Hereditariedade (C) e poder religioso (D) não fundamentam a soberania hobbesiana, que nasce de um acordo humano. A soberania popular (E) é ideia de Rousseau; em Hobbes o povo transfere o poder ao soberano.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "O conteúdo é **nomenclatura binomial** (sistema de Lineu).\n\nO nome científico de uma espécie tem duas partes: a primeira é o **gênero**, escrita com inicial maiúscula; a segunda é o **epíteto específico**, sempre com inicial minúscula. O conjunto é escrito em latim (ou latinizado) e destacado do texto, em itálico ou sublinhado. Exemplo: Homo sapiens, em que Homo é o gênero e sapiens é o epíteto.\n\nPor isso, A e D erram na regra das iniciais (só o gênero começa com maiúscula). A alternativa B confunde o segundo termo com subespécie: a subespécie, quando existe, é um terceiro nome. A alternativa C erra ao colocar a família como primeiro nome.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "O fenômeno da figura é a **osmose**: passagem do solvente (água) através de uma membrana semipermeável, do meio hipotônico (menos concentrado) para o hipertônico (mais concentrado), sem gasto de energia. O soluto não atravessa; quem se move é a água, como indicam as setas.\n\nNo corpo, a absorção de água no intestino ocorre exatamente assim: os nutrientes e íons absorvidos pelas células intestinais tornam o citosol mais concentrado, e a água da luz intestinal migra para dentro delas por osmose.\n\nAs demais descrevem outros processos: a saída de sódio do neurônio (A) é feita pela bomba de sódio e potássio (transporte ativo de soluto); a saída de CO₂ dos alvéolos (B) é difusão de gás seguida de ventilação; a evaporação do suor (D) é mudança de estado físico; e a passagem de água do sangue para a cápsula renal (E) é **filtração**, movida pela pressão sanguínea no glomérulo, não por diferença de concentração.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "O conteúdo é o **ciclo do nitrogênio** em ambiente aquático.\n\nPeixes ósseos são, na maioria, **amoniotélicos**: excretam o nitrogênio como amônia, que é muito tóxica mas muito solúvel e se dilui facilmente na água. Logo, X é a amônia. A conversão de amônia em nitrito e de nitrito em nitrato é a **nitrificação**, feita por bactérias quimiossintetizantes (Nitrosomonas e Nitrobacter, por exemplo), não por fungos. O nitrato absorvido pelas algas fornece nitrogênio para moléculas nitrogenadas, como aminoácidos e bases nitrogenadas dos ácidos nucleicos, entre elas a **timina**.\n\nPor isso, ureia (A, D, E) está errada para peixe ósseo; fungos (A, C, D) não fazem a nitrificação; e sacarose e glicose (C, E) não contêm nitrogênio, logo não dependem do nitrato.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "O conteúdo é **especiação alopátrica**.\n\nO pirarucu do rio Grande (bacia do Paraná) está geograficamente isolado das populações amazônicas: as duas bacias não trocam peixes, logo não há fluxo gênico. Com o tempo, cada população acumula mutações próprias e sofre seleção natural e deriva genética diferentes, conforme o ambiente de cada rio. Essa diversificação genética, mantida pelo isolamento geográfico, pode levar ao isolamento reprodutivo e ao surgimento de espécies distintas: é a especiação alopátrica.\n\nAs alternativas B e E são lamarckistas (uso e desuso, esforço do indivíduo), e características adquiridas em vida não passam aos descendentes. A alternativa C erra porque mutações somáticas não são herdadas; só as que ocorrem em células germinativas passam à prole. Já a convergência adaptativa (A) se dá entre grupos diferentes que ficam parecidos, o oposto da divergência descrita.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "O conteúdo é **fotoperiodismo** no florescimento.\n\nNo Gráfico 1, o que decide é o período de **escuro** contínuo. Com escuro menor que 12 h (1ª planta), não há flor; com escuro maior que 12 h (2ª planta), a planta floresce; com escuro longo mas interrompido por um flash de luz (3ª planta), ela não floresce. Logo, é uma planta de **dia curto** (na verdade, de noite longa): precisa de noites contínuas de mais de 12 h, ou seja, dias com menos de 12 h de luz.\n\nNo Gráfico 2, os dias são longos de outubro a março (o Sol nasce por volta das 6h e se põe perto das 20h-21h, com horário de verão) e curtos entre maio e agosto, quando o Sol nasce perto das 7h-8h e se põe por volta das 17h-17h30, dando cerca de 9 a 10 h de luz. É o período com noites acima de 12 h.\n\nA e D erram ao classificá-la como de dia longo; B e C indicam os meses de dias mais longos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "O conteúdo é a relação entre **nucléolo, ribossomos e síntese de proteínas**.\n\nO nucléolo é a região do núcleo onde se transcreve o RNA ribossômico (RNAr) e onde esse RNA se associa a proteínas para formar as subunidades dos ribossomos, que depois vão para o citoplasma. Se a oxaliplatina inibe a transcrição no nucléolo, faltam RNAr e, portanto, subunidades ribossomais. Sem ribossomos suficientes, a célula não consegue traduzir proteínas essenciais, e a queda da síntese proteica leva à morte celular, como mostra o esquema.\n\nAs demais alternativas atribuem ao fármaco efeitos que o texto e a figura não indicam: reparo do DNA (A), desativação dos genes da apoptose (B, que, aliás, impediria a morte celular em vez de causá-la), transporte ativo de solutos (D) e difusão para as mitocôndrias (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "O conteúdo é **herança ligada ao cromossomo Y**.\n\nO cromossomo Y passa exclusivamente de pai para filho homem, praticamente sem recombinação, assim como o sobrenome costuma passar na linhagem paterna. Por isso, comparar o Y de Beethoven com o de homens vivos do mesmo sobrenome, descendentes do mesmo ancestral, revela se a linhagem paterna foi interrompida. Como o Y dele não coincide, algum filho na linha masculina teve outro pai biológico.\n\nNa meiose masculina, os cromossomos X e Y se separam: metade dos espermatozoides recebe o X e metade recebe o Y. Logo, o Y está em metade dos gametas, não em todos (D); pela mesma razão, o X também não está em todos (E). O DNA mitocondrial (A) segue a linhagem materna e não serviria para testar a paternidade ligada ao sobrenome. Autossomos (C) se misturam a cada geração e não identificam uma linhagem única; além disso, cada gameta tem um conjunto completo de autossomos, não metade deles.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "O conteúdo é **ligações químicas e fórmula de compostos iônicos**.\n\nX tem distribuição K=2, L=8, M=8, N=1: são 19 elétrons, o potássio, com 1 elétron na camada de valência e eletronegatividade baixa (0,8). Tende a perder 1 elétron: X⁺.\n\nY tem K=2, L=6: são 8 elétrons, o oxigênio, com 6 elétrons de valência e eletronegatividade alta (3,5). Tende a ganhar 2 elétrons: Y²⁻.\n\nA diferença de eletronegatividade é 3,5 − 0,8 = 2,7, muito grande: a ligação é **iônica** (metal com não metal). Para a carga total ser zero, são necessários dois X⁺ para cada Y²⁻: fórmula X₂Y (o K₂O).\n\nA alternativa D erra a proporção (seria correta se X formasse íon 2+); as alternativas B e E erram o tipo de ligação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "O conteúdo é **balanceamento de equações** pela conservação dos átomos.\n\nA nitroglicerina C₃H₅(NO₃)₃ tem 3 C, 5 H, 3 N e 9 O.\n\nNitrogênio: 3 átomos viram N₂, então 2w = 3 e w = 3/2.\n\nHidrogênio: 5 átomos viram H₂O, então 2z = 5 e z = 5/2.\n\nCarbono: 3 C formam 3 CO₂, coerente com o coeficiente dado.\n\nConferência do oxigênio, lado direito:\n3 CO₂ → 6 O\n5/2 H₂O → 5/2 O\n1/4 O₂ → 1/2 O\nTotal: 6 + 2,5 + 0,5 = 9, igual aos 9 O do reagente.\n\nO erro mais comum é esquecer que o N₂ e o H₂ têm dois átomos por molécula e usar w = 3 ou z = 5 (alternativas E e B).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "O conteúdo é **composição percentual em massa** (cálculo estequiométrico).\n\nEm 1 mol de losartana (423 g) há 22 mol de carbono:\n22 × 12 g = 264 g de carbono\n\nFração de carbono na massa da molécula:\n264 ÷ 423 ≈ 0,624 (cerca de 62%)\n\nMassa de carbono em 50 mg do fármaco:\n50 mg × 0,624 ≈ 31 mg\n\nA alternativa A (22 mg) aparece quando se usa o número de átomos de carbono como se fosse a massa; a E (83 mg) é maior que a própria dose, o que já basta para descartá-la.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "O conteúdo é **catálise** (cinética química).\n\nUm catalisador oferece à reação um novo caminho (mecanismo) com **energia de ativação menor**. Com isso, uma fração maior das colisões é eficaz e a reação fica mais rápida. Na desidratação do etanol, o H⁺ protona o grupo OH, transformando-o em água, um grupo que sai com facilidade; ao fim do processo, o H⁺ é regenerado, sem ser consumido.\n\nO catalisador não altera a estequiometria (A), nem a variação de entalpia (E), que depende só dos estados inicial e final, nem o rendimento no equilíbrio (B), porque acelera igualmente as reações direta e inversa: o equilíbrio é atingido mais cedo, mas na mesma posição. A alternativa C diz o oposto do que ocorre: a energia de ativação diminui.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "O conteúdo é **reatividade de metais e potenciais de redução** (eletroquímica).\n\nHaverá deposição de metal sobre o ferro se o ferro conseguir reduzir o cátion da solução, isto é, se o cátion tiver potencial de redução maior que o do Fe²⁺ (−0,409 V). Nesse caso, o ferro se oxida e o outro metal se deposita.\n\nTubo 1, Cu²⁺ (+0,3419 V): maior que −0,409 V. Fe + Cu²⁺ → Fe²⁺ + Cu; ΔE = 0,3419 − (−0,409) ≈ +0,75 V, espontânea. Deposita cobre.\n\nTubo 2, Na⁺ (−2,179 V): menor que o do ferro. O ferro não reduz o sódio; nada se deposita.\n\nTubo 3, Ag⁺ (+0,800 V): maior que −0,409 V. Fe + 2 Ag⁺ → Fe²⁺ + 2 Ag; ΔE ≈ +1,21 V, espontânea. Deposita prata.\n\nLogo, há deposição nos tubos 1 e 3. Quem marca D inverte o critério e acha que o ferro reduziria o sódio.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "O conteúdo é **hidrólise salina** e caráter ácido-base das soluções.\n\nO texto diz que não podem ficar em vidro as soluções concentradas de **bases fortes** e de **sais de base forte com ácido fraco**, que são alcalinas e atacam a sílica.\n\nO hidróxido de sódio (NaOH) é base forte. O carbonato de sódio (Na₂CO₃) vem de base forte (NaOH) e ácido fraco (H₂CO₃); o íon carbonato sofre hidrólise, CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻, e deixa a solução básica. As duas se encaixam no critério.\n\nNas outras: amônia é base fraca e cloreto de amônio é sal ácido (B, D); nitrato de sódio (C) e cloreto de potássio (E) vêm de base forte e ácido forte e dão solução neutra.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "O conteúdo é **funções orgânicas oxigenadas**.\n\nNo propofol, o grupo OH está ligado **diretamente a um carbono do anel aromático** (benzênico), e esse anel ainda tem dois grupos isopropil. Essa é a definição de **fenol**: hidroxila presa a carbono de anel aromático.\n\nPara ser álcool (A), o OH teria de estar em carbono saturado (sp³), fora do anel. Enol (D) é OH em carbono de dupla ligação C=C fora de anel aromático, estrutura em geral instável. Éter (B) exige oxigênio entre dois carbonos (C−O−C), e aldeído (E) exige o grupo CHO; nenhum dos dois aparece.\n\nA confusão mais comum é chamar de álcool qualquer composto com OH; o que define a função é o tipo de carbono ao qual o OH está ligado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "O conteúdo é **velocidade média** a partir de um gráfico de desempenho (km/L) em função do combustível consumido (L).\n\nA distância percorrida em cada trecho é desempenho × combustível, ou seja, a área sob o gráfico:\n\nTrecho 1: de 0 a 1,0 L, a 7,0 km/L → 7,0 × 1,0 = 7 km\nTrecho 2: de 1,0 a 7,4 L, a 12,5 km/L → 12,5 × 6,4 = 80 km\nTrecho 3: de 7,4 a 8,9 L, a 10,0 km/L → 10,0 × 1,5 = 15 km\n\nDistância total: 7 + 80 + 15 = 102 km\nTempo: 90 min = 1,5 h\nVelocidade média: 102 ÷ 1,5 = 68 km/h\n\nA armadilha é a alternativa E: 102 é a distância em km, não a velocidade.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "O conteúdo é **conservação da quantidade de movimento** numa colisão perfeitamente inelástica, em duas dimensões.\n\nSem atrito, o sistema é isolado na horizontal: a quantidade de movimento total (vetorial) antes da colisão é igual à depois. Sejam m a massa de cada esfera e v = v_B.\n\nEsfera A: velocidade 2v, inclinada 60° em relação à horizontal, subindo para a direita.\nComponente horizontal: 2v · cos 60° = 2v · 0,50 = v (para a direita)\nComponente vertical: 2v · sen 60° = 2v · 0,87 = 1,74v (para cima)\n\nEsfera B: velocidade v, horizontal, para a esquerda.\n\nSoma na horizontal: m·v − m·v = 0\nSoma na vertical: m · 1,74v (para cima)\n\nDepois da colisão, as esferas unidas (massa 2m) têm velocidade sem componente horizontal e com componente vertical para cima (0,87v): o vetor aponta para cima, na figura.\n\nQuem marca B soma os vetores sem perceber que as componentes horizontais se anulam, justamente porque v_A = 2v_B e cos 60° = 0,5.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "O conteúdo é **empuxo e equilíbrio de corpos flutuantes** (princípio de Arquimedes).\n\nO navio flutua em equilíbrio nas duas situações, então o empuxo é igual ao peso total: E = P. Depois de carregado, o peso aumenta (navio + contêineres), e o empuxo tem de aumentar na mesma medida.\n\nComo E = d_água · V_submerso · g e a densidade da água e g não mudam, o aumento do empuxo vem do aumento do **volume submerso**: o navio afunda mais, como se vê na figura (a faixa vermelha do casco fica embaixo da água).\n\nB e C erram ao dizer que o empuxo é o mesmo; C ainda nega a dependência do volume submerso, que é justamente o que muda. A diz o contrário do que ocorre. E também inverte: a densidade média do navio carregado é maior, não menor, e o empuxo é maior depois do carregamento.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "O conteúdo é **propagação de calor**, especificamente a **convecção**.\n\nO solo aquecido pelo Sol esquenta o ar logo acima dele. Esse ar se dilata, fica menos denso que o ar frio em volta e sobe, formando as correntes térmicas ascendentes (a \"bolha de ar quente\" da figura); o ar mais frio desce e ocupa o lugar, fechando o ciclo. Esse transporte de energia térmica pelo deslocamento do próprio fluido, causado por diferença de densidade, é a convecção. O urubu aproveita essas correntes para subir sem bater as asas.\n\nCondução (A) é a transmissão de calor de partícula a partícula, sem movimento de matéria, importante em sólidos. Irradiação (C) é a transmissão por ondas eletromagnéticas: é como o Sol aquece o solo, mas não é o que move o ar. Refração (D) e reflexão (E) são fenômenos ondulatórios, não formas de propagação do calor.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "O conteúdo é **óptica geométrica: sombra, penumbra e eclipses**.\n\nNa parte de cima da figura 2, o cone de sombra própria da Lua (umbra, em cinza-escuro) chega à Terra. Na região II, dentro da umbra, nenhum raio vindo do Sol chega ao observador: o Sol fica totalmente oculto, **eclipse total**. Na região I, dentro da penumbra (cinza-claro), só parte do disco solar é encoberta: **eclipse parcial**.\n\nNa parte de baixo, a Lua está mais longe e o cone de sombra termina antes de chegar à Terra. A região III fica no prolongamento desse cone, além do seu vértice (a chamada antumbra): dali a Lua aparece menor que o Sol e cobre só o centro do disco, deixando um anel luminoso, **eclipse anular**.\n\nOrdem: I parcial, II total, III anular. A alternativa A troca o total pelo anular, erro de quem não percebe que em II a sombra chega à Terra.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "O conteúdo é **espectro eletromagnético** e a equação fundamental da ondulatória, c = λ · f.\n\nComo f = c ÷ λ, calcula-se a frequência nas duas pontas da faixa:\n\nλ = 200 nm = 2 × 10⁻⁷ m → f = 3 × 10⁸ ÷ 2 × 10⁻⁷ = 1,5 × 10¹⁵ Hz\nλ = 280 nm = 2,8 × 10⁻⁷ m → f = 3 × 10⁸ ÷ 2,8 × 10⁻⁷ ≈ 1,07 × 10¹⁵ Hz\n\nAs duas frequências ficam entre 10¹⁴ e 10¹⁶ Hz, logo acima da luz visível (que vai até cerca de 7,5 × 10¹⁴ Hz). Na figura, essa é a faixa do **ultravioleta**. É o chamado UV-C, usado em lâmpadas germicidas porque danifica o DNA dos microrganismos.\n\nInfravermelho (C) e micro-ondas (B) têm frequências menores que a luz visível; raios X (D) e gama (E), bem maiores, acima de 10¹⁶ Hz.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:81": {
+   "resposta": "O conteúdo é **associação de resistores em paralelo** e potência elétrica.\n\nTodos os conectores C–C' estão ligados aos mesmos pontos A e B que a lâmpada L, ou seja, as lâmpadas acrescentadas ficam **em paralelo** com L, todas sob os 12 V do gerador. Assim, cada uma funciona nas condições nominais.\n\nCorrente em cada lâmpada:\ni = P ÷ U = 24 W ÷ 12 V = 2 A\n\nEm paralelo, as correntes se somam e passam todas pelo fusível, que suporta 15 A:\nn × 2 A ≤ 15 A → n ≤ 7,5 → no máximo 7 lâmpadas no total\n\nComo L já está ligada, podem ser acrescentadas 7 − 1 = 6 lâmpadas (corrente total de 14 A). Uma oitava levaria a 16 A e queimaria o fusível.\n\nO erro típico é esquecer a lâmpada que já está no circuito e marcar 7 (alternativa C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:82": {
+   "resposta": "O conteúdo é **eletromagnetismo e eletrostática**.\n\nTexto 1: a corrente alternada na bobina do carregador cria um campo magnético variável; esse campo variável atravessa a bobina do celular e nela induz uma corrente elétrica, que carrega a bateria. Isso é **indução eletromagnética** (lei de Faraday): variação de fluxo magnético gera força eletromotriz induzida, o mesmo princípio dos transformadores.\n\nTexto 2: num condutor metálico, as cargas em excesso se distribuem pela superfície externa, e o campo elétrico no interior é nulo. A carcaça do carro funciona como uma **gaiola de Faraday**, e as pessoas dentro dele ficam protegidas. O fenômeno é a **blindagem eletrostática**.\n\nA alternativa E acerta o Texto 2 (gaiola de Faraday), mas erra o Texto 1, que não trata de eletricidade estática. As demais citam fenômenos que não aparecem: efeito Joule, eletrização por contato, deflexão magnética e poder das pontas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:83": {
+   "resposta": "O conteúdo é **inequações do 1º grau com duas variáveis** e sua representação no plano.\n\nA regra diz: o dobro da idade do mais jovem não ultrapassa a idade do mais velho mais 14 anos.\n2x ≤ y + 14 → y ≥ 2x − 14\n\nAlém disso, 0 < x < y, isto é, x > 0 e y > x.\n\nA região fica acima da reta y = 2x − 14 (incluída, linha cheia) e acima de y = x (excluída, tracejada), com x > 0. As retas se cruzam em 2x − 14 = x, no ponto (14, 14).\n\nPara x < 14, a reta y = x fica acima de y = 2x − 14, então a fronteira é y = x (tracejada). Para x > 14, a fronteira passa a ser y = 2x − 14 (cheia). Isso é o gráfico D. O A pinta a região abaixo de y = x (onde x > y); o B ignora a parte com x < 14.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:84": {
+   "resposta": "O conteúdo é **média aritmética**.\n\nMédia dos seis primeiros dias:\n2460 ÷ 6 = 410 banhistas\n\nCom o sábado, a média dos sete dias passa a 410 + 90 = 500. Então o total da semana é:\n7 × 500 = 3500\n\nBanhistas no sábado:\n3500 − 2460 = 1040\n\nMédia de domingo e sábado:\n(820 + 1040) ÷ 2 = 1860 ÷ 2 = 930\n\nO erro mais comum é supor que o sábado teve 500 banhistas (a nova média); na verdade, ele precisou cobrir o aumento de 90 em cada um dos sete dias: 410 + 7 × 90 = 1040.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:85": {
+   "resposta": "O conteúdo é **volume de pirâmide e de cubo**.\n\nO líquido forma uma pirâmide quadrangular de aresta da base 4 cm e altura 6 cm:\nV = (área da base × altura) ÷ 3 = (4² × 6) ÷ 3 = 96 ÷ 3 = 32 cm³\n\nNo cubo de aresta x, esse volume ocupa 2/3 da capacidade:\n(2/3) · x³ = 32\nx³ = 48\n\nComo 48 = 8 × 6:\nx = ∛48 = ∛8 · ∛6 = 2∛6 cm (aproximadamente 3,63 cm)\n\nO erro típico é esquecer o fator 1/3 do volume da pirâmide: 96 = (2/3)x³ daria x³ = 144, que não está entre as opções. A alternativa D (2∛4) aparece quando se usa x³ = 32, ignorando a fração 2/3.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:86": {
+   "resposta": "O conteúdo é **função quadrática** e o **vértice** da parábola.\n\nUsando os dois dados em f(x) = 100x² + bx + c:\nf(5) = 2500 + 5b + c = 2800 → 5b + c = 300\nf(6) = 3600 + 6b + c = 2000 → 6b + c = −1600\n\nSubtraindo a primeira da segunda:\nb = −1600 − 300 = −1900\n(e c = 300 − 5 · (−1900) = 9800)\n\nComo o coeficiente de x² é positivo (100 > 0), a parábola tem concavidade para cima e o menor valor de f ocorre no vértice:\nx_v = −b ÷ (2a) = 1900 ÷ 200 = 9,5\n\nO preço que dá o menor volume de vendas no modelo é R$ 9,50.\n\nNão é preciso calcular c: o x do vértice depende só de a e b. O erro mais comum é trocar o sinal de b ou usar 2a = 100 em vez de 200.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:87": {
+   "resposta": "O conteúdo é **geometria plana**: dobradura, áreas e diagonal.\n\nAo dobrar a folha pela linha VS, o vértice A vai para P. Como P cai sobre a diagonal AN, que é eixo de simetria do quadrado, a dobra é simétrica: AV = AS. Chamando essa medida de a, o quadrilátero AVPS é um quadrado de lado a, P = (a, a) tomando A como origem, e o triângulo VPS tem área a²/2.\n\nO hexágono VUNESP é a folha de 6 cm menos o quadrado AVPS:\nÁrea do hexágono = 36 − a²\n\nIgualando as áreas:\na²/2 = 36 − a² → 3a²/2 = 36 → a² = 24 → a = 2√6\n\nP e N estão na diagonal; a diagonal do quadrado de lado 6 mede 6√2, e AP = a√2. Então:\nPN = 6√2 − a√2 = 6√2 − 2√6 · √2 = 6√2 − 2√12 = 6√2 − 4√3\nPN = 2(3√2 − 2√3) ≈ 1,56 cm\n\nA alternativa D aparece se √12 for simplificado errado (2√12 escrito como 2√3 em vez de 4√3).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:88": {
+   "resposta": "O conteúdo é **movimento circular uniforme** e velocidade angular relativa (problema de encontro de ponteiros).\n\nO ponteiro grande dá 1 volta por minuto. O pequeno é 3 vezes mais rápido: 3 voltas por minuto. Os dois giram no mesmo sentido, então a velocidade de afastamento entre eles é a diferença:\n3 − 1 = 2 voltas por minuto\n\nEles estarão em sentidos opostos pela primeira vez quando a diferença entre eles for de meia volta (180°):\nt = (1/2 volta) ÷ (2 voltas por minuto) = 1/4 min = 15 s\n\nConferência: em 15 s, o grande percorre 1/4 de volta (aponta para 15) e o pequeno, 3/4 de volta (aponta para 45): sentidos opostos.\n\nQuem soma as velocidades em vez de subtrair encontra 7,5 s; quem usa a velocidade do pequeno sozinho acha 10 s. Nenhum dos dois casos considera o movimento relativo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:89": {
+   "resposta": "O conteúdo é **análise combinatória**: combinações com escolha de um líder.\n\nPara uma comissão de k pessoas, escolhem-se os membros, C(6, k) modos, e depois o líder entre eles, k modos. Somando de k = 2 a k = 6:\n\nk = 2: C(6,2) × 2 = 15 × 2 = 30\nk = 3: C(6,3) × 3 = 20 × 3 = 60\nk = 4: C(6,4) × 4 = 15 × 4 = 60\nk = 5: C(6,5) × 5 = 6 × 5 = 30\nk = 6: C(6,6) × 6 = 1 × 6 = 6\nTotal: 30 + 60 + 60 + 30 + 6 = 186\n\nOutra forma: escolha primeiro o líder (6 modos) e depois qualquer subconjunto dos outros 5 para completar (2⁵ = 32 modos), dando 6 × 32 = 192; tire os 6 casos em que o líder fica sozinho, pois a comissão precisa ter ao menos 2 pessoas: 192 − 6 = 186.\n\nA alternativa D (192) é de quem esquece de excluir as comissões de uma só pessoa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:90": {
+   "resposta": "O conteúdo é **trabalho de uma força constante** e cosseno da diferença de arcos.\n\nO trabalho de uma força constante que forma ângulo θ com o deslocamento é:\nW = F · d · cos θ = 5 · 4 · cos 15°\n\nCálculo de cos 15° como cos(45° − 30°):\ncos 15° = cos 45° · cos 30° + sen 45° · sen 30°\ncos 15° = (√2/2)(√3/2) + (√2/2)(1/2) = (√6 + √2) ÷ 4\ncos 15° = (2,45 + 1,41) ÷ 4 = 3,86 ÷ 4 = 0,965\n\nTrabalho:\nW = 20 · 0,965 = 19,3 J\n\nSó a componente da força paralela ao deslocamento (F · cos 15°) realiza trabalho; a componente perpendicular não. Esquecer o cosseno daria 20 J, valor que nem aparece entre as opções.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/fcmscsp/2024_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Ambiguidade como recurso de humor: uma palavra com dois sentidos possíveis no mesmo contexto.\n\nO personagem segura um livro intitulado \"300 contos\" e comenta \"Muito caro\". \"Conto\" é a narrativa curta, e o título indica uma coletânea de 300 histórias; mas, na linguagem informal, \"conto\" também significa dinheiro (\"300 contos\" = 300 reais), herança do antigo \"conto de réis\". O comentário sobre o preço ativa o segundo sentido: o leitor passa a entender o título como se fosse a etiqueta de preço, \"300 contos\", e a piada nasce desse duplo sentido.\n\nNão há exagero (hipérbole) nem atenuação (eufemismo): o efeito depende inteiramente da dupla leitura de \"contos\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Compreensão de texto: identificar a afirmação que o cronista de fato sustenta.\n\nNo terceiro parágrafo, Scliar apresenta os princípios do Código de Nuremberg (consentimento, benefício à humanidade, ausência de sofrimento) e diz que eles \"hoje nos parecem óbvios\". Ou seja, continuam sendo referência para a prática médica atual, o que confirma a alternativa E.\n\nAs outras distorcem o texto. Em D, o cronista afirma justamente o contrário: nos médicos nazistas \"esse antagonismo desapareceu\", pois eram ao mesmo tempo médicos e monstros. Em A, o símbolo do antagonismo entre bem e mal é Jekyll e Hyde, não os nazistas. Em C, a legitimidade de \"qualquer ação a serviço da ciência\" era a alegação de defesa dos réus, que o Código quis impedir. Em B, os princípios foram violados, não \"desmoralizados\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Intertextualidade: a retomada explícita de outra obra dentro do texto.\n\nNo quarto parágrafo, o cronista cita \"O médico e o monstro\", de Robert Louis Stevenson, com as figuras de Dr. Jekyll e Mr. Hyde, e usa essa obra literária para construir o próprio argumento: nos médicos nazistas, o antagonismo entre o bem e o mal \"desapareceu\", porque eles eram médicos e monstros ao mesmo tempo. O próprio título da crônica, \"Médicos e monstros\", já dialoga com o livro.\n\nAtenção à contagem: o terceiro parágrafo começa em \"Importante, contudo, foi a sentença\" e continua na coluna seguinte até a menção a Tuskegee; o parágrafo de Stevenson é o quarto. Os demais citam fatos históricos (o Tribunal, Eichmann, Tuskegee), não textos literários.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Coesão por elipse: omite-se uma palavra que o leitor recupera pelo contexto, evitando repetição.\n\nNo trecho \"um marco não apenas na história da justiça como na da ética médica\", a forma \"na da\" equivale a \"na [história] da\": o substantivo \"história\" fica subentendido depois do artigo \"a\" (contraído com \"em\"). Sem a elipse, a frase ficaria repetitiva: \"na história da justiça como na história da ética médica\".\n\n\"Decisão\", \"data\", \"Sentenças\" e \"marco\" aparecem expressos no parágrafo e não são omitidos em nenhum ponto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Conectivos e relações de sentido: \"contudo\" é conjunção adversativa, introduz uma ideia que se opõe ou ressalva a anterior.\n\nNo segundo parágrafo, o cronista minimiza o julgamento (poucos réus, figuras secundárias). No terceiro, \"Importante, contudo, foi a sentença\" estabelece o contraste: apesar disso, a sentença teve grande importância. A substituição precisa manter esse valor de oposição/concessão, e \"não obstante\" (equivalente a \"apesar disso\", \"entretanto\") faz exatamente isso.\n\n\"Por isso\" e \"por conseguinte\" indicam conclusão, \"além disso\" indica adição e \"nesse caso\" indica condição; todas mudariam o sentido do trecho.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Pronome relativo e coesão referencial: a palavra \"que\" só retoma um termo anterior quando é pronome relativo.\n\nEm C, \"Que hoje nos parecem óbvios\" começa um novo período, mas o \"Que\" retoma \"vários princípios\", mencionados imediatamente antes (\"o Código de Nuremberg estabeleceu vários princípios. Que hoje nos parecem óbvios\"). Funciona como pronome relativo, equivalente a \"os quais\"; prova disso é a concordância de \"parecem óbvios\" no plural.\n\nNas demais, \"que\" é conjunção integrante ou parte de locução: em A e D introduz oração objetiva (\"lembrar que…\", \"alegado que…\"), em B introduz oração subjetiva (\"Que os doutores tenham violado… mostra…\") e em E faz parte da locução \"para que\". Nenhuma delas retoma um termo anterior.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Metalinguagem: o texto fala do próprio código ou do próprio fazer, aqui a poesia falando da poesia e do poeta.\n\nNas duas primeiras estrofes, o eu lírico sonha ser \"a Poetisa eleita\", com \"inspiração pura e perfeita\", capaz de reunir \"num verso a imensidade\", e imagina que \"um verso meu\" encheria o mundo de claridade e deleitaria os leitores. O tema é o próprio ofício de escrever poesia e o valor do verso, o que caracteriza o teor metalinguístico.\n\nNão há crítica moral, engajamento político nem saudade do passado. A ironia aparece só no fecho (\"E não sou nada!\"), que desmonta o sonho de grandeza, mas não define as duas primeiras estrofes.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Estilos de época e forma poética: o soneto (dois quartetos e dois tercetos) com versos decassílabos é a forma fixa clássica, cultivada com rigor pelos parnasianos.\n\nA pergunta restringe a análise às \"escolhas formais\": soneto, métrica regular de dez sílabas e rimas trabalhadas. O culto da forma, a perfeição métrica e a preferência pelo soneto são marcas do Parnasianismo, o que aproxima o poema dessa estética.\n\nO Modernismo, ao contrário, privilegiou o verso livre. Pelo conteúdo confessional e pela vaidade sonhadora, alguém poderia pensar no Romantismo (ou no Simbolismo, muitas vezes associado a Florbela), mas o enunciado manda olhar a forma, e não o tema.\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "A associação ao Parnasianismo vale pelo critério formal indicado no enunciado; pelo conteúdo, a poesia de Florbela Espanca costuma ser ligada ao Neorromantismo e ao Simbolismo."
+  },
+  "0:9": {
+   "resposta": "Sintaxe: sujeito de oração adjetiva introduzida por pronome relativo.\n\nO trecho é \"Sonho que um verso meu tem claridade / Para encher todo o mundo! E que deleita / Mesmo aqueles que morrem de saudade!\". O \"que\" de \"E que deleita\" é pronome relativo e retoma \"um verso meu\": o verso tem claridade e o verso deleita até os saudosos. O sujeito de \"deleita\" é esse \"que\", cujo antecedente tem como núcleo o substantivo \"verso\".\n\n\"Claridade\" e \"mundo\" estão próximos, mas são complementos (\"tem claridade\", \"encher todo o mundo\"); \"Poetisa\" e \"inspiração\" pertencem à primeira estrofe. \"Aqueles\", depois do verbo, é o objeto direto: são eles que são deleitados.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Vanguardas europeias: o texto descreve o Surrealismo.\n\nAs pistas são claras: movimento \"anti-racional\" dos anos 1920 e 1930, lançado por André Breton, que explora sonhos, alucinações e desejo, influenciado pelas teorias de Freud sobre o inconsciente e marcado pela escrita automática e pela justaposição surpreendente de imagens aleatórias.\n\nA obra de René Magritte, \"A raiva dos deuses\", reúne essas características: um cavalo com jóquei galopando sobre o teto de um carro em movimento, uma combinação irracional de elementos reais pintados de forma realista, típica do Surrealismo.\n\nAs demais não se encaixam: Picasso (B) é associado ao Cubismo, Warhol (E) à Pop Art, Rockwell (A) à ilustração realista americana e Schenck (D) à pintura acadêmica do século XIX.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Ideia principal de texto em inglês.\n\nO texto parte de um debate atual (pesquisadores pedem pausa nas pesquisas de inteligência artificial) e logo pergunta como a IA \"might progress over the coming years\" e se caminhamos para uma \"utopia or dystopia\". Em seguida, apresenta cenários futuros em duas frentes: o trabalho (renda básica universal ou desemprego em massa) e a ciência (cura de doenças ou bioarmas). Ou seja, o objetivo é mostrar como a IA poderia mudar o mundo no futuro.\n\nA alternativa C é a mais tentadora, porque o texto menciona o presente, mas isso é só ponto de partida; o eixo são as possibilidades futuras. Não há histórico da IA (B), lista de tecnologias recentes (D) nem a ideia de que a IA preveja o futuro (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Modo e modalização em inglês: situações hipotéticas costumam vir com verbos modais como \"could\", \"would\", \"might\".\n\nEm C, \"any pause in development would not only be impractical to enforce on a global scale, but could also stand in the way of advances\" descreve o que aconteceria caso houvesse uma pausa: \"would\" e \"could\" apresentam consequências supostas de uma situação que não ocorreu. É a única frase hipotética.\n\nAs outras são afirmações sobre fatos ou necessidades: A usa o present perfect para algo que já vem ocorrendo (\"has been automating\"); B descreve o que pesquisadores estão fazendo agora (\"are calling\"); D afirma uma capacidade atual (\"already has the power\"); E expressa obrigação (\"must be addressed\"), não hipótese.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Compreensão de detalhe em texto em inglês.\n\nO texto apresenta, para cada área, uma versão utópica e outra distópica. Nas utopias, a IA aparece como algo benéfico: no trabalho, surge uma nova classe ociosa sustentada por renda básica paga com impostos sobre robôs; na ciência, \"Cancer and all other life-threatening diseases are cured\", levando a \"a new age of health and prosperity\", e cientistas já usam ferramentas de IA para avanços na medicina da longevidade. Nesse cenário, a IA seria uma aliada (\"an ally\").\n\n\"A threat\" e \"a trap\" descrevem a visão distópica (desemprego em massa, bioarmas); \"a mistake\" e \"an obstacle\" não correspondem a nada dito sobre a utopia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Conectivos em inglês: \"though\" é conjunção concessiva/adversativa, equivalente a \"embora\" ou \"ainda que\".\n\nNo trecho, o autor afirma que a tecnologia automatiza empregos desde a Revolução Industrial, \"though never before has it happened on this scale\", isto é, \"embora nunca antes isso tenha acontecido nessa escala\". A segunda parte se contrapõe à primeira: o fenômeno é antigo, mas a dimensão atual é inédita. Daí a ideia de contraste.\n\nRepare também na inversão \"never before has it happened\", típica de ênfase em inglês, que pode distrair e sugerir \"intensidade\"; mas quem estabelece a relação lógica é \"though\", e essa relação é de contraste.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Sentidos de \"while\" em inglês: pode ser temporal (\"enquanto, durante\"), contrastivo (\"ao passo que\") ou concessivo (\"embora\").\n\nNo texto, \"While new jobs will be created, there is a significant chance that the majority of the population will be left jobless\" significa \"Embora novos empregos venham a ser criados, há grande chance de a maioria ficar sem trabalho\": valor concessivo.\n\nEm A, \"While respected, he is not liked\" quer dizer \"Embora respeitado, ele não é querido\": o mesmo valor concessivo.\n\nEm B e C, \"while\" é temporal (enquanto eu almoçava; enquanto ele tomava banho). Em D, compara duas situações simultâneas (enquanto estávamos em Las Vegas, ele estava no Japão). Em E, \"While there's life, there is hope\" equivale a \"enquanto houver vida\", com valor temporal-condicional.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Relações de sentido entre partes do texto em inglês.\n\n\"Be left jobless\" significa \"ficar sem emprego\". No terceiro parágrafo, o autor diz que, embora novos empregos sejam criados, a maioria da população pode ficar desempregada. O quinto parágrafo, no cenário distópico, retoma exatamente essa ideia com \"Mass unemployment\" (desemprego em massa), que resultaria em agitação social.\n\nAs demais alternativas pertencem ao eixo da ciência: \"to make discoveries\", \"major scientific advances\" e \"improve our understanding of the universe\" falam de avanços científicos (sexto parágrafo), e \"could be used as bioweapons\" trata do uso maligno da IA na criação de doenças (oitavo parágrafo).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Referência pronominal em inglês: o pronome relativo \"which\" retoma um termo imediatamente anterior que nomeia coisa, não pessoa.\n\nO trecho é \"Scientists are already using AI tools to make breakthroughs in longevity medicine, which aims to end or even reverse ageing\". O que tem como objetivo acabar com o envelhecimento ou até revertê-lo é a \"longevity medicine\" (medicina da longevidade). Note a concordância: \"aims\", no singular, combina com \"medicine\".\n\n\"Ageing\" é o objeto de \"end or even reverse\", não o antecedente; \"life-threatening diseases\", \"prosperity\" e \"new age\" estão em outra frase, anterior.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Gênero e finalidade do texto: o infográfico apresenta metas em primeira pessoa no futuro (\"I will…\").\n\nCada bloco traz um objetivo de desenvolvimento pessoal com compromisso concreto: \"Speak up more\" (dar opinião nas reuniões de trabalho), \"Work on improving yourself\" (fazer um curso on-line a cada 2 meses para aprender habilidades que beneficiem a carreira), \"Practice work-life balance\", \"Read more books\" e \"Be more social\" (conhecer uma pessoa nova por semana). São metas de crescimento pessoal ligadas ao desenvolvimento profissional, publicadas num site de empregos.\n\nA alternativa A erra o público: não há referência a trabalho remoto (fala-se até em \"work discussions\" e em sair do trabalho no horário). C, D e E falam de \"tips\" sobre conversas difíceis, desafios ou estresse, temas que o infográfico não aborda; além disso, o texto traz metas (\"I will…\"), não dicas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Vocabulário em contexto, em inglês.\n\nNo bloco \"Be more social\", lê-se \"I will strive to meet and converse with at least one new person every week to broaden my social circle\". O verbo \"strive\" significa esforçar-se, empenhar-se muito para conseguir algo. A frase equivale a \"Vou me esforçar para conhecer e conversar com pelo menos uma pessoa nova por semana\", o que corresponde a \"try hard to achieve something\".\n\nAs outras opções não têm relação com o verbo: \"be ashamed\" (ter vergonha), \"be sure\" (ter certeza), \"do something more quickly\" (fazer algo mais depressa) e \"keep away from\" (manter distância de), esta última até contrária à ideia de ampliar o círculo social.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Leitura de tirinha: o humor vem da revelação final, que muda o sentido das falas anteriores.\n\nNos dois primeiros quadros, Garfield parece flertar com alguém: \"Hey there, good-looking. I don't believe I've seen you around here before\" e \"Do you believe in love at first sight?\". No terceiro, descobre-se que ele está diante de um espelho, falando com o próprio reflexo, e completa com \"Where have you been all my life?\". O gato está encantado consigo mesmo, como Narciso, o personagem mitológico que se apaixonou pela própria imagem refletida na água. Logo, ele se mostra narcisista.\n\nNão há descuido (negligente), teimosia (intransigente), falsidade (hipócrita) nem ação impulsiva (impetuoso) na tirinha.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Tema: Antiguidade clássica e o papel do Mediterrâneo. Perry Anderson destaca que o mar, quase fechado por terra, oferecia transporte rápido e relativamente protegido, e que isso explica a posição singular de Grécia e Roma na história.\n\nEssa facilidade de circulação de pessoas, mercadorias e ideias integrou as margens do Mediterrâneo e permitiu que o legado greco-romano (língua, direito, arte, filosofia, instituições) se espalhasse e sobrevivesse por séculos, inclusive após a queda de Roma. É isso que diz a alternativa E.\n\nAs demais exageram ou contradizem a história: a democracia ateniense não se difundiu entre os povos antigos (A); a circulação favoreceu, e não prejudicou, os diálogos culturais (B); não houve homogeneização cultural do Ocidente (C); e os gregos nunca dominaram militarmente todo o sul da Europa (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Tema: cosmologia medieval. O mapa de Saint-Sernin segue o modelo geocêntrico de Aristóteles e Ptolomeu, adotado pela Igreja: a Terra imóvel no centro, cercada por esferas celestes.\n\nNa Idade Média esse modelo era reforçado por uma leitura teológica: se o ser humano é a criatura privilegiada de Deus, faz sentido que sua morada ocupe o centro da criação. Por isso a astronomia da época era sustentada pela \"concepção dos seres humanos como criaturas eleitas de Deus\" (C).\n\nAs outras não cabem: o geocentrismo pressupunha regularidade e perfeição dos movimentos celestes, não irregularidade (A); a valorização da luz na arquitetura não fundamenta a posição da Terra (B); o telescópio só seria usado no século XVII, por Galileu, justamente contra o geocentrismo (D); e a centralidade do Sol é a tese heliocêntrica, oposta à do mapa (E), além de o Sol não ser planeta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Tema: mineração no Brasil colonial (século XVIII). O excerto descreve três etapas: primeiro o ouro de aluvião, no leito dos rios; depois o das encostas (grupiaras); por fim, os veios subterrâneos (galerias).\n\nA sequência acompanha o esgotamento do ouro mais acessível. À medida que os depósitos superficiais se esgotavam, era preciso buscar o metal em lugares mais difíceis, o que exigia técnicas mais complexas (desvio de água, escavação de galerias) e mais investimento, com lucros menores. É exatamente o que afirma a alternativa E.\n\nA alternativa A erra ao falar em baixa produção, já que o século XVIII foi o auge do ouro; B, C e D trazem temas (autonomia da colônia, decadência das cidades, ausência de outros produtos) que o texto não aborda e que são historicamente imprecisos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Tema: crise do Império e Manifesto Republicano de 1870. O texto ataca a centralização monárquica e usa uma metáfora astronômica: as províncias seriam \"satélites\" girando em torno do \"grande astro da corte\".\n\nA imagem denuncia que o poder central, no Rio de Janeiro, sugava as riquezas provinciais e subordinava a vida local. O movimento republicano, forte entre cafeicultores paulistas e outras elites regionais, defendia o federalismo, isto é, mais autonomia para as províncias. A metáfora expressa, portanto, a oposição de oligarquias provinciais ao poder central (D).\n\nO manifesto critica o regime, então não exalta o Segundo Reinado (A) nem defende o Poder Moderador (C), que era justamente o símbolo da centralização. Não há comparação com repúblicas latino-americanas (B), e a crítica é política, não sobre inconstitucionalidade, já que o Poder Moderador estava previsto na Constituição de 1824 (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Tema: Romantismo brasileiro e nacionalismo. Antonio Candido vê o Romantismo como parte da tomada de consciência nacional após a Independência: criar uma literatura própria era mais um rompimento com Portugal.\n\nNa prática, os românticos construíram uma identidade brasileira idealizando a paisagem tropical (natureza exuberante, ufanismo) e a formação do povo, sobretudo com o indígena transformado em herói nacional no indianismo de José de Alencar e Gonçalves Dias. Isso corresponde à alternativa B.\n\nA alternativa D descreve o Realismo e o Naturalismo, com sua pretensão científica; a E fala da valorização do elemento afro-brasileiro e da miscigenação, que não foi o centro do projeto romântico (o negro foi pouco representado, salvo em Castro Alves); A e C não correspondem ao programa do movimento.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Tema: imperialismo do século XIX (neocolonialismo). Arrighi lembra que o império britânico fora da Europa foi parte essencial da hegemonia mundial do Reino Unido.\n\nCom a Revolução Industrial, a Grã-Bretanha precisava de duas coisas: matérias-primas e alimentos baratos (algodão, borracha, minérios, chá) e mercados para escoar seus produtos industrializados e aplicar capitais. A expansão na Ásia e na África respondeu a essa necessidade, como afirma a alternativa D.\n\nAs outras falham: o Império Bizantino já não existia e a Mongólia nunca foi britânica (A); mercantilismo e livre-cambismo são políticas opostas e de épocas diferentes (B); o Reino Unido era monarquia parlamentar, não absolutista (C); e, embora o imperialismo tenha arruinado manufaturas locais, como as têxteis indianas, isso foi consequência, e a ocupação não se baseou em colônias de povoamento inglês em geral (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Tema: expansão dos Estados Unidos no século XIX. O excerto diz que o crescimento norte-americano esteve ligado ao \"âmbito continental\" de sua economia doméstica, ou seja, ao próprio território.\n\nAo longo do século, os EUA incorporaram terras a oeste e a sul (compra da Louisiana e da Flórida, anexação do Texas, guerra contra o México, Marcha para o Oeste, Destino Manifesto). Isso ampliou a população, a produção agrícola, as ferrovias e o mercado consumidor interno, base da industrialização. É o que diz a alternativa E.\n\nO modelo agroexportador do Sul (A) e a exportação de algodão (B) não explicam o desenvolvimento industrial, que se concentrou no Norte; o big stick (C) é do início do século XX e não explica a economia do século XIX; e não houve integração comercial com o México por fim de tarifas (D), mas sim guerra e anexação de territórios mexicanos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Tema: Era Vargas e os efeitos da crise de 1929. A queda das exportações de café e a falta de crédito externo reduziram a capacidade do Brasil de importar produtos industrializados.\n\nDiante disso, a economia passou a produzir internamente o que antes comprava fora: é o chamado processo de industrialização por substituição de importações, estimulado também pela política do governo Vargas. Isso corresponde à alternativa B.\n\nAs demais não procedem: não houve venda de ações siderúrgicas a assalariados (A); os trabalhadores rurais ficaram de fora das leis trabalhistas da época, sem aumento salarial relevante (C); o Brasil não exportava manufaturados em escala significativa (D); e não houve estatização de todo o sistema financeiro (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Tema: ditadura militar e a \"distensão\" do governo Geisel (1974-1979). Ricupero destaca que o nome escolhido, \"distensão\", e não \"redemocratização\", revela a intenção: não se pensava em devolver o poder aos civis tão cedo.\n\nGeisel e Golbery vinham do grupo de Castelo Branco, que no início do regime falava em intervenção temporária e \"restauração\" da ordem. A abertura \"lenta, gradual e segura\" buscava conter a linha dura, controlar o processo e retomar a orientação política original de 1964, sem abrir mão do comando militar. É o que afirma a alternativa A.\n\nAs forças armadas estavam divididas, com forte oposição da linha dura (B); as redemocratizações sul-americanas vieram depois, e em meados dos anos 1970 predominavam ditaduras na região (C); o Congresso tinha oposição do MDB e os sindicatos eram reprimidos (D); constituinte e legalização do PCB só vieram nos anos 1980 (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Tema: direitos indígenas na Constituição de 1988. O texto cita a definição constitucional de terras indígenas: as habitadas, as usadas para atividades produtivas, as necessárias à preservação ambiental e à reprodução física e cultural, \"segundo seus usos, costumes e tradições\".\n\nA Constituição reconheceu aos povos indígenas direitos originários sobre as terras que tradicionalmente ocupam, com posse permanente e usufruto coletivo, cabendo à União demarcá-las. É a alternativa C.\n\nAs demais são incorretas: 1988 abandonou justamente a política de integração (assimilação) e reconheceu o direito à diferença cultural (A); as demarcações seguem incompletas e os conflitos persistem, como mostra o debate sobre o marco temporal (B, D); e o critério é a ocupação tradicional, não o econômico (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Tema: comércio internacional e protecionismo. A Argentina cobra 30% sobre o valor das mercadorias importadas por consumidores finais, inclusive em compras pequenas.\n\nUm imposto sobre importados encarece o produto estrangeiro em relação ao nacional, desestimula a compra no exterior e reduz a saída de divisas, protegendo a produção local. Trata-se de uma medida protecionista (D).\n\nO imposto restringe, e não amplia, o acesso a mercadorias estrangeiras (E); não tem relação com a competitividade no exterior nem com o mercado externo, já que atinge importações e não exportações (A, B); e a tarifa externa comum do Mercosul vale para produtos de fora do bloco e não é \"inutilizada\" por um tributo interno (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Tema: domínios naturais da América Central e do norte da América do Sul. O mapa mostra o Tampão de Darién, na fronteira entre Panamá e Colômbia, rota de migrantes rumo aos Estados Unidos.\n\nA região fica em latitudes baixas, com clima equatorial quente e muito chuvoso, coberta por floresta tropical densa, pântanos e rios caudalosos, sem estradas (é o trecho em que a Rodovia Pan-Americana é interrompida). Por isso a travessia a pé é tão perigosa. A característica natural é a floresta densa (C).\n\nNão há clima árido nem rios intermitentes, típicos de áreas secas (B, E); a região está no contato entre placas tectônicas, com atividade sísmica relevante (A); e os Andes terminam na Colômbia, a sul e leste de Darién, que tem apenas serras baixas (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Tema: estrutura do PIB e setores da indústria. O gráfico divide a indústria (21,8%) em quatro blocos: I (12,0%), II (3,9%), III (2,9%) e energia (2,1%).\n\nNas contas nacionais do IBGE, o setor industrial é dividido em indústria de transformação, construção, indústria extrativa e eletricidade/gás/água (energia). A de transformação é, de longe, a maior; construção e extrativa vêm em seguida, com pesos próximos. Assim, I = transformação, II = construção e III = extrativa (alternativa C). Em 2019 a extrativa ficou abaixo da construção.\n\nAs outras misturam classificações por tipo de produto (bens duráveis, não duráveis, intermediários, de capital), que não é a divisão usada no PIB e não se combina com o bloco separado de energia mostrado no gráfico.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "A ordem entre construção (II) e extrativa (III) depende dos valores de 2019; a alternativa C é a única com essa divisão do IBGE, mas o gráfico não nomeia os blocos."
+  },
+  "0:34": {
+   "resposta": "Tema: agricultura sustentável (agroecologia). A imagem mostra composto orgânico, biofertilizante feito de composto, adubo verde que fixa nitrogênio, cobertura morta, manejo de ervas espontâneas e fosfato natural, tudo alimentando uma cesta variada de alimentos.\n\nEssas práticas buscam manter a fertilidade e a estrutura do solo com recursos naturais: matéria orgânica, proteção contra erosão e perda de umidade, ciclagem de nutrientes e biodiversidade. Trata-se do manejo equilibrado do solo (E).\n\nAs demais descrevem a agricultura convencional, oposta ao modelo da figura: fertilizantes químicos (A), monocultura (B; a cesta mostra policultura), mecanização intensiva (C; os trabalhadores usam enxada e carrinho de mão) e agrotóxicos (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Tema: erosão do solo e voçorocas. As imagens mostram a água da chuva infiltrando em solo menos resistente, formando um fluxo subsuperficial que abre um \"túnel erosivo\" (erosão interna, ou piping); a água acumulada alarga esse túnel até que o teto desaba.\n\nO colapso do terreno gera um grande sulco profundo e de paredes íngremes: a voçoroca, o estágio mais avançado da erosão, que combina escoamento superficial e subterrâneo. Alternativa A.\n\nNão se trata de impermeabilização (B), já que a água infiltra; assoreamento é o acúmulo de sedimentos em rios, e a erosão o aumenta, em vez de retraí-lo (C); a figura não trata de intemperismo (D); e não se forma um aquífero, mas um buraco no terreno (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Tema: circulação geral da atmosfera, ventos alísios. As setas mostram ventos que partem das faixas próximas de 30° N e 30° S e convergem para o Equador.\n\nNas latitudes de cerca de 30° o ar desce e forma cinturões de alta pressão (anticiclones subtropicais); no Equador o forte aquecimento faz o ar subir, criando a zona de baixa pressão (Zona de Convergência Intertropical). O vento é o ar se deslocando da alta para a baixa pressão, desviado pelo efeito Coriolis (por isso as setas chegam inclinadas, vindas de nordeste e de sudeste). Alternativa B.\n\nA alternativa E inverte o sentido: os alísios vão de latitudes maiores (30°) para menores (0°). Salinidade, umidade e radiação não são o que move o vento (A, C, D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Tema: acordos internacionais sobre o clima. O artigo citado fixa a meta de manter o aquecimento global \"bem abaixo de 2 °C\" em relação aos níveis pré-industriais e de buscar limitá-lo a 1,5 °C.\n\nEssa meta de temperatura é a marca do Acordo de Paris (COP-21, 2015), no qual cada país apresenta suas próprias metas de redução de emissões (as NDCs). Alternativa D.\n\nO Protocolo de Kyoto (1997) também tratava de clima, mas definia cotas de redução de emissões só para países desenvolvidos, sem a meta de 1,5 °C a 2 °C (E). Estocolmo (1972) e a ECO-92 foram conferências ambientais gerais anteriores (A, C), e o Tratado do Alto Mar (2023) trata da biodiversidade marinha em águas internacionais (B).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Tema: poluição do solo e da água por metais pesados. O texto informa que a guerra deixou concentrações elevadas de metais pesados no solo do leste da Ucrânia (resíduos de munições, explosões, destruição de indústrias).\n\nMetais pesados, como mercúrio, chumbo e cádmio, não se degradam: dissolvidos na água do solo, são absorvidos pelas raízes das plantas e passam para a cadeia alimentar, acumulando-se nos organismos (bioacumulação). A consequência possível é a absorção de mercúrio pelas plantas (D).\n\nAs demais não decorrem da contaminação química: ravinas e voçorocas são erosão (A), ilhas de calor são fenômeno urbano térmico (B), lixiviação é a lavagem de nutrientes pela água da chuva (C) e o aumento de CO₂ não resulta da presença de metais no solo (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Tema: coordenadas geográficas e tipos de representação cartográfica.\n\nA definição 1, distância angular ao norte ou ao sul do Equador, é a latitude, medida de 0° a 90° N ou S. A longitude, ao contrário, é medida a leste ou oeste do meridiano de Greenwich.\n\nA definição 2, representação em escala grande, muito detalhada, usada em cadastro urbano, corresponde à planta. Na classificação cartográfica, quanto maior a escala, maior o detalhamento: mapas usam escalas pequenas, cartas topográficas escalas médias, e plantas escalas muito grandes, cobrindo áreas reduzidas como bairros e cidades. Alternativa E.\n\nA alternativa C troca latitude por longitude; A, B e D usam termos genéricos (linha imaginária, coordenadas, mapa) ou um paralelo específico (trópico de Câncer) que não correspondem às definições.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Tema: projeções cartográficas. O excerto descreve uma projeção conforme: preserva as formas e os ângulos, faz paralelos e meridianos se cruzarem em ângulos retos e, em troca, distorce as áreas.\n\nA alternativa C mostra uma projeção azimutal (plana) em que os paralelos aparecem como círculos concêntricos e os meridianos como retas que irradiam do polo, sempre se cruzando em ângulo reto; as áreas ficam distorcidas conforme se afastam do centro. É a versão conforme (estereográfica) entre as três azimutais apresentadas.\n\nA alternativa D, mais tentadora porque também tem linhas perpendiculares, mostra uma projeção cilíndrica com paralelos quase igualmente espaçados; numa cilíndrica conforme (Mercator) o espaçamento cresce muito rumo aos polos, e a Antártida ficaria enormemente esticada. A E é apenas um recorte do Brasil em escala maior.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "As cinco imagens são pequenas e de baixa resolução no caderno; a distinção entre as três projeções azimutais (A, B e C) não pôde ser confirmada com segurança pela imagem."
+  },
+  "0:41": {
+   "resposta": "Tema: ciclo da água e papel da vegetação. O texto liga o desmatamento do Cerrado à redução da vazão dos rios e lembra que essas águas ajudam a formar os \"rios voadores\", correntes de umidade que levam chuva a outras regiões.\n\nA vegetação retira água do solo pelas raízes e a devolve à atmosfera pela transpiração foliar (pelos estômatos), componente principal da evapotranspiração. Sem as plantas, há menos vapor d'água no ar, menos chuva, menor recarga das nascentes e, portanto, menor vazão dos rios, o que afeta usinas hidrelétricas. Alternativa A.\n\nAs outras têm erros conceituais: a absorção de água pelas raízes não muda a acidez do solo (B); a evaporação direta do solo tende a aumentar sem cobertura vegetal (C); o ozônio não depende do O₂ das plantas desmatadas dessa forma (D); e menos vegetação significa menor fixação de CO₂, não maior (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Tema: ovogênese humana. No esquema, a ovogônia cresce e vira ovócito primário (J, evento 1); a meiose I (evento 2) produz o ovócito secundário (L, grande) e o primeiro glóbulo polar (M); a meiose II (evento 3) dá origem ao óvulo (N) e aos glóbulos polares (O, P, Q).\n\nNa mulher, a ovulação libera um ovócito secundário parado na metáfase II. A meiose II só se completa se houver fecundação: o espermatozoide penetra e só então se formam o óvulo (N) e o segundo glóbulo polar. Logo, D está correta.\n\nErros das demais: L e M recebem cromossomos homólogos diferentes na meiose I, então não têm os mesmos alelos (A); a célula liberada é L, não J (B); o evento 1 ocorre ainda na vida fetal, não a partir da puberdade (C); só a meiose I (evento 2) reduz a ploidia de 2n para n (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Tema: sistema circulatório dos vertebrados e mistura de sangue. Na veia pulmonar, que traz sangue dos pulmões, os dois animais têm só O₂. A diferença está na aorta: em X ela continua só com O₂; em Y aparece CO₂ misturado.\n\nSangue arterial puro na aorta indica coração com quatro cavidades e separação completa entre sangue venoso e arterial: aves e mamíferos (circulação dupla e completa). Mistura na aorta indica circulação dupla incompleta, típica de anfíbios (coração com um único ventrículo) e da maioria dos répteis (septo ventricular incompleto).\n\nAssim, X é ave ou mamífero e Y é anfíbio ou réptil não crocodiliano: pardal e sapo (B).\n\nEm A, C e E o primeiro animal (lagarto, tartaruga, salamandra) tem mistura, então não pode ser X; atum, peixe de respiração branquial, nem tem veia pulmonar. Em D, codorna é ave e não teria mistura.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Tema: anatomia e fisiologia vegetal, anel de Malpighi. O cintamento retira um anel completo da casca, que inclui o floema; o xilema, mais interno (o lenho), permanece.\n\nO floema é formado por células vivas (elementos de tubo crivado com células companheiras) e conduz a seiva orgânica ou elaborada, rica em açúcares produzidos nas folhas, até a raiz. Sem esse suprimento, as células da raiz ficam sem energia e morrem em algumas semanas.\n\nA absorção de sais minerais pelas células epidérmicas da raiz ocorre principalmente contra o gradiente de concentração, com gasto de ATP: transporte ativo. Raiz morta não absorve sais, e a planta morre.\n\nSequência: vivas, floema, orgânica, transporte ativo (C). As alternativas com xilema (A, D) erram porque o xilema não é removido; a osmose (B, E) explica a entrada de água, não de sais.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Tema: evolução e características dos animais (zoologia). Metameria é a divisão do corpo em segmentos repetidos (metâmeros), como em anelídeos, artrópodes e, na fase embrionária, cordados. Simetria bilateral significa um único plano que divide o corpo em metades espelhadas, com lados direito e esquerdo, dorso e ventre, e extremidades anterior e posterior.\n\nA segmentação permite que cada segmento tenha musculatura e controle relativamente independentes, ampliando a variedade de movimentos (rastejar, ondular, articular apêndices).\n\nA simetria bilateral favorece o deslocamento orientado numa direção. Com isso, órgãos dos sentidos e gânglios nervosos se concentraram na extremidade anterior, que é a primeira a entrar em contato com o ambiente: é a cefalização. Alternativa A.\n\nAs demais associam as características a consequências que não são as principais, como redução da superfície corporal (B) ou aumento do volume corpóreo (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Tema: evolução humana e primatas. Humanos e chimpanzés compartilham várias características herdadas do ancestral comum: visão binocular e tridimensional, polegar oponível, ausência de cauda (são hominoides) e placenta, como todos os mamíferos placentários. Por isso A, B, C e D descrevem semelhanças, não diferenças.\n\nA diferença morfológica marcante entre eles é o volume da caixa craniana: cerca de 1.300 a 1.400 cm³ no ser humano atual contra uns 400 cm³ no chimpanzé, reflexo do grande crescimento do encéfalo ao longo da linhagem humana. Alternativa E.\n\nOutra diferença importante seria o bipedalismo, mas ela não aparece entre as alternativas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Tema: herança quantitativa (poligenia). Há dois genes; cada alelo efetivo soma 2 cm aos 10 cm de base: 0 alelos = 10 cm, 1 = 12, 2 = 14, 3 = 16, 4 = 18.\n\nGráfico I: 14, 16 e 18 cm na proporção 25%, 50%, 25%, ou seja, 2, 3 e 4 alelos efetivos em 1:2:1. Testando AABb × AaBB:\nA: AA × Aa → 1/2 AA, 1/2 Aa\nB: Bb × BB → 1/2 BB, 1/2 Bb\nAABB (4) = 1/4; AABb e AaBB (3) = 1/2; AaBb (2) = 1/4. Confere.\n\nGráfico II: as cinco classes, de 10 a 18 cm, em proporção aproximada 1:4:6:4:1 (cerca de 6%, 25%, 38%, 25%, 6%). É o resultado do cruzamento de dois di-híbridos, AaBb × AaBb, pois só ele gera desde aabb até AABB.\n\nCombinação: AABb e AaBB; AaBb e AaBb (A). A alternativa C falha no gráfico I: AaBb × aaBB produziria indivíduos com apenas 1 alelo efetivo (12 cm).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Tema: doenças bacterianas e formas de transmissão. A meningite meningocócica é causada pela bactéria Neisseria meningitidis (meningococo); o sorogrupo C é um dos mais comuns no Brasil e tem vacina no calendário infantil, citada no texto.\n\nA transmissão é de pessoa a pessoa, pelas vias respiratórias: gotículas de saliva e secreções expelidas ao tossir, espirrar, falar ou em contato próximo e prolongado. Por isso a alternativa E está correta.\n\nAs outras erram o agente ou a via: picada de artrópode transmite doenças como dengue e malária (A); existem meningites virais, mas a meningocócica é bacteriana (B, C); e protozoários não formam esporos transmitidos por alimentos nesse caso (D), além de cistos em fezes não serem forma de transmissão de vírus (B).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Tema: origem do sistema de endomembranas. A figura mostra uma célula procariótica ancestral cuja membrana plasmática se dobra para dentro; as dobras envolvem o DNA, formando o envoltório nuclear, e originam uma organela membranosa ligada a ele, o retículo endoplasmático.\n\nEssa é a hipótese autógena: o núcleo e o retículo surgiram de invaginações (dobramentos) da membrana plasmática. O retículo aumentou a área de membrana interna disponível para a produção de substâncias, como proteínas (retículo granuloso) e lipídios (agranuloso), dentro do citoplasma. Alternativa C.\n\nA e E confundem com a endossimbiose, que explica mitocôndrias e cloroplastos, organelas com DNA próprio surgidas da fagocitose de procariontes (o mesmo vale para D). Em B, a organela não surgiu de evaginações do envoltório nuclear; na figura, envoltório e organela nascem juntos da membrana plasmática.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Tema: histologia, coloração com hematoxilina e eosina (H&E). O enunciado explica que a hematoxilina é um corante básico e se liga a estruturas ácidas, chamadas basófilas, corando-as de azul-arroxeado.\n\nNa célula, a estrutura mais ácida é o núcleo, rico em ácidos nucleicos (DNA e RNA), cujos grupos fosfato têm carga negativa. Por isso o núcleo das células da mucosa bucal fica azul-arroxeado (B). Regiões do citoplasma com muitos ribossomos (RNA) também podem ficar levemente basófilas.\n\nCitoesqueleto, fibras colágenas e elásticas são proteicas e, em geral, acidófilas: coram-se de rosa pela eosina, o corante ácido do par. O retículo endoplasmático agranular, sem ribossomos, também não é basófilo. Além disso, células epiteliais raspadas da mucosa não trazem fibras do tecido conjuntivo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Tema: análise elementar e fórmula mínima. A combustão completa leva todo o carbono a CO₂ e todo o hidrogênio a H₂O.\n\n1 mol do ácido → 18 mol de CO₂ → 18 mol de C por molécula\n8 mol de H₂O → 16 mol de H por molécula\n\nMassa de H na molécula: 16 × 1 = 16 g por mol. A massa de oxigênio é 8 vezes maior:\nmassa de O = 8 × 16 = 128 g → 128 ÷ 16 = 8 mol de O\n\nFórmula molecular: C₁₈H₁₆O₈. Dividindo por 2, o maior divisor comum:\nfórmula mínima = C₉H₈O₄\n\nO erro típico é contar 8 átomos de H (esquecendo que cada H₂O tem dois) ou tomar a massa de O como número de átomos, o que leva a O₃₂ ou O₆₄ (alternativas A, B e C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Tema: radioatividade, emissão beta. Na emissão beta (⁰₋₁β), um nêutron do núcleo se transforma em próton, liberando um elétron. Assim:\nnúmero de massa (A): não muda\nnúmero atômico (Z): aumenta 1\n\nO hólmio tem Z = 67 (consulta à tabela periódica):\n¹⁶⁶₆₇Ho → ⁰₋₁β + ¹⁶⁶₆₈X\n\nO elemento de Z = 68 é o érbio (Er), vizinho do hólmio na série dos lantanídeos. A radiação gama não altera A nem Z, só leva energia.\n\nIsótopo resultante: ¹⁶⁶Er.\n\nO erro comum é diminuir Z (o que daria o disprósio, Dy, de Z = 66), confundindo emissão beta negativa com emissão de pósitron ou captura eletrônica; ou alterar o número de massa, como em 165 ou 167.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Tema: transformação isovolumétrica (lei de Charles e Gay-Lussac). Com volume e quantidade de gás constantes, a pressão é diretamente proporcional à temperatura absoluta:\nP1 / T1 = P2 / T2\n\nTemperaturas em kelvin:\nT1 = 47 + 273 = 320 K\nT2 = 147 + 273 = 420 K\n\nP2 = P1 × 420 ÷ 320 = 1,3125 × P1 ≈ 1,31 × P1\n\nO erro clássico é usar graus Celsius: 147 ÷ 47 ≈ 3,1, valor que nem aparece; outras alternativas (10, 13,1, 100, 131) exploram erros de vírgula ou de proporção. A lei só vale com a escala absoluta.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Tema: pH e concentração de íons H⁺. Por definição, pH = −log [H⁺], ou seja, [H⁺] = 10^(−pH) mol/L.\n\nSuco gástrico (pH 2): [H⁺] = 10⁻² mol/L\nSaliva (pH 7): [H⁺] = 10⁻⁷ mol/L\n\nRelação pedida (suco gástrico ÷ saliva):\n10⁻² ÷ 10⁻⁷ = 10⁵\n\nO suco gástrico tem cem mil vezes mais íons H⁺ que a saliva. Cada unidade de pH corresponde a um fator 10, pois a escala é logarítmica.\n\nOs erros típicos: dividir os valores de pH (2 ÷ 7 ≈ 0,3, alternativa D), subtraí-los (5, alternativa C) ou inverter a razão (10⁻⁵, alternativa E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Tema: cinética química, lei de velocidade e ordem de reação. Compara-se pares de experimentos em que só uma concentração muda.\n\nExperimentos 1 e 2: [NO₂] constante, [O₃] dobra (1,0 → 2,0 × 10⁻⁵) e a velocidade dobra (0,033 → 0,066). Então 2^y = 2 → y = 1.\n\nExperimentos 2 e 3: [O₃] constante, [NO₂] cai pela metade (5,0 → 2,5 × 10⁻⁵) e a velocidade cai pela metade (0,066 → 0,033). Então x = 1.\n\nLei de velocidade: v = k[NO₂][O₃]\nOrdem global: x + y = 1 + 1 = 2\n\nNote que os expoentes vêm dos dados experimentais; aqui coincidem com os coeficientes da equação, mas isso não pode ser presumido. Comparar os experimentos 1 e 3 diretamente engana, porque as duas concentrações mudam ao mesmo tempo e a velocidade fica igual.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Tema: estequiometria. Primeiro, balanceia-se a equação:\n2 SbCl₃ + 3 H₂O → Sb₂O₃ + 6 HCl\n\nProporção: 2 mol SbCl₃ : 3 mol H₂O : 6 mol HCl.\n\nCom 18 mol de HCl formados (18 = 3 × 6):\nSbCl₃ = 3 × 2 = 6 mol → 6 × 228 = 1 368 g\nH₂O que reagiu = 3 × 3 = 9 mol\n\nOs 180 mL de água (180 g, ou 10 mol, já que H₂O = 18 g/mol) estavam em excesso: só 9 mol participaram da reação.\n\nA alternativa E é a armadilha: usa os 10 mol de água adicionados, e não a quantidade que de fato reagiu.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Tema: eletroquímica, pilhas e diferença de potencial. A ddp de uma pilha é dada por:\nΔE = E°(cátodo) − E°(ânodo)\n\nEla é máxima quando se combina o metal de maior potencial de redução com o de menor:\ncobre: +0,34 V (maior)\nmagnésio: −2,36 V (menor)\nΔE = 0,34 − (−2,36) = 2,70 V\n\nNo ânodo ocorre oxidação: o magnésio, de menor potencial, perde elétrons (Mg → Mg²⁺ + 2e⁻) e é o polo negativo. No cátodo ocorre redução: Cu²⁺ + 2e⁻ → Cu, e o cobre é o polo positivo.\n\nPolo negativo Mg, polo positivo Cu (D). As outras combinações dão ddp menor (Zn/Cu, por exemplo, 1,10 V) ou trocam a polaridade, como A, que põe o Zn como polo negativo diante do Mg.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Tema: termoquímica, entalpia de formação e lei de Hess. A entalpia padrão de formação do Mg₃N₂ corresponde à primeira equação, a partir das substâncias simples: 3 Mg(s) + N₂(g) → Mg₃N₂(s).\n\nNa segunda reação, usamos ΔH = Σ ΔHf(produtos) − Σ ΔHf(reagentes). Mg(s) e H₂(g) são substâncias simples no estado padrão: ΔHf = 0.\n\n−371 = [ΔHf(Mg₃N₂) + 3 × 0] − [3 × 0 + 2 × (−46)]\n−371 = ΔHf(Mg₃N₂) + 92\nΔHf(Mg₃N₂) = −371 − 92 = −463 kJ/mol\n\nO erro de sinal mais comum é somar 92 em vez de subtrair, o que dá −279 kJ (alternativa E): ao passar a parcela dos reagentes para o outro lado, o sinal precisa ser respeitado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Tema: química orgânica, esterificação. Um éster forma-se pela reação entre ácido carboxílico e álcool, com eliminação de água:\nácido + álcool → éster + H₂O\n\nNa estrutura, a parte do ácido etanoico é o grupo acetato (CH₃–CO–O–). A parte do álcool é o anel cicloexano ligado ao oxigênio, com um grupo isopropila e um metila: é o mentol, um álcool com 10 carbonos.\n\nContagem no álcool: 6 C do anel + 3 C do isopropil + 1 C do metil = 10 C. Como álcool saturado com um anel, segue CₙH₂ₙO:\nC₁₀H₂₀O\n\nConferindo pelo éster, acetato de mentila C₁₂H₂₂O₂:\nC₁₂H₂₂O₂ + H₂O − C₂H₄O₂ (ácido etanoico) = C₁₀H₂₀O\n\nAs alternativas D e E (etanol e metanol) confundem o álcool com o lado do ácido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Tema: bioquímica, carboidratos (glicídios). Polissacarídeos são polímeros formados por muitas unidades de monossacarídeos, sobretudo glicose.\n\nNos vegetais, os principais são a celulose, que forma a parede celular, e o amido, que é a reserva energética. Nos animais, o polissacarídeo de reserva é o glicogênio, armazenado no fígado e nos músculos. Assim, celulose e glicogênio (E).\n\nAs demais misturam outros tipos de glicídios: glicose e frutose são monossacarídeos, e a sacarose é um dissacarídeo (glicose + frutose). Além disso, a alternativa C inverte a ordem, já que o glicogênio é animal.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Tema: análise dimensional. A força, pela segunda lei de Newton, é F = m · a, e a aceleração é a variação de velocidade por unidade de tempo: a = Δv / Δt.\n\nNo sistema hipotético, as grandezas de base são massa (M), velocidade (V) e tempo (T). Então:\n[a] = V · T⁻¹\n[F] = M · V · T⁻¹\n\nConferindo com o SI: como V = L · T⁻¹, temos M · (L · T⁻¹) · T⁻¹ = M · L · T⁻², a dimensão de força dada no enunciado.\n\nO erro típico é trocar L diretamente por V mantendo o T⁻² (o que daria M · V · T⁻², ausente) ou errar o expoente do tempo, como em C (T⁻³).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Tema: cinemática, composição de velocidades (movimento relativo). A velocidade da pessoa em relação ao solo é a soma da velocidade da esteira com a velocidade dela em relação à esteira, pois têm o mesmo sentido:\nv = 0,80 + 1,0 = 1,8 m/s\n\nO comprimento a percorrer, em relação ao solo, é o da esteira: 45 m.\nΔt = 45 ÷ 1,8 = 25 s\n\nO erro mais comum é usar só uma das velocidades: 45 ÷ 1,0 = 45 s (A) ou 45 ÷ 0,80 ≈ 56 s (B). A alternativa C (225 s) aparece se forem subtraídas as velocidades: 45 ÷ 0,2.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Tema: colisões, conservação da quantidade de movimento e da energia. Considerando o sistema formado pelos dois carros, as forças da colisão são internas: a quantidade de movimento total se conserva (as forças externas são desprezíveis no breve intervalo do choque). Por isso D e E estão erradas.\n\nA energia mecânica, porém, não se conserva numa colisão inelástica. Deformações permanentes indicam que parte da energia cinética foi gasta para deformar as estruturas e convertida em calor, som e energia interna. Logo, houve diminuição da energia mecânica (B).\n\nNão há aumento de energia mecânica (A), o que violaria a conservação da energia. E a energia potencial elástica não aumenta (C), justamente porque a deformação é definitiva: o material não volta à forma original e não devolve a energia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Tema: terceira lei de Kepler. O período orbital é proporcional a R^(3/2), isto é, T² é proporcional a R³. Comparando Netuno com a Terra, cujo período é 1 ano:\nT(Netuno) / T(Terra) = (R(Netuno) / R(Terra))^(3/2) = 30^(3/2)\n\n30^(3/2) = 30 × √30 ≈ 30 × 5,48 ≈ 164\n\nT(Netuno) ≈ 164 anos terrestres, valor mais próximo de 160 anos. O período real de Netuno é de cerca de 165 anos.\n\nErros comuns: usar o expoente 2/3 em vez de 3/2 (30^(2/3) ≈ 10, alternativa B) ou elevar ao quadrado (900) ou ao cubo, que não aparecem; 90 seria 30 × 3, sem a raiz.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Tema: calorimetria, calor sensível e potência térmica. O gráfico mostra o gálio sólido aquecido de 0 °C a 30 °C em 4,0 min; depois a temperatura fica constante, pois começa a fusão (o gálio funde perto de 30 °C).\n\nCalor absorvido no aquecimento do sólido:\nQ = m · c · Δθ\nQ = 500 × 0,08 × 30 = 1 200 cal\n\nTaxa de absorção (potência):\nP = Q ÷ Δt = 1 200 ÷ 4,0 = 300 cal/min\n\nA alternativa A (240 cal/min) aparece se dividirmos por 5 min, incluindo o patamar, onde o calor vai para a mudança de estado e não poderia ser calculado com o calor específico.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Rendimento de máquina térmica. O texto diz que, de 1 L de gasolina, só 220 mL viram trabalho: o rendimento é\n\nη = 220 ÷ 1000 = 0,22\n\nO rendimento relaciona potência útil e potência total consumida: η = P_útil ÷ P_total. Então\n\nP_total = 44 kW ÷ 0,22 = 200 kW\n\nPotência de 200 kW significa 200 kJ de energia consumida a cada segundo.\n\nA alternativa D (20 kJ) aparece se a pessoa erra a ordem de grandeza; a C (970 kJ) não corresponde a nenhuma relação física da questão.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Refração e reflexão total (lei de Snell). Como as faces da lâmina são paralelas, o ângulo de refração na primeira face é o mesmo ângulo de incidência na segunda. Pela lei de Snell, o produto n · sen θ se conserva ao longo do caminho:\n\nn_R · sen δ = n_S · sen θ = 2,50 × 0,60 = 1,50\n\nPara haver reflexão total na interface S–T, o ângulo θ deve ser maior ou igual ao ângulo limite, ou seja, n_S · sen θ ≥ n_T. Logo\n\nn_T ≤ 1,50\n\nO maior índice possível para T é 1,50. Repare que nem é preciso conhecer n_S: o invariante n · sen θ resolve tudo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Efeito Doppler sonoro. Quando a fonte se aproxima do observador, as frentes de onda chegam \"comprimidas\": o comprimento de onda percebido diminui e a frequência captada fica maior que a emitida. Quando a fonte se afasta, as frentes chegam mais espaçadas e a frequência captada fica menor.\n\nÉ por isso que o ronco do carro soa mais agudo na chegada e mais grave na saída, com a queda brusca no instante em que ele passa pelo microfone.\n\nA frequência emitida pelo motor não muda; o que muda é a frequência percebida, por causa do movimento relativo entre fonte e microfone.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Potência elétrica: P = U · i, ou seja, i = P ÷ U. A corrente máxima de cada chuveiro sai da potência máxima dividida pela tensão:\n\nX: 5500 ÷ 127 ≈ 43 A\nY: 6400 ÷ 220 ≈ 29 A\nZ: 7500 ÷ 220 ≈ 34 A\n\nO modelo X tem a maior corrente (por isso o disjuntor de 50 A), porque tem a maior razão entre potência máxima e tensão.\n\nA alternativa A é a armadilha: a tensão menor sozinha não explica nada (com potência pequena, a corrente seria pequena). E X nem tem a menor potência máxima nem as razões ou diferenças citadas em C e D.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Indução eletromagnética (lei de Faraday). Surge força eletromotriz induzida quando varia o fluxo magnético através do circuito: ε = −ΔΦ ÷ Δt.\n\nNo gerador da figura, o ímã é permanente, então o campo B não muda, e a área da espira também é fixa. O que muda é o ângulo entre o plano da espira e as linhas de campo: ao girar, a espira é atravessada por mais linhas, depois por menos, depois pelo lado oposto. Como Φ = B · A · cos θ, o fluxo varia periodicamente, e isso gera a fem (alternada).\n\nA rotação não inverte de sentido (A), o campo do ímã não varia (C) e os polos não se invertem (E); a resistência da espira não tem relação com a indução (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Progressão aritmética: soma dos termos. A razão é\n\nr = 25/12 − 7/3 = 25/12 − 28/12 = −1/4\n\nO 20º termo:\n\na₂₀ = 7/3 + 19 · (−1/4) = 28/12 − 57/12 = −29/12\n\nSoma dos 20 primeiros termos:\n\nS₂₀ = (a₁ + a₂₀) · 20 ÷ 2 = (28/12 − 29/12) · 10 = (−1/12) · 10 = −5/6\n\nO erro mais comum é usar a₁ + 20r em vez de a₁ + 19r para o 20º termo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Média ponderada e porcentagem. Tome o salário do vendedor como 100; o do estoquista é 75. Numa loja com 4 funcionários (1 estoquista, 3 vendedores, respeitando os 25%):\n\nfolha antes = 75 + 3 · 100 = 375\nfolha depois = 75 · 1,2 + 3 · 100 · 1,1 = 90 + 330 = 420\n\nComo o número de funcionários não muda, o salário médio aumenta na mesma proporção da folha:\n\n420 ÷ 375 = 1,12 → aumento de 12%\n\nA armadilha é fazer a média simples dos aumentos ponderada só pelas quantidades (0,25 · 20% + 0,75 · 10% = 12,5%, sem alternativa) ou somar 20% e 10%; o peso de cada aumento depende também do salário de cada grupo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Probabilidade por contagem. Há 7 listradas (9 a 15) e 8 não listradas (1 a 8), logo 7 · 8 = 56 pares possíveis, todos igualmente prováveis.\n\nPara cada listrada, contamos as não listradas que levam a soma a 18 ou mais:\n\n9: precisa ≥ 9 → nenhuma\n10: ≥ 8 → 1\n11: ≥ 7 → 2\n12: ≥ 6 → 3\n13: ≥ 5 → 4\n14: ≥ 4 → 5\n15: ≥ 3 → 6\n\nTotal favorável: 1 + 2 + 3 + 4 + 5 + 6 = 21\n\nP = 21 ÷ 56 = 3/8\n\nCuidado para não contar pares de bolas quaisquer (C(15,2)) no espaço amostral: a questão fixa uma de cada tipo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Interseção de parábola e reta, e área de triângulo. Igualando as equações:\n\nx²/4 + 3 = x + 3 → x²/4 = x → x = 0 ou x = 4\n\nx = 0 dá Q(0, 3); x = 4 dá P(4, 7).\n\nO triângulo tem vértices em Q(0, 3), no ponto (4, 3) (encontro da horizontal y = 3 com a vertical x = 4) e em P(4, 7). É retângulo, com catetos:\n\nhorizontal: 4 − 0 = 4\nvertical: 7 − 3 = 4\n\nÁrea = 4 · 4 ÷ 2 = 8\n\nQuem esquece de dividir por 2 chega a 16, que nem está entre as opções; já confundir a ordenada de P (7) com a altura leva a valores errados como 14.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Equação exponencial resolvida com logaritmos. A abscissa de P satisfaz 2^x = 700/27, então\n\nx = log₂(700/27) = log₂ 700 − log₂ 27\n\nFatorando: 700 = 2² · 5² · 7 e 27 = 3³.\n\nx = 2 + 2 · log₂ 5 + log₂ 7 − 3 · log₂ 3\nx = 2 + 2 · 2,32 + 2,8 − 3 · 1,58\nx = 2 + 4,64 + 2,8 − 4,74 = 4,7\n\nO deslize típico é esquecer o expoente de 5² ou de 3³ ao aplicar a propriedade do logaritmo da potência.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Perímetro e trigonometria. Do perímetro:\n\n1 + 2 + 3 + DE + 4 = 15 → DE = 5 cm\n\nO seno de DÊF é a altura de D em relação à reta AF dividida por DE. Essa altura soma duas contribuições: a subida de B (AB a 45°) e a subida de C até D. Como BC é paralelo a AF e o ângulo BCD mede 120°, CD faz 60° com a horizontal:\n\naltura de B = 1 · sen 45° = √2/2\nsubida de C a D = 3 · sen 60° = 3√3/2\naltura de D = (√2 + 3√3)/2\n\nsen DÊF = [(√2 + 3√3)/2] ÷ 5 = (√2 + 3√3)/10\n\nObservação: com esses comprimentos, as coordenadas de D e E dariam DE ≈ 3,3 cm, e não 5 cm; os dados não são geometricamente compatíveis. O caminho esperado é o acima, que leva ao gabarito.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "Os dados são inconsistentes: pelas medidas de AB, BC, CD, AE e dos ângulos, DE daria cerca de 3,3 cm, não os 5 cm obtidos pelo perímetro."
+  },
+  "0:77": {
+   "resposta": "Razão entre áreas de triângulos de mesma altura. Os triângulos ABP e PBC têm a mesma altura em relação a AC (a distância de B a essa reta), então suas áreas estão na razão das bases:\n\nárea ABP ÷ área ABC = AP ÷ AC = 9 ÷ (9 + 5) = 9/14\n\nárea ABP = 9/14 · 7 = 4,5 cm²\n\nAgora, com base AB = 6 cm:\n\n4,5 = 6 · h ÷ 2 → h = 1,5 cm\n\nO erro comum é usar a razão 9/5 diretamente como fração da área total, em vez de 9/14.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Área de setor circular e de setor de coroa circular. O setor de raio 3 cm e 90° é 1/4 de círculo:\n\nA₁ = (1/4) · π · 3² = 9π/4\n\nO setor da coroa (raios 3 e 4, ângulo 270°) é 3/4 da coroa:\n\nA₂ = (3/4) · π · (4² − 3²) = (3/4) · 7π = 21π/4\n\nÁrea total = 9π/4 + 21π/4 = 30π/4\n\nPara um círculo de mesma área: π · r² = 30π/4 → r² = 30/4 → r = √30/2 cm\n\nA distração frequente é usar a área do círculo de raio 4 inteiro no setor da coroa, em vez de subtrair o círculo interno.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Volume de pirâmide e trigonometria no triângulo retângulo. A altura da pirâmide é VP, pois P é a projeção ortogonal de V sobre o plano da base:\n\nV = (1/3) · 6² · h = 120 → 12h = 120 → h = 10 cm\n\nO triângulo VAP é retângulo em P (VP é perpendicular ao plano, logo a AP). No ângulo VÂP, VP é o cateto oposto e AP o adjacente:\n\ntg VÂP = 10 ÷ 12 = 5/6\n\nQuem esquece o fator 1/3 do volume da pirâmide acha h = 10/3 e erra a tangente.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Média ponderada. Para cada 3 alunos do grupo A há 5 do grupo B, então os pesos são 3 e 5:\n\nmédia = (3 · 5,6 + 5 · 6,4) ÷ 8\nmédia = (16,8 + 32,0) ÷ 8 = 48,8 ÷ 8 = 6,1\n\nA armadilha é fazer a média simples (5,6 + 6,4) ÷ 2 = 6,0, alternativa D, que ignora que o grupo B tem mais alunos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

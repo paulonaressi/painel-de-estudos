@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/famerp/2024_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Recursos expressivos: intertextualidade. O cartum só faz sentido para quem conhece o conto de fadas Chapeuzinho Vermelho: o lobo e a menina de capuz vermelho são os personagens da história tradicional.\n\nO humor está na fala da menina, que corrige o próprio nome (\"não é um chapéu, é um capuz\"), e na resposta do lobo, que concorda que sempre disse isso. O cartum dialoga com outro texto, retomando-o e subvertendo-o — é a intertextualidade, que no caso também brinca com a imprecisão do nome em português (em inglês, \"Little Red Riding Hood\" fala em capuz).\n\nNão há oposição de ideias (antítese), suavização de algo desagradável (eufemismo), repetição redundante (pleonasmo) nem exagero (hipérbole) como recurso central.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Gêneros textuais: divulgação científica. Esse gênero leva o conhecimento da ciência a um público amplo, não especializado. Por isso usa uma linguagem acessível, que explica e aproxima o leitor.\n\nNo texto de Drauzio Varella isso aparece nas comparações cotidianas (camundongos \"que caçamos nas ratoeiras\"), nas expressões coloquiais (\"balde de água fria\"), na ironia e no tom de conversa, que tornam compreensível um dado do Projeto Genoma.\n\nA linguagem técnica (A) e a hermética, isto é, fechada e difícil (D), são próprias do artigo científico, que se dirige a especialistas. Há algumas figuras e marcas informais, mas o que predomina, e define o gênero, é a acessibilidade; o texto não é essencialmente figurado (B) nem informal (C) — segue a norma-padrão.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Semântica: expressões coloquiais. No primeiro parágrafo, o autor diz que a divulgação do número de genes humanos \"foi um balde de água fria no orgulho humano\".\n\n\"Balde de água fria\" é uma expressão popular para algo que frustra uma expectativa e esfria o entusiasmo. O próprio texto explica a expectativa frustrada: \"imaginávamos que fossem pelo menos 100 mil\" genes, e descobriu-se que são só 30 mil, o mesmo número dos ratos. Trata-se, portanto, de uma decepção.\n\nNão é uma constatação neutra (A), pois a expressão carrega carga emocional; tampouco indica indignação (B), que seria revolta, nem incerteza (D) ou esperança (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Interpretação de texto: ironia. A ironia consiste em dizer algo, mas dar a entender outra coisa, muitas vezes o contrário, com tom de zombaria.\n\nNo primeiro parágrafo, o autor comenta que esperávamos ter muito mais genes que vermes e ratos e acrescenta: \"Afinal, não foi culpa nossa havermos sido criados à imagem e semelhança de Deus\". Ele não defende essa ideia; finge desculpar a vaidade humana para ridicularizar a visão antropocêntrica, que o texto critica no parágrafo seguinte.\n\nAs demais alternativas trazem afirmações feitas em sentido literal: um dado científico (A), a posição do Homo sapiens entre as espécies (C), a menção à teoria da evolução (D) e a avaliação de que os números do Projeto Genoma são coerentes (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Coesão textual: elipse. A elipse é a omissão de um termo que o leitor recupera pelo contexto, evitando a repetição.\n\nNo primeiro parágrafo, o autor escreve que 98% de nossas sequências de DNA \"são idênticas às dos chimpanzés\". O \"às dos\" equivale a \"às sequências de DNA dos chimpanzés\": a expressão \"sequências de DNA\" foi omitida e fica subentendida.\n\nAs demais expressões aparecem explicitamente ou não são retomadas por elipse no parágrafo. Na enumeração \"qualquer verme, 20 mil\", o que se omite é o verbo \"ter\" e a palavra \"genes\", não a expressão \"número de genes\" (D).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "O conteúdo é a relação semântica entre orações (período composto).\n\nA oração anterior afirma que muitos genes são \"tão essenciais\" ao trabalho doméstico das células. A oração sublinhada, introduzida por \"que\" em correlação com \"tão\", apresenta o efeito dessa intensidade: por serem tão essenciais, a evolução os preservou quase intactos. A estrutura \"tão... que\" é a clássica oração subordinada adverbial consecutiva, que exprime consequência.\n\nA alternativa tentadora é \"causa\", porque a ideia de causa existe no período, mas ela está na oração principal (genes essenciais), não na sublinhada. A sublinhada é o resultado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "O conteúdo é pontuação: a vírgula vicária, que marca a omissão (elipse) de um verbo já expresso antes.\n\nEm \"Se as moscas têm 13 mil genes, qualquer verme, 20 mil, um abacateiro, 25 mil\", o verbo \"ter\" aparece só na primeira oração. Nas seguintes, a vírgula depois de \"verme\" e de \"abacateiro\" ocupa o lugar do \"tem\" subentendido: qualquer verme (tem) 20 mil, um abacateiro (tem) 25 mil.\n\nNas demais alternativas as vírgulas têm outras funções: isolar a conjunção deslocada \"no entanto\" (A), separar oração condicional intercalada (B), isolar oração adjetiva explicativa (C) e separar itens de uma enumeração (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "O conteúdo é a interpretação do humor na crônica de Millôr Fernandes.\n\nO anjo enumera todas as vezes em que salvou o homem de perigos de morte. O homem agradece, mas pergunta onde o anjo estava quando ele se casou. A graça está em tratar o casamento como mais um desastre do qual o protetor deveria tê-lo livrado. A pergunta revela, portanto, ressentimento: ele se sente desamparado justamente no episódio que considera o pior da vida, um sentimento de mágoa em relação ao anjo e ao próprio casamento.\n\nNão há enfado nem indiferença (ele reage com interesse), nem resignação (ele cobra o anjo), nem arrogância (antes, ele agradece).\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "A palavra \"mágoa\" é uma leitura possível da ironia; a crônica não nomeia o sentimento do personagem."
+  },
+  "0:9": {
+   "resposta": "O conteúdo é a passagem do discurso direto para o indireto.\n\nAo transpor a fala, ela vira oração subordinada introduzida por \"que\" depois do verbo de dizer, sem travessão. Fazem-se três ajustes: o presente \"continuo\" passa ao pretérito imperfeito \"continuava\"; o advérbio \"aqui\" vira \"ali\", porque o lugar passa a ser visto do ponto de vista do narrador; e a primeira e segunda pessoas viram terceira, de modo que \"proteger-te\" vira \"protegê-lo\". Resultado: \"A voz misteriosa lhe disse que continuava ali para protegê-lo\".\n\nA e C mantêm o travessão, logo continuam em discurso direto; D usa o futuro do pretérito e conserva \"te\"; E usa o subjuntivo \"continuasse\", que corresponderia a uma ordem, não a uma afirmação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "O conteúdo são as características das escolas literárias, aqui o Romantismo.\n\nO texto aponta três marcas: a busca de fontes de inspiração nacionais e locais \"em oposição à inspiração greco-romana\" do Neoclassicismo (o Arcadismo, que o Romantismo superou); o primado do lirismo e da \"efusão do coração\", isto é, a subjetividade e o sentimentalismo; e a valorização da \"cor local\", do pitoresco, da história local e do folclore, base do nacionalismo romântico, que encontrou seu melhor espaço no romance.\n\nO Arcadismo é justamente o movimento neoclássico ao qual o texto se opõe; Naturalismo, Barroco e Simbolismo não se definem pela cor local nem pela reação à poética greco-romana.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Questão de compreensão global de texto em inglês.\n\nO texto parte da descoberta de aquíferos no Níger, reconhece que são \"welcome announcements\", mas avisa que os aquíferos \"are not always going to help address water scarcity\" (nem sempre vão ajudar a resolver a falta de água), cita o aquífero de Turkana, no Quênia, impróprio pela salinidade, e conclui que é preciso administrar expectativas e pensar em outras saídas. Ou seja, os aquíferos são apenas parte da solução.\n\nO texto não diz que os maiores aquíferos do mundo estão no Níger (A), nega uma resposta definitiva (C), não trata de combate à mudança climática (D) nem de como a água se renova (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Questão de vocabulário em inglês.\n\n\"To put it into perspective\" significa \"para colocar em perspectiva\", isto é, para dar uma referência que ajude o leitor a dimensionar um número. O texto informa que os aquíferos do Níger têm mais de 600 bilhões de metros cúbicos e, para que se entenda o tamanho disso, compara com a demanda anual de água do Egito, 114 bilhões de metros cúbicos. A expressão introduz, portanto, uma comparação com algo de mesma natureza.\n\nNão há negação, normalização, conclusão nem qualquer ideia de falar depressa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão pede a frase que expressa causa.\n\n\"Due to\" significa \"devido a\" e introduz a causa: \"devido a um clima em mudança e às demandas crescentes de uma população em crescimento\", muitos recursos hídricos de superfície da África correm sérios riscos. É a única alternativa com um conector causal.\n\nA alternativa tentadora é B, mas \"so that\" (para que) expressa finalidade, não causa. As outras são afirmações factuais (A e C) ou expressam necessidade (E, \"need to be explored\").\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Questão de conectivos em inglês.\n\n\"For instance\" significa \"por exemplo\": introduz um caso que ilustra a afirmação anterior, de que os aquíferos nem sempre resolvem a falta de água. O aquífero de Turkana, considerado impróprio pela salinidade, é esse exemplo. O equivalente é \"To illustrate\" (para ilustrar).\n\n\"Besides\" (além disso) acrescenta; \"Indeed\" (de fato) confirma; \"To sum up\" (resumindo) conclui; \"On the other hand\" (por outro lado) contrasta. Nenhum deles exemplifica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Questão de localização de informação em texto em inglês.\n\nNo terceiro parágrafo, o texto diz que pesquisas iniciais \"deemed Kenya's Turkana aquifer water unfit for use due to high salinity\", isto é, consideraram a água do aquífero de Turkana, no Quênia, imprópria para uso por causa da alta salinidade. Daí a afirmação de que ele fornece água imprópria para o consumo.\n\nO texto não fala em privatização (A) nem em diminuição por condições geológicas (E); quem é apresentado com grandes reservas é o Níger, não o Quênia (B); e o exemplo serve justamente para mostrar que esse aquífero não está ajudando (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Questão de conectivos em inglês.\n\nEm \"It is also useful for planners and governments, as they need to think of other ways around the water scarcity problem\", \"as\" introduz o motivo pelo qual a informação é útil: porque planejadores e governos precisam pensar em outras saídas. Com valor causal, \"as\" equivale a \"because\".\n\n\"Till\" (até) é temporal, \"which\" é pronome relativo, \"though\" (embora) é concessivo e \"whereas\" (ao passo que) é contrastivo; nenhum preserva o sentido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Questão de expressão idiomática em inglês.\n\n\"To roll one's eyes\" (revirar os olhos) é o gesto de quem demonstra irritação, impaciência ou descrença com o que o outro diz. A autora do depoimento conta que revirava os olhos para pais que afirmavam que os filhos tinham alergia alimentar, ou seja, ficava irritada e não levava aquilo a sério, até ela mesma passar pela situação.\n\nO gesto não indica alegria, orgulho, ansiedade nem vergonha; a vergonha pode até estar implícita hoje, mas não é o sentido da expressão.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Questão de referência pronominal em inglês.\n\n\"That is, until I became one of them\" (isto é, até eu me tornar um deles). O pronome \"them\" retoma o grupo citado antes na mesma fala: \"parents who claimed their kids had food allergies\", os pais que diziam que seus filhos tinham alergia alimentar. A autora passou a ser uma dessas mães.\n\nA alternativa tentadora é D, mas quem tem alergia são as crianças; ela não se tornou alérgica, e sim mãe de uma criança alérgica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Questão de verbos modais em inglês.\n\nEm \"You two should stop being so competitive\", Jon dá um conselho: \"vocês dois deveriam parar de ser tão competitivos\". O modal \"should\" expressa recomendação, e seu equivalente é \"ought to\".\n\n\"Will\" indica futuro, \"may\" possibilidade ou permissão, \"would\" condicional e \"can\" capacidade ou permissão; nenhum mantém o valor de conselho.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Questão sobre os dois sentidos de \"since\" em inglês.\n\nNo terceiro quadrinho, Garfield diz \"But since you brought the subject up\": \"mas já que você tocou no assunto\". Aqui \"since\" é causal, equivale a \"because\" ou \"as\". O mesmo sentido aparece em A: \"Devemos convidar outra pessoa, já que você não pode ir?\"\n\nNas demais alternativas \"since\" é temporal, \"desde\" ou \"desde que\": desde que você era adolescente (B), desde que você entrou no time (C), desde que você saiu da universidade (D), desde que vocês saíram juntos para comer (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "O conteúdo é o feudalismo e as relações servis na Europa medieval.\n\nLe Goff combate a ideia de que o servo estava sempre preso à gleba. Segundo ele, os servos \"raramente\" ficavam ligados à terra e, como as taxas cobradas pelos senhores eram pesadas, eram levados a ver se \"achavam coisa melhor em outro lugar\". Ou seja, havia mobilidade: homens e mulheres deixavam uma senhoria em busca de outra ou de uma cidade, sobretudo na época do renascimento urbano e comercial.\n\nO texto não trata da divisão de tarefas por sexo (A), de corporações, que eram de artesãos urbanos (B), de proporcionalidade dos tributos (C) nem de vassalagem, que é a relação entre nobres, não entre senhor e servo (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "O conteúdo é a arte do Renascimento italiano.\n\nA Pietà (1498-1499), de Michelangelo, mostra a Virgem com o Cristo morto no colo. É renascentista pela busca do equilíbrio e da harmonia na composição em forma de pirâmide, pela serenidade do rosto de Maria e, sobretudo, pelo estudo minucioso da anatomia: músculos, veias e a postura do corpo de Cristo, além do drapeado das vestes, revelam a valorização do corpo humano herdada da Antiguidade clássica.\n\nNão há o exagero dramático do Barroco (A), que é posterior; a arte bizantina (C) e a medieval (D) eram mais simbólicas e menos naturalistas; e a cena é religiosa, não do cotidiano urbano (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "O conteúdo é a mineração no Brasil colonial e a mudança do eixo econômico.\n\nO texto mostra a crise da lavoura canavieira do litoral no fim do século XVII e o deslocamento de levas de gente para \"os sertões das Gerais\" atraídas pela notícia de ouro: a maioria dos que saíram de Portugal entre 1700 e 1706 foi para Minas, e em onze anos de povoamento as lavras já empregavam tantos escravizados quanto havia no Brasil inteiro no fim do século XVI. Isso marca a transferência do centro econômico do Nordeste açucareiro para o Centro-Sul, confirmada pela mudança da capital para o Rio de Janeiro em 1763. A rigor, o processo se dá na passagem do século XVII para o XVIII.\n\nO açúcar continuou a ser exportado (A); a mão de obra escravizada aumentou (C); e a riqueza de Minas foi o ouro, não esmeraldas (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "O conteúdo é a exploração do trabalho indígena na América espanhola.\n\nA \"mita\" era o trabalho compulsório e rotativo que os espanhóis impuseram aos povos andinos, aproveitando uma instituição inca, sobretudo nas minas de prata de Potosí. A crônica descreve indígenas levados presos \"com cordas e argolas de ferro\" e mulheres, filhos e parentes que se despedem deles \"sem esperança de voltar a vê-los\". Fica clara a relação entre o trabalho forçado e a destruição das famílias e das comunidades, pois muitos morriam ou não voltavam.\n\nOs indígenas não estavam presos por crimes (B), e o texto não trata de rituais religiosos (A, C) nem de integração à sociedade colonial (E); os cantos e lamentos são de despedida, não de culto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "O conteúdo é a Revolução Industrial e suas contradições sociais.\n\nTocqueville descreve Manchester, centro da indústria têxtil inglesa, com uma série de oposições: da \"vala imunda\" flui a corrente que fertiliza o mundo; do \"esgoto imundo\" jorra \"ouro puro\"; ali a humanidade atinge seu maior desenvolvimento e sua maior brutalidade; o homem civilizado torna-se quase um selvagem. O contraste é entre a enorme riqueza gerada pelas fábricas e as condições degradantes de vida e de trabalho dos operários e da cidade.\n\nO texto não opõe matéria-prima e produto (B), não fala em instalações requintadas (C), nem em boa remuneração (D), e muito menos em baixa produtividade (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "O conteúdo é o abolicionismo no fim do Segundo Reinado.\n\nA charge de 1887, um ano antes da Lei Áurea, mostra um homem negro escravizado puxado por dois grupos de homens brancos. Do lado direito, os que carregam a bandeira com a palavra \"Abolição\", os abolicionistas; do lado esquerdo, os que tentam retê-lo, com chicote, os defensores da escravidão. A imagem representa o país dividido em torno da manutenção ou do fim do trabalho escravo.\n\nAs alternativas de partidos (A) e de regimes (B) não aparecem na imagem; e o conflito não é entre negros e brancos (C), já que os dois grupos em disputa são de homens brancos; o homem negro é o objeto da disputa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "O conteúdo é a primeira fase do Modernismo brasileiro e a Semana de Arte Moderna de 1922.\n\nNos versos de \"Pauliceia desvairada\", o eu lírico se apresenta como \"Juvenilidades Auriverdes\", uma juventude verde-amarela, e enumera elementos tipicamente brasileiros, como bananeiras, araras, colibris, sabiás e frutas tropicais. Mas tudo isso quer se afirmar \"na fremente celebração do Universal\". Os modernistas buscavam uma arte brasileira atualizada com as vanguardas europeias: o nacional inserido no internacional.\n\nNão é ufanismo (A): a enumeração é irônica e o objetivo é dialogar com o universal. Também não há preocupação ecológica (B, E) nem defesa do naturalismo (D), estética que os modernistas recusavam.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "O conteúdo é a descolonização da África no século XX e o pan-africanismo.\n\nO texto explica que, junto com os movimentos de libertação, cresceu a ideia de uma unidade africana, o pan-africanismo, nascida dos efeitos comuns da colonização, e a valorização da \"negritude\", um conjunto de características culturais compartilhadas por africanos e afro-americanos da diáspora. Ou seja, a luta pela independência veio acompanhada da consciência de uma história e de uma identidade comuns entre os povos africanos.\n\nO texto não trata de África do Norte e Oriente Médio (A), de socialismo (B), de caráter pacífico (C), que nem sempre houve, nem compara a colonização na América e na África (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "O conteúdo é o Maio de 1968 na França e o funcionamento da democracia.\n\nLefort afirma que o movimento não virou revolução, não apenas por ser estudantil, mas sobretudo porque a democracia é o regime \"no qual o conflito, por mais intenso que seja, geralmente encontra lugar\". Ou seja, a democracia admite o dissenso e a contestação como parte legítima da vida política, o que absorve o conflito sem ruptura revolucionária.\n\nA alternativa tentadora é B, mas o autor diz que o caráter estudantil não foi a razão principal (\"não ocorreu apenas porque\"). O texto não nega o caráter democrático do movimento (C), não critica seus líderes (D) nem fala em repressão (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "O conteúdo é a crise da democracia no Brasil recente.\n\nMarcos Nobre diz que a redemocratização, iniciada no fim do regime militar e consolidada com a Constituição de 1988, \"se encerrou\": a questão agora não é como implantar a democracia, mas \"o que fazer com ela\", além de encontrar um lugar autônomo para o país no mundo. O autor defende, portanto, que é preciso refletir sobre os rumos da democracia brasileira diante de um momento de risco.\n\nA alternativa A contradiz o texto, que afirma o fim da redemocratização; C e D não aparecem, já que o autor trata a autonomia como objetivo a buscar; e a democracia não foi implantada pelo regime militar (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "O conteúdo são as organizações do comércio internacional, aqui a OMC.\n\nA Organização Mundial do Comércio, criada em 1995 a partir do antigo GATT, administra as regras do comércio entre os países-membros: negocia e supervisiona acordos sobre tarifas e cotas, arbitra disputas comerciais e procura reduzir barreiras. O texto mostra exatamente isso: Brasil, União Europeia e Reino Unido redistribuíram, depois do Brexit, as cotas tarifárias de importação em memorando assinado na OMC.\n\nEmpréstimos a países emergentes são função do FMI e do Banco Mundial (A); o padrão dólar-ouro foi criado em Bretton Woods e abandonado em 1971 (B); a OMC não organiza a entrada de países em blocos (C); e paridade cambial não é sua atribuição (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "O conteúdo é a leitura do coeficiente de Gini, que mede a concentração de renda (quanto mais perto de 1, mais desigual).\n\nComparando 1990 e 2018 no gráfico:\nAmérica Latina e Caribe: 0,474 → 0,455 (queda)\nÁsia: 0,362 → 0,349 (pequena queda)\nEuropa: 0,270 → 0,316 (alta)\nAmérica do Norte: 0,346 → 0,415 (alta)\n\nA América Latina e o Caribe reduziram a concentração de renda, embora o índice tenha subido em 2000 antes de cair, e continuem a região mais desigual.\n\nNa Ásia o índice caiu, o contrário do que diz A; a Europa tem os menores índices do gráfico (B); Europa e América do Norte ficaram mais desiguais, o que derruba D; e a alta do Gini na América do Norte indica distribuição menos uniforme (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "O conteúdo é a expansão da agroindústria canavieira no Brasil.\n\nComparando os mapas, em 2015 as manchas mais escuras, de maior área plantada, concentram-se no interior de São Paulo e se estendem para o Triângulo Mineiro, o sul de Goiás e o Mato Grosso do Sul. Em 1990 a produção paulista já existia, mas era bem menos densa. A expansão acompanhou o crescimento do etanol, com os carros flex a partir de 2003, e a mecanização, que favorece terrenos planos.\n\nNão há expansão na Amazônia (A); a Zona da Mata nordestina perdeu importância relativa (C); o Centro-Oeste ganhou área, não perdeu (D); e o Sudeste, com São Paulo à frente, cresceu (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "O conteúdo são as transformações no mundo do trabalho e os tipos de desemprego.\n\nO cientista afirma que cerca de 70% do trabalho em 60% dos municípios brasileiros pode ser \"redesenhado\" pela automação, pela robotização e pela inteligência artificial, sobretudo em funções de salários mais baixos. Quando a tecnologia elimina postos de trabalho de forma permanente, temos o desemprego estrutural, que não depende das oscilações da economia e exige requalificação dos trabalhadores.\n\nA alternativa tentadora é B, mas desemprego conjuntural é o causado por crises econômicas passageiras e não seria reduzido pela IA. O avanço da IA aumenta a dependência de tecnologia (A) e não há indicação de que formalize o trabalho (C, D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "O conteúdo é a tectônica de placas, em especial o limite convergente com subducção.\n\nO bloco-diagrama mostra uma placa oceânica mergulhando sob outra placa (\"placa em subducção\", com a zona de Benioff, onde se concentram os terremotos). Na superfície, exatamente no ponto em que uma placa começa a descer sob a outra, forma-se uma depressão alongada e muito profunda no assoalho oceânico, assinalada por 1: a fossa oceânica, como a das Marianas ou a do Peru-Chile.\n\nA dorsal meso-oceânica (C) surge em limite divergente, onde as placas se afastam; os dobramentos (B) aparecem na placa que fica por cima, junto aos vulcões; depressão relativa e plataforma continental (D, E) são formas de relevo continental ou da margem do continente, não da zona de subducção.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "O conteúdo é a relação entre mudanças climáticas e incêndios florestais.\n\nO texto informa que os incêndios passaram a causar 3 milhões de hectares a mais de perda anual de cobertura florestal em 2021 do que em 2001. O aquecimento global eleva as temperaturas, prolonga as estiagens e torna mais frequentes as ondas de calor, deixando a vegetação mais seca e inflamável; os incêndios, por sua vez, liberam mais carbono, num ciclo que se retroalimenta.\n\nAgroflorestas (A) e terraceamento (C) são práticas de conservação, não de destruição; correntes convectivas (B) são movimentos do ar ou do manto, sem relação direta; e redução de irrigação (E) não explica a perda de florestas nativas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "O conteúdo é a formação dos furacões (ciclones tropicais).\n\nFuracões se formam sobre oceanos tropicais com água superficial quente, em geral acima de 26 °C. A água quente evapora em grande quantidade; ao subir e condensar, o vapor libera calor latente, que alimenta a baixa pressão no centro e acelera os ventos. Quanto mais quente o mar, mais energia o sistema recebe e maior pode ser sua categoria na escala Saffir-Simpson.\n\nAs outras alternativas indicam fatores que enfraquecem ou impedem o furacão: altas latitudes têm águas mais frias (B), o furacão é um centro de baixa pressão (D) e depende de muita umidade (E). Ventos contra-alísios (A) sopram em altitude e não são o motor do fenômeno.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "O conteúdo são as fontes renováveis de energia, aqui a biomassa.\n\nComunidades isoladas da Amazônia costumam depender de geradores a diesel, combustível fóssil caro e poluente. Usar o bagaço do açaí, um resíduo vegetal abundante na região, como biomassa troca essa fonte por uma renovável. O carbono liberado na queima foi retirado da atmosfera pelas plantas durante o crescimento, de modo que o saldo de emissões de gases do efeito estufa é bem menor que o do diesel.\n\nA biomassa não tem relação com placas fotovoltaicas (A) nem com CFCs, que afetam a camada de ozônio (B); ela reduz, e não aumenta, a dependência de fontes não renováveis (C); e aproveita, em vez de reduzir, a matéria orgânica vegetal (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "O conteúdo é sensoriamento remoto e aerofotogrametria.\n\nAs imagens aéreas são obtidas por câmeras em aviões ou drones, que voam a centenas ou poucos milhares de metros do solo; as de satélite, por sensores em órbita, a centenas de quilômetros. Por isso a imagem aérea capta a superfície a uma distância menor, o que costuma dar mais detalhe em áreas pequenas, enquanto o satélite cobre áreas muito maiores.\n\nAs imagens aéreas dependem justamente de aviões ou drones (A); satélites com radar obtêm imagens mesmo com nuvens e tempestades (C); o ângulo influencia a foto aérea (D); e o satélite cobre áreas amplas, não reduzidas (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "O conteúdo é cartografia temática, em particular a anamorfose.\n\nAnamorfose é o mapa em que a área de cada unidade (país, estado) é deformada de modo proporcional ao valor de uma variável, como população ou PIB, mantendo aproximadamente a posição relativa dos territórios. Países ricos aparecem inchados e países de PIB pequeno, encolhidos, o que torna a comparação imediata.\n\nCarta topográfica e mapa hipsométrico (A, E) representam o relevo e as altitudes; planta (C) é uma representação em escala muito grande de uma área pequena, como um bairro; e \"mapa ordenado\" (B) não designa esse tipo de representação.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "O conteúdo é a dinâmica de populações e a resistência do meio.\n\nO gráfico mostra crescimento acelerado até cerca de 50 dias, quando a população atinge o pico, perto de 145 indivíduos por 50 mL. Daí em diante ela cai continuamente até quase zero aos 140 dias. Num tubo de ensaio fechado, os nutrientes vão se esgotando e os resíduos se acumulam; com muitos indivíduos e poucos recursos, a competição intraespecífica fica mais intensa depois do pico, e a mortalidade supera a natalidade.\n\nOs recursos não foram abundantes o tempo todo (B), ou a população não teria despencado; no início, até 20 dias, a resistência do meio era pequena e a população crescia (C); depois de 80 dias ela continua caindo, sem estabilidade (D); e há uma única espécie, sem sobreposição de nichos entre espécies (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "O conteúdo é a síntese de glicoproteínas e o sistema de endomembranas.\n\nA parte proteica de uma glicoproteína é sintetizada pelos ribossomos aderidos ao retículo endoplasmático granular (rugoso), que a recebe em seu interior. Em seguida a proteína segue para o complexo golgiense, onde é glicosilada (recebe a parte glicídica), empacotada em vesículas e enviada à membrana plasmática. O glicocálice, camada de glicoproteínas e glicolipídios na face externa da membrana, atua no reconhecimento celular, por exemplo entre células de um mesmo tecido e pelo sistema imune.\n\nLisossomos fazem digestão intracelular, não síntese (B, D); o retículo agranular produz lipídios (C); e o glicocálice não é responsável pelo transporte ativo (A), função de proteínas transportadoras da membrana.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "O conteúdo é a caracterização do reino Fungi.\n\nCandida albicans é uma levedura, isto é, um fungo unicelular. Como todo fungo, é eucarionte (tem núcleo delimitado por membrana) e heterótrofo, pois não faz fotossíntese. Os fungos se nutrem por absorção: liberam enzimas digestivas no meio, digerem o alimento fora da célula e absorvem as moléculas resultantes. Essa é a digestão extracelular (ou extracorpórea).\n\nFungos não são procariontes (B, D), papel das bactérias, nem autótrofos (A, D); e a digestão intracorpórea, dentro de uma cavidade do corpo, é típica de animais (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "O conteúdo é o conceito biológico de espécie e o isolamento reprodutivo.\n\nPelo nome científico, os dois besouros pertencem ao mesmo gênero, Chrysomeles, mas a espécies diferentes (andersonii e albinatus). Indivíduos de espécies diferentes podem, em alguns casos, cruzar, mas os mecanismos de isolamento reprodutivo pós-zigóticos fazem com que os descendentes sejam inviáveis (morram cedo) ou estéreis. É isso que define espécies distintas: não produzem descendentes férteis entre si.\n\nO gênero é o mesmo, o que elimina A, e a família também (E), já que espécies do mesmo gênero estão na mesma família. As alternativas C e D falham porque os besouros não são da mesma espécie, e ser do mesmo subgênero não garante descendência viável.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "O conteúdo é o controle de vias metabólicas por retroalimentação negativa (feedback).\n\nA via é: precursor → X (enzima 1) → Y (enzima 2) → Z (enzima 3) → W (enzima 4) → produto final (enzima 5). O excesso de produto final inibe a enzima 3 e a expressão dos genes 2, 4 e 5. Sem a enzima 2 não se forma Y; sem a enzima 3 não se forma Z; sem a enzima 4 não se forma W. Logo, o excesso de produto inibe a síntese de Y, Z e W.\n\nA escassez de produto libera a via, sem acúmulo de X (B); a enzima 4 desnaturada diminui o produto e, assim, deixa a enzima 3 livre de inibição (A); o gene 5 atua depois de W (C); e W depende de X, cuja formação depende da enzima 1, codificada pelo gene 1 (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "O conteúdo é a embriologia animal, na fase de gástrula.\n\nNa gastrulação, parte da blástula se invagina e forma uma cavidade interna, o arquêntero, que se comunica com o exterior pelo blastóporo. O arquêntero dará origem à cavidade digestiva (tubo digestório). Nessa fase também se definem os folhetos germinativos: ectoderme e endoderme, e depois a mesoderme nos triblásticos.\n\nO celoma (A) é formado depois e revestido pela mesoderme; as câmaras cardíacas (B) surgem muito mais tarde; o blastóporo origina a boca nos protostômios (muitos invertebrados) e o ânus nos deuterostômios, que incluem os vertebrados, ao contrário do que diz C; e o sistema nervoso vem da ectoderme em vertebrados e invertebrados (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "O conteúdo são os tecidos vegetais de sustentação.\n\nO colênquima é um tecido permanente formado por células vivas, alongadas, com paredes primárias espessadas de modo irregular por celulose, pectina e hemicelulose, sem lignina. Isso lhe dá resistência e, ao mesmo tempo, flexibilidade, permitindo que galhos jovens, pecíolos e folhas se curvem com o vento sem quebrar.\n\nMeristema e câmbio (A, E) são tecidos de crescimento, não permanentes; o parênquima (C) tem paredes finas e funções de preenchimento, reserva e fotossíntese; e o xilema (D) conduz seiva bruta e tem células mortas lignificadas. O tecido de sustentação com células mortas e lignina é o esclerênquima, mais rígido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "O conteúdo é a ligação gênica (linkage) e o mapeamento por frequência de recombinação.\n\nO cruzamento é um cruzamento-teste: fêmea PpVv × macho ppvv. O macho só produz gametas pv, então o fenótipo de cada filhote revela o gameta da mãe. As classes mais frequentes (cinza normal e preta vestigial, 42% cada) são as parentais: a fêmea era PV/pv, em cis. As classes raras (cinza vestigial e preta normal, 8% cada) são recombinantes.\n\nFrequência de recombinação = 8% + 8% = 16%\nDistância = 16 unidades de recombinação (centimorgans)\n\nSe houvesse segregação independente (D), as quatro classes teriam 25% cada. O macho só produz gametas pv (A); o óvulo com p e v é parental, não recombinante (B); e ele corresponde a 42% dos óvulos, não 8% (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "O conteúdo são os tipos de fibras musculares esqueléticas.\n\nA mioglobina é a proteína que armazena oxigênio no músculo e dá a cor vermelha à carne. As coxas do frango, ave que anda e fica de pé o dia todo, têm fibras vermelhas, ricas em mioglobina e mitocôndrias, próprias para esforço prolongado e metabolismo aeróbico. O peito, que move as asas em voos curtos e explosivos, tem fibras brancas: a carne clara é pobre em mioglobina e favorece esforços de curta duração, com contração rápida e metabolismo predominantemente anaeróbico.\n\nAs outras combinações misturam as características: carne escura não é pobre em mioglobina (B) nem de contração para esforço curto (C); e carne clara não é rica em mioglobina (D, E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "O conteúdo é a seleção natural de Darwin e Wallace, em contraste com as ideias de Lamarck.\n\nPara a seleção natural, a variação já existe na população; o ambiente favorece os portadores das características mais vantajosas, que sobrevivem e se reproduzem mais. Em D, pirarucus com escamas dorsais mais escuras se camuflam melhor nas áreas sombreadas do rio e têm mais chance de sobreviver: é o ambiente selecionando uma variação preexistente.\n\nAs alternativas A, B e C atribuem a mudança a uma necessidade ou ao uso (\"aprimoraram\", \"desenvolver\", \"por serem consumidas\"), com herança do que foi adquirido, raciocínio lamarckista. A alternativa E descreve uma mudança sazonal de cor no próprio indivíduo, que não altera a variabilidade genética.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Mudanças de estado físico e troca de calor.\n\nNa mudança 1, o vapor d'água do ar encosta no copo frio e vira líquido: é **condensação** (passagem de gasoso para líquido). Para isso o vapor precisa perder calor para o copo, então o processo é **exotérmico**.\n\nNa mudança 2, o gelo derrete: é **fusão** (sólido → líquido). O gelo precisa receber calor do ambiente para quebrar a organização do retículo cristalino, logo o processo é **endotérmico**.\n\nA alternativa A erra ao chamar a fusão de exotérmica; a E confunde condensação com sublimação, que é a passagem direta entre sólido e gasoso.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Alotropia e o conceito de substância.\n\nTodas as espécies da figura são formadas por um único elemento químico, o oxigênio: átomos isolados (O), gás oxigênio (O₂) e ozônio (O₃).\n\nO₂ e O₃ são substâncias simples diferentes do mesmo elemento, que diferem pela atomicidade: são **alótropos** do oxigênio.\n\nIsótopos seriam átomos do mesmo elemento com números de massa diferentes, e isóbaros, átomos de elementos diferentes com mesmo número de massa; nada disso aparece no processo, em que o que muda é o número de átomos por molécula. Por isso o processo envolve um elemento químico e dois alótropos.\n\nAs alternativas D e E falam em \"três substâncias\", mas o átomo de oxigênio isolado é uma espécie reativa intermediária, não uma substância como O₂ e O₃; e de qualquer forma isóbaros (E) não se aplica.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Fórmula de composto iônico e distribuição eletrônica de íons.\n\nO lítio é metal alcalino (grupo 1), forma o cátion Li⁺. Para neutralizar a carga 2− do carbonato, são necessários dois íons Li⁺:\n2 × (+1) + (−2) = 0 → Li₂CO₃\n\nDistribuição eletrônica: o átomo de Li (Z = 3) é 1s² 2s¹. Ao formar Li⁺, ele perde o elétron mais externo (2s¹), ficando com 2 elétrons:\nLi⁺: 1s²\n\nA alternativa A traz a fórmula certa, mas a distribuição do átomo neutro, não a do íon. As fórmulas LiCO₃ e Li(CO₃)₂ não fecham as cargas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Elementos químicos nas biomoléculas.\n\nO poema cita o carbono (C) e o amoníaco (NH₃), que traz nitrogênio (N) e hidrogênio (H). Logo, a molécula procurada precisa conter C, H e N.\n\nPolissacarídeos e carboidratos em geral são formados por C, H e O; lipídios e ácidos graxos, essencialmente também por C, H e O (sem nitrogênio na forma geral cobrada). Já as **enzimas** são proteínas, formadas por aminoácidos, que têm o grupo amino (–NH₂): contêm C, H, O e N. Portanto, só nelas aparecem todos os elementos citados no poema.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Concentração de soluções e proporção.\n\nMedicamento: 400 mg estão distribuídos em 240 mL. Em 30 mL há:\n30 ÷ 240 = 1/8\n400 mg × 1/8 = 50 mg = 0,05 g\n\nGlicose: o soro é 5% (m/v), ou seja, 5 g de glicose a cada 100 mL. Em 30 mL:\n30 × 5 ÷ 100 = 1,5 g\n\nO erro comum é calcular a glicose sobre os 240 mL (12 g) ou usar 4% em vez de 5% (1,2 g, como em A e D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Eletroquímica: potenciais padrão de redução e pilhas.\n\nNa figura, o cobre tem E° = +0,34 V em relação ao hidrogênio (os elétrons vão do H₂ para o cobre: o cobre reduz).\n\nCom o metal M no lugar do cobre, a ddp é 0,44 V e os elétrons saem de M para o eletrodo de hidrogênio: M se oxida, então seu potencial de redução é negativo:\nE°(M) = −0,44 V\n\nNa pilha M/Cu, quem tem maior potencial de redução (cobre) é o cátodo, e M é o ânodo:\nΔE = E°(cátodo) − E°(ânodo) = 0,34 − (−0,44) = 0,78 V\n\nA alternativa tentadora 0,10 V vem de subtrair 0,44 − 0,34 esquecendo que o potencial de M é negativo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "pH, concentração de H⁺ e hidrólise de ânions.\n\npH = −log[H⁺]. A água 1 tem pH 6,07 e a água 2, pH 10,0: diferença de cerca de 4 unidades. Como cada unidade de pH corresponde a um fator 10, a [H⁺] da água 1 é cerca de 10⁴ vezes **maior** que a da água 2.\n\nO pH elevado da água 2 se deve a íons que deixam o meio básico. Bicarbonato (HCO₃⁻) e carbonato (CO₃²⁻) são ânions de ácido fraco (ácido carbônico) e sofrem hidrólise, produzindo OH⁻:\nCO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻\nHCO₃⁻ + H₂O ⇌ H₂CO₃ + OH⁻\n\nNa⁺ e K⁺ vêm de bases fortes e não alteram o pH; o nitrato vem de ácido forte e também não. Além disso, a água 2 tem muito mais bicarbonato e carbonato.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Indicadores ácido-base e caráter das soluções.\n\nO equilíbrio mostra que a forma rosa aparece junto com a liberação de H₃O⁺. Em meio básico, o OH⁻ consome o H₃O⁺ e desloca o equilíbrio para a forma rosa (princípio de Le Chatelier). Como a viragem ocorre por volta de pH 8, a fenolftaleína fica rosa em solução básica.\n\nAgora o caráter de cada solução:\nAl₂(SO₄)₃: sal de base fraca e ácido forte → ácida\nHCl: ácido forte → ácida\nNH₄Cl: sal de base fraca e ácido forte → ácida\nNH₄OH: base (fraca) → básica\nKNO₃: sal de ácido e base fortes → neutra\n\nSó o NH₄OH tem pH acima de 8.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Eletrólise e estequiometria com a constante de Faraday.\n\nMassa de alumínio de uma lata: 13,5 g. Com massa molar 27 g/mol:\nn(Al) = 13,5 ÷ 27 = 0,5 mol\n\nPela semirreação, cada mol de Al exige 3 mol de elétrons:\nn(e⁻) = 0,5 × 3 = 1,5 mol\n\nCarga: Q = 1,5 × 96 500 = 144 750 C\n\nTempo com corrente de 10 A: Q = i · t\nt = 144 750 ÷ 10 = 14 475 s\n14 475 ÷ 60 ≈ 241 min, ou seja, cerca de 240 minutos.\n\nEsquecer o fator 3 dos elétrons leva a cerca de 80 minutos, que não está entre as opções; usar a massa errada leva às demais.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Funções orgânicas e hibridização do carbono.\n\nNo 2,4-D há dois grupos oxigenados:\n\nUm oxigênio entre o anel benzênico e o grupo CH₂: Ar–O–CH₂ é um **éter**. Esse oxigênio está ligado diretamente a um carbono do anel aromático, que é sp² (faz ligações duplas alternadas).\n\nO grupo –COOH (ácido carboxílico) está preso ao CH₂, que é carbono sp³ (só ligações simples).\n\nA pergunta pede o grupo oxigenado ligado a um carbono sp²: é o éter, cujo oxigênio se prende ao anel.\n\nNão há éster (não existe –COO– entre duas cadeias carbônicas), nem álcool (o OH está no carboxila) nem cetona.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "O enunciado é ambíguo: o próprio carbono da carboxila é sp²; o gabarito considera o carbono ao qual o grupo está preso (anel aromático, no caso do éter; CH₂ sp³, no caso do ácido)."
+  },
+  "0:61": {
+   "resposta": "Conversão de unidades.\n\nO texto informa que 40 mil pés correspondem a cerca de 12,2 km. Basta dividir:\n12,2 km = 12 200 m = 1 220 000 cm\n1 220 000 cm ÷ 40 000 = 30,5 cm\n\nLogo, 1 pé ≈ 30,5 cm (o valor exato é 30,48 cm). A alternativa B (25,4 cm) é o tamanho de 10 polegadas, confusão comum entre unidades inglesas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Cinemática: velocidade média.\n\nPrimeiro converter a velocidade para m/s:\n108 km/h ÷ 3,6 = 30 m/s\n\nDistância percorrida em 0,4 s:\nΔs = v · Δt = 30 × 0,4 = 12 m\n\nComo a velocidade dada é média, não importa se a bola desacelera um pouco no caminho: a distância é sempre o produto da velocidade média pelo intervalo de tempo. O erro típico é não converter a unidade (108 × 0,4 = 43,2, sem sentido) ou dividir por 3,6 de forma errada.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Equilíbrio e força de atrito estático.\n\nA toalha está em repouso, então a resultante das forças sobre ela é nula. Como L₁ e L₂ são diferentes, o peso de um lado é maior que o do outro, e a toalha tenderia a escorregar para o lado mais pesado. Quem impede é o **atrito estático** entre a toalha e o suporte, que surge contrário a essa tendência de movimento, com intensidade exatamente suficiente para equilibrar o sistema (até o seu valor máximo).\n\nA alternativa A erra ao dizer que o atrito supera o peso total; C e E comparam o atrito com o peso de um lado apenas, o que não descreve a condição de equilíbrio; e em D, no equilíbrio vertical a soma da normal com o atrito equilibra o peso, a normal não precisa ser maior que ele.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Energia mecânica e dissipação em colisões.\n\nDesprezando o ar, toda a perda de energia mecânica acontece na colisão com o solo. Basta comparar a energia potencial no ponto de soltura com a do ponto mais alto após o quique (nos dois a velocidade é zero):\n\nm = 600 g = 0,6 kg\nE inicial = m · g · h = 0,6 × 10 × 1,90 = 11,4 J\nE final = 0,6 × 10 × 1,50 = 9,0 J\nE dissipada = 11,4 − 9,0 = 2,4 J\n\nA alternativa E (9,0 J) é a energia que sobra, não a dissipada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Hidrostática: pressão de uma coluna de líquido (Stevin).\n\nA pressão hidrostática no fundo é p = ρ · g · h. Como ρ e g são constantes, a taxa de variação da pressão é ρ · g vezes a taxa de subida do nível:\n\nΔh/Δt = 5,0 cm/min = 0,05 m/min\nΔp/Δt = 1,0 × 10³ × 10 × 0,05 = 500 Pa/min = 5,0 × 10² Pa/min\n\nNote que a forma e a área da base do tanque não importam: a pressão depende só da altura da coluna. O erro comum é não converter centímetros para metros.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Calorimetria: calor sensível com potência constante.\n\nO calor necessário é Q = m · c · ΔT, e com potência constante o tempo é proporcional a Q, logo proporcional a ΔT (mesma massa de água).\n\nSantos: ΔT = 100 − 20 = 80 °C, em 15 min.\nCidade do México: ΔT = 92 − 20 = 72 °C.\n\nt = 15 × 72 ÷ 80 = 13,5 min\n\nA água ferve antes por causa da menor pressão atmosférica na altitude, e por isso precisa de menos calor para chegar à ebulição.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Lentes convergentes: pontos conjugados e foco.\n\nMedindo na figura: os raios partem de um ponto do eixo a 2d de L₁ e, depois de L₁, voltam a se cruzar no eixo a 2d de L₁ (do outro lado). Pela equação de Gauss:\n1/f₁ = 1/p + 1/p' = 1/(2d) + 1/(2d) = 1/d → f₁ = d\n(objeto no ponto antiprincipal, imagem no ponto antiprincipal do outro lado.)\n\nEsse ponto de cruzamento está a d de L₂, e os raios saem de L₂ paralelos ao eixo. Raios que passam pelo foco objeto saem paralelos, então esse ponto é o foco de L₂:\nf₂ = d\n\nPortanto f₁ = f₂. A soma das distâncias confere: 2d + d = 3d entre as lentes.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Pêndulo simples: frequência e comprimento.\n\nPela expressão dada, f é proporcional a 1/√L. Quadruplicando L:\nf' = f ÷ √4 = f ÷ 2\n\nSe o pêndulo fazia 40 oscilações por minuto, passa a fazer:\n40 ÷ 2 = 20 oscilações por minuto\n\nNote que a frequência não depende da massa nem da amplitude (para pequenas oscilações), só de L e g. O erro típico é dividir por 4 (10, alternativa B), esquecendo a raiz quadrada.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Corrente elétrica e carga: interpretação de gráfico.\n\nA corrente é a taxa de passagem de carga: i = ΔQ/Δt, ou seja, ΔQ = i · Δt. Em um gráfico de corrente em função do tempo, cada faixa estreita tem área i · Δt, que é carga. Somando todas, a área sob a curva é a **carga elétrica** total que passou pela bateria durante o carregamento (aqui em mA·h, unidade comum de capacidade de baterias).\n\nEnergia exigiria multiplicar também pela tensão; potência, resistência e ddp não são áreas desse gráfico.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Força magnética sobre carga em movimento.\n\nCom velocidade perpendicular ao campo uniforme, a força magnética é sempre perpendicular à velocidade e tem módulo constante: a partícula descreve um movimento circular uniforme no plano da figura (o plano perpendicular a B).\n\nSentido, pela regra da mão direita (carga positiva): v aponta para a direita e B entra na folha. A força F = q · v × B aponta para cima no instante da entrada. Assim, a partícula entra indo para a direita e curva para cima, girando no sentido **anti-horário** para quem olha a figura.\n\nTrajetória parabólica só ocorreria com força constante em direção (como o peso), o que não é o caso; e a trajetória não sai do plano, pois a força não tem componente ao longo de B.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Equação diofantina (soluções inteiras de equação linear).\n\nSeja C a cafeína de uma xícara da marca C. Queremos 0,10 · x · C + 0,04 · y · C = C:\n10x + 4y = 100 → 5x + 2y = 50\n\nPara y ser inteiro, x precisa ser par, com 5x ≤ 50:\nx = 0 → y = 25\nx = 2 → y = 20\nx = 4 → y = 15\nx = 6 → y = 10\nx = 8 → y = 5\nx = 10 → y = 0\n\nSão 6 pares com inteiros não negativos, como pede o enunciado. Só se excluirmos os pares com zero, entendendo que \"x xícaras da marca A junto com y da marca B\" exige as duas marcas, restam 4 pares: (2, 20), (4, 15), (6, 10) e (8, 5), que é o número do gabarito oficial.\n\n**Resposta: B**",
+   "confianca": "baixa",
+   "pendencia": "Com \"inteiros não negativos\", como diz o enunciado, há 6 pares (alternativa C); o gabarito oficial (4) só sai excluindo os pares com x = 0 ou y = 0."
+  },
+  "0:72": {
+   "resposta": "Probabilidade com espaço amostral equiprovável.\n\nLançando os dois dados há 6 × 6 = 36 resultados igualmente prováveis. Uma face apagada vale 0 (nenhum ponto).\n\nDado 1: {0, 2, 3, 4, 5, 6} (sem o 1)\nDado 2: {1, 2, 3, 0, 5, 6} (sem o 4)\n\nSomas iguais a 7 em dados comuns: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Agora:\n(1,6) não ocorre, pois o 1 do dado 1 foi apagado.\n(3,4) não ocorre, pois o 4 do dado 2 foi apagado.\nRestam (2,5), (4,3), (5,2), (6,1): 4 casos. A face 0 não ajuda, pois exigiria um 7 no outro dado.\n\nP = 4 ÷ 36 = 1/9\n\nO erro comum é responder 1/6, a probabilidade com dados normais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Ângulos internos de polígonos regulares.\n\nOs três polígonos se encaixam em torno do vértice Q sem sobreposição, então a soma dos ângulos internos em Q é 360°.\n\nQuadrado: 90°\nHexágono regular: 180° × 4 ÷ 6 = 120°\nPn: 360° − 90° − 120° = 150°\n\nÂngulo interno de um polígono regular de n lados: 180° · (n − 2) ÷ n = 150°\n180n − 360 = 150n → 30n = 360 → n = 12\n\nOu pelo ângulo externo: 180° − 150° = 30°, e 360° ÷ 30° = 12 lados.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Potências de mesma base e soma de progressão aritmética.\n\nCada fator é 16/2ⁿ = 2⁴/2ⁿ. O produto dos 16 primeiros (n de 1 a 16) é:\nnumerador: (2⁴)¹⁶ = 2⁶⁴\ndenominador: 2¹ · 2² · … · 2¹⁶ = 2^(1 + 2 + … + 16)\n\nSoma da PA: 1 + 2 + … + 16 = 16 × 17 ÷ 2 = 136\n\nProduto = 2⁶⁴ ÷ 2¹³⁶ = 2^(64 − 136) = 2⁻⁷²\n\nA alternativa A (2⁶⁴) considera só o numerador.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Porcentagem: propriedades e aumentos/descontos sucessivos.\n\nAna: x% de y = x · y/100 e y% de x = y · x/100. São iguais: correto.\n\nBeto: desconto de x% leva y a y(1 − x/100); o acréscimo de x% sobre esse valor dá y(1 − x/100)(1 + x/100) = y(1 − x²/10 000), que é menor que y para x > 0. Ex.: 100 com 10% de desconto vira 90, e 10% de acréscimo leva a 99. Incorreto.\n\nCléo: y − (x/100)y = (100 − x)y/100. Correto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Trigonometria no triângulo retângulo e área.\n\nEP é altura comum dos triângulos retângulos MEP e REP (ângulo reto em P).\n\nNo triângulo REP, o ângulo em E é 45°, então ele é isósceles:\nEP = PR = 12 cm\n\nNo triângulo MEP, o ângulo em E é 30°:\ntg 30° = MP/EP → MP = 12 × √3/3 = 4√3 cm\n\nBase MR = 12 + 4√3, altura EP = 12:\nÁrea = (12 + 4√3) × 12 ÷ 2 = 72 + 24√3 = 24(3 + √3) = 24(√3 + 3) cm²\n\nO cuidado está em usar tangente (cateto oposto/cateto adjacente) e não seno ou cosseno para achar MP.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Área total de prismas: o que muda ao cortar.\n\nAo separar os prismas, todas as faces do bloco original continuam existindo (divididas entre as peças), e surgem duas cópias da superfície de corte, uma em cada prisma. Basta achar a área do corte.\n\nO corte é vertical (ocupa toda a altura de 5 cm) e, visto de cima, segue uma linha em \"escada\" de segmentos perpendiculares entre si. Os degraus paralelos à largura somam a largura toda, 9 cm. Os degraus paralelos ao comprimento somam a diferença entre as profundidades da peça azul nas duas laterais: 7 − 4 = 3 cm.\n\nComprimento da escada: 9 + 3 = 12 cm\nÁrea do corte: 12 × 5 = 60 cm²\nAcréscimo total: 2 × 60 = 120 cm²\n\nO erro típico é contar a superfície de corte uma vez só (60 cm²) ou esquecer os degraus longitudinais (2 × 9 × 5 = 90 cm²).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Geometria analítica: retas perpendiculares.\n\nRua São Lucas: passa por (0, −1) e (2, 0). Coeficiente angular:\nm = (0 − (−1)) ÷ (2 − 0) = 1/2\nEquação: y = x/2 − 1 (confere: x = 8 dá y = 3).\n\nRua São Camilo é perpendicular, logo m' = −1/m = −2, e passa por (8, 3):\ny − 3 = −2(x − 8)\n\nNo eixo x, y = 0:\n−3 = −2(x − 8) → x − 8 = 3/2 → x = 19/2\n\nO ponto é (19/2, 0). Usar m' = −1/2 em vez de −2 (inverter sem trocar) leva a (14, 0), fora das opções; usar m' = 2 leva a 13/2.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Média aritmética e mediana com leitura de gráfico.\n\nLucro em cada ano (receitas − despesas, em milhares de reais):\n2019: 1200 − 1000 = 200\n2020: 1100 − 900 = 200\n2021: 900 − 1000 = −100\n2022: 1400 − 900 = 500\n\nL = (200 + 200 − 100 + 500) ÷ 4 = 800 ÷ 4 = 200\n\nReceitas em ordem: 900, 1100, 1200, 1400. Com quatro valores, a mediana é a média dos dois centrais:\nM = (1100 + 1200) ÷ 2 = 1150\n\nMédia entre L e M: (200 + 1150) ÷ 2 = 675\n\nO deslize mais comum é tratar o prejuízo de 2021 como +100, o que daria L = 250 e 700.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Equação do 2º grau: discriminante e relações de Girard.\n\nDuas raízes reais distintas: Δ > 0\nΔ = 16 − 4c > 0 → c < 4\n\nRaízes não negativas: pelas relações de Girard, soma = 4 (positiva) e produto = c. Para as duas serem ≥ 0, o produto não pode ser negativo:\nc ≥ 0\n(Com c = 0, as raízes são 0 e 4, ambas não negativas.)\n\nJuntando: 0 ≤ c < 4.\n\nA alternativa B esquece que c ≤ 4 inclui c = 4 (raiz dupla) e valores negativos de c, que dão uma raiz negativa.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

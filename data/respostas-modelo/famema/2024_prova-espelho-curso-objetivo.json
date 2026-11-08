@@ -1,0 +1,172 @@
+{
+ "indice": "data/questoes/famema/2024_prova-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "2:1": {
+   "resposta": "A questão pede a **leitura da sequência narrativa** da tirinha. Os quadrinhos mostram a cena de trás para a frente: no primeiro, o personagem está cravado no chão ao pé do penhasco; no segundo e no terceiro, ele sobe pelo ar; no último, está de volta ao alto, em pé, inteiro. É uma queda \"rebobinada\", como um filme passado ao contrário.\n\nA fala \"Infelizmente na vida real isto não é possível!\" revela o desejo frustrado: poder desfazer o que aconteceu, voltar no tempo e anular um erro irreversível. Ou seja, ele queria que o tempo fosse reversível.\n\nA (C) é tentadora, mas a tirinha não mostra o tempo passando devagar, e sim andando para trás. As demais (tempo obscuro, previsível ou inexistente) não têm apoio nas imagens.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:2": {
+   "resposta": "O conteúdo é **funções da linguagem e recursos expressivos**. Metalinguagem é quando a linguagem fala de si mesma, quando um código se volta para o próprio código: um poema sobre fazer poemas, um filme sobre o cinema, uma tirinha sobre a tirinha.\n\nNa tirinha, a cena da queda invertida só é possível no mundo dos quadrinhos, em que o desenhista pode organizar os quadros na ordem que quiser. Ao dizer que \"na vida real isto não é possível\", o próprio personagem chama a atenção para o fato de estar dentro de uma história desenhada e comenta os recursos dessa linguagem. O humor nasce justamente dessa reflexão sobre o meio.\n\nNão há duplo sentido em jogo (A), nem atenuação de algo desagradável (C), nem referência a outra obra (D). A cena é absurda, mas não é um exagero de linguagem (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:6": {
+   "resposta": "O recurso central do conto é a **personificação** (ou prosopopeia): atribuir a seres inanimados características humanas.\n\nA nota de cinco mil cruzeiros fica \"preocupada\", ouve o \"zum-zum\" do almoxarifado, sente-se \"garbosa\" e cheia de \"minhocas na cabeça\", fala, se inquieta, conversa com a nota de cinco milhões que a chama de \"Maninha\". Por meio dessas cédulas humanizadas, Drummond faz uma crítica bem-humorada à inflação, que corrói o valor do dinheiro até a \"maravilhosa nota zero\".\n\nHá passagens com exagero, como a do infinito dos números, mas a hipérbole (A) não é o que estrutura o conto: o texto inteiro depende de as notas pensarem e sentirem como pessoas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:7": {
+   "resposta": "A questão trata de **discurso direto, indireto e indireto livre**. Procura-se um trecho em que se ouçam, juntas, a voz do narrador e a de um personagem.\n\nEm (E), a pergunta \"Quando chegar minha vez de andar por aí [...] quanto valerão meus cinco mil?\" é o pensamento da própria nota, em primeira pessoa (\"minha\", \"meus\"). No meio dela, o narrador intervém com \"receia a nota de cinco mil\", identificando quem fala e o seu estado de espírito. As duas vozes convivem na mesma frase.\n\nEm (A) e (B) só fala o narrador, em terceira pessoa. Em (C) e (D) há apenas a fala de um personagem, introduzida por travessão, sem intervenção do narrador no trecho citado.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:8": {
+   "resposta": "O conteúdo é **coesão referencial e classes do \"a\"**. A palavra \"a\" pode ser artigo, preposição ou pronome; só como pronome oblíquo ela retoma algo já dito.\n\nEm (C), \"sem que **a** retirassem do almoxarifado\", o \"a\" é pronome oblíquo átono e funciona como objeto direto de \"retirassem\": retoma \"a nota de cinco mil cruzeiros\", mencionada no início do parágrafo.\n\nNas outras: em (A), \"nos resumirá a todas\", e em (D), \"passará a escrever\", é preposição; em (B), \"a nota de cinco mil\", e em (E), \"a semente de tangerina\", é artigo definido, que acompanha um substantivo em vez de substituí-lo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:9": {
+   "resposta": "O conteúdo é **figuras de linguagem: onomatopeia**, palavra que imita um som.\n\nEm (B), \"zum-zum\" reproduz o murmúrio de muitas vozes falando baixo ao mesmo tempo, o boato que circula no almoxarifado. A própria forma da palavra, com a repetição do som \"zum\", imita o ruído.\n\nNas outras alternativas não há palavra formada a partir de um som: há comparações de tamanho (\"medalha de chocolate\", \"semente de tangerina\", \"ficha de ônibus\"), antíteses (\"grandezas\" e \"insignificâncias\") e a imagem da \"nota zero\", mas nenhuma delas imita ruído.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:10": {
+   "resposta": "O conteúdo é **orações subordinadas adverbiais reduzidas**. Em \"Ao ser desenhada, sentira-se toda garbosa\", a oração \"Ao ser desenhada\" é reduzida de infinitivo, introduzida por \"ao\" (a + o).\n\nA construção \"ao + infinitivo\" indica, em geral, tempo: equivale a \"Quando foi desenhada, sentira-se toda garbosa\". A nota se sentiu orgulhosa no momento em que foi desenhada.\n\nA substituição confirma: \"para ser desenhada\" (finalidade) ou \"se fosse desenhada\" (condição) mudariam o sentido e não combinam com o fato narrado, que já aconteceu.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:11": {
+   "resposta": "A ideia é **porcentagem e sistema de proporções**.\n\nFutebol: 55% de 160 = 88 alunos.\n\nSobram 160 − 88 = 72 alunos para os outros três esportes. Chamando de b o número de quem escolheu basquete:\n\nvôlei = 2b\n\nhandebol = (3/5)·b\n\nb + 2b + (3/5)·b = 72 → (18/5)·b = 72 → b = 20\n\nVôlei = 40 e handebol = 12.\n\nO menos votado é o handebol:\n\n12 ÷ 160 = 0,075 = 7,5%\n\nO cuidado é não parar no basquete (20 alunos, 12,5%) nem confundir os percentuais: a (C) traz justamente o 12,5% do basquete atribuído ao handebol.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:13": {
+   "resposta": "O conteúdo é **semelhança de triângulos** com geometria em malha. Perímetro 18 com 18 segmentos de 1 cm: pela figura, o retângulo tem 6 cm de base e 3 cm de altura (2·6 + 2·3 = 18).\n\nContando as marcas: A está a 1 cm do canto superior esquerdo e B a 4 cm, logo AB = 3. D é o canto inferior esquerdo e E está a 5 cm dele, logo DE = 5.\n\nComo AB é paralelo a DE, os triângulos ABC e EDC são semelhantes, com razão 3 : 5. As alturas relativas a AB e a DE somam 3 cm e estão na mesma razão:\n\nh = 3 × 3 ÷ (3 + 5) = 9/8 cm\n\nÁrea de ABC = (3 × 9/8) ÷ 2 = 27/16 cm²\n\nO erro comum é supor que C fica no meio da altura (h = 1,5), o que daria 9/4, valor que não aparece nas opções.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:14": {
+   "resposta": "O conteúdo é **função quadrática: raízes**. Os pontos em que o gráfico corta o eixo x são as raízes de f(x) = 0:\n\nx² − 2x − 24 = 0\n\nΔ = (−2)² − 4·1·(−24) = 4 + 96 = 100\n\nx = (2 ± 10) ÷ 2 → x = 6 ou x = −4\n\nOs pontos são (−4, 0) e (6, 0), e a distância entre eles é:\n\n6 − (−4) = 10\n\nO erro típico é subtrair as raízes sem considerar o sinal (6 − 4 = 2, alternativa B).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:15": {
+   "resposta": "A ideia é **média aritmética**.\n\nSoma dos seis registros: 9 + 10 + 15 + 18 + 20 + 21 = 93\n\nMédia dos seis: 93 ÷ 6 = 15,5\n\nTestando a eliminação de cada candidato, a média dos cinco restantes fica:\n\nsem 15: 78 ÷ 5 = 15,6\n\nsem 10: 83 ÷ 5 = 16,6; sem 18: 75 ÷ 5 = 15; sem 20: 73 ÷ 5 = 14,6; sem 21: 72 ÷ 5 = 14,4\n\nO único caso em que as duas médias diferem exatamente 0,1 é a eliminação de quem listou 15 objetos.\n\nAtenção: nesse caso é a média dos cinco (15,6) que fica 0,1 maior que a dos seis (15,5), e não o contrário. Lido ao pé da letra, o enunciado pede a média dos seis maior, o que exigiria eliminar 16, valor que não está na lista. O gabarito só se sustenta lendo a comparação no sentido inverso.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "O enunciado diz que a média dos seis ficou 0,1 maior que a dos cinco, mas com o 15 eliminado ocorre o inverso (15,6 contra 15,5); o gabarito B só vale invertendo a comparação."
+  },
+  "2:16": {
+   "resposta": "O conteúdo é **poliedros: relação de Euler**, V − A + F = 2, que é o mesmo que dizer que A = V + F − 2.\n\nNo dodecaedro, V = 20 e F = 12:\n\nA = 20 + 12 − 2 = 30\n\nCada aresta é compartilhada por exatamente duas faces. Se cada uma das 12 faces tem n lados:\n\n12·n = 2·30 → n = 5\n\nAs faces são pentágonos regulares.\n\nO erro típico é esquecer que cada aresta pertence a duas faces e fazer 12·n = 30, que não dá número inteiro, ou confundir o número de faces (12) com o número de lados (C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:18": {
+   "resposta": "O conteúdo é **trigonometria no triângulo retângulo**. O triângulo PQR é retângulo em R, com hipotenusa PQ = 9 m e ângulo de 60° em P. A distância horizontal PR é o cateto adjacente:\n\nPR = 9 · cos 60° = 9 × 0,5 = 4,5 m = 450 cm\n\nPela figura, cada degrau avança 18 cm na horizontal (a extensão do degrau), e o último termina exatamente na vertical de Q. Então o número de degraus é:\n\n450 ÷ 18 = 25\n\nO erro típico é usar o seno em vez do cosseno: 9 · sen 60° ≈ 7,79 m, que não daria um número inteiro de degraus de 18 cm.\n\nAs alternativas não aparecem no recorte desta questão; foram conferidas no PDF do caderno.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:19": {
+   "resposta": "O conteúdo é **função exponencial**. O ponto em que o gráfico corta o eixo das ordenadas é f(0):\n\nf(0) = k · 2^(2·0 + 3) = k · 2³ = 8k\n\nComo f(0) = 24:\n\n8k = 24 → k = 3\n\nO erro típico é esquecer o \"+3\" do expoente e concluir que k = 24, ou tratar 2³ como 2 · 3 = 6, o que daria k = 4 (A).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:20": {
+   "resposta": "O conteúdo é **geometria espacial: cubo, diagonal de face e pontos notáveis**. Aresta 8 m; o caminho tem seis trechos:\n\nPT: aresta vertical, de um vértice superior ao vértice do chão logo abaixo = 8\n\nTS: diagonal do chão = 8√2\n\nSN: de um vértice até o ponto médio de uma aresta = 4\n\nNR: do ponto médio da aresta inferior até o centro da face lateral = 4\n\nRM: do centro da face até o ponto médio de uma aresta vertical = 4\n\nMQ: do ponto médio dessa aresta até o centro da face vizinha = 4\n\nTotal = 8 + 8√2 + 4·4 = 24 + 8√2\n\nCom √2 ≈ 1,4142: 8√2 ≈ 11,31, e o total ≈ 35,31 m, entre 35,1 e 35,4.\n\nO cuidado é identificar bem cada ponto: N e M são pontos médios de arestas e R e Q são centros de faces, por isso os quatro últimos trechos medem metade da aresta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:21": {
+   "resposta": "O tema é **blocos econômicos e acordos comerciais**. A imagem junta duas bandeiras: à esquerda, o Cruzeiro do Sul com a faixa verde, símbolo do **Mercosul**; à direita, o círculo de estrelas douradas da **União Europeia**.\n\nO acordo Mercosul–União Europeia, negociado por mais de duas décadas, prevê a redução de tarifas e regras comuns para o comércio entre os dois blocos. Por envolver muitos países e dois blocos ao mesmo tempo, é um exemplo de **multilateralismo**, a negociação entre vários atores em vez de acordos de um país só.\n\nAs demais alternativas não correspondem às bandeiras: a ALCA nunca foi concretizada, o USMCA substituiu o NAFTA na América do Norte e a ZCLCA é a zona de livre-comércio africana.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:22": {
+   "resposta": "O tema é a **Guerra Civil Síria** (desde 2011). Comparando os mapas, em 2016 o território estava fragmentado entre o governo de Bashar al-Assad (cinza-azulado, concentrado no oeste), os rebeldes (vermelho), o Estado Islâmico (laranja, ocupando boa parte do centro e do leste) e as forças curdas (amarelo, no norte).\n\nEm 2018, a cor do governo se espalha pelo centro e pelo leste, sobre as áreas antes do Estado Islâmico, e os rebeldes ficam restritos a bolsões como Idlib. Essa retomada foi possível com a intervenção militar da **Rússia**, a partir de 2015, aliada de Assad, além do apoio do Irã.\n\nA (E) erra o aliado: os EUA apoiaram grupos de oposição e os curdos, não o governo sírio. A (D) cita a Doutrina Bush, ligada à \"guerra ao terror\" após 2001, sem relação com o recuo do Estado Islâmico na Síria.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:23": {
+   "resposta": "O conteúdo é **pedologia: formação e tipos de solo**. Latossolos são solos típicos de clima tropical quente e úmido, como os do Cerrado e de boa parte da Amazônia.\n\nCalor e chuva abundante aceleram o intemperismo químico, que decompõe profundamente a rocha. Por isso os latossolos são muito profundos e muito evoluídos, com horizontes bem desenvolvidos e quase sem fragmentos da rocha original. A água que infiltra com facilidade (alta permeabilidade) arrasta os nutrientes, o que explica a baixa fertilidade natural citada no texto. Ou seja, eles têm **alto grau de intemperização**.\n\nAs alternativas (C) e (D) descrevem solos jovens e rasos, e a (B) contraria a forte lixiviação. Matéria orgânica abundante (A) caracteriza outros solos, não os latossolos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:24": {
+   "resposta": "O tema é **fatores do clima**. Neve no Brasil exige temperaturas muito baixas, o que depende da combinação de latitude e altitude.\n\nA Serra Catarinense fica por volta de 28° S, entre 20° S e 30° S, ou seja, ao sul do trópico de Capricórnio, na zona temperada, onde as massas de ar polar chegam com mais força no inverno. Além disso, cidades como São Joaquim e Urubici estão a mais de 1 000 m de altitude, e a temperatura cai cerca de 0,6 °C a cada 100 m de subida.\n\nA (A) erra a latitude: entre 10° S e 20° S estamos em plena zona tropical. A (D) cita uma longitude, que não interfere na temperatura. A (B) também se apoia na longitude e em coxilhas, relevo baixo típico da Campanha Gaúcha.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:25": {
+   "resposta": "O tema é **sensoriamento remoto** e as plataformas que carregam os sensores.\n\nO satélite exige construção do equipamento, lançamento por foguete e operação em órbita, um investimento muito alto. O avião usa uma estrutura já existente (aeronave, piloto, câmera ou sensor embarcado), por isso tem custo bem mais baixo de implantação e manutenção, além de voar quando e onde for preciso.\n\nA (E) descreve uma vantagem do satélite: ele passa periodicamente sobre a mesma área, permitindo acompanhar mudanças ao longo do tempo. A (C) é a mais tentadora, porque o avião pode voar abaixo de algumas nuvens, mas, em geral, aeronaves dependem mais do tempo atmosférico para operar com segurança. Dados paleológicos (A) não se obtêm por imagem aérea, e os dois sistemas precisam de receptores (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:26": {
+   "resposta": "O tema é a sociedade colonial da América espanhola (séculos XVI-XVII), formada pelo contato entre conquistadores europeus, povos originários e africanos escravizados.\n\nO autor diz que os funcionários vindos da Espanha se viam \"submersos\" numa sociedade \"pluriétnica, multilinguística\" e multicultural, apesar da catequese. Ou seja: a colônia era o ponto de encontro de tradições de origens muito diferentes (Europa, América e África), que conviviam sem se fundir numa cultura única. É exatamente o que diz a alternativa D.\n\nA alternativa C inverte o texto, ao falar em grupos \"homogêneos\"; a E ignora a violência da conquista; a B contraria o fato de que o domínio espanhol sobre as minas de prata (Potosí, Zacatecas) foi efetivo; e a A não tem apoio no excerto, que destaca justamente a persistência da diversidade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:27": {
+   "resposta": "O conteúdo é a abolição gradual no Brasil Império: Lei Eusébio de Queirós (1850), Lei do Ventre Livre (1871), Lei dos Sexagenários (1885) e Lei Áurea (1888).\n\nA lentidão se explica pela força política dos grandes proprietários de terras e de escravizados. Os dois partidos do Império, Liberal e Conservador, eram dominados pela oligarquia rural, e o governo dependia deles no Parlamento e nos gabinetes. Por isso cada medida abolicionista foi negociada para preservar ao máximo os interesses escravistas, com indenizações, prazos longos e libertações apenas parciais. Essa é a alternativa B.\n\nA alternativa D é tentadora, mas o tráfico internacional foi proibido em 1850, e a lentidão continuou por quase quarenta anos depois disso. A A é falsa: a agricultura de exportação, sobretudo o café, gerava muita renda. A E também não serve, porque a escravidão já havia sido abolida na maior parte da América (nos Estados Unidos, em 1865), e o Brasil foi o último país a fazê-lo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:28": {
+   "resposta": "O tema é a formação social de São Paulo na primeira metade do século XX, marcada pela imigração em massa ligada ao café e, depois, à industrialização.\n\nO autor aponta um descompasso: o caipira dominava o imaginário da literatura e das artes, mas não a população real. Isso porque, desde o fim do século XIX, São Paulo recebeu grande número de imigrantes (italianos, espanhóis, portugueses, japoneses), que formaram a mão de obra das fazendas de café, do comércio e das fábricas da capital. A alternativa A descreve essa realidade.\n\nA B exagera, porque a indústria paulista da época era sobretudo de bens de consumo (têxtil, alimentos), e não siderúrgica. A D contraria a predominância do latifúndio cafeeiro nas regiões mais produtivas. A C e a E não se relacionam com a contradição descrita no excerto, e a população do estado cresceu no período.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:29": {
+   "resposta": "O conteúdo é a hegemonia britânica no \"longo século XIX\", entre o Congresso de Viena (1815) e a Primeira Guerra Mundial (1914-1918).\n\nPioneira da Revolução Industrial, a Inglaterra precisava de matérias-primas e de mercados para escoar sua produção. Ao longo do século, ampliou o comércio com suas colônias (Índia, por exemplo) e com países recém-independentes, como os da América Latina, que compravam manufaturas inglesas e vendiam produtos primários, além de receber empréstimos e investimentos britânicos. Essa expansão é o que a alternativa C descreve.\n\nAs outras não se sustentam. A A trata de processos posteriores, já que a Revolução Russa é de 1917 e a descolonização é do pós-1945. A B é falsa, porque o período foi também de industrialização de outras potências. A D erra porque a Inglaterra saiu fortalecida do Congresso de Viena. E a E inverte a situação, pois Londres era a grande credora do mundo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:30": {
+   "resposta": "O tema é o modelo econômico da ditadura militar (1964-1985), que priorizou a industrialização sem fazer reforma agrária.\n\nO excerto diz que essa decisão \"não foi ocasional\", mas uma escolha. Em vez de distribuir terra e ampliar o consumo dos pobres, os governos apostaram em bens duráveis, como os automóveis, voltados às classes média e alta. Isso mostra que fazer ou não fazer reforma agrária dependia do modelo de desenvolvimento econômico adotado: a reforma agrária ampliaria o mercado interno popular, e o caminho escolhido foi outro. É a alternativa E.\n\nAs demais atribuem à reforma agrária objetivos que o texto não menciona, como conter o êxodo rural, segurar a inflação de alimentos ou racionalizar a pequena propriedade, ou uma origem sindical (D) que o excerto também não cita.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:31": {
+   "resposta": "Esta é uma questão de compreensão geral, que pergunta pelo propósito principal do texto. A notícia abre dizendo que a França quer \"put a lid on\" (pôr um freio, conter) as multidões de turistas e conta que a ministra do Turismo apresentou um plano para regular o fluxo de visitantes nos pontos mais populares e combater o \"overtourism\", o turismo excessivo. Os exemplos de Étretat, do Mont-Saint-Michel e da ilha de Bréhat ilustram esse problema e as primeiras medidas tomadas. É o que diz a alternativa D.\n\nA B é a mais tentadora, mas inverte a ideia: a ministra quer controlar o turismo, e não promovê-lo. A E toma um detalhe pelo todo, porque a covid aparece só como contexto da retomada das viagens. A A fala de alternativas \"escondidas\" que o texto não menciona, e a C explica por que a França é o maior destino turístico do mundo, o que o texto não faz.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:32": {
+   "resposta": "O conteúdo cobrado é o sentido de um conectivo em inglês. \"Though\" introduz uma concessão, equivalente a \"although\" ou \"even though\": a França quer conter as multidões de turistas, **embora** as autoridades admitam que isso não será fácil. A dificuldade é um obstáculo que não impede a intenção, e essa é a definição de oração concessiva. Em português, o equivalente é \"embora\", a alternativa B.\n\nAs demais trazem outras relações: \"conforme\" indica conformidade, \"contanto que\" indica condição, \"sem que\" indica modo ou condição negativa, e \"uma vez que\" indica causa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:33": {
+   "resposta": "O conteúdo é a polissemia de \"as\" em inglês. Na frase do texto, \"the issue is urgent... as international travel surges\", \"as\" significa \"à medida que\": o problema fica urgente conforme as viagens internacionais voltam a crescer. A ideia é de progressão simultânea entre dois fatos.\n\nNa alternativa B, \"the number of undecided voters begins to drop as the election gets closer\", o sentido é o mesmo: o número de indecisos cai à medida que a eleição se aproxima.\n\nNas outras, \"as\" tem outros sentidos. Em A, é causal (\"já que você é o último a sair\"). Em C, significa \"como\" (\"deixar as coisas como estão\"). Em D, indica função (\"como diplomata\"). Em E, é comparativo (\"assim como foram outros dois livros\").\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:34": {
+   "resposta": "O conteúdo é a relação lógica expressa por uma locução. \"Thanks to\" significa \"graças a\", \"por causa de\". A praia de Étretat teve um aumento repentino de turistas graças à trama da série \"Lupin\", da Netflix: a série é a causa, e o fluxo de visitantes, o efeito. A relação é de causa, alternativa D.\n\nA alternativa C é a armadilha: consequência seria o aumento do turismo, e não a série. O trecho introduzido por \"thanks to\" é justamente a origem do fato.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:35": {
+   "resposta": "A questão trabalha a estrutura comparativa correlativa do inglês, \"the + comparativo..., the + comparativo...\", que equivale ao nosso \"quanto mais..., mais...\".\n\nNa tirinha, Garfield dá um \"conselho para a vida\": um donut por dia afasta o mau humor. No terceiro quadrinho, completa com \"the badder the mood, the bigger the donut\", ou seja, quanto pior o humor, maior o donut, e aparece segurando um donut enorme. O tamanho do doce aumenta na proporção do mau humor: um aumento proporcional, alternativa C. O humor da tira está também no \"badder\", forma informal e propositalmente errada de \"worse\".\n\nAs outras alternativas falam de alternativa, causa, possibilidade improvável e finalidade, relações que essa estrutura não expressa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:36": {
+   "resposta": "É uma questão de movimento uniforme (cinemática): o segredo é perceber que a viga e o sonâmbulo gastam o mesmo tempo.\n\nO personagem pisa na viga quando ela está nivelada com o 5º andar e precisa chegar ao fim dela exatamente quando ela se nivela com o 6º andar. Nesse intervalo, ele percorre os 30 m da viga, e a viga sobe 3 m.\n\nTempo de caminhada do sonâmbulo:\nt = 30 ÷ 0,5 = 60 s\n\nVelocidade da viga:\nv = 3 ÷ 60 = 0,05 m/s\n\nO erro típico é dividir 3 m por algum valor sem relacionar os dois movimentos, ou usar a razão 3/30 multiplicada errado, o que leva a 0,10 ou 0,50 m/s.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:38": {
+   "resposta": "O conteúdo é calorimetria, com o calor sensível dado por Q = m · c · Δθ.\n\nPrimeiro, a massa de líquido. Com densidade de 1000 g/L:\nm = 1000 g/L × 10 L = 10 000 g\n\nVariação de temperatura até a luz acender:\nΔθ = 115 − 15 = 100 °C\n\nCalor necessário:\nQ = 10 000 × 0,6 × 100 = 600 000 cal = 600 kcal\n\nEssa é a menor quantidade de calor que o líquido precisa receber para atingir 115 °C. O erro comum é usar 115 °C como variação de temperatura, o que dá 690 kcal, ou usar o calor específico da água (1 cal/g·°C), o que leva a 1000 kcal.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:39": {
+   "resposta": "O conteúdo é refração da luz, especificamente o índice de refração relativo. O índice relativo do meio A em relação ao meio B é a razão entre os índices absolutos:\n\nn(A,B) = nA ÷ nB\n\nCom os dados:\n0,5 = 2 ÷ nB\nnB = 2 ÷ 0,5 = 4\n\nO meio B é mais refringente que A, o que é coerente com a razão menor que 1.\n\nA armadilha é inverter a razão (nB ÷ nA = 0,5), o que daria nB = 1, alternativa C.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

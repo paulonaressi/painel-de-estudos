@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/fcmscsp/2027_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Leitura de personagem no soneto de Camões, que retoma o episódio bíblico de Jacó e Raquel (Gênesis).\n\nLabão é o pai que, \"usando de cautela\", entrega Lia no lugar de Raquel depois de Jacó servir sete anos; a terceira estrofe fala em \"enganos\". Ele age com astúcia e trapaça para tirar proveito do trabalho do pastor. Isso é ser ardiloso.\n\nAs outras alternativas descrevem antes Jacó: é ele quem se mostra abnegado (serve por amor) e resignado (aceita servir mais sete anos). Subserviente e compassivo não cabem em quem engana.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Intertextualidade e tradição literária. A vassalagem amorosa — o amante que se põe a serviço da amada como um vassalo serve ao senhor — é a marca das cantigas de amor do Trovadorismo galego-português, ligada ao amor cortês medieval.\n\nNo soneto, Jacó \"servia\" não ao pai, mas a Raquel, e só a ela pretendia como prêmio: o amor é apresentado como serviço. Camões, poeta do Classicismo, retoma esse tema medieval dentro da forma renascentista do soneto.\n\nÁrcade, simbolista, naturalista e parnasiana são estéticas posteriores, sem esse vínculo com a relação feudal de vassalagem.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Classicismo e amor neoplatônico. Camões escreve no Renascimento, quando circulava a leitura neoplatônica do amor: um sentimento idealizado, que se eleva acima do desejo físico e da recompensa imediata.\n\nNa última estrofe, Jacó aceita servir mais sete anos e ainda diz que serviria mais, se a vida não fosse tão curta \"para tão longo amor\". O amor é maior que o tempo e que o próprio sacrifício: é a idealização amorosa de matriz platônica.\n\nEpicurista seria a busca do prazer imediato, o oposto do que o pastor faz; positivista, naturalista e iluminista são correntes de séculos posteriores.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Classes de palavras e coesão: a palavra \"a\" pode ser preposição, artigo ou pronome oblíquo; só o pronome retoma um termo anterior (valor anafórico).\n\nEm \"Como se a não tivera merecida\", o \"a\" é pronome oblíquo e equivale a \"a ela\": retoma \"a sua pastora\", Raquel, citada no verso anterior. Jacó sofre como se não a tivesse merecido.\n\nNas outras: em \"a ela\" (A e C), o \"a\" é preposição exigida por \"servir\"/\"pretender\"; em \"a sua pastora\" (B) e \"a vida\" (E), é artigo definido, que só acompanha o substantivo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Emprego expressivo dos tempos verbais. Em \"Mais servira, se não fora / Para tão longo amor tão curta a vida!\", as formas \"servira\" e \"fora\" estão no pretérito mais-que-perfeito do indicativo, mas têm valor de futuro do pretérito e de pretérito imperfeito do subjuntivo: \"Mais serviria, se não fosse tão curta a vida\".\n\nEsse uso, comum na língua literária, dá ao verso um tom mais elevado e condensado.\n\nNas demais alternativas, os verbos estão no tempo esperado: \"pretendia\", \"servia\" e \"passava\" são imperfeitos que narram ações habituais, e \"vendo\" é gerúndio.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Recursos linguísticos e humor. O meme usa uma pintura antiga e põe na boca dos personagens um diálogo atual: a moça pergunta se o rapaz viu o seu \"TikTok\" (a rede social), e ele responde, como alguém de outra época, \"chama-se relógio\" (\"It's called a watch\").\n\nA graça está em que \"TikTok\" imita o som do relógio, o tique-taque. O rapaz entende a palavra pela onomatopeia, não pelo nome do aplicativo — por isso o anacronismo funciona.\n\nNão há palavras de sentido oposto, nem relação de hiponímia ou sinonímia, e a homografia não explica o trocadilho, que se apoia no som representado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Crônica e ironia. Nos quatro últimos parágrafos, Bilac parece defender os padeiros: pílulas de pão seriam baratas perto das de arsênico, o excesso de comida faria mal, o jejum aperfeiçoaria a moral, e os padeiros seriam uma \"abençoada e providente classe\".\n\nNa verdade, ele diz o contrário do que pensa: denuncia a ganância de quem diminui o pão do povo para lucrar. Afirmar uma coisa querendo dizer o oposto, com tom de crítica, é ironia.\n\nHá exageros pontuais, mas a hipérbole não é o recurso que organiza o trecho; também não se trata de suavizar algo desagradável (eufemismo).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Discurso de autoridade e crítica social. O cronista mobiliza a ciência (\"grânulos dosimétricos\", excesso de alimentação como inimigo da saúde) e a religião (jejum, penitência, aperfeiçoamento moral) para \"justificar\" o pão cada vez menor.\n\nComo o tom é irônico, esse uso não é sincero: ao mostrar como esses discursos podem ser colocados a serviço dos padeiros, o texto expõe e questiona o uso da autoridade científica e religiosa para disfarçar um problema real — o povo pagando caro por pouco pão.\n\nAs alternativas A, C, D e E tomam a argumentação ao pé da letra, como se o cronista realmente acreditasse nela.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Discurso direto e indireto. Na transposição, os tempos verbais recuam em relação ao momento da fala: presente vira pretérito imperfeito e pretérito perfeito vira mais-que-perfeito.\n\nUma versão possível: \"O cavalheiro resmungava que nunca imaginara que fosse verdade o que diziam os jornais e que assim se roubava o povo.\"\n\n\"imaginei\" → \"imaginara\" (perfeito → mais-que-perfeito)\n\"dizem\" → \"diziam\" (presente → imperfeito)\n\"rouba\" → \"roubava\" (presente → imperfeito)\n\n\"fosse\" já está no pretérito imperfeito do subjuntivo e permanece igual, o que elimina C, D e E.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Orações subordinadas adverbiais. A oração \"quando querem embeber a alma na contemplação divina\" é introduzida pela conjunção \"quando\" e indica o momento em que os faquires deixam de comer: toda vez que querem se entregar à contemplação, a primeira coisa que fazem é jejuar.\n\nÉ, portanto, uma oração adverbial temporal.\n\nA tentação é ver finalidade (B), porque o jejum serve à contemplação; mas a ideia de finalidade estaria numa construção como \"para embeber a alma\". Na oração destacada, \"quando\" marca a circunstância de tempo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Interpretação de texto em inglês. A frase compara pessoas a livros: \"algumas enganam você com a capa e outras surpreendem você com o conteúdo\".\n\nOs dois casos dizem a mesma coisa por lados opostos: a aparência externa (a capa) pode não corresponder ao que a pessoa é por dentro (o conteúdo). Ou seja, as aparências podem divergir das qualidades interiores.\n\nAs alternativas A, B, D e E afirmam o contrário — que a aparência reflete o caráter ou basta para julgar alguém —, o que a citação nega.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Vocabulário em inglês. \"Deceive\" significa enganar, iludir, levar alguém a uma impressão falsa. Em \"Some deceive you with their cover\", a ideia é que algumas pessoas passam, pela aparência, uma imagem enganosa.\n\nO sinônimo é \"mislead\" (induzir ao erro, enganar).\n\n\"Attract\" (atrair), \"influence\" (influenciar) e \"persuade\" (convencer) não têm a noção de engano; \"surprise\" é o verbo usado na segunda parte da citação justamente em contraste com \"deceive\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Expressão idiomática em inglês. \"Out of the blue\" quer dizer \"do nada\", \"de repente\", de forma inesperada.\n\nO anúncio faz um jogo de palavras: os móveis e objetos parecem sair voando da sacola azul da IKEA (\"the blue\"), o símbolo da marca. Assim, \"out of the blue\" significa ao mesmo tempo \"de dentro da sacola azul\" e \"de modo surpreendente\", sugerindo que novidades encantadoras podem surgir inesperadamente.\n\nAs demais alternativas (fonte previsível, lugar distante, planejamento, inovação tecnológica) não correspondem ao sentido da expressão.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Compreensão geral do texto em inglês. A notícia reúne dois estudos: o primeiro mostra que os dias da Terra estão ficando mais longos (1,33 milissegundo por século) por causa do derretimento do gelo e da subida do mar; o segundo, que a extração de água subterrânea deslocou o polo de rotação cerca de 80 cm para leste. O último parágrafo conclui que a humanidade virou uma força geológica capaz de alterar o movimento do planeta.\n\nLogo, a ação humana alterou tanto a duração do dia quanto a posição do polo.\n\nB troca as causas (a água subterrânea afeta o polo, não o dia); D contradiz a afirmação de que a geração anterior não podia afirmar isso com segurança.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Referência textual. \"That rate\" (essa taxa) retoma a informação imediatamente anterior: os dias da Terra estão se alongando a 1,33 milissegundo por século.\n\nOu seja, a expressão se refere ao ritmo atual com que a duração do dia aumenta — ritmo que, segundo o registro geológico desde o Plioceno Superior, não tem precedente.\n\nA alternativa A confunde o termo retomado com o \"registro geológico\", que aparece depois, na mesma frase, apenas como base de comparação.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Polissemia de \"about\". Em \"a period … that lasted from about 5.33 million to 2.58 million years ago\", \"about\" significa \"aproximadamente\", \"cerca de\".\n\nO mesmo sentido aparece em \"The journey took about eight hours\": a viagem durou cerca de oito horas.\n\nNas outras frases, \"about\" tem sentido de \"sobre/a respeito de\" (A, D, E — o romance é sobre um músico, não se preocupar com o pedido, algo estranho na explicação) ou de \"por toda parte/ao redor\" (C — correr pelo parquinho).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Sentido contextual. \"Fingerprint\" é impressão digital; \"a second human fingerprint\" é uma segunda marca deixada pela ação humana.\n\nO texto já havia mostrado uma primeira marca humana (o alongamento dos dias). O estudo de Seul \"acrescenta\" outra: a extração de água subterrânea deslocou o polo de rotação da Terra. Ou seja, revela mais uma camada de autoria humana na mudança do polo.\n\nA alternativa C contradiz o estudo, e B e E atribuem a ele objetivos que o texto não menciona (rever evidências antigas, estudar sociedades primitivas).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Vocabulário em inglês. \"In the span of decades\" significa \"no intervalo de algumas décadas\", \"ao longo de décadas\": \"span\" é a extensão de tempo em que algo acontece.\n\nO equivalente é \"over the course of\" (no decorrer de).\n\n\"As a consequence of\" indica causa; \"with the exception of\", exceção; \"by the end of\" e \"at the beginning of\" apontam um momento (fim ou começo), e não a duração do período.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Expressão em inglês. \"How dare they…!\" equivale a \"Como eles se atrevem a…!\": é uma fórmula de indignação diante de algo considerado inaceitável ou desrespeitoso.\n\nNa tirinha, Garfield está vendo o desfecho de uma série policial (\"o assassino é…\") quando a emissora interrompe o programa para avisar de uma tempestade. Ele se revolta com a interrupção do seu programa favorito.\n\nNão há apoio à emissora (A) nem dúvida ou curiosidade (B, C), e a crítica não é à precisão da previsão do tempo (D), mas ao corte do programa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Expressão idiomática. \"To give someone a piece of one's mind\" significa dizer umas verdades a alguém, reclamar com irritação, dar uma bronca.\n\nGarfield vai telefonar para a emissora para protestar, indignado porque a previsão do tempo interrompeu o seu programa bem na hora da revelação do assassino.\n\nA expressão não tem o sentido literal de \"dar uma parte da mente\", como sugerem C, D e E (oferecer ideias, sugestões); e ele não quer saber o motivo (B), que já foi dito: a tempestade.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Pré-história africana e Revolução Neolítica. Por volta de 5000 a.C., o Saara passava por um processo de desertificação depois de um período mais úmido. Os povos que viviam ali migraram para o vale do Nilo, onde as cheias anuais deixavam o solo fértil.\n\nO deslocamento para a Núbia, portanto, permitiu ocupar terras férteis às margens do rio e desenvolver a agricultura e a vida sedentária — com a cerâmica, citada no texto, servindo para armazenar alimentos.\n\nAs outras alternativas não têm apoio no excerto: não se fala em propriedade coletiva, em paz duradoura nem no surgimento das primeiras crenças religiosas, e a coleta não foi \"abolida\" de uma vez.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Alta Idade Média e reinos germânicos. Depois da queda de Roma, os visigodos se fixaram na Península Ibérica, onde conviviam populações hispano-romanas e germânicas. O texto mostra que esse reino construiu uma única fé (a católica), uma liturgia uniforme e o Código Visigótico, válido para toda a península.\n\nEsse código unificou as leis antes separadas para godos e hispano-romanos e definiu a hierarquia social (clero e nobreza com privilégios diante do \"povo\"). Assim, consolidou critérios comuns de pertencimento numa sociedade de origens culturais diversas.\n\nA alternativa B diz o contrário (preservar diferenças legais), e A, C e E contradizem a união entre Igreja e poder régio descrita no excerto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Renascimento e antropocentrismo. O texto opõe a visão medieval (conhecimento pela revelação divina, vida contemplativa) à dos artistas renascentistas, que se inspiravam na Antiguidade greco-latina, valorizavam o ser humano e buscavam representar a realidade com fidelidade.\n\nO trecho-chave diz que eles não se limitavam a observar a natureza: tornavam-se estudiosos dela para imitá-la com precisão. A investigação da realidade (anatomia, perspectiva, proporção) passa a ser central na criação artística — pense em Leonardo da Vinci.\n\nA, B, D e E descrevem justamente traços medievais que o Renascimento abandonou: primazia religiosa, modelos corporativos, caráter coletivo da obra.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Segunda Revolução Industrial e crítica ao liberalismo. A caricatura de 1902, intitulada \"Liberdade\", mostra um gigante obeso — o capitalista — sentado sobre as fábricas, dominando uma multidão de operários que marcha sob a fumaça das chaminés.\n\nA ironia está no título: o liberalismo prometia liberdade, mas, para os trabalhadores, a realidade era a submissão ao capital industrial, com jornadas longas e miséria. A charge denuncia essa contradição entre o discurso liberal e a dominação econômica.\n\nAs alternativas C, D e E apresentam a industrialização ou a liberdade econômica como positivas para os operários, o oposto da crítica feita pelo desenho.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Memória e construção da história. O texto mostra que a imagem de Tiradentes foi criada cerca de cem anos depois de sua morte, nos primeiros tempos da República, com traços que lembram Jesus Cristo, para fazer dele um herói nacional. Enquanto isso, outras revoltas coloniais ficaram esquecidas e seus participantes, anônimos.\n\nLogo, a memória histórica resulta de escolhas: seleciona personagens e acontecimentos considerados relevantes conforme os interesses do presente — no caso, legitimar o novo regime republicano.\n\nB e C supõem uma memória fiel e uniforme, que o texto nega; A exagera, pois a imagem religiosa não substitui os fatos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Imperialismo na África (neocolonialismo do século XIX). O Congo foi propriedade pessoal do rei Leopoldo II da Bélgica, explorado para extrair borracha, matéria-prima muito procurada pela indústria (pneus, por exemplo).\n\nO texto e as fotos de crianças mutiladas mostram a violência extrema usada para impor cotas de produção — prática que destruiu modos de vida tradicionais. Esse é um exemplo da intensificação da dominação europeia para servir aos interesses econômicos das potências industriais.\n\nA apresenta o imperialismo como diplomático e integrador; B, D e E atribuem a violência ou a organização política a africanos, o que contradiz o excerto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Escravidão urbana no Brasil. Os \"escravos de ganho\" eram escravizados que trabalhavam nas ruas das cidades — vendendo alimentos, carregando mercadorias, prestando serviços — e eram obrigados a entregar ao senhor uma quantia fixa, diária ou semanal. O que sobrasse podia ser guardado, às vezes para comprar a alforria.\n\nPor isso o texto diz que juntar dinheiro era possível, mas difícil: a maior parte do rendimento ia para o senhor.\n\nD erra ao dizer que ficavam com todo o dinheiro; E descreve um contrato de prazo definido que não existia; B e C não correspondem ao trabalho descrito.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Segunda Guerra Mundial. O Dia D (6 de junho de 1944) foi o desembarque aliado na Normandia, que abriu a \"segunda frente\" na Europa Ocidental, reivindicada havia anos pela União Soviética, que combatia os alemães sozinha no leste.\n\nA partir dali, a Alemanha passou a ser pressionada pelo oeste e pelo leste ao mesmo tempo, o que levou à libertação da França e à rendição alemã em maio de 1945. Foi o início da ofensiva ocidental decisiva contra o nazismo.\n\nA e E são o contrário do que ocorreu; C e D também não procedem: a operação foi comandada por americanos e britânicos e reforçou o esforço na Europa, não no Pacífico.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Cultura e ditadura militar. A canção de Belchior é de 1976, durante o regime militar, sob censura e repressão (época do AI-5). O eu lírico fala de um desespero que não é passageiro nem pose da época: ele se declara descontente e diz que extravasa esse sentimento gritando.\n\nEsse grito é a forma de expressar a insatisfação com um tempo de sonhos frustrados e liberdade restrita. A canção manifesta, portanto, o descontentamento diante das limitações impostas pelo regime autoritário.\n\nNão há exaltação da modernização econômica (B), confiança na participação política (C) nem a ideia de conflitos superados (E); a crítica à cultura de massa (A) não é o tema central.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Geopolítica, migração e xenofobia. O texto relata que, na Copa de 2026, um árbitro somali foi barrado nos EUA, torcedores iranianos tiveram os ingressos cancelados e a seleção do Irã teve de se hospedar no México.\n\nEm todos os casos, o critério para as restrições foi a nacionalidade das pessoas, independentemente de terem visto ou função oficial no torneio. Isso mostra a persistência de tratamentos desiguais ligados à origem dos envolvidos, mesmo num evento que se apresenta como global.\n\nA e E dizem o contrário do excerto; B erra porque as seleções puderam jogar; D também não, já que a decisão do governo se impôs sobre a organização esportiva.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Economia global e Terceira Revolução Industrial (técnico-científico-informacional). O texto compara 2005, quando quase todas as maiores empresas do mundo eram fábricas, com 2025, quando predominam empresas de informação, comunicação, comércio eletrônico e software.\n\nIsso indica uma mudança no modelo de produção: o centro da economia se deslocou da indústria manufatureira para as empresas de tecnologia e inovação.\n\nA erra porque os EUA continuam dominando e a China não é um \"polo financeiro do Sul Global\" no sentido proposto; D fala de organização interna das fábricas (Indústria 4.0), não da troca de setor dominante; B confunde recursos tangíveis e intangíveis.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Blocos econômicos e acordos comerciais. Um Acordo de Parceria Econômica entre blocos e países, como o negociado entre Mercosul e Japão, busca ampliar o comércio e os investimentos, sobretudo por meio da redução ou eliminação de tarifas de importação (barreiras alfandegárias) e de outras restrições.\n\nO texto destaca o comércio de produtos agroalimentares, manufaturados e tecnológicos e o interesse em aprofundar os laços comerciais — exatamente o objetivo da alternativa A.\n\nB e C atribuem ao acordo metas que o texto não menciona; D exagera ao falar em reativar a indústria; E descreve integração financeira com instituições supranacionais, que não faz parte de um acordo desse tipo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Geopolítica contemporânea e leitura de charge. A charge mostra o líder chinês sorridente e, ao lado, um personagem que representa o presidente dos EUA com a cabeça encoberta pela bandeira da China, que se estende sobre ele enquanto a bandeira americana fica de lado.\n\nA ironia está em que a bandeira chinesa \"engole\" o líder americano: a China ganha espaço e influência no cenário mundial, ofuscando os Estados Unidos.\n\nA erra ao falar em vitória do socialismo sobre o capitalismo (a disputa atual é de poder, e a China é uma economia de mercado); B dá uma causa que a charge não mostra; D e E também não têm base na imagem.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Federalismo e reforma tributária. A reforma substitui impostos como o ICMS por tributos sobre o consumo cobrados no destino, acabando aos poucos com a \"guerra fiscal\" — a disputa entre estados que davam isenções para atrair empresas, o que favorecia os mais ricos.\n\nNo lugar dos incentivos, o texto destaca o planejamento de longo prazo e um fundo nacional para investimentos em infraestrutura e inovação nos estados. Esse fundo (Fundo Nacional de Desenvolvimento Regional) tem como meta reduzir as desigualdades entre as regiões.\n\nC é o oposto, pois a guerra fiscal é o que a reforma encerra; D usa \"economia de aglomeração\" de modo incorreto; A e E não se relacionam com o excerto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Geografia urbana e especulação imobiliária. Os apartamentos minúsculos descritos no texto são vendidos como estilo de vida moderno e perto de metrô, universidades e centros culturais. Na prática, permitem às incorporadoras multiplicar o número de unidades nas áreas mais valorizadas e cobrar muito por metro quadrado.\n\nAo contrário do que defendem muitos urbanistas, esse modelo não amplia o acesso à moradia: concentra investimentos e eleva o preço do solo, intensificando a especulação imobiliária.\n\nNão elimina o déficit habitacional (A), não desvaloriza o metro quadrado (B) e não cumpre a função social da propriedade (C); o IPTU progressivo (D) é um instrumento do poder público, não do empreendimento.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Tema: geografia agrária, distribuição das lavouras no Brasil.\n\nO mapa mostra uma produção extremamente concentrada em São Paulo (52,2% da safra), seguido por Minas Gerais, Goiás, Mato Grosso do Sul e Paraná, e ainda com participação de estados nordestinos litorâneos como Alagoas, Pernambuco e Paraíba. Esse padrão é o da **cana-de-açúcar**: São Paulo lidera de longe a produção de cana e etanol, o cultivo avançou para o Centro-Oeste (Goiás, MS) e a Zona da Mata nordestina mantém a tradição canavieira desde o período colonial.\n\nA soja é a alternativa mais tentadora, mas sua liderança é do Mato Grosso, que aqui aparece com só 2,6%. O café teria Minas Gerais na frente; a laranja também é paulista, mas não tem peso em Goiás, MS e Alagoas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Tema: pedologia e contaminação de águas subterrâneas.\n\nNo esquema, o número 1 indica o movimento do pesticida para baixo, através do perfil do solo, até o lençol freático. Esse transporte vertical de substâncias dissolvidas na água que atravessa o solo chama-se **lixiviação** — é o termo usado na literatura sobre agrotóxicos para o processo que mais ameaça as águas subterrâneas.\n\nInfiltração e percolação descrevem a entrada e a passagem da própria água no solo; a lixiviação é justamente o arraste das substâncias (sais, nutrientes, pesticidas) por essa água, por isso é ela que “potencializa a contaminação”. Laterização é a concentração de óxidos de ferro e alumínio em solos tropicais, e eutrofização é o enriquecimento de nutrientes em corpos d’água superficiais.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Tema: matriz energética mundial e leitura de gráfico.\n\nO gráfico compara, ano a ano, a variação da demanda (linha roxa) com o acréscimo de geração por fonte. Em 2025, a demanda cresceu pouco mais de 800 TWh, enquanto a solar sozinha somou cerca de 650 TWh e as outras fontes limpas mais de 200 TWh: juntas, as fontes de baixo carbono superaram o aumento da demanda, e a variação fóssil chegou a ficar negativa.\n\nAs demais falham: a geração fóssil oscilou para cima em vários anos entre 2015 e 2025 (A); a fóssil ainda teve grandes acréscimos em 2021 a 2024, nada irrelevantes (D); o acréscimo limpo só passa o fóssil nos anos finais, não desde 2010 (C); e as fontes limpas cresceram, e não diminuíram, frente às fósseis de 2020 a 2025 (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Tema: cartografia, projeções.\n\nA projeção de Mercator é cilíndrica e **conforme**: preserva os ângulos e as formas locais, por isso uma linha de rumo constante aparece reta e ela foi tão útil à navegação. O preço é a deformação das áreas, que cresce à medida que se afasta do Equador. Na figura isso salta aos olhos: a Groenlândia parece do tamanho da África, e a Antártida vira uma faixa enorme no rodapé. Ou seja, a característica marcante é a **distorção nas altas latitudes**.\n\nPreservar áreas é próprio das projeções equivalentes (como a de Peters), não da Mercator; distâncias não são mantidas; e direções e ângulos são exatamente o que ela conserva, o que elimina C e D.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Tema: escala cartográfica.\n\nEscala numérica = distância no mapa ÷ distância real, nas mesmas unidades.\n\n33 km = 33 000 m = 3 300 000 cm\n\n3 300 000 cm ÷ 12 cm = 275 000\n\nAssim, 1 cm no mapa representa 275 000 cm (2,75 km) no terreno: escala 1 : 275 000.\n\nO número de estações (24) é distrator e não entra na conta. Quem converte km para metros em vez de centímetros chega a 1 : 2 750, e quem multiplica em vez de dividir encontra 1 : 39 600 000.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Tema: telômeros, telomerase e câncer.\n\nA cada divisão celular, os telômeros (pontas dos cromossomos) encurtam; quando ficam curtos demais, a célula para de se dividir ou entra em apoptose. A telomerase, uma transcriptase reversa, refaz essas pontas e assim permite divisões ilimitadas. Ela é pouco ativa na maioria das células somáticas, mas está reativada em grande parte das células cancerosas, o que contribui para a sua “imortalidade”.\n\nInibir a telomerase, portanto, faz os telômeros das células tumorais encurtarem a cada ciclo até que elas parem de se multiplicar — é uma estratégia estudada contra o câncer.\n\nA inibição não facilita a replicação na fase S (A), não aumenta a síntese de RNAm (B), não deleta gene nenhum (D) e não tem relação com vírus de RNA (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Tema: resíduos sólidos urbanos e formas de disposição.\n\nO **aterro sanitário** é uma obra de engenharia: exige estudo de local, impermeabilização do fundo, drenagem e tratamento do chorume, captação dos gases e cobertura diária dos resíduos, além de monitoramento ambiental contínuo, inclusive depois de encerrado. Daí a preocupação do estudo com aterros em áreas de alta suscetibilidade ambiental.\n\nAs outras falham: lixões são despejos a céu aberto, sem separação de recicláveis (A) e sem nenhuma proteção ambiental (E); aterros sanitários não impedem a decomposição anaeróbica — ela gera biogás (metano), que é captado e queimado ou aproveitado (B); e o aterro controlado é uma solução intermediária, menos segura que o sanitário (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Tema: lipídios.\n\nTriglicerídeos (triacilgliceróis) são ésteres formados por **uma molécula de glicerol ligada a três ácidos graxos**. São a principal forma de reserva energética dos animais e ficam armazenados no tecido adiposo, dentro dos adipócitos. No sangue, por serem insolúveis em água, circulam em lipoproteínas (quilomícrons, VLDL).\n\nA alternativa C inverte a composição (um ácido graxo e três gliceróis). Anéis de carbono interligados caracterizam os esteroides, como o colesterol (A e E). Glicerol com fosfato e dois ácidos graxos forma os fosfolipídios da membrana, que é outra classe de lipídio (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Tema: embriologia dos cordados, neurulação.\n\nA figura mostra a neurulação: sobre a notocorda, a ectoderme dorsal se espessa formando a placa neural, que se dobra em goteira neural e se fecha num tubo. A estrutura X é esse **tubo neural**, de origem **ectodérmica**, que originará o encéfalo e a medula espinal, isto é, o sistema nervoso central. As bolinhas que migram para os lados são as células da crista neural.\n\nO tubo digestório vem da endoderme (A); órgãos genitais e boa parte do sistema urinário e muscular vêm da mesoderme; a via respiratória tem epitélio de origem endodérmica (D); anexos epidérmicos, como pelos e glândulas, derivam da ectoderme, não da mesoderme (B).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Tema: fisiologia animal, osmorregulação.\n\nAves marinhas ingerem muito sal ao comer peixes e invertebrados e ao engolir água do mar. Seus rins não conseguem produzir urina mais concentrada que a água do mar, então elas têm **glândulas de sal** (supraorbitais), que retiram o excesso de NaCl do sangue e o eliminam como uma solução muito concentrada que escorre pelas narinas, como mostra a figura.\n\nCom isso, a ave mantém a concentração dos fluidos corporais estável, ou seja, faz osmorregulação e preserva a homeostase.\n\nA glândula não regula temperatura (B), não fabrica ácido úrico, que vem do metabolismo de proteínas no fígado (C), nem transforma excretas nitrogenadas (D). O sal secretado não serve para umedecer o bico (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Tema: platelmintos, ciclo das tênias (teníase e cisticercose).\n\nO ser humano é o hospedeiro definitivo: ao comer carne crua ou malpassada com cisticercos (1), a larva se fixa pelo escólex no intestino delgado (2) e vira o verme adulto (3). As proglótides grávidas saem nas fezes e liberam ovos (4), que são ingeridos por bois ou porcos (5). No intestino desses hospedeiros intermediários, sai do ovo o embrião com ganchos, a **oncosfera** (6), que atravessa a parede intestinal, cai no sangue e se aloja na musculatura, onde vira cisticerco.\n\nErros das outras: proglótides não têm vasos sanguíneos nem nefrídios (A); em 1 o homem ingere cisticercos, não ovos (C); a tênia fica no intestino e não migra aos pulmões (D); o cisticerco se forma nos músculos, não no tubo digestório (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Tema: fotossíntese, respiração e ponto de compensação fótico.\n\nNo gráfico, a respiração (linha rosa) é constante, e a fotossíntese (linha azul) cresce com a luz até saturar. Em 1, a fotossíntese é menor que a respiração; em 2, as taxas se igualam (ponto de compensação); em 3, a fotossíntese supera a respiração.\n\nNas figuras: em Y, a mitocôndria precisa de O₂ do ambiente e manda CO₂ para fora — a respiração supera a fotossíntese, situação de 1. Em Z, o CO₂ da mitocôndria e o O₂ do cloroplasto circulam só entre as duas organelas, sem troca com o ambiente — situação de equilíbrio, 2. Em X, o cloroplasto ainda capta CO₂ do ambiente e sobra O₂ para fora — fotossíntese maior que respiração, 3.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Tema: genética, di-hibridismo com dominância incompleta.\n\nCruzamento: RRPP (redondo, roxa) × LLpp (longo, branca). Todo o F1 é LRPp (oval, roxa).\n\nNo F2, os genes segregam de modo independente, então se analisa cada um:\n\nForma da raiz: LR × LR → LL, LR, RR. Com dominância incompleta, cada genótipo tem fenótipo próprio: longo, oval, redondo → 3 classes.\n\nCor da flor: Pp × Pp → PP e Pp roxas, pp branca → 2 classes.\n\nTotal de classes fenotípicas: 3 × 2 = 6.\n\nO erro típico é contar genótipos (3 × 3 = 9, alternativa A) ou aplicar a proporção mendeliana clássica de dominância completa (4 fenótipos, alternativa C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Tema: imunologia, origem da vacinação.\n\nO experimento de Jenner funcionou por **imunidade cruzada**: os vírus da varíola bovina (cowpox) e da varíola humana são do mesmo gênero (Orthopoxvirus), ou seja, aparentados evolutivamente, e têm antígenos de superfície muito parecidos. Os anticorpos e as células de memória produzidos contra o vírus bovino reconheceram também o vírus humano, por isso o menino não adoeceu na segunda inoculação.\n\nAs demais têm erros conceituais: plasmócitos produzem anticorpos, não antígenos (A); vírus não têm metabolismo próprio (B); linfócitos B fazem parte da resposta adaptativa, não da inata (D); e os poxvírus têm DNA, não RNA (E).\n\n(O texto de apoio situa Berkeley nos Estados Unidos; na verdade Jenner nasceu em Berkeley, na Inglaterra. Isso não afeta a questão.)\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Tema: evolução, a viagem do Beagle e a seleção natural.\n\nO núcleo da teoria de Darwin é a **seleção natural**, que só funciona porque os indivíduos de uma mesma população não são iguais: há variação herdável entre eles, e os mais bem ajustados ao ambiente deixam mais descendentes. Nas viagens, coletando e comparando milhares de exemplares (aves, tartarugas, plantas, insetos), Darwin pôde observar essa diversidade, a matéria-prima sobre a qual a seleção atua. É essa a leitura da banca.\n\nAs outras falham: mutações e genética eram desconhecidas na época (B); as viagens não confirmaram a herança dos caracteres adquiridos de Lamarck (D); não havia datação precisa de fósseis (E). A alternativa A é a mais tentadora: Darwin leu Lyell e viu fósseis e conchas marinhas nos Andes, mas a teoria não explica a mudança das espécies como efeito direto das mudanças geológicas, e sim pela seleção da variação.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "A primeira resolução, feita antes de ver o gabarito, chegou à alternativa A: a ligação entre a geologia de Lyell e a mudança das espécies também é um ponto clássico das viagens de Darwin. A alternativa C se justifica, mas a questão é discutível."
+  },
+  "0:51": {
+   "resposta": "Tema: estrutura atômica e semelhanças atômicas.\n\nPrimeira lacuna: o neodímio neutro tem Z = 60, logo 60 elétrons. O texto diz que o estado de oxidação predominante é 3+, então o íon Nd³⁺ perdeu 3 elétrons:\n60 − 3 = 57 elétrons.\n\nSegunda lacuna: pela tabela, o isótopo mais abundante do neodímio é o Nd-142 (27,1%). Contando nêutrons (n = A − Z):\nNd-142: 142 − 60 = 82 nêutrons\nPr-141: 141 − 59 = 82 nêutrons\n\nÁtomos de elementos diferentes com o mesmo número de nêutrons são **isótonos**.\n\nIsóbaros teriam o mesmo número de massa (142 ≠ 141), e isoeletrônicos se refere a espécies com o mesmo número de elétrons. Quem soma 3 elétrons em vez de subtrair chega a 63.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Tema: fórmulas de compostos iônicos a partir das cargas.\n\nNa monazita, o neodímio está como Nd³⁺ ligado ao fosfato PO₄³⁻. As cargas se anulam na proporção 1 : 1:\n(+3) + (−3) = 0 → NdPO₄\n\nO óxido de praseodímio citado é aquele em que o elemento tem estado de oxidação 4+. Com o óxido O²⁻:\n(+4) + 2 × (−2) = 0 → PrO₂\n\nPrO corresponderia a Pr²⁺, e Pr₂O a Pr⁺, estados que o texto não menciona. Fórmulas como Nd(PO₄)₃ ou Nd₄(PO₄)₃ não têm as cargas balanceadas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Tema: gases, equação geral dos gases (transformação com P, V e T variando).\n\nComo a quantidade de gás na bolha não muda:\nP₁·V₁/T₁ = P₂·V₂/T₂\n\nDados (temperaturas em kelvin):\nP₁ = 10 atm, V₁ = 100 mm³, T₁ = 17 + 273 = 290 K\nP₂ = 1 atm, T₂ = 27 + 273 = 300 K\n\nV₂ = P₁·V₁·T₂ ÷ (P₂·T₁)\nV₂ = 10 × 100 × 300 ÷ (1 × 290)\nV₂ ≈ 1 034 mm³ ≈ 1 000 mm³\n\nA pressão cai 10 vezes, o que multiplica o volume por 10; o leve aumento de temperatura só acrescenta cerca de 3%. Quem usa as temperaturas em °C encontra cerca de 1 590 mm³: na equação dos gases a temperatura tem de estar em kelvin. Quem inverte a razão das pressões chega a 10 mm³.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Tema: densidade e quantidade de matéria.\n\nPrimeiro a massa de 1 L, usando a densidade:\nm = d × V = 0,685 g/mL × 1 000 mL = 685 g\n\nDepois o número de mols, usando a massa molar:\nn = m ÷ M = 685 g ÷ 114 g/mol ≈ 6,0 mol\n\nO erro típico é errar a conversão de litro para mililitro e perder potências de 10, caindo em 0,6 mol ou 60 mol.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Tema: termoquímica, entalpia de formação e diagrama de energia.\n\nNo diagrama, os reagentes (H₂ + ½ O₂) estão em 0 kJ e o produto (H₂O líquida) em −285 kJ:\nΔH = H(produtos) − H(reagentes) = −285 − 0 = −285 kJ por mol de água\n\nO sinal negativo indica reação exotérmica: energia é liberada. O pico de +180 kJ é a energia de ativação e não entra no ΔH.\n\nPara 36 g de água (M = 18 g/mol):\nn = 36 ÷ 18 = 2 mol\nEnergia liberada = 2 × 285 = 570 kJ\n\nQuem esquece de multiplicar pelo número de mols marca 285 kJ; quem usa a diferença entre o pico e o produto confunde energia de ativação com variação de entalpia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Tema: hibridização do carbono e tipos de ligação.\n\nNa ureia, OC(NH₂)₂, o carbono central faz uma ligação dupla com o oxigênio (C=O) e duas ligações simples com os nitrogênios (C–N). Ele tem, portanto, três domínios eletrônicos (três átomos ligados, nenhum par isolado), o que corresponde à hibridização **sp²** e geometria trigonal plana em torno do carbono.\n\nRegra prática: carbono com só ligações simples é sp³; com uma dupla, sp²; com tripla ou duas duplas, sp.\n\nA alternativa A inverte as contagens: duas duplas e uma simples dariam cinco ligações ao carbono, o que é impossível.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Tema: geometria molecular e polaridade.\n\nA hidrólise da ureia produz NH₃ e CO₂.\n\nNH₃: o nitrogênio tem três ligações e um par de elétrons não ligante, o que dá geometria **piramidal**. Os momentos dipolares das ligações N–H não se cancelam, e a molécula é **polar**.\n\nCO₂: o carbono faz duas ligações duplas e não tem pares isolados, geometria **linear** (O=C=O). As duas ligações C=O são polares, mas apontam em sentidos opostos e se anulam: a molécula é **apolar**.\n\nLogo, as geometrias são diferentes, uma é polar e a outra apolar. O erro típico é achar que, por ter ligações polares, o CO₂ seria polar.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Tema: proteínas, ligação peptídica.\n\nA ligação peptídica é a ligação amida que une dois aminoácidos: ela se forma entre o **carbono da carbonila** (C=O) de um aminoácido e o **nitrogênio do grupo amino** do aminoácido seguinte, com saída de uma molécula de água.\n\nNa figura, a seta 1 aponta exatamente a ligação C–N entre o carbono que tem o C=O (do resíduo com CH₃) e o N–H do resíduo seguinte. A seta 2 indica a ligação N–H, a 3 a ligação C–H do carbono alfa, a 4 a dupla C=O e a 5 a ligação N–C que liga o nitrogênio ao carbono alfa dentro do mesmo aminoácido — essa última é a mais tentadora, mas não une dois aminoácidos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Tema: estequiometria com reações sucessivas.\n\nBalanceando:\n2 NaCl + H₂SO₄ → Na₂SO₄ + 2 HCl\nNa₂SO₄ + CaCO₃ + 2 C → Na₂CO₃ + CaS + 2 CO₂\n\nConferindo a segunda: oxigênio 4 + 3 = 3 + 4; carbono 1 + 2 = 1 + 2.\n\nCadeia de proporções: 1 H₂SO₄ → 1 Na₂SO₄ → 1 Na₂CO₃ e 2 CO₂.\n\nPara 50 mol de Na₂CO₃:\nH₂SO₄ = 50 mol\nCO₂ = 2 × 50 = 100 mol\nmassa de CO₂ = 100 × 44 g = 4 400 g = 4,4 kg\n\nQuem não balanceia a segunda equação acha 50 mol de CO₂ (2,2 kg); quem usa 2 mol de H₂SO₄ por causa dos 2 NaCl chega a 100 mol.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Tema: equilíbrio químico, constante de equilíbrio (esterificação).\n\nReação: ácido acético + etanol ⇌ acetato de etila + água, com todos os participantes no mesmo meio e volume de 1 L (mol = mol/L).\n\nTabela: formaram-se 6 mol de éster e 6 mol de água, então reagiram 6 mol de cada reagente.\nÁcido no equilíbrio: 10 − 6 = 4 mol/L\nEtanol no equilíbrio: x − 6 mol/L\n\nKeq = [éster]·[água] ÷ ([ácido]·[etanol])\n6 = (6 × 6) ÷ (4 × (x − 6))\n6 = 36 ÷ (4x − 24)\n4x − 24 = 6\nx = 7,5 mol\n\nO erro mais comum é usar as quantidades iniciais em vez das de equilíbrio no denominador.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Tema: cinemática, movimento uniformemente variado e gráfico a × t.\n\nDe 0 a 4 s a aceleração é 3 m/s² e o carro parte do repouso:\nv(4) = 0 + 3 × 4 = 12 m/s\n\nDe 4 s a 10 s a aceleração é constante e negativa, e o enunciado diz que o carro para no semáforo seguinte, isto é, v(10) = 0:\na = (0 − 12) ÷ (10 − 4) = −2 m/s²\n(coerente com o patamar perto de −2 no gráfico)\n\nEm t = 6 s, passaram 2 s de frenagem:\nv(6) = 12 − 2 × 2 = 8 m/s\n\nO erro típico é ler a velocidade direto no eixo do gráfico ou usar só a primeira fase (3 × 6 = 18 m/s, fora das opções).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Tema: dinâmica, segunda lei de Newton (F = m·a).\n\nA mesma força F produz acelerações diferentes em cada corpo:\nF = mA × 2 → mA = F/2\nF = mB × 8 → mB = F/8\n\nCom os corpos unidos:\na = F ÷ (mA + mB) = F ÷ (F/2 + F/8) = F ÷ (5F/8) = 8/5\na = 1,6 m/s²\n\nRepare que a aceleração do conjunto é menor que a de cada corpo sozinho, como deve ser, pois a massa aumentou. O erro típico é somar ou tirar a média das acelerações (10 ou 5 m/s²), o que não faz sentido físico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Tema: impulso de uma força constante.\n\nImpulso: I = F × Δt. Falta o intervalo de tempo, que vem do movimento uniforme do trailer:\nΔt = Δs ÷ v = 100 m ÷ 20 m/s = 5 s\n\nI = 600 N × 5 s = 3 000 N·s\n\nNote que, apesar de a velocidade ser constante (a força resultante sobre o trailer é nula, porque o atrito e a resistência do ar equilibram os 600 N), a força da caminhonete sozinha tem impulso diferente de zero. O que é nulo é o impulso da resultante.\n\nO erro típico é multiplicar a força pela distância (600 × 100), o que dá o trabalho, 60 000 J, e não o impulso.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Tema: energia e potência, uso de uma fórmula dada.\n\nGasto calórico na caminhada leve:\nGC = MET × massa ÷ 60 = 3 × 60 ÷ 60 = 3 kcal/min\n\nTempo para gastar a energia da barra:\nt = 276 kcal ÷ 3 kcal/min = 92 min\n\nA tabela serve só de contexto; o valor de 3 METs já é dado no enunciado. Quem usa 2 METs (o limite inferior da faixa da caminhada leve) encontra 138 min, valor que não está entre as alternativas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Tema: termodinâmica, primeira lei (Q = ΔU + W).\n\nA energia interna de um gás ideal depende só do estado (da temperatura). Os dois processos começam no mesmo estado inicial e terminam no mesmo estado final, então:\nΔU₁ = ΔU₂\n\nO trabalho, por outro lado, depende do caminho: é a área sob a curva no diagrama P × V. O processo 1 passa por pressões bem mais altas durante a expansão, logo a área sob ele é maior:\nW₁ > W₂\n\nPela primeira lei:\nQ = ΔU + W\nComo os ΔU são iguais e W₁ > W₂, temos Q₁ > Q₂.\n\nO erro típico é achar que o calor, como a energia interna, só depende dos estados inicial e final (alternativa C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Tema: óptica, refração da luz.\n\nO raio se aproxima da normal ao entrar na água, sinal de que a água é mais refringente que o ar (n água > n ar). Na refração a **frequência não muda** (é imposta pela fonte), mas a velocidade diminui: v = c ÷ n. Como v = λ × f, com f constante e v menor, o **comprimento de onda diminui** na água.\n\nAs outras falham: a reflexão total só ocorre quando a luz vai do meio mais refringente para o menos refringente, ou seja, da água para o ar, nunca do ar para a água (A); a frequência não se altera (B); a velocidade diminui, não aumenta (C); e o índice do ar é menor que o da água (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Tema: ondulatória, equação fundamental (v = λ × f).\n\nA distância entre duas cristas consecutivas é o comprimento de onda: λ = 3,5 m.\n\nf = v ÷ λ = 1,4 ÷ 3,5 = 0,4 Hz\n\nO barco sobe e desce com a mesma frequência da onda, 0,4 oscilação por segundo. Em 15 s:\nnúmero de oscilações = 0,4 × 15 = 6\n\nOutra forma: o período é T = 1 ÷ 0,4 = 2,5 s, e 15 ÷ 2,5 = 6.\n\nO barco não é levado pela onda: ele só oscila no lugar, porque a onda transporta energia, não matéria.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Tema: eletrostática, força elétrica em campo uniforme.\n\nA força elétrica é F = q × E. Para carga positiva, a força tem o mesmo sentido do campo; para carga **negativa**, o sentido é **oposto** ao do campo.\n\nNa figura, as linhas de força apontam para baixo, da placa A para a placa B. Como q < 0, a força aponta para cima, perpendicular às placas: vetor 5.\n\nA força não depende da velocidade da partícula, por isso os vetores inclinados (2 e 4) e o horizontal (3) não servem; a velocidade só influencia a trajetória, que será uma parábola curvando para cima. O vetor 1 seria a força numa carga positiva.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Tema: eletrodinâmica, associação em paralelo e potência.\n\nR₁ e R₂ estão em paralelo, ambos ligados diretamente aos terminais do gerador. A corrente total é 5 A e por R₂ passam 2 A; pela lei dos nós, a corrente em R₁ é:\ni = 5 − 2 = 3 A\n\nPotência em R₁:\nP = R × i²\n108 = R₁ × 3²\nR₁ = 108 ÷ 9 = 12 Ω\n\nTensão em R₁, que é a mesma do gerador ideal (paralelo):\nU = R₁ × i = 12 × 3 = 36 V\nLogo E = 36 V.\n\nConferência: P = U × i = 36 × 3 = 108 W. Quem usa a corrente total de 5 A na fórmula da potência chega a valores errados; quem multiplica 12 Ω por 5 A obtém 60 V.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Tema: indução eletromagnética, lei de Lenz.\n\nAbaixo do ímã, as linhas de campo saem do polo norte e apontam para baixo, abrindo-se. Isso elimina B e D, em que as linhas chegam ao ímã.\n\nÀ medida que o ímã desce, o fluxo magnético para baixo através do trecho de tubo logo abaixo dele aumenta. Pela lei de Lenz, a corrente induzida cria um campo que se opõe a esse aumento, ou seja, B induzido **para cima** (as paredes ali funcionam como um polo norte, repelindo o N do ímã e freando a queda). Isso elimina A.\n\nResta o sentido da corrente: pela regra da mão direita, um campo para cima exige corrente no sentido anti-horário vista de cima. Em E, no lado direito da espira a corrente vai da frente para trás, o que é anti-horário visto de cima; em C ela vai de trás para a frente (horário), o que geraria campo para baixo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Tema: porcentagem e equação do 1º grau.\n\nSeja p o número de alunos da primeira série. As outras duas séries somam 380 − p alunos, e 27% delas já fizeram o teste:\np + 0,27 × (380 − p) = 234\np + 102,6 − 0,27p = 234\n0,73p = 131,4\np = 180\n\nConferência: as demais séries têm 200 alunos; 27% de 200 = 54; 180 + 54 = 234.\n\nO erro típico é aplicar os 27% sobre o total de 380 alunos, e não só sobre as segunda e terceira séries.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Tema: progressão aritmética, termo geral.\n\nLado par: PA com a₁ = 8 e razão 16. Com n casas, a última é:\n8 + 16(n − 1) = 16n − 8\n\nLado ímpar: PA com a₁ = 11 e razão 22. Esse lado tem n − 9 casas, e a última é:\n11 + 22(n − 9 − 1) = 22n − 209\n\nA última ímpar excede em 3 a última par:\n22n − 209 = 16n − 8 + 3\n6n = 204\nn = 34\n\nLado par: 34 casas (última 536); lado ímpar: 25 casas (última 539 = 536 + 3).\nTotal: 34 + 25 = 59 casas.\n\nO erro típico é usar n − 9 no lugar de n − 10 dentro do termo geral, esquecendo que o termo é a₁ + (m − 1)r.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Tema: análise combinatória, princípio fundamental da contagem.\n\nO prêmio depende do arranjo ordenado (bola grande, bola pequena): AG é diferente de GA, e letras repetidas são permitidas (AA vale).\n\nBola grande: só pode cair em A, B, C, D, L, M, N ou O → 8 possibilidades.\nBola pequena: qualquer dos 15 buracos, inclusive o da grande → 15 possibilidades.\n\nTotal de arranjos (e de prêmios distintos):\n8 × 15 = 120\n\nO erro típico é tratar como arranjo sem repetição (8 × 14 = 112, que não está nas opções) ou dividir por 2 como se a ordem não importasse (60).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Tema: probabilidade de eventos independentes.\n\nTotais: homens = 16 + 23 + 9 = 48; mulheres = 45 + 10 + 10 = 65.\n\nOs dois sorteios são independentes, então em cada andar a probabilidade é o produto, e somam-se os três andares:\n1º andar: (16/48) × (45/65)\n2º andar: (23/48) × (10/65)\n3º andar: (9/48) × (10/65)\n\nP = (16 × 45 + 23 × 10 + 9 × 10) ÷ (48 × 65)\nP = (720 + 230 + 90) ÷ 3 120\nP = 1 040 ÷ 3 120 = 1/3\n\nO erro típico é somar homens e mulheres do mesmo andar e dividir pelo total de funcionários, como se fosse um único sorteio.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Tema: sistema de equações do 1º grau.\n\nSeja x o número de mesas de 8 e y o de mesas de 14, no plano original:\nx + y = 43\n8x + 14y = 440\n\nSubstituindo x = 43 − y:\n344 − 8y + 14y = 440\n6y = 96 → y = 16 e x = 27\n\nNo dia, duas mesas de 14 viraram mesas de 8: ficaram 14 mesas de 14 e 29 mesas de 8, para 440 − 12 = 428 presentes.\nConferência: 29 × 8 + 14 × 14 = 232 + 196 = 428 (todas as mesas cheias).\n\nPresentes nas mesas de 14: 14 × 14 = 196.\n\nO erro típico é usar as 16 mesas originais (16 × 14 = 224), sem descontar as duas que foram modificadas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Tema: geometria analítica, interseção de retas e equação reduzida.\n\nPonto P: igualando as duas equações,\n(16 − 4x) ÷ 5 = 4x + 32\n16 − 4x = 20x + 160\n−24x = 144 → x = −6\ny = 4 × (−6) + 32 = 8\nP = (−6, 8), no segundo quadrante, como na figura.\n\nUma reta pela origem tem a forma y = mx, com m = y ÷ x:\nm = 8 ÷ (−6) = −4/3\n\nReta: y = −4x/3.\n\nConferência: na reta (16 − 4x)/5, com x = −6, vem (16 + 24)/5 = 8. As alternativas B e E não passam pela origem (têm termo independente), o que já as elimina.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Tema: função quadrática, vértice e conjunto imagem.\n\nO menor valor ocorre no vértice: xv = −b ÷ (2a), com a = 3 − k e b = 3k − 5.\n−(3k − 5) ÷ (2(3 − k)) = 1,3\n−3k + 5 = 2,6(3 − k) = 7,8 − 2,6k\n−0,4k = 2,8 → k = −7\n\nCom k = −7: a = 10 (positivo, parábola com concavidade para cima, há mínimo) e b = −26.\nf(x) = 10x² − 26x + 11\n\nValor mínimo:\nf(1,3) = 10 × 1,69 − 26 × 1,3 + 11 = 16,9 − 33,8 + 11 = −5,9\n\nImagem: {y ∈ ℝ | y ≥ −5,9}.\n\nO erro típico é esquecer o sinal de menos na fórmula do vértice, o que leva a outro valor de k e a uma imagem errada.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Tema: trigonometria no triângulo retângulo e áreas.\n\nSeja AH = h. Como M é ponto médio de AH, o retângulo tem altura DE = GF = h/2.\n\nNo triângulo BED: tg α = DE ÷ BE → BE = (h/2) ÷ (5/4) = 2h/5. No ABH: BH = h ÷ (5/4) = 4h/5. Logo EH = 4h/5 − 2h/5 = 2h/5.\n\nNo triângulo GFC: FC = (h/2) ÷ (5/7) = 7h/10. No AHC: HC = 7h/5. Logo HF = 7h/5 − 7h/10 = 7h/10.\n\nR₂ − R₁ = (h/2) × (7h/10 − 2h/5) = (h/2) × (3h/10) = 3h²/20 = 960\nh² = 6 400 → h = 80 cm\n\nTriângulo ADG: base DG = EH + HF = 32 + 56 = 88 cm; altura AM = h/2 = 40 cm.\nÁrea = 88 × 40 ÷ 2 = 1 760 cm²\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Tema: geometria espacial, paralelepípedo e diagonal.\n\nCom arestas a, b e c: a·b·c = 1 232, a·b = 112 e b·c = 154.\n\nc = 1 232 ÷ 112 = 11 cm\na = 1 232 ÷ 154 = 8 cm\nb = 112 ÷ 8 = 14 cm (confere: 14 × 11 = 154)\n\nA maior distância entre dois vértices é a diagonal do bloco:\nd = √(a² + b² + c²) = √(64 + 196 + 121) = √381 cm\n\n√381 ≈ 19,5 cm, por isso não é 20 nem 18. O erro típico é calcular só a diagonal de uma face, como √(8² + 14²) = √260 = 2√65, que é a alternativa A.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Tema: estatística, média e moda.\n\nJá conhecemos 7 notas: três 10, três 5 e uma 0,5. Faltam 4 alunos.\n\nSe a moda fosse 10 ou 5, as duas empatariam com 3 ocorrências (a distribuição seria bimodal) e a média não poderia ser igual às duas. Para existir uma moda única que seja igual à média, as outras 4 notas precisam ser iguais a um valor x, que aparece 4 vezes e passa a ser a moda.\n\nMédia = moda = x:\n(3 × 10 + 3 × 5 + 0,5 + 4x) ÷ 11 = x\n45,5 + 4x = 11x\n7x = 45,5 → x = 6,5\n\nConferência: soma = 30 + 15 + 0,5 + 26 = 71,5; 71,5 ÷ 11 = 6,5.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

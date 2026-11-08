@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/fcmscsp/2026_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Ironia machadiana e a figura do narrador-defunto Brás Cubas. Depois de matar a borboleta sem motivo, ele não se culpa: pergunta \"por que diabo não era ela azul?\", como se o problema fosse a cor do inseto, e chama isso de reflexão \"das mais profundas\", que o \"reconciliou\" consigo mesmo.\n\nOu seja, ele transfere a culpa para a vítima (ser preta) e se absolve com uma frase pomposa. Isso é prepotência: o sujeito superior que se julga no direito de dispor da borboleta e ainda a responsabiliza pelo próprio destino.\n\nA (C) é a tentadora, mas inverte o sentido: o narrador justamente não assume a responsabilidade. Também não há humildade (D) nem desejo de reconciliar-se com a vítima (A).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Expressão idiomática é aquela cujo sentido não se obtém somando o sentido literal das palavras. \"Dar de ombros\" significa mostrar indiferença, não ligar para algo: é exatamente o que Brás Cubas faz diante da borboleta que o aborrecia antes de sair do quarto.\n\nAs outras alternativas são descrições literais (\"Sacudi-a\", \"começou a mover as asas\"), uma comparação (\"negra como a noite\") ou indicam o contrário de indiferença: o \"repelão dos nervos\" é uma reação de irritação, que leva o narrador a pegar a toalha.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Interlocução com o leitor, traço típico de Machado de Assis (sobretudo nas Memórias póstumas): o narrador se dirige diretamente a quem lê, comentando a própria narrativa.\n\nNo capítulo, isso aparece no 5º parágrafo, em \"Vejam como é bom ser superior às borboletas!\": o verbo no imperativo plural chama o leitor para dentro do texto, num comentário irônico.\n\nO 1º parágrafo é só narração dos fatos, e o 4º, embora traga a reflexão irônica do narrador e a imaginação do ponto de vista da borboleta, não interpela o leitor. Por isso a inclusão do leitor ocorre apenas no 5º parágrafo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Coesão referencial: anáfora retoma algo já dito; catáfora antecipa algo que virá depois. A questão pede a catáfora.\n\nEm \"Porque, é justo dizê-lo, se ela fosse azul [...] não teria mais segura a vida\", o pronome \"lo\" antecipa o conteúdo que vem a seguir: o que é justo dizer é que, se a borboleta fosse azul, não estaria a salvo.\n\nNas outras, os pronomes retomam termos anteriores: \"lhe\" (A e B) e \"la\" (E) referem-se à borboleta já mencionada, e \"lo\" (C) retoma o \"criador\", citado logo antes.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Expletivo (ou de realce): palavra ou expressão que pode ser retirada sem prejuízo do sentido e serve só para dar ênfase, como mostra a definição da questão (\"lá\", \"era\").\n\nEm \"Também por que diabo não era ela azul?\", a palavra \"diabo\" não tem valor semântico próprio: a pergunta \"por que não era ela azul?\" diz o mesmo. \"Por que diabo\" é uma intensificação coloquial, típica do expletivo.\n\nNas demais alternativas não há termo dispensável com função apenas enfática: são frases em que cada palavra contribui para o sentido.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Pronome oblíquo com valor possessivo: quando o pronome átono pode ser trocado por um possessivo ligado a um substantivo da frase.\n\nEm \"pousou-me na testa\", o \"me\" equivale a \"minha\": a borboleta pousou na minha testa. É o caso clássico do pronome com valor de posse.\n\nNas outras, o pronome é complemento verbal comum: \"preparar-me\" e \"Deixei-me\" são reflexivos; \"tomei-a\" é objeto direto (a borboleta); \"insinuou-lhe\" é objeto indireto (insinuou à borboleta).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "O texto em inglês define uma escola literária francesa do século XIX: poetas que buscavam \"formal precision\", reagiram contra a \"emotional extravagance\" do Romantismo, tinham Leconte de Lisle como líder e seguiam o princípio de Théophile Gautier da \"arte pela arte\", com impessoalidade e formas fixas tradicionais.\n\nEsses traços (culto da forma, objetividade, arte pela arte, antirromantismo, 1860–1890) definem o Parnasianismo, que no Brasil teve Olavo Bilac, Raimundo Correia e Alberto de Oliveira.\n\nRealismo e Naturalismo (D e C) também reagiram ao Romantismo, mas são sobretudo movimentos da prosa; Arcadismo e Barroco são de outros séculos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Foco narrativo: o narrador onisciente sabe tudo sobre os fatos e personagens. Quando ele passa a conjecturar, sua onisciência se mostra limitada.\n\nÉ o que ocorre em \"é de supor que casasse com o príncipe\": o narrador não afirma o desfecho, apenas o supõe, admitindo que não sabe o que aconteceu.\n\nNas outras alternativas ele narra com segurança (as rosas se pareciam com a bordada, ela comparou a rosa com as reais) ou faz um comentário sobre as fábulas, sem revelar desconhecimento.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Tempos do pretérito: o pretérito mais-que-perfeito indica um fato passado anterior a outro fato também passado.\n\nNo trecho, a narração está no pretérito perfeito (\"foi\", \"Sucedeu\") e no imperfeito (\"pareciam\", \"era\"). A forma \"bordara\" é o mais-que-perfeito simples de \"bordar\" (equivale a \"tinha bordado\"): o bordado foi feito antes da comparação com as rosas reais.\n\n\"Foi\" e \"Sucedeu\" marcam os próprios fatos narrados; \"pareciam\" e \"era\" descrevem estados simultâneos a eles.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Metalinguagem: o texto fala de si mesmo ou do próprio código, no caso, do gênero conto/fábula.\n\nEm \"pelas leis dos contos como este\", o narrador comenta as convenções do gênero a que o texto pertence: nos contos desse tipo, quem falha na tarefa do rei é condenado. O texto reflete sobre sua própria natureza de conto, e isso é metalinguístico. (O mesmo recurso aparece no início e no fim, quando se fala de \"fabulário\" e da ausência de moralidade.)\n\nAs outras alternativas apenas narram ações da bordadora ou descrevem as rosas, sem referência ao gênero.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Compreensão geral do texto (notícia esportiva). O texto informa que Malik Nabers não treinou por causa de uma lesão no dedo do pé, que o técnico não se preocupa com a pré-temporada e relembra seu primeiro ano: 109 recepções, 1.204 jardas, seleção All-Rookie, Pro Bowl e recorde da NFL de recepções por um novato.\n\nPortanto, o objetivo é informar sobre a condição atual do jogador reconhecendo seu ótimo desempenho como novato.\n\nNão há discussão de consequências a longo prazo (A), de substituição (B) nem crítica ao time (D), e a (E) contradiz o texto: o desempenho foi excelente, não \"poor\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Conectivos em inglês. \"While\" pode indicar tempo (\"enquanto\") ou concessão/contraste (\"embora\", \"apesar de que\").\n\nNo trecho, a ideia é: embora a concussão tenha afetado sua disponibilidade até agora, o técnico disse não haver preocupação com sua ausência no training camp. As duas orações se opõem, e a primeira é admitida sem impedir a segunda: valor concessivo.\n\nNão há relação de causa (B), semelhança (C), certeza (D) nem finalidade (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Localização de informação. O texto diz que a lesão no dedo \"dates back to his days at Louisiana State University\", ou seja, remonta à época na LSU, \"though it does not require a procedural fix\", isto é, não exige um procedimento (cirurgia).\n\nA (D) reúne exatamente essas duas informações.\n\nA (A) e a (E) erram a origem (ela é anterior a 2024 e ao período nos Giants); a (C) contradiz o \"does not require a procedural fix\"; a (B) inventa uma limitação na faculdade, e o texto até diz que a lesão não o fez perder jogos como novato.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Conectivos em inglês. \"In spite of that\" significa \"apesar disso\": mesmo tendo ficado fora de dois jogos por concussão, Nabers entrou no All-Rookie Team. É um conectivo concessivo/adversativo.\n\n\"Notwithstanding\" tem o mesmo sentido (\"não obstante\", \"apesar disso\") e pode substituí-lo sem mudança de sentido.\n\n\"Moreover\" (além disso) e \"As a matter of fact\" (na verdade) acrescentam ou reforçam; \"On account of that\" (por causa disso) e \"Hence\" (portanto) indicam causa e consequência, o oposto da ideia concessiva.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Interpretação da citação \"I am not afraid of storms for I am learning how to sail my ship\" (não tenho medo de tempestades, pois estou aprendendo a conduzir meu barco).\n\nAs tempestades são metáfora das dificuldades da vida, e aprender a navegar é adquirir habilidades para enfrentá-las. A falta de medo vem justamente desse aprendizado: a pessoa está desenvolvendo as competências necessárias para lidar com as adversidades.\n\nA (A) e a (C) falam em fugir dos desafios, o oposto da ideia; a (D) fala em aceitação passiva, e a frase destaca preparo ativo; a (B) trata de críticas, tema ausente.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Sentidos de \"for\" em inglês. Na citação, \"for\" liga duas orações e introduz a causa: não tenho medo de tempestades porque estou aprendendo a velejar. É uma conjunção equivalente a \"because\".\n\nEm \"He succeeded for he worked intensely\" (ele teve sucesso porque trabalhou intensamente), \"for\" tem o mesmo valor causal entre orações.\n\nNas outras, \"for\" é preposição: duração em (A), destinatário em (B), objetivo em (D) (\"lutaram pela independência\") e parte do verbo \"call for\" (exigir) em (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Interpretação da tirinha de Calvin e Haroldo. O valentão diz \"I don't like your face\"; Calvin responde \"Then don't look at it\". O valentão retruca \"I'd rather change it\" (prefiro mudá-la) e ri, enquanto avança sobre Calvin.\n\n\"Mudar o rosto\" de alguém, nesse contexto, é ameaçar bater nele, e o último quadro confirma: Calvin aparece caído no chão, depois de apanhar.\n\nNão se trata de sugestão (C), aceitação (D), desculpa (E) ou negação (A): a frase é uma ameaça de agressão.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Expressão \"settle for\": contentar-se com algo menor do que o desejado. No último quadro, Calvin, caído depois de apanhar, diz que não se importa em ser aceito e que se contentaria em ser ignorado.\n\nOu seja, ele preferiria passar despercebido a ser alvo do valentão: \"being ignored\" equivale a \"being overlooked\".\n\nO humor está na redução das expectativas: o mínimo que ele quer é não ser notado. A (C) e a (A) falam de atenção positiva e reconhecimento, o oposto; a (B) contraria a ideia de fugir do confronto; a (E) generaliza demais.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Objetivo do infográfico da OMS. Ele mostra que a poluição por dióxido de nitrogênio (de tráfego, usinas, indústria e agricultura) pode agravar doenças respiratórias, e que transporte público bem planejado, caminhada e ciclismo seguros podem melhorar a qualidade do ar, mitigar a mudança climática e aumentar a atividade física. A hashtag é #HealthierTomorrow.\n\nLogo, a mensagem central é como meios de transporte sustentáveis melhoram a qualidade do ar e a saúde pública.\n\nA (D) inverte a ideia: o transporte público aparece como solução, não como fonte de poluição. A agricultura (B) é só uma das fontes citadas, e não há nada sobre crescimento industrial (C) ou carro particular (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Vocabulário em contexto. \"Aggravate\" significa agravar, piorar: a poluição por dióxido de nitrogênio pode piorar doenças respiratórias, especialmente a asma.\n\nO sinônimo é \"worsen\" (piorar).\n\nO próprio infográfico confirma o sentido negativo: o NO₂ aparece como problema, e o transporte sustentável como solução que melhora o ar.\n\n\"Prevent\" (prevenir), \"overcome\" (superar) e \"improve\" (melhorar) têm sentido contrário, e \"spread\" (espalhar) muda o sentido: a poluição não espalha a doença, ela piora o quadro de quem já a tem.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Origem da escrita na Antiguidade oriental. O excerto liga a escrita às necessidades econômicas: a agricultura exige armazenar colheitas e contar reservas, e daí \"nasce uma civilização de guarda-livros e notários\".\n\nIsso pressupõe uma sociedade já complexa, com excedente produtivo, administração centralizada e grupos especializados (escribas, sacerdotes, administradores) que controlam o registro e a distribuição das riquezas. A escrita surge, portanto, num contexto de aprofundamento das diferenciações sociais.\n\nA (D) é tentadora, mas a passagem do Paleolítico ao Neolítico (sedentarização e agricultura) é bem anterior à escrita e não é o processo que o texto descreve. A (B) contraria a ideia de armazenar excedentes, e o texto fala justamente em laicização dos signos, não em controle religioso das terras (A).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Arte medieval no Ocidente cristão. Georges Duby mostra que, numa sociedade hierarquizada e dominada pela religião, as obras de arte eram \"funcionais\": oferecidas à glória de Deus em troca de favores, aos santos protetores e aos mortos, e produzidas em torno do altar, do oratório e do túmulo.\n\nA arte medieval era, portanto, sobretudo expressão e instrumento da fé religiosa, ligada à Igreja e à salvação.\n\nAs alternativas (A), (D) e (E) atribuem à arte um papel de ruptura ou oposição (ao clero, ao poder feudal, às riquezas) que o texto não sustenta; a (B) introduz a ideia de elitismo e analfabetismo, ausente do excerto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Hegemonia espanhola no século XVI e mercantilismo metalista. A prata de Potosí (no atual território da Bolívia) chegava a Sevilha em grandes quantidades, e o rei ficava com o \"quinto\" (20%). Esse recurso ajudava a pagar as enormes despesas de uma diplomacia ativa, sobretudo o maior exército e a maior frota da Europa.\n\nOu seja, a riqueza colonial era gasta em atividades político-militares, e não investida na produção interna, o que ajuda a explicar o posterior declínio espanhol.\n\nA (A) erra a época (não havia industrialização); a (B) contradiz a importância das colônias; a (D) exagera, pois o rei ficava só com a quinta parte; e a (E) ignora que a prata escoava para guerras e credores estrangeiros.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Urbanização no Brasil colonial. A autora afirma que as primeiras cidades brasileiras nasceram como locus de poder e sede do capital comercial, fazendo a ligação entre a economia agroexportadora e a circulação internacional de mercadorias.\n\nIsto é, as cidades (em geral portos do litoral) articulavam os interesses econômicos locais, ligados à produção agrária, ao comércio mundial: exatamente o que diz a (A).\n\nA (B) inverte a lógica, pois a produção tropical se destinava ao mercado externo, não a consumidores das cidades coloniais. A (C) fala em operários, inexistentes na economia colonial. A (D) exagera com cidades \"autônomas\" geridas \"exclusivamente\" pelo capital mercantil, e a (E) contradiz o papel de ligação descrito no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Compra da Louisiana (1803). Napoleão, então primeiro-cônsul, vendeu aos Estados Unidos o imenso território da Louisiana, por cerca de 15 milhões de dólares, que dobrou a área do país.\n\nA venda resultou do contexto de guerras que se seguiram à Revolução Francesa: a França precisava de recursos para o conflito iminente com a Inglaterra, tinha dificuldade de defender a colônia e havia sofrido o revés da Revolução do Haiti. Para os Estados Unidos, a compra abriu caminho para a expansão para o oeste e o controle do Mississippi e de Nova Orleans.\n\nA (A) erra ao dizer que a venda garantiu terras aos indígenas: ocorreu o contrário, com a expansão sobre elas. Não houve aliança militar (B), proteção a territórios espanhóis (C) nem base na Declaração de Direitos (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Leitura de tabela sobre o tráfico atlântico de escravizados. Para 1501–1600 (quatro primeiras faixas), os desembarques foram:\n\nEuropa: 624 + 0 + 0 + 266 = 890\nCaribe: 258 + 6.726 + 10.067 + 19.008 = 36.059\nAmérica Espanhola Continental: 0 + 14.341 + 35.705 + 133.524 = 183.570\nBrasil: 0 + 0 + 388 + 597 = 985\n\nPortanto, no século XVI a mão de obra traficada se concentrou no Caribe e na América Espanhola Continental; o grande fluxo para o Brasil só aparece a partir do século XVII.\n\nA (A) é desmentida pela coluna Europa, que registra escravizados. A tabela não traz população indígena (C), expectativa de vida (D) nem trabalho dentro da África (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Tráfico de escravizados na segunda metade do século XVIII e início do XIX. Na tabela:\n\nAmérica do Norte: 122.784 (1751–1775), 23.726 (1776–1800), 65.444 (1801–1825)\nBrasil: 364.583, 466.100 e 1.039.096\n\nNo Brasil os números crescem sempre; na América do Norte oscilam, com queda forte no período da Guerra de Independência (1775–1783). No Brasil, o crescimento acompanha a demanda por produtos tropicais, como o algodão para a indústria têxtil inglesa, e depois a expansão agrícola do início do século XIX.\n\nA (C) inverte os números: as entradas no Brasil são muito maiores. Café e Guerra Civil (A) são posteriores; não houve desaceleração no Brasil (B); e o Brasil só se tornou independente em 1822, sem crescimento ligado a isso nos Estados Unidos (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Literatura e sociedade na Era Vargas. Parque Industrial (1933), de Patrícia Galvão, a Pagu, é um romance proletário sobre as operárias do Brás, em São Paulo.\n\nNo trecho, a operária presa vê passar o trem de luxo para o Rio: uma cabine custa 400 mil réis por noite, enquanto ela ganha 200 mil réis por mês, às vezes menos. O contraste evidencia a desigualdade social nos primeiros anos após a Revolução de 1930, que encerrou a Primeira República.\n\nA (A) inverte a posição de Pagu, militante ligada ao modernismo, que retrata a indústria, mas não se opõe ao desenvolvimento. O trecho não trata de concessão de direitos sociais (B), crise agrícola (C) ou desemprego (D): a personagem tem trabalho, mas é mal paga.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Governo JK e o Plano de Metas (\"50 anos em 5\"). O desenvolvimentismo apostou na industrialização por substituição de importações, com abertura ao capital estrangeiro (indústria automobilística), e em grandes obras públicas, como Brasília.\n\nPara isso o Estado investiu pesadamente em infraestrutura, sobretudo energia (hidrelétricas como Furnas e Três Marias) e transportes (rodovias), setores centrais do Plano de Metas.\n\nA (A) está errada porque o governo gerou inflação alta e rompeu com o FMI em vez de contê-la; a (D) descreve mais a política de Vargas e de Goulart, pois JK atraiu multinacionais; a (B) e a (E) não correspondem ao período, marcado por êxodo rural e mão de obra abundante nas cidades.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Representação dos povos indígenas e educação (Lei 11.645/2008, que torna obrigatório o ensino de história e cultura indígena). O jogo da UFSCar, voltado a crianças e professores, mostra um rito de passagem da infância para a vida adulta entre os Maraguá.\n\nAo usar uma linguagem familiar aos jovens (o game) para apresentar práticas culturais indígenas, o jogo aproxima esse público do universo cultural indígena e favorece a identificação e o respeito à diversidade.\n\nA (D) parte da ideia equivocada de uma \"pureza\" cultural que a tecnologia destruiria; a (B) e a (E) não têm apoio no enunciado; a (C) distorce o rito, que não é apresentado como valor guerreiro contra a cidade.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Cartografia social (ou participativa): mapeamento feito pelas próprias comunidades tradicionais (indígenas, quilombolas, ribeirinhos), com apoio técnico, para registrar seus territórios, usos e saberes.\n\nO texto diz que esses mapas servem para registrar tradições, defender territórios e promover direitos. Ou seja, o conhecimento tradicional sobre o espaço vira documento cartográfico, que pode ser usado em disputas fundiárias e na reivindicação de políticas públicas: um instrumento de luta política.\n\nA cartografia social não substitui processos jurídicos (A), mas os apoia; não visa arrendamento de terras (E) nem planos de gestão impostos (C); e sua finalidade não é corrigir erros técnicos de mapas oficiais (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Geopolítica do petróleo. O Estreito de Ormuz liga o Golfo Pérsico ao Golfo de Omã e ao Oceano Índico, e é a única saída marítima dos grandes produtores do golfo (Arábia Saudita, Irã, Iraque, Kuwait, Catar, Emirados). Por ali passa cerca de um quinto do petróleo consumido no mundo.\n\nOs oleodutos que contornam o estreito têm capacidade muito menor que o fluxo dos navios, por isso qualquer bloqueio ou ameaça (o Irã já ameaçou fechá-lo) afeta o preço do petróleo e a economia mundial.\n\nNão há tratado concedendo o controle ao Irã (A); o comércio de especiarias (C) não explica a importância atual; e dessalinização (D) ou bases militares (E) não são o motivo central.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Dinâmica climática do Pacífico. Em condições normais, os ventos alísios sopram de leste para oeste no Pacífico equatorial, empurrando as águas superficiais aquecidas para perto da Indonésia e da Austrália e favorecendo a ressurgência de águas frias na costa do Peru.\n\nNo El Niño, os alísios enfraquecem: as águas quentes se espalham para leste, a ressurgência na América do Sul diminui e a superfície do Pacífico central e oriental se aquece de forma anormal, alterando chuvas e temperaturas em vários continentes.\n\nA (B) é o contrário: a ressurgência diminui (sua intensificação está associada à La Niña). Monções (A), brisas marítimas (D) e anticiclones (E) não explicam a formação do fenômeno.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Governança dos oceanos. O Tratado do Alto Mar (BBNJ, acordo sobre biodiversidade marinha em áreas além da jurisdição nacional, aprovado na ONU em 2023) trata das águas internacionais, que cobrem cerca de dois terços dos oceanos.\n\nSeus pilares são: criação de áreas marinhas protegidas, para conservar e recuperar ecossistemas; avaliação de impacto ambiental de atividades em alto-mar; transferência de tecnologia; e repartição justa e equitativa dos benefícios dos recursos genéticos marinhos, como os usados em fármacos.\n\nPor isso a (E) é a correta. O tratado não licencia mineração (B), não cria taxas de exploração (A) nem prevê patenteamento como objetivo (D); a descarbonização do transporte marítimo (C) é tema de outro fórum, a Organização Marítima Internacional.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Conceitos de demografia. Saldo migratório é a diferença entre os que entram (imigrantes) e os que saem (emigrantes) de um lugar.\n\nNo Rio de Janeiro, em 2022, saíram 203 pessoas para cada 100 que chegaram, uma perda líquida de 165.360 habitantes; São Paulo também teve perda líquida. Quando saem mais pessoas do que entram, o saldo migratório é negativo.\n\nMigração circular (A) é o ir e vir periódico; êxodo urbano (D) é a saída das cidades para o campo, o que o texto não diz; transição demográfica (E) trata de natalidade e mortalidade, não de migração; e \"taxa de retração natural\" (B) não é o termo para o fenômeno.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Estrutura geológica do Brasil. O texto informa que o Pico do Itapeva, na Serra da Mantiqueira, é formado por granitos e gnaisses pré-cambrianos, com mais de 550 milhões de anos.\n\nRochas magmáticas intrusivas (granito) e metamórficas (gnaisse) dessa idade formam os escudos cristalinos, a estrutura mais antiga do território brasileiro. A Mantiqueira e a Serra do Mar integram o cinturão cristalino do Atlântico.\n\nBacias sedimentares (A), cuestas (B) e tabuleiros costeiros (E) são formas ou estruturas de rochas sedimentares; dobramentos modernos (C), como Andes e Himalaia, são do Cenozoico e não existem no Brasil.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Exploração de petróleo na Margem Equatorial, na Foz do Amazonas. A região é ambientalmente sensível, com recifes, manguezais e fortes correntes marinhas, e o licenciamento da Petrobras foi negado pelo Ibama em 2023, gerando longo impasse.\n\nA alternativa oficial aponta a preocupação de países vizinhos, que temem que um vazamento chegue a seus ecossistemas marinhos: as correntes da região correm para o noroeste, em direção à Guiana Francesa, ao Suriname e ao Caribe, o que faz um acidente ter alcance internacional.\n\nA (A) não descreve um entrave: diz apenas que o estudo de impacto considera as correntes relevantes para a prospecção. Não há indício de petróleo de baixa qualidade (C), reservas menores (E) ou recusa das comunidades em participar das audiências (D).\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "O principal entrave noticiado foi a negativa do Ibama por falhas no estudo ambiental; a pressão de países vizinhos, apontada pelo gabarito, é menos citada, e a questão é discutível."
+  },
+  "0:38": {
+   "resposta": "Sambaquis e intemperismo químico. Os sambaquis são montes construídos por povos pescadores e coletores pré-históricos com grande quantidade de conchas, ricas em carbonato de cálcio (CaCO₃).\n\nA água da chuva, levemente ácida, dissolve parte desse carbonato; ao infiltrar-se e evaporar, o carbonato se reprecipita e funciona como um cimento natural entre conchas, areia e restos. Isso endurece a estrutura e ajuda a preservar ossos e artefatos, explicando a boa conservação dos sambaquis.\n\nMetamorfismo (E) exige altas pressões e temperaturas; laterização (B) é típica de solos ricos em ferro, não de conchas; a salinização (C) e a \"recristalização\" da areia por sedimentação (A) não explicam o processo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Povos e comunidades tradicionais e conflitos fundiários. Os faxinais do Paraná combinam uso comum da terra (criação solta e extração de pinhão, erva-mate e plantas medicinais na mata) com roças individuais do lado de fora.\n\nComo a terra é de uso coletivo e muitas vezes não tem título formal em nome da comunidade, os faxinais ficam vulneráveis à expansão do agronegócio (soja, pinus, pecuária), que compra terras, cerca áreas e pressiona pela divisão em lotes individuais, desestruturando o modo de vida faxinalense.\n\nA (C) contraria o texto, que fala em equilíbrio duradouro; a (B), a (D) e a (E) citam pressões que não são a principal ameaça descrita para essas comunidades.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Geopolítica na América do Sul: a disputa pelo Essequibo. A Venezuela reivindica a região desde o século XIX, contestando o laudo arbitral de 1899 que a deu à então Guiana Inglesa.\n\nA disputa se acirrou depois da descoberta de grandes reservas de petróleo na costa da Guiana (a partir de 2015), exploradas pela ExxonMobil. O referendo de 2023, convocado por Nicolás Maduro, também serviu como bandeira nacionalista para mobilizar a população e desviar a atenção da grave crise econômica e política do país, às vésperas da eleição de 2024.\n\nA (B) cita lítio, que não é o recurso central; a (E) fala em carvão mineral, em vez de petróleo; a (A) e a (D) atribuem motivações sem base no contexto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Anatomia do caule e crescimento secundário. Os anéis de crescimento são camadas de xilema secundário produzidas a cada ano pelo câmbio vascular: o lenho de primavera tem células maiores e claras, e o de outono/inverno, células menores e escuras.\n\nO cerne é a parte central do lenho, formada por xilema antigo, de células mortas e geralmente impregnadas de substâncias como taninos e resinas. Ele já não conduz seiva bruta, apenas dá sustentação; a condução fica a cargo do alburno, a parte mais externa e clara do xilema.\n\nA (C) e a (E) erram o tecido: o floema não forma os anéis. A (A) atribui paredes mais espessas à primavera, quando são mais finas, e a (D) confunde xilema com tecido de reserva das raízes.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Poluição visual. O excesso de anúncios, placas e propaganda no espaço urbano, que a Lei Cidade Limpa restringiu em São Paulo, é considerado uma forma de poluição.\n\nSeus efeitos principais são o desconforto visual e a sobrecarga de estímulos, que podem gerar estresse e dificultar a percepção do ambiente. No trânsito, os painéis competem com a sinalização e desviam a atenção dos motoristas, aumentando o risco de acidentes.\n\nAs alternativas (A) e (D) descrevem poluição atmosférica, que propaganda visual não provoca; a (B) e a (C) atribuem efeitos sem base, como intensificar o sono ou aumentar casos de miopia.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Osmose e vacúolo contrátil em protozoários de água doce. Em meio hipotônico, a água entra continuamente no paramécio por osmose; o vacúolo contrátil bombeia esse excesso para fora, mantendo o volume constante (situação N e Y antes do inibidor).\n\nCom o inibidor, o vacúolo para de funcionar: a água continua entrando e não é eliminada. Assim, o volume celular aumenta (curva M, podendo até levar à lise) e o citoplasma fica mais diluído, ou seja, sua concentração diminui (curva Z).\n\nA pegadinha seria pensar em perda de água (O e X), o que só ocorreria em meio hipertônico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Divisão celular em plantas: mitose x meiose. As figuras mostram cromossomos homólogos (um vermelho, de origem paterna, e um verde, de origem materna) que se emparelham (III) e se alinham aos pares na placa equatorial (IV), com sinais de permutação. Em seguida, os homólogos se separam para polos opostos (V e VI).\n\nO emparelhamento dos homólogos e a separação dos pares caracterizam a meiose I, e não a mitose. Nas angiospermas, a meiose ocorre nos esporângios: na antera (formação dos micrósporos, que originam os grãos de pólen) e no óvulo.\n\nParênquima foliar, parede do ovário, coifa e meristema apical (A, B, C, D) têm apenas mitose; o meristema apical é a alternativa mais tentadora para quem confunde as fases com mitose.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Coagulação sanguínea (hemostasia). Plaquetas e tecidos lesados liberam tromboplastina (tromboquinase), que converte a protrombina em trombina; a trombina transforma o fibrinogênio solúvel em fibrina, cuja rede forma o coágulo.\n\nEssa cascata exige íons cálcio (Ca²⁺), cofator de várias etapas, e enzimas (fatores de coagulação). Os \"nutrientes\" do esquema incluem a vitamina K, necessária para o fígado produzir a protrombina e outros fatores.\n\nA (A) é a armadilha: a heparina é anticoagulante. Os fatores de coagulação são produzidos no fígado, não no pâncreas (C); o processo é químico, sem comando nervoso (D); e lisossomos não participam (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Conteúdo: mecânica da ventilação pulmonar. O ar entra quando a pressão alveolar fica abaixo da atmosférica (valores negativos no gráfico) e sai quando fica acima dela (valores positivos).\n\nAté os 4 s a pressão alveolar é negativa: é a inspiração, com contração do diafragma e dos intercostais externos, aumento do volume torácico e queda da pressão intrapleural. Depois dos 4 s a pressão fica positiva: é a expiração. Nessa fase o diafragma relaxa e sobe, a caixa torácica diminui de volume e os alvéolos, comprimidos, empurram o ar para fora.\n\nAs alternativas B, C e D descrevem eventos da inspiração, ou seja, do trecho antes dos 4 s. A cartilagem hialina (E) não tem papel ativo na ventilação.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Conteúdo: reprodução assexuada por partenogênese. Na partenogênese o embrião se desenvolve a partir de um óvulo que não foi fecundado por espermatozoide, o que bate com o texto (\"sem a participação de qualquer macho\").\n\nAs outras alternativas não se sustentam. Não há fusão de três gametas (A); na verdade não há fusão de gametas. A variabilidade genética é menor na partenogênese do que na fecundação cruzada, que mistura genomas de dois indivíduos (B). O texto fala de espécies formadas só por fêmeas, sem nada sobre machos que morrem na fase fetal (D). A alternativa E inverte e mistura padrões de ploidia que não aparecem no texto e não valem para esses lagartos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Conteúdo: eritroblastose fetal (doença hemolítica do recém-nascido).\n\nO homem teve eritroblastose ao nascer, então é Rh positivo e a mãe dele era Rh negativo (dd). Por isso ele é obrigatoriamente heterozigoto: Dd.\n\nO primeiro filho sensibilizou a mãe (dd). Para evitar a doença no filho seguinte, ela deveria ter recebido logo após o parto o soro anti-Rh (imunoglobulina anti-D), que destrói as hemácias Rh+ fetais antes que ela produza memória imunológica. Como não recebeu, o segundo filho, que é Rh positivo, foi atingido pelos anticorpos anti-Rh da mãe, que atravessam a placenta.\n\nO genótipo favorável à doença é o Rh positivo no filho:\nDd × dd → 1/2 Dd : 1/2 dd\nProbabilidade = 50%.\n\nA alternativa C erra por supor o pai DD (100%). As lacunas com \"vacina\" e com \"antígenos\" também estão erradas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Conteúdo: parasitologia, esquistossomose (Schistosoma mansoni). A figura mostra vermes adultos alojados nos vasos do sistema porta-hepático, ovos eliminados nas fezes, larvas que infectam um caramujo (hospedeiro intermediário) e cercárias que penetram na pele dos pés.\n\nPor isso a alternativa B está correta: o casal de vermes vive nas veias do sistema porta, e os ovos chegam ao intestino e saem com as fezes.\n\nA alternativa E erra porque no caramujo a reprodução é assexuada (o miracídio vira esporocistos, que geram muitas cercárias). A C descreve tênias (proglotes), e o esquistossomo tem sexos separados. A D erra porque a penetração é ativa, feita pelas cercárias na água, e não por cistos embrionados no solo. A A descreve o quadro respiratório típico do ciclo de Loss da lombriga e dos ancilostomídeos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Conteúdo: especiação alopátrica e conceito biológico de espécie.\n\nA barragem funcionou como barreira geográfica e os grupos acumularam diferenças de cor e de tamanho. Diferenças fenotípicas, porém, não provam que surgiram espécies novas: pela definição biológica, duas populações são espécies distintas quando há isolamento reprodutivo, isto é, quando não conseguem mais cruzar e gerar descendentes férteis, mesmo que voltem a se encontrar. Isso equivale a dizer que o fluxo gênico entre elas foi interrompido.\n\nNichos diferentes (A), outros fenótipos (B) e tamanhos diferentes (D) podem existir dentro de uma mesma espécie. Mais híbridos férteis (C) indicaria justamente o contrário: os grupos continuam trocando genes.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Conteúdo: estrutura atômica e teste de chama.\n\nNúmero de massa = prótons + nêutrons:\nA = Z + N\n88 = Z + 50\nZ = 38\n\nO elemento de número atômico 38 é o estrôncio (Sr), metal alcalinoterroso. Pela tabela, o estrôncio produz fumaça vermelha intensa.\n\nEssa cor vem de elétrons que, excitados pela energia da reação, voltam a níveis de menor energia e emitem luz de comprimento de onda característico. O lítio (vermelho-arroxeado) é a confusão mais provável por causa da cor parecida, mas tem Z = 3.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Conteúdo: classificação de misturas e métodos de separação.\n\nNa situação 1, a mistura álcool isopropílico + água ferve a temperatura constante (80,4 °C), diferente das temperaturas de ebulição dos componentes puros (78,9 °C e 100 °C). Mistura que ferve a temperatura constante, como se fosse substância pura, é chamada de azeotrópica. Mistura eutética é a que tem fusão a temperatura constante, que não é o caso.\n\nNa situação 3, o sal forçou a separação em duas fases líquidas: o álcool (menos denso, 0,78 g/cm³) em cima e a solução salina (1,2 g/cm³) embaixo. Líquidos imiscíveis se separam por decantação, com funil de separação. Filtração separa sólido de líquido, não serve aqui. \"Sedimentação\" é o repouso que deixa um sólido assentar e também não é a técnica para isolar o líquido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Conteúdo: interações intermoleculares e densidade.\n\nA fase de cima (fase 1) é a menos densa: é a rica em álcool isopropílico (0,78 g/cm³). A de baixo (fase 2) é a solução saturada de NaCl (1,2 g/cm³).\n\nNa fase 1 predominam as moléculas de álcool, que têm o grupo OH. A interação mais intensa entre elas é a ligação de hidrogênio.\n\nNa fase 2 há íons Na⁺ e Cl⁻ cercados por moléculas de água, uma solvatação feita por interações íon-dipolo. Essas são mais fortes que as ligações de hidrogênio entre as moléculas de água.\n\nA alternativa B inverte as fases. As que citam dipolo induzido erram porque o álcool é polar e forma ligações de hidrogênio.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Conteúdo: estequiometria com reagente limitante.\n\nEquação: 3 ThO₂ + 6 C + 2 N₂ → 1 Th₃N₄ + 6 CO\n\nCom 12 mol de cada reagente, veja quanto Th₃N₄ cada um permitiria formar:\nThO₂: 12 ÷ 3 = 4 mol\nC: 12 ÷ 6 = 2 mol\nN₂: 12 ÷ 2 = 6 mol\n\nO carbono é o limitante, porque se esgota primeiro. Ele limita a produção a 2 mol de Th₃N₄; ThO₂ e N₂ sobram.\n\nO erro típico é olhar só o óxido de tório, que dá 4 mol (alternativa D), ou ignorar os coeficientes e responder 12.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Conteúdo: equação de Clapeyron e massa molar a partir da densidade de um gás.\n\nSe PV = nRT e n = m/M, então M = dRT/P.\nT = 27 + 273 = 300 K\nM = 2,33 × 0,08 × 300 ÷ 1\nM ≈ 55,9 g/mol ≈ 56 g/mol\n\nA fórmula mínima CH₂ tem massa 12 + 2 = 14 g/mol.\n56 ÷ 14 = 4\n\nFórmula molecular = (CH₂)₄ = C₄H₈.\n\nEsquecer de converter a temperatura para kelvin dá um valor muito menor e leva a C₂H₄ ou a resultados sem sentido.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Conteúdo: equilíbrio iônico de base fraca (Kb) e pH.\n\nA anilina é uma base fraca: C₆H₅NH₂ + H₂O ⇌ C₆H₅NH₃⁺ + OH⁻, com K = 5 × 10⁻¹⁰.\nChamando [OH⁻] = [C₆H₅NH₃⁺] = x e desprezando o quanto a anilina se ioniza:\nx² = K · [anilina]\nx² = 5 × 10⁻¹⁰ × 2 × 10⁻³ = 10⁻¹²\nx = 10⁻⁶ mol/L\n\npOH = 6\npH = 14 − 6 = 8\n\nO pH maior que 7 confirma o meio básico. As alternativas com 10⁻¹² mol/L confundem x² com x, e pH 6 confunde pOH com pH.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Conteúdo: polaridade de ligações, geometria molecular e polaridade de moléculas. As três características se aplicam, na ordem, a SO₂, H₂S e CO₂.\n\nSO₂: as ligações S–O são covalentes polares, já que S e O têm eletronegatividades diferentes. A molécula é angular e polar.\nH₂S: o enxofre tem dois pares não ligantes, o que dá geometria angular (polar).\nCO₂: a geometria é linear (O=C=O) e os dois dipolos se anulam, por isso a molécula é apolar.\n\nLogo: ligações polares (SO₂), geometria angular (H₂S) e molécula apolar (CO₂).\n\nNenhuma dessas ligações é apolar, o que elimina A e E. Chamar o H₂S de linear (C) é o erro mais comum.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Conteúdo: cinética química, lei de velocidade determinada pelos experimentos.\n\nv = k[NO]^a[Cl₂]^b\n\nI → II: [NO] fica fixo e [Cl₂] dobra. A rapidez dobra (0,18 → 0,36), então b = 1.\nII → III: [Cl₂] fica fixo e [NO] dobra. A rapidez quadruplica (0,36 → 1,44), então a = 2.\n\nv = k[NO]²[Cl₂], com ordem global 2 + 1 = 3.\n\nUsando o experimento I:\n0,18 = k × (0,1)² × 0,1\nk = 0,18 ÷ 0,001 = 180 = 1,8 × 10² (L² mol⁻² s⁻¹)\n\nTirar a ordem dos coeficientes da equação também daria 3, mas isso só vale por coincidência aqui. Errar a potência de dez leva a 1,8 × 10⁻¹.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Conteúdo: propriedades coligativas (ebulioscopia). O aumento da temperatura de ebulição depende da concentração de partículas dissolvidas, não da natureza delas.\n\nSolução 1: glicose 2 mol/L, não ioniza → 2 mol/L de partículas\nSolução 2: KCl 1 mol/L → K⁺ + Cl⁻ → 2 mol/L de partículas\nSolução 3: Al(NO₃)₃ 1 mol/L → Al³⁺ + 3 NO₃⁻ → 4 mol/L de partículas\n\nAs soluções 1 e 2 têm a mesma concentração de espécies dissolvidas e fervem na mesma temperatura. A solução 3 tem a maior temperatura de ebulição.\n\nA alternativa E erra porque concentração igual de soluto não garante o mesmo número de partículas: 2 e 3 dão 2 e 4 mol/L de íons. A D inverte o efeito, já que mais íons elevam a temperatura de ebulição.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Conteúdo: polímeros de condensação e funções orgânicas.\n\nO Kevlar sai da reação entre um diácido carboxílico e uma diamina, com liberação de água a cada ligação formada. Polímero que elimina uma molécula pequena (H₂O) é de condensação. Os de adição não eliminam nada e partem de monômeros com dupla ligação.\n\nA ligação formada é –CO–NH–, o grupo funcional amida. Por isso o Kevlar é uma poliamida (aramida).\n\nO mesmo grupo aparece nas proteínas, macromoléculas naturais formadas pela condensação de aminoácidos. Nelas ele recebe o nome de ligação peptídica.\n\n\"Amina\" erra porque o grupo NH₂ isolado é dos monômeros, não do polímero. \"Amidos\" erra porque o amido é um polissacarídeo, unido por ligações glicosídicas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Conteúdo: movimento circular uniforme do ponteiro e aceleração escalar média.\n\nA figura mostra que de 0 a 90 km/h o ponteiro gira 120°, ou 2π/3 rad. Com velocidade angular constante:\nΔt = Δφ ÷ ω = (2π/3) ÷ (π/30) = 20 s\n\nVariação de velocidade do carro:\nΔv = 90 km/h = 25 m/s\n\nAceleração escalar média:\na = Δv ÷ Δt = 25 ÷ 20 = 1,25 m/s²\n\nQuem esquece de converter km/h para m/s obtém 4,5. Quem usa 90° em vez de 120° obtém Δt = 15 s e a ≈ 1,67 m/s².\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Conteúdo: pêndulo cônico em movimento circular uniforme.\n\nAtuam na esfera o peso e a tração. Como o movimento é uniforme, a resultante é centrípeta: aponta sempre para o centro C e tem módulo constante, igual a m·v²/R.\n\nPor isso a resultante tem a mesma intensidade nas quatro posições.\n\nA direção da resultante muda, porque aponta para C de cada ponto da circunferência (D e C erradas). A velocidade vetorial é tangente e também muda de direção (B). A aceleração escalar (tangencial) é nula no movimento uniforme (A).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Conteúdo: transformação de energia mecânica em calor (calorimetria).\n\nMassa total aquecida (as duas mãos): 2 × 200 g = 0,4 kg.\n\nCalor necessário:\nQ = m · c · Δθ = 0,4 × 4000 × 1,5 = 2400 J\n\nCom potência dissipada de 20 J/s:\nΔt = Q ÷ P = 2400 ÷ 20 = 120 s = 2,0 min\n\nO erro mais comum é considerar só uma mão (0,2 kg), o que dá 60 s = 1,0 min (alternativa E). O enunciado diz que a energia aquece \"suas mãos\", as duas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Conteúdo: transformações gasosas, isotérmica e isobárica.\n\nAB é isotérmica, então P·V é constante sobre a curva. O gráfico mostra que a curva passa por P = 2 × 10⁵ Pa e V = 3 × 10⁻³ m³:\nP·V = 2 × 3 = 6 (nas unidades do gráfico)\n\nEm B, P = 1, então V_B = 6 ÷ 1 = 6 × 10⁻³ m³.\n\nBC é isobárica (P = 1 × 10⁵ Pa) e vai até V_C = 2 × 10⁻³ m³. Na isobárica, V/T é constante:\nT_B ÷ T_C = V_B ÷ V_C = 6 ÷ 2 = 3\n\nA armadilha é usar V = 3 como volume de B: o 3 marca o ponto da isoterma em que P = 2, não o estado B.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "Conteúdo: espelho plano e campo visual.\n\nA imagem de um ponto do corpo fica simétrica a ele em relação ao espelho. O raio que vem da parte mais baixa visível do corpo chega aos olhos depois de refletir na borda inferior do espelho. Os olhos estão na altura da borda superior.\n\nPela simetria, a reflexão acontece no ponto médio do desnível vertical entre o olho e o ponto observado. Esse desnível é 1,4 m, então:\nh = 1,4 ÷ 2 = 0,70 m\n\nA distância de 1,2 m até o espelho não entra na conta: a proporção 1/2 vale para qualquer distância (semelhança de triângulos com a imagem a 2,4 m).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Conteúdo: refração (lei de Snell) e reflexão total.\n\nRaio II: sai rasante (refratado a 90°), então α é o ângulo limite.\nsen α = n_ar ÷ n_líq\n√3/3 = 1 ÷ n\nn = √3\n\nRaio I, do ar (θ) para o líquido (β):\n1 · sen θ = n · sen β\nsen θ = √3 × √6/6 = √18/6 = 3√2/6 = √2/2\n\nPela tabela, θ = 45°.\n\nEsse valor faz sentido: o raio se aproxima da normal ao entrar no meio mais refringente, então θ é maior que β.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Conteúdo: movimento harmônico simples, sistema massa-mola.\n\nAo deslocar o bloco 0,5 m, uma mola fica comprimida e a outra distendida em 0,5 m. As duas empurram o bloco para o mesmo lado, então funcionam como molas em paralelo:\nk_eq = 8 + 8 = 16 N/m\nAmplitude: A = 0,5 m. Massa: m = 0,2 kg.\n\nVelocidade máxima, no ponto de equilíbrio:\nv_max = A · √(k/m) = 0,5 × √(16 ÷ 0,2) = 0,5 × √80 = 0,5 × 4√5 = 2√5 m/s\n\nO mesmo resultado sai pela energia: k·A²/2 = m·v²/2 → 16 × 0,25 = 0,2 v² → v² = 20.\n\nQuem usa uma mola só (k = 8 N/m) obtém v² = 10, ou seja, √10, que não está entre as alternativas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Conteúdo: ondas estacionárias em corda e equação de Taylor.\n\nA figura mostra 3 ventres (fusos). Cada fuso mede meio comprimento de onda:\nL = 3 · λ/2 → λ = 2L/3\n\nVelocidade de propagação:\nv = λ · f = 2Lf/3\n\nDensidade linear: μ = m/L.\n\nEquação de Taylor: v² = T/μ, então T = μ · v²:\nT = (m/L) · (4L²f²/9) = 4·m·L·f²/9\n\nContar 3 fusos como 3 comprimentos de onda, ou esquecer de elevar 2/3 ao quadrado, leva às alternativas erradas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Conteúdo: circuito com associação mista e potência elétrica.\n\nPotência total: P = U · i\n14,4 = 12 · i → i = 1,2 A\n\nResistência equivalente:\nR_eq = U ÷ i = 12 ÷ 1,2 = 10 Ω\n\nO resistor de 2 Ω está em série com o bloco paralelo, então esse bloco vale 8 Ω. No paralelo estão R_x e o ramo 6 + 6 = 12 Ω:\nR_x · 12 ÷ (R_x + 12) = 8\n12R_x = 8R_x + 96\nR_x = 24 Ω\n\nConferência: 24 ∥ 12 = 288 ÷ 36 = 8 Ω.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Conteúdo: campo magnético no interior de um solenoide.\n\nB = μ · (N/L) · i\n\nO campo depende da densidade de espiras (espiras por unidade de comprimento), não do número total de espiras.\n\nUnindo dois solenoides idênticos pelas extremidades, o conjunto fica com 2N espiras e comprimento 2L, percorrido pela mesma corrente i:\nB' = μ · (2N ÷ 2L) · i = μ · (N/L) · i = B\n\nA tentação é responder 2B pensando só no dobro de espiras, mas o comprimento também dobra.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Conteúdo: razão e proporção.\n\nSábado: 47 crianças e 144 adultos, 191 cortes.\nDomingo: mais 128 cortes.\nTotal nos dois dias: 191 + 128 = 319.\n\nCrianças : adultos = 3 : 8, ou seja, as crianças são 3 de cada 11 cortes:\ncrianças = 319 × 3/11 = 87\nadultos = 319 × 8/11 = 232\n\nCrianças no domingo: 87 − 47 = 40. Conferindo: adultos no domingo = 232 − 144 = 88, e 40 + 88 = 128.\n\nO erro típico é aplicar a razão 3/8 só aos 128 cortes do domingo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Conteúdo: análise combinatória, arranjos com restrições (princípio da inclusão-exclusão).\n\nSem restrições, 5 amigos escolhendo karts distintos entre 8:\n8 × 7 × 6 × 5 × 4 = 6720\n\nCasos proibidos:\nLuís com o kart 1: 7 × 6 × 5 × 4 = 840\nAntônio com o kart 7: 840\nOs dois ao mesmo tempo, contados duas vezes: 6 × 5 × 4 = 120\n\nManeiras válidas:\n6720 − 840 − 840 + 120 = 5160\n\nEsquecer de somar de volta os 120 casos duplamente descontados dá 5040 (alternativa A).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Conteúdo: sistema linear. Sejam u, p e a os números de uruguaios, paraguaios e argentinos.\n\n20u + 28p + 24a = 400 → 5u + 7p + 6a = 100\n12u + 4p + 8a = 144 → 3u + p + 2a = 36\n\nHá 3 incógnitas e 2 equações, mas pede-se apenas u + p + a. Procure x e y tais que x·(5, 7, 6) + y·(3, 1, 2) = (1, 1, 1):\n5x + 3y = 1 e 7x + y = 1 → x = 1/8 e y = 1/8 (confere: 6/8 + 2/8 = 1)\n\nSomando as equações e dividindo por 8:\n8u + 8p + 8a = 136\nu + p + a = 17\n\nExemplo concreto: u = 6, p = 4, a = 7 satisfaz as duas equações e soma 17.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Conteúdo: progressão geométrica e estudo do sinal de uma função.\n\nSe (b, c, d) é PG de razão q, então c = bq e d = bq². Como 0 < b < c < d, temos q > 1, e c/b = q.\n\nf(q) = (2b + bq²) ÷ (bq) − 3 = (q² + 2)/q − 3 = (q² − 3q + 2)/q = (q − 1)(q − 2)/q\n\nPara q > 0 o denominador é positivo, e o sinal é o do numerador (q − 1)(q − 2), negativo entre as raízes 1 e 2.\n\nf é negativa em ]1, 2[.\n\nA alternativa A esquece que entre 0 e 1 os dois fatores são negativos e o produto é positivo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Conteúdo: semelhança de triângulos, área de trapézio e tangente.\n\nOs triângulos EDF e BAF são semelhantes (ED ∥ AB e ângulos opostos pelo vértice em F):\nDF/AF = ED/AB = 6/4\n\nChamando AD = h: DF = 0,6h e AF = 0,4h.\n\nO trapézio BCDF tem bases DF e BC = h (verticais) e altura AB = 4:\nárea = (0,6h + h)/2 × 4 = 3,2h = 38,4\nh = 12 cm\nDF = 7,2 cm\n\nNo triângulo retângulo EDF (ângulo reto em D), α fica em F, entre FD e FE:\ntg α = ED ÷ DF = 6 ÷ 7,2 = 5/6\n\nInverter cateto oposto e adjacente dá 6/5, que não está entre as opções.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Conteúdo: pirâmides semelhantes (razão de semelhança, áreas e volumes).\n\nA secção ABCD é paralela à base, então VABCD e VEFGH são semelhantes.\nRazão das áreas: 288/648 = 4/9 → razão linear k = 2/3 → razão dos volumes = 8/27.\n\nV_grande − V_pequena = V_grande × (1 − 8/27) = V_grande × 19/27 = 1140\nV_grande = 1620 cm³\n\nAltura: 1620 = (1/3) × 648 × H → H = 7,5 cm.\n\nLado da base: √648 = 18√2 cm, então a semidiagonal mede 18 cm.\n\nA aresta lateral VH é a hipotenusa do triângulo formado pela altura e pela semidiagonal:\nVH² = 18² + 7,5² = 324 + 56,25 = 380,25\nVH = 19,5 cm\n\nUsar o apótema (meio lado = 9√2) no lugar da semidiagonal é o erro mais comum.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Conteúdo: contagem e probabilidade.\n\nCada um dos 6 quartos pediu pão com queijo (Q) ou cachorro-quente (H), com pelo menos um de cada e mais Q do que H. O número k de pedidos Q deve ser maior que 3 e no máximo 5:\n\nk = 4 (dois H): C(6,4) = 15 distribuições\nk = 5 (um H): C(6,5) = 6 distribuições\n\nTotal de possibilidades compatíveis com as lembranças: 15 + 6 = 21.\n\nSó uma é a verdadeira, e todas são igualmente possíveis para Renato:\nP = 1/21\n\nQuem esquece a condição \"mais pedidos de pão com queijo\" conta 2⁶ − 2 = 62 casos. Quem inclui o caso k = 3 obtém outros denominadores.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Conteúdo: média aritmética.\n\nIdade atual = idade em que parou + tempo sem praticar. Somando para as 30 pessoas:\nsoma das idades = 30 × 53 = 1590\nsoma dos tempos sem praticar = 30 × 24 = 720\nsoma das idades em que pararam = 1590 − 720 = 870\n\nAs outras 29 pessoas pararam aos 28 anos:\n29 × 28 = 812\n\nA mais velha parou aos 870 − 812 = 58 anos. Como praticou por 14 anos, começou aos:\n58 − 14 = 44 anos\n\nO dado \"dos 20 aos 28\" serve para fixar a idade em que as demais pararam, e não entra como tempo de prática.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Conteúdo: lei dos cossenos e equação da reta (coeficiente angular).\n\nSeja α o ângulo em A, que é também a inclinação de AC em relação ao eixo x, porque AB é horizontal.\n\nLei dos cossenos, no lado oposto a A (BC):\n45 = 15² + 90 − 2 × 15 × √90 × cos α\n45 = 315 − 30√90 cos α\ncos α = 270 ÷ (30√90) = 9/√90 = 3/√10\n\nPela relação dada:\n1/cos²α = 10/9 = 1 + tg²α → tg²α = 1/9 → tg α = 1/3 (inclinação positiva)\n\nReta por A(8, 5) com coeficiente angular 1/3:\ny − 5 = (x − 8)/3 → y = (x + 7)/3\n\nConferência: C = (17, 8) está na reta e AC² = 81 + 9 = 90.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Conteúdo: lógica e execução passo a passo de um algoritmo.\n\nComeço: lista [8 3 0 −2 1], n = 5.\n\n1ª volta:\nmúltiplo de 3 mais próximo → [9 3 0 −3 0]\nsoma n = 5 → [14 8 5 2 5]\nx = 2; n = 2 − 7 = −5\n\n2ª volta:\nmúltiplo de 3 → [15 9 6 3 6]\nsoma −5 → [10 4 1 −2 1]\nx = −2; n = −9\n\n3ª volta:\nmúltiplo de 3 → [9 3 0 −3 0]\nsoma −9 → [0 −6 −9 −12 −9]\nx = −12; n = −12 − 7 = −19\n\nO ponto de atenção é que n muda a cada volta e o novo valor é usado no \"map [? + n]\" da volta seguinte. Quem mantém n = 5 o tempo todo chega a outro resultado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

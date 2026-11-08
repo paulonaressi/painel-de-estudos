@@ -63,6 +63,11 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "0:13": {
+   "resposta": "Tema: funções do \"se\" (pronome apassivador).\n\nO \"se\" é apassivador quando forma a voz passiva sintética com verbo transitivo direto: a frase pode ser reescrita na passiva analítica. Em \"daquilo que não se podia dizer\", temos \"aquilo que não podia ser dito\"; o \"que\" (aquilo) é o sujeito paciente.\n\nNas outras: em B, \"se você disser\" é conjunção condicional; em E, \"ao se encaminhar\" é pronome reflexivo, parte do verbo pronominal \"encaminhar-se\"; em A e D, \"lhe\" é pronome pessoal oblíquo (objeto indireto), não \"se\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "0:14": {
    "resposta": "Discurso direto e indireto. Na passagem para o discurso indireto, os tempos verbais recuam: o presente do indicativo vira pretérito imperfeito. Assim: \"dou\" → \"dava\" e \"tenho\" → \"tinha\" (ele disse que não as dava porque já não as tinha).\n\n\"Tivesse\" (pretérito imperfeito do subjuntivo) e \"daria\" (futuro do pretérito) já estão no plano do passado/hipótese e permanecem iguais: \"e que, mesmo que ainda as tivesse, não as daria\".\n\nPor isso, só os dois verbos no presente mudam.\n\n**Resposta: A**",
    "confianca": "alta",

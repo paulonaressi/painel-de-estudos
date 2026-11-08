@@ -28,6 +28,11 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "0:6": {
+   "resposta": "Coesão por elipse: omissão de um termo já mencionado, que o leitor recupera pelo contexto.\n\nEm \"porque o seu é um discurso sobre o lugar\", o possessivo \"seu\" está sem substantivo: subentende-se \"o seu [discurso]\", retomando as \"ideias fora do lugar\" mencionadas antes, ou seja, o discurso de Davi Kopenawa não é fora do lugar, é sobre o lugar. O substantivo \"discurso\" fica implícito na primeira ocorrência para não ser repetido.\n\nNas demais alternativas não falta substantivo: em A e D os termos estão explícitos; em C, \"o que dizem os índios\" tem o pronome \"o\" como núcleo; em E, \"ideias\" e \"lugar\" aparecem por extenso.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "0:7": {
    "resposta": "A questão cobra a compreensão de um comentário metanarrativo do narrador.\n\nDepois de contar o “contozinho”, o narrador observa que o padre Chagas “certamente emendou o texto original”, pois “não é preciso estar embriagado para acender um charuto nas misérias alheias”. Ou seja, para o narrador, na versão original o homem não estava bêbado: o padre teria acrescentado a embriaguez para tornar a história consoladora, como se só um ébrio fosse capaz de tirar proveito da desgraça alheia. A ironia machadiana está em sugerir que pessoas sóbrias fazem o mesmo.\n\nAs demais alternativas alteram dados que o narrador não contesta: a choupana ardia, a mulher chorava, era a dona, e o homem queria acender o charuto.\n\n**Resposta: A**",
    "confianca": "alta",
@@ -90,6 +95,11 @@
   },
   "0:19": {
    "resposta": "A questão cobra o sentido de uma expressão idiomática em inglês.\n\n“Bridge” é ponte; como verbo, “to bridge the gap” significa construir uma ponte sobre o vão, isto é, reduzir a distância, aproximar dois lados. No texto, “bridging the gap between cultures” é aproximar as culturas, reduzir o distanciamento entre elas, algo apresentado como urgente para a paz, já que três quartos dos grandes conflitos têm dimensão cultural.\n\nA ideia não é substituir, avaliar, delimitar nem desenvolver as culturas, mas promover o diálogo e a aproximação entre elas, como reforça o último parágrafo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Inglês: identificar no texto os meios (instrumentos) de promoção da diversidade cultural.\n\nO terceiro parágrafo diz que a aceitação e o reconhecimento da diversidade cultural, \"in particular through innovative use of media and Information and Communications Technologies (ICTs)\", favorecem o diálogo entre civilizações. A preposição \"through\" (por meio de) introduz justamente o meio: o uso inovador da mídia e das tecnologias de informação e comunicação.\n\nE é a armadilha: \"are conducive to dialogue...\" apresenta os resultados, os efeitos da valorização da diversidade, não os meios. B e D falam do papel da diversidade no desenvolvimento, e C, da dimensão cultural dos conflitos.\n\n**Resposta: A**",
    "confianca": "alta",
    "pendencia": null
   },

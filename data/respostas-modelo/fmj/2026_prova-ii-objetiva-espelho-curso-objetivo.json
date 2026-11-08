@@ -1,0 +1,207 @@
+{
+ "indice": "data/questoes/fmj/2026_prova-ii-objetiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Humor e homonímia. Na tira de Laerte, São Pedro diz ao homem na porta do céu \"Você foi mau\", e o homem pergunta se é \"mau\" com U ou \"mal\" com L. São palavras homônimas homófonas: soam igual, mas \"mau\" (adjetivo, oposto de \"bom\") indica um juízo moral, enquanto \"mal\" (advérbio, oposto de \"bem\") sugere desempenho ruim, erro.\n\nO humor está em transformar essa diferença ortográfica no critério do julgamento final: com U, inferno; com L, purgatório. E a letra está \"meio confusa\".\n\nA alternativa E é tentadora, mas o homem não desconhece a diferença; ele a conhece e tenta tirar proveito dela. Também não há crítica ao preciosismo linguístico (A) nem associação da ortografia à punição eterna como crítica religiosa (B).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Classes de palavras: \"mau\" × \"mal\". \"Mau\" é adjetivo, antônimo de \"bom\"; \"mal\" é advérbio, antônimo de \"bem\" (ou substantivo, quando vem com artigo: \"o mal\").\n\nEm \"Se fui mau\", o verbo \"ser\" liga o sujeito a uma qualidade: \"mau\" é adjetivo em função de predicativo do sujeito (fui mau = fui uma pessoa má).\n\nEm \"Se fui mal\", o sentido é de modo, de desempenho: \"fui mal\" = me saí mal, como em \"fui bem na prova\". \"Mal\" é advérbio de modo. O teste prático é trocar pelo antônimo: \"fui bom\" e \"fui bem\".\n\nAssim, os termos são um adjetivo e um advérbio, nessa ordem; a alternativa A inverte a ordem.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Estilos de época: Bocage e o Arcadismo. Bocage é o principal poeta do Arcadismo português (século XVIII), e o texto é um soneto rigoroso, com versos decassílabos e rimas regulares, como pedia o neoclassicismo árcade.\n\nAo mesmo tempo, o poema expõe o sofrimento amoroso (\"Amor, me tens ferido!\"), a oscilação entre Amor e Razão e o conflito interior do sujeito, temas que a crítica aponta como pré-românticos na obra de Bocage e que se tornariam centrais no Romantismo.\n\nO soneto não trata de realidade objetiva ou crítica social (A e C), nem de inconsciente ou sinestesia (B e E); e a forma fixa é mantida, não rompida.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Interpretação do soneto. Na última estrofe, o eu lírico afirma que gosto e dor, sossego e lida \"travam-se\" (se entrelaçam e lutam entre si) e que é \"lei da Natureza\" e \"lei da Sorte\" que o Mal e o Bem sejam o \"matiz da vida\".\n\nOu seja, a vida é feita de contrastes inevitáveis, e eles vêm das leis naturais e do destino. É exatamente o que diz a alternativa A.\n\nA alternativa C contraria o texto: bem e mal não são incompatíveis, convivem e compõem juntos a vida. Não há apelo à razão para suprimir o sofrimento (B), proposta estoica de renúncia (D) nem queixa contra a sorte como força destrutiva (E): o tom é de constatação, não de revolta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Reescrita e voz verbal. Nos versos, \"o mortal\" é sujeito paciente de uma locução na voz passiva (\"é conduzido\"); \"quão fácil\" indica intensidade (com que facilidade) e \"sem querer\" indica que isso acontece sem a vontade dele.\n\nA alternativa C mantém a voz passiva (\"é facilmente conduzido\"), traduz \"sem querer\" por \"contra sua vontade\" e preserva \"de um estado a outro\".\n\nAs outras alteram o sentido: A, B e D põem o mortal como agente que conduz a si mesmo (\"se conduza\", \"conduz\", \"conduzir-se\"), e B ainda deixa \"conduz\" sem complemento; E acrescenta uma causa (\"pela oscilação\") e troca \"sem querer\" por \"sem se dar conta\", que não é o mesmo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Coesão referencial: pronome oblíquo. \"Lhe\" é objeto indireto e equivale a \"a ele\". No verso \"Onde o Sol, bem de todos, lhe é vedado\", entende-se: o Sol é proibido a ele.\n\nQuem é esse \"ele\"? A segunda estrofe continua a frase iniciada na primeira, em que o sujeito é \"O mortal\": o ser humano é levado de um estado a outro, de uma posição elevada e brilhante até um lugar escuro, onde o Sol (que é \"bem de todos\") lhe é negado e onde ele se vê preso a \"ferros vis\".\n\nA alternativa C é a armadilha: \"Sol\" é o sujeito de \"é vedado\", não o referente de \"lhe\". Fado, Razão e Amor não são privados de nada no poema.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Ironia na canção de Belchior. O eu lírico diz ao interlocutor para não se preocupar com os \"horrores\" que conta, porque \"isto é somente uma canção\"; logo depois, completa que a vida \"realmente é diferente\": \"ao vivo é muito pior\".\n\nO falso consolo é irônico: em vez de amenizar, ele afirma que a realidade é ainda mais cruel do que aquilo que a canção mostra. Há contraste entre canção e vida.\n\nA alternativa B é a armadilha: o eu lírico parece negar a gravidade do que canta, mas os dois últimos versos mostram o contrário, que a canção fica aquém da realidade. Também não há minimização (A), resignação (C) nem consolo pela arte (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Funções da linguagem: metalinguagem. Há metalinguagem quando o código fala de si mesmo: um poema que fala do poema, uma canção que fala da canção.\n\nEm \"Isto é somente uma canção\", o eu lírico se refere à própria canção que está sendo cantada (\"isto\"), comentando sua natureza. É o verso metalinguístico.\n\n\"Mas não se preocupe, meu amigo\" tem função conativa (dirige-se ao interlocutor); \"Ao vivo é muito pior\" e \"A vida realmente é diferente\" falam da realidade, não da canção; \"Com os horrores que eu lhe digo\" se refere ao conteúdo do que é dito, não ao gênero canção.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Pronome relativo. O único pronome relativo do trecho é o \"que\" em \"Com os horrores que eu lhe digo\". Ele introduz uma oração adjetiva e retoma o substantivo imediatamente anterior: \"eu lhe digo os horrores\".\n\nO \"que\" também é objeto direto do verbo \"digo\", função que confirma o referente: eu digo os horrores, e não \"eu digo o amigo\" ou \"a canção\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Marcadores discursivos. \"Quer dizer\" equivale a \"isto é\", \"ou seja\", \"melhor dizendo\": introduz uma explicação que reformula ou precisa o que acabou de ser dito.\n\nO eu lírico afirma \"A vida realmente é diferente\" e, com \"quer dizer\", esclarece em que sentido ela é diferente: \"Ao vivo é muito pior\". O segundo enunciado não contradiz o primeiro; especifica-o e o corrige para mais grave.\n\nA alternativa E é a mais tentadora, mas o verso anterior não é uma afirmação errada a ser desmentida: a vida de fato é diferente da canção. Não há dúvida (A), comparação (D) nem simples acréscimo (C).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Porcentagem: aumentos e descontos sucessivos. Cada variação vira um fator multiplicativo: aumento de 10% → × 1,10; redução de 25% → × 0,75.\n\nFator total = 1,10 × 1,10 × 1,10 × 0,75\n1,1³ = 1,331\n1,331 × 0,75 = 0,99825\n\nO preço final é 99,825% do inicial: houve redução de 0,175%, ou seja, menos de 1%.\n\nErro típico: somar as porcentagens (10 + 10 + 10 − 25 = +5%) e concluir que houve aumento. Os aumentos são compostos, e o desconto de 25% incide sobre o preço já aumentado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Progressões e logaritmos. Se a_n = log₂ b_n, então b_n = 2^(a_n). Basta achar o oitavo termo da PA.\n\na₈ = a₁ + 7 · r = 1 + 7 · (1/2) = 4,5\nb₈ = 2^4,5 = 2⁴ · 2^0,5 = 16√2\n\nObservação: como a PA tem razão 1/2, a sequência B é uma PG de razão 2^(1/2) = √2, começando em b₁ = 2. Conferindo: b₈ = 2 · (√2)⁷ = 2 · 8√2 = 16√2.\n\nQuem conta 6 passos em vez de 7 (a₈ = 4) chega a 2⁴ = 16, alternativa A.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Probabilidade com contagem. O espaço amostral do lançamento de três dados tem 6³ = 216 resultados igualmente prováveis. O evento é: soma 10 e nenhuma face igual a 1, isto é, cada face entre 2 e 6.\n\nTrios (sem ordem) com soma 10 e números de 2 a 6:\n2, 2, 6 → 3 permutações\n2, 3, 5 → 6 permutações\n2, 4, 4 → 3 permutações\n3, 3, 4 → 3 permutações\nTotal = 15 resultados\n\nP = 15 ÷ 216 = 5/72\n\nA alternativa A considera o evento conjunto. Se a frase fosse lida como condição (dado que nenhuma face mostra 1), o espaço seria 5³ = 125 e a resposta seria 15/125 = 3/25, que não está entre as opções.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Sistema linear com duas incógnitas. Seja p o peso da moeda pequena e g o da grande:\n\n20p + 30g = 190\n30p + 20g = 165\n\nSomando: 50p + 50g = 355 → p + g = 7,1\nSubtraindo a segunda da primeira: 10g − 10p = 25 → g − p = 2,5\n\nA diferença pedida já sai direto: 2,5 g. (Para conferir: g = 4,8 g e p = 2,3 g; 20 · 2,3 + 30 · 4,8 = 46 + 144 = 190.)\n\nCuidado: 2,3 g (alternativa D) é o peso da moeda pequena, não a diferença.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Equação do 1º grau com porcentagem. Seja q o preço do quindim. A primeira compra custa 10% a mais que a segunda:\n\n150 · 2,50 + 60q = 1,10 · (80 · 2,50 + 100q)\n375 + 60q = 1,10 · (200 + 100q)\n375 + 60q = 220 + 110q\n155 = 50q\nq = 3,10\n\nConferindo: 1ª compra = 375 + 186 = 561; 2ª compra = 200 + 310 = 510; 510 × 1,1 = 561.\n\nErro comum: aplicar os 10% à compra errada, isto é, multiplicar a primeira por 1,1 em vez da segunda.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Geometria analítica: retas e área de triângulo. Pontos de r:\n\nP (y = 0): 0 = −(5/2)x + 10 → x = 4 → P(4, 0)\nQ (x = 0): y = 10 → Q(0, 10)\n\nÁrea de OPQ = 4 · 10 ÷ 2 = 20\nÁrea de OPR = 20 ÷ 5 = 4\n\nO triângulo OPR tem base OP = 4 sobre o eixo x e altura igual à ordenada de R:\n4 · y_R ÷ 2 = 4 → y_R = 2\n\nR está em r: 2 = −(5/2)x + 10 → x = 3,2\nCoeficiente angular de s (passa pela origem): m = 2 ÷ 3,2 = 5/8\n\nErro comum: tomar a altura como a abscissa de R, ou inverter a razão (3,2 ÷ 2 = 8/5).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Função quadrática: valor máximo. Com f(x) = x + 1:\n\nf(x − 2) = x − 1\nf(x + 2) = x + 3\ng(x) = −(x − 1)(x + 3) = −x² − 2x + 3\n\nÉ uma parábola com a < 0, então tem máximo no vértice. As raízes são 1 e −3, e o vértice fica no ponto médio:\nx_v = (1 + (−3)) ÷ 2 = −1\ng(−1) = −(−2)(2) = 4\n\nErro comum: esquecer o sinal negativo ou trocar f(x − 2) por x − 2, o que muda as raízes e o máximo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Geometria plana e analítica: transformações (translação e reflexão) e distância entre pontos. Como AB = BC, o triângulo tem ângulos da base iguais: BÂC = BĈA = 30°. AB é perpendicular a r, então AC forma 30° com a vertical, isto é, 60° com a reta r.\n\nCom A na origem e r como eixo x:\nC = (4 · cos 60°, 4 · sen 60°) = (2, 2√3)\nTranslação de 5 cm: C' = (7, 2√3)\nReflexão em r: C'' = (7, −2√3)\n\nDistância CC'':\nΔx = 5, Δy = 4√3\nCC''² = 25 + 48 = 73\nCC'' = √73 cm\n\nErro comum: tomar o ângulo de 30° com a reta r em vez de com AB, o que troca seno e cosseno e leva a outro valor.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Volume de prisma e conversão de unidades. A base tem 4 m × 3 m = 12 m², então cada metro de altura corresponde a 12 m³ de água.\n\nTempo: 2 h 30 min = 150 min\nVolume retirado: 150 × 100 L = 15 000 L = 15 m³ (1 m³ = 1 000 L)\nQueda do nível: 15 ÷ 12 = 1,25 m\n\nComo a escala começa a contar a partir do topo do reservatório, o nível da água estará na marca de 1,25 m.\n\nErro comum: confundir a escala com a altura da água a partir do fundo (10 − 1,25 = 8,75 m) ou esquecer de converter litros em metros cúbicos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Gráfico de setores: o ângulo é proporcional à parte do total.\n\nTotal de peças: 16 + 64 + 40 + 24 = 144\nÂngulo de A = (16 ÷ 144) × 360° = (1/9) × 360° = 40°\n\nConferindo: B = 160°, C = 100°, D = 60°; 40 + 160 + 100 + 60 = 360°.\n\nUm atalho: 16 é exatamente 1/9 de 144, e 1/9 de uma volta completa são 40°.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Conflitos geopolíticos: a questão da Caxemira. Na partilha da Índia britânica, em 1947, o território foi dividido em dois Estados segundo critério religioso: a Índia, de maioria hindu, e o Paquistão, de maioria muçulmana.\n\nA Caxemira, região de maioria muçulmana governada por um marajá hindu, foi incorporada à Índia, e desde então é disputada pelos dois países, que já travaram várias guerras por ela. A rivalidade tem, portanto, fundamento religioso, entre muçulmanos e hindus, somado ao interesse estratégico pela região (água, fronteiras), agravado por serem ambos potências nucleares.\n\nAs demais alternativas trazem pares sem relação com a região: xintoísmo é japonês, sionismo se liga a Israel, e xiitas e curdos são do Oriente Médio.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Comércio internacional e relações China–África. No gráfico, a barra vermelha (exportações da China para a África) é maior que a parte azul (importações chinesas vindas da África) em praticamente todos os anos, e a diferença cresce no fim do período. Logo, a China tem superávit e a África, déficit nessa relação.\n\nO padrão se explica pela pauta: a China vende produtos industrializados, de maior valor agregado, e compra sobretudo commodities (petróleo, minérios, produtos agrícolas). Ao mesmo tempo, investe pesado em infraestrutura africana (ferrovias, portos, rodovias), o que facilita o escoamento e amplia o mercado para seus produtos.\n\nA alternativa C fala em déficit da África, o que é verdade, mas atribui a causa a dívidas para \"políticas de compensação à exportação\", explicação que não se sustenta.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Serviços ecossistêmicos do solo e acordos ambientais. O texto diz que a conservação do solo integra os Objetivos de Desenvolvimento Sustentável (ODS), que formam a Agenda 2030 da ONU, aprovada em 2015 com 17 objetivos e metas, entre eles o combate à degradação do solo (ODS 15).\n\nEntre os benefícios do solo está a regulação do clima: ele armazena grandes quantidades de carbono orgânico e influencia a umidade e a temperatura locais.\n\nAs outras alternativas erram o acordo: a Conferência das Partes é o fórum das convenções, não um acordo de metas; o Protocolo de Cartagena trata de biossegurança (transgênicos); o Acordo de Paris trata de emissões de gases-estufa; a Convenção de Ramsar protege áreas úmidas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Matriz elétrica brasileira. O mapa mostra que na maioria dos estados a principal fonte é a hídrica, além da eólica no Nordeste e da biomassa em Mato Grosso do Sul: o predomínio é de fontes renováveis.\n\nMas há exceções: Roraima e Acre aparecem com óleo diesel e o Amazonas com gás natural, fontes fósseis. Esses estados da Amazônia têm muitas localidades atendidas por sistemas isolados, sem ligação ao Sistema Interligado Nacional, e dependem de termelétricas locais.\n\nErros das outras: A (o mapa não mostra fonte de origem vegetal no Rio de Janeiro nem no Espírito Santo); B (o predomínio é hídrico, não eólico, e os alísios não fazem parte da massa Tropical Continental); D (a hidreletricidade aproveita rios de planalto, com desnível, não de baixo gradiente); E (biomassa é renovável).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Cartografia: escala numérica. Escala = distância no mapa ÷ distância real, com as duas na mesma unidade.\n\n50 km = 50 000 m = 5 000 000 cm\nEscala = 8 cm ÷ 5 000 000 cm = 1 ÷ 625 000\n\nOu seja, 1 cm no mapa equivale a 625 000 cm = 6,25 km no terreno.\n\nErro comum: converter errado os quilômetros (com um zero a mais chega-se a 1 : 6 250 000, alternativa A).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Conteúdo: Revolução Francesa, fase dos Estados Gerais (1789).\n\nNo Antigo Regime, a França era uma sociedade estamental: clero e nobreza tinham privilégios (isenção de impostos, cargos, tribunais próprios) e o rei concentrava o poder (absolutismo). Quando o Terceiro Estado se proclama Assembleia Nacional, \"una e indivisível\", afirma que a soberania está na nação, e não no monarca, e que a nação não é formada por \"corpos privilegiados\". Isso projeta duas rupturas: o fim do absolutismo (o poder de fazer leis passa à representação nacional) e o fim da divisão em ordens com privilégios — o que se concretizaria logo depois, com a abolição dos privilégios feudais em agosto de 1789.\n\nA alternativa A é tentadora, mas a República só veio em 1792 e a igualdade buscada era jurídica, não social. A C mistura a reivindicação do voto por cabeça com uma \"isenção fiscal dos mais pobres\" que não estava em jogo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Conteúdo: formação dos Estados nacionais na América Latina no século XIX.\n\nO texto diz que as rebeliões camponesas e urbanas foram \"duramente reprimidas\" e que as elites justificavam manter o poder em suas mãos por serem o único grupo com \"preparo\" para governar. A consequência é direta: a maior parte da população (camponeses, indígenas, ex-escravizados, trabalhadores pobres) ficou de fora da participação política, com voto censitário e cidadania restrita.\n\nAs alternativas C e E dizem o contrário do excerto, pois as revoltas não geraram reformas nem ampliaram a soberania popular. A A está errada porque a maioria dos novos Estados adotou a república (o Brasil foi a exceção monárquica). A D também falha: o caudilhismo foi justamente uma forma de exercício do poder pelas elites, não algo combatido por elas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Conteúdo: regimes totalitários (nazismo e fascismo) segundo Hannah Arendt.\n\nO trecho aponta três marcas: transformar classes em massas, substituir o sistema partidário por um movimento de massa, deslocar o \"centro do poder do Exército para a polícia\" e adotar uma política externa voltada \"ao domínio mundial\". Deslocar o poder para a polícia significa construir um Estado policial (polícia política, vigilância e terror, como a Gestapo e a SS); visar ao domínio mundial é uma política expansionista agressiva (o \"espaço vital\" nazista, o império fascista). A alternativa D traduz exatamente essas duas ideias.\n\nA A e a E descrevem traços reais dos totalitarismos (propaganda, culto ao líder), mas não são as características apresentadas no excerto, que é o que o comando pede. A B erra ao falar em pluripartidarismo, e a C, ao opor o totalitarismo à \"revolução permanente\" e ao liberalismo, ideia que não está no texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Conteúdo: Constituição de 1891 e o federalismo na Primeira República.\n\nO texto descreve a autonomia dos estados (as antigas províncias do Império): o artigo 65 lhes reservava todos os poderes não negados pela Constituição, o que permitia contrair empréstimos externos e manter forças militares próprias. Distribuir o poder entre a União e os estados-membros, inspirando-se no modelo dos Estados Unidos, é a definição de federalismo — em oposição ao centralismo do Império, em que as províncias tinham presidentes nomeados pelo imperador.\n\nAs demais alternativas tratam de outros pontos da Constituição de 1891 (direitos políticos, tripartição dos poderes) ou contrariam o texto: as forças citadas são estaduais, não as forças armadas nacionais, e a emissão de moeda não é mencionada.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Conteúdo: ditadura civil-militar no Brasil, ano de 1968.\n\nO texto fala do movimento estudantil de 1968, que culminou na Passeata dos Cem Mil (junho de 1968, Rio de Janeiro), e da adesão de secundaristas, artistas, religiosos, professores e bancários. Trata-se de uma mobilização da sociedade civil contra o regime militar instaurado em 1964, que já reprimia as entidades estudantis (a UNE estava na ilegalidade, daí as \"várias ilegais\" do texto).\n\nA alternativa B é a armadilha cronológica: o AI-5 é de dezembro de 1968, posterior à passeata, e não estabeleceu reforma universitária — ele fechou o Congresso e endureceu a repressão. A A remete às Diretas Já (1984). A D e a E falam de corrupção e fraudes eleitorais, temas ausentes do excerto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Interpretação de texto em inglês: a pergunta do título é \"why do so few people know her story?\" (por que tão poucas pessoas conhecem a história dela?).\n\nA resposta está no último parágrafo: a notícia do feito de Tabei correu a Ásia, mas \"made little impact in the west\"; a autora explica que isso tem a ver com as histórias que contamos sobre o homem — \"and it's almost always a man\" (e quase sempre é um homem) — contra a natureza. Ou seja, as narrativas de aventura e risco eram associadas a homens, e o feito de uma mulher acabou apagado. É o que diz a alternativa D.\n\nA E é tentadora porque usa um número do texto (38 pessoas antes dela), mas o texto não diz que o feito foi pouco relevante; ele destaca que todos os 38 eram homens. A A e a B não têm apoio no texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Interpretação de texto em inglês, terceiro parágrafo (o que começa com \"In the early hours\").\n\nDepois da avalanche, Tabei, mesmo machucada, recusou-se a voltar ao acampamento-base. O texto explica o motivo: a equipe levou cinco anos para chegar ao Everest, as licenças internacionais anuais eram limitadas e, se desistissem, \"they might have to wait several years to make another attempt\" (talvez tivessem de esperar vários anos para tentar de novo). Logo, a oportunidade de uma nova expedição seria, presumivelmente, distante demais — alternativa D.\n\nA A e a C atribuem a Tabei motivações pessoais (sonho de vida, provar algo a si mesma) que o texto não menciona. A E inverte os fatos: foram os guias nepaleses que a retiraram da neve.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Vocabulário em inglês: sentido de \"given\" como conector.\n\nEm \"given the limited number of annual international permits\", \"given\" significa \"considerando\", \"tendo em vista\": introduz a causa da enorme pressão sobre a equipe. Em português, \"dado o número limitado de licenças\". O equivalente em inglês que mantém essa relação de causa é \"due to\" (devido a): a pressão era imensa devido ao número limitado de licenças.\n\n\"In spite of\" (apesar de) daria sentido de concessão, o oposto. \"Instead of\" significa \"em vez de\", \"such as\" introduz exemplos (\"como\") e \"just as\" significa \"assim como\" ou \"no exato momento em que\" — nenhum deles expressa causa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Interpretação de texto em inglês: quarto parágrafo (\"Meanwhile, on the Tibetan side...\") e quinto (\"They were too late...\").\n\nO quinto parágrafo informa que, onze dias depois de Tabei, a equipe chinesa fez nova tentativa e \"Pan Duo became the second woman to summit Everest\". Portanto, a equipe chinesa conseguiu levar um de seus membros ao topo — alternativa A.\n\nA B distorce o texto: era uma equipe de 200 pessoas (\"200-strong Chinese team\"), não de 200 mulheres tibetanas. A C não se sustenta: a equipe tentava pôr uma mulher no topo ao mesmo tempo, e só depois o governo mandou \"climb ahead of the Japanese women\". A D não aparece no texto, e a E inventa uma relação de causa: o atraso veio de um acidente com morte de um integrante, não da escolha do lado tibetano.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Referência pronominal em inglês.\n\nO quarto parágrafo termina com a equipe chinesa recebendo ordem do governo para \"climb ahead of the Japanese women\" (subir antes das japonesas). O quinto começa com \"They were too late\" (eles chegaram tarde demais) e, em seguida, conta que a expedição japonesa colocou Tabei no topo em 16 de maio. Quem chegou tarde foi, portanto, a equipe chinesa, que não conseguiu passar à frente das japonesas.\n\nA alternativa B é a armadilha: a expedição japonesa é mencionada logo depois, mas como a que chegou primeiro. A D (governo chinês) não escala, apenas dá a ordem, e A e C não são referentes plausíveis de \"they\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Conteúdo: cinemática, movimento uniforme (distância = velocidade × tempo).\n\nA vitória foi por apenas 0,01 s, e os dois carros cruzaram a linha a 60 m/s. A distância entre eles na chegada é a que um carro percorre nesse intervalo:\n\nd = v · Δt = 60 · 0,01 = 0,6 m\n\nComparando com o comprimento de um carro:\n\n0,6 ÷ 4,8 = 0,125, ou seja, 1/8 do carro.\n\nA imagem certa mostra o carro de Peterson (5) praticamente emparelhado com o de Gethin (8), com o bico só um pouco atrás, uma fração pequena do comprimento do carro. É a alternativa B. Nas outras, a diferença é de meio carro ou mais (D, C) ou de quase um carro inteiro (A, E), o que corresponderia a vários metros, ou seja, a centésimos de segundo a mais.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Conteúdo: hidrostática, equilíbrio de um corpo apoiado no fundo (peso, empuxo e força normal).\n\nA moeda está em repouso no fundo, então a resultante é nula. Para cima atuam o empuxo E e a força normal N do fundo; para baixo, o peso P.\n\nP = m · g = 0,007 kg · 10 m/s² = 0,070 N\n\nN + E = P\nN = 0,070 − 0,011 = 0,059 N\n\nO erro mais comum é somar o empuxo ao peso (0,081 N, alternativa A), como se ele empurrasse a moeda para baixo, ou esquecer de converter gramas em quilogramas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Conteúdo: dilatação térmica linear, ΔL = L₀ · α · ΔT.\n\nAs duas hastes são do mesmo material, então têm o mesmo coeficiente α, e sofrem a mesma variação de temperatura T. Pelo gráfico, no mesmo ΔT:\n\nΔL₁ = 2a e ΔL₂ = a\n\nDividindo as equações:\n\nΔL₁ ÷ ΔL₂ = (L₀₁ · α · T) ÷ (L₀₂ · α · T) = L₀₁ ÷ L₀₂ = 2\n\nLogo, o comprimento inicial da haste 1 é o dobro do da haste 2: dilata mais quem é mais longo.\n\nA B cai na tentação de atribuir a diferença ao coeficiente, mas o material é o mesmo. A C e a D falam de temperatura inicial, que não entra na fórmula (só a variação importa).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Conteúdo: óptica da visão, acomodação visual.\n\nNo olho, a distância entre o cristalino e a retina é praticamente fixa. Para que objetos próximos e distantes formem imagem nítida na retina, o olho muda a distância focal da lente: os músculos ciliares contraem ou relaxam e alteram a curvatura (a forma) do cristalino. Para objetos próximos, o cristalino fica mais abaulado (menor distância focal, maior vergência); para objetos distantes, fica mais achatado.\n\nA A é a mais tentadora porque a córnea também refrata a luz (é responsável pela maior parte da refração), mas sua curvatura não é ajustada pelos músculos ciliares. A C confunde a pupila, que controla a quantidade de luz que entra, com a focalização. A D descreve o mecanismo de câmeras e de alguns peixes, não o do olho humano.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Conteúdo: corrente elétrica e carga, Q = i · Δt (área sob o gráfico i × t).\n\nO gráfico mostra uma onda quadrada: em cada período T a corrente vale 30 mA durante T/2 e zero na outra metade. Assim, a corrente média é a metade do valor máximo:\n\ni média = 30 ÷ 2 = 15 mA = 0,015 A\n\nEm 1,0 min = 60 s:\n\nQ = 0,015 · 60 = 0,90 C\n\nA frequência de 50 Hz só confirma que há um número inteiro de ciclos em 60 s (3.000 períodos), então a média vale para o intervalo todo. O erro típico é usar 30 mA o tempo todo, o que dá 1,80 C (alternativa E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

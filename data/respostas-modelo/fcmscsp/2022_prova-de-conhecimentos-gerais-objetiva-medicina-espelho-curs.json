@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/fcmscsp/2022_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Interpretação de tirinha. No primeiro quadrinho, o rapaz chama de \"absurd\" a teoria da professora: a matéria seria consciente e tudo no universo, senciente. No desfecho, porém, as próprias pedras conversam, comentam que os estudantes vão levar um susto e reclamam de terem gente sentada sobre elas.\n\nOu seja, a história confirma a teoria que os personagens ridicularizavam: ela se revela **válida** dentro do universo da tirinha. Aí está a ironia — quem achava graça (\"should be good for a laugh\") é que está enganado.\n\n\"Esdrúxula\" e \"risível\" correspondem à opinião dos personagens, não ao que o desfecho revela.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Figuras de linguagem: personificação (prosopopeia) é atribuir características humanas a seres inanimados. O humor da tirinha depende disso: as pedras falam, opinam (\"They're in for a shock\"), queixam-se de que as pessoas se sentam nelas e anunciam que vão querer conversar com elas.\n\nÉ a quebra de expectativa — pedras com consciência, exatamente o que os estudantes julgavam absurdo — que provoca o riso.\n\nNão há exagero intencional (hipérbole), suavização de ideia desagradável (eufemismo) nem texto que fale da própria linguagem (metalinguagem).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Interpretação de poema. No soneto de Vinicius de Moraes, o eu lírico recusa a comida \"de dieta\" — alface, cenoura, peras e maçãs, que deixa aos outros — e afirma o gosto por cajus, mangas, feijão com arroz, bife, queijo forte e parati. Declara-se \"omnívoro\" e termina dizendo que morrerá feliz por ter vivido \"sem comer em vão\".\n\nO tom é de entusiasmo com os prazeres da mesa, sem culpa. Por isso ele se mostra animado por comer tudo o que lhe dá prazer.\n\nNão há parcimônia, resignação à dieta nem ressentimento: ele simplesmente deixa a dieta \"a quem mais aprouver\", sem condenar ninguém.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Coesão referencial: o pronome oblíquo \"as\" retoma um termo feminino plural já citado. No verso \"Mas peras e maçãs, deixo-as ao esteta\", o \"as\" se refere a \"peras e maçãs\", que vêm antes, no mesmo verso.\n\nOs termos das outras alternativas também são femininos plurais, mas não são objeto de \"deixo\": as pastagens e as manadas aparecem em outro verso (\"Deixarei as pastagens às manadas\"), e \"saladas\" está em outra oração.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Pontuação: a vírgula pode marcar a omissão (elipse) de um verbo já expresso. A 3ª estrofe repete uma construção paralela: \"Não nasci ruminante como os bois / Nem como os coelhos, roedor\". No segundo verso, o verbo \"nasci\" não aparece; subentende-se \"nem [nasci] roedor como os coelhos\", e a vírgula assinala esse vazio na estrutura repetida.\n\nNas demais alternativas, a vírgula tem outras funções: separar termos coordenados numa enumeração (C e E, em que cajus e mangas são objetos do mesmo \"hei de chupar\"), isolar o objeto deslocado retomado por pronome (A) ou isolar um predicativo intercalado (B, \"feliz\").\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "Questão discutível: em E, a vírgula também poderia ser lida como elipse de \"hei de chupar\"; o gabarito considera que ali ela apenas separa termos coordenados."
+  },
+  "0:6": {
+   "resposta": "Objeto direto pleonástico (enfático): o objeto aparece como substantivo e é repetido por um pronome oblíquo. Em \"Mas peras e maçãs, deixo-as ao esteta\", o objeto de \"deixo\" é \"peras e maçãs\", antecipado no começo do verso, e o pronome \"as\" o retoma.\n\nNas outras alternativas, o objeto aparece uma vez só: \"cajus\" e \"mangas-espadas\" (C), \"da alface\" (D), \"feijão com arroz\" (E). Em B, \"a quem mais aprouver\" não é objeto direto repetido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Interpretação de texto. Na citação das \"Confissões\", santo Agostinho afirma que o presente, se fosse sempre presente e não passasse para o pretérito, \"já não seria tempo, mas eternidade\". Logo, a eternidade é justamente o que deixa de ser tempo: uma espécie de negação do tempo.\n\nAs demais distorcem o texto: Agostinho problematiza também o presente (A); os físicos defendem que o tempo é uma realidade ontológica, não uma ilusão (B); e Virgílio é citado por expressar o lamento pela passagem do tempo, não por julgar a reflexão inútil (D) ou ver nela negação da vida (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Sentido figurado (conotativo) é o uso de uma palavra fora de seu significado próprio. \"Divorciar\" significa, literalmente, dissolver um casamento. No texto, diz-se que os segundos bissextos servem para que o tempo dos relógios atômicos \"não se divorcie\" do tempo astronômico — isto é, não se afaste dele. A palavra é usada metaforicamente.\n\n\"Descobrimos\", \"eliminar\", \"atrasa\" e \"encerra\" estão empregados em seus sentidos habituais.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Orações subordinadas adverbiais. \"Mesmo que\" é conjunção concessiva: introduz uma ideia que poderia impedir o fato principal, mas não impede. O sentido é: ainda que o tempo seja uma realidade ontológica, ele continua despertando perplexidades.\n\nPode-se testar a troca por \"embora\": \"Embora ele seja uma realidade ontológica, continua despertando perplexidades\" — o sentido se mantém, o que confirma a concessão.\n\nA confusão comum é com a condição (\"se\", \"caso\"), mas aqui não há hipótese da qual dependa o fato principal.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Estilos de época. Eça de Queirós, líder do Realismo português, contrapõe duas estéticas. A primeira é \"a apoteose do sentimento\": o Romantismo, centrado na emoção e na subjetividade. A segunda é \"a anatomia do caráter\", \"a crítica do homem\", a arte que mostra se somos verdadeiros ou falsos e condena o que há de mau na sociedade: o Realismo, com sua análise objetiva e crítica social.\n\nNaturalismo não serve para a primeira lacuna, porque também é antirromântico; Arcadismo, Simbolismo e Parnasianismo não correspondem a nenhuma das descrições.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Ideia central de texto em inglês. O artigo descreve o porco selvagem como o mais feroz agente do \"ecological imperialism\": destrói plantas e animais nativos, espalha doenças, arrasa plantações e, ao revolver o solo, libera carbono equivalente às emissões de mais de um milhão de carros. O objetivo é mostrar que esses animais são uma grande ameaça ao meio ambiente.\n\nA alternativa B inverte a relação: o texto fala do impacto dos porcos sobre o clima, não do clima sobre os porcos. Não há menção a crueldade com os animais nem a métodos de controle da população.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Vocabulário em contexto. \"Wreak havoc\" significa causar estragos, provocar devastação; \"havoc\" quer dizer caos, destruição. O trecho diz que muitos porcos escaparam para o campo para fazer estrago, ideia retomada logo depois em \"they are chaos embodied\" (são o caos em pessoa).\n\nPor isso, \"create chaos\" (criar o caos) substitui a expressão sem mudar o sentido. As outras alternativas (roubar propriedades, sentir-se seguro, viver de modo sustentável, conquistar terras) não têm relação com o termo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Localização de informação. O segundo parágrafo afirma que as emissões de dióxido de carbono que os porcos produzem por ano \"equal that of more than a million cars\" — equivalem às de mais de um milhão de carros.\n\nLogo, os porcos selvagens produzem tanto CO₂ quanto um milhão de carros. O solo (A) é de onde o carbono é liberado, e os EUA (E) aparecem apenas como um dos países dos pesquisadores.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Vocabulário em contexto. \"Inadvertently\" significa sem intenção, involuntariamente (in- negativo + \"advert\", prestar atenção). O texto diz que a modificação do solo — no caso, feita pelos porcos — agravou a mudança climática sem querer: os animais não têm propósito algum de alterar o clima.\n\n\"De propósito\" é o oposto do sentido. \"Por negligência\" pressupõe um descuido de quem deveria tomar cuidado, ideia que o termo não traz.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Relações de sentido. No terceiro parágrafo, o pesquisador afirma: \"Anytime you disturb soil, you're causing emissions\" — sempre que se revolve o solo, provocam-se emissões. A alteração do solo é a causa; a liberação de dióxido de carbono, o efeito.\n\nO mesmo vale para os exemplos citados (agricultura, urbanização, desmatamento): todos mexem no solo e, por isso, liberam carbono. Não há contraste, alternância nem finalidade nessa relação.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Conectivos em inglês. \"Given\" no início da frase equivale a \"considering\" (considerando, tendo em vista): \"Given their domination of whole landscapes\" = considerando o domínio que eles exercem sobre paisagens inteiras. A expressão apresenta um fato levado em conta para a conclusão seguinte — os porcos tinham de estar piorando a situação.\n\nNão há condição hipotética (A), pois o domínio é um fato, nem ideia contrastante (B).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Vocabulário em contexto (falso cognato). \"To realize\" significa perceber, dar-se conta, e não \"realizar\". O pesquisador diz: \"Começamos a perceber que havia uma grande lacuna em escala global\" nessa pergunta — ninguém havia modelado o efeito dos porcos no mundo inteiro.\n\nQuem associa \"realize\" a \"realizar\" pode cair em alternativas sem sentido no contexto, como \"valorizar\" ou \"explicar\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Leitura de cartaz publicitário em inglês. O outdoor faz parte de uma campanha oficial de preparação para tornados (ready.gov/tornadoes) e mostra três porquinhos com a frase \"Big, bad tornadoes happen to good little pigs, too\" e o apelo \"Plan to live\".\n\nA referência é a fábula \"Os Três Porquinhos\": o \"big, bad wolf\" vira \"big, bad tornado\", que derruba casas como o lobo soprava as dos porquinhos. A campanha associa as orientações de segurança contra tornados a essa história conhecida para levar as pessoas a se prepararem.\n\nNão há nenhuma menção a alimentação, carne, crueldade com animais ou causas dos tornados.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Interpretação de tirinha. O porco diz estar vigiando a chegada de ondas gigantes (\"tidal waves\") e se gaba de que, ficando alerta, estará seguro; diante do desinteresse da mulher (\"Whatever\"), conclui que ela tem inveja de seu \"keen sense of observation\".\n\nNo último quadrinho, um tubarão surge bem atrás dele. O porco se engana duas vezes: sobre a mulher, que não sente inveja alguma, e sobre a própria capacidade de observação, já que não percebe o perigo real. Essa dupla falha produz o humor.\n\nNão se trata de posições antagônicas nem de interesse amoroso, e o \"Whatever\" da mulher não é o centro da piada.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Conectivos em inglês. \"As long as\" significa \"desde que\", \"contanto que\": introduz uma condição. Em \"As long as I stay alert, I'll stay safe\", o porco afirma que ficará seguro desde que permaneça alerta — a segurança depende dessa condição.\n\nA confusão possível é com a ideia de tempo (\"enquanto\"), mas nenhuma alternativa traz esse sentido, e o valor condicional é o que se destaca na fala.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Igreja medieval e monasticismo. A ordem de Cister, fundada em 1098, reagiu à riqueza e ao luxo de Cluny, pregando austeridade, pobreza e trabalho manual. O texto de Duby mostra a discussão sobre as imagens: a vontade de vencer o orgulho e de se libertar das \"ilusões da aparência\" levava a banir as imagens dos mosteiros, retomando a condenação da figuração pela Igreja primitiva, enquanto se reconhecia que elas eram úteis \"para o ensinamento dos pobres\".\n\nEssa dupla posição — condenar a idolatria e admitir a função didática das imagens para os iletrados — é a da alternativa E.\n\nAs outras não cabem: tradução da Bíblia e salvação pela fé são marcas da Reforma protestante (C), e os cistercienses não criticavam a ordem feudal nem se aproximavam de outras religiões.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Renascimento e humanismo. Na carta, Maquiavel conta que à noite se veste com trajes solenes para \"conviver\" com os autores da Antiguidade greco-romana, interrogando-os pela leitura sobre as razões de suas ações. Esse diálogo com os clássicos é o centro do humanismo renascentista: recuperar o saber antigo e valorizar o homem, sua razão e sua ação política.\n\nPor isso a carta revela um princípio central da renovação cultural do Renascimento italiano.\n\nO texto não mostra inferioridade diante dos antigos, mas admiração e diálogo (A); não há teocentrismo (C); e, em vez de descompromisso, Maquiavel busca nos clássicos lições para a política de seu tempo (D). A pobreza mencionada é a dele, exilado, não da sociedade (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Brasil colonial: a São Paulo dos bandeirantes. Sérgio Buarque de Holanda explica o bandeirismo pela pobreza da capitania: sem recursos para comprar escravos africanos, os paulistas iam ao sertão capturar indígenas. Essa falta de recursos vinha da distância e da dificuldade de comunicação com os centros produtores e os mercados, situados no litoral.\n\nDiferentemente de Recife e Salvador, ligadas à economia açucareira exportadora, São Paulo era uma colonização de planalto, isolada da costa e voltada ao interior.\n\nA urbanização da mineração (B) é posterior e ocorreu em Minas Gerais; e a Companhia de Jesus entrou em conflito com os bandeirantes justamente por causa da escravização indígena (A).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Era Napoleônica. As vitórias de Napoleão redesenharam o mapa europeu e, com o Bloqueio Continental (1806), levaram à invasão da Península Ibérica. Em 1807–1808, a família real portuguesa fugiu para o Brasil e o rei espanhol foi deposto, substituído por José Bonaparte.\n\nEsse abalo das metrópoles ibéricas desestabilizou seus sistemas coloniais: no Brasil, a abertura dos portos e a elevação a Reino Unido; na América espanhola, as juntas que iniciaram os processos de independência.\n\nAs outras falham: Napoleão derrubou dinastias absolutistas em vez de consolidá-las (A); a indústria britânica não foi desarticulada (B); não houve revoluções jacobinas universais (D); e os efeitos chegaram à Europa Oriental, como na campanha da Rússia, e à América (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Memória da escravidão e pós-abolição. Graciliano Ramos, nascido apenas quatro anos após a Lei Áurea, conta que na infância recebeu \"vagas notícias\" de uma escravidão \"aceitável, quase desejável\": os ex-escravizados viviam \"sossegados\" com seu avô, e ele nem imaginava que alguém tivesse trabalhado na enxada, como se as plantas nascessem sozinhas.\n\nO narrador expõe, com ironia, como a criança herdou a visão dos senhores, que apagava a violência e o trabalho forçado. É a permanência da visão senhorial da escravidão anos depois da abolição.\n\nO excerto não afirma que as relações escravistas continuavam (B) nem que houvesse paz entre as classes (C): a aparente harmonia é justamente a ilusão que o autor critica.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Revolução Russa de 1917. Após a queda do czar em fevereiro, Lênin defendia que o soviete de Petrogrado, e não o Governo Provisório, era o legítimo representante dos trabalhadores. O excerto mostra que, para ele, os aliados possíveis eram os camponeses pobres e outros grupos empobrecidos da Rússia e o proletariado de outros países em guerra.\n\nA revolução é vista, portanto, como uma aliança das classes dominadas, dentro e fora da Rússia.\n\nLênin rejeitava pagar as dívidas aos banqueiros (A), opunha-se à aliança com toda a sociedade, inclusive a burguesia (C), e defendia a saída da guerra, não a manutenção de conquistas territoriais (D). Em vez de romper com os povos dos países em guerra (E), via neles aliados.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Segunda Guerra Mundial e fascismo. Depois da queda de Mussolini em 1943, a Alemanha nazista o recolocou à frente da República de Salò, um Estado fantoche. O excerto mostra a contradição dessa aliança: enquanto a propaganda falava em nacionalismo, os alemães enviavam trabalhadores italianos à força para a Alemanha e anexavam territórios que a Itália ganhara após a Primeira Guerra.\n\nA aliança entre regimes ideologicamente próximos era, portanto, conjuntural, marcada pela submissão da Itália aos interesses alemães — uma situação de momento.\n\nOs regimes eram semelhantes, ambos de partido único (B); não houve ajuda internacional de fascistas contra os bolcheviques (C); e o governo de Salò não se aliou aos grupos armados que lutavam contra os alemães, pois esses eram os partigiani antifascistas (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Política Externa Independente. No breve governo de Jânio Quadros (1961), o Itamaraty deixou de alinhar-se automaticamente aos Estados Unidos e ao sistema interamericano. Em plena Guerra Fria, com a corrida nuclear, o Brasil aproximou-se dos países recém-independentes da África e da Ásia e dos líderes do movimento dos não alinhados (Nehru, Nasser, Sukarno, Tito), que buscavam um \"terceiro sistema\".\n\nA política supunha que Estados médios pudessem atuar com autonomia entre os dois blocos, como afirma a alternativa A.\n\nO governo não apoiava revoluções socialistas (D): o não alinhamento recusava os dois polos. E o texto aponta justamente o afastamento do sistema interamericano (C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Industrialização na Era Vargas. A entrada do Estado na produção de insumos básicos começou com a Companhia Siderúrgica Nacional, em Volta Redonda, criada em 1941. Vargas negociou com os Estados Unidos, em plena Segunda Guerra, um empréstimo do Eximbank e apoio técnico em troca do alinhamento brasileiro aos Aliados.\n\nAs outras alternativas falham na cronologia ou nos fatos: o Plano de Metas (A) e as montadoras (B) são do governo JK, posteriores; Vargas não estatizou conglomerados estrangeiros (C); e o monopólio do petróleo com a Petrobras (D) é de 1953, mais de uma década depois da CSN.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Segregação racial nos Estados Unidos. A foto de 1953 registra as leis Jim Crow, que separavam brancos e negros em espaços públicos no sul do país. Há dois bebedouros: o \"White\", moderno e refrigerado, e o \"Colored\", uma pia simples e menor, usada por um homem negro.\n\nÉ uma cena do dia a dia que expõe a discriminação racial e também a desigualdade material entre as instalações destinadas a cada grupo, daí \"econômico-racial\".\n\nA foto mostra separação, não convívio democrático (A); não há sinal de ascensão social (B) nem de transgressão das leis (E). A imagem também não explica a origem econômica do preconceito (D): ela mostra seu efeito.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Migrações e preconceito. Xenofobia é a aversão ou hostilidade ao estrangeiro. O projeto \"Migra Myths\", em Lisboa, combate mitos que alimentam a rejeição aos imigrantes, como a ideia de que Portugal estaria \"invadido\" (eles são cerca de 5% dos residentes) ou de que recebem benefícios sem contribuir (na verdade, contribuem com somas milionárias para a Segurança Social).\n\nEurocentrismo é tomar a Europa como referência universal; aculturação é a assimilação de traços de outra cultura; genocídio e extradição não se referem a preconceito.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Leitura de mapa: migrações internacionais. O mapa traz linhas que partem de países da África Subsaariana e do Oriente Médio (Gana, Nigéria, Níger, Eritreia, Etiópia, Somália, Síria), passam por cidades de trânsito do Saara e do norte da África (Agadez, Tamanrasset, Cairo, Argel, Istambul) e chegam à Europa por Lampedusa, Malta e Itália.\n\nSão as rotas migratórias rumo à Europa; a cor 1 indica os trajetos por terra e as cores 2 e 3, as travessias pelo Mediterrâneo. A fonte é de 2015, auge da crise migratória.\n\nLinhas aéreas, oleodutos e rotas de exportação não convergiriam para pontos como Lampedusa e Malta, pequenas ilhas conhecidas como porta de entrada de migrantes.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Plano Real (1994). Para derrubar a hiperinflação, o plano criou a URV e depois o real, mantido próximo da paridade com o dólar: a chamada **âncora cambial**. Com o câmbio valorizado e a abertura comercial, produtos importados baratos seguravam os preços internos, e juros altos atraíam dólares para sustentar a moeda.\n\nAs outras alternativas contrariam o que ocorreu: o plano dependia da entrada de capitais (A) e estimulou importações (E); cortar zeros (B) é só mudança de unidade, que não controla a inflação; e não houve congelamento de salários (C), que foi a marca de planos anteriores, como o Cruzado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Logística do agronegócio: o Arco Norte. O mapa destaca o Cerrado (área cinza) — grande região produtora de soja e milho no Centro-Oeste — e os corredores dos rios Madeira, Tapajós e Tocantins, que levam a portos do Norte e do Nordeste (Itacoatiara, Santarém, Barcarena, Vila do Conde, São Luís).\n\nEsse conjunto de hidrovias, rodovias e portos é o Arco Norte, alternativa aos portos de Santos e Paranaguá para exportar grãos com menor custo de frete.\n\nA alternativa E é tentadora, mas o mapa mostra sobretudo rotas fluviais, não pavimentação. Extração de madeira e drogas do sertão não têm relação com o Cerrado destacado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Geografia da saúde. O mapa mostra os municípios com ocorrência de endemias ou epidemias, concentrados na Região Norte e no interior do Nordeste e, em menor grau, no Centro-Oeste — áreas onde a cobertura de rede de esgoto e de água tratada é mais baixa. Doenças como diarreias, hepatite A, leptospirose e as transmitidas por mosquitos, que se multiplicam em água parada, estão ligadas à falta de saneamento básico.\n\nA densidade demográfica (A) não explica o padrão: grandes áreas pouco povoadas da Amazônia estão marcadas. Zonas climáticas e altimetria também não acompanham a distribuição.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Intemperismo físico (mecânico) é a desagregação da rocha sem alteração de sua composição química. A imagem mostra o processo de crioclastia (gelifração): a água da chuva penetra nas juntas da rocha, congela, e o gelo, por ocupar volume maior que a água líquida, força as fissuras, alarga-as e fragmenta a rocha em blocos.\n\nPedogênese é a formação do solo; voçorocamento é a erosão por escoamento em grandes sulcos; movimento de massa é o deslocamento de material encosta abaixo; terraceamento é uma técnica agrícola.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Produção do espaço geográfico. Ross descreve duas sociedades no mesmo ambiente natural (relevo, solo e clima iguais): uma de hábitos tradicionais, que organiza o espaço de forma simples; outra, com mais tecnologia e capital, que o explora de modo intensivo e cria arranjos espaciais completamente diferentes.\n\nA ideia é que o espaço resulta da combinação entre a base natural e os fatores culturais e econômicos (técnica, capital, hábitos) de cada sociedade.\n\nA alternativa A exagera ao apontar a segregação econômica como fator determinante: o texto destaca as diferenças culturais e tecnológicas, sem relação de exclusão entre os grupos. Fronteiras e formação de Estados não são abordadas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Impactos ambientais do transporte marítimo. Ao captar água de lastro num porto e descartá-la em outro, o navio transporta organismos (larvas, algas, microrganismos) de um ecossistema para outro. Livres de predadores naturais, essas espécies exóticas podem se tornar invasoras e competir com as nativas, comprometendo a biodiversidade costeira. Um exemplo no Brasil é o mexilhão-dourado, trazido da Ásia.\n\nO volume de água movimentado é ínfimo diante dos oceanos, por isso não altera salinidade, correntes ou nível médio do mar; e as zonas econômicas exclusivas são definidas por distância da costa, não por salinidade.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Acordos climáticos. O Acordo de Paris (2015) estabeleceu a meta de limitar o aumento da temperatura média global a bem menos de 2 °C em relação ao período pré-industrial, buscando 1,5 °C. Para isso, cada país assumiu metas de redução das emissões de gases de efeito estufa, sobretudo gás carbônico. A COP26, em Glasgow (2021), discutiu se essas metas seriam mantidas ou ampliadas.\n\nAs alternativas B e D tratam de temas ambientais reais, mas não são a meta central do Acordo de Paris, que é o combate ao aquecimento global.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Cartografia temática. O método qualitativo (seletivo) representa a natureza dos fenômenos — o que existe e onde —, sem hierarquia de quantidade. Para mostrar a variedade de recursos minerais e energéticos (ferro, bauxita, petróleo, carvão…) e sua localização, usam-se símbolos pontuais de formas ou cores diferentes, um para cada recurso.\n\nA gradação de cores (A) e a variação de tamanho de uma mesma forma (C) servem para expressar quantidade ou ordem; as setas (E), para fluxos; e a anamorfose (D) deforma áreas proporcionalmente a um dado numérico.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Conteúdo: **espécies exóticas invasoras** e seus impactos ecológicos.\n\nUma espécie introduzida pode trazer consigo parasitas e patógenos (vírus, bactérias, protozoários) com os quais as espécies nativas nunca tiveram contato. Sem histórico evolutivo de convivência, as nativas não têm defesas adaptadas e podem sofrer mortalidade alta. Esse é um dos mecanismos clássicos pelos quais invasores reduzem a biodiversidade, ao lado da competição e da predação.\n\nAs outras alternativas têm erros conceituais: peixes não ocupam o primeiro nível trófico, que é dos produtores (A); um invasor não extermina todos os produtores de uma teia (C); energia não é reciclada nas cadeias alimentares, ela flui e se dissipa, quem é reciclada é a matéria (D); e o invasor não \"aumenta os nichos\" das nativas, ao contrário, compete por eles (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Conteúdo: **diferenciação celular** e expressão gênica.\n\nTodas as células somáticas de uma pessoa vêm do mesmo zigoto por mitoses, portanto carregam o mesmo genoma: os mesmos genes e a mesma sequência de bases no DNA. O que muda de um tipo celular para outro é quais genes estão ativos. O hepatócito expressa genes de enzimas do metabolismo do glicogênio e de detoxificação; o miócito expressa os genes da actina e da miosina. É a regulação da expressão gênica que torna as células diferentes.\n\nPor isso caem C e D (genes e sequências iguais). A DNA polimerase atua na replicação e é a mesma maquinaria nas duas células (B), e ribossomos atuam na tradução, não na transcrição (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Conteúdo: **transporte através de membranas** (osmose e difusão).\n\nA coluna A tem a solução hipotônica (poucas partículas) e a B, a hipertônica (muitas). O resultado depende do tipo de membrana:\n\nSe a membrana for **permeável** ao soluto, ele se move a favor do gradiente, de B (mais concentrada) para A (menos concentrada), até as concentrações se igualarem. Isso é difusão simples. É o que diz a alternativa D.\n\nSe fosse **semipermeável** (só deixa passar água), haveria osmose: a água iria de A para B, e o nível de B subiria. Por isso A está errada (sentido invertido) e E também, pois a osmose desnivela as colunas em vez de igualar os níveis. B descreve o soluto atravessando uma membrana semipermeável, o que ela não permite, e C chama de difusão facilitada um movimento de água sem proteína transportadora.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Conteúdo: **peixes ósseos (osteíctes) e cartilaginosos (condrictes)**.\n\nA linha lateral é um órgão sensorial presente nos dois grupos: uma fileira de canais com células sensoriais que percebem vibrações e variações de pressão na água, ajudando a detectar presas, predadores e obstáculos. É uma característica compartilhada.\n\nAs demais são diferenças ou erros: âmnion é anexo embrionário de répteis, aves e mamíferos, não de peixes (B); a bexiga natatória existe só nos ósseos, enquanto os cartilaginosos dependem do fígado rico em óleo e da natação para flutuar (C); as escamas placoides dos condrictes têm origem dermoepidérmica, mas as dos osteíctes são dérmicas (D); e o coração dos peixes tem um único ventrículo que recebe só sangue venoso, sem mistura (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Conteúdo: **coagulação sanguínea** (cascata de coagulação).\n\nA sequência básica é: a lesão libera tromboplastina (tromboquinase) dos tecidos e das plaquetas; ela, com íons cálcio e outros fatores, converte a **protrombina em trombina**; a trombina é uma enzima que converte o **fibrinogênio** (proteína solúvel do plasma) em **fibrina** (insolúvel). Os filamentos de fibrina formam uma rede que retém hemácias e plaquetas, formando o coágulo.\n\nA alternativa D descreve exatamente essa ordem. A troca a função da vitamina K, que é necessária à síntese hepática da protrombina e de outros fatores, não forma trombina diretamente; B e C invertem as etapas; E coloca o fibrinogênio como agente e confunde o objetivo do coágulo, que é fechar o vaso lesado, não reduzir a circulação.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Conteúdo: **digestão química** ao longo do tubo digestório.\n\nBasta lembrar onde cada substância começa a ser digerida:\n\nÁcidos nucleicos: só no intestino delgado, pelas nucleases do suco pancreático. A curva fica constante na boca e no estômago e cai no intestino: **S**.\n\nProteínas: começam no estômago (pepsina) e continuam no intestino (tripsina, peptidases). Curva constante na boca e decrescente a partir do estômago: **U**.\n\nCelulose: o ser humano não tem celulase, então ela não é digerida em nenhum trecho. Curva constante: **R**.\n\nAs outras curvas não servem: V cai na boca, para no estômago e volta a cair no intestino, perfil do amido (amilase salivar, inativada pelo pH ácido, e amilase pancreática); T cai o tempo todo. A tentação é escolher V para proteínas, mas proteínas não são digeridas na boca.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Conteúdo: **Teoria Sintética da Evolução** (neodarwinismo).\n\nA teoria sintética junta a seleção natural de Darwin com a genética: a variabilidade entre os indivíduos surge por **mutações** e por **recombinação gênica** (crossing-over, segregação independente, fecundação). Sobre essa variabilidade age a seleção natural, favorecendo os mais aptos ao ambiente; ao longo das gerações, isso resulta em adaptação. É o que diz E.\n\nAs demais carregam erros típicos. B e D são lamarckistas: supõem que a necessidade ou o meio induzem mutações dirigidas, quando as mutações são aleatórias e o meio apenas as seleciona. A ignora que a seleção é justamente a interferência do meio. C contradiz a ideia de adaptação: \"mais apto\" é sempre relativo a um ambiente, não existe vantagem independente das condições ambientais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Conteúdo: **adaptações foliares de plantas xerófitas**.\n\nA imagem mostra uma folha com cutícula espessa, epiderme de várias camadas na face superior e, na face inferior, os estômatos escondidos dentro de criptas (cavidades) forradas de tricomas. Esse conjunto é típico de plantas de ambiente seco (como a espirradeira): a cripta e os pelos retêm uma camada de ar úmido junto aos estômatos e reduzem a transpiração. Plantas assim também tendem a ter estômatos pequenos que se fecham nas horas mais quentes, economizando água, o que corresponde à alternativa A.\n\nAs outras não combinam com a anatomia: raízes superficiais não alcançariam o lençol subterrâneo (B); constante pluviosidade e influência das marés não exigiriam proteção contra perda de água (C, E); e toda planta perde um pouco de água pela cutícula, mesmo espessa (D).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Conteúdo: **meiose, ligação gênica e segregação independente**.\n\nNa figura, os genes A e B estão no mesmo par de cromossomos: um homólogo leva A e b, o outro leva a e B. Os pares D/d e E/e estão em cromossomos diferentes.\n\nSem permutação, os genes ligados vão juntos: esse par só forma os gametas Ab e aB (2 tipos). Os outros pares segregam independentemente: D ou d (2) e E ou e (2).\n\nNúmero de gametas diferentes = 2 × 2 × 2 = 8.\n\nUm gameta possível precisa ter a com B (ou A com b): aBDe é possível. ABDE seria impossível, pois A e B estão em homólogos diferentes e só se juntariam com crossing-over. As opções com 16 contam os quatro genes como independentes (2⁴), erro de quem ignora a ligação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Conteúdo: **alelos múltiplos (polialelia)**.\n\nMesmo que a população tenha três alelos para o gene (A¹, A² e A³), cada indivíduo diploide tem apenas dois cromossomos homólogos para aquele lócus, um vindo do pai e outro da mãe. Assim, uma célula somática normal carrega no máximo dois desses alelos (ou dois iguais, se for homozigota), um em cada homólogo.\n\nPor isso é esperado encontrar \"apenas dois dos alelos na mesma célula\". Os três alelos ou mais na mesma célula exigiriam aneuploidia ou poliploidia, excluídas no enunciado (A, E). E um cromossomo tem uma única posição (lócus) para esse gene, então não abriga dois ou três alelos dele (B, C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Conteúdo: **pressão de vapor e ebulição**.\n\nUm líquido ferve quando sua pressão de vapor se iguala à pressão externa. No destilador a vácuo a pressão interna é cerca de 0,3 atm; logo, o álcool isobutílico ferve quando sua pressão de vapor chega a 0,3 atm, o que ocorre numa temperatura menor que 108 °C (a tabela mostra a ebulição caindo junto com a pressão). Em 1 atm, ele ferve com pressão de vapor de 1 atm. Portanto, a pressão de vapor na ebulição sob vácuo é **mais baixa** que na ebulição a 1 atm.\n\nA condensação é o processo inverso, no mesmo equilíbrio líquido-vapor, sob a mesma pressão reduzida: o vapor condensa numa temperatura **mais baixa** que em 1 atm.\n\nO erro comum é responder \"igual\", pensando que a ebulição exige sempre a mesma pressão de vapor; ela exige pressão de vapor igual à externa, que aqui é menor.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Conteúdo: **estequiometria com perda de massa gasosa**.\n\nO único produto que sai do compartimento é o CO₂ (gás). A massa de sólidos caiu de 200 kg para 156 kg:\n\nmassa de CO₂ = 200 − 156 = 44 kg = 1 kmol\n\nPela equação, 1 mol de Na₂CO₃ gera 1 mol de CO₂. Como todo o carbonato foi consumido:\n\nNa₂CO₃ inicial = 1 kmol × 106 kg/kmol = 106 kg\n\nO resto da mistura inicial era SiO₂ (em excesso):\n\nSiO₂ = 200 − 106 = 94 kg\n\nPercentual = 94 ÷ 200 = 0,47 = 47%\n\nA armadilha é calcular o SiO₂ que reagiu (1 kmol × 60 = 60 kg) e esquecer o excesso; ou tomar 53%, que é o percentual do carbonato.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Conteúdo: **gases ideais**, densidade em função de pressão e temperatura.\n\nDa equação de Clapeyron, a densidade de um gás é d = P·M ÷ (R·T). Com a massa molar constante, T é proporcional a P ÷ d. Comparando as duas regiões (temperatura sempre em kelvin):\n\nT troposfera = 17 + 273 = 290 K\n\nT meso ÷ 290 = (P meso ÷ P tropo) ÷ (d meso ÷ d tropo)\n\nT meso = 290 × (4,2 × 10⁻⁶ ÷ 1) ÷ (7 × 10⁻⁶ ÷ 1)\n\nT meso = 290 × 0,6 = 174 K\n\nEm Celsius: 174 − 273 = −99 °C\n\nO erro típico é fazer a proporção com 17 °C em vez de 290 K, o que dá cerca de 10 °C (alternativa D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Conteúdo: **equilíbrio iônico**, pH de ácidos e bases fracos.\n\nPara uma solução 0,1 mol/L de ácido ou base fraca, a concentração do íon formado é cerca de √(K·C):\n\nI, ácido bórico (Ka ≈ 10⁻⁹): [H⁺] ≈ √(10⁻⁹ × 10⁻¹) = 10⁻⁵ → pH ≈ 5\n\nII, procaína (Kb ≈ 10⁻⁵): [OH⁻] ≈ √(10⁻⁵ × 10⁻¹) = 10⁻³ → pOH 3 → pH ≈ 11\n\nIII, piridina (Kb ≈ 10⁻⁹): [OH⁻] ≈ 10⁻⁵ → pOH 5 → pH ≈ 9\n\nOrdem: pH I < pH III < pH II. A solução ácida tem o menor pH e, entre as bases, a de maior Kb (procaína) tem o maior pH.\n\nA alternativa E, \"pH I < pH II > pH III\", é a única compatível: II supera as duas outras e I é menor que II. A tentação é a B, que coloca a piridina acima da procaína, ignorando que Kb maior significa base mais forte.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Conteúdo: **deslocamento de equilíbrio** (princípio de Le Chatelier).\n\nNo equilíbrio Cr³⁺ + HPO₄²⁻ ⇌ CrPO₄(s) + H⁺, a formação do precipitado é favorecida quando se retira um produto ou se acrescenta um reagente. Adicionar íons OH⁻ faz com que eles reajam com o H⁺ formando água (H⁺ + OH⁻ → H₂O). A queda na concentração de H⁺ desloca o equilíbrio para a direita, aumentando a formação de CrPO₄.\n\nNa⁺, NO₃⁻ e Cl⁻ são íons espectadores, que não participam do equilíbrio (A, B, E). Adicionar H⁺ aumentaria a concentração de um produto e deslocaria o equilíbrio para a esquerda, dissolvendo o fosfato de crômio (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Conteúdo: **concentração em quantidade de matéria** (mol/L).\n\nMassa de NH₄OH na amostra: 52,5 mg/g × 1,00 g = 52,5 mg = 0,0525 g\n\nMassa molar do NH₄OH = 14 + 4 × 1 + 16 + 1 = 35 g/mol\n\nQuantidade = 0,0525 ÷ 35 = 1,5 × 10⁻³ mol\n\nVolume da solução = 50 mL = 0,050 L\n\nConcentração = 1,5 × 10⁻³ ÷ 0,050 = 3,0 × 10⁻² mol/L\n\nA alternativa D (1,5 × 10⁻³ mol/L) é a quantidade em mol, sem dividir pelo volume; a E aparece quando se divide por 0,5 L em vez de 0,05 L.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Conteúdo: **célula a combustível** (eletroquímica).\n\nNa figura, o reagente I entra pelo lado do eletrodo positivo. Numa pilha, o polo positivo é o cátodo, onde ocorre redução; o reagente que se reduz é o oxidante, o O₂ do ar. O metanol (combustível) é oxidado no ânodo, o polo negativo, por onde entra o reagente II.\n\nElétrons por mol de CO₂: o carbono passa de número de oxidação −2 no CH₃OH para +4 no CO₂.\n\nvariação = +4 − (−2) = 6 elétrons por átomo de C\n\nComo cada CH₃OH forma 1 CO₂, são 6 mol de elétrons por mol de CO₂. Conferindo pelo O₂: 3/2 mol de O₂ × 4 e⁻ = 6 mol de e⁻.\n\nQuem associa o polo positivo à oxidação acaba escolhendo metanol (C, D), e quem conta 2 elétrons por O em vez de por O₂ chega a 3 mol.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Conteúdo: **termoquímica**, lei de Hess com entalpias de formação.\n\nO ΔH da reação é negativo (−727 kJ/mol), logo ela é **exotérmica**.\n\nΔH reação = Σ ΔHf produtos − Σ ΔHf reagentes. O O₂ é substância simples (ΔHf = 0):\n\n−727 = [(−394) + 2 × (−286)] − ΔHf metanol\n\n−727 = −966 − ΔHf metanol\n\nΔHf metanol = −966 + 727 = −239 kJ/mol\n\nA alternativa A troca o sinal (+239), erro de quem inverte a subtração produtos − reagentes. As opções com −47 aparecem quando se esquece de multiplicar a água por 2.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Conteúdo: **reações orgânicas**, desidratação de álcoois e polimerização.\n\nO polietileno é formado pela adição de muitas moléculas de eteno (etileno), CH₂=CH₂, de fórmula C₂H₄. Para obter o eteno a partir do etanol, retira-se uma molécula de água da própria molécula do álcool, em meio ácido (H₂SO₄ concentrado) e aquecimento, a cerca de 170 °C:\n\nC₂H₅OH → C₂H₄ + H₂O\n\nEssa é a **desidratação intramolecular**. (A intermolecular, a temperatura menor, produz éter.)\n\nC₂H₄O é o etanal, produto da oxidação branda do etanol (D), que não serve de monômero do polietileno; C₂H₆ é o etano, alcano sem dupla ligação, incapaz de polimerizar por adição (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Conteúdo: **isomeria óptica** e funções orgânicas.\n\nA molécula (o formoterol) tem dois carbonos assimétricos (quirais), destacados com as cunhas: o que carrega o OH e o que carrega o CH₃. Cada um tem quatro ligantes diferentes e, por isso, dá origem a **isômeros ópticos**.\n\nO carbono que carrega o CH₃ está ligado diretamente ao NH, uma **amina** secundária (nitrogênio ligado a dois carbonos e a um hidrogênio). O outro carbono quiral está ligado a um OH de álcool, mas a alternativa que cita álcool fala em isomeria cis-trans.\n\nA alternativa C é a mais tentadora porque a molécula tem uma amida (o grupo NH–CH=O no anel), mas esse grupo está ligado ao anel aromático, não a um carbono quiral. Também não há isomeria cis-trans, pois não existe dupla C=C fora do anel nem ciclo com substituintes que a permitam (A, E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "Conteúdo: **conversão de unidades** para o Sistema Internacional.\n\nNo SI, massa em kg e volume em m³.\n\n91 mg = 91 × 10⁻⁶ kg = 9,1 × 10⁻⁵ kg\n\n1 dL = 0,1 L = 10⁻⁴ m³ (pois 1 L = 10⁻³ m³)\n\n91 mg/dL = 9,1 × 10⁻⁵ ÷ 10⁻⁴ = 9,1 × 10⁻¹ kg/m³\n\nUm atalho útil: 1 mg/dL = 10 mg/L = 10 g/m³ = 0,01 kg/m³; então 91 mg/dL = 0,91 kg/m³.\n\nO erro mais comum é tratar o decilitro como 10⁻³ m³ (confundindo com o litro), o que leva a 9,1 × 10⁻² (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "Conteúdo: **lançamento oblíquo**, movimento vertical uniformemente variado.\n\nNa vertical o centro de massa sofre só a gravidade. Tomando a posição inicial (11 m acima da água) como origem e o sentido para cima como positivo, a água fica em −11 m:\n\nΔy = v₀y·t − g·t²/2\n\n−11 = v₀y × 2,0 − 5 × (2,0)²\n\n−11 = 2·v₀y − 20\n\n2·v₀y = 9 → v₀y = 4,5 m/s\n\nA componente horizontal não interfere no tempo de queda. Quem esquece o sinal do deslocamento (usa +11) chega a 15,5 m/s, valor que não está nas opções; quem despreza a velocidade inicial acharia que a queda de 11 m duraria cerca de 1,5 s, não 2 s.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "Conteúdo: **equilíbrio de corpo extenso** (soma de forças e de momentos nula).\n\nPela figura, a distância entre os apoios é 20 + 50 + 30 = 100 cm, com V₁ a 20 cm de X e V₂ a 70 cm de X. Como X e Y estão à mesma distância das extremidades, o peso da tábua (20 N) atua no meio, a 50 cm de X.\n\nMomentos em relação a X:\n\nN_Y × 100 = 50 × 20 + 20 × 50 + 40 × 70\n\nN_Y × 100 = 1000 + 1000 + 2800 = 4800\n\nN_Y = 48 N\n\nForças verticais: N_X + N_Y = 50 + 40 + 20 = 110 N\n\nN_X = 110 − 48 = 62 N\n\nA alternativa A (52 N e 38 N) aparece quando se esquece o peso da própria tábua.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "Conteúdo: **MHS e trabalho da força elástica**.\n\nO trabalho da força elástica entre duas posições é τ = k·(x inicial² − x final²) ÷ 2.\n\nDo gráfico: amplitude 8,0 cm, máximos em t = 0,4 s e t = 2,8 s, logo período T = 2,4 s. Em t = 1,6 s o objeto está em x = −8,0 cm (vale). Em t = 2,4 s passou-se um terço de período desde o vale:\n\nx = −8 × cos(2π/3) = +4,0 cm (confere com o gráfico, que em t = 0 também vale 4,0 cm)\n\nτ = 2,0 × [(0,080)² − (0,040)²] ÷ 2\n\nτ = 0,0064 − 0,0016 = 4,8 × 10⁻³ J\n\nO trabalho é positivo porque a mola devolve energia: o objeto sai do extremo e ganha velocidade. Quem supõe x = 0 em 2,4 s obtém 6,4 × 10⁻³ J (A).\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "A posição em t = 2,4 s (4,0 cm) foi deduzida da forma senoidal e da leitura do gráfico, que não marca esse valor explicitamente."
+  },
+  "0:65": {
+   "resposta": "Conteúdo: **leis de Kepler e gravitação universal**.\n\nNa figura, o ponto Q está bem mais perto do Sol do que o ponto P (Q fica junto à órbita da Terra, do lado oposto a P).\n\nPela 2ª lei de Kepler (áreas iguais em tempos iguais), o corpo é mais rápido perto do Sol e mais lento longe dele. Como P está mais longe, a velocidade em P é **menor** que em Q.\n\nPela lei da gravitação, F = G·M·m ÷ d²: a força diminui com o quadrado da distância. Em P, mais longe, a força também é **menor**.\n\nA tentação é achar que a força seria \"igual\" por ser a mesma massa envolvida, mas ela depende da distância ao Sol.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "Conteúdo: **gases ideais** (equação de Clapeyron, P·V = n·R·T).\n\nCom volume e temperatura constantes, a pressão é diretamente proporcional ao número de mols: P ÷ n é constante.\n\nSe a pressão passou a 60% do valor inicial, o número de mols também passou a 60%:\n\nn final = 0,60 × 120 = 72 mol\n\nRetirados = 120 − 72 = 48 mol\n\nO erro comum é responder 72, que é o que ficou na câmara, não o que foi retirado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "Conteúdo: **lentes esféricas**, equação de Gauss e aumento linear.\n\nImagem virtual, direita e maior que o objeto só é produzida por lente **convergente** com o objeto entre o foco e a lente (a lupa). Lente divergente dá sempre imagem virtual menor.\n\nAumento: A = −p' ÷ p = 3 → p' = −3 × 40 = −120 cm (negativo: imagem virtual)\n\nGauss: 1/f = 1/p + 1/p'\n\n1/f = 1/40 − 1/120 = 3/120 − 1/120 = 2/120\n\nf = 60 cm\n\nA alternativa C (30 cm) sai de quem usa p' = +120 cm, tratando a imagem como real.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "Conteúdo: **óptica ondulatória**, experimento da dupla fenda de Young.\n\nAs duas fendas funcionam como fontes de ondas coerentes. Ao chegar ao anteparo, as ondas se sobrepõem: onde chegam em fase (diferença de caminho igual a um número inteiro de comprimentos de onda) há interferência construtiva e surge uma franja brilhante; onde chegam em oposição de fase há interferência destrutiva e surge uma franja escura. Esse padrão alternado só se explica tratando a luz como onda, por isso o experimento favoreceu Huygens.\n\nA difração nas fendas é necessária para espalhar a luz, mas as franjas são consequência da **interferência**. Polarização, dispersão, refração e ressonância não produzem esse padrão de faixas claras e escuras.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "Conteúdo: **eletrostática**, potencial de esfera condutora e eletrização por contato.\n\nO potencial de uma esfera condutora carregada é V = k·Q ÷ R. Então:\n\nQ = V·R ÷ k = (3,0 × 10⁵ × 0,30) ÷ (9 × 10⁹)\n\nQ = 9 × 10⁴ ÷ 9 × 10⁹ = 1,0 × 10⁻⁵ C = 10 μC\n\nNo contato entre esferas idênticas, a carga total se divide igualmente:\n\ncarga em cada = (10 + 0) ÷ 2 = 5,0 μC\n\nA alternativa B (10 μC) é a carga antes do contato; esquecer de converter o raio para metros dá um valor 100 vezes maior.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "Conteúdo: **equivalência massa-energia** (E = m·c²) e ordem de grandeza.\n\nEnergia liberada em cada fusão:\n\nE = 4,7 × 10⁻²⁹ × (3 × 10⁸)² = 4,7 × 10⁻²⁹ × 9 × 10¹⁶ ≈ 4,2 × 10⁻¹² J\n\nNúmero de fusões por segundo:\n\nN = 3,9 × 10²⁶ ÷ 4,2 × 10⁻¹² ≈ 9,2 × 10³⁷\n\nPara a ordem de grandeza, compara-se o coeficiente com √10 ≈ 3,16: como 9,2 é maior que 3,16, arredonda-se para a potência seguinte, 10³⁸.\n\nO erro mais comum é parar no expoente (10³⁷) ou esquecer de elevar c ao quadrado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Conteúdo: **leitura de gráfico de áreas empilhadas** (porcentagens acumuladas).\n\nEm cada ano, a fatia de cada regime é a espessura da sua faixa colorida, não a altura em que ela termina. Testando as alternativas:\n\nB: a faixa roxa (colonial) se estreita depois de 1950 e desaparece por volta de 1990; no início do século XXI não há mais população sob regime colonial. Correta.\n\nA: a faixa vermelha (autocrático) chega a cerca de 50% da população (em 1816, de uns 3% a uns 53%), nunca a dois terços.\n\nC: em 2015 a faixa verde vai de 0 a cerca de 57%, um pouco mais da metade, não dois terços.\n\nD: em 1900 as faixas anocráticas somam menos de 10%; o salto rosado só vem depois de 1910.\n\nE: em 1950 a faixa rosada é estreita, bem abaixo de 60%.\n\nA armadilha é ler o topo de uma faixa como se fosse o seu valor.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Conteúdo: **volume do cilindro**, densidade e estimativa.\n\nRaio = 12 ÷ 2 = 6 cm\n\nV = π·r²·h = π × 6² × 24 = 864π ≈ 2714 cm³\n\nMassa de arroz = densidade × volume = 1,2 × 2714 ≈ 3257 g\n\nNúmero de grãos = 3257 ÷ 0,04 ≈ 81 400\n\nO valor fica entre 60 e 90 mil. Um erro comum é usar o diâmetro como raio, o que quadruplica o volume e dá cerca de 326 mil grãos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Conteúdo: **áreas de figuras planas** em malha quadriculada (lado 40 m).\n\nLendo os vértices na malha:\n\nSemicírculo 1: diâmetro 80 m, raio 40 m → π × 40² ÷ 2 = 800π\n\nTriângulo 2: retângulo isósceles de catetos 80 m → 80 × 80 ÷ 2 = 3200\n\nTriângulo 4: hipotenusa vertical de 40 m sobre a malha, catetos 20√2 m → 20√2 × 20√2 ÷ 2 = 400\n\nRetângulo 3 (inclinado 45°): o lado menor atravessa 1,5 quadradinho na diagonal, 60√2 m; o maior atravessa 2 quadradinhos na diagonal, 80√2 m → 60√2 × 80√2 = 9600\n\nSemicírculo 5: diâmetro igual ao lado menor, 60√2 m; raio 30√2 m → π × 1800 ÷ 2 = 900π\n\nTotal = 3200 + 400 + 9600 + (800 + 900)π = 13 200 + 1700π m²\n\nAs opções com √2 surgem quando não se multiplica √2 × √2 ao calcular a área do retângulo inclinado.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "As medidas do retângulo inclinado e do triângulo 4 foram lidas dos vértices na malha da figura; a questão não as informa por escrito."
+  },
+  "0:74": {
+   "resposta": "Conteúdo: **semelhança de triângulos / inclinação de reta** e teorema de Pitágoras.\n\nA cobertura é uma reta que sai da parede esquerda a 5 m de altura. O ponto A, a 3 m da parede, é o mais baixo da luminária e está a 5,5 m do chão. Logo a cobertura sobe 0,5 m a cada 3 m na horizontal (inclinação 1/6).\n\nB está a 3 m da parede direita, ou seja, a 21 − 3 = 18 m da parede esquerda:\n\naltura de B = 5 + 18 ÷ 6 = 8 m\n\nEntre A e B: horizontal = 21 − 3 − 3 = 15 m; vertical = 8 − 5,5 = 2,5 m\n\nAB² = 15² + 2,5² = 225 + 6,25 = 231,25\n\nAB = √(6,25 × 37) = 2,5√37 m\n\nO erro típico é tomar a altura de B como dado da figura ou usar 21 m como distância horizontal entre A e B.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "A solução supõe que AB está apoiada na cobertura, uma reta que sai do topo da parede esquerda (5 m); a figura sugere isso, mas não diz explicitamente."
+  },
+  "0:75": {
+   "resposta": "Conteúdo: **probabilidade com permutações**.\n\nA letra marcada na face do baralho tem traços verticais em todas as 52 cartas, mas as barras horizontais só aparecem em 8 cartas: as 4 do topo (barra de cima) e 4 no meio (barra do meio). As outras 44 cartas mostram só os traços verticais e são indistinguíveis entre si.\n\nRepare que o traço horizontal de uma carta do topo é igual ao de uma carta do meio. Se elas trocarem de lugar, as barras continuam nos mesmos lugares. Basta, então, que as 8 cartas com traço horizontal ocupem as 8 posições das barras, em qualquer ordem, e as 44 restantes fiquem nas demais posições, em qualquer ordem.\n\nCasos favoráveis = 8! × 44!\n\nCasos possíveis = 52!\n\nP = 44! · 8! ÷ 52!\n\nA tentação é a E (44! · 4! · 4!), que exige cada carta voltar à sua própria barra, mas trocar cartas entre a barra de cima e a do meio não altera a letra.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Conteúdo: **função quadrática** (máximo de receita).\n\nSeja n o número de aumentos de R$ 5,00. Mensalidade: 50 + 5n; sócios: 600 − 8n.\n\nFaturamento: F(n) = (50 + 5n)(600 − 8n) = −40n² + 2600n + 30 000\n\nO vértice está em n = −2600 ÷ (2 × (−40)) = 32,5. Como os aumentos são inteiros, testa-se n = 32 e n = 33:\n\nn = 32: 210 × 344 = 72 240\n\nn = 33: 215 × 336 = 72 240\n\nOs dois dão o mesmo valor, que é o máximo: R$ 72.240,00.\n\nUsar n = 32,5 diretamente (R$ 212,50 × 340 = 72 250) não vale, porque os aumentos são só de R$ 5,00 em R$ 5,00.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:77": {
+   "resposta": "Conteúdo: **função exponencial e logaritmo** (lei de resfriamento de Newton).\n\nCom T₀ = 100, T_R = 20, r = 0,05 e T(t) = 38:\n\n38 = (100 − 20)·e^(−0,05t) + 20\n\n18 = 80·e^(−0,05t)\n\ne^(−0,05t) = 18 ÷ 80 = 0,225\n\nAplicando logaritmo natural e usando ln 0,225 = −1,49:\n\n−0,05t = −1,49\n\nt = 1,49 ÷ 0,05 = 29,8 minutos\n\nO erro comum é esquecer de subtrair a temperatura ambiente antes de dividir (38 ÷ 80), o que não leva ao 0,225 fornecido.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Conteúdo: **progressão aritmética** (soma dos termos).\n\nAs duas PAs têm n termos. A dos ímpares, 1 + 3 + … + x, tem soma n² (soma dos n primeiros ímpares), com x = 2n − 1.\n\nA dos pares, 2 + 4 + … + (x + 1), tem n termos e último termo 2n; soma = (2 + 2n)·n ÷ 2 = n(n + 1).\n\nRazão: n² ÷ [n(n + 1)] = n ÷ (n + 1) = 115 ÷ 116\n\nLogo n = 115 e x = 2 × 115 − 1 = 229.\n\nA tentação é responder 115, que é o número de termos, não o valor do último ímpar.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Conteúdo: **trigonometria no triângulo retângulo** e arco duplo.\n\nNo triângulo BDC, retângulo em D: BD² = 0,5² − 0,3² = 0,16 → BD = 0,4.\n\nNo triângulo ABD, retângulo em B, a hipotenusa é AD = cos α e BD é o cateto oposto a α:\n\nsen α = BD ÷ AD → BD = cos α · sen α\n\n0,4 = sen α · cos α = sen(2α) ÷ 2\n\nsen(2α) = 0,8\n\nNo gráfico de y = sen(2x), o valor y = 0,8 corresponde à abscissa s. Portanto α = s.\n\nO erro mais comum é parar em sen α = 0,4 e escolher q, ou ler 0,4 = sen(2α) diretamente no gráfico, esquecendo o fator 2 da fórmula do arco duplo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Conteúdo: **função quadrática, logaritmo e radical** (valores máximos).\n\nAs duas funções dependem de h(x) = −x² + 8x − 7, parábola com vértice em x = −8 ÷ (−2) = 4, que está no intervalo [2, 6]:\n\nh(4) = −16 + 32 − 7 = 9 (máximo)\n\nComo log₃ e raiz quadrada são crescentes, f e g também atingem o máximo em x = 4:\n\nf(4) = log₃ √9 = log₃ 3 = 1\n\ng(4) = √(log₃ 9) = √2\n\nDiferença: g máx − f máx = √2 − 1\n\nAtenção à ordem: o enunciado pede g − f. Trocar a ordem dos operadores (raiz dentro ou fora do log) é a confusão mais comum entre as duas funções.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

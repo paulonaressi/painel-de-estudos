@@ -3,6 +3,136 @@
  "gerado_em": "2026-11-08",
  "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
  "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra **leitura de humor e caracterização de personagem** numa tirinha.\n\nNo primeiro quadro, ao saber da morte do tio-avô, Valter o chama de \"velhaco\" (malandro, trapaceiro), mostrando o que realmente pensava dele. Quando descobre que herdou uma mansão em Roma, muda o discurso: \"era um grande homem\", com uma lágrima no olho. O humor está nessa virada interesseira: a opinião e a emoção mudam conforme a conveniência.\n\nQuem esconde o que sente e finge outro sentimento por interesse é **dissimulado**.\n\nD (compassivo) é a leitura ingênua da lágrima, que é falsa; nada indica distração (A), pedantismo (C) ou arrogância (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "O tema é **pronome relativo e referenciação**. A única oração adjetiva da tirinha está no primeiro quadro: \"Seu tio-avô **que** mora na Europa morreu\".\n\nO pronome relativo \"que\" retoma o termo imediatamente anterior e introduz uma informação sobre ele: quem mora na Europa é o **tio-avô**. Dá para testar substituindo: \"o qual mora na Europa\", e \"o qual\" concorda com \"tio-avô\".\n\n\"Europa\" (A) é a armadilha, por estar dentro da própria oração relativa, mas ela é o lugar onde ele mora, não o antecedente. Os outros termos aparecem em falas sem pronome relativo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "O tema é **ambiguidade lexical** e construção do humor na crônica de Drummond. No início, \"banco\" pode ser a instituição financeira ou o móvel; o narrador alimenta o mal-entendido ao dizer que o dono falava \"com superioridade de banqueiro que se sabe forte na praça\".\n\nAs frases das alternativas A, B, D e E servem para os dois sentidos: dá para gostar de um banco, recusar vendê-lo ou dizer que ele vale mais que cruzeiros, seja ele empresa ou móvel. B, aliás, é a que mais reforça a ideia de instituição.\n\nSó quando o rapaz diz que estuda **mobiliário barroco** fica claro que \"banco\" é o assento, uma peça de mobília antiga.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "O tema é **interpretação do desfecho e implícitos** da crônica.\n\nO dono revela que o banco veio de um padre e que \"uma dona da nossa família era casada com ele. Naquela base, entende?\". Um padre católico não pode se casar; a expressão \"naquela base\" e o pedido de discrição (\"a gente pode contar\", \"negócio perdido na fumaceira do tempo\") mostram que se tratava de uma união informal, escondida, malvista pela sociedade e pela Igreja. Quando o padre morreu, a \"comadre\" (forma velada de se referir à companheira) guardou o banco de lembrança.\n\nÉ, portanto, uma **relação afetiva estigmatizada**. Não há indício de traição de um cônjuge (A), arranjo (B), interesse (C) ou duração curta (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "O tema é **variação linguística: registro formal e coloquial**. O dono do banco fala o tempo todo de modo coloquial (\"pra quê\", \"pimba\", \"não vendo ele\", \"xicra\"). O estudante, ao contrário, mantém um registro cuidado e só ocasionalmente usa uma expressão informal.\n\nIsso acontece em A: \"um sucesso **danado**\" é intensificador típico da fala coloquial (equivale a \"um enorme sucesso\").\n\nNas demais falas do estudante a linguagem é padrão e até formal: \"queria permissão para ver\", \"o senhor está completamente enganado\", \"dou minha palavra de honra\", \"é muito mais antigo\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "O tema é **figuras de linguagem: antítese**, a aproximação de ideias opostas no mesmo trecho.\n\nEm C, a sala é \"pobre\" e cheia de \"trastes sem estilo\", mas o banco \"impunha sua classe\". Opõem-se pobreza e falta de estilo, de um lado, e classe e requinte, do outro. Essa oposição destaca o valor do móvel no ambiente humilde.\n\nAs outras alternativas não confrontam termos opostos: A é uma afirmação de valor (pode lembrar hipérbole), B traz uma expressão coloquial intensificadora, D e E são enunciados informativos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "O tema é **discurso indireto livre**: o narrador incorpora à narração, sem travessão nem verbo de elocução, o pensamento ou a fala de uma personagem.\n\nEm D, a descrição começa na voz do cronista (\"Banco de igreja nordestina, jacarandá venerando…\") e termina numa pergunta que é o espanto do estudante diante da peça: \"como é que um tesouro desses foi parar naquela casinha vulgar de Madureira?\". O tom exclamativo e a avaliação (\"tesouro\", \"casinha vulgar\") são do rapaz, mas aparecem misturados ao texto do narrador.\n\nA e E são discurso direto, marcado pelo travessão. C combina narração e discurso direto, separados. B é narração em terceira pessoa, com comparação do narrador, sem a fala de ninguém embutida.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "O tema é **orações subordinadas adverbiais**. A oração sublinhada é \"enquanto eu for vivo\", em relação a \"não vai mudar de proprietário\".\n\nA conjunção \"enquanto\" indica tempo: delimita o período durante o qual o banco não mudará de dono, ou seja, durante a vida do proprietário. É uma oração subordinada adverbial **temporal** (equivale a \"durante a minha vida\").\n\nA tentação é ler C (consequência) ou E (causa), pensando na relação entre \"gosto dele\" e \"não vai mudar de proprietário\", mas a questão pede só a ideia da parte sublinhada. Também não é condição (D): ele não está dizendo \"se eu estiver vivo\", e sim \"por todo o tempo em que eu viver\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "O tema é **formação de palavras: prefixação**.\n\n\"Desapropria\" é formado por **des-** + \"apropriar\" (tomar para si). O prefixo des- indica negação ou ação contrária: desapropriar é retirar a propriedade de alguém, o oposto de apropriar.\n\nNas outras palavras não há prefixo de negação: \"enganado\" vem de enganar, sem prefixo negativo; em \"resistir\" e \"recusei\", o re- não nega nada (e as palavras não se formam por prefixo + palavra existente com sentido oposto); em C, a negação é feita pelo advérbio \"não\" e pelo pronome \"nenhum\", não por prefixo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "O tema é **escolas literárias: Romantismo**.\n\nO texto aponta o \"primado da emoção\", a rejeição do racionalismo do neoclassicismo, a expressão espontânea e livre, \"fora das regras de construção literária\", o subjetivismo e a imaginação como fonte criadora. São os traços centrais da **estética romântica**, que se opôs ao Arcadismo (neoclassicismo) a partir do fim do século XVIII.\n\nO Arcadismo (B) é justamente o neoclassicismo racional que o texto diz ter sido rejeitado. O Naturalismo (C) e o Parnasianismo (E) buscam objetividade e, no caso parnasiano, rigor formal; o Barroco (D) é anterior e marcado pelo conflito e pelo rebuscamento, não pela liberdade de forma.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "O tema é **análise combinatória**, com divisão em casos e combinações.\n\nSepare a loja perto da casa de Verônica; sobram 8 lojas.\n\nCaso 1: Verônica visita a loja perto de casa e mais 5 das 8 (Vanessa fica com as 3 restantes).\nC(8,5) = 56 maneiras.\n\nCaso 2: Verônica não visita essa loja. Vanessa fica com ela e escolhe mais 4 das 8; Verônica, com as outras 4.\nC(8,4) = 70 maneiras.\n\nTotal (os casos não se sobrepõem, então se somam): 56 + 70 = 126.\n\nO erro comum é usar C(9,6) + C(9,5), sem fixar a loja especial, ou multiplicar os casos em vez de somar.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "O tema é **porcentagem (variações percentuais)**.\n\nEF em 2024: 420 ÷ 1,05 = 400 alunos.\nSeja M o número de alunos do EM em 2024. Então EM em 2025 = 0,96·M.\n\nTotal 2025 = 1,02 × total 2024:\n420 + 0,96·M = 1,02·(400 + M)\n420 + 0,96·M = 408 + 1,02·M\n12 = 0,06·M → M = 200\n\nEM em 2025: 0,96 × 200 = 192.\n\nArmadilha: responder 200 (que não está nas opções) ou somar as variações percentuais diretamente, como se +5% e −4% dessem +1%, sem considerar o peso de cada nível.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "O tema é **trigonometria no triângulo retângulo** com tangente do arco duplo, mais área de triângulo.\n\nNo triângulo ACD (reto em C): AC = 12 e AD = 4√10.\nCD² = 160 − 144 = 16 → CD = 4\nConferindo: tg α = 4/12 = 1/3 e tg 2α = (2/3) ÷ (1 − 1/9) = 3/4, como diz o enunciado.\n\nNo triângulo ABC, o ângulo em A vale 2α:\nBC = AC · tg 2α = 12 · 3/4 = 9\nBD = BC − CD = 9 − 4 = 5\n\nO triângulo ABD tem base BD = 5 sobre a reta BC e altura AC = 12 (distância de A a essa reta):\nárea = 5 × 12 ÷ 2 = 30 cm²\n\nQuem calcula a área de ABC inteiro chega a 54; quem usa a hipotenusa AD como altura erra o resultado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "O tema é **razão e proporção, com sistema de equações**.\n\nSe a razão entre os gols de Marta e os das demais do time é 1/3, ela fez 1 de cada 4 gols do time: Marta = T/4, em que T é o total do time dela. Do mesmo modo, Érica fez 2 de cada 7 gols: Érica = 2·(81 − T)/7.\n\nMarta + Érica = 22:\nT/4 + 2·(81 − T)/7 = 22\nMultiplicando por 28: 7T + 8·(81 − T) = 616\n7T + 648 − 8T = 616 → T = 32\nMarta = 32 ÷ 4 = 8 gols (e Érica fez 14, de 49 do time dela).\n\nO erro típico é tomar 1/3 como fração do total do time (Marta = T/3), confundindo \"razão em relação às demais\" com \"fração do total\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "O tema é **probabilidade com divisibilidade (números primos entre si)**.\n\nOs números possíveis são os inteiros de 1 a 45: 45 casos.\nComo 9 = 3², um número é primo com 9 se não tiver o fator 3, ou seja, se não for múltiplo de 3.\nMúltiplos de 3 entre 1 e 45: 45 ÷ 3 = 15.\nPrimos com 9: 45 − 15 = 30.\n\nP = 30/45 = 2/3\n\nA armadilha é excluir só os múltiplos de 9 (5 números), o que daria 40/45 = 8/9, ou contar 46 casos por incluir o próprio 46.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Função quadrática: zeros, vértice e simetria da parábola.\n\nAs duas funções têm x = 0 como zero (não há termo independente). Como o vértice tem abscissa 3 e a parábola é simétrica em relação ao eixo que passa por ele, o outro zero é x = 6, comum às duas.\n\nPara f: xv = −24 ÷ (2m) = 3, logo m = −4.\nf(3) = −4·9 + 24·3 = −36 + 72 = 36, então C = (3, 36).\n\nPara g: xv = 8 ÷ (2n) = 3, logo n = 4/3.\ng(3) = (4/3)·9 − 8·3 = 12 − 24 = −12, então D = (3, −12).\n\nC e D estão na mesma vertical, portanto:\nCD = 36 − (−12) = 48\n\nO erro comum é subtrair as ordenadas sem o sinal (36 − 12 = 24), que leva à alternativa D.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Semelhança de triângulos: a razão entre áreas é o quadrado da razão de semelhança.\n\nO triângulo grande tem catetos 8 cm e 12 cm, área 8·12 ÷ 2 = 48 cm².\n\nNa figura, o cateto de 2 cm do triângulo pequeno é paralelo ao cateto de 8 cm do grande, e os ângulos marcados junto à hipotenusa coincidem; logo 2 corresponde a 8.\n\nRazão de semelhança: 2 ÷ 8 = 1/4\nRazão entre as áreas: (1/4)² = 1/16\nÁrea do triângulo pequeno: 48 ÷ 16 = 3 cm²\n\nA região cinza é o triângulo grande sem o pequeno:\n48 − 3 = 45 cm²\n\nQuem associa o cateto de 2 cm ao de 12 cm obtém razão 1/6 e área pequena 48/36, resultado que nem aparece entre as opções inteiras — sinal de que a correspondência certa é 2 ↔ 8.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Paralelepípedo retorretângulo: volume e área total.\n\nSeja x a menor aresta da base; a outra mede 3x e a altura é 7 cm.\nVolume: x · 3x · 7 = 21x² = 189\nx² = 9, logo x = 3 cm\n\nDimensões: 3 cm, 9 cm e 7 cm.\n\nÁrea total = 2·(3·9 + 3·7 + 9·7)\n= 2·(27 + 21 + 63)\n= 2·111 = 222 cm²\n\nCuidado para não esquecer o fator 2: cada face aparece duas vezes (base e tampa, e os dois pares de faces laterais). A soma 111 sem dobrar não está nas alternativas, mas errar uma das faces leva facilmente a 202 ou 210.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Função exponencial: usar um dado conhecido para achar a constante e depois avaliar a função.\n\nV(t) = C + 7·4^(−(t−5)²/4), com V em dezenas de milhares de reais e t em anos desde a compra (2010).\n\nEm 2015, t = 5 e o expoente é zero, pois (5 − 5)² = 0:\nV(5) = C + 7·4⁰ = C + 7 = 17 (R$ 170.000,00)\nC = 10\n\nEm 2017, t = 7:\nexpoente = −(7 − 5)²/4 = −4/4 = −1\nV(7) = 10 + 7·4⁻¹ = 10 + 7/4 = 10 + 1,75 = 11,75\n\n11,75 dezenas de milhares = R$ 117.500,00.\n\nRepare que t = 5 é o pico do modelo; depois disso o valor cai. Quem supõe que o imóvel continua valorizando tende a marcar A ou C, mas o expoente negativo faz o valor diminuir após 2015.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Algoritmo em fluxograma: execute passo a passo. Em \"m ≥ n?\", o \"sim\" volta ao \"mod\" e o \"não\" volta aos incrementos.\n\nInício: m = 32, n = 7, i = 0\n32 mod 7 = 4 (não é 0) → incrementa: m = 7, n = 8, i = 1\n7 ≥ 8? não → incrementa: m = 10, n = 9, i = 2\n10 ≥ 9? sim → mod: 10 mod 9 = 1 (não é 0) → incrementa: m = 4, n = 10, i = 3\n4 ≥ 10? não → m = 7, n = 11, i = 4\n7 ≥ 11? não → m = 10, n = 12, i = 5\n10 ≥ 12? não → m = 13, n = 13, i = 6\n13 ≥ 13? sim → mod: 13 mod 13 = 0 → Fim\n\nAo término, i = 6.\n\nErro típico: mandar o \"não\" de \"m ≥ n?\" de volta ao \"mod\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Geografia urbana: uso do solo e parâmetros urbanísticos.\n\nA \"fachada ativa\" obriga ou incentiva que o térreo dos prédios, junto à calçada, tenha uso não residencial aberto ao público: lojas, restaurantes, cafés, serviços. O desenho mostra exatamente isso, com comércio no nível da rua e pessoas circulando.\n\nA consequência direta é a multiplicação de atividades de comércio e serviços, ou seja, a ampliação do setor terciário da economia na área.\n\nAs demais não se sustentam: a medida busca justamente fortalecer o tecido urbano e a vida nas ruas, não desconstruí-lo; ela tende a valorizar os imóveis, não a reduzir a especulação; conurbação é a junção de manchas urbanas de municípios vizinhos, tema sem relação; e reforma fundiária trata da redistribuição da propriedade da terra.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Geopolítica e economia mundial: as instituições de Bretton Woods.\n\nO Banco Mundial (BIRD) e o Fundo Monetário Internacional foram criados na Conferência de Bretton Woods (EUA, 1944), que organizou o sistema financeiro do pós-guerra sob liderança norte-americana.\n\nOs empréstimos do FMI a países endividados costumam vir com condicionalidades: corte de gastos públicos, aumento de impostos, controle do déficit — o que se chama política de austeridade fiscal. O texto aponta exatamente o efeito dessas \"exigências pesadas\": inflação, desemprego e instabilidade.\n\nAs outras alternativas misturam eventos sem relação: o Tratado de Versalhes encerrou a Primeira Guerra (1919); a Conferência de Berlim (1884–1885) partilhou a África; o Tratado de Madri (1750) tratou de limites coloniais; a Conferência de Estocolmo (1972) foi sobre meio ambiente.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Geopolítica pós-Guerra Fria: a Comunidade dos Estados Independentes.\n\nA CEI foi criada em dezembro de 1991, no momento da dissolução da União Soviética, reunindo a maior parte das ex-repúblicas soviéticas (Rússia, Bielorrússia, Cazaquistão, Uzbequistão etc.) para preservar laços econômicos, militares e políticos. O mapa confirma: os países representados são todos ex-soviéticos; os bálticos (Lituânia, Letônia, Estônia) não aderiram, e Ucrânia e Geórgia depois se retiraram.\n\nO fim da URSS marca também o fim da Guerra Fria, a disputa bipolar entre EUA e União Soviética.\n\nA dissolução da Iugoslávia (B) é contemporânea, mas envolve os Bálcãs, não estes países; a Tchecoslováquia (E) não fazia parte da URSS; o Império Otomano (C) e a APEC (A) não têm relação com o bloco.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Relação sociedade-natureza e crítica ao modelo de desenvolvimento.\n\nO excerto denuncia autoridades que falam em sustentabilidade, mas tomam decisões que colocam o equilíbrio ambiental em risco \"em nome de uma ideia ultrapassada de desenvolvimento\". Essa ideia é o desenvolvimentismo tradicional, que mede progresso apenas pelo crescimento econômico e trata a natureza como estoque de recursos a explorar.\n\nIsso corresponde a uma visão utilitarista da natureza, que desconsidera os impactos sistêmicos (desmatamento, mudanças climáticas, perda de biodiversidade) causados pela ação humana.\n\nAs alternativas A, B, C e D descrevem modelos equilibrados ou sustentáveis — economia circular, uso consciente, bioeconomia, justiça social —, justamente o oposto do que o texto critica como \"ultrapassado\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Climatologia: leitura de climograma e adaptação ao clima semiárido.\n\nO gráfico mostra temperaturas altas o ano todo (entre cerca de 22 °C e 28 °C) e chuvas concentradas em poucos meses (novembro a março, com máximo próximo de 80 mm), quase nulas de maio a outubro. O total anual é baixo, algo em torno de 300 mm. É o perfil de um clima semiárido quente, como o do Sertão nordestino.\n\nCom chuva escassa e irregular e longa estiagem, a medida adequada é captar e guardar a água do período chuvoso: as cisternas, que armazenam a chuva para consumo na seca.\n\nCurvas de nível servem para reduzir o escoamento e a erosão, não para ampliá-lo; composteiras não resolvem a falta de água; muros de arrimo contêm encostas e não barram circulação atmosférica; biorreatores não controlam amplitude térmica.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Roma Antiga: a cidadania romana.\n\nO autor mostra que ser cidadão não dependia só de nascer na cidade: era \"fazer parte do que Roma tinha construído\", respeitar os costumes antigos e cumprir os deveres cobrados por Roma, recebendo em troca direitos garantidos. A cidadania tinha níveis e hierarquia de poderes. Ou seja, era um vínculo com a vida pública da cidade, regulado pela tradição (o costume dos antepassados) e pelas leis — sentido que a alternativa C resume como participação política conforme a tradição e a legislação.\n\nAs demais contrariam o texto: não havia igualdade de influência (B), pois havia hierarquia; o nascimento no espaço urbano não bastava (D); escravizados e outros habitantes não tinham os mesmos direitos (E); e o texto não compara Roma com as assembleias gregas (A).\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "O texto fala em cumprir deveres e respeitar costumes; a ideia de \"participação na política\" da alternativa C é uma leitura um pouco além do que o excerto diz, embora as outras opções o contrariem claramente."
+  },
   "0:27": {
    "resposta": "A ideia cobrada é a leitura do conceito historiográfico de “senhorio”. Segundo o autor, o termo é preferível a “feudalismo” porque abrange tanto as relações entre aristocracia e camponeses (livres e não livres) quanto as relações dentro da própria aristocracia, e mostra que a dominação se exercia sobre o espaço e também sobre os homens. Ou seja, o conceito inclui diferentes formas de dominação presentes na sociedade medieval.\n\nAs demais alternativas contrariam o texto: o termo não minimiza o aspecto territorial (A), não trata de abolir disputas entre nobres (B) nem do fortalecimento do rei (C), e, longe de restringir-se às obrigações camponesas (D), amplia o alcance da análise.\n\n**Resposta: E**",
    "confianca": "alta",

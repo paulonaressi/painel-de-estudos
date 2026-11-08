@@ -1,0 +1,407 @@
+{
+ "indice": "data/questoes/famerp/2022_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Interpretação de poema. A dúvida do eu lírico aparece na terceira estrofe, marcada pelo \"talvez\" e pela pergunta \"Quem o sabe?\": ele não sabe por que o artista teria pintado, ao lado das flores, a figura do velho mandarim, e arrisca uma hipótese, a de que seria um \"contraste à desventura\" do pintor apaixonado.\n\nAs outras alternativas tratam de pontos que o poema afirma sem hesitar: o pintor é um \"fino artista chinês, enamorado\"; a circunstância do encontro é dita com precisão (casualmente, sobre um contador, entre um leque e um bordado); e as flores rubras são explicadas como a expressão do \"coração doentio\" do artista. Não há dúvida sobre como o vaso chegou ali; isso nem é tema do poema.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Parnasianismo. Alberto de Oliveira é da chamada tríade parnasiana, ao lado de Olavo Bilac e Raimundo Correia. O movimento valorizava a \"arte pela arte\": descrição minuciosa de objetos (vasos, estátuas, leques), rigor formal (aqui, sonetos em decassílabos com rima rica) e distanciamento das questões sociais e políticas.\n\n\"Vaso chinês\" é um exemplo clássico: o poema descreve um objeto decorativo e sua pintura, sem qualquer engajamento.\n\nAs distratoras misturam traços de outras escolas: misticismo é do Simbolismo; narrativa de grandes feitos e expressão intensa dos sentimentos lembram o Romantismo; arte comprometida com o social é o contrário do ideal parnasiano (a D acerta só na primeira metade); e transgressão formal é traço modernista.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Figuras de linguagem: sinestesia. É preciso achar o trecho que junta sensações de sentidos diferentes.\n\nEm \"Em rubras flores [...] / Na tinta ardente, de um calor sombrio\", a tinta (algo visto, cor) é chamada de \"ardente\" e tem \"calor\", sensações do tato; e o calor é \"sombrio\", qualificação visual. Visão e tato se misturam na mesma expressão.\n\nNas outras opções não há essa mistura: \"coração doentio\" é metáfora sentimental; \"Estranho mimo aquele vaso! Vi-o\" envolve só a visão; os versos sobre o mandarim não falam de sensações; e \"olhos cortados à feição de amêndoa\" é uma comparação de forma, puramente visual.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Voz passiva. Há voz passiva quando o sujeito sofre a ação; na passiva analítica, o verbo aparece como ser + particípio.\n\nNos jornais da charge:\n\"Algo aconteceu ontem\": voz ativa (verbo intransitivo).\n\"Algo talvez tenha acontecido ontem\": voz ativa, só com locução no subjuntivo.\n\"Nada aconteceu ontem\": voz ativa.\n\"Homens lendo jornal são vistos no metrô\": voz passiva analítica (são vistos = ser + particípio de ver); os homens sofrem a ação de ser vistos.\n\nO humor está aí: a única \"notícia\" é a própria cena dos leitores, enquanto as manchetes dizem que nada acontece. O segundo jornal pode enganar por ter locução verbal com particípio, mas o auxiliar é \"ter\", que forma tempo composto, não passiva.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Machado de Assis, fase realista. Um traço marcante de Memórias póstumas de Brás Cubas é a digressão: o narrador interrompe a história para comentar, filosofar, conversar com o leitor.\n\nNo trecho, o fio narrativo (Brás volta para casa, o pai o recebe) fica suspenso: o narrador \"deixa o pai na reticência\" e passa a filosofar sobre botas apertadas, prazer e sofrimento, a vida que \"aguça a fome\", e termina dirigindo-se a Eugênia. É um afastamento da ação para refletir sobre temas variados.\n\nNão há argumentação científica (A) nem obscuridade proposital (B); a ironia existe, mas não fere personagens (C); e o narrador não discute a linguagem ou a construção do livro neste trecho (D), embora o faça em outros capítulos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Interpretação de texto (Machado de Assis). As botas apertadas fazem doer os pés, mas \"dão azo ao prazer de as descalçar\": o alívio depois do incômodo é \"a felicidade barata\". O narrador generaliza: a vida aguça a fome para depois dar o prazer de comer, e inventou os calos porque \"eles aperfeiçoam a felicidade terrestre\".\n\nA ideia é que o fim do incômodo traz um prazer que, de certo modo, compensa e justifica o sofrimento, com a ironia típica do narrador.\n\nAs alternativas B e D falam de justiça social e distribuição de prazeres, assunto ausente; a C e a E inventam intenções (achar soluções, fortalecer-se moralmente) que o texto não menciona.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Conjunções e relações entre orações. O narrador afirma algo, \"a vida é o mais engenhoso dos fenômenos\", e em seguida dá o motivo dessa afirmação: \"porque só aguça a fome, com o fim de deparar a ocasião de comer\".\n\nA oração introduzida por \"porque\" justifica o que foi dito antes; é uma explicação (oração coordenada explicativa). Um teste útil é trocar por \"pois\": o sentido se mantém.\n\nNão confunda com a finalidade, que aparece logo depois em \"com o fim de deparar a ocasião de comer\"; essa locução é que expressa finalidade, não o \"porque\". Também não é conclusão: a conclusão é o \"Daqui inferi\" que abre o período.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Interpretação de texto. A tese de Eduardo Bueno é que a herança dos povos nativos é muito mais presente do que se imagina. O segundo parágrafo diz que esses povos testaram alternativas alimentares, ecológicas e logísticas que os europeus \"não puderam descartar\" sob risco de não sobreviver; o terceiro, que trilhas, cidades, produtos agrícolas e costumes \"são fruto direto de um conhecimento milenar\".\n\nOu seja, os europeus incorporaram saberes e hábitos indígenas para se adaptar ao território.\n\nA (E) diz o oposto do texto (a cultura não foi descartada); a (A) e a (B) afirmam superioridade europeia ou incompatibilidade, que o autor não sustenta; e a (C) fala em benefício mútuo, ideia ausente: o texto trata do que os europeus herdaram, não de ganhos para os nativos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Uso das aspas e sentido no texto. As aspas em \"novo\" indicam um uso relativizado, quase irônico, da palavra. O território era novo apenas do ponto de vista europeu: o próprio texto lembra que povos viviam ali havia pelo menos dez mil anos.\n\nAssim, as aspas chamam atenção para essa relatividade: novidade para os europeus, não para os nativos, que já o conheciam e haviam desenvolvido nele um saber milenar.\n\nA (D) diz o contrário, pois reforçaria a visão europeia sem crítica; a (A) cria uma tese sobre chegada anterior dos europeus que não está no texto; e a (B) e a (E) trazem ideias de passagem do tempo que não são o foco do autor.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Pronome relativo e regência verbal. A escolha do relativo depende da regência do verbo da oração que ele introduz. Aqui o verbo é \"percorrer\": quem percorre, percorre algo (verbo transitivo direto). Desfazendo a oração: o país percorreu as trilhas.\n\nComo \"as trilhas\" é objeto direto, sem preposição, o relativo adequado é \"que\": \"as trilhas que o país percorreu\".\n\n\"Onde\" exigiria ideia de lugar em que algo ocorre (o país se expandiu nas trilhas, e não percorreu nelas); \"das quais\" e \"às quais\" trazem preposições que \"percorrer\" não pede; e \"o qual\" não concorda com \"trilhas\" (feminino plural).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Compreensão geral do texto (inglês). A reportagem trata de um estudo da Universidade de Michigan que analisou 5 853 alimentos e mediu seus efeitos em \"minutes of healthy life gained or lost\", isto é, minutos de vida saudável ganhos ou perdidos. O cachorro-quente tira 36 minutos; já nozes, leguminosas, frutos do mar, frutas e vegetais têm efeitos positivos.\n\nPortanto, o estudo destaca alimentos que aumentam e que encurtam a expectativa de vida saudável (lengthen and shorten lifespan).\n\nAs demais alternativas fogem do foco: o texto não lista doenças (A), não fala em efeitos \"secretos\" (C), em mitos (D) nem em metabolismo (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Verbos modais (inglês). \"Could take 36 minutes off your life\" expressa possibilidade: comer um cachorro-quente pode tirar 36 minutos da sua vida. \"Could\", aqui, não é passado de \"can\", mas um modal de possibilidade.\n\nA única alternativa que mantém essa ideia de possibilidade é \"may perhaps take\" (\"talvez possa tirar\").\n\nAs demais trazem certeza ou obrigação, mudando o sentido: \"would definitely\", \"shall definitely\", \"should certainly\" e \"will surely\" afirmam que o efeito vai ocorrer com certeza, o que o texto não diz.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Referência pronominal (inglês). \"Which\" é pronome relativo e retoma o substantivo imediatamente anterior a que se refere. O trecho completo é: \"It's based on a study called the Global Burden of Disease, which measures morbidity...\".\n\nO que mede a morbidade associada às escolhas alimentares é o estudo chamado Global Burden of Disease, ou seja, \"study\".\n\nA tentação é escolher \"index\", sujeito do \"It's\", mas o índice é que se baseia no estudo; quem \"measures morbidity\" é o próprio estudo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Vocabulário e conectivos (inglês). \"For example\" introduz um exemplo; seu sinônimo direto é \"for instance\" (\"por exemplo\").\n\nAs outras opções têm funções diferentes: \"furthermore\" e \"moreover\" significam \"além disso\" (acréscimo); \"to summarize\" significa \"resumindo\" (conclusão); \"in fact\" significa \"de fato\" (ênfase ou confirmação).\n\nNo texto, logo depois de dizer que o índice se baseia no Global Burden of Disease, o professor ilustra o cálculo com dois casos concretos: 0,45 minuto perdido por grama de carne processada e 0,1 minuto ganho por grama de fruta.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Conectivos (inglês). Nas falas do professor, \"then\" aparece duas vezes para descrever etapas do método: \"We then look at the composition of each food and then multiplied this number...\", isto é, \"em seguida olhamos a composição de cada alimento e depois multiplicamos...\".\n\n\"Then\", nesse contexto, significa \"em seguida, depois\", marcando a ordem dos passos: indica sequência.\n\nA confusão possível é com \"conclusão\", sentido que \"then\" pode ter em frases como \"if... then\" (\"então, portanto\"), mas aqui não há raciocínio dedutivo, só a descrição de um procedimento em etapas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Marcadores de contraste (inglês). A expressão \"on the other hand\" (\"por outro lado\") é o sinal: depois de mostrar que o cachorro-quente tira 36 minutos de vida saudável, o texto diz que nozes, leguminosas, frutos do mar, frutas e vegetais sem amido, \"on the other hand, have positive effects on health\".\n\nHá contraste entre alimentos que fazem mal e alimentos que fazem bem.\n\nAs outras alternativas apenas relatam fatos ou dão conselho: o número de alimentos estudados (A), a perda de 27 minutos (B), a sugestão de dispensar o cachorro-quente (C) e a menção ao cachorro-quente como um dos alimentos medidos (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Vocabulário (inglês). O verbo \"tweak\" significa fazer um pequeno ajuste, modificar levemente. No trecho, o índice serve para ajudar as pessoas a \"tweak a minimum of habits\", ou seja, mudar um mínimo de hábitos, e logo em seguida o texto reforça a ideia com \"make the minimum of change\".\n\nPor isso o substituto adequado é \"change\" (\"mudar\").\n\n\"Avoid\" (evitar), \"learn\" (aprender), \"describe\" (descrever) e \"acquire\" (adquirir) não combinam com a ideia de pequena alteração que o próprio texto retoma em \"minimum of change\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Leitura de infográfico. O infográfico apresenta números e porcentagens sobre a alimentação dos americanos: 70% da dieta é de processados, 10% da renda disponível vai para fast food, 130 libras de açúcar por ano, mais de 1/3 dos adultos obesos, 60% das escolas vendiam refrigerantes.\n\nTrata-se, portanto, de uma representação visual de dados estatísticos.\n\nAs outras alternativas fazem juízos de valor (comportamentos \"compulsivos\", condutas \"escusáveis\", ações \"ineficazes\", comparações \"imparciais\") que o infográfico não formula: ele apenas mostra números.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Leitura de infográfico (inglês). O quadro rosa diz \"Americans spend 10% of their disposable income on fast food\": os americanos gastam 10% de sua renda disponível com fast food.\n\nPor que as outras erram:\n(A) os 60% se referem às escolas de ensino fundamental II e médio que vendiam refrigerantes em máquinas no início dos anos 2000, não ao refrigerante consumido por adolescentes;\n(B) 70% é a parcela de processados na dieta americana, não a porcentagem de pessoas que os consomem;\n(D) o infográfico não fala em consumo diário;\n(E) são \"more than 1/3\", mais de um terço dos adultos obesos, não mais da metade.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Interpretação de tirinha e provérbios (inglês). O homem de azul repreende o cachorro Louie: não se pode pegar coisas da calçada e comer, porque \"you don't know what is in that!\" (\"você não sabe o que tem nisso!\"). No último quadro, ele próprio compra e come um cachorro-quente de rua, alimento cuja composição também é incerta, e o humor vem dessa contradição.\n\nO provérbio que resume a atitude é \"Do as I say, not as I do\" (\"faça o que eu digo, não faça o que eu faço\").\n\n\"Don't judge a book by its cover\" e \"All that glitters is not gold\" falam de aparências enganosas, que não é o centro da piada; os outros dois não têm relação com a cena.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Feudalismo e relações de vassalagem. Na Europa medieval, um senhor concedia um benefício (geralmente um feudo) a outro nobre, o vassalo, que em troca lhe jurava fidelidade e auxílio militar. Esse vínculo entre membros da nobreza era selado por um ritual: a homenagem (o vassalo, de joelhos, punha as mãos entre as do senhor), o juramento de fidelidade e a investidura, com a entrega de um objeto simbólico, como um punhado de terra ou um ramo.\n\nLe Goff destaca justamente isso: palavras, gestos e objetos que \"fazem conhecer algo mais\", ou seja, símbolos que estabeleciam o vínculo e a relação hierárquica entre senhor e vassalo.\n\nA (A) nega a hierarquia, que o ritual afirma; a (D) confunde vassalagem (entre nobres) com servidão (relação com camponeses); a (C) e a (E) tratam de temas que o excerto não aborda.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Expansão marítima portuguesa e Igreja. A bula Romanus Pontifex (1454), de Nicolau V, deu ao rei de Portugal o direito de \"invadir, conquistar, subjugar\" sarracenos e pagãos e \"reduzir à servidão\" seus povos. O trecho também justifica a escravização pela conversão: os africanos levados ao reino teriam se convertido à fé católica, e espera-se a conversão de muitos mais.\n\nTrata-se de uma legitimação oficial da Igreja à escravização de africanos, apresentada como meio de catequização.\n\nA (A) atribui à Igreja interesse econômico direto no tráfico, o que o documento não mostra; a (C) fala de aliança militar, mas o papa apenas concede direitos; a (B) e a (E) contrariam o texto, que aprova a servidão. Note que o tráfico atlântico em grande escala para a América ainda não existia em 1454.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Brasil colonial: contato entre indígenas e portugueses no século XVI. Na fase do pau-brasil, os portugueses obtinham o trabalho indígena pelo escambo, trocando ferramentas e objetos de metal pela derrubada e transporte das árvores.\n\nO texto mostra que os machados de ferro multiplicaram a produtividade e que \"os nativos souberam aproveitar a tecnologia dos instrumentos europeus para benefício próprio\", usando machados e facas em guerras e na subsistência. É a assimilação de novas técnicas pelos indígenas a partir do contato.\n\nA (E) é tentadora, mas o excerto não fala de escravidão (no escambo o trabalho era trocado por mercadorias); e o texto não menciona replantio (A), plantio de pau-brasil (C), que era extraído da mata, nem produção agrícola (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Brasil holandês (1630–1654). Sob o governo de Maurício de Nassau (1637–1644) em Pernambuco, a Companhia das Índias Ocidentais trouxe artistas e cientistas: os pintores Frans Post e Albert Eckhout retrataram paisagens, pessoas, plantas e animais, e os naturalistas Georg Marcgrave e Willem Piso escreveram a Historia Naturalis Brasiliae. Resultou daí um rico acervo iconográfico e documental sobre a colônia.\n\nPor que as outras erram: o ouro só foi descoberto em Minas no fim do século XVII, por bandeirantes (A); Nassau praticou relativa tolerância religiosa a católicos e judeus (B); a produção açucareira continuou dependente do trabalho escravo, e os holandeses controlavam o tráfico africano (D); e a União Ibérica começou em 1580, antes das invasões, sendo até uma das causas delas (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Revolução Francesa e direitos das mulheres. A Declaração dos Direitos do Homem e do Cidadão (1789) proclamou a igualdade, mas excluiu as mulheres da cidadania política. Em resposta, Olympe de Gouges publicou em 1791 a Declaração dos Direitos da Mulher e da Cidadã, reivindicando igualdade civil e política entre homens e mulheres, inclusive o direito de participar da elaboração das leis.\n\nPor que as outras erram: o modelo do documento é a declaração francesa de 1789, não a independência americana (B); ela reivindicava espaço público, não a valorização do papel doméstico (C); a igualdade de gêneros não foi adotada pelos revolucionários (D), e Olympe acabou guilhotinada em 1793; e as mulheres não chegaram ao primeiro escalão do governo (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "O tema é a **Independência do Brasil** e a crítica ao **pacto colonial** (exclusivo metropolitano). Em agosto de 1822, já em ruptura com as Cortes de Lisboa, D. Pedro justifica às nações estrangeiras por que o Brasil se separa.\n\nO trecho diz que o Brasil, \"privado do mercado geral das nações\", só podia mandar seus produtos aos portos da metrópole, o que alimentava a \"sórdida cobiça\" dos \"tiranos\". Ou seja: o monopólio comercial português é apresentado como opressão e exploração, exatamente o que afirma a alternativa D.\n\nA alternativa A é a armadilha: a ideia de reino unido luso-brasileiro existiu antes, mas o manifesto já é de rompimento. O texto também critica o mercantilismo (não o valoriza, como diz C) e não fala de Estados Unidos nem de Inglaterra.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "O tema é a **Semana de Arte Moderna de 1922** e seu vínculo com São Paulo. Dez anos depois, Menotti del Picchia, um dos participantes, chama o evento de \"Revolução intelectual do Brasil\" e lembra que ele ocorreu em São Paulo, \"o estado líder da Federação\".\n\nA expressão aponta para a força econômica paulista (café, indústria nascente), que bancou o evento: o Theatro Municipal e os patronos eram da elite paulistana. E \"revolução intelectual\" indica um projeto de renovação estética. Isso é a alternativa A.\n\nO texto não fala em falência do ideário (B) nem em desinteresse do país (C). A alternativa D é tentadora por causa do ano do artigo (1932, Revolução Constitucionalista), mas o trecho não liga a Semana a esse movimento. Em E, a passagem rápida do tempo é só uma imagem; não se diz que o projeto ficou obsoleto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "O tema é a campanha **Diretas Já** (1983–1984) e a **transição \"lenta, gradual e segura\"** da ditadura militar. A charge de Henfil mostra uma multidão com faixas \"Queremos votar!\" e um militar sozinho gritando que a escolha \"é direito do Colégio Eleitoral\" e que \"o povo é ilegal\".\n\nO contraste é entre a mobilização popular por eleição direta para presidente e o plano do regime de controlar a abertura: a Emenda Dante de Oliveira foi derrotada na Câmara em 1984, e o sucessor de Figueiredo (Tancredo Neves) foi escolhido pelo Colégio Eleitoral em 1985. Isso é a alternativa B.\n\nNão foi o Judiciário que barrou as diretas (A); a campanha uniu partidos de oposição (C); o Legislativo não monopolizava as decisões na ditadura (D); e houve grandes comícios, como os da Praça da Sé e da Candelária (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "O tema é o **fim da Segunda Guerra Mundial** e o início da **Guerra Fria**. As bombas atômicas lançadas pelos Estados Unidos sobre Hiroshima e Nagasaki, em agosto de 1945, levaram à rendição do Japão e encerraram o conflito no Pacífico.\n\nAlém de garantir a vitória, a bomba mostrou ao mundo (e sobretudo à União Soviética) o novo poder norte-americano, colocando os Estados Unidos como uma das duas superpotências do pós-guerra. Essa é a alternativa E.\n\nA alternativa A é a mais tentadora, mas erra ao falar em panorama \"unilateral\": o pós-guerra foi bipolar, com a URSS testando sua própria bomba já em 1949. B está errada porque a bomba não resultou de disputa EUA × URSS durante a guerra (eram aliados). C e D não fazem sentido: o Japão já integrava o Eixo e não tinha tecnologia nuclear a ser impedida.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "O tema é a **corrida armamentista** na geopolítica atual. A foto mostra manifestantes em Berlim, em 2020, com máscaras de Trump e Putin, montados em mísseis nucleares de brinquedo diante do Portão de Brandemburgo, símbolo da divisão da Guerra Fria.\n\nO protesto ocorreu no contexto do abandono de tratados de controle de armas (o Tratado INF, sobre mísseis de alcance intermediário, foi rompido em 2019) e das dúvidas sobre a renovação do New START. A sátira, com os líderes \"brincando\" com bombas, alerta para a volta de uma corrida armamentista entre as grandes potências: alternativa C.\n\nO manifesto é crítico, não comemorativo (E); não há acordo militar EUA-Rússia sendo assinado (A) nem mediação alemã (B); e a URSS não usou armas nucleares na Segunda Guerra (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "O tema é a **regionalização do espaço mundial** e a formação de **blocos econômicos**. O texto afirma que o entorno geográfico é \"a primeira circunstância da ação diplomática\", que vizinhos buscam relações amistosas nas fronteiras e que a localização numa região deve virar \"oportunidades de cooperação\".\n\nEssa é a lógica dos blocos econômicos (Mercosul, União Europeia, ASEAN…): países próximos se integram para ampliar comércio, investimentos e poder de negociação no sistema internacional. Alternativa E.\n\nConglomerados (A) são grandes grupos empresariais, não acordos entre Estados; colônias de exploração (B) remetem à dominação, não à cooperação; órgãos reguladores internacionais (C), como a OMC, têm alcance global, não regional; e zonas francas (D) são áreas com isenção fiscal dentro de um país.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "O tema é o **regime de maquila**. O Paraguai isenta de impostos as empresas que importam máquinas e matéria-prima, produzem no país e exportam, atraindo empresas brasileiras em busca de custos menores (impostos, energia e mão de obra mais baratos).\n\nO modelo copia as **maquiladoras** mexicanas, instaladas na fronteira com os Estados Unidos desde os anos 1960: fábricas que recebem insumos com isenção, montam o produto com mão de obra barata e o reexportam, sobretudo para o mercado norte-americano. Alternativa C.\n\nAs demais citam realidades sem relação com essa estratégia: terras comunais (A), parques tecnológicos (B), uniões aduaneiras (D), que são acordos entre países, e complexos produtivos soviéticos (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "O tema é o **uso do solo na Amazônia Legal** e o **arco do desmatamento**. No primeiro mapa, as propriedades privadas (em marrom) se concentram no sul e no leste da região: Mato Grosso, Rondônia, sul do Pará, Tocantins e oeste do Maranhão. No segundo, as terras indígenas e unidades de conservação ficam mais no interior e no norte.\n\nEssa faixa sul-leste, onde avançam a pecuária, a soja e a extração de madeira sobre a floresta, é justamente o chamado arco do desmatamento. Alternativa B.\n\nA alternativa C é tentadora, mas o mapa não mostra \"avanço recente\" algum; além disso, nos últimos anos houve retrocesso na proteção. Unidades de conservação na Amazônia não resolvem crise hídrica do Sul (A); terras indígenas são da União, não espaços privados (D); e áreas de proteção não servem à agropecuária (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "O tema são os **rios urbanos** e a forma como as grandes cidades brasileiras os trataram. As imagens de satélite mostram rios retificados, canalizados, ladeados por avenidas marginais e cercados de ocupação densa, sem mata ciliar e com a várzea aterrada.\n\nEssas intervenções revelam que o rio foi tratado como obstáculo ou como simples canal de drenagem e esgoto, não como parte da paisagem e da vida da cidade. Daí a alienação dos moradores em relação aos rios, vistos apenas como escoadouro de águas: alternativa D.\n\nAs demais dizem o contrário do que se vê: a mancha urbana avançou sobre os limites naturais (A), as planícies de inundação foram ocupadas, não preservadas (B), rios poluídos não garantem segurança hídrica (C), e a ocupação dos meandros não foi planejada nem fica na foz (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "O tema são as **migrações internas no Brasil**. \"Retirante\" é o nome dado, historicamente, a quem deixava o Sertão nordestino fugindo das secas prolongadas, que destroem lavouras e rebanhos e tornam a vida inviável no semiárido.\n\nO termo ficou marcado na literatura e na arte (Vidas secas, de Graciliano Ramos; Os retirantes, de Portinari) e se refere aos fluxos que seguiam para o litoral nordestino, a Amazônia (ciclo da borracha) e o Sudeste. Alternativa A.\n\nO deslocamento na entressafra (B) caracteriza a migração sazonal de trabalhadores, mas o nome \"retirante\" está ligado à seca; cheias amazônicas, baixa do turismo e retração industrial (C, D, E) não definem o termo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "O tema são as **formações vegetais brasileiras** e a adaptação ao clima. A figura compara a vegetação **perenifólia** (folhas o ano todo) à **caducifólia** (folhas que caem no inverno ou na seca, para economizar água).\n\nNa Mata Atlântica, com clima quente e chuvas bem distribuídas, predomina a floresta perenifólia. Na Caatinga, sob clima semiárido, a maioria das plantas perde as folhas na estação seca, reduzindo a transpiração. Logo, 1 e 2 correspondem à Mata Atlântica e à Caatinga: alternativa C.\n\nA Floresta Amazônica também é perenifólia, mas Mata dos Pinhais e Pradarias não são formações caducifólias típicas de estratégia contra a seca. Em E, a ordem e a classificação não batem: a Caatinga é o exemplo de caducifólia, não de perenifólia.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "O tema é a **estrutura geológica** do relevo continental. As formações surgidas no Terciário (Cenozoico), em áreas de choque entre placas tectônicas e ainda sujeitas a terremotos e vulcanismo, são os **dobramentos modernos**: Andes, Alpes, Himalaia, Montanhas Rochosas.\n\nPor serem jovens, sofreram pouco desgaste e formam as cadeias mais altas do planeta. Alternativa E.\n\nOs dobramentos antigos (D), como os Apalaches e os Urais, formaram-se no Paleozoico e já estão bem erodidos; escudos cristalinos e plataformas cratônicas (A, C) são estruturas antiquíssimas (Pré-Cambriano) e estáveis; bacias sedimentares (B) resultam do acúmulo de sedimentos, não da instabilidade tectônica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "O tema é a **educação ambiental** como crítica ao modelo de desenvolvimento. A autora diz que ela nasce como resposta à falência de um modo de vida que prometia felicidade e progresso apoiado no \"imperativo da acumulação material\" e nos circuitos de \"produção e consumo\".\n\nOu seja, a educação ambiental reage à sociedade de consumo, cuja relação com a natureza é predatória (extração crescente de recursos e geração de resíduos). Alternativa B.\n\nA alternativa A é tentadora, mas a ideia de \"construção de paisagens naturais\" não aparece e não faz sentido (paisagem natural não é construída). Consumo consciente (C) seria parte da resposta, não aquilo a que se responde; a obsolescência programada não estimula a sustentabilidade (D); e o texto não fala em ausência de leis (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "O tema é o **efeito estufa**, fenômeno natural da atmosfera. A superfície terrestre, aquecida pela radiação solar, emite energia na forma de radiação infravermelha. Gases como vapor d'água, CO₂, metano e óxido nitroso absorvem essas faixas específicas de comprimento de onda e reemitem parte da energia de volta à superfície, retendo calor.\n\nÉ exatamente o que o enunciado descreve: gases que \"interceptam\" parte da energia radiativa em comprimentos de onda específicos. Alternativa A.\n\nEl Niño e La Niña (B, E) são alterações na temperatura das águas do Pacífico; a inversão térmica (C) é uma condição de estabilidade do ar frio junto ao solo; e as ilhas de calor (D) resultam do tipo de cobertura urbana (asfalto, concreto, pouca vegetação).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "O tema são as **geotecnologias**. O texto fala em obter informações sobre áreas de grande extensão, com \"características multiespectrais\", monitoramento frequente e custo muito menor que o trabalho presencial.\n\nIsso descreve o **sensoriamento remoto**: captação, por satélites, aviões ou drones, da radiação refletida pela superfície em várias faixas do espectro (visível, infravermelho), permitindo acompanhar desmatamento, queimadas e manejo florestal a distância. Alternativa C.\n\nCoordenadas geográficas (A) apenas localizam pontos; simbologia (B) é a linguagem dos mapas; perfil topográfico (D) representa o relevo em corte; anamorfose (E) é um mapa com áreas deformadas proporcionalmente a um dado. Nenhuma delas obtém informação multiespectral.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "O tema é a **digestão em ruminantes** e o **mutualismo com micro-organismos**. O bezerro mama, e para digerir o açúcar do leite (lactose) produz a enzima **lactase**. No desmame, essa produção cai.\n\nPassando a comer capim, o animal depende de **bactérias** (e também protozoários) que vivem no rúmen e produzem **celulase**, a enzima que quebra a celulose da parede das células vegetais. Nenhum mamífero produz celulase por conta própria. Lactase, bactérias, celulase: alternativa E.\n\nGalactase não é a enzima do leite, e tripsina é uma protease produzida pelo próprio pâncreas, não pelos micro-organismos (A, D). Amilase digere amido, não o açúcar do leite (C). Em B, fungos não são os principais simbiontes citados para a digestão da celulose no rúmen.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "O tema são as **relações ecológicas interespecíficas**. O inseto australiano põe ovos nas gemas florais e vegetativas da acácia; as larvas se desenvolvem ali, usando os tecidos da planta, e essas gemas deixam de formar flores e ramos.\n\nO inseto se beneficia (abrigo e alimento para a prole) e a planta é prejudicada, perdendo capacidade reprodutiva, sem morrer. Uma espécie vivendo à custa de outra, que é prejudicada mas não é morta, caracteriza o **parasitismo**: alternativa D. É por isso que serve de controle biológico.\n\nNo predatismo (E), o predador mata e consome a presa. No amensalismo (A), uma espécie inibe a outra sem tirar proveito. No comensalismo (B), uma se beneficia sem prejudicar a outra. Na competição (C), as duas disputam o mesmo recurso.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "O tema é a **endocitose**. A figura mostra a membrana plasmática emitindo prolongamentos (pseudópodes) que envolvem um micro-organismo inteiro e o englobam numa vesícula, o fagossomo. Englobar partículas sólidas grandes é **fagocitose**; a pinocitose envolve gotículas de líquido.\n\nNo corpo humano, as células fagocitárias de defesa são os **neutrófilos** e os macrófagos (originados dos monócitos). Fagocitose e neutrófilo: alternativa A.\n\nA alternativa B é a mais tentadora porque cita o macrófago, mas chama o processo de pinocitose. Hemácias (C) não fagocitam; basófilos (D) liberam histamina; linfócitos T (E) atuam na imunidade específica, sem fagocitar.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "O tema é a **evolução das plantas** (embriófitas). Vamos por estrutura.\n\n**Anterídios** são os gametângios masculinos, presentes em briófitas (musgo) e pteridófitas (samambaia). **Grãos de pólen com expansões aladas** (sacos aéreos) são típicos das gimnospermas coníferas, como pinheiros e araucária; o pólen surge nas gimnospermas, que já não formam anterídios. **Estames** são as peças masculinas da flor, exclusivas das angiospermas, como o capim.\n\nA única sequência compatível é samambaia, araucária e capim: alternativa D.\n\nA alternativa E começa bem (musgo tem anterídio), mas a samambaia não produz pólen. Em C, o capim não tem pólen alado e a samambaia não tem estames.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "O tema são as **adaptações ao parasitismo** em helmintos. A pergunta pede uma característica comum às três espécies: a tênia (platelminto) e a lombriga e o ancilóstomo (nematoides).\n\nTodas produzem enormes quantidades de ovos (uma fêmea de Ascaris põe cerca de 200 mil por dia; as proglotes da tênia carregam dezenas de milhares). Como a chance de um ovo chegar a um novo hospedeiro é pequena, a alta fecundidade compensa a perda: alternativa E.\n\nAs outras valem só para parte do grupo ou são falsas. A autofecundação (A) e a ausência de tubo digestório (D) ocorrem na tênia, mas lombriga e ancilóstomo têm sexos separados e tubo digestório completo. Nenhum deles é desprovido de antígenos (C), e a cobertura (cutícula ou tegumento) não é \"dérmica impermeável\" (B); a tênia, inclusive, absorve nutrientes pela superfície.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "O tema é a **reprodução humana** e os **gêmeos**. Na fertilização artificial, hormônios fazem o ovário liberar vários ovócitos; cada um é fecundado por um espermatozoide diferente, gerando zigotos distintos.\n\nGêmeos vindos de dois ovócitos e dois espermatozoides são **bivitelinos** (dizigóticos, ou fraternos): geneticamente tão parecidos quanto irmãos comuns. Alternativa B.\n\nUnivitelinos (E) surgem de um único zigoto que se divide. Quem estimula o ovário a amadurecer folículos é o FSH, não o estrógeno (A). As células haploides se formam por meiose, não por mitose (C). E o DNA mitocondrial vem da mãe, pelo ovócito: embriões da mesma mãe têm o mesmo DNA mitocondrial (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "O tema são os **anexos embrionários dos amniotas**. Monotremados (ornitorrinco, équidna), aves e répteis põem ovos com casca, e o embrião se desenvolve dentro deles com os mesmos anexos: saco vitelínico, âmnio, cório e alantoide. Alternativa C.\n\nO ovo amniótico, com casca porosa, foi a novidade que permitiu a reprodução fora da água. Por isso D está errada: a casca é permeável aos gases (O₂ e CO₂), justamente para o embrião respirar; ela só limita a perda de água.\n\nO desenvolvimento é direto, sem larva (A), e a fecundação é interna, já que a casca se forma antes da postura (B). Fornecer calor (E) vale para aves e monotremados, que chocam os ovos, mas não para os répteis, que são ectotérmicos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "O tema é a **fenilcetonúria** e a relação gene–enzima. O gene recessivo (a) faz a fenilalanina hidroxilase não funcionar. Logo, no indivíduo **aa**, a fenilalanina não vira tirosina e é desviada para ácido fenilpirúvico, que se acumula e causa a doença (com danos neurológicos). Alternativa A.\n\nO heterozigoto Aa (B) tem um alelo normal, produz enzima suficiente e não é fenilcetonúrico. Enzimas dependem tanto do pH quanto da temperatura (C). As enzimas são proteínas sintetizadas nos ribossomos, no citoplasma, e cada uma é codificada por um gene diferente (D). Quem tem fenilcetonúria precisa restringir a fenilalanina da dieta, não eliminar proteínas, que são essenciais (E).\n\nO efeito pleiotrópico aparece no esquema: um só gene afeta várias características, como o acúmulo de ácido fenilpirúvico e a menor produção de melanina.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "O tema são as **bactérias**. O texto chama os agentes do cólera (Vibrio cholerae) e da febre tifoide (Salmonella typhi) de \"seres procariontes\", e os coliformes também são bactérias.\n\nBactérias têm parede celular formada por **peptidoglicano** (mureína), característica exclusiva do grupo e alvo de antibióticos como a penicilina. Alternativa D.\n\nAs demais descrevem **vírus**: ser parasita intracelular obrigatório (A), ser formado só por capsídeo proteico e ácido nucleico (B), poder ter RNA como material genético (C) e não ter metabolismo próprio (E). As bactérias citadas são células, têm metabolismo próprio e DNA como material genético.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "O tema é a **seleção natural** pela teoria sintética da evolução. Numa população de Plasmodium, já existe variação genética, gerada por mutações ao acaso, antes de qualquer contato com a cloroquina. Alguns indivíduos, por acaso, já carregam alelos de resistência.\n\nO medicamento não cria a resistência: ele elimina os sensíveis e deixa sobreviver e se reproduzir os que já eram resistentes, que passam a predominar. Alternativa A.\n\nAs alternativas C, D e E trazem a ideia errada de que o organismo muda \"para\" se proteger ou se adapta quando entra em contato com o remédio, uma visão lamarckista. B também sugere que a estratégia surge durante a exposição. A resistência é selecionada, não induzida.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "O tema é a **evolução dos modelos atômicos** e as **leis ponderais**. Dalton propôs que a matéria é formada por átomos indivisíveis e indestrutíveis, que nas reações apenas se rearranjam, combinando-se em proporções fixas.\n\nSe os átomos não são criados nem destruídos numa reação, a massa total dos reagentes é igual à dos produtos: o modelo dá uma explicação para a **lei da conservação das massas** de Lavoisier (e também para a lei das proporções definidas, de Proust). Alternativa B.\n\nA teoria cinética dos gases (A) e a teoria das colisões (E) são posteriores e tratam do movimento das partículas; a dissociação iônica (C), de Arrhenius, exige a noção de carga elétrica, que o modelo de Dalton não tem; a lei da ação das massas (D) é de Guldberg e Waage, ligada à cinética e ao equilíbrio.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "O tema é a **concentração em quantidade de matéria** (mol/L). A solução mais diluída usa a menor massa (0,75 kg) no maior volume (400 L).\n\nn = 750 g ÷ 183 g/mol ≈ 4,1 mol\nC = 4,1 mol ÷ 400 L ≈ 0,0102 mol/L ≈ 1,0 × 10⁻² mol/L\n\nAlternativa D.\n\nO erro típico é tomar a combinação oposta: 1 kg em 300 L dá 1000 ÷ 183 ÷ 300 ≈ 1,8 × 10⁻² mol/L (alternativa A), que é a solução mais concentrada.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "O tema são as **forças intermoleculares** e o **ponto de ebulição**. Como as massas molares são próximas, quem decide é a intensidade das interações entre as moléculas.\n\nButano: apolar, só dipolo induzido (forças de London), as mais fracas → menor ponto de ebulição.\nButanona: polar (C=O), dipolo permanente, mas sem hidrogênio ligado a O → intermediário.\nButan-1-ol: faz ligação de hidrogênio pelo grupo OH → mais alto.\nÁcido butanoico: faz duas ligações de hidrogênio por molécula (OH e C=O), formando dímeros → o mais alto.\n\nOrdem crescente: butano < butanona < butan-1-ol < ácido butanoico. Alternativa E.\n\nA armadilha é pôr álcool e ácido na mesma faixa: o ácido carboxílico supera o álcool porque forma dímeros estáveis por ligações de hidrogênio.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "O tema é a **teoria de Arrhenius**: conduz eletricidade em água a substância que se dissocia (compostos iônicos) ou se ioniza (ácidos), liberando íons.\n\nNa alternativa C, todas fazem isso: KCl é sal iônico e se dissocia (K⁺ e Cl⁻); HNO₃ é ácido forte e se ioniza (H₃O⁺ e NO₃⁻); LiOH é base e se dissocia (Li⁺ e OH⁻). Alternativa C.\n\nAs outras trazem pelo menos um composto molecular que se dissolve sem formar íons: metanol, CH₃OH (A); glicose, C₆H₁₂O₆ (B); etanal, CH₃CHO (D); etanol, CH₃CH₂OH (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "O tema é a **termoquímica com estequiometria**. A equação diz que a formação de 1 mol de H₂ libera 88 kJ (ΔH = −88 kJ/mol).\n\nQuantidade de H₂ que liberou 7,04 kJ:\nn = 7,04 ÷ 88 = 0,08 mol\n\nVolume, com volume molar de 25 L/mol:\nV = 0,08 × 25 = 2,0 L\n\nAlternativa D.\n\nQuem para na quantidade de matéria marca 0,08 (alternativa E, que tem esse número, mas em litros).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "O tema é a **cinética química** e a **teoria das colisões**. Na figura, a temperatura T é a mesma nos três sistemas, então o que muda é a concentração dos gases.\n\nSistema 2: o mesmo número de moléculas que o sistema 1, mas o êmbolo foi baixado (pressão P' maior, volume menor). Mais moléculas por unidade de volume → mais colisões por segundo → V₂ > V₁.\n\nSistema 3: mesmo volume do sistema 1, mas com muito mais moléculas (pressão P'' maior). De novo a concentração aumenta → V₃ > V₁.\n\nLogo V₁ < V₂ e V₁ < V₃: alternativa A.\n\nO engano mais comum é achar que, sem mudar a temperatura, a velocidade não muda (alternativas B e E). A temperatura muda a fração de colisões com energia suficiente, mas a concentração muda o número total de colisões.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "O tema é **oxirredução** (número de oxidação). A glicina, NH₂–CH₂–COOH, é um **aminoácido**: tem grupo amino e grupo carboxila.\n\nNox do carbono ligado ao N (cada ligação conta para o átomo mais eletronegativo):\nantes: 2 ligações com H (−2), 1 com N (+1), 1 com C (0) → −1\ndepois: 1 com H (−1), 1 com Cl (+1), 1 com N (+1), 1 com C (0) → +1\n\nO carbono foi de −1 a +1: perdeu elétrons, foi **oxidado** pelo hipoclorito.\n\nCloro: no ClO⁻, o oxigênio vale −2, então Cl = +1. Ligado ao carbono, o cloro é mais eletronegativo, então fica com −1. Passou de 1+ para 1−: foi reduzido.\n\nAminoácido; oxidado; 1+ e 1−: alternativa B. Em C, \"reduzido\" é a troca típica: quem se reduz é o cloro, não o carbono.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "O tema é **radioatividade**: balanço de reações nucleares e meia-vida.\n\nConservação do número de massa e do número atômico:\nmassa: 20 + A = 18 + 4 → A = 2\ncarga: 10 + Z = 9 + 2 → Z = 1\nX é o hidrogênio de massa 2: o **deutério**.\n\nTempo em meias-vidas:\n5,5 h = 330 min\n330 ÷ 110 = 3 meias-vidas\n100% → 50% → 25% → 12,5%\n\nDeutério e 12,5%: alternativa D.\n\nQuem conta uma meia-vida a mais chega a 6,25% (alternativa A); quem confunde o isótopo de massa 2 com o de massa 3 marca trítio.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "O tema é a **análise de cadeias carbônicas**: função orgânica, classificação de carbonos e fórmula molecular. O geraniol precisa ter grupo álcool, dois carbonos terciários e 18 hidrogênios.\n\nA estrutura 1 é aldeído (CHO), e na 2 o OH está ligado ao anel aromático, o que é fenol, não álcool: ficam fora.\n\nEstrutura 3: (CH₃)₂C=CH–CH₂–CH₂–C(CH₃)=CH–CH₂OH. Tem OH em carbono saturado (álcool primário), dois carbonos terciários (os carbonos das duplas ligados a três outros carbonos) e fórmula C₁₀H₁₈O. Confere tudo.\n\nAs estruturas 4 e 5 também são álcoois com dois carbonos terciários, mas a contagem de hidrogênios não bate: a 4 tem anel e duas duplas, C₁₀H₁₆O; a 5 tem onze carbonos (a cadeia termina em CH=CH–CH₃), C₁₁H₂₀O.\n\nAlternativa D (estrutura 3).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "O tema é o **refino do petróleo**. A destilação fracionada separa as frações do petróleo, mas não muda as moléculas; sobra muita fração pesada (cadeias longas), enquanto a mais procurada é a gasolina (cadeias de cerca de 5 a 10 carbonos).\n\nPara aproveitar essas frações, as refinarias usam o **craqueamento catalítico**: em alta temperatura e com catalisador, as cadeias longas são quebradas em moléculas menores, aumentando a produção de gasolina e GLP. Alternativa E.\n\nDestilação fracionada e a vácuo (A, C) são processos físicos de separação. A reforma catalítica (B) rearranja moléculas (em cadeias ramificadas, cíclicas ou aromáticas) para melhorar a octanagem, sem quebrar cadeias longas. A alquilação (D) faz o contrário: junta moléculas pequenas em maiores.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:61": {
+   "resposta": "O tema é a **velocidade média** e a conversão de unidades de tempo. O taquímetro dá a taxa \"por hora\" de algo que aconteceu uma vez em Δt segundos.\n\nSe 1 km foi percorrido em Δt segundos, quantas vezes isso caberia em 1 hora (3 600 s)?\ntaxa = 3 600 ÷ Δt (em h⁻¹)\n\nConferindo com o exemplo da questão:\n3 600 ÷ 45 = 80 → 80 km/h, exatamente o número indicado pelo ponteiro.\n\nAlternativa A.\n\nA alternativa B inverte a razão (daria 45 ÷ 3 600 = 0,0125), e a E usaria minutos em vez de horas (60 ÷ 45 ≈ 1,3).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:62": {
+   "resposta": "O tema é **cinemática (movimento uniforme)** com **trigonometria no triângulo retângulo**. A altura de 3 000 m é o cateto adjacente ao ângulo de 30°, e a distância horizontal d percorrida pelo avião em 10 s é o cateto oposto.\n\nd = 3 000 · tg 30° = 3 000 · √3/3 = 1 000√3 m\n\nVelocidade:\nv = 1 000√3 ÷ 10 = 100√3 m/s\nem km/h: 100√3 × 3,6 = 360√3 km/h\n\nAlternativa C.\n\nO erro mais comum é usar o seno ou o cosseno no lugar da tangente, ou esquecer de multiplicar por 3,6 na conversão de m/s para km/h.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:63": {
+   "resposta": "O tema é o **movimento circular** (frequência) e o **efeito estroboscópico**. Para a logomarca parecer parada, o disco precisa dar um número inteiro de voltas entre dois quadros consecutivos, ou seja, a cada 1/30 s.\n\nCom n voltas por quadro:\nf = 30 · n voltas por segundo\nem rpm: f = 30 · n · 60 = 1 800 · n\n\nAs velocidades possíveis são 1 800, 3 600, 5 400… rpm. Entre as alternativas, só 1 800 rpm (n = 1) serve: alternativa B.\n\nConferindo as outras: 1 200 rpm = 20 voltas/s, o que dá 2/3 de volta por quadro; 1 500 rpm = 25 voltas/s, 5/6 de volta; 600 e 300 rpm dão 1/3 e 1/6 de volta. Em nenhuma delas a volta se completa entre quadros.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:64": {
+   "resposta": "O tema é **trabalho de força variável** e **conservação de energia**. O trabalho é a área sob a curva força × elongação (a curva aproximada, em vermelho).\n\nDe 0 a 0,4 m (triângulo): 0,4 × 200 ÷ 2 = 40 J\nDe 0,4 a 0,6 m (retângulo): 0,2 × 200 = 40 J\nDe 0,6 a 0,7 m (triângulo): 0,1 × 200 ÷ 2 = 10 J\nTotal: W = 90 J\n\nToda essa energia vira energia cinética da flecha (m = 18 × 10⁻³ kg):\n90 = 0,018 · v² ÷ 2\nv² = 10 000\nv = 100 m/s\n\nAlternativa B.\n\nQuem calcula só até 0,6 m (80 J) chega a cerca de 94 m/s, valor que não está entre as opções; quem esquece o fator 1/2 obtém cerca de 71 m/s.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:65": {
+   "resposta": "O tema é a **conservação da quantidade de movimento** e o **centro de massa**. Sem atrito entre os corpos e a placa, a placa não recebe nenhuma força horizontal: o empurrão é interno ao par pessoa–bloco. Logo, ela não começa a se mover em relação à água (B e C ficam fora).\n\nO par pessoa–bloco partiu do repouso, então seu centro de massa continua no centro da placa:\n200 · v(bloco) = 80 · v(pessoa)\nO bloco anda devagar para a esquerda e a pessoa, 2,5 vezes mais rápido, para a direita, e a todo instante 200 · x(bloco) = 80 · x(pessoa) em relação ao centro.\n\nComo o peso total continua com resultante aplicada no centro da placa, não surge torque que a incline. Ela segue parada e em equilíbrio: alternativa D.\n\nA e E são tentadoras, mas a pessoa vai mais longe e o bloco é mais pesado, e os dois efeitos se compensam exatamente.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:66": {
+   "resposta": "O tema é **hidrostática**: o **princípio de Arquimedes** e a condição de flutuação. O objeto ficou em equilíbrio, boiando parcialmente submerso. Então o empuxo equilibra o peso:\nE = P = m₀ · g\n\nPelo princípio de Arquimedes, o empuxo é igual ao peso do líquido deslocado. Como o copo estava cheio, a água deslocada é exatamente a que derramou:\nm(água) · g = m₀ · g → m(água) = m₀\n\nAlternativa C.\n\nA tentação é estimar pela figura a fração submersa (cerca de metade) e marcar m₀/2. Mas essa fração indica a razão entre as densidades do objeto e da água, não a massa de água derramada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:67": {
+   "resposta": "O tema é **propagação de calor** e **isolamento térmico**. O corpo humano produz calor pelo metabolismo e o perde para o ambiente mais frio por condução, convecção e radiação.\n\nLençol e cobertor não produzem calor: são maus condutores e prendem uma camada de ar parado junto à pele, o que reduz essas perdas. Assim a temperatura do corpo se mantém. Por isso o verso \"me aquece sem me dar calor\" está correto, se entendido como \"me mantém aquecido\". Alternativa E.\n\nA alternativa D erra ao chamar o cobertor de fonte de calor (é justamente o que o verso nega). Cobertores não alteram a capacidade térmica nem o calor específico do corpo, que dependem da massa e do material (A, B, C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "O tema é **óptica geométrica**: os **espelhos esféricos**. Um espelho que faz raios de luz convergirem para uma região (concentrando a luz) é **côncavo**; o convexo sempre os espalha, e o plano não muda a convergência.\n\nPara que a luz refletida convirja num ponto à frente do espelho, formando uma imagem real da fonte sobre a região examinada, a fonte deve ficar além do foco. Se ela estivesse entre o foco e o espelho, os raios refletidos divergiriam (imagem virtual), e a luz não se concentraria no paciente. Côncavo e fonte a distância maior que a focal: alternativa A.\n\nA alternativa C acerta o tipo de espelho, mas põe a fonte dentro da distância focal, situação em que os raios saem divergentes.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "O tema é a **equação fundamental da ondulatória**: v = λ · f.\n\nDados: v = 1 480 m/s; f = 40 kHz = 4,0 × 10⁴ Hz.\n\nλ = v ÷ f\nλ = 1 480 ÷ 40 000\nλ = 0,037 m = 3,7 × 10⁻² m\n\nAlternativa B (cerca de 3,7 cm).\n\nO erro típico está na conversão do quilo-hertz: usar f = 40 Hz dá 37 m, e usar f = 400 kHz dá 3,7 × 10⁻³ m. Também é comum inverter a fórmula e calcular f ÷ v (≈ 27), o que leva às alternativas com 2,7.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:70": {
+   "resposta": "O tema é a **primeira lei de Ohm**: U = R · i.\n\nDados: U = 12 V; R = 4,0 kΩ = 4 000 Ω.\n\ni = U ÷ R\ni = 12 ÷ 4 000\ni = 0,003 A = 3,0 mA\n\nAlternativa D.\n\nO cuidado aqui é com o prefixo: 4,0 kΩ são 4 000 Ω. Uma corrente de 3 mA atravessando o corpo é sentida como um formigamento, mas costuma estar abaixo do nível perigoso, por isso tocar os polos de uma bateria de carro não é, em geral, grave.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:71": {
+   "resposta": "Porcentagem e conjuntos: quem tem esgoto tratado está contido no grupo que tem água encanada, então basta subtrair as porcentagens.\n\nCom água, mas sem esgoto: 83,3% − 51,9% = 31,4%\n\nAplicando à população de 2021:\n0,314 × 213,3 milhões ≈ 66,98 milhões ≈ 67 milhões\n\nO erro típico é calcular 51,9% da população (≈ 110,7 milhões, perto da alternativa A), que dá quem tem esgoto, e não quem só tem água.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:72": {
+   "resposta": "Média aritmética e mediana. Chame de x a primeira nota; as outras são 2x e 3x.\n\nMédia: (x + 2x + 3x) ÷ 3 = 2x = 5,2 → x = 2,6\n\nAs notas são 2,6; 5,2 e 7,8 (todas entre 0 e 10). Em ordem crescente, a do meio é 5,2, que é a mediana.\n\nRepare que, com notas em progressão aritmética (x, 2x, 3x), a mediana sempre coincide com a média — por isso nem era preciso achar x.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:73": {
+   "resposta": "Leitura de infográfico e área do círculo. Cada linha tem 20 pessoas representando 100% das vacinas, então cada cabeça vale 100% ÷ 20 = 5% (confira: 26,4% corresponde a pouco mais de 5 cabeças verdes).\n\nA baixa renda tem 0,3%, que é uma fração de uma única cabeça:\n0,3% ÷ 5% = 0,06 da cabeça\n\nÁrea de uma cabeça (raio 1 mm):\nπ · 1² ≈ 3,14 mm²\n\nÁrea a pintar:\n0,06 × 3,14 ≈ 0,19 mm²\n\nCuidado para não usar o diâmetro como raio: daria 0,06 × 12,57 ≈ 0,75 mm². E o percentual de 0,3% é do total de vacinas, não de uma cabeça.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:74": {
+   "resposta": "Geometria plana: losango de 120° e área de triângulo retângulo.\n\nPQ é a diagonal maior de um losango de lado 12 cm cujos ângulos obtusos ficam nas pontas laterais. Os ângulos agudos (60°) estão em P e Q, e cada metade do losango é um triângulo equilátero de lado 12, cuja altura é 6√3. Logo:\nPQ = 2 · 6√3 = 12√3 cm\n\nQT é horizontal e, na figura, é formado por dois segmentos consecutivos de 12 cm (lado do losango e lado menor do paralelogramo):\nQT = 24 cm\n\nO triângulo PQT é retângulo em Q:\nÁrea = (12√3 · 24) ÷ 2 = 144√3 cm²\n\nQuem usa a diagonal menor (12) no lugar de PQ ou toma QT = 12 cai em valores como 72√3 (C).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:75": {
+   "resposta": "Conjuntos (princípio da inclusão-exclusão) e probabilidade.\n\nQuem pratica algum exercício: 50 − 6 = 44 pessoas.\n\nSomando aeróbico e anaeróbico, quem faz os dois é contado duas vezes:\n37 + 29 − ambos = 44 → ambos = 22\n\nProbabilidade:\n22 ÷ 50 = 0,44 = 44%\n\nCuidado para não responder 22% (D): o número de pessoas é 22, mas a porcentagem é sobre o total de 50.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:76": {
+   "resposta": "Geometria espacial: volume de cubos cortados por um plano vertical.\n\nCada cubo tem 6³ = 216 cm³; os 7 somam 1 512 cm³. Vista de cima, a composição ocupa casas de uma malha: a coluna da esquerda tem dois cubos empilhados, e o plano β passa pela aresta vertical frontal de um cubo da frente e pela aresta vertical traseira do cubo logo atrás dele, atravessando os dois na diagonal.\n\nNa planta, a reta do corte avança meia aresta para a direita a cada fileira. Em cada um dos dois cubos cortados, ela separa um triângulo de 1/4 do cubo de um trapézio de 3/4 — com os pedaços maiores em lados opostos. Contando os cubos inteiros de cada lado (pela figura, 4 à esquerda — incluindo a pilha de dois — e 1 à direita):\nEsquerda: 4 + 1/4 + 3/4 = 5 cubos\nDireita: 1 + 3/4 + 1/4 = 2 cubos\n\nVolume maior: 5 × 216 = 1 080 cm³\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A posição dos cubos que não aparecem na figura foi deduzida do desenho em perspectiva."
+  },
+  "0:77": {
+   "resposta": "Contagem de caminhos em um grafo orientado: siga as setas a partir de P e some as possibilidades.\n\nDe P só se sai pela rua 1, chegando a um cruzamento com duas opções: rua 3 (para baixo) ou rua 2 (para cima).\n\nPela rua 3: o único jeito de seguir é 8 → 13. São 1 trajeto.\n\nPela rua 2, chega-se ao nó central, de onde saem:\n4 → 10 → 11 → 13\n5 → 9 → 11 → 13\n5 → 12 → 13\n6 → 13\n7 → 8 → 13\nSão 5 trajetos.\n\nTotal: 1 + 5 = 6 trajetos.\n\nO erro comum é ignorar o sentido das setas (por exemplo, voltar pela rua 9 ou 12), o que infla a contagem.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:78": {
+   "resposta": "Função quadrática determinada por três pontos: substitua cada par (x, y) da tabela em y = ax² + bx + c.\n\nx = 1: a + b + c = 16\nx = 2: 4a + 2b + c = 17\nx = 3: 9a + 3b + c = 20\n\nSubtraindo a 1ª da 2ª: 3a + b = 1\nSubtraindo a 2ª da 3ª: 5a + b = 3\nDaí 2a = 2 → a = 1, b = −2 e c = 16 − 1 + 2 = 17.\n\nEntão:\nc^(a + b) = 17^(1 − 2) = 17^(−1) = 1/17\n\nAtenção ao expoente negativo: ele não deixa o resultado negativo (alternativa A), e sim inverte a base.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:79": {
+   "resposta": "Equação exponencial com mudança de variável. No ponto P, f(x) = g(x):\n2^x − 8 = 1/2^x − 4\n\nFaça t = 2^x (t > 0):\nt − 4 = 1/t\nt² − 4t − 1 = 0\nt = (4 ± √20) ÷ 2 = 2 ± √5\n\nComo 2 − √5 é negativo e 2^x é sempre positivo, fica t = 2 + √5. Logo:\n2^x = 2 + √5 → x = log₂(2 + √5) ≈ 2,08\n\nIsso confere com o gráfico, em que P está um pouco à direita do ponto onde f corta o eixo x (x = 3 dá f = 0; P tem ordenada negativa, cerca de −3,76).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:80": {
+   "resposta": "Geometria analítica: retas perpendiculares têm coeficientes angulares com produto −1.\n\nA reta s passa por (0, 4) e (2, 0):\nm_s = (0 − 4) ÷ (2 − 0) = −2\n\nComo r é perpendicular a s:\nm_r = −1 ÷ (−2) = 1/2 = 0,5\n\nPela figura, r passa pela origem, então o coeficiente linear é zero:\ny = 0,5x\n\nA alternativa E (y = 2x) vem de copiar a inclinação de s em módulo, sem fazer o inverso.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

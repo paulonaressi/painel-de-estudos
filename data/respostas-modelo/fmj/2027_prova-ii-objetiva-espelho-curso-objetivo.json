@@ -1,0 +1,207 @@
+{
+ "indice": "data/questoes/fmj/2027_prova-ii-objetiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Conteúdo: relações de sentido entre palavras (antonímia contextual).\n\nNa tirinha, a menina se empolga com a ideia de construir \"os maiores muros\", e o menino a corrige: muros não, pontes. As duas palavras são usadas em sentido figurado. Muro é aquilo que separa, isola, impede a passagem; ponte é aquilo que une, liga, permite o encontro.\n\nAssim, no contexto, \"muros\" e \"pontes\" expressam ideias opostas: separação versus união. A fala final propõe usar o esforço \"de tijolinho em tijolinho\" para aproximar as pessoas, e não para afastá-las.\n\nNão há ambiguidade (o sentido de cada palavra é claro), nem semelhança: embora ambos sejam construções feitas de tijolos, o que a tirinha destaca é a função contrária de cada uma. Também não se trata de exagero, pois o contraste é o centro da piada.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Conteúdo: vozes verbais, transposição da ativa para a passiva.\n\nNa ativa, \"Podemos construir pontes!\", o sujeito (oculto) é \"nós\" e o objeto direto é \"pontes\". Na passiva analítica, o objeto direto vira sujeito paciente, e o verbo principal passa para o particípio, acompanhado do auxiliar ser:\n\nPontes podem ser construídas (por nós).\n\nO tempo e o modo do verbo conjugado são mantidos: \"podemos\" está no presente do indicativo, logo a forma passiva é \"podem\", agora na 3ª pessoa do plural para concordar com o novo sujeito, \"pontes\".\n\nAs demais alternativas mudam o tempo verbal: \"puderam\" (pretérito perfeito), \"poderiam\" (futuro do pretérito), \"podiam\" (pretérito imperfeito) e \"poderão\" (futuro do presente). Na transposição de voz, só a pessoa e o número se ajustam ao novo sujeito; o tempo permanece.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Conteúdo: interpretação de texto, tema de crônica (Pré-Modernismo, Lima Barreto).\n\nA crônica parte de uma notícia: um delegado encontrou delegacias suburbanas vazias, com comissários dormindo e soldados sonhando. A partir disso, o narrador comenta, com muita ironia, que no subúrbio \"todos se entendem livremente\" sem a polícia e que os policiais \"têm toda a razão\" em dormir, pois se convenceram de que \"a polícia é inútil\".\n\nSob o elogio aparente, o tema é a ineficiência, a incompetência da polícia, que nem vigia nem faz falta, porque já não cumpre seu papel.\n\nA necessidade de descanso dos policiais (B) é exatamente o que a ironia finge defender, não o assunto real. A rigidez do delegado (D) e os furtos de galinhas (E) são detalhes do texto, e a vida laboral dos subúrbios (A) não é tratada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Conteúdo: significado de palavras em contexto (vocabulário).\n\n\"Pasmar\" significa ficar espantado, assombrado, surpreso, tomado de admiração (no sentido antigo de admirar: estranhar, espantar-se). Pasmo, como substantivo, é o espanto.\n\nNo trecho, o narrador diz que lê as reclamações dos jornais sobre a falta de policiamento e se espanta, porque, morando há anos no subúrbio e voltando tarde para casa, raramente vê policiais e quase nunca sabe de crimes nas ruas por onde passa. O espanto vem do contraste entre o que os jornais dizem e o que ele vive.\n\nPortanto, \"pasmar\" equivale a \"admirar-se\", no sentido de surpreender-se.\n\n\"Irritar-se\" (C) e \"desanimar-se\" (A) atribuem ao narrador um sentimento de raiva ou abatimento que o texto não mostra; \"comover-se\" (B) e \"cansar-se\" (D) também fogem do sentido de espanto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Conteúdo: conectivos e relações entre orações (oração subordinada adverbial final).\n\nA preposição \"para\" seguida de verbo no infinitivo introduz uma oração reduzida que indica o objetivo, a intenção da ação principal. É uma oração subordinada adverbial final reduzida de infinitivo.\n\nNo trecho, o delegado \"surripiou objetos\" com um propósito: pôr à mostra o descaso dos subordinados. Podemos trocar por \"a fim de pôr à mostra\" ou \"para que pusesse à mostra\" sem mudar o sentido, o que confirma a relação de finalidade.\n\nNão é consequência (A): o descaso exposto não é um resultado involuntário, e sim o objetivo buscado. Também não há oposição (B), conformidade (C) nem causa (E): o furto não aconteceu \"porque\" o descaso estava à mostra; ele foi feito \"para\" mostrá-lo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Conteúdo: figuras de linguagem, ironia.\n\nNa ironia, diz-se o contrário do que se pensa, e o contexto revela a intenção. Em \"Os jornais, com aquele seu louvável bom senso de sempre\", o narrador elogia os jornais apenas na aparência: ao longo da crônica, ele contesta as reclamações da imprensa, dizendo que raramente vê crimes no subúrbio. O \"louvável bom senso\" é, na verdade, uma crítica ao oportunismo dos jornais, que \"aproveitaram a oportunidade\" para repetir suas queixas.\n\nOs outros trechos são informativos ou descritivos, sem inversão de sentido: B e C relatam o que o delegado fez segundo as notícias; D é um dado pessoal do narrador; E descreve, em linguagem direta, o efeito que teria uma polícia ativa.\n\nA ironia geral da crônica (defender que os policiais continuem dormindo) também está presente, mas, entre os trechos oferecidos, a marca mais clara é o elogio exagerado em A.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Conteúdo: variação linguística, registros formal e coloquial.\n\nAs três expressões pertencem ao registro informal, do dia a dia:\n\n\"surripiou\" é forma popular de dizer que alguém furtou algo às escondidas;\n\"alta noite\" é expressão corrente para \"tarde da noite\";\n\"pobres-diabos\" é termo familiar, depreciativo ou compassivo, para pessoas sem sorte ou sem importância.\n\nLima Barreto é conhecido justamente por aproximar a linguagem literária da fala cotidiana, opondo-se ao estilo rebuscado de seu tempo, e a crônica, gênero próximo da conversa, favorece isso.\n\nNão há termos técnicos ou profissionais (A, E), e as expressões não são marcas de linguagem formal ou erudita (C, D), que preferiria \"furtou\", \"madrugada\" ou \"desafortunados\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Conteúdo: Pré-Modernismo e a obra de Lima Barreto.\n\nO Pré-Modernismo (cerca de 1902 a 1922) reúne autores que, ainda sem romper com a forma tradicional, voltaram o olhar para os problemas da realidade brasileira: Euclides da Cunha, Monteiro Lobato, Augusto dos Anjos e Lima Barreto. Seu traço comum é a denúncia social.\n\nNo trecho, Bosi aponta contradições em Lima Barreto (aversão a novidades como o futebol e o arranha-céu), mas ressalta sua ojeriza aos homens e processos da República Velha e às oligarquias que tomaram o poder em 1889. É essa postura crítica diante das estruturas sociais e políticas do país que o liga ao Pré-Modernismo.\n\nA defesa da modernização republicana (E) é o oposto do que o texto descreve. Subjetividade e transcendência (B) lembram o Simbolismo; a perfeição formal (C), o Parnasianismo; a visão idealizada (D), o Romantismo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Conteúdo: interpretação de poema (soneto de Vinicius de Moraes).\n\nNas duas primeiras estrofes, o eu lírico descreve Garrincha avançando com a bola \"colado\" aos pés, driblando \"um\", \"dois\", depois \"mais um, mais dois\", lançando-se \"mais rápido que o próprio pensamento\", com a bola que \"trança\" feliz entre seus pés, \"um pé de vento\". O tom é de admiração: o poema exalta a velocidade, os dribles e o domínio de bola do jogador.\n\nNenhuma das alternativas negativas se sustenta. Não há censura à velocidade (A), desprezo por Didi (B), cujo passe apenas abre a jogada, nem crítica à capacidade de escolher o momento (E): a pausa em \"depois descansa / como a medir o lance\" mostra justamente a inteligência do jogador. A alternativa C fala em \"inabilidade\", o contrário do que os versos sugerem; o poema nem trata de troca de passes por Garrincha.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Conteúdo: concordância verbal e sintaxe do período.\n\nPara achar o sujeito, pergunte ao verbo: quem \"se levanta e grita\"? A multidão. Reordenando a frase: \"Num só transporte, a multidão contrita, em ato de morte, se levanta e grita seu uníssono canto de esperança\".\n\n\"Num só transporte\" e \"em ato de morte\" são adjuntos adverbiais (indicam o modo, o estado de arrebatamento e de aflição), e \"seu uníssono canto de esperança\" é o objeto direto de \"grita\". O sujeito é \"a multidão contrita\", e os verbos ficam na 3ª pessoa do singular para concordar com o núcleo \"multidão\".\n\nA inversão típica da poesia pode levar a apontar \"transporte\" (A), primeira palavra do verso, ou \"canto de esperança\" (C), que vem logo depois do verbo, mas este é o que é gritado, não quem grita.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Conteúdo: progressão aritmética e área de retângulo.\n\nTodos os retângulos têm a mesma base b, então a razão entre as áreas é igual à razão entre as alturas:\nA₁₅ ÷ A₁ = (b · h₁₅) ÷ (b · h₁) = h₁₅ ÷ h₁\n\nAs alturas formam uma PA com h₁ = 2 cm e razão r = 3 cm. Pelo termo geral:\nh₁₅ = h₁ + 14 · r\nh₁₅ = 2 + 14 · 3 = 44 cm\n\nA₁₅ ÷ A₁ = 44 ÷ 2 = 22\n\nO erro típico é usar 15 · r no termo geral (2 + 45 = 47, que daria 23,5): do 1º ao 15º termo há apenas 14 \"passos\" de 3 cm.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Conteúdo: probabilidade condicional (tabela de dupla entrada).\n\nSuponha um grupo de 100 pessoas.\n\nCom mais de 20 anos: 65 pessoas. Dessas, 3/13 praticam atividade física: 3/13 · 65 = 15.\nTotal que pratica atividade física: 40. Logo, com até 20 anos e praticantes: 40 − 15 = 25.\nCom até 20 anos: 100 − 65 = 35 pessoas.\nCom até 20 anos e que não praticam: 35 − 25 = 10.\n\nA pergunta restringe o universo às pessoas com até 20 anos (probabilidade condicional):\nP = 10 ÷ 35 = 2/7\n\nA armadilha é dividir por 100 (o grupo inteiro), o que daria 10%, ou confundir os 3/13 com uma fração do grupo todo. Montar a tabela de dupla entrada (idade × atividade física) evita esses deslizes.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Conteúdo: análise combinatória, combinações e princípio multiplicativo.\n\nA ordem das peças dentro da mala não importa, então cada escolha é uma combinação.\n\nEscolher 4 camisetas entre 7:\nC(7, 4) = 7! ÷ (4! · 3!) = 35\n\nEscolher 4 bermudas entre 5:\nC(5, 4) = 5\n\nPelo princípio multiplicativo, o número de maneiras de formar o par (grupo de camisetas, grupo de bermudas) que vai para a mala é:\n35 · 5 = 175\n\nO gabarito oficial, 175, corresponde a essa leitura: contar os modos de escolher o conjunto de 4 camisetas e o de 4 bermudas. Quem entende \"par\" como uma combinação de uma camiseta com uma bermuda já dentro da mala chega a 4 · 4 = 16 (alternativa E), e quem desconsidera a mala chega a 7 · 5 = 35 (A).\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "O enunciado fala em pares de \"uma camiseta e uma bermuda\", o que sugere 16 combinações; o gabarito (175) conta as maneiras de escolher as 4 camisetas e as 4 bermudas da mala."
+  },
+  "0:14": {
+   "resposta": "Conteúdo: sistema de equações do 1º grau.\n\nSejam t o número de sacos de terra (25 kg cada) e a o de sacos de adubo (2 kg cada).\n\nMassa total:\n25t + 2a = 358\n\nFrete: a terra custa 0,50 por kg e o adubo 3,00 por kg:\n0,50 · 25t + 3,00 · 2a = 199\n12,5t + 6a = 199\n\nMultiplicando a primeira equação por 3:\n75t + 6a = 1074\nSubtraindo a segunda:\n62,5t = 875\nt = 14\n\nVoltando: 25 · 14 + 2a = 358, então 2a = 8 e a = 4.\n\nDiferença: 14 − 4 = 10.\n\nConferência do frete: 350 kg · 0,50 = 175 e 8 kg · 3,00 = 24; 175 + 24 = 199. Cuidado para não aplicar o preço por saco: o frete é cobrado por quilograma.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Conteúdo: interseção de parábola e reta, equação do 2º grau.\n\nNos pontos de interseção, f(x) = g(x):\nx² + 4 = 7x − 6\nx² − 7x + 10 = 0\n\nRaízes: soma 7 e produto 10, logo x = 2 ou x = 5.\n\nAs ordenadas podem ser calculadas em qualquer das duas funções (dá o mesmo valor):\nP: x = 2, y = 7 · 2 − 6 = 8 (confere: 2² + 4 = 8)\nQ: x = 5, y = 7 · 5 − 6 = 29 (confere: 5² + 4 = 29)\n\nSoma das ordenadas: 8 + 29 = 37.\n\nAtalho: como y = 7x − 6 nos dois pontos, a soma é 7 · (2 + 5) − 2 · 6 = 49 − 12 = 37. O erro comum é somar as abscissas (7) ou esquecer de subtrair o 6 duas vezes.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Conteúdo: logaritmos, propriedades e definição.\n\nIsolando os logaritmos de um lado:\nlog₂ x − log₂ y = 3\n\nPela propriedade do quociente:\nlog₂ (x/y) = 3\n\nPela definição de logaritmo:\nx/y = 2³ = 8\nx = 8y\n\nUma conferência rápida: com y = 1, temos x = 8, e log₂ 8 = 3 = 3 + log₂ 1, como pede a igualdade.\n\nO erro típico é tratar o 3 como multiplicador (x = 3y) ou somar os logaritmos em vez de subtrair, o que levaria a xy = 8. Lembre que x e y precisam ser positivos para os logaritmos existirem, o que o enunciado garante.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Conteúdo: trigonometria no triângulo retângulo (tangente).\n\nM é o ponto médio de PQ, então PM = 12 ÷ 2 = 6 cm. O segmento MN liga os pontos médios de lados opostos, logo é perpendicular a PQ e mede 12 cm (o lado do quadrado).\n\nNo triângulo retângulo PMT (reto em M):\ntg θ = MT ÷ PM\n2/3 = MT ÷ 6\nMT = 4 cm\n\nEntão:\nNT = MN − MT = 12 − 4 = 8 cm\n\nO erro comum é parar em MT = 4 cm, que é a distância de T ao lado PQ, e não a NT pedida. Repare que o ponto V não precisa ser localizado: só a inclinação da reta PV importa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Conteúdo: semelhança de triângulos.\n\nOs triângulos BED e BCA são semelhantes pelo critério ângulo-ângulo: ambos têm um ângulo reto (em E e em C) e compartilham o ângulo do vértice B.\n\nNa correspondência, o cateto DE (oposto a B) corresponde ao cateto AC (também oposto a B), e a hipotenusa BD corresponde à hipotenusa AB:\n\nDE ÷ AC = BD ÷ AB\n4 ÷ 6 = 14 ÷ AB\nAB = 14 · 6 ÷ 4 = 21 cm\n\nO erro típico é montar a proporção na ordem errada, por exemplo associando BD a BC (cateto) em vez de a AB (hipotenusa). Identificar o ângulo reto de cada triângulo ajuda: a hipotenusa é sempre o lado oposto a ele.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Conteúdo: geometria espacial, volume de prismas.\n\nO paralelepípedo tem volume a · b · c.\n\nO prisma retirado tem como base um triângulo retângulo cujos catetos são a/3 (medida na aresta superior, como indica a figura) e b (a altura do paralelepípedo), e seu comprimento é c:\n\nV retirado = (1/2) · (a/3) · b · c = abc/6\n\nVolume do sólido restante:\nabc − abc/6 = 5abc/6\n\nEm relação ao paralelepípedo: 5/6.\n\nO erro comum é esquecer o fator 1/2 da área do triângulo e retirar abc/3, chegando a 2/3 (alternativa B).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Conteúdo: estatística, média aritmética a partir de gráfico de barras.\n\nSomando os valores de cada categoria nos cinco dias:\n\nFicção: 21 + 12 + 28 + 25 + 8 = 94\nNão ficção: 30 + 22 + 16 + 12 + 13 = 93\n\nMédias diárias:\nFicção: 94 ÷ 5 = 18,8\nNão ficção: 93 ÷ 5 = 18,6\n\nDiferença: 18,8 − 18,6 = 0,2\n\nAtalho: a diferença das médias é a diferença dos totais dividida por 5, ou seja, (94 − 93) ÷ 5 = 0,2.\n\nAtenção à leitura do gráfico: os números dentro das barras são as quantidades de cada categoria, não a altura acumulada da barra empilhada. Quem lê a escala do eixo no topo da barra azul (por exemplo, 51 na segunda-feira) mistura as duas categorias.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Geopolítica do Oriente Médio. O mapa concentra os ataques no sul do Líbano (região de Tiro e da fronteira) e no norte de Israel, com marcas do Hezbollah e das Forças de Defesa de Israel, além de alguns ataques do Irã.\n\nEsse padrão corresponde ao confronto entre Israel e o Hezbollah, grupo xiita libanês, ao mesmo tempo partido político e milícia armada, que recebe dinheiro, armas e orientação do Irã. O sul do Líbano é a base do grupo, por isso ali se acumulam os pontos.\n\nAs Colinas de Golã aparecem no mapa, mas os ataques não se concentram nelas, o que descarta a alternativa A. Também não há guerra civil entre Israel e Síria (D), e o Hezbollah é inimigo de Israel, não aliado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Espaço agrário. O esquema divide a produção em três etapas: \"antes da porteira\" (indústria de insumos, máquinas e serviços), \"dentro da porteira\" (produção agropecuária propriamente dita) e \"depois da porteira\" (transporte, armazenagem, industrialização e comercialização).\n\nEssa integração da agropecuária com a indústria e os serviços, a montante e a jusante da propriedade, é exatamente a definição clássica de agronegócio (agribusiness): a cadeia produtiva inteira, não só a lavoura.\n\nAgricultura familiar e agricultura extensiva falam do tipo de produtor ou do uso da terra; agrofloresta e permacultura são sistemas de manejo dentro da propriedade. Nenhuma delas abrange a cadeia de fornecedores e de distribuição mostrada no esquema.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Geologia e formação do relevo. A figura mostra um perfil de terreno em camadas horizontais superpostas (estratos), com restos de organismos em diferentes níveis: conchas na base, ossos e um esqueleto nas camadas intermediárias.\n\nCamadas empilhadas assim são típicas de rochas sedimentares, formadas pela deposição sucessiva de sedimentos; pelo princípio da superposição, as mais profundas são as mais antigas. Os restos de animais preservados nessas camadas são fósseis, que ajudam a datar e a reconstituir a história do terreno.\n\nNão há dobras, falhas ou rochas transformadas (que indicariam tectonismo e metamorfismo), nem intrusões magmáticas (plutonismo). A alternativa D tenta com as conchas, mas a imagem não indica rochas calcárias; o que ela ilustra de modo geral são sedimentos e fósseis.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Climatologia do Brasil. O mapa descreve: Norte com menos chuva e mais incêndios, Nordeste com secas severas, Sul com chuvas abundantes e temperatura mais alta, Sudeste com aumento de temperatura e sem padrão definido de chuva.\n\nEsse é o quadro clássico do El Niño, o aquecimento anormal das águas superficiais do Pacífico Equatorial. Ele altera a circulação atmosférica: intensifica a seca no Norte e no Nordeste e provoca excesso de chuvas no Sul, além de elevar as temperaturas no Sudeste.\n\nA La Niña (E), resfriamento do Pacífico, tem efeitos aproximadamente opostos: tende a trazer mais chuva ao Nordeste e estiagem ao Sul. Ilha de calor e efeito estufa não produzem um padrão regional distinto como esse, e monções não são o mecanismo climático do Brasil.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Fusos horários. O horário de Brasília corresponde a UTC−3. Basta converter tudo para UTC e depois para cada fuso.\n\n19h em Brasília (UTC−3) → 19 + 3 = 22h em UTC\nEast Rutherford (UTC−4): 22 − 4 = 18h\nMarrocos (UTC+1): 22 + 1 = 23h\n\nOutra forma: East Rutherford está 1 hora atrás de Brasília (18h) e o Marrocos está 4 horas à frente (23h).\n\nQuem esquece que Brasília é UTC−3 e conta a diferença direto a partir das 19h (19 − 4 = 15h; 19 + 1 = 20h) cai na alternativa A.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Grécia Antiga: a pólis. O texto afirma que a pólis não foi apenas urbanização: os habitantes \"passaram a agir em conjunto, a tomar decisões públicas, nas praças ou nos conselhos, e a eleger seus comandantes\".\n\nO traço marcante, portanto, é político: a organização do poder em espaços coletivos (ágora, assembleias, conselhos), base da noção grega de cidadania.\n\nA alternativa C é a mais tentadora, mas o próprio texto diz que surgiu \"a separação entre cidadãos e não cidadãos\": a cidadania não unificava todos os habitantes, pois excluía estrangeiros, escravizados e mulheres. As demais alternativas (atividades produtivas, escravização de estrangeiros, critérios raciais) não aparecem no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Expansão marítima europeia. O excerto liga a \"ascensão global da Europa\" ao domínio do Atlântico, menciona os impérios ibéricos e lembra que o próprio continente americano recebeu o nome de Américo Vespúcio, que viajou à América a serviço da Espanha.\n\nA ideia, então, é que o controle do Atlântico permitiu a conquista e a colonização da América pelos europeus, de onde vieram metais, terras e mercados que sustentaram essa ascensão.\n\nO texto cita mercadores italianos, mas não lhes atribui pioneirismo nas navegações de longa distância (A), nem fala em divisão da América com italianos (D). O foco é o Atlântico, não o Mediterrâneo (B), e a centralização espanhola (C) não é mencionada.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Independência e formação do Estado brasileiro (Primeiro Reinado e Regências). Sérgio Buarque de Holanda observa que a América portuguesa poderia ter o mesmo destino da América espanhola, que se fragmentou em várias repúblicas após a independência.\n\nSegundo o texto, esse exemplo funcionou como \"modelo temível\" que \"convinha evitar\" e, por isso, estimulou a \"coesão e unidade\" do Brasil. As elites do período viam a fragmentação hispano-americana como algo a não repetir, o que reforçava a defesa da unidade territorial sob a monarquia.\n\nA alternativa B inverte o argumento: o texto diz que o exemplo hispânico não foi fator de dispersão, mas de coesão. As outras opções atribuem ao exemplo um papel de modelo a seguir, o oposto do que o autor afirma.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Imperialismo do século XIX. A charge de 1885 (ano da Conferência de Berlim) mostra Alemanha, Grã-Bretanha e Rússia debruçadas sobre o globo, cada uma com um saco (\"saco da Alemanha\", \"saco da Grã-Bretanha\", \"saco da Rússia\") pronto para encher com pedaços dos continentes: a Alemanha agarra a África, a Rússia avança sobre a Ásia.\n\nA imagem satiriza a apropriação de territórios e riquezas do mundo pelas potências, ou seja, a pilhagem imperialista ao redor do globo.\n\nO \"fardo\" da alternativa B remete ao discurso do \"fardo do homem branco\", justificativa dos próprios imperialistas, que a charge ironiza em vez de endossar. Não há na imagem redistribuição, equilíbrio ou fragilidade das potências.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Estado Novo (1937–1945). A Constituição de 1937, a \"Polaca\", foi outorgada por Getúlio Vargas.\n\nO Art. 9º permite ao governo federal intervir nos estados por meio de interventores nomeados pelo Presidente, com funções definidas por ele: é a centralização do poder no Executivo federal, em detrimento da autonomia estadual.\n\nO Art. 122 autoriza a censura prévia da imprensa, do teatro, do cinema e do rádio e a proibição de manifestações: é a restrição da liberdade de expressão.\n\nAs demais alternativas exageram ou erram: o Judiciário não foi extinto (A); o texto não fala de partidos (B); os meios de comunicação não foram abolidos, e sim controlados (D); e o regime não proibia ideias nacionalistas, ao contrário, as promovia (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Compreensão geral do texto. O artigo relata uma pesquisa da Universidade do Sul da Flórida: quando um chatbot tenta demonstrar empatia (\"I share your frustration\"), isso pode ter o efeito contrário (\"backfire\"), gerar \"psychological reactance\" e reduzir a percepção de qualidade do atendimento e a satisfação do cliente.\n\nO objetivo, portanto, é discutir como a empatia do chatbot piora a reação dos clientes.\n\nO texto não fala de vozes robóticas (A), não recomenda substituir humanos por robôs (C), não diz que os clientes preferem ferramentas automáticas (D) e não afirma que a IA é incapaz de resolver falhas de atendimento (E); conclui apenas que tornar o chatbot mais humano nem sempre é a melhor estratégia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Conectivos em inglês. \"Rather than\" significa \"em vez de\", \"ao invés de\". Na frase, ele opõe o que se esperava (acalmar os clientes, \"soothing customers\") ao que de fato aconteceu: as mensagens empáticas provocaram reação psicológica negativa.\n\nAo colocar uma ideia no lugar da outra, a expressão estabelece contraste.\n\nNão é concessão (E), que admitiria um fato e mostraria que ele não impede o outro (\"although\", \"even though\"), nem adição, causa ou probabilidade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Inferência. A frase \"Making chatbots more humanlike is not always the right strategy\" (tornar os chatbots mais parecidos com humanos nem sempre é a estratégia certa) resume o achado da pesquisa: a empatia simulada pelo chatbot fez os clientes o verem como menos competente e reduziu a satisfação.\n\nLogo, a tecnologia humanizada pode produzir resultados negativos.\n\nA alternativa C exagera: \"not always\" não significa abandonar os chatbots. O texto também não diz que os clientes preferem ferramentas ultrapassadas (A), que os sistemas devem seguir protocolos robóticos rígidos (D) nem que a IA substituirá a empatia humana (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Interpretação de tirinha. A personagem diz estar feliz por poder pintar durante os longos meses de inverno, porque, \"otherwise\", os dias pareceriam muito longos. Ela reconhece que não pode fazer nada contra o tempo lá fora, mas pode criar \"a bit of spring INSIDE\": pinta um quadro florido enquanto neva.\n\nA arte aparece como forma de enfrentar o desânimo do inverno e manter o bem-estar emocional, ou seja, um mecanismo de resiliência emocional.\n\nA alternativa A é próxima, mas genérica: a tira não discute a importância da expressão criativa em si, e sim o uso da pintura para atravessar um período difícil. Não há conflito urbano, exposição próxima nem dificuldade em retratar paisagens.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Vocabulário em contexto. \"Otherwise\" significa \"caso contrário\", \"senão\": se ela não pudesse pintar, os dias pareceriam muito longos.\n\nO equivalente é \"or else\" (ou então, senão), que introduz a consequência de a condição anterior não se cumprir.\n\n\"Therefore\" (B) significa \"portanto\" e indicaria conclusão, não alternativa. \"For example\", \"moreover\" (além disso) e \"even though\" (embora) também mudariam o sentido.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Cinemática: leitura do gráfico posição × tempo. Em um gráfico s × t, o módulo da velocidade é a inclinação (declividade) da curva. A velocidade diminui em módulo onde a curva está ficando mais \"deitada\".\n\nPonto 1: a curva está ficando mais inclinada → velocidade aumentando.\nPonto 2: trecho de inclinação máxima na subida → velocidade perto do máximo.\nPonto 3: a curva se aproxima do topo, onde a inclinação vai a zero → velocidade diminuindo (o carro freia para dar meia-volta).\nPonto 4: trecho mais íngreme da descida → velocidade (em módulo) perto do máximo.\nPonto 5: a curva se achata ao voltar à posição inicial → velocidade diminuindo (o carro para em casa).\n\nErro comum: confundir posição alta com velocidade alta e escolher o ponto 3 junto com o 2 ou o 4.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Potência mecânica. Com velocidade constante, a força do ciclista equilibra as forças de resistência, e a potência desenvolvida é P = F · v.\n\nv = 36 km/h ÷ 3,6 = 10 m/s\nF = P ÷ v = 350 ÷ 10 = 35 N\n\nQuem esquece de converter km/h para m/s obtém 350 ÷ 36 ≈ 9,7 N, valor que não está entre as alternativas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Calorimetria: calor sensível, Q = m · c · ΔT. Mesma massa e mesmo calor Q, então ΔT é inversamente proporcional ao calor específico.\n\nÁgua: Q = m · 1,00 · 18 → Q/m = 18 cal/g\nÓleo: ΔT = (Q/m) ÷ c = 18 ÷ 0,45 = 40 °C\n\nO óleo, com calor específico menor, aquece mais com o mesmo calor. Quem multiplica em vez de dividir (18 × 0,45 ≈ 8 °C) cai na alternativa A.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Ondulatória: equação fundamental v = λ · f. No gráfico, a pressão começa no eixo, desce, sobe até o pico e volta ao eixo; contando, cabem 5 ciclos completos nos 10 ms indicados.\n\nT = 10 ms ÷ 5 = 2 ms = 0,002 s\nf = 1 ÷ T = 500 Hz\nλ = v ÷ f = 340 ÷ 500 = 0,68 m = 68 cm\n\nContar só meio ciclo a mais ou a menos muda tudo: tomar 10 ms como 10 ciclos daria 34 cm (B), e 20 ciclos daria 17 cm (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Eletrização por contato e descarga elétrica. Em sólidos metálicos, só os elétrons livres se movem; os prótons ficam presos nos núcleos dos átomos da rede cristalina e não são transferidos.\n\nA esfera P está positiva, isto é, com falta de elétrons. Ao aproximar a esfera N, neutra, ela se polariza (elétrons se acumulam no lado voltado para P) e, quando o campo é intenso o bastante, ocorre a faísca: elétrons saltam de N para P, reduzindo a carga positiva de P e deixando N positiva.\n\nAs alternativas C, D e E erram ao falar em transferência de prótons, e A inverte o sentido do movimento dos elétrons.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

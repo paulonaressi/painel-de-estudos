@@ -1,0 +1,257 @@
+{
+ "indice": "data/questoes/ficsae/2022_prova-i-objetiva-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Tema: **interpretação de tirinha (texto multimodal em inglês)**.\n\nO dinossauro diz que fez algo (\"i made something\") e que vai compartilhá-lo com o mundo. No terceiro quadro, hesita: o mundo \"might tell me it's not good\" (pode me dizer que não é bom). No último, decide guardar a obra \"with the others\" — e vemos uma pilha de trabalhos \"ART\" nunca mostrados.\n\nO humor está justamente no medo do julgamento alheio: ele produz muito, mas não expõe nada por receio da reação do público. Isso é o que diz a alternativa C.\n\nNão há menção a plágio (A), a falta de originalidade (B), a incompreensão já ocorrida (D) — o mundo nem chegou a ver as obras — nem à morte (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Tema: **interpretação de texto — caracterização na crônica**.\n\nLogo no primeiro parágrafo, Drummond descreve a vigilância do mercadinho com imagens hiperbólicas: \"um olho invisível, múltiplo e implacável\" que controla os menores movimentos e devassa até \"quem sabe\" o pensamento; e conclui que \"nada escapa à fiscalização\".\n\nUma fiscalização que vê tudo e sabe tudo é **onisciente** (do latim omni, \"tudo\", + sciente, \"que sabe\").\n\nAs demais alternativas contrariam o texto: o adjetivo \"implacável\" afasta a ideia de condescendente ou branda, e \"nada escapa\" exclui parcial ou aleatória. A ironia, claro, é que essa vigilância \"infalível\" acusa uma inocente — os ovos tinham sido pagos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Tema: **discurso indireto livre**.\n\nNo discurso indireto livre, o pensamento ou a fala da personagem se mistura à voz do narrador, sem verbo de elocução, travessão ou aspas.\n\nEm \"A senhora ia pagar a dúzia de ovos perfeitos, comprada depois; mas e os quebrados, que ela comprara antes?\", o narrador está contando os fatos, mas a pergunta indignada é do caixa: é o raciocínio dele, desconfiado, que invade a narração. Isso é discurso indireto livre.\n\nAs alternativas A e D são discurso direto (falas com travessão); E reproduz falas entre aspas, também discurso direto; e B é a voz do próprio narrador dirigindo-se ao leitor (\"explico que…\"), sem fala de personagem incorporada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Tema: **figuras de linguagem — paradoxo (oxímoro)**.\n\nParadoxo é a união de ideias que, em princípio, se excluem, mas que fazem sentido no contexto.\n\n\"Confusão organizada\" junta dois termos contraditórios: confusão sugere desordem; organizada, ordem. No contexto, a expressão descreve o mercadinho que \"parece o caos\", mas onde tudo está sob controle.\n\nNas demais expressões não há contradição: \"assistência deslumbrada\" e \"pátria ultrajada\" são apenas substantivo + adjetivo compatíveis; \"análise visual\" é literal; \"olho invisível\" pode soar estranho, mas é uma metáfora para a vigilância oculta (um olho que vê sem ser visto), não uma oposição entre os termos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Tema: **variação linguística — registro coloquial**.\n\nA palavra \"joça\" é gíria, termo informal e depreciativo para \"coisa ruim, porcaria\"; o verbo \"arrebentar\" (no sentido de acabar com, destruir) também é próprio da fala cotidiana. Em \"querendo arrebentar aquela joça\", o narrador incorpora o tom popular dos fregueses exaltados.\n\nOs demais trechos usam linguagem padrão ou até formal: \"a questão dos ovos ficava em suspenso\", \"tomando posição em defesa da pátria ultrajada\" (registro elevado e irônico), \"não escapou à percepção de nenhum dos presentes\" e \"Antes que o leitor suponha…\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Tema: **vozes verbais — transposição para a voz passiva**.\n\nEm \"se maltratarem este rapaz\", o verbo está no **futuro do subjuntivo** (se vocês maltratarem), com sujeito \"vocês\" (implícito) e objeto direto \"este rapaz\".\n\nNa voz passiva analítica, o objeto direto vira sujeito e o verbo é formado por ser + particípio, com o verbo ser no mesmo tempo e modo do verbo original:\nse maltratarem (futuro do subjuntivo) → se este rapaz **for maltratado**\n\nAs outras formas mudam o tempo verbal: \"fosse maltratado\" é pretérito imperfeito do subjuntivo; \"seria maltratado\", futuro do pretérito; e \"maltratariam\" e \"maltratassem\" continuam na voz ativa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Tema: **formação de palavras — derivação regressiva**.\n\nA derivação regressiva forma uma palavra pela redução de outra, retirando-se um sufixo real ou suposto.\n\n\"Estranja\" é forma popular derivada de \"estrangeiro\" (ou \"estrangeira\") pela supressão da terminação: estrangeiro → estranja, com o sentido de \"terra estrangeira, exterior\". É uma redução, não um acréscimo de afixo.\n\nNas outras alternativas não há esse processo: \"baratos\", \"dinheiro\", \"corredores\" e \"estreitos\" são palavras primitivas ou formadas por sufixação (corr- + -edor), e \"nota\" não é forma reduzida de outro vocábulo nesse contexto.\n\nO exemplo clássico de derivação regressiva costuma ser o substantivo deverbal (ex.: \"pescar\" → \"pesca\"); aqui a banca usa um caso de redução vocabular popular.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "A classificação de \"estranja\" como derivação regressiva (redução de \"estrangeiro\") é aceita em parte das gramáticas, mas outras a tratam como simples forma popular ou abreviação."
+  },
+  "0:8": {
+   "resposta": "Tema: **interpretação de texto**.\n\nO autor usa a metáfora da esfera do conhecimento: o interior é o que sabemos; a superfície, o contato com o desconhecido — \"o incógnito\", aquilo que sabemos que ignoramos. Além da superfície, porém, \"jaz o insabido verdadeiro\": as coisas \"que nem sabemos que não sabemos\".\n\nOu seja, o verdadeiro insabido é aquilo de cuja ignorância nem temos consciência — a ignorância daquilo que não sabemos (não sabemos sequer que não sabemos). É o que diz a alternativa B.\n\nA alternativa D inverte a ideia: \"conhecimento de nossa própria ignorância\" corresponde ao incógnito (a superfície da esfera), e não ao insabido verdadeiro. As alternativas A, C e E falam de desprezo ou de essência, ideias ausentes do trecho.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A formulação da alternativa B (\"a ignorância daquilo que não sabemos\") é ambígua; ela só corresponde ao texto se lida como \"não saber nem mesmo que não sabemos\"."
+  },
+  "0:9": {
+   "resposta": "Tema: **conjunções e orações subordinadas adverbiais**.\n\nA locução \"à medida que\" introduz oração adverbial **proporcional**: indica que dois processos variam juntos, na mesma proporção. No texto, quanto mais a esfera do conhecimento se expande, mais perguntas novas surgem.\n\nEquivalentes: \"à proporção que\", \"ao passo que\", \"quanto mais… mais\".\n\nAtenção para não confundir com \"na medida em que\", que costuma indicar causa. Não há ideia de consequência, comparação, condição ou finalidade no trecho.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Tema: **Modernismo brasileiro**.\n\nAs pistas do trecho de Antonio Candido são as \"vanguardas francesas e italianas\" (Cubismo, Futurismo, Dadaísmo, Surrealismo), a busca de formas para exprimir \"a civilização mecânica e o ritmo das grandes cidades\" e a valorização das \"componentes primitivas\" da realidade brasileira.\n\nIsso descreve o **Modernismo**, inaugurado pela Semana de Arte Moderna de 1922: inspiração nas vanguardas europeias do início do século XX, culto à modernidade urbana (veja a \"Pauliceia desvairada\" de Mário de Andrade) e redescoberta do primitivo e do nacional (Manifesto Antropófago e Pau-Brasil, de Oswald de Andrade).\n\nRomantismo, Arcadismo, Realismo e Naturalismo são anteriores às vanguardas e à cidade industrial moderna.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Tema: **ideia principal de texto em inglês**.\n\nO texto começa com o escândalo do leite contaminado de 2008, que levou os pais chineses a preferir marcas estrangeiras, e mostra a virada: hoje a marca líder de fórmula infantil é chinesa (Feihe), e marcas locais \"are putting pressure on global rivals\" em vários setores, impulsionadas por nacionalismo, preços menores, pandemia e vendas on-line. O foco é o **ressurgimento das marcas locais na China nos últimos anos**.\n\nA alternativa A fala em sucesso no mercado global, mas o texto trata do mercado interno chinês. C e D se prendem apenas ao primeiro parágrafo (fórmula infantil e mortes de 2008), que serve de introdução. E inverte a ideia: o texto não fala de reabertura a produtos estrangeiros.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Tema: **compreensão de detalhe em texto em inglês**.\n\nO segundo parágrafo lista os fatores que fortalecem as marcas chinesas: o nacionalismo crescente nos últimos anos, a pandemia acelerando a mudança, os preços normalmente menores que os das marcas estrangeiras e o fato de que \"the growth of online sales has weakened the multinationals' advantages in distribution and marketing\" — o crescimento das vendas on-line tirou das multinacionais a vantagem em distribuição e marketing.\n\nA banca associa esse último fator à alternativa E (capacidade das empresas locais de ampliar as vendas on-line).\n\nAs outras não correspondem: A (menor dependência de marcas estrangeiras) e B (mais oferta de qualidade) não são citadas; C erra ao dizer que o nacionalismo surgiu de forma abrupta associado à covid — o texto separa os dois fatores. A alternativa D se aproxima da menção a preços mais baixos, mas o texto não fala de esforços com \"low-price deals\" (promoções).\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "A alternativa E é uma paráfrase livre do texto, que atribui a vantagem ao crescimento das vendas on-line em geral, não à capacidade das empresas locais; a D também se apoia em parte do parágrafo (preços menores)."
+  },
+  "0:13": {
+   "resposta": "Tema: **função de exemplo em texto em inglês**.\n\nNo terceiro parágrafo, o autor lembra que as marcas estrangeiras não acabaram na China, mas precisam se adaptar. O KFC, maior rede de fast-food do país, \"is supplementing its fried chicken with products such as fast-cooking snail noodles\" — está acrescentando ao frango frito produtos como macarrão de caracol de preparo rápido, um prato local, para atender quem estava em casa na pandemia.\n\nO exemplo ilustra, portanto, a **adaptação do produto de uma empresa estrangeira ao gosto do público local**, reforçado pela fala seguinte, de que as multinacionais estão \"more humble now and willing to hear our opinions\".\n\nA alternativa E é a mais tentadora, mas a postura humilde não se refere ao momento de entrada no país; é uma mudança recente.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Tema: **compreensão de parágrafo em texto em inglês**.\n\nO último parágrafo mostra como as empresas chinesas estão \"playing the game\": marketing próximo do consumidor local (programas de fidelidade da Feihe), produtos ajustados ao gosto doméstico e **inovações** como o queijo sabor abacaxi da Mengniu. Fecha com a fala do CEO: as marcas estrangeiras eram muito inovadoras há três décadas, \"But now they're developing slower than local brands\".\n\nO eixo do parágrafo é a inovação como forma de conquistar consumidores, o que corresponde à alternativa A.\n\nB distorce \"playing the game\" (não há jogos de marketing para jovens); C e E não aparecem (o texto diz que são as estrangeiras que enfatizam o valor nutricional); D toca nos programas de fidelidade, mas não fala em publicidade emocional como chave do sucesso.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Tema: **leitura de gráfico combinada com texto em inglês**.\n\nOs gráficos mostram a variação, em pontos percentuais, da participação de mercado das marcas mais vendidas entre 2010 e 2019, com as marcas locais destacadas. Em cuidados com a pele, a líder é a L'Oréal (estrangeira); em artigos esportivos, a Adidas (estrangeira). Só na **fórmula infantil** a líder é uma marca chinesa, a Feihe, com ganho de 8,3 pontos, à frente de Aptamil e Illuma. O texto confirma: a marca líder de fórmula infantil na China é a Feihe.\n\nLogo, a fórmula infantil é o produto nacional mais competitivo diante dos importados.\n\nA não tem apoio (o texto cita vendas on-line, mas sem comparação com lojas físicas); B e C contrariam o gráfico; E erra porque, em pele e esportes, as líderes não são locais.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Tema: **economia açucareira no Brasil colonial**.\n\nO excerto afirma que, nos dois primeiros séculos, tudo girou em torno da cana: a formação de vilas, a defesa do território, a divisão das terras e até a escolha da capital (Salvador, no Nordeste açucareiro).\n\nA lavoura canavieira definiu o perfil da colonização portuguesa: produção em grande escala (plantation, latifúndio, monocultura, mão de obra escravizada africana) voltada ao **mercado externo** europeu, e, ao mesmo tempo, a consolidação da **ocupação** do litoral, que garantia a posse da terra diante de outras potências.\n\nA não procede: o modelo não era feudal, mas mercantil. C erra: vigorava o exclusivo metropolitano (pacto colonial), não a liberdade comercial. D erra: a economia era monocultora. E erra: a cana se concentrou no litoral nordestino e usou sobretudo escravizados africanos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Tema: **Revolução Haitiana (1791–1804)**.\n\nO texto começa ligando os dois processos: enquanto na França a guilhotina caía sobre os jacobinos, em São Domingos Dessalines e seus companheiros defendiam \"o ideal jacobino da liberdade e igualdade de todos os homens\". A revolta dos escravizados da colônia francesa foi inspirada pelos princípios da Revolução Francesa e se deu em diálogo com ela (a própria abolição da escravidão pela Convenção, em 1794, foi uma resposta à insurreição).\n\nEssa **articulação entre a revolução na França e a revolução negra do Haiti** é a alternativa C.\n\nA erra: o nome é indígena, mas o Estado foi criado por ex-escravizados negros. B erra: Napoleão tentou restabelecer a escravidão e enviou tropas contra os rebeldes. D e E contrariam o texto, que fala de empobrecimento e do fim do trabalho compulsório nas plantações.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Tema: **Proclamação da República e sua iconografia**.\n\nA gravura, publicada um dia após o 15 de novembro, mostra uma mulher de túnica, com escudo e lança, ao lado da nova bandeira, recebendo flores: é a personificação da República no modelo da **Marianne** francesa, alegoria consagrada desde a Revolução Francesa. Ao fundo, um militar a cavalo, à frente de um grupo, remete a Deodoro da Fonseca e ao papel do **Exército** na proclamação. Ajoelhada, uma figura entrega a coroa — a monarquia se rendendo ao novo regime.\n\nA alternativa C reúne a personificação de inspiração francesa e a presença militar.\n\nA erra: a fonte da alegoria é a França revolucionária, e não há despedida do imperador com ministros. B erra: a proclamação teve pouca participação popular. D inverte a imagem: a coroa é entregue, não associada à República, e não houve luta armada. E erra: a influência destacada é francesa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Tema: **governo JK e o nacional-desenvolvimentismo**.\n\nO governo de Juscelino Kubitschek (1956–1961), com o Plano de Metas (\"50 anos em 5\"), acelerou a industrialização apoiado no tripé: **Estado** (investindo em infraestrutura — energia, transportes, siderurgia — e na construção de Brasília), **capital privado nacional** e **capital estrangeiro**, atraído para setores como o automobilístico.\n\nIsso corresponde à alternativa A.\n\nB erra: não houve medidas socialistas. C erra ao dizer que o controle dos transportes e da indústria permaneceu nacional: a indústria automobilística, por exemplo, ficou com multinacionais. D erra: JK abriu a economia ao capital externo, diferentemente do nacionalismo de Vargas, e rompeu com o FMI justamente por causa do endividamento. E erra: o período gerou inflação e concentração de renda.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Tema: **Talibã e a história recente do Afeganistão**.\n\nO Talibã é um grupo fundamentalista islâmico surgido entre estudantes de escolas religiosas, que ganhou força na guerra civil após a retirada das tropas soviéticas (1979–1989). Tomou Cabul em 1996 e governou o país até 2001, quando a invasão liderada pelos Estados Unidos, após os atentados de 11 de setembro (organizados pela Al-Qaeda, abrigada pelo Talibã), o derrubou. Em agosto de 2021, com a retirada norte-americana, o grupo retomou o poder — momento da foto.\n\nIsso corresponde à alternativa E.\n\nA erra: o grupo não é palestino nem de esquerda. B inverte a história: o Talibã abrigou a Al-Qaeda, não condenou o ataque. C e D trazem informações falsas (apoio indiano, atentados na Europa, luta contra China e Rússia).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Tema: **globalização e commodities**.\n\nO minério de ferro é uma commodity cujo preço se forma no mercado internacional. A China é a maior compradora do mundo, e o Brasil, um dos maiores exportadores. Com a expectativa de menor demanda chinesa, o preço cai, como diz o texto.\n\nPara as mineradoras brasileiras, que vendem grande parte da produção à China, isso significa receita menor por tonelada vendida e, portanto, **queda de rentabilidade**.\n\nE inverte o efeito: menor demanda desvaloriza as commodities, não as valoriza. A, C e D trazem consequências exageradas ou sem relação com o fato (colapso do capitalismo, sanções dos EUA, guerra fiscal com a União Europeia).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Tema: **migrações e refúgio no Brasil**.\n\nO desemprego entre refugiados (20%) é quase o dobro da média nacional, embora o refugiado reconhecido tenha direito legal a trabalhar com carteira assinada no Brasil. A dificuldade, apontada pelo próprio Acnur, está em barreiras como os **estereótipos** e o preconceito em relação a essa população e a **desinformação das empresas**, que muitas vezes desconhecem a documentação dos refugiados (protocolo, carteira de trabalho) e hesitam em contratá-los.\n\nA erra: ações de valorização e regularização ajudariam, não explicariam o desemprego. B atribui o problema aos próprios refugiados, enquanto a explicação está na recepção do mercado. D (preconceito linguístico e de classe) não é o eixo; E erra, pois não existe política que impeça a contratação de imigrantes.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "O excerto não explica a causa do desemprego; a resposta depende de conhecimento externo sobre as barreiras enfrentadas pelos refugiados, e a alternativa B também é plausível."
+  },
+  "0:23": {
+   "resposta": "Tema: **recursos energéticos e bacias sedimentares**.\n\nO petróleo e o gás natural se formam a partir de matéria orgânica soterrada em **bacias sedimentares** e se acumulam em rochas porosas. Por isso, aparecem junto às áreas de espessos depósitos sedimentares (em rosa no mapa) ou no interior de antigas bacias.\n\nAs manchas verdes coincidem com as grandes províncias petrolíferas conhecidas: Oriente Médio (Golfo Pérsico), Golfo do México, Mar do Norte, Venezuela, Sibéria Ocidental, Golfo da Guiné, Indonésia, bacias do Alasca e do Canadá.\n\nNão correspondem a instabilidade geológica, orogenia, tsunamis ou riftes: essas feições se distribuiriam ao longo dos limites de placas (como o Círculo de Fogo do Pacífico), e não em bacias sedimentares estáveis como o Golfo Pérsico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Tema: **conferências ambientais da ONU**.\n\nColuna 1: a revisão da Agenda 21 (documento da ECO-92) e o reforço do desenvolvimento sustentável em escala global foram o centro da **Rio+20**, em 2012, vinte anos depois da ECO-92. Os pavilhões de países como Cuba e China fizeram parte desse evento.\n\nColuna 2: o foco no combate à poluição e a criação do **PNUMA** (Programa das Nações Unidas para o Meio Ambiente) marcam a **Conferência de Estocolmo**, em 1972, a primeira grande conferência da ONU sobre o tema.\n\nA ECO-92 não serve para nenhuma das colunas: ela criou a Agenda 21, não a revisou, e o PNUMA já existia desde 1972.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Tema: **projeções cartográficas — projeção interrompida de Goode**.\n\nA imagem mostra a projeção homolossena de Goode: um mapa \"recortado\" em lóbulos, com interrupções nos oceanos.\n\nÉ uma projeção **equivalente** (preserva as proporções das áreas). Os cortes são feitos nos oceanos justamente para reduzir as deformações das formas dos continentes, que ficam com aspecto próximo do real. Por isso, ela privilegia os continentes em formas e áreas.\n\nA descreve uma projeção conforme (como a de Mercator), que sacrifica áreas. B erra: as distorções são menores perto dos meridianos centrais de cada lóbulo. C descreve projeções cônicas ou azimutais. D é característica da projeção de Mercator, com paralelos cada vez mais espaçados para os polos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Conteúdo: excreção nitrogenada e adaptação à falta de água.\n\nO ácido úrico é a excreta nitrogenada que menos exige água para ser eliminada: é pouco solúvel e pouco tóxico, e pode sair quase sólido, como pasta. Por isso é típico de animais que precisam economizar água, como répteis e aves de ambientes secos.\n\nA Caatinga é o bioma de clima semiárido, com longos períodos de estiagem. A espécie com maior chance de viver lá é a que mais concentra ácido úrico na urina, ou seja, a que mais economiza água ao excretar. No gráfico, é a barra mais alta: a espécie 5.\n\nA espécie 3, de menor concentração, seria a menos adaptada à seca, provavelmente de ambiente úmido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Conteúdo: mutação gênica e evolução.\n\nO texto diz que a perda do gene CMAH tornou o ser humano propenso à aterosclerose, e que, nos ratos, eliminar esse gene aumentou o depósito de gordura. Logo, o gene funcional protege contra o acúmulo de gordura, e sua perda no ancestral humano foi uma mutação: uma alteração casual na sequência codificante (éxons), que deixou o gene sem função. Mutações ocorrem ao acaso, independentemente de serem vantajosas ou não. É o que afirma a alternativa C.\n\nA alternativa A inverte o papel do gene: é a sua ausência que favorece a gordura. A B não tem apoio no texto e os humanos atuais nem têm o gene ativo. A D erra porque proteínas são sintetizadas nos ribossomos, no citoplasma, e não no núcleo. A E erra porque organismos com gene inativado (nocaute) não são, por isso, transgênicos, e reprodução sexuada não gera filhotes idênticos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Conteúdo: ciclo de vírus de RNA (coronavírus).\n\nO vírus não tem maquinaria própria de síntese proteica. Na figura, o RNA viral (+) é traduzido no citoplasma e as proteínas estruturais (S, M e E) são produzidas no retículo endoplasmático, ou seja, com ribossomos, RNA transportadores e aminoácidos da célula hospedeira. Isso confirma a alternativa B.\n\nAs demais falham: a entrada na célula depende da proteína S (espícula), que se liga ao receptor, e não de todas as proteínas do envelope (A). O coronavírus não é retrovírus: não usa integrase nem se integra ao núcleo (C), e copia seu RNA com uma RNA polimerase dependente de RNA (a \"enzima viral\"), sem transcrição reversa, que produziria DNA (D). Variantes surgem de mutações no genoma viral, durante a replicação do RNA, e não na \"tradução de RNA ribossômicos\" (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Conteúdo: fotossíntese e origem da massa vegetal.\n\nO experimento clássico de van Helmont mostrou que quase toda a massa ganha pela árvore (mais de 74 kg) não veio do solo, que praticamente não perdeu massa. Hoje sabemos de onde ela vem: pela fotossíntese, a planta fixa o CO₂ atmosférico e usa a água como fonte de hidrogênio (a água é quebrada na fotólise, liberando O₂), produzindo glicose e, a partir dela, celulose, amido e o restante da matéria orgânica.\n\n6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂\n\nPor isso a alternativa A é a correta. No ponto de compensação fótico a fotossíntese apenas iguala a respiração, sem ganho de massa (B). O ácido abscísico é um hormônio inibidor do crescimento (C). Os sais minerais são absorvidos em quantidades muito pequenas (D). E a água sozinha não explica o ganho: falta o carbono, que vem do ar (E), conclusão que o próprio van Helmont não tirou.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Conteúdo: citoesqueleto e divisão celular.\n\nAs tubulinas alfa e beta se associam para formar os microtúbulos. Se o herbicida impede essa associação, a célula não consegue montar microtúbulos, e a estrutura mais dependente deles na divisão celular é o fuso mitótico, que prende e separa os cromossomos.\n\nSem fuso, a mitose é bloqueada. Nas plantas, as mitoses se concentram nos meristemas (pontas de raiz e caule), responsáveis pelo crescimento. Assim, a planta daninha deixa de crescer, como diz a alternativa D.\n\nA absorção de luz (A) depende da clorofila, e o transporte de seiva bruta (B) ocorre no xilema, por transpiração e coesão, sem relação direta com microtúbulos. A ciclose (C) é movida principalmente por microfilamentos de actina e miosina. A condensação dos cromossomos (E) depende de proteínas associadas ao DNA, não de tubulina.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Conteúdo: radioatividade, leis do decaimento.\n\nNa tirinha, o urânio-238 sentado na cadeira do dentista \"perde um dente\" (a partícula que sai pela boca) e se transforma em tório-234. Compare os dois núcleos:\n\nurânio: Z = 92, A = 238\ntório: Z = 90, A = 234\n\nO número de massa caiu 4 e o número atômico caiu 2. Essa é a assinatura da emissão alfa, pois a partícula alfa é um núcleo de hélio (2 prótons e 2 nêutrons):\n\n²³⁸U → ⁴α + ²³⁴Th\n\nA \"dor de dente\" e o \"decaimento\" (dente cariado, núcleo que decai) são o trocadilho da tirinha. Uma emissão beta manteria o número de massa e aumentaria Z em 1, e captura de partícula aumentaria a massa, em vez de diminuir.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Conteúdo: hibridização do carbono e funções orgânicas.\n\nO carbono da carboxila (–COOH) faz uma ligação dupla com um oxigênio e duas simples (com o outro oxigênio e com o carbono vizinho). Com três regiões de elétrons ao redor (hibridização sp²), a geometria é trigonal plana, com ângulos de cerca de 120°.\n\nO grupo circulado tem um carbono ligado a um oxigênio por dupla (C=O) e diretamente ligado a um nitrogênio (N–H): é o grupo –CO–NH–, característico da função amida (no caso, uma ligação peptídica, já que o aspartame é derivado de dois aminoácidos).\n\nA armadilha é chamar o grupo de amina: amina tem nitrogênio ligado só a carbonos de cadeia, sem carbonila. Já \"tetraédrica\" valeria para carbono saturado (sp³), e \"angular\" é geometria de átomos como o oxigênio da água, não de carbono com dupla.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Conteúdo: neutralização com excesso de reagente e pH.\n\nSolução inicial: NaOH 0,1 mol/L, logo [OH⁻] = 10⁻¹ mol/L, pOH = 1 e pH = 13. Pela tabela, pH entre 12 e 14: amarela.\n\nMistura:\nn(OH⁻) = 0,080 L × 0,1 mol/L = 8 × 10⁻³ mol\nn(H⁺) = 0,140 L × 0,05 mol/L = 7 × 10⁻³ mol\nExcesso de OH⁻ = 1 × 10⁻³ mol\nVolume final = 80 + 140 = 220 mL = 0,22 L\n[OH⁻] = 10⁻³ ÷ 0,22 ≈ 4,5 × 10⁻³ mol/L\npOH = 3 − log 4,5 = 3 − 0,7 = 2,3\npH = 14 − 2,3 = 11,7\n\npH entre 8 e 12: azul.\n\nQuem esquece de somar os volumes ou supõe neutralização completa chega a violeta (pH 7), mas a base está em excesso.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Conteúdo: equilíbrio químico heterogêneo.\n\nO equilíbrio CaCO₃(s) ⇌ CaO(s) + CO₂(g) envolve duas fases sólidas e uma gasosa: é heterogêneo.\n\nSólidos puros têm concentração (atividade) constante e não entram na expressão da constante de equilíbrio. Assim:\n\nKc = [CO₂]   (ou Kp = pCO₂)\n\nComo a constante só depende da temperatura, a pressão parcial do CO₂ no equilíbrio é fixa a uma dada temperatura, qualquer que seja a quantidade de sólidos no recipiente. É isso que as duas figuras mostram: quantidades diferentes de CaO e CaCO₃ e a mesma quantidade de CO₂ gasoso.\n\nAs alternativas com [CaO] e [CaCO₃] na fração cometem o erro de incluir sólidos na constante; as que dizem \"homogêneo\" ignoram que há mais de uma fase.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Conteúdo: solubilidade e polaridade de compostos orgânicos.\n\nO enunciado dá três pistas: o eugenol faz ponte de hidrogênio (tem grupo –OH), é pouco solúvel em água e tem a maior parte da molécula apolar. Isso exige uma molécula grande, com uma parte apolar extensa e um pequeno grupo polar.\n\nA estrutura D tem um anel aromático com cadeia lateral alila (–CH₂–CH=CH₂), apolares, mais um grupo metoxila e um –OH fenólico. É exatamente o perfil descrito: o –OH permite ponte de hidrogênio e a solubilidade em etanol, mas o esqueleto de hidrocarboneto domina e reduz a solubilidade em água.\n\nA propanona (A), o ácido acético (B) e o propan-2-ol (C) são moléculas pequenas, muito solúveis em água. O antraceno (E) é totalmente apolar e não faz ponte de hidrogênio.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Conteúdo: conservação da energia mecânica.\n\nSem atrito nem resistência do ar, a energia mecânica se conserva. Então a variação da energia cinética entre A e B é igual, em módulo, à variação da energia potencial gravitacional:\n\n|ΔEc| = m · g · Δh\n\nA e B são diametralmente opostos (estão na mesma reta que passa por C), e esse diâmetro faz 45° com a horizontal. A está R · sen 45° abaixo do centro e B está R · sen 45° acima dele:\n\nΔh = 2 · R · sen 45° = 2 · R · (√2 ÷ 2) = R · √2\n\nLogo:\n|ΔEc| = m · g · R · √2\n\nO erro comum é usar o diâmetro inteiro (2R) como desnível, o que só valeria se A e B estivessem na vertical.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Conteúdo: equação de estado dos gases ideais.\n\nPara massa constante de gás ideal, p · V = n · R · T, então a temperatura absoluta é proporcional ao produto p · V. Lendo o diagrama:\n\nA: P₀ · V₀ = 1 P₀V₀\nB: 4P₀ · V₀ = 4 P₀V₀\nC: 4P₀ · 4V₀ = 16 P₀V₀\nD: P₀ · 4V₀ = 4 P₀V₀\n\nOs estados B e D têm o mesmo produto p · V, logo a mesma temperatura: T_B = T_D. Eles estão sobre a mesma isoterma.\n\nAs demais igualdades falham: T_C é a maior de todas (16 P₀V₀), e T_A é a menor (1 P₀V₀).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Conteúdo: refração da luz e lei de Snell.\n\nO laser chega à superfície com 45° em relação à normal. Pela lei de Snell:\nn_ar · sen 45° = n_água · sen r\n1,0 · 0,7 = 1,4 · sen r\nsen r = 0,5, logo r = 30°\n\nDentro da água, o raio desce 5 m fazendo 30° com a vertical. O deslocamento horizontal até o fundo é:\nd = 5 · tg 30° = 5 · 0,6 = 3,0 m\n\nO ponto do fundo onde o fio está preso fica, portanto, 3,0 m na horizontal a partir do ponto de entrada. A boia está na vertical desse ponto e sobre a linha de mira original, que continua a 45°. Numa reta a 45°, descer na vertical equivale ao avanço horizontal: a boia está 3,0 m abaixo da superfície.\n\nL = 5 − 3 = 2,0 m\n\nQuem toma a profundidade da boia (3,0 m) como o comprimento do fio marca a alternativa A.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Conteúdo: ondas estacionárias em cordas.\n\nNuma corda fixa nas duas pontas, as frequências possíveis são os harmônicos:\nf_n = n · v ÷ (2L)\nem que n é o número de ventres (meios comprimentos de onda) que cabem na corda. Como a corda e a tração são as mesmas, a velocidade v e o comprimento L não mudam.\n\nSituação 1: um só ventre, n = 1 (frequência fundamental).\nSituação 2: a figura mostra três ventres (crista, vale, crista), n = 3.\n\nf₂ ÷ f₁ = 3 ÷ 1 = 3,0\n\nO erro comum é contar \"um comprimento de onda e meio\" e chegar a 1,5; o que importa é quantos meios comprimentos de onda cabem na corda (três), comparados com um na situação 1.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Conteúdo: associação de resistores e potência elétrica.\n\nPela figura, as lâmpadas formam três ramos em paralelo ligados à ddp: um ramo com 4 lâmpadas em série (o de L), outro com 4 em série e outro com 2 em série. Sendo R a resistência de cada lâmpada, as resistências dos ramos são 4R, 4R e 2R.\n\nCada ramo recebe a ddp U inteira, e a potência de um ramo é U² ÷ R_ramo:\nInicial: P = U²/(4R) + U²/(4R) + U²/(2R) = U²/R\nCom L queimada, o ramo dela fica aberto:\nFinal: P' = U²/(4R) + U²/(2R) = 0,75 · U²/R\n\nA potência cai de 1 para 0,75: redução de 25%.\n\nPensar que só \"uma lâmpada em dez\" apagou leva a 10%, mas a queima abre o ramo inteiro e apaga as quatro lâmpadas da série.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Conteúdo: porcentagem e variação percentual.\n\nOs bolsos masculinos que comportam o celular são 95% de 80, e os femininos, 20% de 80. Como as amostras têm o mesmo tamanho, basta comparar as porcentagens (ou as quantidades):\n\nmasculinos: 0,95 · 80 = 76\nfemininos: 0,20 · 80 = 16\n\nQuanto 76 supera 16, em termos relativos:\n(76 − 16) ÷ 16 = 60 ÷ 16 = 3,75 = 375%\n\nAtenção à diferença entre \"é 475% de\" (76 ÷ 16 = 4,75) e \"supera em 375%\": o excesso é o que passa de 100%. Outra armadilha é subtrair as porcentagens (95 − 20 = 75%, alternativa E), o que dá a diferença em pontos percentuais, não a variação relativa.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Conteúdo: geometria analítica, reta pela origem e área de trapézio.\n\nA reta r passa pela origem, então tem equação y = k · x. P é colinear com A e D, que estão na mesma vertical, logo A tem abscissa x_P.\n\nPonto A: 4/3 = k · x_P, então k = 4/(3x_P).\nPonto B: 2 = k · x_B, então x_B = 2 ÷ k = 2 · 3x_P/4 = 3x_P/2.\n\nO trapézio retângulo ABCD tem bases AD = 4/3 e BC = 2 e altura DC = x_B − x_P = 3x_P/2 − x_P = x_P/2.\n\nÁrea = (4/3 + 2) ÷ 2 · x_P/2\nÁrea = (10/3) ÷ 2 · x_P/2\nÁrea = (5/3) · (x_P/2) = 5x_P/6\n\nUm erro comum é usar como altura a abscissa de C inteira, esquecendo que o trapézio começa em D.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Conteúdo: leitura e interpretação de gráfico distância × tempo.\n\nQuem chega aos 100 m primeiro vence. Pelo gráfico, Alberto atinge 100 m por volta de 12 s, Bernardo por volta de 17 s e César em 20 s. Então Alberto venceu e César foi o último: alternativa E.\n\nAs outras não resistem ao gráfico. Depois dos 60 m ainda há ultrapassagens: Alberto passa César já acima dos 60 m, e Bernardo passa César perto da chegada (A). A curva de Alberto não tem inclinação crescendo a taxa constante; ela acelera e depois quase se estabiliza (B). Depois de 8 s, Alberto ultrapassa César e, mais tarde, Bernardo também (C). Bernardo chega cerca de 3 s antes de César, não mais de 4 s (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Conteúdo: trigonometria no triângulo retângulo e tangente do arco duplo.\n\nSeja t = tg α. No triângulo ABD (reto em A): AD = AB · tg α = 6t.\nNo triângulo ABC (reto em A): tg 2α = AB ÷ AC = 6 ÷ (6t + 6) = 1/(t + 1).\n\nUsando a fórmula dada:\n2t/(1 − t²) = 1/(t + 1)\n2t(t + 1) = 1 − t²\n3t² + 2t − 1 = 0\nt = 1/3 (a raiz negativa não serve)\n\nEntão AD = 2 cm e AC = 8 cm.\nBD = √(6² + 2²) = √40 = 2√10 cm\nBC = √(6² + 8²) = 10 cm\nCD = 6 cm\n\nPerímetro de BCD = 10 + 6 + 2√10 = 16 + 2√10 = 2(8 + √10) cm.\n\nCuidado: AB = 6 é cateto dos dois triângulos, mas AC = AD + DC, e não apenas DC.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Conteúdo: polinômios, forma fatorada e relações entre raízes.\n\nSe a, b e c são as raízes do polinômio mônico p(x) = x³ − 3x + 7, então p(x) = (x − a)(x − b)(x − c).\n\nFazendo x = −1:\np(−1) = (−1 − a)(−1 − b)(−1 − c) = −(a + 1)(b + 1)(c + 1)\n\nE, pela expressão do polinômio:\np(−1) = −1 + 3 + 7 = 9\n\nLogo (a + 1)(b + 1)(c + 1) = −9.\n\nPelas relações de Girard chega-se ao mesmo resultado: a + b + c = 0, ab + ac + bc = −3 e abc = −7, e o produto expandido é abc + (ab + ac + bc) + (a + b + c) + 1 = −7 − 3 + 0 + 1 = −9. O erro típico é esquecer o sinal que aparece ao trocar (−1 − a) por −(a + 1), chegando a 9.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Conteúdo: função quadrática, valor máximo (vértice).\n\nOperar \"no maior lucro possível\" significa produzir a quantidade do vértice de cada parábola. O lucro máximo é o y do vértice, y_v = −Δ ÷ (4a), ou o valor da função em x_v = −b ÷ (2a).\n\nAntes: L(x) = −x² + x + 4\nx_v = −1 ÷ (−2) = 0,5\nL(0,5) = −0,25 + 0,5 + 4 = 4,25 milhões\n\nDepois: L*(x) = −4x² + 4x + 4\nx_v = −4 ÷ (−8) = 0,5\nL*(0,5) = −1 + 2 + 4 = 5 milhões\n\nAumento = 5 − 4,25 = 0,75 milhão = R$ 750.000,00\n\nQuem compara apenas os termos independentes (ambos iguais a 4) conclui, errado, que nada mudou; o que interessa é o vértice. Note também que o lucro está em milhões de reais: 0,75 milhão são 750 mil.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Conteúdo: probabilidade com combinações, uso do evento complementar.\n\n\"Pelo menos uma\" é mais fácil pelo complementar: calcula-se a chance de nenhuma das duas veteranas ser sorteada e subtrai-se de 1.\n\nTotal de grupos de 5 entre 15:\nC(15, 5) = 3003\n\nGrupos sem nenhuma das 2 veteranas (todos entre as outras 13):\nC(13, 5) = 1287\n\nP(nenhuma) = 1287 ÷ 3003 = 3/7 ≈ 0,4286\nP(pelo menos uma) = 1 − 3/7 = 4/7 ≈ 0,571 ≈ 57%\n\nO erro típico é calcular só a chance de exatamente uma veterana (2 · C(13, 4) ÷ 3003 = 1430 ÷ 3003 ≈ 48%, alternativa D), esquecendo os grupos em que as duas aparecem juntas (286 ÷ 3003 ≈ 9,5%).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Conteúdo: logaritmos, mudança de base.\n\nEscrevendo cada fator na base 10 (ou em qualquer base), log_a b = log b ÷ log a:\n\nP = (log 3 ÷ log 2) · (log 4 ÷ log 3) · (log 5 ÷ log 4) · ... · (log 2022 ÷ log 2021)\n\nÉ um produto telescópico: cada numerador cancela o denominador do fator seguinte, e sobram apenas o primeiro denominador e o último numerador:\n\nP = log 2022 ÷ log 2 = log₂ 2022\n\nPara localizar esse valor, use potências de 2:\n2¹⁰ = 1024\n2¹¹ = 2048\n\nComo 1024 < 2022 < 2048, temos 10 < log₂ 2022 < 11.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Conteúdo: geometria espacial, volume de prisma de base octogonal regular.\n\nA maior diagonal do octógono regular, AE, liga vértices opostos e passa pelo centro: é o diâmetro da circunferência circunscrita. Logo, o raio é R = 32 ÷ 2 = 16 cm.\n\nO octógono se divide em 8 triângulos isósceles com dois lados iguais a R e ângulo central de 360° ÷ 8 = 45°:\n\nÁrea de um triângulo = (1/2) · R² · sen 45° = (1/2) · 256 · (√2/2) = 64√2\nÁrea da base = 8 · 64√2 = 512√2 cm²\n\nO volume do prisma reto é a área da base vezes a altura (a aresta lateral HI = 4 cm):\n\nV = 512√2 · 4 = 2048√2 cm³\n\nQuem para na área da base marca a alternativa A, esquecendo de multiplicar pela altura.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Conteúdo: notação científica e operações com potências de 10.\n\nMassa de uma molécula de água (2 H + 1 O). Para somar, coloque as parcelas na mesma potência de 10:\n\n2 · 1,79 × 10⁻²⁴ = 3,58 × 10⁻²⁴ g = 0,358 × 10⁻²³ g\n0,358 × 10⁻²³ + 2,66 × 10⁻²³ = 3,018 × 10⁻²³ g\n\nMassa de 10¹⁰ moléculas:\n3,018 × 10⁻²³ × 10¹⁰ = 3,018 × 10⁻¹³ g\n\nO erro mais comum é somar as mantissas sem igualar os expoentes (3,58 + 2,66). Depois, cuidado com o expoente final: −23 + 10 = −13, e não −14 ou −15, como nas outras alternativas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

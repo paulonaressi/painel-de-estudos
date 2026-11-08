@@ -7,6 +7,126 @@
    "resposta": "A questão cobra o elogio implícito na fala do homem. No cartum, o pai mostra ao filho um celeiro trancado com correntes e cadeado e diz que é ali que a família guarda os sentimentos: se um sentimento aparecer, o menino deve levá-lo até lá e trancá-lo. A fala apresenta a repressão das emoções como algo bom e desejável, isto é, valoriza a frieza diante dos sentimentos. É um elogio à insensibilidade.\n\nO humor vem do exagero de transformar emoções em coisas que se trancam num celeiro. O homem não elogia a ingenuidade, a agressividade ou o isolamento, já que o problema não é se afastar das pessoas, mas não sentir. Também não se trata de privacidade: os sentimentos não são guardados para si, mas suprimidos.\n\n**Resposta: B**",
    "confianca": "alta",
    "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Crônica de Machado de Assis. O cronista interpreta o anúncio da viúva: ela não quer amar, \"estás cansada de viver só\". Por isso exige um homem também cansado de viver só, de meia-idade, quando as paixões esfriam. No fim, conclui que ela quer \"menos um companheiro que uma companhia\".\n\nO que move a viúva, portanto, é o receio de passar o resto da vida sozinha. A alternativa A é tentadora porque ela não busca paixão, mas o cronista não diz que ela não está \"preparada\": ela simplesmente não quer amor, quer companhia. A D contraria o texto, que afirma que ela não quer amar.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Linguagem figurada. O sexto parágrafo explica as exigências do anúncio: o pretendente não pode ser \"um náufrago, à espera de uma tábua de salvação, pois que exiges que também possua\" meios de vida. O náufrago é quem não tem nada e espera ser salvo pelo casamento com uma viúva de posses.\n\nA metáfora designa, portanto, um homem pobre, um interesseiro sem recursos. A chave está no \"pois que exiges que também possua\": a tábua de salvação é o dinheiro dela.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Transposição do discurso direto para o indireto. Em \"Eia, passemos em revista...\", o verbo está no imperativo, que nessa pessoa coincide com o presente do subjuntivo e exprime ordem ou convite. Quando a fala é relatada no discurso indireto, depois de um verbo de elocução no passado (\"disse\"), o imperativo passa ao pretérito imperfeito do subjuntivo: \"disse-lhe que passasse em revista as procuras e ofertas\".\n\nA forma é \"passasse\". \"Passe\" manteria o presente, sem a correlação com \"disse\". \"Passaria\" (futuro do pretérito) e \"passou\" ou \"passara\" (pretéritos do indicativo) não exprimem a ordem relatada.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Coesão pronominal. No trecho, um capitão da guarda de Nero escreveu a Sêneca \"perguntando-lhe como se havia de curar do tédio que sentia\". O \"lhe\" é objeto indireto de \"perguntando\": pergunta-se a alguém, e esse alguém é o destinatário da carta, Sêneca. O \"se\" é reflexivo e se refere a quem queria se curar do tédio, o próprio capitão.\n\nA ordem é Sêneca e capitão. Nero aparece só como referência para identificar o capitão, sem participar da ação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Formação de palavras: prefixos. Em \"indefinível\", o \"in-\" é prefixo de negação: o que não pode ser definido. O mesmo sentido aparece no \"a-\" (ou \"an-\" antes de vogal) de \"anormal\", que significa não normal.\n\nOs outros prefixos têm sentidos diferentes. \"Contra-\" indica oposição, \"inter-\" indica posição intermediária ou reciprocidade, \"meta-\" significa além de, e \"trans-\" significa através de ou além de. O \"in-\" de \"interconectado\" pode confundir, mas o prefixo ali é \"inter-\", e não \"in-\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Recursos expressivos no meme. A Morte aparece como uma figura humana que fala e conversa, o que é personificação. O humor vem da ironia: o homem pergunta se a Morte veio buscá-lo, e ela responde que veio pelas plantas de dentro de casa. A resposta frustra a expectativa trágica da cena de Bergman e sugere, com ironia, que o dono vive deixando as plantas morrerem.\n\nNão há eufemismo, já que a palavra \"Death\" é dita sem rodeios, nem antítese, porque não há termos opostos postos lado a lado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Compreensão de texto. O autor compara o Renascimento com a mutação atual. O Renascimento olhava ao mesmo tempo para o passado e para o futuro, buscava uma \"nova ciência\" e destruía antigas crenças. Depois vem a frase decisiva: \"Nada disso vemos hoje na mutação tecnocientífica, a não ser o elogio dos fatos e dos acontecimentos técnicos\".\n\nO \"a não ser\" funciona como exceção. De tudo o que caracterizava o Renascimento, a única coisa que permanece hoje é a atenção aos fatos técnicos. Nesse ponto, a mutação atual age a exemplo do Renascimento. A alternativa A é a armadilha: lê a frase como oposição total, mas a exceção indica justamente o que as duas épocas têm em comum. B e D atribuem ao presente a relação com as antigas crenças, que o texto nega, e E contradiz o \"presente eterno, sem passado nem futuro\".\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "A resposta depende de ler \"a não ser\" como exceção: o elogio dos fatos técnicos seria o único traço do Renascimento que persiste hoje. Uma leitura como oposição total levaria à alternativa A."
+  },
+  "0:9": {
+   "resposta": "Caracterização a partir do texto. O autor mostra o Renascimento com duas faces: ele apontava ao mesmo tempo \"para o futuro e para o passado\", com \"paixão pelo novo e paixão pelo antigo\". Foi \"renascimento de um mundo esquecido e nascimento de um mundo novo\", mas também \"crítica, abalo e, enfim, destruição\" das antigas crenças.\n\nO caráter destacado é, portanto, ambivalente: duplo, feito de movimentos opostos. A alternativa E (visionário) capta só a face voltada para o futuro e deixa de fora o resgate do passado, que o texto enfatiza.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Objetividade e impessoalidade. Um enunciado é impessoal quando não marca a presença do autor, isto é, não usa verbos ou pronomes de primeira pessoa e não traz juízos de valor. Em \"Este primeiro livro mostra de que maneira a ciência e a técnica estão produzindo transformações...\", tudo está na terceira pessoa e descreve o conteúdo do livro.\n\nAs outras marcam o autor. Em A há \"Tomemos\" e o juízo \"prodigiosa\"; em B, \"procuramos\"; em C, \"Ou melhor, vivemos\"; em D, \"tendemos a dizer\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Conteúdo: **orações subordinadas adverbiais** e o valor das conjunções.\n\nA locução \"posto que\" tem, na tradição, valor concessivo (\"embora\"), mas aqui é preciso ler o sentido. A oração sublinhada diz que a mutação nasce da revolução tecnocientífica, quase sem participação das ciências humanas. A oração seguinte conclui que ela parece \"feita no vazio do pensamento\". A primeira dá o **motivo** da segunda: é porque as humanidades ficaram de fora que a mutação parece sem pensamento. \"Posto que\" equivale, portanto, a \"já que\", \"visto que\", e a oração é causal.\n\nNão é consequência (E): a consequência está na oração que vem depois, não na sublinhada. Também não há concessão, que sequer aparece entre as alternativas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Conteúdo: **história da literatura brasileira**, na leitura de Antonio Candido.\n\nAs pistas são duas. Primeiro, o movimento foi visto de início como \"excentricidade e afronta ao bom gosto\". É a recepção escandalosa da Semana de Arte Moderna de 1922 e das vanguardas, que depois viraram referência da produção artística. Segundo, ele surge quando a literatura brasileira \"já havia adquirido maturidade\" e consegue assimilar com originalidade as matrizes estrangeiras. Isso remete à antropofagia de Oswald de Andrade: devorar a influência europeia e produzir algo próprio.\n\nO Romantismo (B) é a alternativa mais tentadora, porque também buscou uma literatura nacional. Só que ele marca a **formação** dessa literatura, não um momento posterior à sua maturidade, e não foi recebido como afronta ao bom gosto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Conteúdo: o **locus amoenus**, tópico clássico do \"lugar ameno\": natureza serena e agradável, um cenário idealizado.\n\nA primeira estrofe traz exatamente isso: a \"fresca serra\", a sombra dos \"verdes castanheiros\", o \"manso caminhar\" dos ribeiros, uma paisagem capaz de desterrar a tristeza. A segunda continua a enumeração da paisagem campestre: o som do mar, o pôr do sol nos montes, o recolher dos gados, as nuvens no céu.\n\nA terceira estrofe resume (\"enfim, tudo o que a rara natureza... oferece\") e faz a virada: essa beleza magoa o eu lírico na ausência da amada. A quarta é só lamento (\"Sem ti, tudo me enoja\"), sem paisagem. Por isso as alternativas com a quarta estrofe estão erradas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Conteúdo: **figuras de linguagem**, aqui o **paradoxo**, ou oxímoro: junção de ideias contraditórias.\n\nEm \"das nuvens pelo ar a branda guerra\", \"branda\" (suave, mansa) qualifica \"guerra\", palavra ligada a violência. A contradição descreve o movimento lento e silencioso das nuvens que se chocam no céu.\n\nAs outras alternativas não juntam termos opostos. Em \"donde toda a tristeza se desterra\" há só uma metáfora: a tristeza é expulsa. \"Sem ti, tudo me enoja e me aborrece\" é uma queixa direta, e \"A fermosura desta fresca serra\" e \"o esconder do sol pelos outeiros\" são descrições. O paradoxo do soneto aparecia também no último verso (\"nas mores alegrias, mor tristeza\"), mas esse verso não está entre as opções.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Conteúdo: **derivação imprópria**, ou conversão: a palavra muda de classe gramatical sem mudar de forma.\n\nEm \"o manso caminhar destes ribeiros\", o verbo no infinitivo \"caminhar\" funciona como **substantivo**. Ele vem com artigo (\"o\"), recebe adjetivo (\"manso\") e tem complemento nominal (\"destes ribeiros\"). É o caso de derivação imprópria.\n\nO verso da segunda estrofe \"o esconder do sol pelos outeiros\" teria o mesmo processo, mas não está entre as alternativas. Nas demais opções, as palavras estão na classe de sempre. \"Desterra\" é verbo, \"rouco\" e \"estranha\" são adjetivos, \"branda\" é adjetivo e \"guerra\" é substantivo. \"Perpetuamente\" é advérbio formado por sufixação (perpétua + -mente), que é derivação própria.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Conteúdo: **leitura em inglês**, aqui o contexto de publicação.\n\nO primeiro parágrafo diz que o Facebook tinha uma pesquisa interna de março de 2020 mostrando que o Instagram faz mal à imagem corporal das adolescentes, mas \"swept those findings under the rug\" (escondeu os resultados). Quem revelou isso foi uma reportagem do Wall Street Journal de 14 de setembro de 2021. O artigo saiu dois dias depois, em 16 de setembro. Portanto, ele reage a uma **revelação recente**: uma empresa de mídia social ocultou dados relevantes para a saúde dos jovens.\n\nAs alternativas A, C e E falam de temas que o texto trata, mas são gerais. Nenhuma explica por que o artigo saiu justamente naquela data.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Conteúdo: **leitura em inglês**, aqui a comparação entre Facebook e Big Tobacco.\n\nO texto diz que a indústria do tabaco sabia, desde os anos 1950, que seus produtos causavam câncer, mas \"publicly denied it\" até o século 21. O Facebook tinha sua própria pesquisa sobre os danos do Instagram e escondeu os resultados (\"swept those findings under the rug\"). O ponto comum: as duas empresas sabiam do dano comprovado e **não o admitiram publicamente**.\n\nA alternativa C é a mais tentadora, porque o texto fala em lucro (\"pursuing profits\"). Mas em nenhum momento diz que as empresas admitiram ter ânsia por lucro. A D também erra: só o Facebook é citado em relação ao Wall Street Journal.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Conteúdo: **vocabulário em contexto**.\n\n\"Pursue\" significa perseguir, buscar. \"Pursuing profits\" é \"buscar lucros\", e a política do Facebook seria buscar o lucro apesar dos danos documentados. O sinônimo é \"seeking\" (procurando, buscando).\n\nAs outras alternativas mudariam o sentido. \"Exhibiting\" é exibir, \"generating\" é gerar, \"increasing\" é aumentar e \"hiding\" é esconder. \"Generating\" e \"increasing\" podem tentar, porque também combinam com \"profits\". Mas falam do resultado (gerar ou aumentar o lucro), e o verbo do texto fala da busca por ele.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Conteúdo: **leitura em inglês**, aqui a ideia de um parágrafo.\n\nO terceiro parágrafo começa dizendo que entender o impacto das redes sociais nos adolescentes é importante. Em seguida, justifica: 89% dos jovens dizem ficar on-line \"almost constantly\" ou várias vezes ao dia, o Instagram é a rede que eles mais acessam, e \"It is a prevalent part of adolescent life\". Ou seja, o Instagram ocupa um espaço muito grande no dia a dia dos adolescentes.\n\nA alternativa A troca a justificativa pela fonte: o Pew Research Center aparece como origem do dado, não como motivo dos estudos. A B generaliza para \"todas as faixas etárias\", e o parágrafo fala só de adolescentes. A C e a D contrariam o texto, que associa mais uso a menos satisfação com a vida.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Conteúdo: **conectivos em inglês**.\n\n\"Yet\", no início da frase, equivale a \"however\" ou \"but\" (\"no entanto\", \"contudo\"). Antes dele, o texto mostra que o Instagram está muito presente na vida dos adolescentes. Depois, diz que os estudos mostram que, quanto mais o usam, pior o bem-estar deles. Há uma oposição entre a popularidade da rede e o mal que ela causa: é uma relação de **contraste**.\n\nO erro típico é ler \"yet\" como advérbio de tempo (\"ainda\", como em \"not yet\") e marcar E. Mas esse uso aparece em frases negativas ou interrogativas, não no começo de uma afirmação, como aqui.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Conteúdo: **leitura em inglês**, aqui a síntese de dois parágrafos.\n\nO quarto parágrafo diz que o Instagram permite seguir celebridades e colegas, que mostram versões manipuladas e filtradas do corpo e da vida. Essa mistura de famosos com \"retouched versions of real-life peers\" cria \"a ripe environment for upward social comparison\": comparar-se com quem parece \"melhor\". É o que a alternativa B resume como \"contexto fértil para comparações nocivas com versões editadas da vida alheia\".\n\nA alternativa A distorce o texto. Ele diz que a insatisfação com o corpo **prevê** sintomas de transtorno alimentar no futuro, não que o Instagram já tenha aumentado esses casos. A C atribui intenção (\"deliberately\") que o texto não afirma, e a D inventa um empoderamento já conquistado, quando o texto diz que ser objeto do olhar alheio não empodera.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Conteúdo: **leitura em inglês**, aqui uma expressão por atenuação.\n\nO último parágrafo diz que \"History and the courts have been less than forgiving\" com a postura de avestruz (\"head-in-the-sand approach\") da indústria do tabaco. \"Less than forgiving\" é um eufemismo para \"nada indulgentes\": a indústria foi **condenada**, na história e nos tribunais, por fingir não ver os riscos comprovados de seus produtos.\n\nA alternativa A inverte o sentido, porque o texto diz que ela não foi perdoada. A D também inverte: a história e os tribunais ficaram contra ela. A C fala em advertências judiciais que o texto não menciona, e a E contraria o próprio texto, que trata os danos do cigarro como fato.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Conteúdo: **comparação entre textos** (intertextualidade).\n\nO quarto parágrafo do texto anterior diz que o Facebook \"has been relegated to the uncool soccer moms and grandparents\". Ou seja, entre os jovens, a rede teria ficado para mães e avós, e eles migraram para o Instagram. O anúncio diz o contrário: o Facebook é \"a social platform for every age\" e, \"surprisingly\", ainda é adotado por quem tem de 18 a 24 anos. Ele também informa que 65% dos usuários têm menos de 35 anos. É essa a contradição: segundo o anúncio, o Facebook segue muito usado pelos mais jovens.\n\nA alternativa C exagera: o anúncio fala em plataforma de grande alcance, mas não compara o Facebook com as outras redes em cada faixa etária. As demais tratam de pontos que nenhum dos dois textos aborda.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Conteúdo: **vocabulário em contexto**.\n\n\"Ensure\" significa assegurar, garantir. O anúncio diz que as pessoas buscam no Facebook avaliações e recomendações, e por isso vale a pena \"ensuring customers only have positive things to say\": garantir que os clientes só tenham coisas boas a dizer ao visitar o perfil da empresa. O sinônimo é \"guaranteeing\".\n\n\"Hoping\" (C) pode tentar, mas tem outro sentido: esperar que os clientes falem bem é bem diferente de garantir que isso aconteça. \"Offering\" é oferecer, \"proposing\" é propor e \"obliging\" é obrigar, e nenhum deles cabe na frase.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Conteúdo: **leitura de tirinha em inglês**, aqui a referência de uma pergunta.\n\nNo segundo quadrinho, o rato diz que deram ao Shifty uma receita, mandando-o tomar \"2 tablets daily\" (dois comprimidos por dia). O menino responde \"How's that bad?\": por que isso seria ruim? A pergunta se refere, portanto, à **receita médica**. Tomar dois comprimidos por dia parece um tratamento comum, sem nada de grave.\n\nO humor vem do terceiro quadrinho. Shifty, viciado em redes sociais, entendeu \"tablets\" como **tablets**, os aparelhos eletrônicos, e sai correndo de uma loja de informática com dois deles, sem pagar.\n\nA alternativa B é a mais tentadora, mas o vício já tinha sido comentado no primeiro quadrinho, e o menino reagiu dizendo \"It sounds serious!\". O \"that\" da segunda fala retoma a frase imediatamente anterior, a da receita.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
   }
  }
 }

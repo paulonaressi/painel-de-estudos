@@ -1018,5 +1018,173 @@
   "bytes": 1079474,
   "indice": "data/questoes/unesp/2016-2_ciencias-da-natureza-e-matematica-oficial.json",
   "questoes": 12
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2026_2/1fase/UNESP2026_2_1fase_prova.pdf": {
+  "arquivo": "provas/unesp/2026-2_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.pdf",
+  "bytes": 3269295,
+  "indice": "data/questoes/unesp/2026-2_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+  "questoes": 90
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2026/1fase/UNESP2026_1fase_prova.pdf": {
+  "arquivo": "provas/unesp/2026_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.pdf",
+  "bytes": 4447669,
+  "indice": "data/questoes/unesp/2026_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+  "questoes": 90
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025_2/1fase/UNESP2025_2_1fase_prova.pdf": {
+  "arquivo": "provas/unesp/2025-2_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.pdf",
+  "bytes": 3579791,
+  "indice": "data/questoes/unesp/2025-2_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+  "questoes": 87
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_prova.pdf": {
+  "arquivo": "provas/unesp/2025_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.pdf",
+  "bytes": 3331386,
+  "indice": "data/questoes/unesp/2025_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+  "questoes": 90
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2024_2/1fase/UNESP2024_2_1fase_prova.pdf": {
+  "arquivo": "provas/unesp/2024-2_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.pdf",
+  "bytes": 3236450,
+  "indice": "data/questoes/unesp/2024-2_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+  "questoes": 90
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2024/1fase/UNESP2024_1fase_prova.pdf": {
+  "arquivo": "provas/unesp/2024_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.pdf",
+  "bytes": 3437538,
+  "indice": "data/questoes/unesp/2024_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+  "questoes": 90
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf": {
+  "arquivo": "provas/unesp/2023_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.pdf",
+  "bytes": 3989171,
+  "indice": "data/questoes/unesp/2023_prova-de-conhecimentos-gerais-objetiva-espelho-curso-objetiv.json",
+  "questoes": 90
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2026/1dia/famerp2026_1dia_prova.pdf": {
+  "arquivo": "provas/famerp/2026_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.pdf",
+  "bytes": 2424600,
+  "indice": "data/questoes/famerp/2026_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_prova.pdf": {
+  "arquivo": "provas/famerp/2025_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.pdf",
+  "bytes": 2299596,
+  "indice": "data/questoes/famerp/2025_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_prova.pdf": {
+  "arquivo": "provas/famerp/2024_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.pdf",
+  "bytes": 1930550,
+  "indice": "data/questoes/famerp/2024_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_prova.pdf": {
+  "arquivo": "provas/famerp/2023_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.pdf",
+  "bytes": 2307435,
+  "indice": "data/questoes/famerp/2023_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_prova.pdf": {
+  "arquivo": "provas/famerp/2022_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.pdf",
+  "bytes": 2088105,
+  "indice": "data/questoes/famerp/2022_1-dia-prova-de-conhecimentos-gerais-objetiva-espelho-curso-o.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2027/1dia/santacasa2027_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2027_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.pdf",
+  "bytes": 1268076,
+  "indice": "data/questoes/fcmscsp/2027_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2026/1dia/santacasa2026_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2026_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.pdf",
+  "bytes": 2177915,
+  "indice": "data/questoes/fcmscsp/2026_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2025/1dia/santacasa2025_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2025_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.pdf",
+  "bytes": 2362941,
+  "indice": "data/questoes/fcmscsp/2025_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2024/1dia/santacasa2024_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2024_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.pdf",
+  "bytes": 2233501,
+  "indice": "data/questoes/fcmscsp/2024_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2023/1dia/santacasa2023_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2023_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.pdf",
+  "bytes": 2494916,
+  "indice": "data/questoes/fcmscsp/2023_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2022/1dia/santacasa2022_1dia_prova.pdf": {
+  "arquivo": "provas/fcmscsp/2022_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.pdf",
+  "bytes": 3091252,
+  "indice": "data/questoes/fcmscsp/2022_prova-de-conhecimentos-gerais-objetiva-medicina-espelho-curs.json",
+  "questoes": 80
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2027/alberteinstein2027_prova_I.pdf": {
+  "arquivo": "provas/ficsae/2027_prova-i-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 1154429,
+  "indice": "data/questoes/ficsae/2027_prova-i-objetiva-espelho-curso-objetivo.json",
+  "questoes": 50
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2026/alberteinstein2026_prova_I.pdf": {
+  "arquivo": "provas/ficsae/2026_prova-i-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 1943235,
+  "indice": "data/questoes/ficsae/2026_prova-i-objetiva-espelho-curso-objetivo.json",
+  "questoes": 50
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2025/alberteinstein2025_prova_I.pdf": {
+  "arquivo": "provas/ficsae/2025_prova-i-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 2010091,
+  "indice": "data/questoes/ficsae/2025_prova-i-objetiva-espelho-curso-objetivo.json",
+  "questoes": 50
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2024/alberteinstein2024_prova_I.pdf": {
+  "arquivo": "provas/ficsae/2024_prova-i-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 1068433,
+  "indice": "data/questoes/ficsae/2024_prova-i-objetiva-espelho-curso-objetivo.json",
+  "questoes": 50
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2023/alberteinstein2023_prova_I.pdf": {
+  "arquivo": "provas/ficsae/2023_prova-i-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 1649273,
+  "indice": "data/questoes/ficsae/2023_prova-i-objetiva-espelho-curso-objetivo.json",
+  "questoes": 50
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2022/alberteinstein2022_prova_I.pdf": {
+  "arquivo": "provas/ficsae/2022_prova-i-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 2356622,
+  "indice": "data/questoes/ficsae/2022_prova-i-objetiva-espelho-curso-objetivo.json",
+  "questoes": 50
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2027/fmj2027_prova_II.pdf": {
+  "arquivo": "provas/fmj/2027_prova-ii-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 1071562,
+  "indice": "data/questoes/fmj/2027_prova-ii-objetiva-espelho-curso-objetivo.json",
+  "questoes": 40
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2026/fmj2026_prova_II.pdf": {
+  "arquivo": "provas/fmj/2026_prova-ii-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 1065490,
+  "indice": "data/questoes/fmj/2026_prova-ii-objetiva-espelho-curso-objetivo.json",
+  "questoes": 40
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2025/fmj2025_prova_II.pdf": {
+  "arquivo": "provas/fmj/2025_prova-ii-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 1072215,
+  "indice": "data/questoes/fmj/2025_prova-ii-objetiva-espelho-curso-objetivo.json",
+  "questoes": 40
+ },
+ "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2024/fmj2024_prova_II.pdf": {
+  "arquivo": "provas/fmj/2024_prova-ii-objetiva-espelho-curso-objetivo.pdf",
+  "bytes": 1433059,
+  "indice": "data/questoes/fmj/2024_prova-ii-objetiva-espelho-curso-objetivo.json",
+  "questoes": 60
  }
 }

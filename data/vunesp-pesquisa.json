@@ -83,6 +83,56 @@
     },
     {
       "instituicao": "UNESP",
+      "edicao": "2026/2",
+      "ano": 2026,
+      "fase": "1ª fase",
+      "formato": "objetiva",
+      "estrutura": "90 questões objetivas de Conhecimentos Gerais (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://documento.vunesp.com.br/documento/stream/NzY3MDg4Mw%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2026_2/1fase/UNESP2026_2_1fase_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp.aspx"
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Acrescentada em 08/11/2026."
+    },
+    {
+      "instituicao": "UNESP",
       "edicao": "2026",
       "ano": 2026,
       "fase": "2ª fase",
@@ -191,6 +241,56 @@
     },
     {
       "instituicao": "UNESP",
+      "edicao": "2026",
+      "ano": 2026,
+      "fase": "1ª fase",
+      "formato": "objetiva",
+      "estrutura": "90 questões objetivas de Conhecimentos Gerais (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://documento.vunesp.com.br/documento/stream/NzQ2NDIyMA%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2026/1fase/UNESP2026_1fase_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp.aspx"
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Acrescentada em 08/11/2026."
+    },
+    {
+      "instituicao": "UNESP",
       "edicao": "2025/2",
       "ano": 2025,
       "fase": "2ª fase",
@@ -268,6 +368,56 @@
       ],
       "respostas_esperadas": [],
       "observacoes": "Dois cadernos oficiais em dias distintos, sem gabarito oficial da 2ª fase (verificado nos títulos da lista da Vunesp); contagem 12/12/12 e faixas de numeração por caderno conforme o índice do Curso Objetivo. Código do concurso na Vunesp: VNSP2408. Cadernos (versão de divulgação à imprensa) publicados na lista de documentos da Vunesp em 22/06/2025 e 22/06/2025. Nos espelhos (host_oficial=false), áreas e numeração foram inferidas do rótulo/nome do arquivo e do índice de questões do Curso Objetivo; os PDFs não foram abertos. documento.vunesp.com.br responde 403 a HEAD e a requisições sem Accept-Encoding; o status 200 foi obtido por GET com cabeçalhos de navegador e corpo abortado."
+    },
+    {
+      "instituicao": "UNESP",
+      "edicao": "2025/2",
+      "ano": 2025,
+      "fase": "1ª fase",
+      "formato": "objetiva",
+      "estrutura": "90 questões objetivas de Conhecimentos Gerais (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://documento.vunesp.com.br/documento/stream/Njg1NTY2MA%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025_2/1fase/UNESP2025_2_1fase_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp.aspx"
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Acrescentada em 08/11/2026."
     },
     {
       "instituicao": "UNESP",
@@ -351,6 +501,56 @@
     },
     {
       "instituicao": "UNESP",
+      "edicao": "2025",
+      "ano": 2025,
+      "fase": "1ª fase",
+      "formato": "objetiva",
+      "estrutura": "90 questões objetivas de Conhecimentos Gerais (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://documento.vunesp.com.br/documento/stream/NjU5MzI0Mg%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp.aspx"
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Acrescentada em 08/11/2026."
+    },
+    {
+      "instituicao": "UNESP",
       "edicao": "2024/2",
       "ano": 2024,
       "fase": "2ª fase",
@@ -416,6 +616,56 @@
       ],
       "respostas_esperadas": [],
       "observacoes": "Dois cadernos oficiais em dias distintos, sem gabarito oficial da 2ª fase (verificado nos títulos da lista da Vunesp); contagem 12/12/12 e faixas de numeração por caderno conforme o índice do Curso Objetivo. Código do concurso na Vunesp: VNSP2305. Cadernos (versão de divulgação à imprensa) publicados na lista de documentos da Vunesp em 23/06/2024 e 24/06/2024. Nos espelhos (host_oficial=false), áreas e numeração foram inferidas do rótulo/nome do arquivo e do índice de questões do Curso Objetivo; os PDFs não foram abertos. documento.vunesp.com.br responde 403 a HEAD e a requisições sem Accept-Encoding; o status 200 foi obtido por GET com cabeçalhos de navegador e corpo abortado."
+    },
+    {
+      "instituicao": "UNESP",
+      "edicao": "2024/2",
+      "ano": 2024,
+      "fase": "1ª fase",
+      "formato": "objetiva",
+      "estrutura": "90 questões objetivas de Conhecimentos Gerais (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://documento.vunesp.com.br/documento/stream/NTc4Mjg3NA%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2024_2/1fase/UNESP2024_2_1fase_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp.aspx"
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Acrescentada em 08/11/2026."
     },
     {
       "instituicao": "UNESP",
@@ -487,6 +737,56 @@
     },
     {
       "instituicao": "UNESP",
+      "edicao": "2024",
+      "ano": 2024,
+      "fase": "1ª fase",
+      "formato": "objetiva",
+      "estrutura": "90 questões objetivas de Conhecimentos Gerais (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://documento.vunesp.com.br/documento/stream/NTM0MTAyMA%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2024/1fase/UNESP2024_1fase_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp.aspx"
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Acrescentada em 08/11/2026."
+    },
+    {
+      "instituicao": "UNESP",
       "edicao": "2023",
       "ano": 2023,
       "fase": "2ª fase",
@@ -546,6 +846,56 @@
         }
       ],
       "observacoes": "Formato objetivo: caderno único com gabarito oficial da 2ª fase publicado (verificado); 60 questões em blocos de 20 conforme o índice do Curso Objetivo. Código do concurso na Vunesp: VNSP2206. Caderno publicado na lista de documentos da Vunesp em 19/12/2022. Nos espelhos (host_oficial=false), áreas e numeração foram inferidas do rótulo/nome do arquivo e do índice de questões do Curso Objetivo; os PDFs não foram abertos. documento.vunesp.com.br responde 403 a HEAD e a requisições sem Accept-Encoding; o status 200 foi obtido por GET com cabeçalhos de navegador e corpo abortado."
+    },
+    {
+      "instituicao": "UNESP",
+      "edicao": "2023",
+      "ano": 2023,
+      "fase": "1ª fase",
+      "formato": "objetiva",
+      "estrutura": "90 questões objetivas de Conhecimentos Gerais (Linguagens, Ciências Humanas, Ciências da Natureza e Matemática)",
+      "cadernos": [
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://documento.vunesp.com.br/documento/stream/MzE3NTk4Mg%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-90",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        }
+      ],
+      "resolucoes": [
+        {
+          "fonte": "Curso Objetivo",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp.aspx"
+        }
+      ],
+      "respostas_esperadas": [],
+      "observacoes": "Acrescentada em 08/11/2026."
     },
     {
       "instituicao": "UNESP",
@@ -3234,6 +3584,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/NzUyMjIyNQ%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2026/1dia/famerp2026_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3284,6 +3666,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/NjY1MTk1Nw%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3334,6 +3748,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/NTY0Mzg3MA%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3384,6 +3830,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/MzIxMTE5OA%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3421,6 +3899,22 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3716,6 +4210,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/Nzg4ODgxOQ%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2027/1dia/santacasa2027_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3766,6 +4292,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/NzQ0MDYzNg%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2026/1dia/santacasa2026_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3816,6 +4374,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/NjUzODYwOQ%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2025/1dia/santacasa2025_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3864,6 +4454,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/NTIyMjUzNw%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2024/1dia/santacasa2024_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3912,6 +4534,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://documento.vunesp.com.br/documento/stream/MzE1MTEwMA%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2023/1dia/santacasa2023_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -3949,6 +4603,22 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-80",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/santacasa/2022/1dia/santacasa2022_1dia_prova.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4147,6 +4817,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova I (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://documento.vunesp.com.br/documento/stream/NzkxNzM2Ng%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova I (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2027/alberteinstein2027_prova_I.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4193,6 +4895,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova I (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://documento.vunesp.com.br/documento/stream/NzQxNzEyNA%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova I (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2026/alberteinstein2026_prova_I.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4239,6 +4973,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova I (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://documento.vunesp.com.br/documento/stream/NjU1NDk5Mg%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova I (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2025/alberteinstein2025_prova_I.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4285,6 +5051,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova I (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://documento.vunesp.com.br/documento/stream/NTI2MDA3Ng%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova I (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2024/alberteinstein2024_prova_I.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4331,6 +5129,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova I (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://documento.vunesp.com.br/documento/stream/MzE1ODc5Mg%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova I (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2023/alberteinstein2023_prova_I.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4366,6 +5196,22 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova I (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": "1-50",
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2022/alberteinstein2022_prova_I.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4541,6 +5387,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova II (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": null,
+          "url": "https://documento.vunesp.com.br/documento/stream/Nzg4Njc5Ng%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova II (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": null,
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2027/fmj2027_prova_II.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [],
@@ -4580,6 +5458,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova II (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": null,
+          "url": "https://documento.vunesp.com.br/documento/stream/NzM5NjcxNQ%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova II (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": null,
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2026/fmj2026_prova_II.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4630,6 +5540,38 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova II (objetiva)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": null,
+          "url": "https://documento.vunesp.com.br/documento/stream/NjUzMTU4Ng%3d%3d",
+          "host_oficial": true,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
+        },
+        {
+          "rotulo": "Prova II (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": null,
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2025/fmj2025_prova_II.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [
@@ -4667,6 +5609,22 @@
           "content_type": "application/pdf",
           "x_frame_options": null,
           "csp_frame_ancestors": null
+        },
+        {
+          "rotulo": "Prova II (objetiva) (espelho Curso Objetivo)",
+          "areas": [
+            "linguagens",
+            "humanas",
+            "natureza-matematica"
+          ],
+          "questoes": null,
+          "url": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/fmj/2024/fmj2024_prova_II.pdf",
+          "host_oficial": false,
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "x_frame_options": null,
+          "csp_frame_ancestors": null,
+          "acrescentado": "2026-11-08"
         }
       ],
       "resolucoes": [

@@ -219,7 +219,8 @@ const edicoes = pesquisa.edicoes.map(ed => {
   };
   if (unespContinua(ed)) {
     saida.numeracao_unica = true; // as questões são numeradas de ponta a ponta, mesmo em cadernos separados
-    const faixas = faixasDaUnesp(ed, saida.cadernos);
+    // a 1ª fase (90 objetivas de Conhecimentos Gerais) não segue a numeração por campo da 2ª
+    const faixas = ed.fase === '1ª fase' ? null : faixasDaUnesp(ed, saida.cadernos);
     if (faixas) saida.faixas = faixas;
   }
   return saida;

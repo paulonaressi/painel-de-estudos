@@ -35,11 +35,14 @@ function copiasLocais(grupo) {
     const altura = q => q.recortes.reduce((soma, r) => soma + r[4] - r[2], 0);
     const soTarja = parte => indice.questoes.some(q => (q.parte || 0) === parte && altura(q) < 25); // sobrou só o marcador "Questão N"
     const boa = l => continuas(l) && !soTarja(l.parte);
-    if (locais.length && locais.every(boa)) return locais;
-    // Arquivo com várias partes e alguma com defeito (Famema 2024): ficam as partes boas, sem repetir
-    // uma parte idêntica a outra (o mesmo caderno impresso duas vezes no arquivo).
+    // uma parte idêntica a outra (Famema 2024: o arquivo traz a Prova I duas vezes) não se repete
+    const assinatura = l => indice.questoes.filter(q => (q.parte || 0) === l.parte).map(q => q.texto.slice(0, 80)).join('|');
+    if (locais.length && locais.every(boa)) {
+      const vistas = new Set();
+      return locais.filter(l => !vistas.has(assinatura(l)) && vistas.add(assinatura(l)));
+    }
+    // Arquivo com várias partes e alguma com defeito: ficam as partes boas, também sem repetir.
     if (locais.length > 1) {
-      const assinatura = l => indice.questoes.filter(q => (q.parte || 0) === l.parte).map(q => q.texto.slice(0, 80)).join('|');
       const vistas = new Set();
       const boas = locais.filter(l => boa(l) && l.numeros.length >= 5) // parte com 1 ou 2 "questões" é ruído
         .filter(l => !vistas.has(assinatura(l)) && vistas.add(assinatura(l)));

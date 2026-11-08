@@ -25,10 +25,11 @@ RE_MARCA_SEM_NUMERO = re.compile(r'^quest[ãa]o?$', re.I)
 RE_NUMERO = re.compile(r'^0*(\d{1,3})$')
 RE_SECAO = re.compile(r'^quest[õo]es\s+de\s+0*(\d{1,3})\s+a\s+0*(\d{1,3})(?:\s*\(op[çc][ãa]o\s*:?\s*(\w+)\))?\s*$', re.I)
 RE_TITULO_AREA = re.compile(r'TECNOLOGIAS|^CI[ÊE]NCIAS|^MATEM[ÁA]TICA|^LINGUAGENS')
-RE_APOIO = re.compile(r'quest[õo]es\s+(?:de\s+)?(?:n[úu]meros?\s+|n[ºo]s?\.?\s*)?0*(\d{1,3})(?:\s*,\s*0*\d{1,3})*\s*(?:a|e|até|ao)\s+0*(\d{1,3})', re.I)
+# também em inglês: "to answer questions 34 and 35" (Famema 2025, Prova II)
+RE_APOIO = re.compile(r'(?:quest[õo]es|questions)\s+(?:de\s+|from\s+)?(?:n[úu]meros?\s+|n[ºo]s?\.?\s*)?0*(\d{1,3})(?:\s*,\s*0*\d{1,3})*\s*(?:a|e|até|ao|and|to)\s+0*(\d{1,3})', re.I)
 # texto de apoio de uma questão só: "...para responder à questão 01" (Unesp 2019, questão 1)
 RE_APOIO_UNICA = re.compile(r'para\s+responder\s+(?:à|a)\s+quest[ãa]o\s+(?:n[ºo]\.?\s*)?0*(\d{1,3})\b', re.I)
-RE_APOIO_VERBO = re.compile(r'respond|leia|considere|examine|analise|observe|refere|texto|utilize|base|focaliz|instru[çc][ãa]o|imagem|figura', re.I)
+RE_APOIO_VERBO = re.compile(r'respond|leia|considere|examine|analise|observe|refere|texto|utilize|base|focaliz|instru[çc][ãa]o|imagem|figura|gr[áa]fico|charge|tabela|quadro|\bread\b|answer', re.I)
 RE_REDACAO = re.compile(r'^(proposta de )?reda[çc][ãa]o$|^instru[çc][õo]es para a reda[çc][ãa]o', re.I)
 RE_FIM = re.compile(r'^(classifica[çc][ãa]o peri[óo]dica|formul[áa]rio de f[íi]sica|n[ãa]o assine esta folha|folha de rascunho|rascunho da reda[çc][ãa]o|transcreva a sua reda[çc][ãa]o|rascunho$)', re.I)
 RE_CAIXA = re.compile(r'^resolu[çc][ãa]o( e resposta)?$', re.I)
@@ -60,7 +61,8 @@ def linhas_da_pagina(pag):
         for ln in bloco.get('lines', []):
             if abs(ln['dir'][1]) > 0.1:
                 continue
-            texto = re.sub(r'\s+', ' ', ''.join(s['text'] for s in ln['spans'])).strip()
+            # hífen invisível (U+00AD) quebra palavras como "q­uestions" e esconde a instrução de apoio
+            texto = re.sub(r'\s+', ' ', ''.join(s['text'] for s in ln['spans']).replace('\xad', '')).strip()
             if not texto:
                 continue
             x0, y0, x1, y1 = ln['bbox']
@@ -150,8 +152,26 @@ def segmentos_em_colunas(p, esq, divisa, dir_):
         dentro = lambda y0, y1: a <= (y0 + y1) / 2 < b
         textos = sum(1 for ln in cruzam if dentro(ln['y0'], ln['y1']))
         figuras = sum(1 for c in graficos if dentro(c.y0, c.y1))
-        na_direita = [ln for ln in p.corpo if ln['x0'] >= divisa - 5 and dentro(ln['y0'], ln['y1'])]
-        if any(inicio_bruto(ln) for ln in na_direita):
+        # texto da metade direita que ocupa a faixa, mesmo que o meio da linha caia logo depois dela, com
+        # a mesma folga de 12 pt da atribuição de coluna (Famema 2024, p. 37: alternativas da coluna direita
+        # começando antes da divisa), exceto pedaços que continuam uma linha da esquerda
+        continua = lambda ln: any(o is not ln and abs(o['y0'] - ln['y0']) < 3 and o['x0'] < ln['x0'] - 40
+                                  and ln['x0'] - 8 <= o['x1'] <= ln['x0'] + 2 for o in p.corpo)
+        # rótulos dentro de uma figura que cruza a divisa (mapa, esquema) não são coluna direita (ENEM 2014/26)
+        na_figura = lambda ln: any(c.x0 - 2 <= ln['x0'] and ln['x1'] <= c.x1 + 2 and c.y0 - 2 <= ln['y0']
+                                   and ln['y1'] <= c.y1 + 2 and c.height >= 60 for c in graficos)
+        na_direita = [ln for ln in p.corpo if ln['y0'] < b - 2 and ln['y1'] > a + 2 and not na_figura(ln)
+                      and (ln['x0'] >= divisa - 5 or (ln['x0'] >= divisa - 12 and not continua(ln)))]
+        # tabela de largura inteira: muitas células curtas, quase todas números, em linhas que se
+        # alinham dos dois lados da divisa (Santa Casa 2026, p. 10: tráfico de escravizados por região)
+        celulas = [ln for ln in p.corpo if ln['y0'] < b - 2 and ln['y1'] > a + 2]
+        numericas = [ln for ln in celulas if re.fullmatch(r'[\d\s.,%–-]+', ln['texto'])]
+        linhas_dos_dois_lados = {round(ln['y0']) for ln in numericas if ln['x1'] < divisa} & \
+            {round(ln['y0']) for ln in numericas if ln['x0'] > divisa}
+        tabela = len(celulas) >= 20 and len(numericas) >= 0.6 * len(celulas) and len(linhas_dos_dois_lados) >= 5
+        if tabela:
+            inteira = True
+        elif any(inicio_bruto(ln) for ln in na_direita):
             inteira = False  # marcador de questão na metade direita só existe em duas colunas
         elif textos >= 2:
             inteira = True
@@ -275,8 +295,28 @@ def preparar(doc):
         # 'col' é a posição do trecho na ordem de leitura da página
         for ln in p.corpo:
             meio = (ln['y0'] + ln['y1']) / 2
-            candidatos = [i for i, sg in enumerate(p.segs) if sg['y0'] - 2 <= meio <= sg['y1'] + 2] or [0]
-            ln['col'] = next((i for i in reversed(candidatos) if ln['x0'] >= p.segs[i]['x0'] - 2), candidatos[0])
+            # a faixa que contém o meio da linha; a folga de 2 pt só vale se nenhuma contém (uma linha alta
+            # bem na divisa entre faixas ia parar na faixa de baixo: ENEM 2023, questão 48)
+            candidatos = [i for i, sg in enumerate(p.segs) if sg['y0'] <= meio < sg['y1']] \
+                or [i for i, sg in enumerate(p.segs) if sg['y0'] - 2 <= meio <= sg['y1'] + 2] or [0]
+            # folga de 12 pt: num arquivo que junta prova de página inteira e prova em colunas, a divisa
+            # calculada pode cair alguns pontos à direita do início real da coluna (Famema 2024); pedaços
+            # curtos de linha da coluna esquerda perto da divisa (vírgula, letra solta) continuam nela
+            continua_esquerda = any(o is not ln and abs(o['y0'] - ln['y0']) < 3 and o['x0'] < ln['x0'] - 40
+                                    and ln['x0'] - 8 <= o['x1'] <= ln['x0'] + 2 for o in p.corpo)
+            folga = 2 if continua_esquerda else 12
+            ln['col'] = next((i for i in reversed(candidatos) if ln['x0'] >= p.segs[i]['x0'] - folga), candidatos[0])
+        # a faixa começa no início real das linhas que recebeu (com a folga acima, a coluna direita pode
+        # ter texto alguns pontos antes da divisa calculada; sem isso o recorte cortava letras)
+        # (só se a nova borda não cortar uma linha de outra coluna: em colunas coladas, como Unifesp 2003
+        # e ENEM 2011, o fim das linhas da esquerda passa da divisa e o recorte mostraria lascas dela)
+        for i, sg in enumerate(p.segs):
+            inicio = min((ln['x0'] for ln in p.corpo if ln['col'] == i), default=sg['x0'])
+            novo = inicio - 3
+            vizinhas = [ln for ln in p.corpo if ln['col'] != i and ln['y1'] > sg['y0'] and ln['y0'] < sg['y1']
+                        and ln['x0'] < novo < ln['x1']]
+            if novo < sg['x0'] and not vizinhas:
+                sg['x0'] = novo
         p.corpo.sort(key=lambda ln: (ln['col'], ln['y0'], ln['x0']))
     return paginas, em_colunas
 
@@ -291,11 +331,15 @@ def achar_inicios(paginas):
         tem_questao = any(eh_marca(ln) for ln in p.corpo)
         texto_pagina = ' '.join(ln['texto'] for ln in p.corpo)
         # página em branco ou de rascunho encerra o que vinha antes (uma questão de enunciado curto não é "vazia")
+        # capa ou folha de instruções (a página 2 pode já ser texto de apoio: Unesp 2026, 1ª fase)
+        capa = bool(re.search(r'(?i)confira seus dados|esta prova cont[ée]m|nome do candidato|instru[çc][õo]es', texto_pagina))
         vazia = not tem_questao and (len(texto_pagina) < 40 or (len(texto_pagina) < 130 and p.imagens == 0))
         # formulário de Física e Matemática no fim do caderno, sem título em texto (Unifesp 2004 e 2005)
         formulario = not tem_questao and len(p.corpo) >= 10 and sum('=' in ln['texto'] for ln in p.corpo) >= 0.4 * len(p.corpo)
         vazia = vazia or formulario
-        if vazia or any(RE_FIM.match(ln['texto']) for ln in p.corpo):
+        # a tabela periódica no fim do caderno encerra a prova; numa página com questão ela é parte do
+        # enunciado (Unesp 2025/2, 1ª fase, questões 67 a 69)
+        if vazia or (not tem_questao and any(RE_FIM.match(ln['texto']) for ln in p.corpo)):
             inicios.append({'tipo': 'fim', 'pag': p.numero, 'col': 0, 'y': p.topo, 'parte': parte})
             continue
 
@@ -356,7 +400,7 @@ def achar_inicios(paginas):
                                 break
                             y = ant['y0']
                         ini = {'tipo': 'apoio', 'de': de, 'ate': ate, 'y': y - 3}
-            if ini and ini['tipo'] != 'questao' and p.numero <= 2 and not tem_questao \
+            if ini and ini['tipo'] != 'questao' and p.numero <= 2 and not tem_questao and capa \
                     and not (ini['tipo'] == 'apoio' and ini['de'] == ini['ate']) \
                     and not (ini['tipo'] == 'redacao' and p.numero == 2):  # ENEM até 2016: proposta na p. 2
                 continue  # capa e instruções citam "questões de 01 a 05" sem ser texto de apoio
@@ -433,6 +477,50 @@ def recortes_do_bloco(paginas, ini, fim):
     return recortes, texto.strip()
 
 
+def ate_o_fim_do_texto(doc, recortes):
+    """Cadernos de uma questão por página (sem colunas): a borda direita vai até o fim do texto da faixa.
+    A margem calculada pelo lado da página às vezes fica antes dele (Unesp 2011/2, páginas com a tarja
+    "Questão N" à direita: recorte até 487, texto até 533)."""
+    saida = []
+    for p, x0, y0, x1, y1 in recortes:
+        ws = [w for w in doc[p - 1].get_text('words') if y0 <= w[1] and w[3] <= y1 + 1 and w[2] > x0]
+        fim = max((w[2] for w in ws), default=x1)
+        saida.append([p, x0, y0, round(min(fim + 4, doc[p - 1].rect.width), 1), y1] if fim > x1 + 1 else [p, x0, y0, x1, y1])
+    return saida
+
+
+def sem_corte_a_direita(doc, recortes):
+    """Estende a borda direita até o fim das palavras que começam dentro do recorte e passam dela (até
+    40 pt), desde que a faixa acrescentada não tenha texto que não seja dessas linhas — senão seria a
+    outra coluna. Caso típico: tarja da questão mais estreita que o texto (Unesp 2025, Linguagens)."""
+    saida = []
+    for r in recortes:
+        p, x0, y0, x1, y1 = r
+        palavras = doc[p - 1].get_text('words')
+        passam = [w for w in palavras if y0 <= w[1] and w[3] <= y1 + 1 and x0 - 1 <= w[0] < x1 - 2 and w[2] > x1 + 1]
+        if not passam:
+            saida.append(r)
+            continue
+        novo = min(max(w[2] for w in passam) + 2, x1 + 40, doc[p - 1].rect.width)
+        intrusas = [w for w in palavras if y0 <= w[1] and w[3] <= y1 + 1 and w[0] >= x1 - 2 and w[0] < novo]
+        saida.append([p, x0, y0, round(novo, 1), y1] if not intrusas else r)
+    return saida
+
+
+def sem_corte_embaixo(doc, recortes):
+    """Desce a borda de baixo até o fim das palavras que começam dentro do recorte e passam dela
+    (base da alternativa E, descendentes): o limite entre faixas às vezes fica 1–4 pt acima do pé
+    da última linha. No máximo 10 pt, para não pegar a linha seguinte."""
+    saida = []
+    for p, x0, y0, x1, y1 in recortes:
+        fundo = y1
+        for w in doc[p - 1].get_text('words'):
+            if w[0] >= x0 - 1 and w[2] <= x1 + 1 and y0 < w[1] < y1 - 1 and y1 < w[3] <= y1 + 10:
+                fundo = max(fundo, w[3] + 0.5)
+        saida.append([p, x0, y0, x1, round(fundo, 1)] if fundo != y1 else [p, x0, y0, x1, y1])
+    return saida
+
+
 def extrair(caminho):
     doc = fitz.open(caminho)
     paginas, em_colunas = preparar(doc)
@@ -449,6 +537,7 @@ def extrair(caminho):
             continue
         fim = inicios[i + 1] if i + 1 < len(inicios) else None
         recortes, texto = recortes_do_bloco(paginas, ini, fim)
+        recortes = sem_corte_embaixo(doc, sem_corte_a_direita(doc, recortes) if em_colunas else ate_o_fim_do_texto(doc, recortes))
         if not recortes:
             avisos.append(f"{ini['tipo']} sem conteúdo na página {ini['pag']}")
             continue

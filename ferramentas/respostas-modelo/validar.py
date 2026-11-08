@@ -55,6 +55,13 @@ def conferir(lote, entregue):
             problemas.append(f'falta pendência em {rotulo}')
         if '\\frac' in texto or '$$' in texto or '\\(' in texto or re.search(r'\$[^$\n]+\$', texto):
             problemas.append(f'latex em {rotulo}')
+        if m.get('gabarito'):  # objetiva: termina com a letra do gabarito
+            final = re.findall(r'\*\*Resposta: ([A-E])\*\*\s*$', texto)
+            if not final:
+                problemas.append(f'falta a linha **Resposta: X** em {rotulo}')
+            elif final[0] != m['gabarito']:
+                problemas.append(f'resposta final {final[0]} ≠ gabarito {m["gabarito"]} em {rotulo}')
+            continue
         pedidos = itens_pedidos(m['texto_extraido'])
         if len(pedidos) >= 2:
             faltam = [l for l in pedidos if f'**{l})**' not in texto]

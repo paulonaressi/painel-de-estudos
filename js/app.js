@@ -1013,7 +1013,16 @@
     // para a estudante escrever a dela antes de comparar.
     const modelo = !ehRedacao && cad && cad.local ? modeloDaQuestao(cad.local, v.questao) : null;
     let blocoModelo = null;
-    if (modelo && reg.modelo) {
+    if (modelo && gabarito) {
+      // objetiva: a resolução comentada só aparece depois de conferir a resposta
+      blocoModelo = reg.conf
+        ? h('div.resolucao', null,
+            h('div.resolucao-texto', { html: md(modelo.resposta) }),
+            modelo.confianca !== 'alta' && modelo.pendencia
+              ? h('p.resolucao-alerta', null, h('b', null, modelo.confianca === 'baixa' ? 'Atenção. ' : 'Questão discutível. '), modelo.pendencia) : null,
+            h('p.nota-rodape', null, 'Resolução gerada por IA a partir do caderno e do gabarito do Curso Objetivo (não oficial), sem revisão humana. Pode conter erros.'))
+        : h('p.nota-rodape', { style: 'margin:0 0 12px' }, 'A resolução comentada aparece depois que você conferir a resposta.');
+    } else if (modelo && reg.modelo) {
       blocoModelo = h('div.resolucao', null,
         h('div.resolucao-texto', { html: md(modelo.resposta) }),
         modelo.confianca !== 'alta' && modelo.pendencia
@@ -1027,7 +1036,7 @@
     }
 
     const cartaoResolucao = h('div.card', null,
-      h('h2', null, 'Resolução', modelo ? h('span.tag.accent', null, 'resposta-modelo') : null),
+      h('h2', null, 'Resolução', modelo ? h('span.tag.accent', null, gabarito ? 'comentada' : 'resposta-modelo') : null),
       blocoModelo,
       oficiais.length || resolucoes.length
         ? h('ul.links', null, oficiais.map(i => link(i, 'resposta oficial')), resolucoes.map(i => link(i, 'resolução comentada')))

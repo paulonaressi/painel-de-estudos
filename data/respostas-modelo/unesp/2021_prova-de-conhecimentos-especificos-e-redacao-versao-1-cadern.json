@@ -1,0 +1,177 @@
+{
+ "indice": "data/questoes/unesp/2021_prova-de-conhecimentos-especificos-e-redacao-versao-1-cadern.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Conceito: metalinguagem (a linguagem falando de si mesma).\n\nNa tira, o palestrante afirma que a bebida destrói casamentos; diante da pergunta se ela nunca faz coisas boas, ele responde mandando ler o primeiro quadrinho. Ou seja, a fala do personagem se refere à própria tira, à estrutura de quadrinhos em que ele está. Esse uso do código para falar do próprio código (a história em quadrinhos comentando seus quadrinhos) é a metalinguagem, e é daí que vem a graça: a resposta sugere, com ironia, que destruir casamentos seria uma \"coisa boa\".\n\nNão há pleonasmo nem redundância (nada é repetido sem necessidade), nem eufemismo (nada é suavizado); a intertextualidade exigiria referência a outro texto, e a referência é à própria tira.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Conceito: caracterização do narrador pela ironia machadiana.\n\nO narrador alforria Pancrácio só às vésperas da Lei Áurea, quando a libertação já era inevitável, e transforma o gesto num banquete com discursos sobre Cristo e a liberdade. Depois, mantém o rapaz trabalhando por um ordenado mínimo, dá-lhe petelecos e pontapés e o xinga — trata-o como escravo. Por fim revela o objetivo: usar o episódio como propaganda para se eleger deputado.\n\nHá, portanto, um abismo entre o discurso generoso e a prática interesseira e violenta: é a hipocrisia. Ele não é altruísta nem devoto (a religião é só retórica); \"visionário\" é justamente o que ele finge ser, já que só \"profetiza\" depois do fato.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Conceito: ironia e interpretação de expressões.\n\nAs notas explicam que après coup e post facto significam \"a posteriori\" e \"após o fato\"; \"depois do gato morto\" reforça a mesma ideia. Um profeta \"depois do fato\" é alguém que só prevê o que já aconteceu — o que é uma contradição, já que profecia é anunciar o futuro.\n\nAssim, o narrador se apresenta, com ironia, como profeta de acontecimentos já consumados. É o que ele faz na crônica: \"prevê\" a abolição e liberta o escravo quando a lei já estava sendo votada. As outras alternativas não correspondem ao sentido das expressões: os fatos não são enigmáticos, contestáveis, imaginários nem simplesmente cotidianos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Conceito: valor semântico das orações subordinadas adverbiais.\n\nA primeira oração sublinhada começa com \"conquanto\", conjunção concessiva (equivale a \"embora\"): o narrador reuniu só umas cinco pessoas, embora os jornais tenham falado em trinta e três. É um fato contrário que não impede o principal — concessão.\n\nA segunda, \"no intuito de lhe dar um aspecto simbólico\", indica o objetivo da ação (\"com a intenção de\", \"para\") — finalidade. O número trinta e três foi divulgado para associar o jantar à idade de Cristo.\n\nA confusão comum é tomar \"conquanto\" por condição (como \"contanto que\"), mas são conjunções diferentes.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Conceito: elipse (zeugma) — omissão de um termo já expresso.\n\nNo trecho do 13º parágrafo, a primeira oração diz que Pancrácio continuava livre; na seguinte, \"eu de mau humor\", o verbo \"continuava\" não é repetido, mas fica subentendido: eu [continuava] de mau humor. Esse apagamento de um verbo já mencionado, para evitar repetição, é a elipse do tipo zeugma.\n\nNas outras alternativas todos os verbos aparecem: \"entrou\" e \"veio\" (A), \"ouvi\", \"fiz\", \"entreguei\" (B), \"eras\" e \"estás\" (C) e, em (D), \"aceitou\" é repetido de propósito, como reforço, e não omitido.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Conceito: interpretação de poema (a ausência ressignificada).\n\nO eu lírico conta uma mudança de visão: antes achava que ausência era falta e lamentava; agora afirma que ausência não é falta, mas \"um estar em mim\". Ele a sente aconchegada nos braços, assimilada, a ponto de que ninguém mais pode tirá-la dele. A ausência passa, então, a fazer parte do próprio sujeito — foi incorporada e virou algo que o constitui, e por isso ele até se alegra.\n\nAs alternativas (B) e (E) invertem o movimento do poema, que é justamente separar ausência de falta; (C) e (D) tratam falta e ausência como equivalentes, o que o poema nega.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Conceito: referência dos pronomes oblíquos átonos.\n\nHá três pronomes oblíquos \"a\" (o \"a\" de \"a falta\", no segundo verso, é artigo, não pronome):\n\n1. \"Hoje não a lastimo\": retoma o que ele lastimava no verso anterior, a falta.\n2. \"sinto-a, branca\": retoma o sujeito do verso anterior, \"A ausência é um estar em mim\" — a ausência.\n3. \"ninguém a rouba mais de mim\": retoma \"essa ausência assimilada\", do verso anterior — a ausência.\n\nA sequência é falta, ausência, ausência. Quem conta o artigo de \"a falta\" como pronome chega a sequências erradas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Conceito: derivação imprópria (mudança de classe sem mudança de forma).\n\nEm \"A ausência é um estar em mim\", o verbo \"estar\" vem precedido do artigo \"um\" e passa a funcionar como substantivo (\"um estar\" = um modo de estar, uma presença). A palavra é a mesma, mas mudou de classe gramatical: verbo → substantivo. Isso é derivação imprópria.\n\nNos outros versos as palavras mantêm suas classes habituais: \"lastimo\", \"rio\", \"danço\", \"invento\" e \"rouba\" são verbos usados como verbos, e \"ausência\" e \"falta\" já são substantivos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Conceito: Romantismo brasileiro e projeto de literatura nacional.\n\nO comentário fala de um autor cuja obra fixou no imaginário nacional \"as mocinhas, os índios, as florestas\" e cuja prosa \"brasileirizante\" ainda inspira, tendo continuidades até no Modernismo. Essa descrição corresponde a José de Alencar, romancista central do Romantismo, autor dos romances indianistas (O Guarani, Iracema, Ubirajara), dos urbanos com heroínas como Senhora e Lucíola e de um projeto declarado de língua literária brasileira — que os modernistas retomaram (Iracema ecoa em Macunaíma).\n\nRaul Pompeia e Aluísio Azevedo são realistas/naturalistas; Manuel Antônio de Almeida escreveu um único romance de costumes; Tomás Antônio Gonzaga é poeta árcade.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Conceito: humanismo renascentista e livre-arbítrio.\n\nSegundo o texto, para Pico della Mirandola fomos criados livres e com o poder de escolher o que desejamos ser; diferentemente dos outros seres, o homem constrói a própria face e pode subir aos caminhos mais elevados ou degenerar até as bestas. Ele é um ser \"autoconstruído\", responsável por seus sucessos e fracassos. É exatamente a ideia de autodeterminação como traço que define o humano.\n\nAs demais alternativas trazem ideias do próprio autor do ensaio sobre o século XX (barbárie, massacres) ou distorcem Pico: ele não diz que o livre-arbítrio é ilusório nem que os homens se acostumaram a ser bestas — degenerar é só uma possibilidade.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Conceito: sentido figurado (linguagem conotativa) dos adjetivos.\n\nEm \"lado escuro\", o adjetivo não se refere à ausência de luz: o real teria um lado sombrio, perigoso, ligado às trevas e à barbárie que o texto desenvolve em seguida. É um uso metafórico, figurado.\n\nNas outras expressões o adjetivo tem sentido literal: \"sociedades modernas\" (da época moderna), \"escala industrial\" (em grande quantidade, como na indústria — o sentido técnico usual), \"famosa asserção\" (conhecida) e \"forças transcendentes\" (que estão além do humano, sentido filosófico próprio do termo).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Conceito: dêixis (palavras cujo sentido depende do momento ou lugar da enunciação).\n\nNo trecho do 3º parágrafo, a expressão \"a partir de agora\" só pode ser interpretada se soubermos em que momento o enunciador fala: \"agora\" aponta para o tempo de quem escreve/fala, assim como \"hoje\" e \"aqui\" no exemplo do enunciado. É, portanto, um dêitico temporal.\n\nNas outras alternativas as referências de tempo e lugar são fixas e independem de quem fala: \"o século XX\", \"desde a era do Barroco\", \"as sociedades modernas\" e expressões genéricas sobre o homem e a liberdade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Conceito: ideia principal de um texto (em inglês).\n\nO título já dá a chave: \"culture is language\" e por que uma língua indígena está prosperando (\"thriving\") no Paraguai. O texto explica que, enquanto outras línguas nativas das Américas caminham para a extinção, o guarani paraguaio é falado por 70% da população, inclusive por não indígenas; apresenta as razões de sua sobrevivência e termina com a ideia de que a cultura se transmite pela língua. O foco é, então, a força do guarani e sua importância para a identidade cultural.\n\nA alternativa (B) contradiz o texto, pois o guarani não está ameaçado; (A) é ampla demais; conflitos (C) e chefes indígenas (E) são apenas detalhes.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Conceito: compreensão de detalhe em texto em inglês.\n\nNo segundo parágrafo o texto contrapõe o guarani às outras línguas nativas: na América, as línguas coloniais empurram as nativas para a extinção, mas o guarani continua sendo uma das principais línguas de 70% da população; e, diferentemente (\"unlike\") de outras muito faladas, como quéchua, aimará e as maias, ele é falado majoritariamente por não indígenas. Isso faz o guarani se destacar em relação às demais línguas nativas da região.\n\nO texto não diz que ele vai substituir o espanhol (A), nem que absorve o quéchua (B); o aimará é citado como contraste, não como semelhante (C); e o guarani não está sendo levado à extinção (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Conceito: conectivos em inglês.\n\n\"Unlike\" significa \"diferentemente de\", \"ao contrário de\". No trecho, ele opõe o guarani às outras línguas nativas muito faladas (quéchua, aimará, maias): ao contrário delas, o guarani é falado majoritariamente por não indígenas. A palavra marca, portanto, uma oposição, um contraste.\n\nA armadilha é o prefixo: \"like\" sozinho indica semelhança (\"como\"), o que levaria à alternativa \"equivalência\"; o prefixo \"un-\" inverte esse sentido.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Conceito: compreensão de detalhe em texto em inglês.\n\nNo terceiro parágrafo, o linguista Miguel Verón diz que o guarani sobreviveu em parte por causa do isolamento geográfico do país, descrito como \"landlocked\" — sem saída para o mar —, e em parte pela \"lealdade linguística\" do povo. A alternativa que reproduz o primeiro motivo é a do isolamento geográfico.\n\nO texto diz que os indígenas se recusaram (\"refused\") a aprender espanhol — não que tinham dificuldade (B); quem teve de aprender guarani foram os governadores imperiais, sem menção a controlar empregados (C); a imposição da língua espanhola não teve sucesso (D); e nada se fala sobre estrutura simples da língua (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Conceito: compreensão de um período com contraste (\"while\") em inglês.\n\nO trecho diz que, embora o guarani paraguaio continue sob pressão do espanhol, ele próprio faz parte da ameaça (\"part of the threat looming\") que paira sobre as outras línguas indígenas do país. Ou seja, assim como o espanhol pressiona o guarani, o guarani pressiona as outras 19 línguas indígenas, cujos falantes podem trocá-las pelo guarani — o texto lembra que seis delas estão gravemente ameaçadas.\n\nO trecho não fala em desaparecimento do próprio guarani (B), nem em ele superar o espanhol (C) ou se transformar (E); a ideia de 19 comunidades multilíngues (A) não está no texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Conceito: leitura cruzada de texto, mapa e legendas.\n\nDas nove línguas do mapa, três são do Brasil: Apiaka (norte de Mato Grosso), Diahoi (sul do Amazonas) e Kaixana (Amazonas). Nenhum outro país tem mais de uma, então o Brasil é o país que concentra o maior número delas, e duas das três ficam no Amazonas, região Norte (a terceira está no norte de Mato Grosso, perto da Amazônia).\n\nAs outras alternativas contradizem o texto: as 18 línguas tinham ainda um falante, não estavam extintas (A); não se fala em recuperação pela ONU (B); os registros vão de 1986 a 2008, não há \"três décadas\" de extinção (C); e a migração para cidades não é mencionada (D).\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "O Brasil tem 3 das 9 línguas do mapa — o maior número entre os países, mas não a maioria absoluta; a alternativa só vale lendo \"maioria\" como \"maior número\"."
+  },
+  "0:19": {
+   "resposta": "Conceito: humor e inferência em tira (inglês).\n\nCalvin se recusa a entrar na banheira dizendo que a água está fervendo. A mãe responde que, quando ele parar de reclamar, gritar e finalmente tirar a roupa e entrar, a água estará perfeita — ou seja, que a enrolação dele vai demorar tanto que a água esfriará. No último quadrinho, Calvin já está dentro da banheira e comenta \"Boy, does she know me\" (\"Nossa, como ela me conhece\"). Ele reconhece que a mãe acertou: demorou e a água ficou boa.\n\nEle não demonstra medo (A), nem reclama do calor (B); e não há indício de que entrou contrariado (E) ou de que não quer sair (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Conceito: expressões idiomáticas (inglês).\n\n\"Laugh your head off\" significa rir muito, sem parar — o equivalente em português é \"morrer de rir\". As duas expressões são exageros (hipérboles): ninguém perde a cabeça nem morre de verdade. A graça da tira está aí: a personagem anuncia a expressão e, em seguida, se assusta e percebe que aquilo foi \"linguagem figurada\".\n\n\"Sorrir amarelo\" é sorrir sem graça; \"perder a cabeça\" é descontrolar-se — a tradução literal engana; \"contar uma piada\" e \"ficar feliz da vida\" não têm o sentido de rir muito.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Conceito: mentalidade medieval diante da doença.\n\nO texto de Le Goff mostra que os leprosos eram isolados em hospitais próprios e obrigados a anunciar sua presença com a matraca: além do medo do contágio, do sofrimento e da morte, havia exclusão social. Na Idade Média, a doença era frequentemente lida como sinal do pecado e do castigo divino, o que reforçava o preconceito contra os doentes.\n\nAs outras alternativas têm erros históricos: a lepra não era tida como facilmente curável nem transmitida só por via sexual (A); a Igreja não detinha uma cura mágica escondida (B); a peste negra, transmitida pelas pulgas dos ratos, atingiu duramente as cidades, não principalmente o campo (D); e não há relação com uma disenteria \"originária da América\" (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Conceito: crítica documental na historiografia.\n\nO texto 1 afirma que nenhum documento permite dizer que Cabral saiu de Lisboa com o propósito de descobrir terras: a intencionalidade não tem fundamento nas fontes (Caminha, Mestre João, o piloto anônimo). O texto 2 lembra que outros podem ter chegado antes, mas não há registro consistente. Os dois autores, então, apontam o limite das fontes: elas não bastam para afirmar com certeza os objetivos da expedição nem garantir que ela foi a primeira.\n\nAs alternativas (A) e (E) atribuem às fontes um alcance que os textos negam; (C) acusa os narradores de desinteresse pela verdade, o que não é dito; (D) fala em pioneirismo inglês, sem relação com os textos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Conceito: anacronismo e formação do Estado nacional.\n\nEm 1500 não havia \"Brasil\" nem \"brasileiros\" porque essas categorias pressupõem uma nação e uma identidade nacional, que só se constituíram muito depois. A terra era uma colônia portuguesa e seus habitantes eram indígenas de diversos povos e, depois, colonos; a ideia de nacionalidade brasileira só se afirmou com o fim da condição colonial e a independência política (1822) e o esforço posterior de construção da nação.\n\nAs alternativas (A) e (D) supõem uma cidadania e uma nacionalidade que nem existiam; (B) é falsa, pois os portugueses sabiam ter chegado a terra nova; (C) apresenta a miscigenação como marco jurídico da nacionalidade, o que não é o argumento.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Conceito: quilombos no Brasil colonial.\n\nO texto de Schwarcz e Starling destaca a ambiguidade do quilombo: era uma alternativa à ordem escravista, combatida pelas autoridades, mas ao mesmo tempo fazia parte da sociedade colonial, mantendo comércio com vizinhos, redes de informação e laços afetivos com moradores das cidades e fazendas. Ou seja, o quilombo nasceu da escravidão e manteve conexões regulares com o entorno.\n\nO texto contradiz o \"completo isolamento\" (D) e a tolerância das autoridades (B), que precisavam combatê-lo. Não há menção a fuga para países sem escravidão (A) nem a chefes que reproduziam a escravidão internamente (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Conceito: panóptico, Iluminismo e sociedade disciplinar (Foucault).\n\nO panóptico de Bentham, do fim do século XVIII, propõe vigiar muitos indivíduos a partir de uma torre central com eficiência máxima e custo mínimo, por meio de uma visibilidade organizada. É um projeto racional, típico do pensamento ilustrado e utilitarista, que trata cada pessoa como indivíduo isolado em sua cela, observável e controlável. Hoje essa lógica de vigilância contínua reaparece, por exemplo, nas câmeras de segurança que monitoram o cotidiano.\n\nO panóptico não vem do socialismo (B), das sociedades orientais (C) nem da democratização (E); e Foucault liga essa forma de poder às mudanças econômicas do século XVIII, não ao absolutismo monárquico (D).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Conceito: Revoluções Inglesas (Puritana e Gloriosa) como revoluções burguesas.\n\nNo século XVII, a Revolução Puritana (1640–1649) e a Gloriosa (1688–1689) limitaram o poder dos reis e fortaleceram o Parlamento, onde a burguesia mercantil e a gentry tinham força. Com a Declaração de Direitos (Bill of Rights) e medidas como os Atos de Navegação, ampliaram-se a participação política e as oportunidades comerciais desses grupos, abrindo caminho para o capitalismo inglês.\n\nA nobreza não foi excluída da política nem houve separação entre Estado e Igreja (A); a república de Cromwell foi passageira e a monarquia foi restaurada (C); não houve legislação trabalhista (D); e a alternativa (E) contradiz a ampliação do poder parlamentar.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Conceito: ideologia nazista e culto da guerra.\n\nO texto mostra que os nazistas retomaram os clichês nacionalistas de exaltação da guerra, do sacrifício e do heroísmo, vendo o conflito como decisão suprema da qual dependia tudo. Na ideologia nazista, a guerra organizava o mundo: definia quem era superior e quem devia ser dominado, e as glórias militares alemãs do passado eram exaltadas para mobilizar a nação.\n\nA alternativa (A) usa uma ideia de Rousseau (o \"bom selvagem\"), contrária ao nazismo; (B) erra ao associar os nazistas a valores socialistas, que eles combatiam; (C) erra a história, pois a Alemanha venceu a guerra franco-prussiana e não ocupou com sucesso a União Soviética; (E) não corresponde ao texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "Conceito: AI-5 (1968) e endurecimento da ditadura militar.\n\nNa charge, o elefante adverte as cobras de que a situação está ficando pesada para elas; uma cobra responde que ela não é cobra e outra manda que ela prove isso a \"eles\". O AI-5 suspendeu o habeas corpus para crimes políticos, permitiu fechar o Congresso, cassar mandatos e censurar: qualquer pessoa podia ser tratada como suspeita e precisava provar sua inocência a um poder que não prestava contas. A charge mostra o medo geral e a perda de garantias diante de um regime afastado da sociedade.\n\nAs instituições não eram sólidas (B); a charge não fala de alienação (A), não elogia o esforço militar (C) nem trata de grupos sociais fortes contra setores populares (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Conceito: espaço de consumo e lógica capitalista (geografia urbana).\n\nO texto afirma que os espaços de consumo (shoppings, lojas, centros comerciais) \"refletem luzes\" que, embora não ceguem, nos impedem de ver o que realmente se passa: são lugares planejados para seduzir. Por trás disso estão a intenção de ampliar o consumo e, assim, garantir a circulação de mercadorias e a reprodução do capital, com estratégias de marketing, arquitetura e organização do espaço que orientam o comportamento do consumidor e controlam o mercado.\n\nAs alternativas (B) e (E) tratam de produção industrial e comércio exterior, fora do tema; (C) e (D) falam em redistribuição de renda e função social da propriedade, ideias que não aparecem no excerto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Conceito: meio técnico-científico-informacional e reorganização do território.\n\nMilton Santos mostra que as telecomunicações permitiram a \"separação material das atividades e unificação organizacional dos comandos\": a produção pode ficar longe, mas a gestão continua concentrada. No Brasil, isso permitiu a desconcentração industrial a partir de São Paulo, com fábricas indo para o interior e outros estados, enquanto as sedes de empresas, bancos e serviços estratégicos permaneceram na metrópole paulista.\n\nA alternativa (E) erra ao falar em rompimento do meio técnico-científico-informacional — as telecomunicações o consolidam; (C) supõe uniformização dos espaços, quando o texto fala em novos recortes desiguais; (A) e (B) não tratam do tema do excerto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Conceito: crescimento populacional vertical e horizontal.\n\nEm demografia, o crescimento vertical (natural ou vegetativo) é a diferença entre nascimentos e óbitos; o crescimento horizontal é o resultado das migrações, isto é, o saldo entre imigrantes e emigrantes. Na formação da população brasileira, ele foi importante pela entrada de portugueses ao longo da colonização e, nos séculos XIX e XX, de italianos, espanhóis, alemães, japoneses e outros.\n\nAs alternativas (C), (D) e (E) tratam de fatores do crescimento vegetativo (natalidade, mortalidade, longevidade) — o crescimento vertical; (A) fala da população originária, sem relação com o conceito.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Conceito: classificação da vegetação brasileira do IBGE.\n\nNo Manual técnico da vegetação brasileira, cada formação é dividida em subgrupos fisionômicos. A Campinarana, vegetação de solos arenosos e pobres da Amazônia (bacia do rio Negro), é dividida justamente em Florestada, Arborizada, Arbustiva e Gramíneo-Lenhosa — os quatro tipos dos blocos-diagramas.\n\nA tentação é a Savana (Cerrado), que também tem Florestada, Arborizada e Gramíneo-Lenhosa, mas cujo outro subgrupo é \"Parque\", e não \"Arbustiva\". A Savana-Estépica (Caatinga) também usa \"Parque\". Restinga e pradaria não seguem essa divisão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Conceito: meteorologia e previsão do tempo.\n\nA previsão do tempo combina: o método sinótico (análise simultânea de dados de muitas estações, em cartas que mostram frentes, massas de ar e centros de pressão), o estatístico (séries históricas e probabilidades) e o físico ou numérico (equações da atmosfera resolvidas em computador). A precisão diminui conforme se aumenta o prazo: previsões para poucas horas ou dias são bem mais confiáveis que as de semanas.\n\nOs outros usos citados — planejamento urbano, plano diretor, modelagem do relevo e rotas de cabotagem — não dependem desse conjunto de métodos, típico da meteorologia.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Conceito: acordos ambientais internacionais.\n\nA Convenção de Basileia (1989) controla os movimentos transfronteiriços de resíduos perigosos e seu depósito; foi criada justamente para impedir que países ricos despejassem lixo tóxico em países pobres. A exportação ilegal de lixo descrita no texto a contraria.\n\nOs outros acordos tratam de temas diferentes: as Convenções de Genebra, de direito humanitário em guerras (B); o Protocolo de Cartagena, de biossegurança de organismos vivos modificados, não de resíduos (C); o Acordo de Paris, de emissões de gases de efeito estufa (D); e o Protocolo de Montreal, de substâncias que destroem a camada de ozônio (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

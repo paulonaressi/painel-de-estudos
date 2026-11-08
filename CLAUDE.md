@@ -335,6 +335,38 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
   UNILUS e outros; edições 2027 de Famerp e Famema (inscrições abertas em 06/11/2026), Unifesp
   2027 e Unesp 2027 (2ª fase ainda não aplicada).
 
+## TRABALHO EM ANDAMENTO (08/11/2026) — retomar aqui
+
+Resoluções comentadas das **objetivas da Vunesp**, ancoradas no gabarito do Curso Objetivo
+(`data/gabaritos/`). Autorizado pelo dono. Estado: 28 lotes de ~50 questões (1.393 no total); 9 lotes
+publicados (01, 02, 03, 05, 08, 09, 10, 12, 13 = 450 resoluções, commit seguinte a 8c68ada). Faltam
+os lotes 04, 06, 07, 11, 14 e 15 a 28.
+
+Como continuar (o material de trabalho fica em `trabalho/`, que não vai para o git):
+
+1. Se `trabalho/respostas-modelo/objetivas/lote-NN.json` não existir nesta máquina, gere de novo
+   (mesma divisão em lotes, pois a ordem do catálogo não mudou):
+   `python3 ferramentas/respostas-modelo/preparar.py UNIFESP,FAMEMA,UNESP,FICSAE:2000-2030 --objetivas --lote 50 --pasta objetivas`
+   (PyMuPDF: `pip3 install -r requirements.txt`).
+2. Para cada lote que falta, um agente em segundo plano com este pedido:
+   "Leia ferramentas/respostas-modelo/instrucoes-objetivas.md e siga à risca o roteiro entre as linhas
+   ---, com {LOTE} = lote-NN e {PASTA} = <caminho absoluto de trabalho/respostas-modelo/objetivas>.
+   Rascunhos só numa subpasta própria do scratchpad. Termine com o relatório final pedido."
+   Se existir um `respostas-lote-NN.json` parcial, diga ao agente para continuar dele. Rode vários
+   lotes em paralelo (10–14 de cada vez funcionou).
+3. Leia os relatórios: questões "baixa" (resolução não chegou ao gabarito) merecem um olhar na imagem.
+4. `python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/objetivas` até não haver
+   problemas; então `... --gravar` (ou `--gravar --parcial` para publicar só os lotes completos). O
+   gravar mescla com o que já está em `data/respostas-modelo/` (discursivas e lotes anteriores).
+5. Conferir no site uma objetiva com resolução: a resolução só aparece depois de "Conferir resposta"
+   (testar num navegador sem conta logada, para não gravar registro de teste no progresso da Kamila).
+6. Commit e push em `main` (o site republica em ~1 min); atualizar este arquivo: apagar esta seção e
+   registrar o resultado em "Gabarito das objetivas da Vunesp" (contagens por confiança, as "baixa").
+
+Ressalva para registrar: o gabarito vem no próprio lote, então o agente o vê antes de resolver; a
+resolução justifica o gabarito, mas não é uma confirmação independente dele (diferente do ENEM, em que
+o roteiro também traz o gabarito, mas é o oficial do INEP).
+
 ## Combinado com o dono do projeto
 
 - **Downloads autorizados até aqui**: cadernos oficiais (Vunesp, Unesp, INEP); cópias do Curso

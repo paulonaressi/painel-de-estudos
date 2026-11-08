@@ -1,0 +1,77 @@
+{
+ "indice": "data/questoes/famema/2026_prova-ii-objetiva-com-gabarito-oficial-redacao-segundo-o-ind.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:27": {
+   "resposta": "A ideia cobrada é a leitura do conceito historiográfico de “senhorio”. Segundo o autor, o termo é preferível a “feudalismo” porque abrange tanto as relações entre aristocracia e camponeses (livres e não livres) quanto as relações dentro da própria aristocracia, e mostra que a dominação se exercia sobre o espaço e também sobre os homens. Ou seja, o conceito inclui diferentes formas de dominação presentes na sociedade medieval.\n\nAs demais alternativas contrariam o texto: o termo não minimiza o aspecto territorial (A), não trata de abolir disputas entre nobres (B) nem do fortalecimento do rei (C), e, longe de restringir-se às obrigações camponesas (D), amplia o alcance da análise.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A charge, publicada na Argentina após a Lei Áurea (1888), retrata a princesa Isabel, regente do Império, erguendo a tocha da “Libertad” e acolhendo um escravizado, enquanto um senhor se afasta contrariado. A imagem celebra a princesa como figura redentora, que teria posto fim, de forma pacífica e por via legal, ao conflito social criado pela escravidão — é esse papel pacificador que a alternativa A descreve.\n\nAs outras não se sustentam: o Brasil foi o último país das Américas a abolir a escravidão (B); a monarquia conviveu com a escravidão desde 1822 (C); houve intenso movimento abolicionista na segunda metade do século XIX (D); e o senhor de escravos contrariado na charge desmente a ideia de confraternização entre as classes (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "O tema é a repressão do governo Vargas após o levante comunista de 1935. A prisão de Prestes e a entrega de Olga Benário, judia e comunista, à Gestapo nazista revelam a afinidade do governo brasileiro com o totalitarismo europeu, num momento de ascensão do nazifascismo e de forte anticomunismo, que desembocaria no Estado Novo (1937).\n\nA alternativa E é a mais tentadora, mas os fatos narrados (1935–1936) são anteriores ao Estado Novo, iniciado em novembro de 1937. Também não houve fim dos movimentos comunistas (A), o governo reprimia a Aliança Nacional Libertadora em vez de se aproximar dela (B), e o episódio nada tem a ver com o imperialismo norte-americano (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "O texto descreve a lógica das empresas transnacionais na globalização: instalam cada setor onde as condições lhes são mais vantajosas (salários baixos, sindicatos controlados, leis ambientais frouxas) e, se um país não aceita essas condições, retiram o investimento e o deixam empobrecer. Ameaçar ir embora para obter vantagens é uma forma de chantagem econômica sobre os Estados.\n\nNão se trata de globalização equitativa (A), já que o próprio texto fala em sistema “desigual”; nem de nacionalismo (C), altruísmo (D) ou compensação social (E), pois a empresa age apenas pela lucratividade e o país é que arca com o prejuízo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Questão de compreensão de texto. O terceiro parágrafo diz que, entre os 83% que não pagaram por notícias em 2024, o motivo mais citado é poder encontrar muitas outras notícias de graça (49%). “Availability of unpaid options” significa justamente a disponibilidade de opções gratuitas.\n\nAs demais contrariam o texto: só 8% acham que a notícia não é boa o bastante (A); apenas 17% pagaram, não a maioria (B); o texto diz que “many” organizações usam paywalls, não todas (C); e a falta de confiança não aparece como motivo (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão cobra o valor da preposição “by” seguida de verbo com -ing. Em “paid or given money to a news source by subscribing, donating or becoming a member”, “by” indica o meio ou a maneira pela qual o apoio financeiro foi dado: assinando, doando ou tornando-se membro.\n\nNão há comparação entre formas de pagamento (B), nem menção a valores (C). A referência temporal está em “during that time”, não em “by” (D), e a finalidade seria expressa por “to” ou “for”, não por “by” (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Leitura de gráfico de barras. Por faixa etária, os percentuais de quem pagou por notícias crescem com a idade: 18–29: 12%; 30–49: 15%; 50–64: 17%; 65+: 25%. Logo, os grupos mais velhos pagaram mais que os mais jovens.\n\nAs outras alternativas contradizem os números: o grupo que menos paga é o de 18–29, não o de 30–49 (A); hispânicos (10%) pagam menos que asiáticos (16%) (B); quem tem graduação (27%) paga mais que os demais níveis (15% e 9%) (C); renda baixa (8%) e média (18%) não são iguais (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra os sentidos de “about”. Em “About half of those… (49%)”, a palavra é advérbio e significa “aproximadamente”, “cerca de” — 49% é quase metade. O mesmo sentido aparece em “She bought about a kilogram of apples” (cerca de um quilo).\n\nNas demais, o sentido é outro: em A e E, “about” é preposição com o sentido de “sobre, a respeito de”; em B e D, “to be about to” significa “estar prestes a” fazer algo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Compreensão de detalhe no quarto parágrafo. O texto informa que parcelas menores dos que não pagam por notícias dão como motivo principal o fato de não ser “affordable” (10%) — isto é, não caber no bolso — ou de a notícia não ser boa o bastante para pagar (8%). Assim, os 10% consideram o custo das fontes pagas alto demais.\n\nO desinteresse corresponde a 32%, e não fala em não gostar de acompanhar notícias diariamente (B); a qualidade insuficiente é o motivo dos 8%, não dos 10% (C e E); e não se fala em ter parado de acompanhar notícias (D).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Rolamento sem deslizamento: a velocidade do skate é a velocidade linear do centro da roda, ligada à frequência de rotação por v = ω · R = 2π · f · R.\n\nDados: v = 4,5 m/s; R = 3 cm = 0,03 m; π = 3.\nf = v ÷ (2π · R)\nf = 4,5 ÷ (2 · 3 · 0,03)\nf = 4,5 ÷ 0,18 = 25 Hz (25 voltas por segundo)\nEm um minuto: 25 · 60 = 1 500 rpm\n\nA alternativa D (25 rpm) é a armadilha de quem esquece de converter rotações por segundo em rotações por minuto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Conceito: num sistema isolado na horizontal (sem resistência da água), as forças entre pescador e canoa são internas, e o centro de massa do conjunto, inicialmente em repouso, permanece parado.\n\nNa figura inicial, o centro da canoa está em 0 e o pescador, na ponta esquerda, perto de −0,9. Com massas iguais, o centro de massa do conjunto fica no ponto médio: (0 + (−0,9)) ÷ 2 ≈ −0,45.\n\nQuando o pescador anda para a direita, a canoa recua para a esquerda. Na alternativa D, o centro da canoa está perto de −1 e o pescador, na ponta direita, perto de 0: (−1 + 0) ÷ 2 ≈ −0,5, o mesmo centro de massa de antes.\n\nAs alternativas A, B, C e E mostram a canoa parada ou deslocada para a direita, o que moveria o centro de massa do conjunto sem força externa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Conceito: em equilíbrio térmico num sistema isolado, o calor cedido pelo ferro é igual ao calor recebido pela água (Q = m · c · Δθ).\n\nDados: ferro m = 0,01 g, c = 0,1 cal/(g·°C), θ = 1 500 °C; água m = 1,00 g, c = 1,0 cal/(g·°C), θ = 25 °C.\n\n0,01 · 0,1 · (1 500 − T) = 1,00 · 1,0 · (T − 25)\n0,001 · (1 500 − T) = T − 25\n1,5 − 0,001T = T − 25\n26,5 = 1,001T\nT ≈ 26,5 °C\n\nA massa do ferro é tão pequena que, apesar da temperatura altíssima, as fagulhas mal aquecem a água.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Conceito: propagação retilínea da luz. Como o tubo é preto por dentro, só saem os raios que passam direto pela abertura; os mais abertos vão da borda inferior da fonte (no fundo, de diâmetro D) à borda superior da abertura, e vice-versa.\n\nTome o eixo do tubo como referência. O raio extremo parte de −D/2 no fundo e passa por +D/2 na abertura, 2,0 m adiante: sobe D em 2,0 m, isto é, D/2 por metro.\nNo pano, 9,0 m depois da abertura:\naltura = D/2 + 9,0 · (D/2) = 5D\nO raio da mancha é 1,0 m (diâmetro 2,0 m):\n5D = 1,0 m\nD = 0,20 m = 20 cm\n\nPor semelhança de triângulos: os triângulos com vértice no cruzamento dos raios dão D ÷ 1 = 2,0 ÷ 10, o mesmo resultado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Conceito: potência elétrica P = U · I. Basta procurar no gráfico o instante em que o produto é máximo.\n\nLeitura (escalas: I em 10³ A, U em 10⁶ V):\n• quando I atinge o máximo (12), U está no pico (10);\n• enquanto I permanece em 12, U já cai para 8;\n• depois, I e U diminuem juntos.\n\nO produto máximo ocorre no instante em que I = 12 · 10³ A e U = 10 · 10⁶ V:\nP = 12 · 10³ · 10 · 10⁶\nP = 1,2 · 10¹¹ W\n\nNo fim do patamar de corrente: 12 · 10³ · 8 · 10⁶ = 9,6 · 10¹⁰ W, que é menor.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "indice": "data/questoes/famema/2018_prova-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "1:1": {
+   "resposta": "A questão cobra a leitura da concepção amorosa do soneto.\n\nO eu lírico diz que não lhe basta o \"afeto simples e sagrado\" nem saber-se amado: deseja o corpo da amada nos braços e o beijo. Nos tercetos, afirma que não se envergonha dessas ambições e que o que eleva um homem é \"ficar na terra e humanamente amar\", em vez de trocar a terra pelo céu. Trata-se de um amor terreno, sentimental e físico ao mesmo tempo.\n\nAs alternativas B, C e E descrevem o amor idealizado, espiritual ou à distância, que o poema justamente recusa; a A contraria a afirmação de que as ambições não o envergonham.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:2": {
+   "resposta": "A questão cobra a reescrita da estrofe em ordem direta (sujeito, verbo, complementos), sem mudar o sentido.\n\nO sujeito de \"não basta\" é \"o afeto simples e sagrado\", seguido da oração adjetiva \"com que das desventuras me protejo\". O termo \"ao coração que sofre, separado do teu\" é o complemento (a quem o afeto não basta), e \"no exílio em que a chorar me vejo\" é adjunto de lugar. Em ordem direta: o afeto com que me protejo das desventuras não basta ao coração que sofre, no exílio em que me vejo a chorar.\n\nAs demais alternativas trocam as funções: B e D mudam o que \"não basta\"; C e E tornam \"o coração\" sujeito, invertendo o sentido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:3": {
+   "resposta": "A questão cobra figuras de linguagem ligadas ao som.\n\nMusicalidade se obtém sobretudo com recursos sonoros. A aliteração é a repetição de sons consonantais; em \"Ter na boca a doçura de teu beijo\" há a recorrência das oclusivas /t/, /d/ e /b/, que dá ritmo ao verso.\n\nMetáfora, prosopopeia, hipérbole e antítese são figuras de sentido, não de som, e por isso não confirmam a preocupação com a musicalidade. Além disso, algumas classificações das outras alternativas nem se sustentam (não há hipérbole nem prosopopeia nos trechos citados).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:4": {
+   "resposta": "A questão cobra a relação entre os dois anúncios narrados no texto.\n\nA rendição foi anunciada em agosto de 1945; quatro meses depois, em 1º de janeiro de 1946, Hiroíto declarou não ser divino. O narrador diz que foi \"como se tivessem jogado sal na ferida\" aberta pela rendição: o segundo anúncio agravou a dor causada pelo primeiro.\n\nA ordem dos fatos elimina C, D e E, que invertem a sequência ou a relação de causa. A alternativa A contraria o texto, que fala de uma verdade que \"ninguém jamais imaginara ouvir\", ou seja, nada previsível.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:5": {
+   "resposta": "A questão cobra a retomada da ideia de \"suportar o insuportável\".\n\nA expressão, usada no anúncio da rendição, indica aceitar com resignação algo extremamente doloroso. No texto, a mesma atitude aparece no próprio imperador: a renúncia à divindade era uma imposição dos vencedores, que Hiroíto \"cumpria resignado\".\n\nA alternativa A fala de revolta, mas o texto diz que os japoneses ficaram \"petrificados\"; B erra, pois o keigo é forma arcaica do idioma e não escolha que expresse sofrimento; C e D tratam de detalhes (a voz, a antiga crença) que não envolvem suportar algo penoso.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:6": {
+   "resposta": "A questão cobra o valor do pretérito mais-que-perfeito do indicativo.\n\nEsse tempo indica uma ação passada anterior a outra também passada. No trecho, o fato de referência é a fala de 1º de janeiro de 1946 (\"Era a mesma voz\"); a voz já se \"dirigira\" aos japoneses quatro meses antes, no anúncio da rendição. \"Dirigira\" equivale a \"tinha dirigido\".\n\nO mais-que-perfeito não expressa dúvida (B), repetição (C), efeito que chega ao presente (D) nem verdade universal (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:7": {
+   "resposta": "A questão cobra a classificação de orações introduzidas por pronome relativo.\n\n\"Que\" retoma \"O temido Exército Imperial do Japão\" e introduz uma oração que o caracteriza: é oração subordinada adjetiva. Ela vem entre vírgulas e acrescenta uma informação sobre um ser único e já identificado, sem restringir o sentido do antecedente; por isso é explicativa.\n\nUma restritiva (B) delimitaria um exército entre vários e não viria isolada por vírgulas. As classificações adverbiais (A, D) e substantiva (E) não cabem, pois o \"que\" é pronome relativo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:8": {
+   "resposta": "A questão cobra a identificação do argumento dos céticos.\n\nSegundo o texto, os céticos dizem que o rato livre não solta o companheiro por empatia, mas para fazer cessar os sinais de estresse que o incomodam: os ratos seriam movidos pelas sensações desagradáveis que sentem e só buscariam eliminá-las. Trata-se de uma motivação egoísta, centrada no próprio bem-estar.\n\nA alternativa C atribui aos ratos interesse coletivo, o que é a leitura oposta; a E fala em intenção de agredir, ausente do texto; a A contraria a comparação com os humanos feita logo depois; a B inventa uma preocupação com relações futuras.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:9": {
+   "resposta": "A questão cobra a passagem da voz passiva analítica para a ativa.\n\nNa passiva \"Os ratos seriam motivados pelas sensações...\", o agente da passiva é \"pelas sensações desagradáveis que sentem\" e o verbo auxiliar \"ser\" está no futuro do pretérito (\"seriam\"). Na voz ativa, o agente vira sujeito, o sujeito vira objeto direto e o verbo principal assume o mesmo tempo do auxiliar: \"As sensações desagradáveis que sentem motivariam os ratos\".\n\nA alternativa A troca o tempo para o presente; C usa o pretérito perfeito e um \"aos\" indevido, já que \"motivar\" pede objeto direto; D e E continuam na voz passiva.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:10": {
+   "resposta": "A questão cobra o valor semântico das orações subordinadas adverbiais.\n\nA finalidade é expressa por conjunções como \"para que\", \"a fim de que\" ou, na forma reduzida de infinitivo, \"para + infinitivo\". Em E, \"para evitar as sensações desagradáveis\" indica o objetivo de ter dado o dinheiro.\n\nNas outras: \"Mesmo que\" (A) indica concessão; \"porque\" (B), causa; \"Assim que\" (C), tempo; \"Caso\" (D), condição. A mais tentadora é B, mas ali o fato de evitar as sensações é apresentado como motivo, não como objetivo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:11": {
+   "resposta": "A questão cobra razão e proporção com uma equação do 1º grau.\n\nSeja não utilizadas = 2k e utilizadas = 9k (razão 2/9).\nSe 15 utilizadas não tivessem sido usadas: (2k + 15) ÷ (9k − 15) = 1/3\n3 · (2k + 15) = 9k − 15\n6k + 45 = 9k − 15\nk = 20\nTotal disponível: 2k + 9k = 11k = 11 × 20 = 220 seringas\n\nConferência: 40 não utilizadas e 180 utilizadas; 55 ÷ 165 = 1/3.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:12": {
+   "resposta": "A questão cobra o princípio fundamental da contagem com restrição.\n\nComece pela restrição: o tubo A não pode ficar nas extremidades, então tem 3 posições possíveis (as três centrais).\nDepois, B pode ocupar qualquer uma das 4 posições restantes, e C, uma das 3 que sobram.\nTotal: 3 × 4 × 3 = 36 maneiras\n\nConferência pelo complemento: sem restrição, 5 × 4 × 3 = 60; com A numa extremidade, 2 × 4 × 3 = 24; 60 − 24 = 36.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:13": {
+   "resposta": "A questão cobra probabilidade por contagem de casos.\n\nMulheres: 16 (12 com especialização, 4 sem). Homens: 9 (8 com, 1 sem).\nCasos possíveis: C(25, 2) = 25 · 24 ÷ 2 = 300\nPares de sexos diferentes: 16 · 9 = 144\nDesses, nenhum com especialização: 4 · 1 = 4\nCasos favoráveis: 144 − 4 = 140\nP = 140 ÷ 300 = 7/15\n\n\"Pelo menos um\" é mais fácil pelo complemento: tira-se o par em que ninguém tem especialização.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:14": {
+   "resposta": "A questão cobra construção de matriz, produto de matrizes e determinante.\n\nA = (aᵢⱼ) com aᵢⱼ = 2i − j: linha 1 = (1, 0, −1); linha 2 = (3, 2, 1).\nA · B:\nc₁₁ = 1 + 0 − (m² − 1) = 2 − m²\nc₁₂ = 2 + 0 − 2 = 0\nc₂₁ = 3 + 0 + (m² − 1) = m² + 2\nc₂₂ = 6 − 2 + 2 = 6\nIgualando a C: −m = 2 − m² → m = 2 ou m = −1; 3m = m² + 2 → m = 1 ou m = 2.\nValor comum: m = 2, logo C = (−2 0; 6 6).\ndet C = (−2) · 6 − 0 · 6 = −12\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:15": {
+   "resposta": "A questão cobra equação da circunferência e da reta.\n\nCircunferência: (x − 2)² + (y − 3)² = 2. Com y = 4:\n(x − 2)² + 1 = 2 → x = 1 ou x = 3\nPela figura, P fica à esquerda do centro: P(1, 4).\nReta por P(1, 4) e C(2, 3): inclinação = (3 − 4) ÷ (2 − 1) = −1\ny = −x + 5\nR (x = 0): (0, 5); S (y = 0): (5, 0)\nRS = √(5² + 5²) = 5√2\n\nO ponto P(3, 4) daria uma reta que não forma o segmento no 1º quadrante como na figura.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:16": {
+   "resposta": "A questão cobra substituição de ponto em funções e o vértice da parábola.\n\nO ponto (3, 5) pertence aos dois gráficos:\nf(3) = 1 + 2^(3 − k) = 5 → 2^(3 − k) = 4 = 2² → k = 1\ng(3) = 2 · 3 + b = 5 → b = −1\nA função do 2º grau tem raízes 1 e −1. A abscissa do vértice é a média das raízes:\nxᵥ = (1 + (−1)) ÷ 2 = 0\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:17": {
+   "resposta": "A questão cobra geometria analítica (ou semelhança) e área de trapézio.\n\nColoque D(0, 0): A(0, 4), B(4, 4), C(4, 0).\nG, ponto médio de BC: (4, 2). CF = 1 abaixo de C: F(4, −1).\nEF = 2: E(2, −1) e H(2, 2) (EFGH tem altura 3).\nReta AF: inclinação = (−1 − 4) ÷ 4 = −5/4; em x = 2: y = 4 − 2,5 = 1,5 → K(2; 1,5).\nFGHK é um trapézio de bases verticais FG = 3 e HK = 0,5, com altura 2:\nÁrea = (3 + 0,5) ÷ 2 × 2 = 3,5 cm²\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:18": {
+   "resposta": "A questão cobra trigonometria no triângulo retângulo.\n\nSe FÂB = 60°, o ângulo entre AF e o lado AD (vertical) é DÂE = 90° − 60° = 30°.\nNo triângulo retângulo ADE (reto em D), com AD = 6 cm:\nDE = AD · tg 30° = 6 · (√3/3) = 2√3 cm\nComo DC = 6 cm:\nCE = 6 − 2√3 = 2(3 − √3) cm\n\nQuem usa tg 60° no triângulo ADE obtém DE = 6√3, maior que o lado do quadrado, o que mostra o erro.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:19": {
+   "resposta": "A questão cobra volumes de prisma e de cone.\n\nSeja r o raio do cone; a aresta da base do prisma é 2r.\nPrisma: V_p = (2r)² · H = 4r² · H\nCone: V_c = π · r² · h ÷ 3\nCondição V_c = V_p ÷ 6:\nπ r² h ÷ 3 = 4r² H ÷ 6 → π · h = 2H\nCom π = 3,1 e H = h + 5,5:\n3,1h = 2h + 11\n1,1h = 11 → h = 10 cm\nH = 10 + 5,5 = 15,5 cm\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:20": {
+   "resposta": "A questão cobra média aritmética a partir das somas.\n\nSoma das seis notas: 6 × 6,5 = 39,0\nSoma das três maiores: 3 × 8,0 = 24,0\nSoma das três menores: 39,0 − 24,0 = 15,0\nMédia das três menores: 15,0 ÷ 3 = 5,0\n\nA informação de que as notas são diferentes só garante que \"três maiores\" e \"três menores\" sejam grupos bem definidos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:21": {
+   "resposta": "A questão cobra a ordem mundial bipolar.\n\nDepois de 1945, o poder mundial se dividiu entre dois polos: os Estados Unidos, à frente do bloco capitalista, e a União Soviética, à frente do bloco socialista. A disputa entre eles, sem confronto militar direto, recebeu o nome de Guerra Fria e se estendeu até o fim da URSS, em 1991.\n\nO Muro de Berlim (A) e a Guerra da Coreia (D) foram episódios dessa disputa, não seus polos; a \"Guerra ao Terror\" (E) é posterior a 2001, já na ordem pós-Guerra Fria.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:22": {
+   "resposta": "A questão cobra os fatores de repulsão e de atração das migrações internas no Brasil.\n\nA concentração de terras nas mãos de poucos e a mecanização do campo reduzem o emprego e o acesso à terra para o trabalhador rural (fatores de repulsão). A oferta de serviços como saúde, educação e emprego nas cidades atrai essa população (fator de atração). O resultado é o êxodo rural, a migração do campo para a cidade, intensa no Brasil a partir dos anos 1950.\n\nO êxodo urbano (B) seria o movimento inverso; a transição demográfica (C) diz respeito a natalidade e mortalidade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:24": {
+   "resposta": "A questão cobra fatores de localização de usinas de energia.\n\nO mapa mostra que o Nordeste tem irradiação alta, mas o Atlas recomenda áreas do Sudeste e do Sul (sudoeste de Minas, noroeste de São Paulo, norte do Paraná). A explicação está na infraestrutura: essas áreas ficam no \"cinturão solar\", também com boa irradiação, e perto dos grandes centros consumidores e da rede de transmissão mais densa do país, o que barateia a conexão das usinas.\n\nA alternativa A erra porque o Centro-Sul concentra a demanda; D é falsa, pois a matriz nordestina é muito renovável (eólica, hidrelétrica); E não tem respaldo no mapa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:25": {
+   "resposta": "A questão cobra coordenadas geográficas e fusos horários.\n\nA Terra gira 360° em 24 horas, ou seja, 15° por hora. Comparando a hora do meio-dia solar no local com a do porto de partida, o navegador obtém quantos graus está a leste ou a oeste do porto, isto é, a longitude, que é a distância angular medida em relação a um meridiano de referência.\n\nA latitude (E) e os paralelos (A) medem a posição norte-sul e são obtidos pela altura do Sol ou das estrelas, não por diferença de horário. \"Os meridianos\" (C) são as linhas; o que se determina é a longitude.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:26": {
+   "resposta": "A questão cobra a ciência no mundo islâmico medieval.\n\nIbn al-Khatib afirma que o contágio é demonstrado pela experiência, pela investigação, pela evidência dos sentidos e por relatos confiáveis, e descreve a transmissão por contato com doentes, roupas e utensílios. É uma explicação baseada na observação e na verificação, traço do pensamento científico que os sábios muçulmanos desenvolveram e que influenciou a ciência europeia.\n\nAs alternativas A e C são o oposto: o texto não recorre a superstição nem a explicações religiosas. A B cria uma oposição que não aparece, e a E distorce a expressão \"relatos dignos de fé\", que quer dizer relatos confiáveis, não fé religiosa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:27": {
+   "resposta": "A questão cobra a estrutura social da economia açucareira colonial.\n\nO texto mostra que os lavradores de cana tinham riqueza e laços de sangue ou casamento com os senhores de engenho, que havia mulheres, muitas viúvas, entre eles, e que eram quase sempre brancos, porque negros e mulatos livres não tinham crédito nem capital. A posição social dependia, portanto, de vários critérios combinados: cor, riqueza e relações familiares.\n\nA alternativa A fala de classes e bens móveis, o que não se aplica; a B confunde os lavradores (que usavam escravos) com os escravizados; a C exagera, pois a miscigenação não era proibida; a D atribui tudo só ao dinheiro.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:28": {
+   "resposta": "A questão cobra o imperialismo do século XIX na América Latina.\n\nO texto descreve dois movimentos: a Grã-Bretanha ocupa o lugar econômico de Espanha e Portugal, vendendo manufaturas e controlando o comércio dos novos Estados, que se endividam; depois, empresas dos Estados Unidos se apropriam de terras em Cuba e na América Central, origem do \"império bananeiro\". É o imperialismo britânico e estadunidense, apoiado no comércio e, no caso americano, em intervenções militares (Cuba, Caribe, América Central).\n\nA alternativa A inverte a lógica (o liberalismo triunfou sobre o mercantilismo); B e E erram nas colônias e na emancipação; a D cita a política de boa vizinhança, que é dos anos 1930.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:29": {
+   "resposta": "A questão cobra a relação entre o Tratado de Versalhes e o nazismo.\n\nNa charge, uma figura com o capacete \"Hitler Party\" sai de dentro de um canhão (ou casulo) com a inscrição \"Versailles Treaty\": o nazismo nasce do tratado. Assinado em 1919, ele impôs à Alemanha a culpa pela guerra, pesadas indenizações, perda de territórios e limitação do exército. O ressentimento com essa humilhação, somado à crise econômica, foi explorado pela propaganda nazista e ajudou Hitler a chegar ao poder em 1933.\n\nAs alternativas C e D tratam da Segunda Guerra, posterior ao tratado; a B e a E não correspondem ao contexto de derrota alemã de 1918.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:30": {
+   "resposta": "A questão cobra a crise que levou ao golpe de 1964.\n\nO historiador mostra a polarização no fim do governo Goulart: a direita, apoiada pela classe média, queria \"purificar a democracia\" eliminando o \"perigo do comunismo\", o poder dos sindicatos e a luta de classes; a esquerda passou a ver a democracia formal como instrumento inútil. Esse conflito interno se ligava à Guerra Fria, que alimentou o discurso anticomunista usado para justificar a derrubada do presidente.\n\nA alternativa A inverte os papéis; a B inventa uma aliança entre comunistas e ultradireitistas; a C exagera, pois o Brasil não se alinhou ao bloco socialista; a E reduz a crise à economia e à classe média.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:31": {
+   "resposta": "A questão cobra a localização de informação no texto.\n\nNo quarto parágrafo, o texto diz que pesquisas anteriores sugerem que beber café pode reduzir o risco de \"heart disease, diabetes, liver disease, and some cancers\". \"Liver disease\" é doença do fígado, ou seja, doença hepática.\n\nAs outras são falsas: os especialistas atribuem o efeito aos antioxidantes, e não à cafeína (A); o texto não diz que o descafeinado \"não faz mal\" a quem não pode ingerir cafeína (C), só que deu o mesmo resultado; a redução de 18% vale para dois a três cafés por dia, independentemente da etnia (D); nada indica que o café seria inadequado ao consumo (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:32": {
+   "resposta": "A questão cobra o sentido de uma expressão idiomática.\n\n\"Full of beans\" é uma expressão do inglês informal que significa \"cheio de energia, animado, disposto\". O texto brinca com o duplo sentido, já que o café vem de grãos (\"beans\"): além de deixar a pessoa mais disposta, ele poderia aumentar a expectativa de vida.\n\nPor isso, \"helps you feel full of beans\" equivale a ajudar a aumentar a energia. Queimar gordura, fortalecer o DNA, aliviar a dor crônica ou melhorar a memória não aparecem no texto nem correspondem à expressão.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:33": {
+   "resposta": "A questão cobra vocabulário e sinonímia.\n\nEm \"18% less likely to die\", \"likely\" é adjetivo que significa \"provável\": os homens tinham 18% menos probabilidade de morrer. O sinônimo que mantém a estrutura e o sentido é \"probable\" (\"18% less probable to die\" preserva a ideia, embora seja menos usual).\n\n\"Favourably\" e \"pleasantly\" são advérbios de outro sentido (favoravelmente, agradavelmente); \"agreable\" (agradável) também não tem relação; \"impossible\" mudaria completamente o sentido.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:34": {
+   "resposta": "A questão cobra o valor da conjunção \"but\".\n\n\"But\" equivale a \"mas\" e liga ideias que se contrapõem. No trecho, a primeira oração diz que as mulheres se beneficiaram menos; a segunda, introduzida por \"but still\", ressalva que mesmo assim tiveram 8% de redução na mortalidade. Há uma oposição entre \"beneficiar-se menos\" e \"ainda assim ter benefício\".\n\nInclusão seria marcada por \"and\" ou \"also\"; negação, por \"not\"; comparação, por \"than\" ou \"as\"; alternativa, por \"or\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:35": {
+   "resposta": "A questão cobra a compreensão do quinto parágrafo.\n\nNele, o Dr. Marc Gunter diz que o consumo maior de café se associou a menor risco de morte por qualquer causa, ou seja, a viver mais, e especificamente a menor risco de doenças circulatórias e digestivas, ou seja, a benefícios à saúde. Ele fala ainda dos \"beneficial health effects of coffee\".\n\nA alternativa A e a D invertem o resultado; a B atribui a Gunter a conclusão sobre câncer, mas ele apenas trabalha numa agência de pesquisa sobre câncer; a E contraria o texto, que fala em hábitos \"variable\" entre os dez países.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:36": {
+   "resposta": "A questão cobra velocidade no movimento circular uniforme.\n\nO raio da órbita é medido a partir do centro da Terra: r = R + d.\nO satélite geoestacionário dá uma volta em T = 24 h.\nv = 2π · r ÷ T\nv = 2 · 3 · (R + d) ÷ 24\nv = (R + d) ÷ 4 (em unidade de comprimento por hora)\n\nO erro comum é usar apenas d como raio da órbita, esquecendo o raio da Terra.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:37": {
+   "resposta": "A questão cobra a lei de Snell-Descartes e o ângulo de desvio.\n\nn_A · sen i = n_B · sen r\n1 · sen 45° = √2 · sen r\n√2/2 = √2 · sen r\nsen r = 1/2 → r = 30°\nO desvio é o ângulo entre o prolongamento do raio incidente (linha tracejada) e o raio refratado:\nd = i − r = 45° − 30° = 15°\n\nComo n_B > n_A, a luz se aproxima da normal, por isso o refratado fica entre a normal e o prolongamento. A alternativa B é o ângulo de refração, não o desvio.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:38": {
+   "resposta": "A questão cobra ondas estacionárias em tubo aberto.\n\nNum tubo aberto, as duas extremidades são ventres de deslocamento. A figura mostra ventres nas pontas, dois nós no interior e um ventre no meio: cabe exatamente um comprimento de onda no tubo. É o 2º harmônico.\nλ = L\nf = v ÷ λ = v ÷ L\n\nFórmula geral do tubo aberto: f = n · v ÷ (2L); com n = 2, f = v ÷ L. A alternativa C seria o fundamental (um só nó), e B vale para tubo fechado.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:39": {
+   "resposta": "A questão cobra a relação entre trabalho da força elétrica e variação de energia potencial: ΔEp = −W.\n\nA força elétrica sobre o elétron aponta para cima (oposta ao campo, porque a carga é negativa) e o deslocamento também é para cima, então o trabalho é positivo.\n\nDados: q = 1,6 × 10⁻¹⁹ C, E = 100 N/C, d = 500 m\nF = q · E = 1,6 × 10⁻¹⁹ · 100 = 1,6 × 10⁻¹⁷ N\nW = F · d = 1,6 × 10⁻¹⁷ · 500 = 8,0 × 10⁻¹⁵ J\nΔEp = −W = −8,0 × 10⁻¹⁵ J\n\nA energia potencial diminui porque a força do campo realiza trabalho a favor do movimento. O ângulo de 180° da figura é entre d e E; entre F e d o ângulo é 0°.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:40": {
+   "resposta": "A questão cobra o cálculo de energia elétrica (E = P · Δt) e o uso da tarifa obtida pela conta.\n\nTarifa: 70,00 ÷ 140 kWh = R$ 0,50 por kWh.\n\nPotência total: 8 × 60 W = 480 W = 0,48 kW\nTempo: 4 h/dia × 30 dias = 120 h\nEnergia: 0,48 kW × 120 h = 57,6 kWh\nCusto: 57,6 × 0,50 = R$ 28,80\n\nO erro mais comum é esquecer de multiplicar pelos 30 dias ou pelas 8 lâmpadas; por exemplo, 57,6 kWh com tarifa errada ou só parte do consumo leva às outras alternativas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

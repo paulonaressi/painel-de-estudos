@@ -1,8 +1,18 @@
 {
  "indice": "data/questoes/ficsae/2019_prova-arquivo-unico-espelho-curso-objetivo.json",
- "gerado_em": "2026-11-06",
+ "gerado_em": "2026-11-08",
  "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
  "questoes": {
+  "0:49": {
+   "resposta": "Trigonometria no triângulo retângulo. Na posição inclinada, o braço do suporte afasta a base da TV 10 cm da parede e o trecho da TV entre o braço e a parede (29 cm ou 45 cm) é a hipotenusa. O lado oposto a β é o afastamento de 10 cm, então usamos o seno.\n\nTV de 32\": sen β = 10 ÷ 29 ≈ 0,345\nNa tabela, sen 20° = 0,342 → β ≈ 20,2°\n\nTV de 55\": sen β = 10 ÷ 45 ≈ 0,222\nNa tabela, sen 12° = 0,208 e sen 13° = 0,225 → β ≈ 12,8°\n\nDiferença ≈ 20,2° − 12,8° ≈ 7,4°, valor entre 7° e 9°.\n\nCuidado: usar a tangente (10 ÷ 29 como cateto sobre cateto) ou arredondar mal pode levar a cerca de 6°, que cai na alternativa E.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Leitura de gráfico com duas escalas e proporcionalidade.\n\nCusto: em 2009, 28 000 ÷ 30 ≈ 933 dólares/kWh, coerente com a curva vermelha (eixo da esquerda). Em 2022, a projeção tracejada termina em cerca de 140 dólares/kWh.\nCusto em 2022 = 30 kWh × 140 = 4 200 dólares\n\nDensidade energética (eixo da direita): em 2009, 30 000 Wh ÷ 500 L = 60 Wh/L, o que confere com o ponto inicial da curva verde. Em 2022, a projeção chega a 400 Wh/L.\nVolume em 2022 = 30 000 Wh ÷ 400 Wh/L = 75 L\n\nA alternativa B (37,5 L) dobraria a densidade; as de 2 100 dólares leem metade do custo projetado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "1:1": {
    "resposta": "**a)** A região **1**, o **túbulo contorcido proximal**. Suas células têm numerosas **microvilosidades** voltadas para o lúmen (borda em escova), que aumentam muito a superfície de absorção, além de muitas mitocôndrias junto à lâmina basal, que fornecem ATP para o transporte ativo de solutos (Na⁺, glicose, aminoácidos); a água acompanha por osmose. As células das regiões 2, 3 e 4 não apresentam essa especialização.\n\n**b)** **ADH**: aumenta a permeabilidade à água do túbulo distal e do ducto coletor (inserção de aquaporinas), elevando a **reabsorção de água**; a urina fica mais concentrada e em menor volume.\n\n**Paratormônio**: aumenta a **reabsorção de cálcio** nos túbulos renais (e a excreção de fosfato, além de estimular a ativação da vitamina D), elevando a calcemia.",
    "confianca": "alta",

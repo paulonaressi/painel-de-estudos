@@ -1,0 +1,187 @@
+{
+ "indice": "data/questoes/famema/2025_prova-ii-objetiva-com-gabarito-oficial-redacao-segundo-o-ind.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A “tirada” final da fábula — de longe parece algo, de perto não é nada — resume a moral: o que impressiona à distância (o “navio imponente”, o camelo assustador) revela-se, examinado de perto, algo banal (troncos boiando, um animal que se doma). A contraposição implícita é entre o que as coisas parecem ser e o que de fato são: aparência x essência.\n\nNão se trata de submissão e liberdade (A), apesar do cabresto; nem de agir e refletir (B), de mudar de opinião por capricho (C) ou de originalidade e imitação (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A fábula constrói um paralelo entre dois casos: o camelo, que primeiro assusta e depois, de perto e com o hábito, é domado com um cabresto; e o objeto no mar, que de longe parece um navio imponente e de perto se revela simples troncos boiando.\n\nO “Dromedário” com cabresto é o ponto final do primeiro percurso: o que parecia ameaçador tornou-se banal e familiar. No segundo caso, o ponto final equivalente é o dos troncos boiando. O navio imponente (A) corresponde à primeira impressão, não ao resultado; bote e caixote (D e E) são etapas intermediárias; e as pessoas que olham (B) correspondem a quem fugiu e se aproximou do camelo.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "A correspondência depende de ler o “Dromedário” já domado como o fim do percurso; quem o lê como o animal assustador do início tenderia ao navio."
+  },
+  "0:3": {
+   "resposta": "Conceito: marcas da presença do narrador no texto, como verbos e pronomes de primeira pessoa. Em “O que antes parecia assustador e insólito / Se acomoda à nossa visão”, o possessivo “nossa” inclui o próprio narrador na experiência descrita; é ali que ele se manifesta explicitamente.\n\nNas outras alternativas não há marca de primeira pessoa: A e B são afirmações genéricas, em terceira pessoa (B é a própria “tirada”); C e D narram ações de outros (“o segundo”, “o terceiro”, “garantiram”).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra relação entre orações. Em “Tal novidade era o Camelo, / Que o primeiro fugiu ao vê-lo”, há a correlação “tal… que”: a primeira oração apresenta a intensidade (o camelo era uma novidade tamanha) e a segunda, o efeito dela (o primeiro fugiu). É uma oração subordinada adverbial consecutiva, que exprime consequência.\n\nPode-se testar com paráfrase: “o Camelo era tão novo que o primeiro fugiu” — a fuga resulta da novidade, e não a causa (C). Não há hipótese (A), oposição (D) nem comparação (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "O humor nasce do duplo sentido de “sum”, que em inglês pode ser “quantia” (de dinheiro) ou “soma, conta de adição”. O advogado diz que o herdeiro recebeu “a very large sum”; o leitor entende “uma grande quantia”, mas no último quadro o papel traz apenas uma conta de somar com números grandes. A graça depende inteiramente desse jogo entre os dois sentidos: ambiguidade.\n\nNão há referência a outro texto (A), exagero intencional (B), atenuação de algo desagradável (C) nem a linguagem falando de si mesma (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Questão de interpretação. Segundo o ensaio, a evolução produziu o “animal homem”, e dentro dele se instalou um “inquilino” dado à hipocrisia e ao autoengano, o “homem civilizado”. As rusgas entre os dois cresceram, nenhum consegue eliminar o outro, e daí nasce a “guerra civil” que dura toda a vida. Logo, a guerra civil é o conflito entre o animal homem e o homem civilizado.\n\nHipocrisia e autoengano (C, E) são traços do homem civilizado, não um dos lados do conflito; mal-estar e bem-estar (B) não são os combatentes; e D omite que o oponente é o homem civilizado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "“Entretanto” é conjunção adversativa: introduz uma ideia que contrasta com a anterior. No ensaio, a evolução produziu o animal homem, mas, em seu âmago, foi se instalando um inquilino oposto a ele, o homem civilizado. O sentido de oposição se mantém com “contudo”, também adversativa.\n\n“Portanto”, “pois” e “por isso” (A, D, E) indicam conclusão ou causa, e “além disso” (B) indica acréscimo; qualquer uma delas alteraria a relação lógica do trecho.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Na passagem para a voz passiva, o objeto direto vira sujeito, o verbo passa a ser formado por “ser” + particípio, e o verbo auxiliar fica no mesmo tempo e modo do verbo da ativa.\n\nAtiva: “a evolução produziu o animal homem” → “produziu” está no pretérito perfeito do indicativo.\nPassiva: “o animal homem foi produzido pela evolução” → “foi” é o pretérito perfeito de “ser”.\n\nAs demais mudam o tempo ou o modo: “fora produzido” (D) é mais-que-perfeito; “seria” (C) e “teria” (A) são futuro do pretérito; “tinha produzido” (E) é tempo composto da voz ativa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "O poema, de “Sentimento do mundo” (1940), pertence à fase em que Drummond volta sua poesia para a realidade coletiva: o medo que domina soldados, mães, igrejas, ditadores e democratas reflete o clima opressivo dos anos da Segunda Guerra e das ditaduras. O eu lírico fala em “nós” e recusa provisoriamente cantar o amor para cantar o medo coletivo — marca da poesia de cunho social.\n\nO amor é justamente posto de lado (A); não há busca religiosa (B), zombaria (C) ou saudade do passado (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "O Parnasianismo valorizava a forma: métrica regular, rimas ricas ou raras, vocabulário rebuscado e contenção do sentimento. O poema de Drummond, modernista, rompe com isso principalmente pelo verso livre: os versos têm tamanhos muito diferentes, sem metro fixo e sem esquema de rimas.\n\nAs alternativas A, B, D e E descrevem justamente traços parnasianos (vocabulário rebuscado, rimas raras, métrica rigorosa, contenção lírica); portanto, não podem ser o que afasta o poema dessa estética.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Conceito: em uma dízima periódica, os algarismos se repetem em ciclo; a centésima casa é achada pelo resto da divisão de 100 pelo tamanho do período.\n\n25/99 = 0,2525…: período “25”, de 2 algarismos.\n100 ÷ 2 = 50, resto 0 → último algarismo do período: x = 5\n6/7 = 0,857142…: período “857142”, de 6 algarismos.\n100 ÷ 6 = 16, resto 4 → 4º algarismo do período: y = 1\n41/333 = 0,123123…: período “123”, de 3 algarismos.\n100 ÷ 3 = 33, resto 1 → 1º algarismo do período: z = 1\n\nx + y + z = 5 + 1 + 1 = 7\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Conceito: contagem com restrições (combinação). Cada horário recebe exatamente 4 pessoas.\n\nÀs 12h já estão os 2 que preferem esse horário; faltam 2 vagas.\nÀs 13h estão os 3 que preferem esse horário; falta 1 vaga.\nOs 3 funcionários flexíveis preenchem essas 3 vagas: basta escolher quais 2 deles vão às 12h (o restante vai às 13h).\n\nC(3, 2) = 3\n\nA ordem dentro de cada grupo não importa, pois o que se conta é a distribuição por horário; por isso não se multiplica por permutações.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Conceito: sistema de equações do 1º grau.\n\nSeja u o número de empresas visitadas por um dia (450 reais por dia) e d o número das visitadas por dois dias (400 reais por dia, isto é, 800 reais por empresa).\n\nDias: u + 2d = 18 → u = 18 − 2d\nValor: 450u + 800d = 7 400\n450 · (18 − 2d) + 800d = 7 400\n8 100 − 900d + 800d = 7 400\n100d = 700 → d = 7\nu = 18 − 14 = 4\n\nEmpresas: u + d = 4 + 7 = 11\n\nConferência: 4 · 450 + 7 · 800 = 1 800 + 5 600 = 7 400 reais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Conceito: coordenadas de vértices de quadrados e equação da reta por dois pontos.\n\nABCD tem lado AB = 4, então D = (0, 4).\nBDFE tem lado BD; pela figura, F = (4, 8) e E = (8, 4) (os quatro lados medem 4√2).\nBFGH tem lado BF = 8, então G = (−4, 8) e H = (−4, 0).\n\nReta por E(8, 4) e G(−4, 8):\ninclinação m = (8 − 4) ÷ (−4 − 8) = −1/3\ny − 4 = −(1/3) · (x − 8)\n3y − 12 = −x + 8\nx + 3y − 20 = 0\n\nConferência com G: −4 + 24 − 20 = 0.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Conceito: tangente no triângulo retângulo. O segmento que vai do vértice superior esquerdo até P desce 1 cm a cada 3 cm na horizontal, pois tg α = 1/3 (α é medido a partir do lado superior, horizontal).\n\nDo vértice até P, a queda é 6 cm (altura do retângulo):\ndistância horizontal = 6 ÷ (1/3) = 18 cm\nComo P está 6 cm além do vértice inferior direito:\nlargura do retângulo = 18 − 6 = 12 cm\n\nNo lado direito (12 cm à direita do vértice), a queda é 12 · (1/3) = 4 cm.\nO triângulo hachurado tem catetos 12 cm e 4 cm:\nÁrea = 12 · 4 ÷ 2 = 24 cm²\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Conceito: volume de paralelepípedos idênticos.\n\nNa figura, um paralelepípedo está em pé, com 6 m de altura e 4 m de profundidade, e os outros três estão deitados e empilhados ao lado, ocupando juntos os mesmos 6 m de altura. Então cada um deitado tem 6 ÷ 3 = 2 m de espessura.\n\nComo os quatro são idênticos, todos têm as dimensões 2 m, 4 m e 6 m (o que está em pé tem 2 m de largura; os deitados têm 6 m de comprimento).\n\nVolume de cada um: 2 · 4 · 6 = 48 m³\nVolume total: 4 · 48 = 192 m³\n\nO conjunto forma um bloco de 8 m × 4 m × 6 m = 192 m³, o que confirma a conta.\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "A conta depende de ler na figura em perspectiva que o bloco em pé tem 4 m de profundidade e que os três deitados dividem a altura de 6 m."
+  },
+  "0:17": {
+   "resposta": "Conceito: probabilidade com combinações. Só importa o conjunto de três cartas que André, Beto e Carlos recebem; todos os conjuntos de 3 cartas são igualmente prováveis.\n\nTotal de conjuntos: C(6, 3) = 20\nConjuntos de números consecutivos: {1, 2, 3}, {2, 3, 4}, {3, 4, 5}, {4, 5, 6} → 4\n\nP = 4 ÷ 20 = 1/5\n\nContando com ordem, o resultado é o mesmo: 4 · 3! = 24 casos favoráveis entre 6 · 5 · 4 = 120 possíveis, e 24 ÷ 120 = 1/5.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Conceito: áreas a partir de medidas relacionadas entre si.\n\nSeja s o lado de cada quadrado pequeno (são dois, no canto superior esquerdo).\nAbaixo deles há um quadrado de lado 2s, com vértice superior em F.\nA altura do retângulo é s + 2s = 3s; logo, o quadrado da direita tem lado 3s.\nLargura AB = 2s + 3s = 5s.\n\nTriângulo ABF: base AB = 5s, altura = altura de F = 2s.\nÁrea = 5s · 2s ÷ 2 = 5s² = 80 → s² = 16 → s = 4 cm\n\nRetângulo ABCD: 5s × 3s = 20 cm × 12 cm = 240 cm²\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Conceito: média aritmética como soma dividida pela quantidade.\n\nSeja S a soma das idades das 20 pessoas mais novas.\nMédia das 21 pessoas: (S + 60) ÷ 21\nMédia das 20 mais novas: S ÷ 20\n\n(S + 60) ÷ 21 = S ÷ 20 + 1,5\nMultiplicando por 420:\n20 · (S + 60) = 21S + 630\n20S + 1 200 = 21S + 630\nS = 570\n\nSoma das 21 idades: 570 + 60 = 630 anos\n\nConferência: 630 ÷ 21 = 30 e 570 ÷ 20 = 28,5; a diferença é 1,5 ano.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Conceito: valor numérico de funções. Primeiro se usa a condição f(2) = g(2) para achar p.\n\nf(2) = 3 · 2 − 5 = 1\ng(2) = 2 · 2² − 2p + p = 8 − p\n8 − p = 1 → p = 7\n\nAssim, g(x) = 2x² − 7x + 7 e p − 2 = 5.\ng(5) = 2 · 25 − 7 · 5 + 7\ng(5) = 50 − 35 + 7 = 22\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Conceito: os terremotos se concentram nas bordas das placas tectônicas, onde elas se chocam, se afastam ou deslizam lado a lado. O Chile está na borda oeste da placa Sul-Americana, onde ela converge com a placa de Nazca, área de intensa atividade sísmica. O Brasil fica no interior (centro) da placa Sul-Americana, longe dessas bordas; por isso os tremores aqui são raros e, em geral, fracos.\n\nA alternativa B descreve justamente o caso do Chile; a placa Africana se afasta da Sul-Americana (A); o Brasil tem estrutura antiga, sem dobramentos modernos (D); e o contato com a placa de Nazca é convergente, não conservativo (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "O hidrogênio verde é obtido por eletrólise da água com eletricidade de fontes renováveis, e sua queima ou uso em células a combustível gera essencialmente água, sem liberar CO₂. Por isso ele pode substituir combustíveis fósseis em indústrias (aço, fertilizantes, refino), transportes e geração de energia, reduzindo as emissões de carbono: é a chamada descarbonização das atividades produtivas, centro da transição energética.\n\nOs CFCs (B) estão ligados à camada de ozônio, não à questão energética; resíduos sólidos (A), recursos agroindustriais (C) e potencial hídrico (D) não se relacionam com o processo descrito.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Conceito: modalidades de transporte aquaviário. Cabotagem é a navegação feita ao longo da costa, entre portos de um mesmo país; distingue-se da navegação de longo curso, entre portos de países diferentes, e da navegação interior, feita em rios e lagos.\n\nPor isso as alternativas que falam em rios (C, E), lagunas (A) ou eclusas (B) descrevem navegação interior ou obras de apoio a ela, e não a cabotagem. O texto lembra que, apesar do litoral extenso do Brasil, essa modalidade ainda tem participação pequena e concentrada no petróleo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "O mapa divide o país em 12 áreas cujos limites não seguem as fronteiras dos estados, mas os divisores de águas das grandes bacias: a enorme área verde corresponde à Região Hidrográfica Amazônica; há uma área de Tocantins-Araguaia, uma do São Francisco (de Minas Gerais ao Nordeste), uma do Paraná, uma do Paraguai (no Mato Grosso do Sul), uma do Uruguai, uma do Parnaíba e faixas litorâneas de Atlântico Nordeste, Leste, Sudeste e Sul. É a divisão em regiões hidrográficas adotada pelo Conselho Nacional de Recursos Hídricos.\n\nOs complexos geoeconômicos (A) são só três; os domínios morfoclimáticos (C) não têm esse desenho.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A Venezuela tem as maiores reservas comprovadas de petróleo do mundo, e é isso que lhe dá peso geopolítico: em meio à disputa com a China e às oscilações do mercado de energia, os Estados Unidos têm interesse em garantir acesso a esse petróleo, o que explica a reaproximação pragmática e o alívio de sanções descritos no texto.\n\nAs demais não se sustentam: a Venezuela não é grande exportadora agrícola (A), não é centro global de mineração de ouro (B), nem líder em tecnologia (C); e seu litoral fica no mar do Caribe (oceano Atlântico), não no Pacífico (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A Guerra dos Cem Anos (1337–1453) opôs Inglaterra e França e teve papel decisivo na formação das monarquias nacionais nos dois países. Na França, a vitória fortaleceu o poder do rei, que criou impostos permanentes e um exército próprio, e estimulou um sentimento de identidade nacional (com Joana d’Arc como símbolo). Na Inglaterra, a perda dos territórios continentais definiu o reino em torno da ilha, e a crise posterior (Guerra das Duas Rosas) abriu caminho para a centralização Tudor.\n\nA guerra não foi religiosa (E), prejudicou o comércio entre os dois reinos (B) e, em vez de consolidar laços entre senhores (D), enfraqueceu a nobreza feudal.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Eckhout pintou com realismo um ritual dos Tapuias (grupos indígenas não tupis, vistos pelos europeus como os mais “selvagens”): homens nus, armados, em dança coletiva. Para o público europeu do século XVII, aquilo não era compreendido como manifestação cultural com sentido próprio, mas lido como barbárie e estranheza — o choque vem da incompreensão, marcada pelo etnocentrismo, das práticas culturais indígenas.\n\nA técnica do pintor não era revolucionária (B); a presença das mulheres como observadoras não é o que choca (C); e a tela não mostra supressão de cultos (D) nem resistência armada ao domínio colonial (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "O texto descreve o Destino Manifesto: a crença, difundida nos Estados Unidos no século XIX, de que o país tinha a missão, quase providencial, de se expandir pelo continente até o Pacífico. Ela serviu para justificar a compra da Louisiana, a marcha para o Oeste e a guerra contra o México (1846–1848), que tomou grande parte do território mexicano — expansão impulsionada também pelos interesses escravistas do Sul, como o texto aponta.\n\nA Doutrina Monroe (A) tratava de afastar a interferência europeia na América; o Big Stick (E) é do início do século XX; o macarthismo (C) e o New Deal (D) são do século XX e não tratam de expansão territorial.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "Os versos tratam de temas que acompanham o samba desde sua origem: a tristeza, a dor, a noite, a chuva, mas também o prazer e a capacidade de transformar o sofrimento. A expressão do título e do segundo verso, “desde que o samba é samba”, indica que esses temas estão presentes e se repetem ao longo de toda a história do gênero.\n\nA canção não trata o samba como elitista (A) nem marginal (E); não celebra só a alegria, pois associa o samba à dor (B); e não fala de ausência de mudanças estilísticas, e sim da permanência de temas (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "O cartaz apresenta o Plano Marshall (1947), programa de ajuda econômica dos Estados Unidos aos países da Europa Ocidental arrasados pela Segunda Guerra. A imagem do Tio Sam com uma colher de pedreiro, “cimentando” o mapa da Europa, e o lema “Cimento da Europa” mostram a ideia de reconstrução econômica. No contexto da Guerra Fria, o plano também buscava afastar esses países da influência socialista.\n\nNão era voltado a ex-colônias (A), nem aproximava blocos rivais (B); a “cortina de ferro” (D) é a expressão de Churchill para a divisão imposta pela URSS no Leste; e não visava aos próprios EUA (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Pergunta sobre o objetivo principal do texto. O texto define estereótipo de gênero, afirma que ele é prejudicial quando limita a capacidade de homens e mulheres de desenvolver suas habilidades, seguir carreira e fazer escolhas, e dá exemplos de como ele perpetua desigualdades. O propósito central, portanto, é mostrar como esses estereótipos afetam o desenvolvimento pessoal e profissional das pessoas.\n\nO texto não prescreve papéis ideais (A), não faz histórico dos estereótipos (B), critica a ideia de que mulheres são cuidadoras “por natureza” em vez de defendê-la (C) e não aponta benefícios dos estereótipos (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão pede o trecho que expressa consequência. Em “harmful stereotypes perpetuate inequalities”, o verbo “perpetuate” (perpetuar) indica o efeito, o resultado dos estereótipos nocivos: a manutenção das desigualdades. O exemplo que vem logo depois confirma: por causa da visão da mulher como cuidadora, o cuidado dos filhos recai só sobre ela.\n\nOs outros trechos têm outras funções: A é definição; B descreve a combinação de estereótipos (a condição que gera o impacto, não o impacto em si); D introduz exemplos (“such as”); E descreve o conteúdo dos papéis atribuídos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra o sentido da expressão “to be meant to be”. Em inglês, dizer que algo “is meant to be” significa que está destinado a acontecer, que é obra do destino. Portanto, “Some things are meant to be” equivale a “algumas coisas estão destinadas a acontecer”, ou seja, “destined to happen”.\n\nAs demais mudam o sentido: “worth waiting for” é “vale a pena esperar”; “beyond our control” é “fora do nosso controle”; “better left unsaid” é “melhor não dizer”; “too good to be true” é “bom demais para ser verdade”.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão cobra o valor de “for” como conjunção. No início de uma oração e seguido de sujeito e verbo, “for” equivale a “because” (porque, pois) e introduz uma explicação ou motivo. No trecho, o eu lírico explica a razão do que vinha dizendo: ele não consegue evitar apaixonar-se pela pessoa amada.\n\nContraste seria “but” ou “yet” (B); acréscimo, “and” ou “also” (C); comparação, “like” ou “as” (D); exemplo, “for example” ou “such as” (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Conceito: no gráfico velocidade × tempo, a distância percorrida é a área sob a curva.\n\nO carro parte do repouso em t = 30 s e chega a 90 km/h em t = 90 s (aceleração constante, reta inclinada).\nConversão: 90 km/h ÷ 3,6 = 25 m/s\nIntervalo: 90 − 30 = 60 s\n\nÁrea do triângulo:\nd = base · altura ÷ 2\nd = 60 · 25 ÷ 2 = 750 m\n\nQuem esquece de converter km/h em m/s encontra 60 · 90 ÷ 2 = 2 700, valor sem sentido nas alternativas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Conceito: queda livre, movimento uniformemente variado a partir do repouso. Pode-se usar a equação de Torricelli (ou a conservação da energia mecânica).\n\nDados: v₀ = 0; h = 20 m; g = 10 m/s².\nv² = v₀² + 2 · g · h\nv² = 0 + 2 · 10 · 20 = 400\nv = √400 = 20 m/s\n\nPela energia: m · g · h = m · v² ÷ 2 → v = √(2gh), mesmo resultado. O tempo de queda é t = v ÷ g = 2 s.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

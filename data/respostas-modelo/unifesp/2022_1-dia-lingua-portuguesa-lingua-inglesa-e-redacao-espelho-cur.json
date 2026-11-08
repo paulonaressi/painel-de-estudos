@@ -1,0 +1,12 @@
+{
+ "indice": "data/questoes/unifesp/2022_1-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra o elogio implícito na fala do homem. No cartum, o pai mostra ao filho um celeiro trancado com correntes e cadeado e diz que é ali que a família guarda os sentimentos: se um sentimento aparecer, o menino deve levá-lo até lá e trancá-lo. A fala apresenta a repressão das emoções como algo bom e desejável, isto é, valoriza a frieza diante dos sentimentos. É um elogio à insensibilidade.\n\nO humor vem do exagero de transformar emoções em coisas que se trancam num celeiro. O homem não elogia a ingenuidade, a agressividade ou o isolamento, já que o problema não é se afastar das pessoas, mas não sentir. Também não se trata de privacidade: os sentimentos não são guardados para si, mas suprimidos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

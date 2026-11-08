@@ -1,0 +1,297 @@
+{
+ "indice": "data/questoes/unesp/2022_prova-de-conhecimentos-especificos-versao-1-para-divulgacao-.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra a interpretação da expressão \"que só a guerra produz\".\n\nO personagem, vestido de soldado, comenta \"aberrações\" e afirma que elas são fruto exclusivo da guerra. O advérbio \"só\" restringe a origem: há aberrações (algumas, não todas) cuja única causa é a guerra. É exatamente o que diz a alternativa correta.\n\nAs demais distorcem a frase: ela não diz que todas as aberrações vêm da guerra (o \"só\" se refere à guerra como causa, não à totalidade das aberrações), nem inverte a relação dizendo que aberrações produzem guerras ou que guerras são produzidas por aberrações.\n\nO humor do último quadrinho vem justamente daí: a \"aberração\" que ele vê é a própria Morte em atitude contemplativa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão cobra figuras de linguagem que sustentam o humor da tirinha.\n\nPersonificação: a Morte, entidade abstrata, aparece como figura de capa e foice, sentada, contemplando a paisagem, isto é, com comportamento humano.\n\nAntítese: o comentário final aproxima ideias opostas, a Morte e a vida (\"A Morte pensando na vida!\").\n\nO efeito cômico nasce do contraste de ver a Morte num momento de reflexão serena; o efeito crítico vem da fala do soldado, que trata essa cena como uma \"aberração\" produzida pela guerra, sugerindo o quanto a guerra banaliza a morte.\n\nNão há exagero (hipérbole), nem suavização de algo desagradável (eufemismo), nem repetição redundante (pleonasmo).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão cobra a ideia central do ensaio.\n\nO texto elogia o controle das paixões e a autossuficiência de Diógenes e cita a tese socrática de que o mais próximo da felicidade é quem de menos coisas precisa. Alexandre, o homem mais poderoso do mundo, reconhece que gostaria de ser Diógenes; e a citação de Vieira (\"Querei só o que podeis\") reforça a ideia de moderar os desejos.\n\nA crítica implícita, portanto, é à intemperança: a falta de moderação, o desejo sem limite, a busca incessante por mais posses e poder.\n\nNão se critica insensibilidade, passividade, volubilidade (inconstância) nem intolerância; nenhum desses traços é discutido no texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão pede a caracterização da resposta de Diógenes.\n\nDiante do homem mais poderoso do mundo, que lhe oferece qualquer coisa, Diógenes não pede nada e ainda pede que Alexandre saia da frente porque está tapando seu sol. É uma resposta ousada, destemida, que ignora a hierarquia e o poder do interlocutor: audaciosa.\n\nEla é o oposto de subserviente (submissa). Também não é hipócrita nem incoerente, pois combina perfeitamente com o modo de vida autossuficiente do filósofo, descrito no início do texto. E não há compaixão nela: Diógenes não demonstra pena de Alexandre, apenas indiferença ao que ele pode oferecer.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra a correlação de tempos verbais na passagem do discurso direto para o indireto.\n\nNo discurso direto, Alexandre usa o imperativo (\"peça-me\") e o futuro do presente (\"atenderei\"). Com o verbo introdutor no pretérito perfeito (\"propôs\"), os tempos recuam:\n- imperativo → pretérito imperfeito do subjuntivo: \"que lhe pedisse\";\n- futuro do presente → futuro do pretérito: \"que o atenderia\".\n\nO trecho ficaria assim: Alexandre propôs que Diógenes lhe pedisse o que desejasse e disse que o atenderia.\n\n\"Pedia\" e \"atendia\" são do pretérito imperfeito do indicativo, e \"atendesse\" manteria o subjuntivo onde o original tinha um futuro.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra a compreensão da segunda estrofe do soneto.\n\nO eu lírico conta que a Fortuna o fez escrever sobre o amor, mas Amor, temendo que essa escrita servisse de aviso a quem ainda não se apaixonou (o \"juízo isento\"), escureceu-lhe a inspiração \"para que seus enganos não dissesse\".\n\nOu seja, Amor teme que o poeta revele seus enganos, isto é, as ilusões e os sofrimentos que o amor causa, e assim afaste os inocentes.\n\nA perda de inspiração não é o que Amor teme: é o castigo que ele aplica para evitar a revelação. As demais alternativas (sinceridade, compreensão, esquecer a amante) não aparecem no poema.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra a interpretação do primeiro terceto.\n\nO eu lírico se dirige àqueles \"que Amor obriga a ser sujeitos / a diversas vontades\". Ser sujeito, aqui, é estar submetido, dominado: os amantes perdem a autonomia e passam a obedecer às vontades alheias, seja do próprio Amor, seja da pessoa amada.\n\nA ideia, portanto, é de submissão. É um tema clássico da lírica camoniana: o amor como força que escraviza.\n\nO poema não fala em mesquinhez, melancolia, imprudência ou insensatez dos amantes; essas palavras até podem combinar com a tradição amorosa, mas não é o que os versos afirmam.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão cobra a identificação do vocativo.\n\nO vocativo está no primeiro terceto: \"Ó vós que Amor obriga a ser sujeitos / A diversas vontades\". A interjeição \"ó\" e o pronome \"vós\" marcam o chamamento, e a oração seguinte explica quem são esses \"vós\": as pessoas dominadas pelo amor, isto é, os amantes.\n\nIsso se confirma no último terceto, quando o poeta diz que eles entenderão seus versos \"segundo o amor tiverdes\".\n\nAmor e Fortuna são citados como entidades, mas na terceira pessoa, sem chamamento. Os que nunca se apaixonaram (o \"juízo isento\") são justamente os que Amor quer manter longe dos versos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra o teor dominante da crônica.\n\nDrummond parte de uma data simbólica, o Dia de Finados, para falar dos corpos de assassinados que descem o rio Guandu: vítimas de execuções, \"mãos amarradas\", \"pesos amarrados aos pés\", gente que ninguém reclama por medo. O texto denuncia a violência, a impunidade, a indiferença de quem assiste da janela e o esquecimento dessas vítimas. É, portanto, um texto de teor crítico.\n\nHá ironia em passagens como o \"espetáculo\" para os moradores, mas não chega a ser sátira, que ridiculariza um alvo para provocar riso. Também não há paródia de outro texto, reflexão sobre a própria linguagem (metalinguagem) nem elementos sobrenaturais (fantástico): os fatos narrados são, infelizmente, realistas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão cobra a classe gramatical da palavra \"se\" em \"só se lhes vejam as cabeças\".\n\nNesse trecho, \"se\" é pronome: a oração equivale a \"só as cabeças lhes sejam vistas\" (voz passiva sintética, com \"se\" partícula apassivadora, que é um pronome). A pergunta pede outra palavra da mesma classe: pronome.\n\nNa alternativa correta, em \"ou o são de mínima gente\", o \"o\" é pronome pessoal oblíquo que retoma a ideia de \"amados\" (equivale a \"ou são amados por mínima gente\").\n\nNas demais: \"mas\" é conjunção adversativa; \"o\" em \"Eis desce o rio\" é artigo (acompanha \"rio\"); \"se\" em \"se não trazem a marca\" é conjunção condicional, a mais tentadora por ter a mesma forma; e \"para\" é preposição.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão pede que se reconheça uma obra a partir da descrição crítica.\n\nO trecho de Alfredo Bosi fala do trabalhador explorado, da matéria \"sertaneja\" e de um narrador \"desencantado\" que acompanha o cotidiano do pobre num ritmo pendular: da chuva à seca, da folga à carência, voltando sempre ao último estado. Fala ainda de uma narração objetiva e de linguagem modesta, à altura da vida simbólica pobre das personagens.\n\nTudo isso descreve Vidas secas: o romance de Graciliano Ramos é cíclico (começa e termina com a família em retirada pela seca), tem narração seca e enxuta e personagens com pouquíssima linguagem.\n\nGrande sertão: veredas também é sertanejo, mas tem linguagem exuberante e inventiva, o oposto da \"modéstia dos meios\". Os sertões é ensaio, não narrativa de ciclo; Macunaíma e A hora da estrela não tratam do sertão nesse registro.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão pede o assunto principal do texto, em inglês.\n\nO texto da The Economist começa com a origem humilde de Machado de Assis, mas logo passa a tratar de Memórias póstumas de Brás Cubas: o ano de publicação, o estilo \"invigorating\" (estimulante), o narrador defunto, os 160 capítulos curtos, o capítulo feito só de pontuação e a opinião de um escritor americano sobre o livro. O título, \"An invigorating reading\", também se refere à leitura do romance.\n\nA biografia de Machado é só a introdução, por isso as alternativas sobre a família dele ou sobre a Academia Brasileira de Letras ficam parciais. Conflitos raciais e a vida urbana do Rio aparecem apenas como pano de fundo do romance.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra a leitura atenta do primeiro parágrafo, em inglês.\n\nO parágrafo enumera uma sequência: Machado foi aprendiz de tipógrafo (\"apprentice typesetter\"), um padre lhe ensinou latim, um agente literário o descobriu na Imprensa Nacional e logo ele estava \"contributing to newspapers, writing plays and poems\" (colaborando com jornais, escrevendo peças e poemas) e criando um círculo literário. A carreira literária começa justamente com essa produção escrita.\n\nAs alternativas sobre a Imprensa Nacional e o trabalho de tipógrafo descrevem empregos, não a atividade literária. O latim ensinado pelo padre foi parte da formação, não o início da carreira. E os pais não são apontados como ajuda: o texto só informa a ocupação deles.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão pede o que o segundo parágrafo afirma sobre o romance.\n\nO parágrafo diz que o estilo do livro é \"invigorating\" (revigorante, estimulante) e que isso, junto com o pano de fundo de injustiça racial e social, o torna \"ideal reading\" (leitura ideal) para este verão. É, portanto, uma recomendação de leitura por causa do estilo estimulante.\n\nAs outras alternativas distorcem o texto: o livro não é chamado de convencional (ao contrário, ele mostra \"scorn for convention\", desprezo pela convenção); \"lordly\" qualifica as ironias, não o romance; a injustiça é \"backdrop\" (pano de fundo), não o tema de um manifesto; e o texto não diz que o livro é difícil de entender.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão cobra o sentido do conectivo \"yet\".\n\nNa frase anterior, o texto mostra um episódio cruel: Brás Cubas vê um liberto chicotear um escravo que comprou, para descontar os próprios sofrimentos. Em seguida, \"Yet the novel floats free...\" afirma que, apesar disso, o romance flutua livre da opressão do ambiente, levado por travessura e urbanidade.\n\n\"Yet\", nesse uso, equivale a \"no entanto\", \"contudo\": introduz uma ideia que se opõe à anterior. Expressa, portanto, contraste.\n\nNão é consequência (seria \"so\", \"therefore\"), acréscimo (\"also\", \"moreover\"), alternância (\"either... or\") nem exemplificação (\"for example\").\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra a referência de \"the narrator\" no quarto parágrafo.\n\nO trecho fala dos capítulos do romance: um deles é escrito só com pontuação; \"in another\" (em outro capítulo), o narrador reconhece ter escrito um capítulo inútil. Quem narra Memórias póstumas é o próprio Brás Cubas, o \"fictional memoirist\" (memorialista ficcional) apresentado no terceiro parágrafo.\n\nMachado de Assis é o autor, não o narrador, e essa distinção é central no livro, narrado por um defunto. Margaret Jull Costa é uma das tradutoras citadas entre parênteses; Dave Eggers é o escritor americano que elogia o livro; e o autor da matéria da The Economist não narra o romance.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão cobra a leitura do humor da tira, em inglês.\n\nCalvin conta a Haroldo que leu uma ficção científica sobre máquinas que controlam os humanos e os transformam em \"zombie slaves\" (escravos zumbis). Haroldo comenta que é uma ideia assustadora. Logo em seguida, Calvin lembra que está na hora do seu programa de TV e sai correndo.\n\nA graça está na contradição: o menino, que acabou de achar absurda a ideia de ser dominado por máquinas, larga tudo porque a televisão determina seu horário. Ele próprio é controlado por uma máquina.\n\nNão há relógio parado, Haroldo não acha a história inverossímil nem sente medo, e a tira não fala de máquinas ajudando os humanos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão cobra o sentido de \"actually\", um falso cognato clássico.\n\n\"Actually\" não significa \"atualmente\", e sim \"de fato\", \"realmente\". No quadrinho, a criança, ouvindo a história de Robin Hood, pergunta quanto do dinheiro foi gasto com despesas operacionais e quanto foi realmente para os pobres. O humor está no olhar de auditor de contas aplicado a um conto infantil.\n\nO sinônimo é \"really\" (realmente).\n\n\"Lately\" (ultimamente) atrai quem pensa em \"atualmente\"; \"rapidly\" (rapidamente), \"usually\" (geralmente) e \"incredibly\" (incrivelmente) mudariam o sentido da pergunta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão cobra a leitura de um texto de divulgação científica sobre a evolução humana.\n\nO texto combina dois tipos de evidência: os dados genéticos (o sequenciamento do genoma neandertal, que mostra trechos de DNA neandertal em populações atuais) e as evidências arqueológicas (cavernas em Israel e na Jordânia, fósseis com traços mistos). É essa articulação de áreas diferentes, genética e arqueologia, para explicar origens e deslocamentos dos ancestrais humanos que a alternativa correta destaca.\n\nAs outras contrariam o texto: o cruzamento não gerou só problemas (houve traços vantajosos, como imunidade mais robusta); não havia isolamento rigoroso entre as espécies; não há evidência de neandertais na África; e o conhecimento se apoia em bases documentais, não em especulação filosófica.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão cobra a leitura de um texto historiográfico sobre os pobres livres nas Minas do século XVIII.\n\nO texto mostra uma situação ambígua: o homem pobre era livre, mas a liberdade pouco lhe valia numa sociedade escravista; era usado pelo Estado de modo intermitente, mas regular, e ainda assim visto como inútil e vadio; sua utilidade real convivia com um ônus que o fazia parecer sem razão de ser. Essa visão justificava a escravidão e excluía uma camada inteira, \"desclassificando-a\".\n\nA alternativa correta capta essa ambiguidade e o mecanismo de exclusão.\n\nO texto não fala de rebeldia ou clandestinidade, não os descreve como profissionais liberais e não diz que escapavam dos tributos. A ideia de setor improdutivo é a visão dominante que o texto critica, não a da autora.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão cobra a compreensão do sentido histórico de \"ressignificar\" monumentos.\n\nOs manifestantes colocaram crânios diante das estátuas de bandeirantes para lembrar que esses personagens, celebrados como desbravadores, também capturaram, escravizaram e mataram indígenas e negros. A intenção é questionar a memória oficial que os transformou em heróis e propor outra leitura do passado. Trata-se de uma análise crítica e de uma revisão da memória histórica.\n\nAs demais alternativas invertem o sentido do ato: ele não celebra mitos e heróis, não é ufanista e não demonstra descrença na história; ao contrário, recorre à pesquisa histórica (\"segundo historiadores\"). Chamá-lo de simples \"cancelamento\" de redes sociais ignora o debate sobre memória que ele levanta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão cobra conhecimento sobre a imprensa no Brasil do Segundo Reinado.\n\nNo período de 1840 a 1889, a imprensa cresceu muito, sobretudo na Corte e nas capitais, e era dominada pelos setores brancos e letrados. Ao mesmo tempo, surgiu a chamada imprensa negra: jornais feitos por homens negros e voltados à população negra, que discutiam preconceito, cidadania e, depois, a abolição. A alternativa correta registra essas duas faces.\n\nAs demais estão erradas: a imprensa era sobretudo política e não vinculada à Igreja; havia jornais em várias províncias, não só no Rio; os periódicos eram brasileiros, não portugueses; e, embora houvesse pressões, o Segundo Reinado foi marcado por relativa liberdade de imprensa, com críticas abertas ao imperador e ao regime.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão cobra a leitura de duas imagens da Segunda Guerra.\n\nO cartaz soviético de 1941 mostra uma sombra com a inscrição \"1812\", isto é, Napoleão, cuja invasão da Rússia fracassou, atrás de Hitler, que leva uma estocada de um braço vermelho. A mensagem é que Hitler terá o mesmo destino de Napoleão: compara duas temporalidades.\n\nA charge de Belmonte mostra Hitler e Stálin trocando flores \"em 1939\" (o pacto germano-soviético de não agressão) e, \"agora\" (1943), escondendo punhais e trocando golpes, porque a Alemanha invadiu a União Soviética em 1941. É uma ironia sobre a passagem da aliança para a guerra.\n\nAs outras alternativas erram na leitura: o cartaz não mostra o avanço russo contra Napoleão como comparação com o comunismo, não há pacto na Primeira Guerra, e a charge não trata de amizade pessoal nem de esforço diplomático de Hitler.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra a relação entre a alta do petróleo nos anos 1970 e o mercado internacional.\n\nO texto mostra que as receitas dos produtores árabes se multiplicaram e que eles nacionalizaram a produção, mas registra que as multinacionais continuavam fortes no transporte e na venda. Ou seja, os países árabes concentravam-se em extrair e exportar, enquanto os países industrializados dependiam desse petróleo para suas fábricas. Uma dependência mútua: um precisava vender, o outro precisava comprar.\n\nA Opep não foi dissolvida (ao contrário, foi protagonista dos choques de 1973 e 1979); as Sete Irmãs perderam força, mas não foram eliminadas, como o próprio texto indica; e não houve realinhamento geral com a União Soviética. A alternativa sobre nacionalismo e orgulho popular é a mais tentadora, porque houve nacionalizações, mas ela se apoia em ideias que o texto não traz.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A alternativa sobre o reforço do nacionalismo também tem base histórica (as nacionalizações citadas no texto); a resposta adotada se apoia no trecho sobre o peso das multinacionais no transporte e na venda."
+  },
+  "0:27": {
+   "resposta": "A questão cobra a leitura de um texto de Mário Soares sobre o salazarismo.\n\nO autor condena o regime que oprimiu Portugal por quase meio século (o Estado Novo de Salazar, de caráter fascista), responsável pelo atraso, pelo isolamento e pelas guerras coloniais. E o contrapõe ao Portugal democrático e aberto à Europa que se constrói depois da \"revolução libertadora de 25 de Abril\" de 1974, a Revolução dos Cravos. Essa revolução derrubou a ditadura e abriu caminho para a independência das colônias africanas, encerrando o domínio colonial.\n\nAs demais estão erradas: o regime não era comunista; Portugal entrou na ONU em 1955, não nos anos 1980; o texto não fala de autonomia na ditadura contra submissão na democracia; e as guerras coloniais concentraram-se na África entre 1961 e 1974, não desde 1930.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra a interpretação dos protestos de junho de 2013 segundo Marcos Nobre.\n\nO autor mostra que reivindicações pontuais, como a tarifa do transporte ou os gastos com a Copa e a Olimpíada, levavam a questões estruturais: como os orçamentos públicos são feitos e executados e quais são as prioridades. E que o grito \"Não me representa\" não pedia só mudanças no sistema, mas uma nova forma de entender a representação política. A alternativa correta reúne essas três ideias: dinamismo, ligação entre o pontual e o estrutural, e debate sobre representação e participação.\n\nO texto não trata de corrupção como prática eterna, de manipulação por partidos, de redemocratização pós-ditadura nem de ingenuidade dos manifestantes; aliás, afirma o contrário desta última.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra a origem do embargo dos Estados Unidos a Cuba.\n\nApós a Revolução Cubana de 1959, o governo de Fidel Castro fez a reforma agrária e nacionalizou empresas e propriedades estadunidenses na ilha, como refinarias, usinas e bancos, sem a indenização exigida pelos EUA. Em resposta, Washington impôs restrições comerciais em 1960 e o embargo total em 1962, já no contexto da aproximação de Cuba com a União Soviética. O texto, de 2021, mostra que países europeus contestam o embargo por limitar negócios de suas empresas com a ilha.\n\nAs outras alternativas trazem décadas e motivos errados: o embargo não nasceu nos anos 1910, 1920, 1940 ou 1980, e a aproximação com a URSS começou ainda nos anos 1960.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão pede que se identifique o índice a partir do mapa e da escala.\n\nA legenda vai de 1 (pior) a 7 (melhor), com valores entre 2,87 e 5,86. Essa escala é a do Índice de Competitividade Global, do Fórum Econômico Mundial, que avalia fatores como produtividade, infraestrutura, instituições, inovação e eficiência dos mercados. No mapa, os melhores resultados (vermelho) estão em países centrais da globalização, como Estados Unidos, Canadá, Europa Ocidental, Japão e Austrália; os piores, em parte da África.\n\nO IDH varia de 0 a 1, assim como o índice de Gini, que mede concentração de renda (e nele, quanto maior, pior). Por isso a escala de 1 a 7 descarta essas opções.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão cobra o papel do Brasil na Divisão Internacional do Trabalho.\n\nO texto descreve o país como exportador de produtos de baixo valor agregado que podem ser estocados, como soja, milho, minério e carnes, enquanto grandes corporações estrangeiras dominam o comércio, a tecnologia e os insumos. Esse processo se chama reprimarização: a economia volta a depender da produção e da exportação de produtos primários, as commodities, e a indústria perde peso. O texto ainda aponta a contradição entre a produção farta para o mercado externo e a desnutrição de parte da população.\n\nO excerto não trata de incentivos fiscais, de capital especulativo, de investimento estatal nem de privatizações; fala de produção primária voltada à exportação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão cobra a leitura de um gráfico com dois eixos.\n\nAs barras (eixo da direita) mostram a população ocupada; as linhas (eixo da esquerda) mostram os ocupados com vínculo formal e os trabalhadores sem carteira e por conta própria.\n\nA partir de 2015, a linha dos ocupados com vínculo cai até 2018 e só se recupera um pouco em 2019, enquanto a linha dos sem carteira e por conta própria sobe sem parar, de cerca de 38,5 milhões para cerca de 42,5 milhões. Isso é o aumento da informalidade, associado à recessão de 2015-2016 e à lenta recuperação seguinte.\n\nO setor formal não se estabilizou (caiu), a população ocupada não diminuiu no período todo, e o gráfico não traz dados sobre terceirização. \"Prevalência\" de subempregos também é falso: os ocupados com vínculo continuam sendo mais numerosos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão pede que se reconheça o tipo de rocha pela imagem.\n\nA fotografia mostra um paredão com faixas horizontais de cores e texturas diferentes, sobrepostas umas às outras. Essas camadas são típicas de rochas sedimentares: sedimentos se depositam ao longo do tempo, em camadas sucessivas, que depois se compactam e se consolidam. Essa disposição em camadas se chama estratificação.\n\nIntrusão ígnea, solidificação do magma e \"recristalização do magma\" referem-se a rochas magmáticas, que não formam camadas desse tipo. A formação em alta pressão (e alta temperatura) caracteriza as rochas metamórficas, que costumam ter foliação, e não estratos sedimentares bem marcados como os da foto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra a relação entre clima e formação de solos.\n\nSolos zonais são bem desenvolvidos e profundos, com horizontes A, B e C nítidos, porque o material de origem sofreu intemperismo intenso por muito tempo. O clima quente e úmido acelera esse intemperismo químico, e por isso o latossolo, típico de regiões tropicais como boa parte do Brasil, é o exemplo clássico: profundo, bem drenado e muito intemperizado.\n\nOs demais são solos intrazonais ou azonais: o hidromórfico depende do encharcamento; o salino, do acúmulo de sais em clima seco; o calcimorfo, da rocha calcária de origem. O litossolo é raso, pouco desenvolvido, quase sem horizontes, o contrário do que o texto descreve.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão cobra a interpretação de uma tabela sobre limites de agrotóxicos na água.\n\nOs limites máximos de resíduos permitidos na água potável no Brasil são de 300 a 5 000 vezes maiores que os da União Europeia; no caso do glifosato, 500 µg/L contra 0,1 µg/L. Isso significa que a legislação brasileira aceita concentrações muito mais altas desses produtos na água que a população consome.\n\nA consequência é a insegurança quanto à contaminação e à qualidade dos recursos hídricos, com riscos à saúde humana e aos ecossistemas aquáticos.\n\nLimites mais permissivos não trazem controle da biodiversidade, segurança para espécies nativas nem proteção contra espécies invasoras, e a tabela não trata de sementes transgênicas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão cobra o conhecimento sobre a cooperação internacional em mudanças climáticas.\n\nEm 1988, a ONU, por meio do Programa das Nações Unidas para o Meio Ambiente e da Organização Meteorológica Mundial, criou o Painel Intergovernamental sobre Mudanças Climáticas, o IPCC. Ele não faz pesquisa própria: reúne cientistas do mundo inteiro para avaliar a produção científica sobre o clima e publica relatórios periódicos que orientam as negociações internacionais.\n\nAs demais atribuições estão erradas: o Pnuma é de 1972 e não trata de exploração do espaço; o escritório de assuntos humanitários não foi criado para avaliar o clima; o Fórum sobre Florestas não gerencia créditos de carbono; e o Conselho Econômico e Social existe desde a fundação da ONU, em 1945.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão cobra a interpretação da Revolução Científica do século XVII.\n\nKoyré fala da secularização da consciência: o homem perdeu seu lugar num mundo fechado e hierárquico, explicado pela teologia, e teve de reconstruir seus conceitos e seu quadro de referência. Nesse processo, com Galileu, Descartes e Newton, a razão humana, apoiada na matemática e na experimentação, passa a ser o instrumento para conhecer a natureza, no lugar da autoridade e da revelação. Trata-se da revalorização do potencial da razão humana.\n\nAs alternativas sobre a patrística, o paradigma transcendental e a autoridade da verdade pré-estabelecida descrevem justamente o que foi abandonado. A crença popular também não ganha papel central: o método científico se opõe ao senso comum.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão cobra a passagem do mito à filosofia na Grécia antiga.\n\nO texto diz que a filosofia é \"irmã mais nova\" do mito: nasceu dele, mas se pôs a confrontá-lo. Os primeiros filósofos, os pré-socráticos, deixaram de explicar o mundo pela vontade dos deuses e passaram a buscar a arché, o princípio racional de todas as coisas (a água, o ar, o número, os átomos). Essa passagem transformadora é a racionalização da natureza, isto é, a busca de explicações racionais para a physis.\n\nA valorização das figuras divinas é característica do mito, não da filosofia nascente. A organização da pólis e a reflexão ética foram temas importantes, sobretudo com Sócrates, mas não são a relação entre mito e filosofia de que o texto trata. A expansão territorial é tema histórico, não filosófico.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão cobra o conceito de Ecologia Profunda.\n\nO texto opõe os movimentos \"rasos\", que tentam diminuir os problemas ambientais pensando no bem-estar das gerações humanas, à Ecologia Profunda, que vai à raiz dos problemas e defende os direitos de toda a comunidade biótica: todos os seres vivos têm valor em si, não só pela utilidade que têm para o ser humano. Isso exige um novo paradigma na relação entre ser humano e natureza, que deixa de ser vista como recurso a serviço da humanidade.\n\nCampanhas de economia verde, revisão de tecnologias e acordos entre países são medidas que podem caber nos movimentos \"rasos\", sem mudar a visão de fundo. Manter os impactos da crise é o oposto do que se propõe.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão cobra o sentido de \"crítica\" na filosofia de Kant.\n\nNo texto 1, Kant diz que o problema do dogmatismo é usar a razão sem antes examinar \"sua própria capacidade\": como e com que direito ela chega a seus princípios. O texto 2 mostra que Kant, abalado pelo ceticismo de Hume, quis superar a oposição entre racionalismo e empirismo. A crítica kantiana, portanto, é o exame das condições e dos limites do conhecimento: o que a razão pode conhecer e até onde pode ir.\n\nA dúvida metódica é de Descartes. Kant não nega o conhecimento científico; ao contrário, quer fundamentá-lo. Ele também não recusa todo elemento transcendental, já que fala em condições a priori do conhecimento, e a crítica não se reduz a fundar a experimentação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão cobra a relação entre o alvo de um medicamento e o tipo de organismo.\n\nA bula diz que o remédio inibe a síntese de glucanas, componentes da parede celular feita de polissacarídeos como glucanas e quitina. Parede com quitina e glucanas é característica dos fungos. Logo, o medicamento é um antifúngico (do grupo das equinocandinas).\n\nO único fungo entre as alternativas é Candida albicans, uma levedura que causa candidíase, comum no trato genital e mais grave em pessoas imunodeprimidas.\n\nRhabdovirus é vírus da raiva (sem parede celular); Rickettsia rickettsii é bactéria, com parede de peptidoglicano; Entamoeba histolytica é protozoário, sem parede; e Oxyurus vermicularis é verme (animal), também sem parede celular.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão cobra a resposta de plantas de sol e de sombra à luz.\n\nRespiração: o enunciado diz que as duas plantas consomem a mesma quantidade de oxigênio, e a temperatura ficou constante. Logo, a respiração não muda entre 12h e 18h: é a barra 1, igual nos dois horários.\n\nPlanta heliófila (de sol): precisa de muita luz; a pleno sol sua fotossíntese é a maior (barra 3) e, na sombra, cai bastante (barra 3 baixa às 18h).\n\nPlanta umbrófila (de sombra): atinge seu máximo de fotossíntese com pouca luz, então o rendimento é o mesmo ao sol e na sombra: barra 2, igual nos dois horários.\n\nOrdem pedida: heliófila, umbrófila, respiração = 3, 2 e 1.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A questão cobra a classificação em cinco reinos (Monera, Protoctista, Fungi, Plantae e Animalia) dos organismos de cada lanche.\n\nPaulo: ovo e presunto (Animalia), cebola (Plantae) e queijo, que vem do leite (Animalia) e é obtido com a ação de bactérias (Monera). Total: 3 reinos.\nRicardo: trigo e ervas (Plantae), leite da coalhada (Animalia), bactérias da coalhada e do fermento natural (Monera) e leveduras do fermento natural (Fungi). Total: 4 reinos.\nThiago: frango (Animalia), cogumelos (Fungi) e azeite de oliva (Plantae). Total: 3 reinos.\n\nPaulo e Thiago empatam com o menor número, 3, e dividem a conta.\n\nO ponto delicado é o queijo: o gabarito conta bactérias nele. Sem elas, Paulo teria só 2 reinos e pagaria sozinho, o que nenhuma alternativa prevê.\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "O resultado depende de contar bactérias no queijo fresco; queijos frescos nem sempre levam fermento bacteriano, e sem esse reino Paulo pagaria sozinho, opção que não está entre as alternativas."
+  },
+  "0:44": {
+   "resposta": "A questão cobra o fenótipo Bombaim, um caso de epistasia no sistema ABO.\n\nQuem é hh não produz o antígeno H, e sem ele não se formam os antígenos A e B, mesmo com os alelos Iᴬ ou Iᴮ. Suas hemácias não têm A, B nem H, e o plasma tem anti-A, anti-B e também anti-H. Como o sangue tipo O comum é rico em antígeno H, o receptor Bombaim reage contra ele. Por isso só pode receber de outro Bombaim, como diz a notícia.\n\nAs outras são falsas: o filho \"O\" de pais AB é hh, e basta que cada pai seja Hh, sem ser homozigoto recessivo; hemácias Bombaim não aglutinam com anti-H, porque não têm H; por não terem antígenos A, B ou H, elas podem ser doadas a qualquer tipo; e um casal O × O em que ambos sejam Hh pode ter filho Bombaim.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Conceito: especiação alopátrica depende de isolamento geográfico.\n\nNo mundo imaginado por Dawkins não há ilhas, lagos nem cordilheiras: qualquer animal pode chegar a qualquer ponto do continente. Sem barreiras, as populações de uma espécie sexuada continuam cruzando entre si e o fluxo gênico mantém o conjunto homogêneo, então não se formam populações isoladas que possam divergir até virar espécies novas — não há especiação alopátrica.\n\nA seleção natural, porém, continua agindo: ela depende só de variação hereditária e de diferenças de sobrevivência e reprodução, o que existe em qualquer ambiente. Por isso a alternativa que afirma \"seleção natural, mas não especiação alopátrica\" é a correta. As demais invertem a lógica: a (A) admite justamente a especiação alopátrica, impossível sem barreiras.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Conceitos: superfície de contato, extração com solvente e volatilidade.\n\nTriturar os grãos quebra-os em pedaços menores, o que aumenta a superfície de contato entre o amendoim e o etanol; assim o óleo se dissolve mais depressa. Usar um líquido para dissolver seletivamente um componente de um sólido é a extração com solvente (a filtração separa sólido de líquido, não dissolve nada).\n\nDepois, deixar o prato exposto até o etanol evaporar só funciona porque o etanol é bem mais volátil que o óleo, isto é, tem maior pressão de vapor na mesma temperatura. Note que ter maior temperatura de ebulição seria o contrário: o etanol ferve a temperatura mais baixa que o óleo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Conceito: cálculo estequiométrico da água de hidratação.\n\nMassa molar do sal anidro, Ca(C₃H₅O₃)₂ (C = 12, H = 1, O = 16, Ca = 40):\nânion lactato C₃H₅O₃⁻ = 36 + 5 + 48 = 89 g/mol\nCa(C₃H₅O₃)₂ = 40 + 2 × 89 = 218 g/mol\nn(sal anidro) = 21,8 ÷ 218 = 0,10 mol\n\nMassa de água perdida no aquecimento:\nm(H₂O) = 30,8 − 21,8 = 9,0 g\nn(H₂O) = 9,0 ÷ 18 = 0,50 mol\n\nProporção: x = 0,50 ÷ 0,10 = 5 moléculas de água por fórmula do sal, ou seja, Ca(C₃H₅O₃)₂ · 5 H₂O.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Conceito: emissão beta (β⁻).\n\nNa emissão β⁻ um nêutron vira próton: o número de massa (A) não muda e o número atômico (Z) aumenta 1 — o elemento passa a ser o seguinte na tabela periódica.\n\nTestando as alternativas:\ncobalto-60 (Z = 27) → níquel-60 (Z = 28): A igual, Z + 1. É β⁻.\nhidrogênio-3 → hidrogênio-2: mesmo Z, perde massa (seria perda de nêutron).\nrádio-226 → radônio-222: A − 4 e Z − 2, emissão alfa.\ncarbono-13 → carbono-14: ganho de nêutron, não é decaimento β.\nfósforo-30 (Z = 15) → silício-30 (Z = 14): Z diminui, é emissão β⁺ (ou captura eletrônica).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "Conceito: tipos de ligação química.\n\nHCCl₃ (clorofórmio) é formado só por não metais (C, H e Cl), unidos por ligações covalentes: tipo 1.\n\nCaCl₂ é formado por um metal (Ca) e um não metal (Cl): os íons Ca²⁺ e Cl⁻ se unem por ligação iônica, e não há ligação covalente: tipo 2.\n\nNH₄Cl tem o íon amônio, NH₄⁺, em que N e H estão unidos por ligações covalentes, e esse cátion se liga ao Cl⁻ por ligação iônica: tem os dois tipos, tipo 3.\n\nA ordem 1, 2, 3 é, portanto, HCCl₃, CaCl₂ e NH₄Cl. A tentação é classificar o NH₄Cl como covalente por não ter metal, mas o amônio forma sal iônico.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Conceito: hidratação de alcinos e cadeia da acetona.\n\nA acetona é a propanona: CH₃–CO–CH₃, com três carbonos e a carbonila no carbono central.\n\nO produto genérico é R–(C=O)–CH₂–R'. Para que ele seja CH₃–CO–CH₃, o grupo ligado à esquerda da carbonila deve ser CH₃ (R = CH₃) e o grupo CH₂–R' deve ser CH₃, o que exige R' = H.\n\nAssim o alcino de partida é CH₃–C≡CH (propino), cuja hidratação dá o enol CH₃–C(OH)=CH₂, que se converte em propanona. Com R = R' = CH₃ (alternativa E), o produto teria quatro carbonos (butanona).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "Conceito: lançamento horizontal (movimentos independentes nos eixos).\n\nDados da figura: o centro de massa sai a 1,8 m e chega a 1,0 m de altura; deslocamento horizontal de 2,0 m.\n\nQueda vertical: h = 1,8 − 1,0 = 0,8 m\nh = g·t²/2 → 0,8 = 10·t²/2 → t² = 0,16 → t = 0,4 s\n\nNa horizontal o movimento é uniforme (só o peso atua, na vertical):\nv₀ = Δx ÷ t = 2,0 ÷ 0,4 = 5,0 m/s\n\nO erro comum é usar a altura total de 1,8 m (t = 0,6 s e v₀ ≈ 3,3 m/s); a queda que importa é a do centro de massa entre I e IV.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "Conceito: transformação isovolumétrica de gás ideal (Q = n·cᵥ·ΔT).\n\nDados: n = 4 mol, V = 20 × 10⁻³ m³, P₁ = 2 × 10⁵ Pa, P₂ = 6 × 10⁵ Pa.\n\nTemperaturas por PV = nRT:\nT₁ = (2 × 10⁵ · 20 × 10⁻³) ÷ (4 · 8) = 4000 ÷ 32 = 125 K\nT₂ = (6 × 10⁵ · 20 × 10⁻³) ÷ (4 · 8) = 12000 ÷ 32 = 375 K\nΔT = 250 K\n\nCalor a volume constante (não há trabalho, todo o calor vira energia interna):\nQ = n · cᵥ · ΔT = 4 · 12 · 250 = 12 000 J\n\nConferência: para gás monoatômico, Q = ΔU = (3/2)·V·ΔP = 1,5 · 0,02 · 4 × 10⁵ = 12 000 J.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "Conceito: ângulo limite e lei de Snell.\n\nO ângulo limite L, do bloco para o ar, satisfaz sen L = n(ar) ÷ n(bloco):\nsen 30° = 1 ÷ n → n = 1 ÷ 0,5 = 2\n\nNa refração ar → bloco com incidência de 60°:\n1 · sen 60° = 2 · sen r\nsen r = (√3/2) ÷ 2 = √3/4\n\nPela tabela, sen r = √3/4 corresponde a r = 25,6°. Faz sentido: a luz entra num meio mais refringente e se aproxima da normal (r < 60°). Quem usar sen r = √3/2 está esquecendo o índice do bloco.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "Conceito: velocidade de propagação = distância percorrida ÷ tempo.\n\nAs duas pessoas começam ao mesmo tempo e, no mesmo intervalo de tempo, a perturbação de cada corda percorre a mesma distância L: nas duas figuras a onda acabou de chegar à parede. Logo:\nv₁ = L ÷ Δt e v₂ = L ÷ Δt → v₂ = v₁ = 1,0 · v₁\n\nO que muda entre as figuras é o comprimento de onda (há mais oscilações em L na figura 2) e, portanto, a frequência com que cada pessoa agita a corda — não a velocidade. A tentação é calcular v = λ·f supondo a mesma frequência e concluir que v₂ < v₁, mas a frequência não é dada nem igual; o dado que decide é o mesmo tempo para a mesma distância.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "Conceito: indução eletromagnética (lei de Faraday).\n\nA bobina, presa à membrana, vibra dentro do campo magnético do ímã. Esse movimento faz variar o fluxo magnético que atravessa as espiras, e toda variação de fluxo induz uma força eletromotriz (tensão) nos terminais da bobina; com o circuito fechado, surge uma corrente induzida que acompanha a frequência do som.\n\nAs outras alternativas não descrevem a física do aparelho: a vibração não separa os polos do ímã (A), o ímã não cria tensão elétrica a ser eliminada nem a corrente é constante — ela é alternada (C), a constante elástica da membrana não muda (D) e o comprimento do fio da bobina é fixo (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "Conceito: função afim (crescimento linear) a partir de dois pontos.\n\nDados do gráfico, em milhões de unidades:\nverticais: 1,00 (2010) → 1,38 (2020): taxa = 0,38 ÷ 10 = 0,038 por ano\nhorizontais: 1,30 (2010) → 1,38 (2020): taxa = 0,08 ÷ 10 = 0,008 por ano\n\nProjeção para 2022 (2 anos depois de 2020):\nverticais = 1,38 + 2 · 0,038 = 1,456\nhorizontais = 1,38 + 2 · 0,008 = 1,396\ndiferença = 1,456 − 1,396 = 0,060 milhão = 60 mil\n\nAtalho: em 2020 as duas curvas se cruzam, então a diferença cresce (0,038 − 0,008) = 0,030 milhão por ano, ou 30 mil por ano; em 2 anos, 60 mil.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "Conceito: equação da circunferência a partir de um triângulo retângulo.\n\nComo PA = PC, o ponto P está na mediatriz de AC; no losango ABCD essa mediatriz é a diagonal BD. Então P, D, M e B são colineares, e as diagonais do losango se cortam em ângulo reto no ponto médio M.\n\nNo eixo Ox (que contém BD), com PD = x e DM = 6:\nPM = x + 6\nTriângulo PMA, retângulo em M (Pitágoras):\nPA² = PM² + AM²\n10² = (x + 6)² + y²\n\nA equação (x + 6)² + y² = 100 é a de uma circunferência de centro (−6, 0) e raio 10 cm.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "Conceito: probabilidade com frações de um total.\n\nSejam T o total de estudantes, H o número de meninos e C o total de canhotos.\n\nMeninos canhotos = H/4 e meninos destros = 3H/4.\nMeninos destros = 3T/10 → 3H/4 = 3T/10 → H = 2T/5\n\nMeninas canhotas = C/4, logo meninos canhotos = 3C/4:\n3C/4 = H/4 → C = H/3 = 2T/15\nMeninas canhotas = C/4 = 2T/60 = T/30\n\nProbabilidade de sortear uma aluna canhota = (T/30) ÷ T = 1/30.\n\nExemplo numérico: com 30 alunos, 12 meninos (3 canhotos, 9 destros = 3/10 de 30), 4 canhotos no total e 1 menina canhota.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "Conceito: projeção do círculo de luz e sombra da Lua (trigonometria no círculo).\n\nA face iluminada é a metade voltada para o Sol, limitada pelo diâmetro perpendicular aos raios solares (o terminador, vertical na figura). Quem olha da Terra vê o disco de diâmetro 2r, mas enxerga esse diâmetro inclinado: a linha divisória aparece deslocada do centro de r·cos θ, na direção da parte escura.\n\nAssim:\nx (parte clara) = r + r·cos θ\ny (parte escura) = r − r·cos θ\ne x + y = 2r, o diâmetro.\n\nTeste dos extremos: com θ = 0 a Terra recebe a luz de frente, x = 2r e y = 0 (lua cheia); com θ = 90°, x = y = r (quarto). Nas alternativas com seno, θ = 0 daria x = r, e não a lua cheia.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "Conceito: escala de área (razão de áreas = quadrado da razão de distâncias) e potências de 2.\n\nCada clique dobra a escala linear, então a área real associada ao mesmo quadrado da tela muda por um fator 2² = 4.\n\nRazão entre as áreas reais:\n32 768 ÷ 8 = 4096\n4096 = 2¹² = 4⁶\n\nComo cada clique corresponde a um fator 4 na área, foram 6 cliques. A armadilha é contar o expoente de 2 (12, alternativa A), esquecendo que dobrar distâncias quadruplica áreas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

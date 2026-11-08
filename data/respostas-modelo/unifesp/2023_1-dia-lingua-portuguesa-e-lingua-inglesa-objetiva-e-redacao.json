@@ -1,0 +1,132 @@
+{
+ "indice": "data/questoes/unifesp/2023_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra o recurso que sustenta o humor do cartum. A cena retoma a fábula dos Três Porquinhos, em que o lobo derruba com um sopro a casa de palha. No cartum, o lobo aparece de terno e pasta, como um corretor de imóveis, tentando convencer os três porquinhos de que a palha está \"muito na moda agora\". Só entende a graça quem reconhece a história original e percebe o interesse do lobo em que eles morem numa casa frágil. Esse diálogo com outro texto conhecido é a intertextualidade.\n\nNão há atenuação de algo desagradável (eufemismo), reflexão sobre a própria linguagem (metalinguagem), repetição redundante (pleonasmo) nem exagero (hipérbole).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão pede a caracterização do lobo a partir do contexto. Pela fábula, sabe-se que o lobo quer comer os porquinhos e que a casa de palha é a mais fácil de derrubar. Ao se apresentar como corretor e elogiar a palha como material da moda, ele manipula os clientes para que escolham a casa mais frágil, planejando tirar proveito disso depois. Quem age de modo interesseiro e premeditado é calculista.\n\nEle não é subserviente (finge servir, mas para enganar), nem ingênuo (é ele quem engana), nem impaciente (está montando um plano). Vaidoso também não se aplica: o cartum não mostra preocupação do lobo com a própria imagem.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão cobra a oposição explorada na primeira estrofe. O eu lírico afirma que quem nunca sentiu um pesar tenta em vão retratar a tristeza, porque sempre aparecerão, \"por baixo da pintura\", vestígios de alegria. A \"pintura\" é a aparência de tristeza que a pessoa tenta mostrar; o que está por baixo é o que ela realmente sente. O contraste é entre o que se mostra e o que se é: essência x aparência.\n\nA estrofe seguinte reforça a ideia: só a quem sofre de fato, como o eu lírico, cabe \"esta figura\". Não há oposição entre razão e loucura, abstração e concretude, determinação e hesitação ou consideração e indiferença.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra a identificação de sujeitos. Na ordem direta, a primeira estrofe fica: \"Quem na vida um só pesar não sente procura em vão retratar a tristeza\".\n\n- Quem procura? \"Quem na vida um só pesar não sente\": a oração inteira, introduzida por \"quem\", é o sujeito de \"procura\". \"Retratar a tristeza\" é o que se procura, isto é, o complemento.\n- Quem não sente? O pronome \"quem\". \"Um só pesar\" é o que não se sente, ou seja, o objeto direto de \"sente\".\n\nPor isso a sequência correta é \"Quem na vida um só pesar não sente\" e \"Quem\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra um traço pré-romântico do poema. A Marquesa de Alorna escreve ainda dentro do Arcadismo, mas o soneto antecipa o Romantismo ao centrar-se nos sentimentos do eu lírico. Ele fala de si em primeira pessoa (\"Sinto\", \"eu, infeliz\"), expõe a dor da perda, as tristes lembranças, a falta de esperança e chega a sentir-se \"morrer sem acabar\". Essa ênfase na expressão subjetiva é característica romântica.\n\nA forma fixa (soneto) e a impessoalidade estão ligadas ao Classicismo e ao Arcadismo, não ao Romantismo; o poema não tem tom de engajamento social nem descreve uma paisagem bucólica.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra o paradoxo, figura que une ideias contraditórias numa mesma afirmação. No verso \"Dos prazeres o mais cruel pesar\", os prazeres aparecem como fonte do mais cruel sofrimento: o que deveria dar alegria produz dor. O sentido se explica no contexto (a lembrança dos prazeres perdidos faz sofrer), mas a formulação junta opostos, o que caracteriza o paradoxo.\n\nNas outras alternativas há afirmações sem contradição interna: sentir o efeito das mudanças, não ter o mínimo prazer, nunca ter sentido um pesar e sentir tristes lembranças. Atenção: o paradoxo mais conhecido do poema, \"chorar, e a não chorar\" e \"morrer sem acabar\", está em versos que não aparecem nas alternativas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra o reconhecimento de um autor a partir de uma descrição crítica. O texto fala de um escritor que, nos primeiros livros, ainda estava preso aos cânones românticos e depois se libertou deles; que recusou personagens só boas ou só más e a submissão das figuras à natureza tropical; e que, retratando o mundo burguês, não se contentou com as aparências, sondando as \"perspectivas inumeráveis da alma humana\". Esse percurso, da fase romântica para a análise psicológica, corresponde a Machado de Assis.\n\nJosé de Alencar é romântico; Aluísio Azevedo, naturalista, valoriza a força do meio e da natureza; Manuel Antônio de Almeida não teve fase de libertação do Romantismo; Graciliano Ramos é modernista e não passou pelo Romantismo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão pede a tese do autor. No último parágrafo, Damásio resume a proposta do livro: o sistema de raciocínio evoluiu como uma extensão do sistema emocional automático, com a emoção desempenhando vários papéis no raciocínio. Ou seja, razão e emoção estão intrinsecamente ligadas na evolução.\n\nAs alternativas A e B separam os dois sistemas, ideia contrária ao texto. A alternativa D repete a visão que o autor contesta, a de que a emoção atrapalha a razão. A alternativa E também contraria o texto, que reconhece que a emoção pode ajudar, embora às vezes seja contraproducente.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra o valor da palavra \"mesmo\". No trecho, o autor diz que muita gente estranhou sua ideia e que essa gente \"mesmo a recebeu com certo ceticismo\". Aqui \"mesmo\" equivale a \"até\" ou \"inclusive\": acrescenta uma reação mais forte ao estranhamento, incluindo o ceticismo na lista de reações. Trata-se de valor de inclusão.\n\nNão é concessão: \"mesmo\" seria concessivo em construções como \"mesmo que\" ou \"mesmo assim\". Também não indica condição, comparação ou finalidade.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra a classe gramatical de \"a\" e \"para\". Em \"um substituto para a razão\", \"para\" é preposição: liga \"substituto\" ao seu complemento.\n\nEntre as alternativas, só em E o \"a\" também é preposição: \"reagir a uma ameaça\" (reagir pede a preposição \"a\", e \"uma\" já é o artigo). Nas outras:\n- A: \"a apresentei\", \"a\" é pronome oblíquo (retoma a ideia);\n- B: \"a opção\", artigo definido;\n- C: \"a emoção\", artigo definido;\n- D: \"com a emoção\", artigo definido (a preposição é \"com\").\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão cobra o valor dos tempos verbais. O pretérito perfeito do indicativo apresenta uma ação concluída num momento determinado do passado. \"Construí\" (construí a hipótese) está nesse tempo: o autor formulou a hipótese num momento específico, e a ação terminou.\n\nNas outras alternativas: \"daria\" está no futuro do pretérito, expressando hipótese; \"era\" e \"apresentavam\" estão no pretérito imperfeito, que indica fato contínuo ou habitual no passado, não pontual; \"dá\" está no presente, indicando verdade geral.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão cobra o discurso indireto livre, em que a fala ou o pensamento de um personagem aparece misturado à voz do narrador, sem travessão nem verbo de elocução (\"disse\", \"respondeu\"). Em \"Aos patrões não adianta ajudar; pois que se danem\", quem fala é formalmente o narrador, mas a expressão desabafada e coloquial \"pois que se danem\" é a reação de Belisário à resposta grosseira do gerente.\n\nEm A e C há discurso direto, marcado por travessão ou aspas e por verbo de elocução. Em B e E o narrador apenas relata, com sua própria voz, o que Belisário fez.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra uma marca típica da crônica: gênero curto, publicado em jornal, que trata de fatos do cotidiano em linguagem próxima da conversa. O texto de Drummond usa registro informal em várias passagens, como \"vê se te manca, tá?\", \"morou?\", \"chupar jabuticaba dos outros\", \"Quer mais umas torradinhas?\" e \"sumir pra onde?\".\n\nA linguagem não é hermética (difícil, fechada); o texto não dá lição de moral nem faz crítica política direta; e não há reflexão sobre a própria linguagem ou sobre o ato de escrever (viés metalinguístico).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra o valor do prefixo \"re-\". Em \"fregueses também remodelados\", o prefixo indica repetição: remodelar é modelar de novo, ganhar nova forma — como a confeitaria, os fregueses também teriam de ser \"refeitos\".\n\nA alternativa A é a armadilha: em \"regressando\", o \"re-\" faz parte do verbo \"regressar\" (voltar) e não indica repetir uma ação. Nas demais alternativas não há palavra formada com prefixo de repetição.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão cobra a expressão expletiva (ou de realce), que pode ser retirada sem alterar o sentido. Em \"E que é que você fez durante esse meio ano?\", o \"é que\" serve apenas para dar ênfase à pergunta. Sem ele, a frase continua completa: \"E que você fez durante esse meio ano?\".\n\nNas outras alternativas, nenhum termo pode ser retirado sem perda de sentido ou de estrutura: \"mais umas\" indica quantidade; \"rapaz\" é vocativo; \"o\" em \"não o encontrei\" é objeto direto; e \"a pena\" faz parte da locução \"valer a pena\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão pede a descrição do \"serial home-swapper\" nos dois primeiros parágrafos. O texto conta que Evie Kalo e o marido passaram a trabalhar remotamente e, desde então, trocam o apartamento em Amsterdã por uma série de \"workcations\" (trabalho mais férias) pela Europa, ficando cerca de duas semanas em cada lugar. Em seguida explica que a troca de casas permite viver viajando por uma fração do custo. Ou seja, é alguém que busca trocas frequentes de casa como forma alternativa de viver e trabalhar.\n\nA alternativa A fala em exigência do emprego; B, em hospedagem de graça, quando há troca; D descreve só o trabalho remoto, não a troca de casas; E fala em serviços de férias para vagar pelo mundo, e o texto trata de troca de casas para trabalhar.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão pede o aspecto positivo citado por Evie Kalo. Sua fala diz que o que eles adoram na experiência é confiar nas pessoas que ficam na casa deles, porque essas pessoas também confiam neles para ficar na casa delas. O ponto destacado é, portanto, a confiança mútua entre as partes.\n\nAs outras alternativas trazem ideias que aparecem no texto ou são plausíveis (trabalho remoto, combinar trabalho e férias, conhecer lugares novos), mas não são o que a própria Evie aponta como o que ela mais gosta.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra a referência do pronome \"they\". A frase diz que, aproveitando seu bem mais valioso, a casa ou o apartamento, eles conseguem ficar em acomodações confortáveis de outras pessoas pelo mundo. Quem faz isso são as pessoas que trocam de casa: o sujeito da frase anterior, \"Home swaps allow people...\", refere-se a quem troca. Logo, \"they\" remete aos \"home swappers\".\n\nAs alternativas B e C descrevem traços de parte dessas pessoas (o casal com agenda cheia, quem quer economizar), mas não o grupo a que o pronome se refere. D e E não correspondem ao texto, que diz justamente que a troca evita comprar uma segunda casa.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão cobra o sentido de \"yet\". O parágrafo diz que as pessoas encontram casas informalmente, por colegas ou amigos, e que outras recorrem às redes sociais; \"Yet, the most popular method...\" introduz uma ressalva: apesar disso, o método mais usado são os sites on-line. Nesse uso, \"yet\" é conjunção adversativa, como \"however\" e \"but\", e equivale a \"no entanto\".\n\n\"Yet\" também pode significar \"ainda\" ou \"até agora\" em frases negativas ou interrogativas (\"not yet\"), mas aqui, no início da oração e seguido de vírgula, tem valor de contraste.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão pede um subtítulo para o quarto parágrafo. Ele traz dois dados principais: o número diário de trocas finalizadas no site Home Exchange cresceu 50% em relação a 2019 (demanda maior), e a duração média das viagens aumentou, com 59% dos membros querendo ficar dez dias ou mais (estadias mais longas). O subtítulo \"Swaps: rising demand, longer stays\" resume exatamente isso.\n\nO parágrafo não fala de expectativas confirmadas (B), de ajuda para mudar de casa (C), de viagens mais fáceis (D) nem dos motivos para trocar de casa (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão cobra o sentido da expressão \"to a great extent\". Ela significa \"em grande medida\" ou \"em grande parte\". Na frase, o texto diz que o aumento de 25% das viagens domésticas é atribuído, em grande parte, às ofertas de \"workcation\".\n\nAs alternativas A, B e D confundem \"extent\" (grau, alcance) com extensão de tempo ou de distância; a alternativa E (\"cada vez mais\") também não corresponde ao sentido de grau ou proporção da expressão.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão pede o propósito principal do texto. Os autores apresentam a perda de espécies, criticam o fato de que até os cientistas da ONU continuam priorizando o bem-estar humano acima de tudo, numa cultura antropocêntrica que vê o ser humano como separado das outras espécies e superior a elas, e concluem que é preciso mudar de modo fundamental a forma como vemos a natureza e as outras espécies. Ou seja, defendem que humanos, animais e natureza têm valor em si mesmos.\n\nA alternativa A trata a \"sexta extinção\" como anúncio, mas o texto só cita a expressão; B e C não correspondem ao texto, que não discute números divulgados e critica, em parte, a abordagem da COP15. D é ampla demais: a crítica é a uma visão de mundo, não a atitudes de pessoas e países em geral.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "O texto defende uma mudança na forma de ver a natureza e as outras espécies; a ideia de que tudo tem \"valor inerente\" está implícita, não escrita, e a alternativa D também tem alguma relação com o texto."
+  },
+  "0:23": {
+   "resposta": "A questão cobra o sentido de \"unprecedented\". A palavra é formada por \"un-\" (negação) + \"precedent\" (precedente) + \"-ed\": algo sem precedentes, que nunca aconteceu antes. No texto, a perda de florestas e áreas úmidas é descrita como inédita em escala.\n\n\"Cannot be questioned\" seria \"unquestionable\"; \"could not be predicted\", \"unpredictable\"; \"will never be recovered\", \"irrecoverable\"; e \"no limits\", \"unlimited\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão pede o motivo da crítica aos cientistas conservacionistas. O texto diz que agentes-chave, como o grupo de cientistas que produz relatórios para a ONU, continuam a priorizar o bem-estar humano acima de tudo, o que pode resultar de uma cultura antropocêntrica, que considera os humanos separados das outras espécies e de maior valor que elas. No terceiro parágrafo, critica políticas presas a premissas antropocêntricas. Por isso os cientistas são criticados por seguirem uma visão antropocêntrica, em que a natureza serve aos objetivos humanos.\n\nO texto não diz que os relatórios contradizem a realidade (A), nem que eles criaram o conceito (B), nem que se autoproclamam peças-chave (D). A busca pelo crescimento (E) é apontada como causa da perda de ecossistemas, mas não como algo que eles desconsideram.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão pede a relação entre o cartum e o texto. No cartum, dois homens serram a árvore onde está um orangotango, ao lado de uma placa de \"Habitat\". O animal diz que, assim como os humanos, eles têm linguagem e cultura, e ironiza as ferramentas \"primitivas\" dos humanos (a serra que destrói o seu habitat). Ele recusa a ideia de que o ser humano seja superior às outras espécies — exatamente a visão antropocêntrica criticada no texto. Logo, o animal não segue o antropocentrismo.\n\nEle não protege a árvore (A), não desrespeita a harmonia entre humanos e natureza (B) nem defende a supremacia animal (C), já que fala em igualdade (\"just like you\"). Embora seja vítima, sua fala não acusa os homens diretamente (E): ironiza a pretensa superioridade deles.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

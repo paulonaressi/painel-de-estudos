@@ -1,0 +1,127 @@
+{
+ "indice": "data/questoes/unifesp/2024_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra a leitura do humor da tirinha, que nasce da inversão de valores. Numa empresa comum, a queda da taxa de rejeição seria uma boa notícia; no inferno, porém, ser rejeitado é sinal de que o lugar cumpre seu papel. Quando o chefe anuncia, como motivo da reunião de crise, que a rejeição caiu 1%, fica claro que ele vê essa queda como o problema: o inferno estaria ficando menos temido. Por isso a alternativa E está correta.\n\nAs alternativas A e C invertem o raciocínio (tratam a tendência como solução), e D e B dizem o contrário do que o chefe quer: ele não pretende diminuir a rejeição nem tornar o inferno atraente, e sim recuperar a rejeição perdida.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão cobra a identificação da função da linguagem predominante. No primeiro parágrafo, o narrador interrompe a história para falar com o leitor e comentar a própria narração: diz que acredita que, \"pelo que temos referido\", nenhum leitor duvida do que aconteceu, e que é \"escusado dizer a quem\" Leonardo amava. Ou seja, o texto se volta sobre si mesmo, refletindo sobre o que já foi contado e sobre o que nem precisa ser dito. Esse comentário do narrador sobre o ato de narrar é o viés metalinguístico.\n\nNão há saudade do passado (nostálgico), registro de fatos históricos, idealização do amor (o tom é irônico, comparando a paixão a um \"tributo\" inevitável) nem lição moral explícita.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra o valor semântico de uma oração subordinada. O trecho sublinhado começa por \"ainda que\", conjunção concessiva: admite um fato que poderia contrariar a ideia principal sem, no entanto, impedi-la. A ideia principal é que Leonardo, como todos, teve de pagar o \"tributo\" do amor; o trecho concessivo reconhece que, para uns, esse tributo é leve e, para outros, pesado — e mesmo assim ninguém escapa dele.\n\nTeste útil: dá para trocar \"ainda que\" por \"embora\" ou \"mesmo que\" sem mudar o sentido, o que confirma a concessão. Não há comparação (como, tal qual), condição (se, caso), consequência (de modo que) nem causa (porque).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra a função sintática de uma oração. Em \"É escusado dizer a quem\", a oração \"dizer a quem\" é o sujeito do predicado \"é escusado\": o que é escusado (desnecessário)? Dizer a quem. Trata-se de oração subordinada substantiva subjetiva.\n\nEntre as alternativas, a única expressão que também é sujeito é \"a roda\", em \"principiou a roda a desandar-lhe\": quem principiou a desandar? A roda. Nas demais: \"neste mundo\" é adjunto adverbial de lugar; \"grande fortuna\" é objeto direto de \"prometia\"; \"ao seu antigo estado\" é complemento de \"voltara\" (indica para onde); \"ao Leonardo\" é objeto indireto de \"chegara\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra a identificação do recurso que produz o humor do meme. A imagem mostra vikings saqueando e incendiando uma aldeia, com moradores caídos no chão. A legenda, porém, descreve a cena de forma oposta: os vikings seriam \"bons\" e estariam salvando objetos de valor de uma casa em chamas, enquanto os moradores \"preguiçosos\" estariam relaxando na grama. Dizer o contrário do que se mostra, com intenção crítica ou cômica, é ironia.\n\nNão é paradoxo, porque não há duas ideias contraditórias unidas numa mesma afirmação; não é ambiguidade, pois a legenda tem um sentido só (falso de propósito); e não há atribuição de traços humanos a seres inanimados (personificação) nem repetição redundante (pleonasmo).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra o reconhecimento do estilo de um autor a partir de uma descrição crítica. Os traços apontados são: superação do regionalismo pitoresco e documental, embora o ambiente seja o do regionalismo; uso experimental do idioma; vocabulário que não é feito de palavras raras, mas de recriações e invenções (neologismos) tiradas das possibilidades da língua; sintaxe peculiar e não canônica. Esse retrato corresponde a João Guimarães Rosa, de \"Grande sertão: veredas\" e \"Sagarana\", que reinventou a linguagem do sertão.\n\nClarice Lispector também aprofunda o interior dos seres, mas não é associada ao regionalismo nem à invenção lexical; Graciliano Ramos tem linguagem seca e enxuta; Euclides da Cunha usa vocabulário raro e científico; Machado de Assis não é regionalista.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão cobra os tópicos (lugares-comuns) da poesia neoclássica, ou árcade. O soneto contrapõe o camponês, que vive tranquilo, canta, ri e dorme em paz no chão, ao nobre da corte, inquieto, ambicioso e infeliz em meio ao luxo. O terceto final aconselha a sair do \"palácio majestoso\" e preferir ser camponês. Essa valorização do campo e rejeição da vida urbana e cortesã é o fugere urbem (fugir da cidade).\n\nO locus amoenus (lugar agradável) é a descrição de uma paisagem natural idealizada, que o poema não faz; ele compara modos de vida, sem descrever o cenário. Também não há lembrança da morte (memento mori) nem convite a aproveitar o momento (carpe diem).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra a hipérbole, figura que exagera intencionalmente para dar ênfase. No verso \"Este (oh, cega ambição!) mil vezes chora\", o número \"mil vezes\" não é uma contagem real: amplia de propósito o sofrimento do nobre, insatisfeito por causa da ambição.\n\nNos outros versos não há exagero: o camponês passar pelos campos sem sustos, o nobre morar inquieto na corte, a ordem de sair do palácio e a preferência por ser camponês feliz são afirmações sem ampliação deliberada.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra a retomada de termos (coesão referencial) na segunda estrofe. O poema opõe \"aquele\" (o mais distante na frase, o vilão, isto é, o camponês) a \"este\" (o mais próximo, o nobre).\n\n- \"não se embaraça\": o pronome \"se\" refere-se ao sujeito \"Aquele\", o vilão.\n- \"essas coisas vãs que o mundo adora\": o pronome relativo \"que\" retoma \"essas coisas vãs\".\n- \"não acha bem que o satisfaça\": o relativo \"que\" retoma \"bem\" (nenhum bem que o satisfaça).\n- o pronome \"o\" refere-se a \"Este\", o nobre, que não encontra satisfação.\n\nA sequência é, portanto, vilão, \"essas coisas vãs\", \"bem\" e nobre.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão cobra a ordem direta da oração: sujeito, verbo, complementos e, por fim, adjuntos. O verso \"Este encontra nas pompas a desgraça\" tem o adjunto adverbial \"nas pompas\" antes do objeto. Na ordem direta fica: sujeito (Este), verbo (encontra), objeto direto (a desgraça), adjunto adverbial (nas pompas).\n\nNas outras alternativas a reescrita continua invertida: em A o verbo \"passa\" vem antes do sujeito \"o vilão\"; em C o predicativo \"Inquieto\" abre a frase e o verbo antecede o sujeito; em E o adjunto \"No chão deitado\" vem antes do sujeito. Em D a reescrita muda o sentido: no verso, \"aquele\" é o sujeito de \"ignora\", e não o objeto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão cobra a identificação do vocativo, termo usado para chamar ou interpelar alguém. Na segunda estrofe, o vocativo é \"cega ambição\", entre parênteses e com exclamação: o eu lírico se dirige à ambição. No último terceto, ele se dirige diretamente ao nobre, chamando-o de \"Triste!\" e em seguida dá uma ordem a ele (\"Sai do palácio majestoso\"). O imperativo confirma que há um interlocutor sendo chamado, e esse vocativo vem isolado por ponto de exclamação.\n\nOs demais sinais (vírgula, dois-pontos, ponto final e ponto e vírgula) aparecem no soneto, mas não isolam nenhum vocativo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra a leitura do efeito que o dicionário teve sobre os alunos. No início, a cronista descreve um português \"corta-mato\", feito para a rua, curto, intenso e eficaz. Depois afirma que, com a consulta ao dicionário, o silêncio, as formas de pensar e julgar e as escalas de valor foram aprofundados, e que cabe a quem fala decidir como usar a linguagem. Ganhar reflexão, cuidado e capacidade de pesar as palavras é ganhar ponderação.\n\nA rebeldia caracterizava a fala anterior, de rua; introversão e volubilidade (inconstância) não aparecem no texto; e objetividade era justamente a marca do português \"curto e eficaz\", não o resultado do convívio com o dicionário.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra o valor afetivo dos sufixos. Em \"tal livrinho\", o diminutivo \"-inho\" não indica tamanho: expressa o carinho da cronista pelo dicionário, que \"devia permanecer aberto para sempre\" nas vidas dos alunos.\n\nNas outras alternativas, as palavras derivadas por sufixo, como \"especializados\", \"variados\", \"dicionário\" e \"evolução\", têm valor apenas descritivo ou gramatical, sem carga emocional; \"revisita\" é formada por prefixo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão, em inglês, pede o movimento literário descrito. O texto fala de um realismo mais \"deliberado\", que vê os seres humanos como vítimas passivas de forças naturais e do meio social; cita Émile Zola, que reivindicava status \"científico\" para seus estudos de personagens pobres, submetidos à fome, à obsessão sexual e a defeitos hereditários, e que buscava objetividade sociológica. Determinismo biológico e social, influência do meio e da hereditariedade, cientificismo e Zola como líder são marcas do Naturalismo.\n\nO Romantismo idealiza; o Parnasianismo e o Simbolismo são movimentos sobretudo poéticos, preocupados com a forma ou com a sugestão; o Modernismo é do século XX.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão cobra o sentido de \"bust\" no título. O primeiro parágrafo explica que as taxas de natalidade estão caindo no mundo mais rápido do que se esperava (\"declining more rapidly\"). \"Baby bust\" é o oposto de \"baby boom\": designa uma queda acentuada de nascimentos. Assim, \"bust\" pode ser trocado por \"decrease\" (diminuição, queda).\n\n\"Difference\" (diferença), \"degradation\" (degradação), \"flaw\" (defeito) e \"regeneration\" (regeneração) não correspondem à ideia de redução dos nascimentos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra a referência de uma expressão (coesão). A frase anterior diz que, em 2010, havia 98 nações e territórios com fecundidade abaixo de 2,1. Em seguida, \"In 2021, that number had risen to 124\" significa \"em 2021, esse número tinha subido para 124\". \"That number\" retoma, portanto, a quantidade de países em 2010, ou seja, 98.\n\nNão pode ser \"124\", que é o novo valor; nem \"2.1\", que é a taxa de reposição; nem \"2021\", que é o ano; nem \"15\", que aparece depois e se refere às maiores economias.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra o valor de \"as\" no trecho sobre a idade média. A frase diz que a idade média da população sobe, sobretudo porque os idosos vivem mais. Aqui \"as\" equivale a \"because\" ou \"since\": introduz o motivo do aumento da idade média, isto é, uma causa. Em português: \"a idade média sobe, particularmente porque os idosos vivem mais\".\n\n\"As\" também pode significar \"como\" (comparação) ou \"enquanto\" (tempo), mas o contexto não permite essas leituras: viver mais é a razão do envelhecimento médio, não um termo de comparação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão pede a tendência sobre as mulheres que mudou recentemente. O texto diz que, há décadas, as mulheres com mais escolaridade tendem a ter menos filhos — isso não é novidade. A mudança vem com \"Nevertheless\" (no entanto): agora a fecundidade também está caindo entre as menos escolarizadas (\"fertility among the less educated is now falling\"). O resultado é que mulheres menos escolarizadas passaram a ter menos filhos.\n\nA alternativa C descreve a tendência antiga, não a mudança. As alternativas B e D falam de longevidade, que não se refere às mulheres, e A não aparece no texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão cobra a tradução de um conectivo. \"Though\" introduz uma ressalva: a idade média sobe porque os idosos vivem mais, embora o aumento da longevidade tenha diminuído nos últimos anos. É um conectivo concessivo, equivalente a \"although\" e, em português, a \"embora\".\n\n\"Senão\" (otherwise), \"também\" (also), \"sobretudo\" (especially) e \"porque\" (because) têm outros valores e não se encaixam na ideia de contraste parcial.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão pede a leitura do gráfico da população chinesa de 21 a 30 anos. Por volta de 1970, a curva está perto de 100 milhões; na previsão para 2070, a curva também está em torno de 100 milhões. Portanto, a população dessa faixa pode ser a mesma nos dois anos (\"might be\": a parte depois de 2023 é previsão).\n\nAs outras alternativas não batem com o gráfico: o pico ocorre por volta de 1990, não em 2010 (B); entre 2000 e 2010 houve subida, então a queda não foi contínua desde 2000 (C); depois de 2050 a curva fica estável por um tempo, mas volta a cair até 2090 (D); e entre 2010 e 2023 a curva cai (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão pede um motivo, citado no terceiro parágrafo, para a queda da população em idade produtiva na China. O texto afirma que a política do filho único, e depois de dois filhos, contribuiu para a diminuição de jovens trabalhadores (\"has contributed to the country's decline in young workers\").\n\nAs outras alternativas confundem papéis: o subsídio aos aposentados e o desafio econômico são consequências da falta de jovens, não causas; o texto diz que é mais difícil aumentar a fecundidade do que reduzi-la, não que seja fácil controlá-la; e a falta de empregos não é mencionada.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão pede a finalidade da nota do editor. A nota explica que a manchete original foi criticada pela expressão \"A land of useless workers\" (uma terra de trabalhadores inúteis) e que foi alterada para deixar claro que a reportagem analisa os custos sociais e econômicos da baixa produtividade. Em seguida diz qual é o objetivo do texto: chamar a atenção para as causas estruturais do problema. Ou seja, a nota explica o motivo da mudança e o propósito da matéria.\n\nA alternativa A erra porque quem foi trocada foi a manchete original, não a nova; D repete o preconceito que a nota quis desfazer; B e E tratam de assuntos que a nota não aborda.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão pede o motivo da crítica à palavra \"useless\". Ela significa \"inútil\"; chamar os latino-americanos de \"trabalhadores inúteis\" é ofensivo e atribui a eles a culpa pela baixa produtividade. A própria nota esclarece que as causas são estruturais e estão fora do controle dos trabalhadores. Uma palavra que deprecia e ofende é pejorativa.\n\n\"Conveniente\", \"trivial\" e \"cômico\" não explicam uma crítica; \"ambíguo\" também não serve, porque o problema não era duplo sentido, mas o sentido ofensivo, que era claro.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão pede uma das causas estruturais da baixa produtividade citadas na nota. O editor menciona dois fatores: oligopólios poderosos que sufocam a concorrência e um grande setor informal que obriga muitas empresas a permanecer pequenas (\"remain subscale\"). A alternativa A corresponde ao segundo fator: o setor informal considerável dificulta o crescimento das empresas.\n\nAs alternativas B, C e D associam os oligopólios a efeitos que a nota não cita (exploração de mão de obra barata, baixos salários, falta de investimento em qualificação); a nota só diz que eles reduzem a concorrência. A alternativa E também não tem apoio no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

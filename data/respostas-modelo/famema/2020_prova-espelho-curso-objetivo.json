@@ -1,6 +1,6 @@
 {
  "indice": "data/questoes/famema/2020_prova-espelho-curso-objetivo.json",
- "gerado_em": "2026-11-06",
+ "gerado_em": "2026-11-08",
  "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
  "questoes": {
   "0:1": {
@@ -40,6 +40,121 @@
   },
   "0:8": {
    "resposta": "**a)** Sem o gene SRY não há sinal para que as gônadas indiferenciadas se transformem em testículos; elas se desenvolvem como **ovários** (em geral rudimentares, no caso de um indivíduo XY). Sem testículos, não há produção de testosterona nem de hormônio antimülleriano, e a criança apresenta **fenótipo feminino**, com órgãos genitais femininos.\n\n**b)** A mutação deve ter ocorrido **durante o desenvolvimento embrionário**. Se a deleção estivesse no espermatozoide ou no núcleo do zigoto, ela seria transmitida, por mitoses, a todas as células do organismo. Como só parte das células somáticas a possui (mosaicismo), a deleção surgiu em uma célula do embrião já formado após algumas divisões, e apenas as células descendentes dessa célula herdaram a mutação.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:18": {
+   "resposta": "A ideia é calcular a área do quadrilátero côncavo ABDC como a diferença entre as áreas dos triângulos isósceles ABC e DBC, que têm a mesma base BC.\n\nNo triângulo DBC (DB = DC = 2 cm), com sen β = √6/4:\ncos β = √(1 − 6/16) = √10/4\nBC = 2 · DB · cos β = 2 · 2 · √10/4 = √10 cm\naltura de D: 2 · sen β = √6/2 cm\nÁrea DBC = ½ · √10 · √6/2 = √60/4 = √15/2 cm²\n\nNo triângulo ABC (AB = AC = 4 cm), a altura relativa a BC cai no ponto médio:\nh² = 4² − (√10/2)² = 16 − 10/4 = 54/4 → h = 3√6/2 cm\nÁrea ABC = ½ · √10 · 3√6/2 = 3√15/2 cm²\n\nÁrea ABDC = 3√15/2 − √15/2 = √15 cm²\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:19": {
+   "resposta": "O volume de água não muda quando o recipiente é virado; muda só a área da base sobre a qual ele se apoia.\n\nVolume de água (base quadrada 6 × 6, altura 10):\nV = 6 · 6 · 10 = 360 cm³\n\nDeitado sobre uma face não quadrada, a base passa a ser o retângulo 15 cm × 6 cm:\nárea da base = 15 · 6 = 90 cm²\nnova altura = 360 ÷ 90 = 4 cm\n\nA altura da água cai porque a mesma quantidade de líquido se espalha por uma base 2,5 vezes maior (90 cm² contra 36 cm²).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:20": {
+   "resposta": "O PIB per capita da região não é a média simples dos quatro valores: é preciso somar o PIB de cada estado (população × PIB per capita) e dividir pela população total, ou seja, uma média ponderada pela população.\n\nPIB de A = 1 mi × 15.000 = 15 bilhões\nPIB de B = 8 mi × 15.000 = 120 bilhões\nPIB de C = 3 mi × 30.000 = 90 bilhões\nPIB de D = 15 mi × 30.000 = 450 bilhões\nPIB total = 675 bilhões de reais\nPopulação total = 1 + 8 + 3 + 15 = 27 milhões\nPIB per capita = 675 bilhões ÷ 27 milhões = R$ 25.000,00\n\nA média simples (22.500, alternativa B) é a armadilha: ela ignora que D, de PIB per capita alto, concentra mais da metade da população.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:21": {
+   "resposta": "A questão cobra a função da Organização Mundial do Comércio (OMC), criada em 1995 a partir do antigo GATT. Ela administra os acordos multilaterais de comércio, fiscaliza o cumprimento das regras pelos países-membros e julga disputas comerciais entre eles (por exemplo, acusações de subsídios ou de barreiras protecionistas).\n\nAs demais alternativas descrevem outras instituições: a política do euro cabe ao Banco Central Europeu (A); financiamentos para o desenvolvimento são papel do Banco Mundial (B); as relações de trabalho são tema da Organização Internacional do Trabalho (D); e o socorro a países com desequilíbrio nas contas externas é função do FMI (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:22": {
+   "resposta": "A questão trata das causas da informalidade no mercado de trabalho brasileiro. A flexibilização das leis trabalhistas — como a reforma de 2017, que ampliou a terceirização, o trabalho intermitente e a contratação como pessoa jurídica — facilitou vínculos sem carteira assinada e com menos proteção, o que contribui para o avanço do trabalho informal.\n\nAs outras alternativas não se sustentam: mão de obra mais qualificada tende a favorecer o emprego formal (A); o Brasil vive envelhecimento da população, não crescimento do número de jovens (B); o setor terciário é justamente o maior do PIB brasileiro (C); e a imigração é pequena demais para explicar o fenômeno (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:23": {
+   "resposta": "A \"vida\" do solo é a matéria orgânica e os organismos (bactérias, fungos, pequenos animais) que decompõem restos vegetais e liberam nutrientes. As queimadas destroem essa camada: o calor elimina os micro-organismos e queima a matéria orgânica, e com o tempo o solo fica pobre, mais exposto à erosão e menos capaz de nutrir as plantas.\n\nPor isso a alternativa A está correta. As demais invertem os efeitos do fogo: a queimada resseca o solo (não aumenta a umidade), favorece a erosão (não a reduz) e não melhora a fertilidade de forma duradoura — as cinzas dão um ganho momentâneo de nutrientes, que logo é lavado pela chuva.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:24": {
+   "resposta": "O Acordo de Paris (2015) busca limitar o aquecimento global com a redução das emissões de gases de efeito estufa. No Brasil, a maior fonte dessas emissões é a mudança no uso da terra, sobretudo o desmatamento; por isso os compromissos brasileiros incluem zerar o desmatamento ilegal na Amazônia e restaurar e reflorestar milhões de hectares (a meta anunciada foi de 12 milhões), o que também retira carbono da atmosfera.\n\nAs alternativas B e D tratam de resíduos, tema ambiental, mas não central no acordo climático. C e E vão na direção contrária: o Brasil se comprometeu a ampliar a bioenergia sustentável e as fontes renováveis, não a reduzi-las.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:25": {
+   "resposta": "A questão cobra a leitura de uma projeção cartográfica. O mapa de Urbano Monte (1587) foi desenhado em projeção polar (azimutal): o Polo Norte fica no centro e os continentes se distribuem em círculos ao redor dele, como se a Terra fosse vista de cima.\n\nEsse tipo de projeção deforma fortemente as áreas à medida que se afasta do centro, e por isso as regiões próximas da borda — o hemisfério Sul — aparecem esticadas. Assim, não há conservação de formas (C), exatidão de distâncias (D) nem ausência de deformações (E), e a Antártida, ainda desconhecida no século XVI, não poderia ser representada com precisão (A).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:26": {
+   "resposta": "O excerto descreve as duas etapas que faziam o jovem ateniense tornar-se cidadão: a apresentação à fratria paterna, grupo que se dizia descendente de um mesmo ancestral, e a efebia, o serviço militar. O texto afirma que as duas tinham igual importância e eram indispensáveis.\n\nA alternativa B traduz exatamente isso: a aceitação pelo grupo familiar (a fratria) e a preparação para a guerra (a efebia). As demais introduzem elementos que o excerto não menciona, como formação intelectual (A), casamento (C), pagamento a sacerdotes (D) ou reconhecimento por autoridades civis (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:27": {
+   "resposta": "O texto de Alencastro mostra a ligação entre agricultura e escravidão no Atlântico Sul. Plantas americanas, como a mandioca e o milho, foram levadas para a África e passaram a alimentar os guerreiros que capturavam pessoas no interior; roças abertas nos pontos de parada permitiam transportar mais cativos até o litoral.\n\nPor isso a alternativa C está correta: os novos cultivos ajudaram a ampliar o tráfico negreiro. A alternativa D é a mais tentadora, mas o texto não diz que os produtos agrícolas eram trocados por cativos: eles serviam de ração e de apoio logístico às expedições. O texto também não trata da influência africana na América (A), de indígenas (B) nem de monocultura (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:28": {
+   "resposta": "As duas pinturas, feitas décadas depois dos acontecimentos, mostram a independência como obra de um pequeno grupo: homens bem vestidos, militares de alta patente, clérigos e, no caso brasileiro, a princesa Leopoldina reunida com o Conselho de Estado. O povo não aparece em nenhuma delas.\n\nIsso evidencia o caráter elitista dos movimentos de emancipação na América, conduzidos pelas elites criollas (na Venezuela) e pela aristocracia ligada à Corte (no Brasil), que preservaram a estrutura social e a escravidão. Ideias liberais (B) e o exemplo dos Estados Unidos (D) influenciaram os processos, mas não são o que as imagens mostram; tropas com participação popular (C) e negociação com as metrópoles (E) também não aparecem nas cenas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:29": {
+   "resposta": "O texto mostra a dupla face da política cultural do Estado Novo (1937–1945): Vargas criou instituições de incentivo à cultura (Ince, SNT, INL) e, ao mesmo tempo, usava o DIP para fazer propaganda e censurar a imprensa e as artes.\n\nA alternativa D resume essa combinação: a produção cultural apoiada pelo governo exaltava o nacionalismo e a figura do líder, enquanto a liberdade de expressão era restringida. As outras não combinam com o texto: a música também se submetia ao controle (A); as instituições culturais aproximaram artistas do regime, em vez de intensificar a oposição (B); o texto não fala em falta de verbas (C); e o governo valorizava manifestações populares, como o samba, para construir a identidade nacional (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:30": {
+   "resposta": "Hobsbawm aponta um paradoxo: a ciência fala uma língua universal, mas por isso mesmo se concentrou em poucos países ricos. Cientistas dos países pobres foram atraídos para os ricos por motivos econômicos, e nas décadas de 1970 e 1980 os países capitalistas desenvolvidos gastaram quase três quartos de todo o orçamento mundial de pesquisa.\n\nLogo, a globalização refletiu nos investimentos em ciência a desigualdade econômica entre os países (E). As alternativas A e B dizem o contrário do texto, que mostra concentração, e não igualdade. A D também inverte: depois de 1945 a migração de cientistas para os países ricos aumentou por razões econômicas. A C fala de questões ideológicas, tema que o excerto não trata.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:31": {
+   "resposta": "A questão pede a ideia central do texto. A autora afirma que, ao elevar cronicamente o cortisol, o hormônio do estresse, o celular pode estar \"threatening our health and shortening our lives\" (ameaçando a saúde e encurtando a vida). No fim, ela lista doenças associadas ao cortisol alto, como depressão, obesidade, diabetes tipo 2 e infarto.\n\nAssim, os smartphones podem ser prejudiciais à saúde a longo prazo (D). A alternativa A inverte o texto: o celular aumenta o cortisol, não o diminui. O texto não fala em hormônios contra a ansiedade (B), diz que o celular prejudica a criatividade e as decisões (C) e afirma que checar o aparelho piora as coisas \"in the long run\" (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:32": {
+   "resposta": "A questão cobra o valor da conjunção \"but\", que em inglês é adversativa (equivale a \"mas\"). O primeiro período lista prejuízos já conhecidos do uso do celular (sono, autoestima, memória etc.); o segundo, iniciado por \"But\", contrapõe a isso um aspecto diferente e ainda pouco considerado: o efeito sobre o cortisol. O \"mas\" marca essa mudança de direção, uma oposição ao que se esperava ser a lista completa.\n\nA alternativa adição (D) é tentadora, porque a frase traz \"another reason\", isto é, mais um motivo. Mas essa ideia de acréscimo vem da palavra \"another\"; o termo sublinhado, por si, é uma conjunção de oposição, e é isso que a questão cobra.\n\n**Resposta: A**",
+   "confianca": "media",
+   "pendencia": "O sentido do trecho é de acréscimo (\"mais um motivo\"); o gabarito considera o valor gramatical de \"but\", que é adversativo. A questão é discutível."
+  },
+  "1:33": {
+   "resposta": "A questão cobra a referência de um pronome. Em \"If they happened only occasionally, phone-induced cortisol spikes might not matter\", o pronome \"they\" antecipa o sujeito da oração principal: se os picos de cortisol provocados pelo celular acontecessem só de vez em quando, eles talvez não importassem.\n\nSó \"phone-induced cortisol spikes\" (C) faz sentido com o verbo \"happened\" (acontecer) e com \"occasionally\". Celulares (B), o americano médio (D) ou \"quatro horas por dia\" (E) não \"acontecem ocasionalmente\", e \"the body's main stress hormone\" (A) está no singular, enquanto \"they\" é plural.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:34": {
+   "resposta": "A questão cobra vocabulário. O verbo \"to soothe\" significa acalmar, aliviar, tranquilizar. No trecho, a autora explica que checar o celular \"might soothe you for a second\", isto é, pode acalmar você por um instante, mas piora o estresse a longo prazo, porque logo surge outra notificação preocupante e outro pico de cortisol.\n\nO contexto confirma o sentido: o parágrafo anterior diz que o impulso natural é olhar o telefone para fazer a sensação desagradável de estresse ir embora. Afastar (B), impedir (C), dominar (D) e inibir (E) não correspondem ao significado do verbo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:35": {
+   "resposta": "A questão pede a leitura do gráfico, que mostra a porcentagem de donos de smartphone que checam o aparelho \"a cada poucos minutos\" (barra amarela) ou \"algumas vezes por hora\" (barra laranja), por faixa etária.\n\nNa faixa de 18 a 29 anos, os adultos mais jovens, a barra amarela marca 22%: vinte e dois por cento checam o celular a cada poucos minutos (B).\n\nAs outras falham: a frequência cai com a idade, não sobe (A e E); 51% é o valor dos jovens de 18 a 29 anos na barra laranja, enquanto para todos os adultos o valor é 41% (C); e o gráfico só trata de quem já tem smartphone, nada dizendo sobre quem não tem (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:36": {
+   "resposta": "É um problema de encontro de dois móveis no mesmo sentido: o rapaz alcança a namorada graças à diferença entre as velocidades (velocidade relativa).\n\nDados: distância inicial 180 m; namorada 0,5 m/s; rapaz 5 m/s (o máximo, para o tempo mínimo).\nVelocidade relativa: v = 5 − 0,5 = 4,5 m/s\nTempo: t = 180 ÷ 4,5 = 40 s\n\nConferindo: em 40 s o rapaz percorre 5 × 40 = 200 m e a namorada 0,5 × 40 = 20 m; 200 = 180 + 20, então eles se encontram.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:37": {
+   "resposta": "A questão cobra a conservação da energia mecânica. Sem resistência do ar, toda a energia que a mola transfere à esfera se transforma em energia potencial gravitacional no ponto mais alto, onde a velocidade é zero.\n\nDados: m = 250 g = 0,25 kg; E = 50 J; g = 10 m/s².\nE = m · g · h\n50 = 0,25 · 10 · h\n50 = 2,5 · h\nh = 20 m\n\nA altura é medida a partir do ponto de partida, como pede o enunciado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:38": {
+   "resposta": "A questão usa a calorimetria: Q = m · c · ΔT. Como o fluxo de calor do fogão é constante, primeiro se descobre quanto calor ele fornece por minuto usando a água.\n\nÁgua: Q = 1000 · 1,00 · (100 − 20) = 80.000 cal em 5 min\nPotência do fogão: 80.000 ÷ 5 = 16.000 cal/min\nÓleo, em 1 min: 16.000 = 200 · 0,45 · ΔT\n16.000 = 90 · ΔT\nΔT ≈ 178 °C ≈ 180 °C\n\nO enunciado pergunta de quanto a temperatura será elevada, ou seja, a variação ΔT, e não a temperatura final.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:39": {
+   "resposta": "No espelho plano, a imagem fica sempre à mesma distância do espelho que o objeto, do outro lado. Por isso, se a pessoa se aproxima do espelho com velocidade de 1 m/s, a imagem também se aproxima do espelho a 1 m/s, em sentido oposto.\n\nEm relação ao corpo da pessoa, as duas aproximações se somam:\nvelocidade relativa = 1 + 1 = 2 m/s\n\nLogo, a imagem se aproxima da pessoa com 2 m/s. A alternativa D (1 m/s) é a velocidade da imagem em relação ao espelho, não em relação à pessoa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:40": {
+   "resposta": "A resistência de um fio é proporcional ao comprimento. Na figura, o contato móvel está no meio dos fios: de cada fio, só a metade da direita (comprimento d) é percorrida pela corrente, entre o contato e a extremidade ligada ao circuito. Se cada fio inteiro tem resistência R, cada trecho usado vale R/2.\n\nO gerador é ligado ao contato (pelo cabo vermelho) e às extremidades da direita, que estão unidas. Assim, os dois trechos ficam em paralelo:\nR_eq = (R/2) ÷ 2 = R/4\nLei de Ohm: R_eq = U ÷ i = 100 ÷ 5 = 20 Ω\nR/4 = 20 → R = 80 Ω\n\n**Resposta: A**",
    "confianca": "alta",
    "pendencia": null
   }

@@ -1,0 +1,127 @@
+{
+ "indice": "data/questoes/unifesp/2025_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Características do folhetim. No segundo e no terceiro parágrafos, Alencar diz que o folhetinista deve voar em ziguezague como um colibri, sugando \"o mel das flores, a graça, o sal e o espírito\" do fato mais comum, e que sua pena se lança \"livre como o espaço\". O folhetim trata dos fatos do dia (viés jornalístico, precursor da crônica) com leveza, graça e humor (\"sal\" e \"espírito\").\n\nNão é memorialístico (não trata de lembranças do autor) nem sentimental; rigor e seriedade (D) contrariam a imagem do colibri; e o texto não fala em corrigir costumes (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Linguagem figurada. No primeiro parágrafo, o folhetim é chamado de \"monstro de Horácio\" — figura grotesca que junta partes de animais diferentes, assim como o folhetim mistura assuntos variados — e de \"novo Proteu\", deus que muda de forma. No segundo, o escritor (o folhetinista) deve ser \"uma espécie de colibri\", que voa em ziguezague colhendo o que há de interessante.\n\nAssim, A traz, na ordem pedida, uma expressão para o folhetim e outra para o folhetinista. Em E, as duas expressões se referem ao folhetim; \"candeias às avessas\" é o mau humor do autor; \"mel das flores\" é o que o colibri busca.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Referência pronominal. Em \"escrever-lhe-ia uma biografia\", o \"lhe\" é objeto indireto: escreveria uma biografia a quem? O narrador diz que ainda não descobriu quem inventou o folhetim; se soubesse, aproveitaria um momento de mau humor para escrever a biografia desse inventor, condenando-o ao inferno ou ao purgatório \"por tão desastrada ideia\".\n\nO pronome retoma, portanto, o inventor do folhetim. Não pode ser o próprio folhetim (D) nem Proteu (A), que é apenas um dos nomes dados ao folhetim; a biografia (C) é o objeto direto do mesmo verbo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Interpretação de texto. Gleiser afirma que as primeiras explicações do mundo vieram de narrativas míticas e que, por isso, não surpreende que a ciência carregue \"nas suas raízes\" a mesma expectativa mítica de explicações finais sobre o mundo. A busca por explicações totalizantes aproxima a ciência dos antigos mitos.\n\nA exagera: a ciência não \"retoma\" as narrativas míticas, apenas compartilha a mesma expectativa. D diz que ela não pode prescindir dos mitos, o que o texto não afirma. C e E falam de avanço tecnológico e de uma explicação final próxima, ideias ausentes — o autor, aliás, insiste na imperfeição das nossas soluções.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Dêixis temporal. O dêitico de tempo é o termo cujo sentido depende do momento em que se fala. Em C, \"hoje\" (em \"tão fascinado quanto somos hoje\") só se interpreta pelo momento em que o autor escreve: é o presente da enunciação. O futuro \"continuarão\", para \"nossos descendentes\", também se mede a partir desse momento.\n\nNas demais, as marcas de tempo são internas à narrativa (\"em seguida\", \"bilhões de anos mais tarde\"), situando um fato em relação a outro, e não em relação ao momento da fala; em A e B não há expressão temporal dêitica.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Orações reduzidas e desenvolvidas. \"Para formar a primeira criatura viva\" é oração reduzida de infinitivo com valor de finalidade. Desenvolvida, ela começa com a conjunção final \"para que\", que exige o subjuntivo. O sujeito é \"moléculas\" (plural) e o verbo principal está no pretérito (\"interagiram\", \"cresceram\"), o que pede o pretérito imperfeito do subjuntivo:\n\n\"…interligando-se para que formassem a primeira criatura viva.\"\n\n\"Formasse\" (D) teria sujeito singular; \"formaram\", \"formou\" e \"formavam\" estão no indicativo e não combinam com \"para que\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Formação de palavras: prefixos. Em \"assimetria\", o prefixo \"a-\" (forma \"as-\" diante de \"s\") indica negação, ausência: falta de simetria. O mesmo sentido aparece em \"imperfeita\", em D: o prefixo \"in-\" (forma \"im-\" antes de \"p\") nega o radical — o que não é perfeito.\n\nNas outras alternativas o sentido é diferente: \"multi-\" (multiverso) indica muitos; \"sub-\" (subatômicas) indica posição inferior; \"inter-\" (interagiram) indica reciprocidade, ação entre; \"ante-\" (antepassados) indica anterioridade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Pré-Modernismo. Bosi descreve um livro difícil de classificar, entre a literatura e a sociologia naturalista, com descrição minuciosa \"da terra, do homem e da luta\", escrito no começo do século XX, e Antonio Candido acrescenta que ele trata das contradições entre o litoral e o interior. \"A terra\", \"O homem\" e \"A luta\" são exatamente as três partes de Os sertões (1902), de Euclides da Cunha, sobre a Guerra de Canudos.\n\nAs outras obras são romances ou poemas do Modernismo (anos 1930 a 1950), não um ensaio científico-histórico do início do século.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Discurso direto e indireto. Lola canta em primeira pessoa (\"Meu nome é Lola\", \"eu sou\", \"eu dou um show\"): é discurso direto. O microfone, em vez de amplificar a voz dela, reconta o que ela disse em terceira pessoa (\"O nome dela é Lola\", \"ela é\", \"ela dá um show\"): é discurso indireto. O humor da tirinha nasce da contraposição entre os dois modos de relatar a mesma fala.\n\nNão há discurso indireto livre (B), em que a fala da personagem se mistura à do narrador sem marcas; e a fala de Lola não é indireta (D e E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Rima e classes de palavras. Na fala de Lola, a rima está em \"sou\" (verbo ser) e \"show\" (substantivo): \"Andorinha eu sou\" / \"eu dou um show\". Ao passar para a terceira pessoa, o microfone diz \"ela é\" e \"ela dá um show\"; como \"é\" não rima com \"show\", o recado chega, mas a rima se perde — daí a queixa final de Lola.\n\n\"Lola\" e \"show\" não rimam, e \"dou\" (verbo) aparece no meio do verso, não na posição de rima. A rima perdida é, portanto, entre um verbo e um substantivo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Figuras de linguagem. Quem fala no soneto é a própria luva abandonada: ela se dirige aos \"dedos claros\" que a calçaram uma vez, diz que o destino a deixou \"sozinha\", sente-se \"triste\", \"bebe\" com avidez o perfume da mão e sente saudade. Atribuir fala, sentimentos e consciência a um objeto é personificação (prosopopeia), e esse recurso sustenta o poema do início ao fim.\n\nNão há reflexão sobre a própria linguagem (metalinguagem), redundância (pleonasmo), suavização de algo desagradável (eufemismo) nem diálogo explícito com outra obra (intertextualidade).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Interpretação de metáfora. Na terceira estrofe, a luva se compara ao cálice de uma flor que guardou a \"alma de um lírio\" antes que ele caísse ao chão, e prevê que logo vai se desfazer \"em poeira, em nada\". A imagem da flor que murcha e do objeto que vira pó é uma metáfora da brevidade da existência: tudo é passageiro e acaba em nada. É o tema da efemeridade (transitoriedade) da vida.\n\nNão há referência à falta de sentimento, ao egoísmo, à falsidade ou à resignação dos homens nessa estrofe.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Parnasianismo. A estética parnasiana busca objetividade, contenção emocional, culto da forma e temas como objetos de arte e mitologia. O soneto de Alberto de Oliveira mantém a forma rigorosa (métrica e rimas), mas tem tom confessional e sentimental: a luva fala em primeira pessoa da solidão, da saudade e da tristeza, com exclamações e reticências. Isso o afasta do ideal parnasiano.\n\nA e D descrevem traços parnasianos, não afastamentos. C é falso, pois há rigor formal. Não há cenário campestre idealizado (B).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Pronome relativo. No início da terceira estrofe, o \"que\" vem logo depois de \"cálix\" e o retoma. Na ordem direta: o cálix (que) teve um dia, guardada em si, a alma de um lírio. O relativo é sujeito de \"teve\", e \"a alma de um lírio\" é o objeto — note que \"guardada\" concorda com \"alma\". A luva se compara a esse cálice, invólucro que já guardou algo precioso.\n\n\"Alma\" e \"lírio\" estão dentro da oração adjetiva, como complemento; \"chão\" e \"poeira\" aparecem depois, em outras orações.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Ideia principal (inglês). O texto anuncia que pesquisadores criaram máquinas vivas feitas de peças eletrônicas e fungos e explica como funcionam: o micélio capta o ambiente e emite sinais elétricos; esses sinais, captados por eletrodos, viram comandos digitais; luz ultravioleta estimula o fungo e faz os robôs andarem ou rolarem. O propósito é apresentar o funcionamento de um robô inovador.\n\nNão há células humanas no projeto (A); a resistência comparada é a dos fungos frente às células animais, não a de robôs e humanos (C); lucro e viabilidade econômica (D e E) não são discutidos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Expressão idiomática (inglês). \"Eat your heart out\" (literalmente, \"coma seu coração\") é usada para provocar alguém, dizendo que ele vai sentir inveja de algo melhor do que o que fez. O texto brinca com Victor Frankenstein, o cientista que criou um ser vivo a partir de partes de cadáveres: os pesquisadores criaram \"máquinas vivas\" e o personagem poderia \"morrer de inveja\".\n\nAs demais alternativas não correspondem ao sentido da expressão; \"não chega a seus pés\" (B) também compara, mas inverte quem é superior e não é tradução da expressão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Interpretação (inglês). O texto explica que os robôs bio-híbridos antigos usavam células animais, difíceis de manter vivas (\"hard to keep alive\"), e que os fungos, ao contrário, são \"incredibly resilient\": resistentes. Além disso, suas redes de filamentos percebem o ambiente e respondem com sinais elétricos, adaptando-se a estímulos. Por isso foram escolhidos.\n\nO problema das células animais é a dificuldade de mantê-las vivas, não o custo (D). A comparação com neurônios (B) é só uma analogia; os fungos não estimulam neurônios. O \"king oyster mushroom\" é um cogumelo, não uma ostra marinha (A).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Relação imagem-texto (inglês). A foto mostra um robô com cinco braços macios saindo de um centro, como uma estrela-do-mar. O terceiro parágrafo fala do \"above pictured soft, starfish-shaped walking robot\" — o robô macio, em forma de estrela-do-mar, mostrado acima, que anda. A própria expressão \"above pictured\" indica que é ele que aparece na imagem.\n\nO outro robô citado, \"hard robot with wheels\" (B), é rígido e tem rodas, o que não corresponde à foto. As demais alternativas não descrevem o robô.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Função de trecho (inglês). Entre travessões, \"which combine living tissue with robotic materials\" é uma oração adjetiva explicativa: define o que são os \"biohybrid robots\" mencionados logo antes — robôs que combinam tecido vivo com materiais robóticos. Serve, portanto, para explicar um termo técnico ao leitor.\n\nNão traz um ponto de vista oposto nem contra-argumento (A e D), não introduz uma citação (C) e não é especulação (E): é uma definição.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Conectivos (inglês). \"By contrast\" significa \"em contraste\", \"por outro lado\": introduz uma ideia oposta à anterior — as células animais são difíceis de manter vivas, enquanto os fungos são muito resistentes. O equivalente é \"on the other hand\".\n\n\"So to speak\" = por assim dizer; \"apart from that\" = além disso, fora isso; \"for this reason\" = por esse motivo (causa/consequência); \"to say the least\" = para dizer o mínimo. Nenhuma dessas expressa contraste.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Interpretação (inglês). O segundo parágrafo diz que o estado de São Paulo teve seu pior agosto desde o início das medições do INPE, em 1998, com 3 612 focos de calor — \"something never seen before\". Num único dia (23 de agosto), o número de focos no estado superou o de toda a Amazônia, onde queimadas ilegais são comuns nessa época. O evento incomum, portanto, ocorreu em São Paulo.\n\nA Amazônia, o Cerrado e o Pantanal (B, C, E) aparecem com aumento de focos, mas o texto trata o fogo ali como algo recorrente; \"borders\" (A) aparece só na ideia de que as consequências \"know no borders\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Verbos modais (inglês). \"Must\" expressa obrigação, necessidade forte: as autoridades brasileiras \"devem\" (têm o dever de) responder rapidamente, investigando e punindo os responsáveis. O tom de urgência do trecho (\"distressing scenario\", \"quickly\") reforça esse sentido. Os dois-pontos que vêm depois listam o que as autoridades têm de fazer: investigar, responsabilizar os culpados, fortalecer a prevenção.\n\nPermissão seria \"may\"/\"can\"; possibilidade, \"may\"/\"might\"/\"could\"; sugestão e conselho seriam \"should\" ou \"ought to\", mais brandos que \"must\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Expressões de finalidade (inglês). \"In order to prepare the soil\" indica finalidade: o pasto velho é queimado \"para preparar\" o solo. \"So as to\" é sinônimo de \"in order to\" e também vem seguido do infinitivo: \"so as to prepare the soil\".\n\n\"Instead of\" = em vez de (A); \"during\" = durante (B); \"after\" = depois de (D); \"because\" = porque (E). Todas mudam a relação de finalidade para substituição, tempo ou causa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Leitura de infográfico (inglês). Os dois últimos quadros ligam o sol ao fogo. Depois do corte da floresta, os resíduos ficam secando ao sol e, secos, são empilhados e queimados repetidamente até virar cinza. E as florestas degradadas expõem áreas a mais sol, ficam mais secas e mais suscetíveis a queimar, de modo que \"most of the trees are burned\". A consequência direta da exposição ao sol é que a maior parte da madeira acaba queimada.\n\nD diz o contrário (a floresta fica menos resistente ao fogo); A, B e E falam de habitat, adaptação e fertilidade, que o infográfico não menciona.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

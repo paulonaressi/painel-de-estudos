@@ -1,0 +1,297 @@
+{
+ "indice": "data/questoes/unesp/2023_prova-de-conhecimentos-especificos-versao-1-para-divulgacao-.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra a percepção de variação de registro linguístico como recurso de humor.\n\nNo primeiro quadro, o pai se despede do filho com um discurso solene e formal: vocabulário elevado (“horizontes”, “oportunidades de fortuna”), ênclise (“te proteja e ilumine”) e o arcaico “hás de trilhar”, tom típico de um grande momento de partida nas navegações. No último quadro, o filho volta e resume tudo com uma única gíria, “desencanei”, própria da fala informal contemporânea. O humor nasce justamente da quebra: a grandiloquência da despedida é desfeita por uma palavra coloquial e banal.\n\nAs demais alternativas erram ao qualificar a fala do filho (ela não é pedante, enigmática nem propriamente concisa no sentido estilístico) ou a do pai (que não é coloquial nem informal).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão cobra a identificação do antecedente de pronomes relativos.\n\nO pronome relativo retoma o termo imediatamente anterior a que se refere. Na fala do pai:\n- “o momento em que tua vida exige…”: “em que” equivale a “no qual (momento)”, isto é, o momento em que a vida exige a busca;\n- “o caminho que hás de trilhar”: “que” equivale a “o qual (caminho)”, objeto direto de “trilhar”.\n\nPortanto, os dois “que” retomam “momento” e “caminho”. A alternativa com “Deus” é a armadilha: “Deus” é sujeito de “te proteja e ilumine”, não antecedente de nenhum relativo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão cobra a compreensão da tese central do texto.\n\nO autor afirma que os brasileiros, nação criada pelo genocídio e pela escravidão, passaram tempo demais presos aos “velhos sonhos de cobiça e conquista e império vindos nas caravelas”, isto é, à herança europeia. Kopenawa ajudaria a colocar no devido lugar essas “ideias fora do lugar”, e “chegou a hora” de enfrentar as ideias que tomamos “a ferro e a fogo” dos indígenas. Há, portanto, um apelo urgente a romper com esses ideais europeus que ainda moldam nosso pensamento.\n\nA alternativa A desloca a obrigação: são os brasileiros, e não as minorias, que precisam levar a sério o que dizem os indígenas. A D inverte a tese, e a C atribui ao imaginário indígena uma corrupção que o texto não menciona.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra a leitura de uma avaliação feita pelo autor do prefácio.\n\nAo dizer que a obra é um acontecimento científico “incontestável” que levará “alguns anos” para ser “devidamente assimilado” pela antropologia, o autor sugere que o livro está à frente de seu tempo: traz algo novo, que a comunidade científica ainda não está pronta para absorver de imediato. Isso caracteriza uma obra pioneira, inovadora.\n\n“Reacionário” e “antiquado” contrariam essa ideia de novidade; “contraditório” choca-se com “incontestável”; e nada no trecho fala em introspecção.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra a identificação de figuras de linguagem.\n\nSe “esquecimento” significa “falta de memória”, dizer que a cabeça está “cheia de esquecimento” é dizer que ela está cheia de uma falta, isto é, cheia de vazio. A expressão une ideias que se excluem logicamente (plenitude e ausência) e, por isso, constitui um paradoxo. O efeito reforça o “tenebroso vazio existencial” mencionado logo depois.\n\nNão é pleonasmo, que seria repetição de sentido; nem eufemismo, que suavizaria algo; nem sinestesia, que mistura sensações; nem personificação, já que não se atribui ação humana a um ser inanimado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra a compreensão de um comentário metanarrativo do narrador.\n\nDepois de contar o “contozinho”, o narrador observa que o padre Chagas “certamente emendou o texto original”, pois “não é preciso estar embriagado para acender um charuto nas misérias alheias”. Ou seja, para o narrador, na versão original o homem não estava bêbado: o padre teria acrescentado a embriaguez para tornar a história consoladora, como se só um ébrio fosse capaz de tirar proveito da desgraça alheia. A ironia machadiana está em sugerir que pessoas sóbrias fazem o mesmo.\n\nAs demais alternativas alteram dados que o narrador não contesta: a choupana ardia, a mulher chorava, era a dona, e o homem queria acender o charuto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão cobra a identificação do estilo do narrador machadiano.\n\nO capítulo anuncia a história do casamento de Maria Benedita, mas logo se desvia para um “contozinho” ouvido na infância e para comentários sobre o padre que o contou: é um estilo digressivo, que interrompe a narrativa principal. Ao mesmo tempo, é irônico: elogia o “bom padre Chagas” e suas “ideias consoladoras” enquanto expõe que a lição consoladora era falsa (não é preciso estar bêbado para lucrar com a miséria alheia), e afirma, com falsa seriedade, que catástrofes são “úteis, e até necessárias”.\n\nNão há sentimentalismo, drama exagerado nem impessoalidade; e o narrador zomba da moral consoladora em vez de moralizar.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra a identificação de marcas de interlocução com o leitor.\n\nNo trecho, o narrador diz que conta o caso “aqui” e que o “dou” em duas linhas. A quem? A “lhes”, pronome oblíquo de terceira pessoa que, nesse contexto, se refere aos leitores (equivale a “a vocês”). É esse termo que insere o leitor como destinatário explícito da narração, recurso típico do narrador machadiano que conversa com quem lê.\n\n“Ouvi” e “dou” remetem ao próprio narrador (1ª pessoa); “basta” é impessoal; e “aqui” indica o lugar do texto, não o leitor.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra o valor semântico de uma conjunção pouco usual.\n\n“Posto” (forma reduzida de “posto que”) é conjunção concessiva, equivalente a “embora” ou “ainda que”. Reescrevendo: “embora Sofia a ache vulgar, vale a pena dizê-la”. A oração apresenta um fato que poderia impedir a ação principal (contar a história), mas não a impede, o que caracteriza a concessão.\n\nCuidado com a armadilha do uso moderno, em que “posto que” às vezes aparece como causal; na norma e no texto de Machado, o sentido é concessivo, como o contexto confirma (a vulgaridade seria razão para não contar, e mesmo assim se conta).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão cobra a relação entre o “Prefácio Interessantíssimo” e as vanguardas europeias.\n\nNo trecho, Mário de Andrade diz que, quando sente “a impulsão lírica”, escreve “sem pensar tudo o que meu inconsciente me grita”, e que o lirismo nasce “no subconsciente”. Essa valorização da escrita espontânea, que dá voz ao inconsciente antes de qualquer controle racional, aproxima-se da proposta surrealista (a escrita automática, influenciada pela psicanálise).\n\nO próprio texto nega a filiação ao futurismo de Marinetti; o cubismo se liga à fragmentação e à simultaneidade; o expressionismo, à deformação para exprimir angústia; e o impressionismo, à captação de sensações e impressões visuais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão cobra o conceito de metalinguagem: a linguagem que fala de si mesma, ou um texto que comenta o próprio texto.\n\nEm “Este prefácio, apesar de interessante, inútil”, o prefácio se refere a si próprio, avaliando a própria utilidade. É o texto falando do texto, ou seja, metalinguagem (aliás, recurso constante no “Prefácio Interessantíssimo”, que também explica por que foi escrito).\n\nAs demais frases tratam de outros assuntos: a fundação de um movimento (“Desvairismo”), o desejo de fama ou de anonimato do autor e o artigo de Oswald de Andrade. Nenhuma delas toma o próprio texto como tema.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra a identificação do objetivo geral do texto (reportagem do New York Times).\n\nDesde o título (“Black authors shake up Brazil’s literary scene”, isto é, autores negros agitam a cena literária brasileira), o texto apresenta um movimento: Itamar Vieira Junior, Djamila Ribeiro e a redescoberta de Carolina Maria de Jesus como exemplos de um “literary boom” de escritores negros no Brasil. O propósito é apresentar essa literatura negra brasileira em ascensão.\n\nO texto não avalia a qualidade literária das obras, não discute diferenças salariais, não faz propaganda e não compara sistematicamente três livros: eles aparecem como exemplos do fenômeno.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra a localização de informação específica no texto.\n\nO segundo parágrafo começa com “To his astonishment” (para seu espanto, sua surpresa), Torto Arado venceu o prêmio LeYa, e o texto acrescenta que essas obras alcançaram “commercial success and critical acclaim”, isto é, sucesso de vendas e aclamação da crítica. O livro foi ainda o mais vendido do Brasil em 2021. Logo, o romance surpreendeu o autor pelo êxito junto aos leitores e à crítica.\n\nA alternativa C é a mais tentadora, mas erra: o livro foi escrito “on and off for decades” (ao longo de décadas); em 2018 ele apenas enviou o manuscrito. Água Negra é a cidade fictícia dos personagens, não a do autor (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão cobra a compreensão da fala de Djamila Ribeiro na legenda.\n\nEla diz que sentiu um chamado para ser “generous enough to write in the same accessible way” (generosa o bastante para escrever do mesmo modo acessível) que autores generosos antes dela, “because otherwise” (porque, do contrário) apenas se legitimariam as esferas de poder dos privilegiados. Ou seja, ela justifica a escolha de uma escrita acessível: escrever de forma difícil reforçaria a exclusão.\n\nA alternativa D distorce o sentido: os autores são chamados de generosos pela forma acessível de escrever, não por compartilharem histórias. As demais não têm apoio na legenda.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão cobra o valor semântico de um conectivo em inglês.\n\n“Otherwise” significa “caso contrário”, “do contrário”, “senão”. No trecho, Djamila afirma que escreve de forma acessível porque, caso contrário (se não o fizesse), apenas legitimaria as esferas de poder dos privilegiados. O termo introduz, portanto, uma hipótese contrária ao que foi dito antes, ou seja, expressa contrariedade, oposição à situação anterior.\n\nNão indica finalidade (“in order to”), concordância, ênfase nem reiteração (repetição de uma ideia).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra a identificação do referente de uma expressão (coesão referencial).\n\n“That experience” (essa experiência) retoma o que acabou de ser dito no parágrafo: Vieira conseguiu usar seu emprego no órgão de reforma agrária “to do field research” (para fazer pesquisa de campo), estudando a política e as relações de poder na vida dos trabalhadores rurais. Foi essa pesquisa de campo, feita enquanto trabalhava, que tornou os personagens mais complexos.\n\nO modo de vida rural (A) e o trabalho análogo à escravidão (D) são o objeto da pesquisa, não a experiência em si; o diploma de geógrafo (B) e a convivência com estudantes de filosofia (E) não são retomados pela expressão.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra a localização de informação no último parágrafo.\n\nO texto diz que o livro, uma compilação de entradas de diário, oferece “a raw account of daily life in a São Paulo slum”, isto é, um relato cru do cotidiano numa favela de São Paulo, onde moradores buscavam comida no lixo e viviam em barracos remendados com papelão. “Slum” corresponde a favela ou comunidade de barracos (shantytown).\n\nAs demais estão erradas: o livro foi publicado em 1960, quando a autora ainda vivia (ela morreu em 1977), e foi um sucesso literário então e agora; o texto não fala em intenção de não publicar nem em pioneirismo de misturar ficção e realidade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão cobra o sentido de uma expressão idiomática em inglês.\n\n“Bridge” é ponte; como verbo, “to bridge the gap” significa construir uma ponte sobre o vão, isto é, reduzir a distância, aproximar dois lados. No texto, “bridging the gap between cultures” é aproximar as culturas, reduzir o distanciamento entre elas, algo apresentado como urgente para a paz, já que três quartos dos grandes conflitos têm dimensão cultural.\n\nA ideia não é substituir, avaliar, delimitar nem desenvolver as culturas, mas promover o diálogo e a aproximação entre elas, como reforça o último parágrafo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão cobra a relação entre a Igreja e as instituições feudais.\n\nLe Goff mostra que a cerimônia de vassalagem, um contrato pessoal entre senhor e vassalo, era marcada pelo cristianismo: podia ocorrer na igreja, até no altar-mor, e o juramento de fidelidade era prestado sobre objetos sagrados, como a Bíblia ou relíquias. Assim, o compromisso pessoal (fidelidade, ajuda militar, proteção, concessão de feudo) ganhava uma garantia religiosa: rompê-lo seria também ofender a Deus.\n\nO texto não trata de submissão dos reis ao papa (A), da relação entre senhores e camponeses, que não participavam da vassalagem (B), da descentralização política em si (C) nem da vida urbana (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão cobra a leitura de uma imagem como fonte histórica sobre o olhar europeu sobre a América.\n\nA gravura personifica a América como uma “amazona”: mulher indígena guerreira, com cocar, arco e flechas, cercada de anjos e de um título em nuvens, ao lado de um animal estilizado e de figuras trabalhando, inclusive um africano curvado sob um cesto. Mistura, portanto, elementos reais (indígenas, africanos escravizados, trabalho) e fabulosos (as amazonas da mitologia, os anjos), e mostra nativos e africanos ora como guerreiros, ora como trabalhadores submetidos. É a ambiguidade do imaginário europeu: fascínio e exotismo, ao lado da dominação.\n\nA imagem não é realista (D), não mostra harmonia religiosa (A) nem erradicação das tradições nativas (C), já que a figura central exibe adornos indígenas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão cobra a leitura de um texto mitológico indígena (o Popol Vuh, dos maias quiché).\n\nO excerto narra a origem dos seres humanos: sua carne foi feita de espigas de milho amarelo e branco, trazidas por animais (raposa, coiote, periquito, corvo), e a água tornou-se o sangue. É uma explicação mítica da criação que liga o ser humano a elementos da natureza, em especial ao milho, base da alimentação e da cultura mesoamericana.\n\nO texto não trata da criação da fauna (E), mas da do homem; não lamenta a dominação europeia (C) nem incorpora valores católicos (B). Chamá-lo de visão “estereotipada” contrária à ciência (A) é anacrônico e não é o que o excerto expõe.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão cobra a identificação de correntes do pensamento político a partir de fragmentos (o Segundo tratado sobre o governo civil, de John Locke, e Deus e o Estado, de Mikhail Bakunin).\n\nO primeiro fragmento fala em sociedade política criada para preservar a propriedade, na qual cada membro renuncia ao seu poder natural e o deposita nas mãos da comunidade: é o contratualismo liberal de Locke, base do iluminismo político.\n\nO segundo vê exploração e governo como inseparáveis em qualquer Estado, seja teocrático, monárquico, aristocrático “e até mesmo democrático”. A rejeição de todo Estado, inclusive o democrático e o proletário, caracteriza o anarquismo de Bakunin, diferente do marxismo e do leninismo, que admitem um Estado de transição.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão cobra a relação entre a obra de Tarsila do Amaral e o Manifesto Pau-Brasil (1924), de Oswald de Andrade.\n\nO manifesto defendia uma arte de exportação, que olhasse para a realidade brasileira cotidiana com linguagem moderna, simples e sintética, valorizando a “inocência” do olhar. Morro de Favela mostra uma cena do dia a dia num morro urbano, com casas coloridas, pessoas, animais e vegetação, em formas geometrizadas e simplificadas e cores vivas, típicas da fase Pau-Brasil.\n\nNão há denúncia social realista (D), celebração da metrópole e da tecnologia (B), valorização da miséria (A) nem o sertão como marca da brasilidade (C): a cena é urbana e tratada de modo lírico.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra a compreensão do processo de construção de Brasília (1956–1960).\n\nLúcio Costa, autor do plano urbanístico, fala da “massa sofrida do nosso povo” que “para cá afluiu” para erguer a cidade em prazo curto: os candangos, migrantes vindos em grande parte do Nordeste. Diz também que essa população não quis voltar e se espalhou, forçando a “inversão de ordem natural do planejamento”: as cidades-satélites, previstas para depois, surgiram antes de a cidade estar concluída. São os dois componentes: migração de trabalhadores e redefinição do plano original para abrigar moradia popular.\n\nAs demais alternativas atribuem ao texto boas condições de vida, programas sociais ou indústrias que ele não menciona, e a D erra a cronologia: a migração ocorreu durante a construção, antes da inauguração.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão cobra a leitura de uma notícia sobre a posse de Gabriel Boric, no Chile, em 2022.\n\nO ponto central é a citação de Salvador Allende, presidente socialista deposto pelo golpe de 1973: Boric parafraseou as últimas palavras de Allende (as “grandes alamedas” por onde anda o homem livre). Ao fazer isso, ele se vincula à tradição histórica de luta da esquerda e dos socialistas chilenos.\n\nAs demais contrariam o texto: Boric apoia o plebiscito por uma nova Constituição, em vez de defender a da ditadura (A); reconhece “dívidas históricas” com os mapuche, em vez de afirmar harmonia (B); pede que não se esqueça a humanidade dos imigrantes (C); e é um político de esquerda (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra a interpretação de uma reportagem sobre a eleição presidencial francesa de 2022.\n\nO texto lista bandeiras tradicionais de Marine Le Pen: combate à imigração, oposição à União Europeia (“Frexit”), discurso anti-islã e proximidade com o Kremlin. Diz que ela suavizou a forma, mas, segundo Macron, o conteúdo segue o mesmo: um programa “racista”, que divide a sociedade. São pautas típicas da extrema direita nacionalista, herdeira do neofascismo francês (o partido de Le Pen, antes Frente Nacional, nasceu nesse campo).\n\nMacron é o candidato pró-Europa, e não há no texto ligação dele com o ideário católico (A, D). Le Pen não defende ampliação de direitos civis (C), e o vínculo com a Rússia não a torna socialista (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra a contextualização do acordo dos “Cinco Olhos” (Five Eyes) no pós-Segunda Guerra.\n\nO acordo, formalizado em 1946 e ampliado em 1948 e 1956, une serviços de interceptação de sinais dos EUA e do Reino Unido, depois de Canadá, Austrália e Nova Zelândia. Esse período é o início da Guerra Fria: o objetivo era espionar e monitorar a União Soviética e os movimentos comunistas e anticapitalistas, que ganhavam força na Ásia, na América Latina e na África no contexto da descolonização.\n\nO acordo não executava o Plano Marshall (B), que era ajuda econômica; não controlava fronteiras soviéticas (D) nem impedia a entrada de armas (A); e não tinha relação com expansão árabe (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão cobra o conceito de remessas de migrantes (remittances), importante fonte de renda para países em desenvolvimento.\n\nO texto fala da “relação entre migrantes e suas famílias” nos países de origem, abalada por baixo crescimento, poucos empregos nos países anfitriões, queda do petróleo e desvalorização das moedas dos países de origem diante do dólar. Todos esses fatores afetam o dinheiro que o migrante ganha no exterior e envia à família: com menos emprego e renda, ele manda menos; com a crise do petróleo, países exportadores que empregam muitos migrantes (como os do Golfo) contratam menos. Assim, dificulta-se o envio de remessas aos países de origem.\n\nAs demais alternativas descrevem fluxos inexistentes ou invertidos: subsídios, pensões e impostos do país anfitrião não são o tema.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão cobra a leitura de um mapa temático sobre acesso a tecnologias da informação.\n\nOs dados mostram diferenças claras entre as regiões. Domicílios com computador: Nordeste 29%, Norte 39%, Centro-Oeste 48%, Sudeste 52% e Sul 56%. Com internet: Nordeste 79% e Norte 81%, contra 84% no Sul e 86% no Sudeste. As regiões mais pobres (Norte e Nordeste) têm menor acesso, sobretudo a computador, o que evidencia desigualdade regional no acesso à informação, a chamada exclusão digital.\n\n“Homogeneidade” (A) e “equidade” (E) contrariam os números; o mapa não trata de logística (D) nem de intolerância a mudanças (B).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão cobra o processo de desconcentração industrial no Brasil.\n\nO Polo Petroquímico de Camaçari foi implantado na década de 1970, durante o II PND, como parte de uma política do governo militar de levar investimentos industriais para fora do eixo Rio–São Paulo, com incentivos fiscais (a exemplo da Sudene) e participação estatal (Petrobras). Era a desconcentração industrial, que deslocou investimentos para regiões menos desenvolvidas, como o Nordeste, transformando a economia baiana antes agrária.\n\nNão é zona franca (B), modelo da Zona Franca de Manaus; o PAC (C) é dos anos 2000; e a substituição de importações não visa bens de capital “à população urbana” (D). A Segunda Revolução Industrial (E) é do século XIX.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão cobra processos de dinâmica superficial e seus impactos nos rios.\n\nO excerto descreve a remoção da camada superficial do solo pela chuva (erosão) e o transporte dos sedimentos até os rios, onde se depositam no fundo do leito. Esse acúmulo de sedimentos no leito é o assoreamento. A imagem mostra um rio de água barrenta, carregada de sedimentos, com bancos de areia. Como consequência, o leito fica mais raso e o curso do rio é parcialmente obstruído, o que favorece enchentes e prejudica a navegação.\n\nCalagem é correção da acidez do solo; diastrofismo é movimento tectônico; e eutrofização decorre do excesso de nutrientes, não do acúmulo de sedimentos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra a explicação da formação do relevo por erosão diferencial.\n\nO Monte Roraima é um tepui, isto é, um relevo residual tabular: um planalto de topo plano e paredes abruptas, formado por rochas sedimentares antigas (arenitos muito resistentes). As rochas ao redor, menos resistentes, foram desgastadas mais rapidamente pela erosão ao longo de milhões de anos, originando a depressão; o que resistiu ficou elevado, como “restos” do antigo planalto. Essa diferença de resistência entre formações rochosas de constituições distintas explica a convivência de montes e serras com áreas rebaixadas.\n\nAs alternativas que atribuem a forma a movimentos de placas (A, E) ou zonas de expansão (D) ignoram que o Brasil está no centro de uma placa tectônica, em área estável.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão cobra a identificação de um fenômeno climático urbano e das formas de atenuá-lo.\n\nO quadro descreve a ilha de calor: temperaturas da superfície e do ar mais altas na cidade do que no entorno, mais intensas no verão e à noite, identificadas por imagens térmicas e mapas isotérmicos. A causa é a substituição da vegetação por asfalto, concreto e telhados, que absorvem e retêm calor, e a menor evapotranspiração.\n\nCriar parques e preservar áreas verdes aumenta a sombra, a umidade e a evapotranspiração, e diminui as superfícies que acumulam calor, amenizando o fenômeno.\n\nNa alternativa A, telhados verdes ajudariam, mas impermeabilizar o solo agrava a ilha de calor. Controlar a poluição (C) atua sobre outros problemas, como a inversão térmica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão cobra a compreensão crítica do conceito de educação ambiental.\n\nA autora questiona a ideia de “boas práticas ambientais” como algo neutro: quem define o que é bom? Com base em qual concepção de meio ambiente? Ou seja, a educação ambiental não se reduz a comportamentos individuais corretos; envolve disputas sobre como a sociedade se relaciona com a natureza. Daí a importância de aspectos econômicos e culturais, que levam a questionar quem tem acesso aos recursos naturais e como eles são usados.\n\nAs demais alternativas apresentam efeitos estranhos ao texto: regular o custo de acesso aos espaços naturais (A), cessar o vínculo do indivíduo com o espaço (B), determinar limites de crescimento urbano (D) ou problematizar áreas verdes para lazer (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão cobra a ideia de Bertrand Russell sobre o valor da filosofia.\n\nPara Russell, quem não filosofa fica preso a preconceitos do senso comum e a crenças de sua época, e o mundo lhe parece “finito, definido, óbvio”. Ao filosofar, percebemos que até as coisas mais banais levantam problemas, mesmo que as respostas sejam incompletas. Ao nos libertar da “tirania do hábito”, a filosofia amplia o horizonte do pensamento: abre novas possibilidades e expande as bases do conhecimento.\n\nO texto não propõe rejeitar todos os saberes tradicionais (C) nem chegar ao ceticismo absoluto (B), já que admite respostas, ainda que incompletas. Também não trata de cosmogonia (A) nem de reproduzir o discurso científico (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão cobra a identificação de um problema clássico da teoria do conhecimento.\n\nNo texto 1, Descartes, nas Meditações, nota que muitas vezes sonhou estar acordado junto ao fogo e conclui que não há sinais seguros para distinguir a vigília do sono: os sentidos podem enganar. É o argumento do sonho, que o leva a duvidar do conhecimento sensível e a buscar certezas pela razão. No texto 2, a realidade virtual confunde o cérebro a ponto de ele tomar estímulos artificiais como reais.\n\nOs dois textos põem em questão a confiabilidade dos sentidos e a capacidade de a razão distinguir o que é real do que é ilusão, ou seja, a relação entre sensação e razão.\n\nAs demais alternativas não correspondem ao problema central comum aos dois textos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão cobra a identificação do jusnaturalismo e do contratualismo moderno.\n\nGrotius parte de uma natureza humana comum e racional: todos nascem com direitos e deveres naturais derivados da razão. Supõe um estado de natureza anterior à sociedade e vê o Estado moderno como aquilo que inaugura a civilização. Essa estrutura, com estado de natureza, direitos naturais e passagem para a sociedade política por decisão racional dos indivíduos, é a base do contratualismo, desenvolvido depois por Hobbes, Locke e Rousseau: o governo nasce de um acordo, um pacto, entre os homens.\n\nO texto não defende o governo dos mais honrados (A) ou dos mais sábios (C), a ausência de governo (B) nem o poder absoluto de origem divina (D), que é justamente o oposto de um poder fundado na razão humana.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão cobra a compreensão de um conceito apresentado numa entrevista.\n\nWilderson contrapõe o afropessimismo aos estudos “reformistas”, voltados a melhorias materiais (como conseguir casas melhores), e diz que não é nisso que emprega sua energia. Seu foco, inspirado no psiquiatra Frantz Fanon, está na forma como a negritude é percebida: a ansiedade que ela gera e o fato de que, “no inconsciente”, o corpo negro não é visto como humano, mas como recurso. O conceito privilegia, portanto, o plano da mente, da percepção e das representações, o que a alternativa chama de estudos cognitivos.\n\nA dificuldade de ascensão econômica (B) é justamente o tema reformista que ele deixa de lado, e o pessimismo do conceito afasta a ideia de renovação social (E).\n\n**Resposta: A**",
+   "confianca": "media",
+   "pendencia": "A expressão “estudos cognitivos” é imprecisa para descrever o foco do autor, que fala em inconsciente e psicanálise (Fanon); a alternativa se sustenta por eliminação."
+  },
+  "0:41": {
+   "resposta": "A questão cobra a respiração celular, em especial a cadeia respiratória.\n\nO texto informa que o cianeto (–C≡N) se liga ao ferro da citocromo oxidase, nas cristas mitocondriais. Essa enzima é o último complexo da cadeia transportadora de elétrons: ela transfere os elétrons para o O₂, o aceptor final, formando H₂O. Bloqueada a enzima, os elétrons param de fluir, o bombeamento de prótons cessa e a síntese de ATP por fosforilação oxidativa praticamente para, o que explica a morte por intoxicação.\n\nA glicólise (A, B) ocorre no citosol e não depende dessa enzima; o lactato (E) até tende a aumentar, pois a célula passa a depender da fermentação. O ciclo de Krebs (D) é afetado só indiretamente, não por bloqueio direto da enzima citada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão cobra a relação entre genes, enzimas e vias metabólicas.\n\nSintetizar um aminoácido exige uma via metabólica: uma sequência de reações, cada uma catalisada por uma enzima específica. Os seres humanos não têm os genes que codificam algumas dessas enzimas e, portanto, não possuem as vias de síntese de certos aminoácidos, que precisam vir prontos da dieta (são os essenciais, como lisina e triptofano).\n\nAs alternativas A e D confundem síntese do aminoácido com síntese de proteína: as células humanas têm RNA transportadores para todos os 20 aminoácidos e os incorporam normalmente às proteínas, desde que os recebam. A C é falsa, pois o organismo metaboliza grupos amina e carboxila, e a E não explica por que o aminoácido não é produzido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A questão cobra o princípio dos testes imunológicos (imunocromatografia).\n\nO autoteste de antígeno detecta proteínas do vírus presentes no muco nasal. Para isso, a membrana traz, na linha T, anticorpos específicos contra o Sars-CoV-2, fixados nela. Ao migrar por capilaridade, a amostra carrega os antígenos virais (ligados a anticorpos marcados com corante); ao passarem pela linha T, são capturados pelos anticorpos fixos, e a cor se acumula, formando a linha. Na linha C, outro reagente captura o anticorpo marcado em qualquer caso, confirmando que o teste funcionou.\n\nA E inverte a lógica: antígenos virais estão na amostra, não na membrana deste tipo de teste. Enzimas de restrição (A), transcriptase reversa (C) e linfócitos B (D), que nem fagocitam, não fazem parte do dispositivo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A questão cobra mecanismos de isolamento reprodutivo.\n\nEspécies próximas do mesmo gênero (Handroanthus), vivendo no mesmo lugar, poderiam cruzar entre si se florescessem juntas, já que os mesmos polinizadores levariam pólen de uma espécie à outra. Como cada espécie floresce por pouco tempo e em períodos diferentes (roxo e rosa, depois amarelo, por fim branco), o pólen de uma raramente chega à flor de outra. Esse isolamento sazonal (ou temporal) é um mecanismo pré-zigótico que evita a formação de híbridos e mantém a separação entre as espécies.\n\nA alternativa E propõe o contrário: fluxo gênico entre espécies diferentes é justamente o que o isolamento impede. A floração breve também não amplia o período reprodutivo de cada espécie (C).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "A questão cobra conceitos de evolução: mimetismo, órgãos análogos e convergência adaptativa.\n\nA mariposa se parece com um beija-flor, animal que não é presa das aves insetívoras, seus predadores. Parecer-se com outra espécie para obter vantagem é mimetismo; camuflagem seria confundir-se com o ambiente (folhas, galhos), o que não é o caso.\n\nA probóscide da mariposa e o bico do beija-flor exercem função semelhante (sugar néctar), mas têm origens embrionárias e evolutivas diferentes: são órgãos análogos, não homólogos.\n\nAnimais de grupos distantes (inseto e ave) que ficaram parecidos por pressões ambientais semelhantes ilustram a convergência adaptativa. A irradiação adaptativa é o contrário: um ancestral comum originando formas diversas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "A questão cobra estequiometria com volume molar de gases.\n\nReação de redução do óxido de tungstênio pelo hidrogênio, balanceada:\nWO₃(s) + 3 H₂(g) → W(s) + 3 H₂O(g)\n\nConferência: 3 átomos de O e 6 de H em cada lado; 1 de W em cada lado.\n\nProporção: 1 mol de W formado consome 3 mol de H₂.\n\nVolume de H₂ nas CATP (25 L/mol):\nV = 3 mol × 25 L/mol\nV = 75 L\n\nA alternativa A (50 L) aparece para quem balanceia com 2 H₂; a C (25 L), para quem usa proporção 1 : 1.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "A questão cobra a aplicação da regra de van’t Hoff e o efeito da pressão sobre a temperatura de ebulição.\n\nDados:\n- panela comum ao nível do mar: água ferve a 100 °C; tempo = 3 h = 180 min;\n- panela de pressão: água ferve a 120 °C.\n\nAumento de temperatura: 120 − 100 = 20 °C, ou seja, dois aumentos de 10 °C.\n\nPela regra, cada +10 °C dobra a velocidade:\nvelocidade × 2 × 2 = velocidade × 4\n\nCom velocidade 4 vezes maior, o tempo fica 4 vezes menor:\nt = 180 min ÷ 4\nt = 45 min\n\nArmadilha: dividir o tempo por 2 só uma vez (90 min, que nem está entre as opções) ou multiplicar o fator por 20 °C linearmente.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "A questão cobra a classificação de substâncias e de tipos de estrutura.\n\n- Modelo 1, fulereno C₆₀: molécula isolada (60 átomos de carbono), formada por um só elemento, portanto substância simples.\n- Modelo 2, diamante: rede covalente, mas de substância simples (só carbono).\n- Modelo 3, quartzo SiO₂: rede covalente (cada Si ligado a 4 O, em estrutura contínua) de substância composta (dois elementos).\n- Modelo 4, ácido fólico: molécula isolada, mas de substância composta.\n- Modelo 5, fluorita CaF₂: retículo cristalino de íons Ca²⁺ e F⁻, composto iônico.\n\nSequência pedida: molécula de substância simples (1), rede covalente de substância composta (3), rede de composto iônico (5).\n\nA alternativa C é a armadilha: o diamante é rede covalente, mas de substância simples.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "A questão cobra o cálculo de variação de entalpia pela lei de Hess, a partir de entalpias de formação.\n\nReação pedida:\nCaO(s) + H₂O(ℓ) → Ca(OH)₂(s)\n\nDos diagramas (entalpias de formação):\n- Ca(OH)₂(s): −985 kJ/mol\n- CaO(s): −635 kJ/mol\n- H₂O(ℓ): −285 kJ/mol\n\nΔH = H(produtos) − H(reagentes)\nΔH = −985 − [(−635) + (−285)]\nΔH = −985 − (−920)\nΔH = −985 + 920\nΔH = −65 kJ/mol\n\nA reação é exotérmica, o que se percebe na prática: a hidratação da cal viva libera muito calor. A alternativa A (−1 905) resulta de somar os três valores em vez de subtrair os reagentes.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "A questão cobra a reação de esterificação.\n\nComparando as estruturas: o ácido salicílico tem o grupo carboxila –COOH; no salicilato de metila, esse grupo virou um éster –COOCH₃, e o –OH ligado ao anel continua igual. Formar um éster a partir de um ácido carboxílico exige reagir com um álcool (esterificação de Fischer, catalisada por ácido), com liberação de água:\nácido salicílico + CH₃OH → salicilato de metila + H₂O\n\nComo o grupo que entrou é o metil (–CH₃), o álcool é o metanol, CH₃OH.\n\nO etanol (A) daria salicilato de etila; a água (B) é produto, não reagente; o metanal HCHO (C) é um aldeído e o O₂ (D) promoveria oxidação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:51": {
+   "resposta": "A questão cobra a relação entre energia, potência e tempo, com leitura de gráfico.\n\nDo gráfico:\n- andando a 1,5 m/s, a curva “Andar” indica P = 480 W;\n- correndo a 2,5 m/s, a reta “Correr” indica P = 880 W.\n\nEnergia: E = P · Δt\n\nCaminhada:\nE₁ = 480 W × 20 s = 9 600 J\n\nCorrida:\nE₂ = 880 W × 10 s = 8 800 J\n\nTotal:\nE = 9 600 + 8 800 = 18 400 J\n\nCuidado ao ler o gráfico: a 1,5 m/s, o valor de 480 W é o da curva de andar (a reta de correr estaria acima); a 2,5 m/s, os 880 W são da reta de correr, pois é essa a atividade nesse trecho.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:52": {
+   "resposta": "A questão cobra calor sensível e a relação entre pressão atmosférica, altitude e temperatura de ebulição.\n\nDados: m = 1 000 g; c = 1 cal/(g·°C); Q = 65 000 cal; temperatura inicial 15 °C.\n\nQ = m · c · ΔT\n65 000 = 1 000 × 1 × ΔT\nΔT = 65 °C\n\nTemperatura de ebulição:\nT = 15 + 65 = 80 °C\n\nGráfico 1: a água ferve a 80 °C quando P = 355 mmHg.\nGráfico 2: P = 355 mmHg corresponde a h = 5 km = 5 000 m.\n\nNa tabela, a cidade com 5 000 m de altitude é Wenquan.\n\nErro comum: tomar 65 °C como a temperatura de ebulição, esquecendo a temperatura inicial de 15 °C.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:53": {
+   "resposta": "A questão cobra a formação de imagens no olho e a correção da miopia.\n\nO olho funciona como um sistema convergente que projeta, na retina, uma imagem real e invertida: os raios de luz se cruzam de fato sobre a retina, por isso a imagem é real. Isso vale com ou sem óculos, e para qualquer objeto que a pessoa enxergue com nitidez.\n\nNo míope, o olho é convergente demais (ou alongado): sem correção, a imagem de objetos distantes se forma antes da retina. A lente L precisa então espalhar um pouco os raios antes de entrarem no olho, empurrando a imagem para trás, até a retina. Lente que faz isso é divergente.\n\nAs alternativas com imagem virtual na retina estão erradas, porque imagem virtual não pode ser projetada num anteparo; e lente convergente agravaria a miopia (ela corrige a hipermetropia).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:54": {
+   "resposta": "A questão relaciona o comprimento do pêndulo simples com sua frequência.\n\nDados: comprimento inicial L₀ = 80 cm; a mão puxa o fio a 20 cm/s durante 3 s.\nFio puxado: 20 × 3 = 60 cm\nNovo comprimento: L = 80 − 60 = 20 cm = L₀ ÷ 4\n\nComo T = 2π·√(L/g), o período é proporcional a √L:\nT = T₀ · √(1/4) = T₀ ÷ 2\n\nA frequência é o inverso do período:\nf = 1/T = 2 · (1/T₀) = 2f₀\n\nCuidado com a armadilha da alternativa 4f₀: o comprimento caiu para um quarto, mas a frequência depende da raiz quadrada do comprimento, então ela apenas dobra.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:55": {
+   "resposta": "A questão cobra a segunda lei de Ohm (resistência proporcional ao comprimento) e a associação em série.\n\nMesmo material e mesma secção: se R₁ = R (comprimento L), então R₂ = 4R (comprimento 4L).\n\nPonteiro em I: a corrente percorre R₁, todo o R₂ e a lâmpada (resistência máxima, brilho mínimo).\nPonteiro em II: o R₂ fica fora do circuito; sobram R₁ e a lâmpada (brilho máximo).\n\nCom U = 120 V e lâmpada de resistência Rₗ:\n120 = 0,3 · (R + 4R + Rₗ) → 5R + Rₗ = 400\n120 = 0,5 · (R + Rₗ) → R + Rₗ = 240\n\nSubtraindo: 4R = 160 → R = 40 Ω\nRₗ = 240 − 40 = 200 Ω\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:56": {
+   "resposta": "A questão cobra o módulo de vetores numa malha quadriculada e uma média ponderada.\n\nContando os quadradinhos (1 cm cada, 1 cm = 5 km/h):\nA: 4 cm na horizontal e 3 cm na vertical → √(4² + 3²) = 5 cm → 25 km/h\nB: 4 cm na vertical → 20 km/h\nC: 3 cm na horizontal → 15 km/h\n\nA turbina gera 1 unidade por hora para cada 1 km/h. Em 24 h, cada vento atua uma fração do dia:\nA: 0,5 · 24 h · 25 = 300\nB: 0,3 · 24 h · 20 = 144\nC: 0,2 · 24 h · 15 = 72\n\nTotal: 300 + 144 + 72 = 516 unidades de energia.\n\nO detalhe que mais derruba é o vetor A, que é inclinado: seu módulo sai pelo teorema de Pitágoras (triângulo 3-4-5), e não pela contagem de um só eixo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:57": {
+   "resposta": "A questão cobra propriedades de potência e de logaritmo, interpretando as teclas da calculadora.\n\nPelos exemplos, a tecla xʸ eleva o primeiro número ao segundo (2³ = 8), e log₁₀ aplicada depois do resultado dá o logaritmo decimal (log 100 = 2).\n\nA sequência digitada calcula primeiro 1000 elevado a (1 ÷ 2) e depois aplica log₁₀ ao resultado:\nlog(1000^(1/2)) = (1/2) · log 1000\n= (1/2) · 3\n= 1,5\n\nNão é preciso calcular √1000 ≈ 31,6: a propriedade log(aⁿ) = n·log a resolve direto. Quem esquece o expoente 1/2 marca 3, que é só log 1000.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:58": {
+   "resposta": "A questão usa a lei dos cossenos para achar um lado e depois interpreta a extensão máxima do braço.\n\nDados: BC = 8 cm, AB = CD + 11, α = 60° e AC = 8√3 cm.\n\nNo triângulo ABC, com x = AB:\nAC² = x² + 8² − 2 · x · 8 · cos 60°\n192 = x² + 64 − 8x\nx² − 8x − 128 = 0\nx = (8 + √(64 + 512)) ÷ 2 = (8 + 24) ÷ 2 = 16 cm\n\nLogo AB = 16 cm e CD = 16 − 11 = 5 cm.\n\nA maior extensão horizontal ocorre com as três hastes alinhadas na horizontal:\n16 + 8 + 5 = 29 cm.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:59": {
+   "resposta": "A questão cobra contagem de casos e comparação de probabilidades com um parâmetro k.\n\nSão 100 bolas.\nE₁ (dois algarismos, de 10 a 99): 90 casos → P = 90/100\nE₂ (soma dos algarismos igual a 3): 3, 12, 21 e 30 → 4 casos → P = 4/100\nE₃ (número maior que k): 100 − k casos → P = (100 − k)/100\n\nCondição P(E₂) < P(E₃) ≤ P(E₁):\n4 < 100 − k ≤ 90\n10 ≤ k < 96\n\nValores inteiros possíveis: k = 10, 11, …, 95, ou seja, 95 − 10 + 1 = 86 possibilidades.\n\nO cuidado está nas pontas: a desigualdade estrita exclui k = 96, e a não estrita inclui k = 10.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:60": {
+   "resposta": "A questão cobra o volume de um tronco de prisma triangular reto.\n\nA base UNE tem lados 3, 4 e 5 cm: é um triângulo retângulo em N (3² + 4² = 5²).\nÁrea da base: (3 · 4) ÷ 2 = 6 cm²\n\nQuando um prisma reto é cortado por um plano oblíquo, o volume do sólido que sobra é a área da base vezes a média das três arestas laterais:\nV = 6 · (10 + 8 + 12) ÷ 3\nV = 6 · 10\nV = 60 cm³\n\nA altura de 12 cm do prisma original não entra na conta: ela só confirma que a maior aresta (VU) é a do prisma inteiro. Usar 12 como altura daria 72 cm³, a alternativa tentadora.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

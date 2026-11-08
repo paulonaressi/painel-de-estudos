@@ -1,6 +1,6 @@
 {
  "indice": "data/questoes/famema/2019_prova-espelho-curso-objetivo.json",
- "gerado_em": "2026-11-06",
+ "gerado_em": "2026-11-08",
  "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
  "questoes": {
   "0:1": {
@@ -40,6 +40,206 @@
   },
   "0:8": {
    "resposta": "**a)** A molécula **3** (GAUGCAGUCGCGAGG). O RNAi é um RNA, e só a molécula 3 tem **uracila (U)**, base exclusiva do RNA; as moléculas 1 e 2 têm **timina (T)**, base exclusiva do DNA.\n\n**b)** O RNAi atua no **citoplasma** (citosol) da célula do inseto, onde se encontra o RNA mensageiro que seria traduzido pelos ribossomos.\n\nA técnica é chamada de silenciamento gênico porque o gene continua presente no DNA e é transcrito, mas o RNA mensageiro correspondente é destruído antes da tradução. Assim, a proteína codificada por esse gene não é produzida: o gene deixa de se expressar, ou seja, é \"silenciado\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:1": {
+   "resposta": "A tirinha joga com a diferença entre \"gente\" e \"pessoas\". \"Gente\" indica quantidade: a população cresce. \"Pessoas\" carrega o sentido de seres humanos plenos, com valores como empatia, solidariedade e respeito. Mafalda diz que há cada vez mais gente e cada vez menos pessoas, ou seja, o mundo fica mais populoso e, ao mesmo tempo, menos humano.\n\nA crítica, portanto, é à desumanização do mundo (A). A alternativa B é a armadilha: o crescimento demográfico aparece na fala, mas só como contraste; o alvo da crítica é a perda de humanidade, não o aumento da população. Consumismo, infância e educação (C, D e E) não são mencionados.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:2": {
+   "resposta": "O texto de Jorge Coli defende que é difícil definir a arte em teoria, já que os tratados são divergentes, mas que todos sabemos reconhecer obras de arte, como a Mona Lisa ou a Nona sinfonia. Depois mostra que esse reconhecimento vem de instâncias da cultura (críticos, museus, salas de concerto), e não de uma definição abstrata.\n\nA frase de Benedetto Croce, segundo a qual a arte \"é o que todos sabem o que é\", dialoga diretamente com essa ideia: renuncia a uma definição fechada e se apoia no reconhecimento coletivo. As demais citações propõem definições ou funções da arte (estilo, transformação do mundo, revelação da verdade, refúgio), justamente o tipo de resposta que o texto considera insuficiente.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:3": {
+   "resposta": "A questão cobra a relação de sentido entre orações. O trecho sublinhado é uma oração reduzida de infinitivo introduzida por \"para\", que indica finalidade: os instrumentos específicos da cultura existem com o objetivo de decidir o que é ou não arte.\n\nUm teste simples é substituir por uma oração desenvolvida equivalente: \"A fim de que se decida o que é ou não arte, nossa cultura possui instrumentos específicos\". O sentido se mantém, o que confirma a finalidade. Não há relação de causa (o motivo de algo), condição (uma hipótese), consequência (um resultado) nem explicação.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:4": {
+   "resposta": "A questão cobra a referência do pronome \"se\" em \"onde a arte pode manifestar-se\". O verbo \"manifestar-se\" é pronominal: o pronome retoma o próprio sujeito da oração, e quem se manifesta é a arte. É como dizer que a arte pode manifestar a si mesma nesses locais.\n\n\"Locais\" (D) é o antecedente de \"onde\", e não do \"se\"; \"objeto\" e \"estatuto\" aparecem só na parte seguinte da frase; e \"cultura\" é sujeito de outro verbo (\"prevê\").\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:5": {
+   "resposta": "A questão cobra o sentido figurado de \"rósea\". Dizer que uma situação é \"cor-de-rosa\" significa que ela é tranquila, fácil, sem problemas. No texto, o autor acabou de dizer que pode se despreocupar, porque os instrumentos da cultura decidem por ele o que é arte; em seguida, adverte que a situação \"não é assim tão rósea\", isto é, não é tão simples nem tão tranquila quanto parece.\n\nEntre as alternativas, \"simples\" (E) é a que mantém esse sentido. Enfadonha, instigante, curiosa e louca mudariam o significado do trecho.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:6": {
+   "resposta": "Jean Renoir reflete sobre o caráter provisório das obras de arte: até o Partenon, feito de mármore, já está em ruínas e um dia vai desaparecer. Por isso, diz ele, não haveria diferença essencial entre uma obra arquitetônica e um jornal jogado fora no dia seguinte.\n\nO foco está, portanto, na materialidade das obras (A): elas são objetos físicos, sujeitos ao desgaste e à destruição pelo tempo. O trecho não discute o que as obras significam (B), para que servem (C), o que representam (D) nem como surgiram (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:7": {
+   "resposta": "A questão pede a lírica amorosa de Gregório de Matos, ou seja, os poemas dedicados à mulher amada. Em B, o eu lírico se dirige a Inês e fala de um encanto indefinível, o \"não sei quê\", presente em seu corpo e em seu rosto. O jogo de antíteses e paradoxos (\"te nasce, ou não te nasce\", \"consiste, ou não consiste\") é típico do Barroco.\n\nAs demais pertencem a outras vertentes do poeta: A e E são da lírica religiosa (a morte, o pecado e o arrependimento diante de Deus); C e D são da poesia satírica, que critica os falsos conselheiros e os que sobem a altos cargos sem mérito.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:8": {
+   "resposta": "O comentário de Massaud Moisés descreve as marcas centrais do Romantismo: recusa das regras e modelos clássicos, liberdade criadora, mistura de gêneros, valorização da emoção e da imaginação acima do equilíbrio racional, individualismo e subjetivismo (o \"eu\" particular) e uma natureza que reflete o mundo interior do poeta.\n\nO Arcadismo (B) é justamente a \"ordem clássica\" que os românticos recusaram. O Realismo (A) e o Naturalismo (C) buscam objetividade e observação, o contrário do subjetivismo descrito. O Barroco (E) não se define pela rejeição das regras clássicas nem pelo culto do eu.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:9": {
+   "resposta": "A fábula mostra uma tartaruga que pede para aprender a voar; a águia avisa que isso é contrário à natureza dela, mas a tartaruga insiste, é levada ao alto, é solta e se espatifa nas pedras. O desfecho trágico decorre de ela não ter ouvido o alerta.\n\nA moral é, portanto, a de D: muitos recusam bons conselhos e acabam sofrendo as consequências. A alternativa E é tentadora, mas a águia não tem natureza má: ela advertiu a tartaruga e apenas atendeu ao pedido insistente. Não há armadilha armada por alguém (A e C), nem esforço vencendo o talento (B).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:10": {
+   "resposta": "A personificação (ou prosopopeia) atribui ações ou características humanas a seres inanimados ou a ideias abstratas. Em \"A meninice brincou de novo nos olhos dela\", a meninice, uma ideia abstrata, aparece realizando uma ação própria de pessoas: brincar. O verso sugere que o olhar da moça voltou a ter o brilho da infância.\n\nNas demais alternativas, quem age são seres humanos (a moça, o rapaz). Em E há uma comparação (\"você parece uma lagarta listada\"), e não uma personificação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:11": {
+   "resposta": "A questão combina progressão aritmética (PA) e progressão geométrica (PG). Escrevem-se os termos da PA em função de a₁ e usa-se a propriedade da PG: o quadrado do termo do meio é igual ao produto dos vizinhos.\n\nPA de razão 2: a₂ = a₁ + 2 e a₅ = a₁ + 8\nPG (a₁, a₂, a₅): (a₁ + 2)² = a₁ · (a₁ + 8)\na₁² + 4a₁ + 4 = a₁² + 8a₁\n4 = 4a₁ → a₁ = 1\nTermos: 1, 3, 9\nRazão da PG: 3 ÷ 1 = 3\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:12": {
+   "resposta": "Usa-se o ponto comum (1, 1) para achar k e os dados de g para achar a e b; depois se calcula a composta.\n\nf(1) = 1: 2^(1 + k) = 1 = 2⁰ → k = −1, logo f(x) = 2^(x − 1)\ng(1) = 1: a + b = 1\ng(2) = 0: 4a + 2b = 0 → b = −2a\na − 2a = 1 → a = −1 e b = 2, logo g(x) = −x² + 2x\nf(3) = 2² = 4\ng(4) = −16 + 8 = −8\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:13": {
+   "resposta": "Conhecida uma raiz, divide-se o polinômio por (x + 1), com o dispositivo de Briot-Ruffini, e resolve-se a equação do 2º grau que sobra.\n\nx³ − 2x² − x + 2 = (x + 1) · (x² − 3x + 2)\nx² − 3x + 2 = 0 → x = 1 ou x = 2\nRaízes: −1, 1 e 2\nMenor: −1; maior: 2\n|−1 − 2| = 3\n\nUma alternativa é agrupar: x²(x − 2) − (x − 2) = (x − 2)(x² − 1), que dá as mesmas raízes.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:14": {
+   "resposta": "É uma questão de contagem. O ponto central é interpretar \"A e B só poderão ser cursadas juntas\": quem escolhe A tem de escolher B, e vice-versa. Assim, o par {A, B} funciona como uma única opção de duas disciplinas.\n\nUma disciplina só: não pode ser A nem B → 5 maneiras\nDuas disciplinas entre as outras 5: C(5,2) = 10 maneiras\nO par A e B juntos: 1 maneira\nTotal: 5 + 10 + 1 = 16\n\nQuem lê a restrição como \"A e B não podem ser cursadas juntas\" chega a 7 + 21 − 1 = 27, valor que não está entre as alternativas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:15": {
+   "resposta": "Montamos um sistema com o número de mulheres (M) e de homens (H).\n\nM + H = 150\nFalam espanhol: 34% de 150 = 51 estudantes\n0,25 · M + 0,50 · H = 51\nSubstituindo H = 150 − M:\n0,25M + 75 − 0,5M = 51\n0,25M = 24 → M = 96 mulheres\nMulheres que falam espanhol: 0,25 · 96 = 24\n\nConferindo: há 54 homens, e 50% de 54 = 27; 24 + 27 = 51.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:16": {
+   "resposta": "Encontram-se as coordenadas dos três vértices e calcula-se a área pelo determinante (ou fórmula de Gauss).\n\nB (reta r com x = 0): y = 4/2 = 2 → B(0, 2)\nC (reta s com y = 0): −5x + 25 = 0 → C(5, 0)\nA (r = s): (3x + 4)/2 = (−5x + 25)/3\n9x + 12 = −10x + 50 → x = 2 e y = 5 → A(2, 5)\nÁrea = ½ · |0·(5 − 0) + 2·(0 − 2) + 5·(2 − 5)|\nÁrea = ½ · |0 − 4 − 15| = 19/2 = 9,5\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:17": {
+   "resposta": "Os dois comprimidos são do mesmo medicamento se ambos forem de A ou ambos de B. Como não há reposição, o total diminui de uma unidade na segunda retirada.\n\nTotal: 21 + 15 = 36 comprimidos\nP(dois de A) = 21/36 · 20/35 = 420/1260\nP(dois de B) = 15/36 · 14/35 = 210/1260\nP(mesmo medicamento) = 630/1260 = 1/2\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:18": {
+   "resposta": "Usa-se a soma dos ângulos e a bissetriz para achar triângulos com ângulos conhecidos.\n\nNo triângulo ABC: ângulo C = 90° e B = 30°, logo A = 60°.\nA bissetriz AD divide esse ângulo em 30° + 30°.\nTriângulo ABD: ângulo DAB = 30° e ângulo B = 30° → isósceles, BD = AD.\nTriângulo ACD (retângulo em C): ângulo CAD = 30°, então DC = AD · sen 30° = AD/2.\nBD/DC = AD ÷ (AD/2) = 2\n\nO mesmo resultado sai do teorema da bissetriz interna: BD/DC = AB/AC = 10/5 = 2.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:19": {
+   "resposta": "A questão cobra média, moda e mediana em dados agrupados em frequências.\n\nMédia = (18·10 + 7·13 + 9·8 + 16·4,5) ÷ 50\nMédia = (180 + 91 + 72 + 72) ÷ 50 = 415 ÷ 50 = 8,3 cm\nModa: altura mais frequente, 10 cm (18 mudas)\nMediana: com 50 valores, média do 25º e do 26º em ordem crescente\n4,5 cm ocupa as posições 1 a 16; 8 cm, de 17 a 25; 10 cm, de 26 a 43\nMediana = (8 + 10) ÷ 2 = 9 cm\n\nA armadilha das alternativas com 18 é confundir a moda (um valor de altura) com a frequência dela (18 mudas).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:20": {
+   "resposta": "Usam-se as fórmulas da área lateral e do volume do cilindro e do volume do cone. Chame de R o raio do cilindro, h sua altura e r o raio do cone (R = 2r).\n\nÁrea lateral: 2πRh = 72π → R · h = 36\nVolume do cone: (1/3) · π · r² · 18 = 6πr²\nCilindro = 6 · cone: πR²h = 36πr²\n(2r)² · h = 36r² → 4h = 36 → h = 9 cm\nR = 36 ÷ 9 = 4 cm\nr = R ÷ 2 = 2 cm\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:21": {
+   "resposta": "A China adotou por décadas a política do filho único (1979–2015) para conter o crescimento populacional. A consequência foi uma taxa de fecundidade muito baixa e um rápido envelhecimento da população, com menos jovens para trabalhar e sustentar o sistema previdenciário. Por isso, o governo passou a permitir dois filhos e, em 2018, pesquisadores sugeriram até taxar famílias com menos de dois filhos.\n\nA proposta busca incentivar a natalidade diante do envelhecimento (D). A alternativa A diz o contrário (desencorajar). B também, além de errar a causa. E é falsa porque o bônus demográfico chinês está se esgotando. C usa mal o conceito de população relativa, que é a densidade demográfica.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:22": {
+   "resposta": "A exclusão digital no Brasil está ligada à desigualdade socioeconômica: grande parte da população não tem renda para comprar computador ou pagar conexão de qualidade, e há diferenças fortes de escolaridade e de infraestrutura entre regiões e entre cidade e campo. Quem é mais pobre tende a ter menos acesso e menos formação para usar a tecnologia, como sugere o texto ao falar de uma nova cultura de uso.\n\nAs demais alternativas não explicam o problema. Hierarquia urbana (A) é a relação de influência entre cidades; industrialização tardia (B) e obsolescência programada (E) não são as barreiras centrais; compreensão espacial (D) não tem relação com o tema.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:23": {
+   "resposta": "O excerto descreve o escoamento superficial: quando o solo fica saturado e não absorve mais água, a chuva passa a correr sobre as vertentes, primeiro de forma difusa (lençol) e depois concentrada em linhas, abrindo sulcos e microrravinas. Esse é o início dos processos erosivos, que podem evoluir para ravinas e voçorocas.\n\nA infiltração (D) é justamente o que deixa de acontecer com o solo saturado. A ressurgência (B) é o afloramento de águas profundas. O transporte de massas (C) se refere a deslizamentos e movimentos de solo e rocha. Já o termo \"exorreico\" (A) trata de bacias que drenam para o mar e não descreve o fenômeno do texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:24": {
+   "resposta": "A imagem representa a economia circular, com dois ciclos fechados. No ciclo biológico, o que se produz e consome volta ao solo como fertilizante. No ciclo tecnológico, materiais como cobre e zinco são produzidos, usados e retornam à cadeia para serem reaproveitados.\n\nA ideia central é aproveitar ao máximo os recursos, mantendo-os em circulação em cadeias produtivas integradas (A), em vez do modelo linear de extrair, usar e descartar. B e E descrevem o modelo linear que a proposta quer superar. C fala em interromper o consumo industrial, o que não aparece. D é a armadilha: a proposta não gera lixo de propósito; ela evita o descarte ao reaproveitar materiais.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:25": {
+   "resposta": "A questão cobra a linguagem cartográfica. O mapa usa manchas de cor, que preenchem áreas, para representar a temperatura média. A legenda organiza essas cores em faixas que seguem uma ordem de valores (de acima de 30 °C até abaixo de −30 °C), com tons do vermelho ao azul que crescem ou diminuem de intensidade conforme a temperatura.\n\nIsso é uma representação por áreas ordenadas (B): implantação zonal, com variação visual ordenada. Não se trata de áreas proporcionais (A), em que o tamanho do símbolo varia com o valor, nem de pontos (D) ou linhas (C e E), como as isotermas, que não são o recurso usado na legenda.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:26": {
+   "resposta": "O texto apresenta duas explicações para a origem do feudalismo: a fusão de elementos romanos e germânicos e a crise interna do Império Romano a partir do século III.\n\nA alternativa A une essas duas linhas. Do lado romano, a crise do escravismo, com a escassez de escravos após o fim das conquistas, levou ao colonato, em que o trabalhador ficava preso à terra, base da servidão. Do lado germânico, o comitatus, laço de fidelidade pessoal entre guerreiros e chefes, deu origem às relações de suserania e vassalagem.\n\nAs demais trazem dados falsos: os germânicos não tinham leis escritas (B) nem propriedade privada da terra (D), e a crise não foi de minifúndios (E) nem de uma reforma agrária (C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:27": {
+   "resposta": "Crosby argumenta que a varíola foi tão importante quanto a pólvora na conquista da América, talvez mais. Os indígenas, que nunca tinham tido contato com a doença, não tinham imunidade, e as epidemias mataram grande parte da população e enfraqueceram a resistência. O autor nota que os nativos chegaram a usar mosquetes e rifles contra os invasores, mas a varíola \"pouquíssimas vezes lutou\" ao lado deles.\n\nDaí a alternativa C: a suscetibilidade dos ameríndios às novas doenças facilitou o domínio europeu. A diz o contrário; B fala de passividade, que o texto desmente; D e E invertem quem venceu e quem era vulnerável.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:28": {
+   "resposta": "A questão cobra a transição do trabalho escravo para o livre na cafeicultura paulista. O \"dilema\" de Ribeyrolles era modernizar a produção ou decair junto com a escravidão.\n\nNo Vale do Paraíba, a lavoura presa ao escravo e a terras esgotadas decaiu. No Oeste paulista, os cafeicultores, com mais capital, adotaram a imigração subvencionada (sobretudo italianos), que substituiu a mão de obra escrava, e investiram em ferrovias e no beneficiamento mecânico do café. Assim, o dilema foi resolvido pela via da transformação.\n\nA alternativa A erra porque o tráfico negreiro acabou em 1850 e o Oeste se modernizou; a C erra porque a cafeicultura paulista prosperou após 1888 graças aos imigrantes; a B exagera a mecanização, que nunca dispensou a maioria dos trabalhadores.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:29": {
+   "resposta": "A questão cobra os fatores da descolonização afro-asiática no pós-guerra.\n\nO texto aponta duas causas: internamente, a mudança nas \"relações de força\" dentro das colônias, com movimentos que dependiam do apoio de toda a população, ou seja, da conscientização e mobilização dos povos colonizados; externamente, o enfraquecimento da Europa e a ascensão dos EUA e da URSS, que adotaram posições anticolonialistas e disputavam influência sobre os novos países, isto é, o contexto da Guerra Fria.\n\nA alternativa D contraria o texto, que fala justamente no enfraquecimento europeu; a E fala em confrontos militares entre as superpotências e em elites, nada disso aparece no excerto; a A e a B também não se apoiam no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:30": {
+   "resposta": "A questão cobra a leitura de uma charge sobre a abertura \"lenta, gradual e segura\" do regime militar.\n\nNa fala do personagem, a \"abertura\" continua \"em andamento\" ao mesmo tempo em que o governo anuncia processos contra jornalistas e líderes sindicais. A ironia está na contradição: o regime adotava medidas de liberalização (anistia de 1979, volta do pluripartidarismo) mas mantinha instrumentos autoritários, como a Lei de Segurança Nacional, usados contra a imprensa e o movimento sindical do ABC.\n\nA alternativa D é o oposto do que a charge mostra; a A também, já que os sindicalistas são alvo, não base de apoio.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:31": {
+   "resposta": "A questão pede a ideia central do texto.\n\nO primeiro parágrafo apresenta um estudo segundo o qual pessoas com baixa pontuação em testes de capacidade cognitiva continuam influenciadas por informações falsas mesmo depois de desmentidas; o segundo parágrafo busca explicações para essa relação (memória operacional, idade, escolaridade). Tudo gira em torno do vínculo entre capacidade cognitiva e vulnerabilidade a notícias falsas.\n\nA memória operacional (E), o envelhecimento (C) e a educação (D) aparecem só como partes da explicação, não como tema central. A alternativa A fala de camadas sociais, assunto que o texto não trata.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:32": {
+   "resposta": "A questão cobra o sentido da preposição \"on\" no contexto.\n\nEm \"research on cognitive aging\", \"on\" significa \"sobre, a respeito de\": pesquisa sobre o envelhecimento cognitivo. Entre as alternativas, só em \"a documentary on forensic science\" (um documentário sobre ciência forense) a preposição tem esse mesmo sentido de assunto.\n\nNas demais, o sentido é outro: em A, C e E, \"on\" indica posição sobre uma superfície (na porta, na mesa de cabeceira, no balcão); em B, indica o meio de transmissão (\"na BBC\").\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:33": {
+   "resposta": "A questão pede o sentido de \"mental clutter\" a partir do texto e do cartum.\n\n\"Clutter\" é bagunça, amontoado desordenado de coisas, como a mesa atulhada do cartum. No texto, o termo é explicado logo em seguida: algumas pessoas têm menos capacidade de descartar da memória operacional informações que já não são relevantes ou que foram desmentidas. \"Mental clutter\" é, portanto, o acúmulo desorganizado de informações irrelevantes na mente.\n\nA alternativa B inverte a ideia (o problema é justamente não descartar); C, D e E descrevem o cartum ao pé da letra (objetos físicos, espaço de trabalho, criatividade), não o sentido mental usado no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:34": {
+   "resposta": "A questão pede a descrição do salão do restaurante.\n\nO texto diz que o salão é \"serene\" (sereno, tranquilo) e \"neutral-toned\" (de tons neutros), com paredes de tijolo claro e móveis escuros. \"Serene\" corresponde a \"tranquil\" e \"neutral-toned\" a \"colorless\", sem cores vivas.\n\n\"Varied\" se refere ao cardápio, não ao salão (B); \"noisy\" contraria \"serene\" (A); \"calm and colorful\" (D) acerta só a metade; \"insipid\" (E) é um juízo negativo que o texto não faz.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:35": {
+   "resposta": "A questão pede o significado do nome do restaurante.\n\nO texto afirma diretamente que o nome Hwaban significa \"as beautiful as a flower\" (tão belo quanto uma flor), e acrescenta que há elementos florais no salão e em alguns pratos.\n\nAs demais alternativas trazem expressões do texto ligadas a outros assuntos: \"traditional and personalized\" e \"modern touches\" descrevem a proposta culinária, \"Korean fare\" é a comida coreana e \"set array of dishes\" é o menu chamado Hwaban Table.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:36": {
+   "resposta": "A questão cobra movimento uniforme: tempo = distância ÷ velocidade, em cada trecho.\n\nDistância: 8 m = 800 cm.\nIda: t₁ = 800 ÷ 8 = 100 s\nCorte da folha: t₂ = 40 s\nVolta: t₃ = 800 ÷ 4 = 200 s\nTotal: 100 + 40 + 200 = 340 s\n\nO cuidado é converter metros em centímetros antes de dividir, já que as velocidades estão em cm/s.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:37": {
+   "resposta": "A questão cobra a 2ª lei de Newton aplicada a um sistema de corpos ligados.\n\nA força F age sobre o vagão 01 e arrasta o conjunto dos dois vagões; sem atrito, para os vagões:\nF = (M + M + m) · a → a = F ÷ (2M + m)\n\nO engate entre os vagões puxa só o vagão 02, que tem massa M + m (vagão mais turistas):\nT = (M + m) · a\nT = (M + m) · F ÷ (2M + m)\n\nA alternativa A esquece a massa do vagão 01 no denominador.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:38": {
+   "resposta": "A questão cobra calor sensível: Q = m · c · Δθ, com conversão de calorias para joules.\n\nMassa: 800 mL × 1,0 g/mL = 800 g\nVariação de temperatura: Δθ = 15 − 90 = −75 °C\nQ = 800 · 1,0 · (−75) = −60 000 cal\nEm joules: 60 000 × 4,2 = 252 000 J ≈ 252 kJ\n\nO sinal negativo indica calor perdido pela água; em valor absoluto, cerca de 250 kJ.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:39": {
+   "resposta": "A questão cobra semelhança de triângulos (raios de luz paralelos) e a imagem num espelho plano.\n\nCadeira: 60 cm de altura e 40 cm de sombra, logo altura ÷ sombra = 60 ÷ 40 = 1,5.\n\nO raio que passa pelo topo do muro atingiria o chão atrás da parede da casa; o espelho o reflete e ele toca o chão a 60 cm da parede. Pela simetria do espelho plano, esse ponto equivale a 60 cm além da parede. Assim, a sombra completa do muro seria:\ns = 60 + 60 (muro até a parede) + 60 (simétrico) = 180 cm\n\nAltura do muro: h = 1,5 × 180 = 270 cm = 2,7 m\n\nQuem esquece o espelho e usa só 120 cm obtém 1,8 m, que não está nas alternativas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:40": {
+   "resposta": "A questão cobra associação de resistores em série e em paralelo.\n\nOs cinco resistores de 1 000 Ω têm as extremidades ligadas aos mesmos dois clipes, de resistência desprezível: estão em paralelo.\nR_p = 1 000 ÷ 5 = 200 Ω\n\nEntre A e o primeiro clipe há um resistor de 200 Ω, e entre o segundo clipe e B, outro de 200 Ω; tudo em série:\nR_eq = 200 + 200 + 200 = 600 Ω\n\n**Resposta: D**",
    "confianca": "alta",
    "pendencia": null
   }

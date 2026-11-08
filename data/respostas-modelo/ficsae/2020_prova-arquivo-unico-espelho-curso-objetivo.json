@@ -1,8 +1,248 @@
 {
  "indice": "data/questoes/ficsae/2020_prova-arquivo-unico-espelho-curso-objetivo.json",
- "gerado_em": "2026-11-06",
+ "gerado_em": "2026-11-08",
  "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
  "questoes": {
+  "0:1": {
+   "resposta": "O humor do cartum está na relação de causa e efeito que a criança imagina. A fala diz, em tradução livre, \"só estou dizendo que desejei férias de verão sem fim, e agora as geleiras estão derretendo\".\n\nA expressão \"All I'm saying is\" funciona como uma confissão: o menino associa o próprio desejo infantil (um verão que nunca acabe) ao aquecimento global, como se tivesse provocado o derretimento das geleiras. A cara preocupada dos dois reforça a ideia de culpa.\n\nNão há menção a excursão, a destino turístico nem a frustração com o fim das férias; o verão eterno é justamente o que ele desejou, e o problema é a consequência que ele atribui a si mesmo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão pede o provérbio cujo sentido combina com a fala do cartum. A criança conta que desejou um verão sem fim e agora vê as geleiras derretendo, ou seja, o desejo \"se realizou\" de um jeito que trouxe consequências ruins.\n\nÉ exatamente a ideia de \"cuidado com o que você deseja, pois poderá ser atendido\": um pedido aparentemente bom pode virar problema quando se cumpre.\n\nAs outras alternativas tratam de temas diferentes: adaptação às dificuldades (A), esforço gradual para grandes objetivos (B), conhecer as próprias origens (C) e dar valor ao que se tem só depois de sofrer (E). Nenhuma delas fala de um desejo realizado com efeito indesejado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão pede o sentimento predominante do narrador. Ele se recusa a pagar o dentista, diz que odeia dentistas, comerciantes, advogados e outros profissionais, chama todos de \"canalha\", afirma que \"todos eles estão me devendo muito\" e termina com \"cansei de pagar\", \"agora eu só cobro\".\n\nEsse acúmulo de ódio dirigido a grupos sociais que, na visão dele, o exploraram e lhe devem algo é rancor: ressentimento guardado que busca revanche. A destruição do consultório funciona como desabafo (\"comecei a aliviar o meu coração\").\n\nDesprezo (E) é a alternativa mais tentadora, mas desprezo é indiferença superior; o narrador não é indiferente, ele se sente lesado e quer cobrar. Não há perplexidade, melancolia nem tédio.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão trata da reação do narrador à pergunta do dentista sobre como ele deixou os dentes chegarem àquele estado.\n\nEle não responde: limita-se a pensar \"Só rindo. Esses caras são engraçados\". O riso sarcástico mostra que, para ele, a pergunta não merece resposta, não faz sentido diante da sua realidade (ele nem tem dinheiro para pagar o tratamento). Ou seja, ele a considera irrelevante, quase ridícula.\n\nNão há indício de que veja na pergunta algo disfarçado (B), duplo sentido (C) ou ofensa (D); ele não se sente atingido, apenas a despreza com ironia. E \"engraçados\" é irônico, não indica que se divertiu de verdade (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra a transposição do discurso indireto para o direto.\n\nNo discurso indireto, com verbo de elocução no pretérito (\"perguntou\"), o pretérito perfeito da fala original recua para o pretérito mais-que-perfeito: \"tinha deixado\". Ao voltar para o discurso direto, a forma volta ao pretérito perfeito.\n\nA fala do dentista seria: \"Como é que o senhor deixou os seus dentes ficarem nesse estado?\".\n\n\"Deixava\" (D) é imperfeito e muda o aspecto da ação; \"deixa\" (B) mudaria o tempo para o presente; \"deixaria\" e \"deixara\" não correspondem à fala original.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão pede a locução verbal em que o primeiro verbo (o auxiliar) indica futuro.\n\nEm \"vai perder\", o auxiliar \"ir\" no presente seguido de infinitivo forma o futuro próximo (perifrástico): equivale a \"perderá\".\n\nNas outras, o auxiliar tem outro valor:\n- \"fui andando\": ação progressiva, gradual, no passado;\n- \"comecei a aliviar\": início da ação (aspecto incoativo);\n- \"estão me devendo\" e \"está atendendo\": ação em curso, durativa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra figuras de linguagem. O humor está na resposta de Charlie Brown: as aulas não \"chegam\", elas \"pulam no seu pescoço\".\n\nEle atribui às aulas uma ação própria de um ser vivo, como um animal que ataca de surpresa. Dar a seres inanimados ou a ideias características e ações humanas ou animais é personificação (prosopopeia). A imagem exagerada traduz o sentimento de que a volta às aulas é uma ameaça que pega o personagem desprevenido, o que combina com sua postura desanimada no cartum.\n\nNão há mistura de sensações (sinestesia), repetição redundante (pleonasmo), suavização de algo desagradável (eufemismo; ao contrário, ele intensifica) nem ideias que se anulam (paradoxo).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão pede o trecho em que o autor se coloca explicitamente, com uma avaliação própria, e não apenas expõe hipóteses científicas.\n\nEm \"Mas é só na nossa época que temos uma perspectiva real de desvendar algumas das respostas\", Sagan emite um juízo pessoal sobre o momento histórico e se inclui no \"nós\" (\"temos\", \"nossa época\"). O \"mas\" introduz a tese que ele defende: só agora a ciência permite responder a essas questões por meio de observações verificáveis.\n\nOs trechos de A, C e E são exposições das possíveis consequências de cada modelo cosmológico, apresentadas de forma condicional e impessoal. O de D é uma constatação geral sobre as culturas humanas, que prepara a opinião expressa em seguida.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "O trecho de D também tem tom de comentário do autor; o que diferencia B é a opinião marcada pelo \"mas\" e pela primeira pessoa do plural."
+  },
+  "0:9": {
+   "resposta": "A questão cobra o sentido de uma palavra no contexto. A matéria escura é descrita como algo que não \"trai a sua existência emitindo luz\".\n\nAqui \"trair\" tem o sentido de denunciar, deixar transparecer, revelar algo que estava escondido (como em \"o olhar traiu seu nervosismo\"). A matéria escura não revela sua presença porque não emite luz; por isso só pode ser percebida indiretamente.\n\nTrocando por \"revela\", a frase mantém o sentido: matéria escura \"que não revela a sua existência emitindo luz\".\n\n\"Disfarça\" e \"oculta\" (C e D) têm sentido oposto: com o \"não\", diriam que a matéria se mostra. \"Nega\" e \"anula\" não fazem sentido no trecho.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão pede o movimento literário descrito no excerto.\n\nAs marcas são claras: a arte deve usar os métodos científicos de observação e experimentação; o homem é visto como sujeito às leis físico-químicas e determinado pelo meio. Isso é o Naturalismo, que, sob influência do determinismo (Taine) e do evolucionismo, trata o romance como experimento e o personagem como produto da raça, do meio e do momento. No Brasil, o exemplo clássico é \"O cortiço\", de Aluísio Azevedo.\n\nO Romantismo valoriza a subjetividade e a idealização; o Simbolismo, o mistério e o espiritual, justamente o \"homem metafísico\" que o Naturalismo rejeita; o Arcadismo segue modelos clássicos; o Modernismo busca ruptura estética, sem esse cientificismo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão pede o tema central do texto. O autor parte de um episódio de reconhecimento facial em Londres, cita o alerta de que hoje se vigia todos, em toda parte, mais do que num Estado policial do passado, menciona as \"smart cities\" de Amsterdã a Toronto e termina dizendo que não podemos escapar da \"vigilância ambiente\".\n\nO fio comum é a escala inédita (unprecedented) com que as ações dos cidadãos são monitoradas.\n\nA alternativa A fala em ganhos e perdas, mas o texto quase não trata de ganhos; B fala em mudança de comportamento das pessoas, que não é o foco; C restringe o assunto à legitimidade do reconhecimento facial; E exagera ao falar em políticas \"ultrajantes\" de governos, quando o texto aponta o uso social da tecnologia em geral.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão pergunta a que se refere \"terrifying\" no primeiro parágrafo. O autor diz que às vezes é a própria banalidade de uma cena que a torna aterrorizante.\n\nA cena: um homem cobre o rosto para evitar as câmeras, é parado pela polícia, multado, e o policial justifica a suspeita pelo simples fato de ele esconder o rosto. O autor conclui, com ironia: se você quer proteger sua privacidade, deve ter algo a esconder. O assustador é isso: um ato de preservar a privacidade ser interpretado como tentativa de ocultar algo.\n\nD é tentadora, mas o homem não foi preso (arrested); foi multado. B generaliza demais, e C e E não aparecem no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão pede a contradição apontada no segundo parágrafo. Ceglowski afirma que, até pouco tempo, mesmo quem vivia num Estado policial contava com a falta de equipamentos e de pessoal das autoridades para vigiar todos o tempo todo e, por isso, tinha mais liberdade frente ao monitoramento do que temos hoje numa sociedade livre.\n\nA contradição: pessoas em regimes autoritários do passado eram menos monitoradas que as das sociedades abertas de hoje.\n\nC parece certa porque o parágrafo diz que devemos nos preocupar mais com o uso social da tecnologia do que com as empresas, mas isso é uma recomendação, não uma contradição. A e B distorcem a menção à China, e D não aparece no parágrafo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão pede o papel do Rio de Janeiro no texto. O terceiro parágrafo diz que as \"smart cities\" também possibilitam uma nova forma de policiamento e, logo em seguida, cita o prefeito do Rio sobre o centro integrado de comando construído para a Olimpíada de 2016, que permite olhar cada canto da cidade 24 horas por dia.\n\nO Rio, portanto, ilustra o argumento de que certos usos da tecnologia para coletar dados dos cidadãos são também uma forma de policiamento. No quarto parágrafo, a menção irônica (no Rio nem ônibus nem coleta de lixo funcionam bem) reforça que a vigilância avançou mais que os serviços.\n\nO texto não diz que o Rio foi o primeiro (A), nem o compara a cidades do norte (B), nem o chama de exemplo perfeito (D). E não trata de segurança.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão pede o que o quarto parágrafo deixa implícito sobre a opinião do autor. Ele cita Ceglowski: não podemos sair da \"vigilância ambiente\", assim como não sairíamos da cultura do automóvel só por nos recusarmos a dirigir. E conclui que essa talvez seja a ideia mais perturbadora de todas.\n\nAo chamar isso de \"most disturbing\", o autor concorda que escapar da vigilância não é uma simples questão de escolha pessoal: mesmo quem quer evitá-la está sujeito a ela.\n\nC é a tentadora, mas o autor não recomenda que as pessoas evitem a vigilância; ele diz que isso nem é possível. A extrapola (ele não condena câmeras em casa), D contraria o texto, e E fala de prosperidade, quando o texto fala de \"human flourishing\" e da esfera fora do escrutínio público.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão pede a ideia central do texto de Le Goff sobre a medicina medieval.\n\nO trecho mostra que o tipo de tratamento dependia de quem era o doente e de onde vivia: nas terras não cristãs, quem curava com remédios populares era tido como feiticeiro; nas cristãs, a feitiçaria era proibida, mas havia \"curandeiros\" cristãos; e os ricos (senhores e burgueses) eram atendidos por médicos judeus, herdeiros dos saberes da Antiguidade. O acesso ao cuidado, portanto, variava conforme as condições sociais e religiosas.\n\nA erra ao chamar o universo de \"uniforme\", já que o texto mostra diversidade religiosa. B, C e D não aparecem: não há comparação com outras partes do mundo, elogio da medicina popular nem menção à Inquisição.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão relaciona as causas de morte em Sheffield (1837–1842) com o contexto da Revolução Industrial.\n\nSheffield era um centro industrial (siderurgia e cutelaria). As principais causas da tabela, tuberculose, inflamação dos pulmões e definhamento físico, estão ligadas a moradias insalubres e superlotadas, má alimentação, ar poluído e jornadas exaustivas; os acidentes refletem as condições de trabalho nas fábricas. É o quadro de pobreza e superpopulação das cidades industriais descrito por Thompson.\n\nA erra porque a tuberculose é bacteriana; B erra o século e a causa; C e E deslocam o problema para o campo, quando os dados são de uma cidade industrial do século XIX.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão trata da Revolta da Vacina (1904), no Rio de Janeiro, então capital federal.\n\nNa charge, pessoas de várias classes são atravessadas por um mesmo \"espeto\" com o título \"A Avenida\", referência à Avenida Central aberta na reforma urbana de Pereira Passos. A obrigatoriedade da vacina contra a varíola, defendida por Oswaldo Cruz, fazia parte do mesmo projeto de \"regeneração\" e saneamento da capital, que incluiu a derrubada de cortiços. A charge ironiza a imposição da vacina a todos, à força.\n\nB erra porque não havia redemocratização em curso; C e E citam doenças erradas (sarampo e malária; a vacina era contra a varíola) e E ainda fala em \"celebrar\"; D afirma que não havia estudos científicos, o que é falso, e a charge não discute contraindicações.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão pede a leitura do trecho de \"Capitães da areia\" sobre a epidemia de varíola (bexiga) em Salvador.\n\nO texto mistura três olhares: o religioso (Omolu, orixá ligado às doenças, espalha a bexiga como vingança e depois a abranda em alastrim), o médico (a vacina, que só os ricos tinham, e o lazareto, local de isolamento dos doentes) e o social (a doença mata os negros pobres, enquanto os ricos estão protegidos). Por isso a resposta é a combinação dessas percepções.\n\nD é tentadora por citar o lazareto, mas o texto não associa \"cientificidade\" e preconceito como política de combate; ele denuncia a desigualdade. A erra porque a varíola é viral; B não aparece no texto; E contraria o trecho, que dá destaque à dimensão mística.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão pede o fator que o texto liga à rápida disseminação da aids na África.\n\nO autor diz que o avanço da doença não foi contido a tempo, em grande parte, pelas atitudes de políticos e de religiosos que negavam a existência do problema ou se opunham às medidas de proteção. Ou seja, faltaram políticas públicas de controle da doença.\n\nA é tentadora porque o texto começa falando da fome, mas a fome aparece como ameaça histórica, não como causa da expansão da aids. B, C e D não estão no texto: não se fala de colonizadores, de abolição de valores religiosos tradicionais nem de formas de contágio semelhantes às da varíola (que, aliás, são diferentes).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão pede a leitura do mapa da pandemia de H1N1 (2009) com base no contexto da época.\n\nO mapa mostra muitos casos (≥ 1500) em países de todos os continentes e de diferentes níveis de desenvolvimento, como Estados Unidos, Brasil, China, Rússia e Austrália. O vírus surgiu no México e se espalhou em poucos meses pelo mundo, levado pelo intenso fluxo de pessoas em viagens aéreas e pelo comércio: é o efeito das conexões da globalização.\n\nA é desmentida pelo próprio mapa, já que países ricos têm muitos casos. C e E não se sustentam, porque a distribuição não segue fronteiras nem o nível de renda. D erra porque a gripe atingiu países em zonas climáticas muito diferentes.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão cobra o conceito de \"deseconomias de aglomeração\".\n\nNo início, concentrar indústrias numa região traz vantagens (infraestrutura, mão de obra, fornecedores, mercado). Quando a concentração é excessiva, surgem custos: terrenos e aluguéis caros, salários mais altos, congestionamentos que encarecem o transporte, impostos e problemas ambientais. Esses custos crescentes reduzem a competitividade da produção e estimulam a desconcentração industrial para o interior e outras regiões, como ocorreu a partir de São Paulo.\n\nAs outras alternativas não descrevem custos de aglomeração: proximidade entre empresas não compromete a concorrência (B), e cooperação, hierarquia e monopólios (A, C, E) não são os inconvenientes típicos da hiperconcentração.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão pede a leitura combinada dos dois mapas do município de São Paulo.\n\nO primeiro mostra que a ocupação mais recente (1975–2002, em laranja, vermelho e marrom) avançou para as bordas, inclusive para o sul, dentro dos limites da área de proteção dos mananciais (região das represas Billings e Guarapiranga). O segundo mostra que, nos anos 1990, os distritos centrais perderam população, enquanto os periféricos do sul e do extremo norte e leste cresceram de 2,5% a 14% ao ano. Essa expansão sobre áreas de mananciais se deu em boa parte por loteamentos irregulares e favelas.\n\nB e D não se sustentam (o mapa é só do município, e a perda no centro não é desmetropolização). C erra porque o crescimento não ocorre sobre os parques. E não pode ser lida nos mapas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão mostra fotos de trincheiras (perfis de solo) com uma régua graduada, técnica usada em pedologia.\n\nAo abrir o perfil e medir a profundidade, observa-se a sequência de horizontes do solo e descrevem-se suas características morfológicas: cor, espessura, textura, estrutura, consistência e presença de raízes ou pedras. Essa descrição é a base para classificar o solo (por exemplo, no Sistema Brasileiro de Classificação de Solos).\n\nA confunde perfil do solo com perfil topográfico, que trata do relevo. B extrapola para o manto terrestre, muito mais profundo. D e E atribuem à técnica finalidades que ela não tem: a trincheira serve para observar, não para planejar cidades nem para corrigir o solo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão cobra o conceito de desenvolvimento sustentável. O texto diz que, a partir dos anos 1980, o enfoque deixou de ser apenas preservacionista e passou a relacionar crescimento econômico e preocupação ambiental.\n\nA definição clássica, do Relatório Brundtland (1987), é atender às necessidades do presente sem comprometer a capacidade das gerações futuras de atender às suas. Ou seja, manter a produção, a circulação e o consumo de bens, mas sem esgotar os recursos para quem vem depois.\n\nD é a tentadora, mas descreve justamente a visão preservacionista dos anos 1960 e 1970 que o texto diz ter sido superada. A, B e C não correspondem ao conceito: ele não depende de transgenia, não nega novas formas de uso do meio e não legitima a exploração rápida e sem limites das matérias-primas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra a reprodução da Taenia solium, um platelminto.\n\nAs tênias são hermafroditas: cada proglote madura tem órgãos reprodutores masculinos e femininos. Como em geral há um só verme adulto no intestino (por isso \"solitária\"), a fecundação ocorre entre gametas do próprio indivíduo, por autofecundação, entre proglotes do mesmo verme.\n\nMesmo na autofecundação a reprodução é sexuada: há meiose na formação dos gametas, com permutação e segregação independente dos cromossomos, e depois fecundação. Por isso os ovos não são geneticamente idênticos; há variabilidade, ainda que menor que na fecundação cruzada.\n\nC erra ao chamar de assexuada e dizer que os ovos são iguais. A erra porque a tênia não tem sexos separados. B e D descrevem processos que não ocorrem nela.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão cobra a hierarquia da classificação biológica: reino, filo, classe, ordem, família, gênero, espécie.\n\nQuanto mais baixa a categoria compartilhada, mais próximos evolutivamente são os organismos, porque compartilham um ancestral comum mais recente. Entre as opções, a categoria mais restrita é o gênero: espécies do gênero Papaver (o mesmo da papoula, Papaver somniferum) são as parentes mais próximas e, portanto, as mais prováveis de terem vias metabólicas semelhantes para produzir opioides.\n\nPertencer ao mesmo reino, filo, classe ou ordem inclui muitas espécies mais distantes, o que torna esses critérios menos eficientes para a seleção.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A tirinha brinca com a relação entre crocodilos e pequenas aves (como o pássaro-palito) que entram na boca do réptil para comer restos de alimento e parasitas. Os dois ganham: a ave se alimenta, o crocodilo fica com a boca limpa. Mas a relação não é obrigatória: cada um vive bem sem o outro. É protocooperação.\n\nO mesmo ocorre entre a anêmona-do-mar e o caranguejo-eremita: a anêmona, presa à concha, protege o caranguejo com suas células urticantes e ganha transporte e restos de comida; ambos sobrevivem separados.\n\nC é a tentadora, mas cupim e protozoários formam mutualismo obrigatório, pois um não vive sem o outro. Pomba e piolhos é parasitismo; veado e lobo, e rato e águia, são predação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra o metabolismo energético da levedura, que é anaeróbia facultativa.\n\nCom oxigênio, ela faz respiração aeróbia e obtém muito ATP por glicose (cerca de 30 a 38). No ponto da seta, a quantidade de ATP por glicose cai bruscamente: o oxigênio acabou e a levedura passou a fazer fermentação alcoólica, em ambiente anaeróbio.\n\nFermentação alcoólica:\nC₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂ + 2 ATP (saldo)\n\nC descreve a fermentação lática (ácido lático, C₃H₆O₃), que não produz CO₂ e não é a da levedura. B e E indicam 4 ATP, que é a produção bruta da glicólise, não o saldo. A e E ainda chamam o ambiente de aeróbio.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão pede a ideia geral da terapia gênica.\n\nEm muitas doenças, um gene defeituoso faz a célula produzir uma proteína que não funciona (ou não produzi-la). A terapia gênica introduz nas células-alvo uma versão funcional do gene, por exemplo com vetores virais ou edição genética, substituindo ou corrigindo o segmento defeituoso. Assim a célula passa a sintetizar a molécula correta e o quadro normal pode ser restabelecido.\n\nB é a tentadora, mas o gene não precisa vir de outra espécie; em geral é a versão humana normal. C e E descrevem tratamentos com remédios (quimioterapia e fármacos), não a alteração do material genético. D descreve fusão de células, que não é terapia gênica.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão relaciona a temperatura de fusão da liga com o seu uso.\n\n343 K − 273 = 70 °C\n\nA liga começa a fundir a cerca de 70 °C, temperatura muito baixa para um metal (abaixo até da ebulição da água). Ligas de bismuto com chumbo, estanho e cádmio desse tipo (como a liga de Wood) são usadas em fusíveis e em dispositivos de segurança: quando a corrente excessiva aquece o componente, a liga funde e interrompe o circuito.\n\nPor isso ela não serve para destiladores de água (100 °C), panelas ou blocos de motor, que passam muito de 70 °C. Também não serve como isolante elétrico, porque metais conduzem eletricidade.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão cobra concentração em quantidade de matéria (mol/L).\n\nDados: massa de ácido cítrico = 1 kg = 1000 g; M = 2 × 10² g/mol = 200 g/mol; V = 100 L\n\nn = m ÷ M = 1000 ÷ 200 = 5 mol\nC = n ÷ V = 5 ÷ 100 = 0,05 mol/L\n\nO sal de cozinha não entra na conta, porque a pergunta é só sobre o ácido cítrico. Quem esquece de dividir pelo volume marca 5 mol/L (A); quem usa 1 kg sem converter para gramas chega a valores errados como 0,005 ou 0,01.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão cobra o cálculo de ΔH pela Lei de Hess, a partir das entalpias de formação.\n\nReação de reforma do metano:\nCH₄(g) + H₂O(g) → CO(g) + 3 H₂(g)\n\nΔH = Σ Hf(produtos) − Σ Hf(reagentes)\nΔH = [(−111) + 3 · 0] − [(−75) + (−242)]\nΔH = −111 + 317 = +206 kJ\n\nO sinal positivo indica processo endotérmico: absorve energia.\n\nPor mol de H₂: 206 ÷ 3 ≈ 68,7 kJ ≈ 69 kJ absorvidos.\n\nQuem esquece de dividir por 3 não encontra o valor nas alternativas; quem inverte o sinal marca D.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra a emissão beta negativa (β⁻).\n\nNa emissão β⁻, um nêutron do núcleo se transforma em um próton, emitindo um elétron (a partícula β⁻) e um antineutrino. Assim:\n- o número de massa A não muda;\n- o número atômico Z aumenta 1.\n\nO ouro tem Z = 79. Então:\n¹⁹⁸₇₉Au → ⁰₋₁β + ¹⁹⁸₈₀X\n\nO elemento de Z = 80 é o mercúrio, e o isótopo formado é o mercúrio-198.\n\nQuem acha que Z diminui marca a platina (Z = 78); quem pensa que a massa muda marca ouro-197 ou platina-197. Irídio e tálio corresponderiam a outros tipos de decaimento.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão compara óleo mineral (parafina líquida) e óleo vegetal (soja).\n\nO óleo mineral é uma mistura de hidrocarbonetos (alcanos de cadeia longa), e o óleo de soja é uma mistura de triglicerídeos (ésteres de ácidos graxos e glicerol). Em ambos, os componentes são substâncias compostas, formadas por mais de um elemento (C e H; C, H e O). Por isso as alternativas com \"simples\" estão erradas.\n\nOs dois são combustíveis: queimam liberando CO₂ e H₂O. \"Oxigenadas\" serviria só para o óleo vegetal, já que hidrocarbonetos não têm oxigênio.\n\nDescartados na pia, ambos são nocivos: formam película na água, dificultam a troca de oxigênio, entopem tubulações e encarecem o tratamento de esgoto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão cobra a aceleração da gravidade na superfície de um astro: g = G · M ÷ R².\n\nComo o raio é proporcional ao diâmetro, comparando Titã com a Lua:\n\ng_T ÷ g_L = (m_T ÷ m_L) · (d_L ÷ d_T)²\ng_T ÷ g_L = 1,8 · (1 ÷ 1,5)²\ng_T ÷ g_L = 1,8 ÷ 2,25 = 0,8\n\ng_T = 0,8 · 1,6 = 1,28 m/s² ≈ 1,3 m/s²\n\nO resultado confirma o texto: a gravidade de Titã é menor que a da Lua, mesmo com massa maior, porque o raio também é maior e aparece ao quadrado. Quem esquece de elevar ao quadrado obtém 1,92 m/s².\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão cobra conversão entre escalas termométricas a partir de um gráfico.\n\nO gráfico é uma reta que passa por (−40 °C; −40 °F) e (80 °C; 176 °F).\n\nInclinação: (176 − (−40)) ÷ (80 − (−40)) = 216 ÷ 120 = 1,8\nEquação: θ_F = 1,8 · θ_C + 32\n(conferindo: 1,8 · 80 + 32 = 176)\n\nPara θ_C = −180 °C:\nθ_F = 1,8 · (−180) + 32\nθ_F = −324 + 32 = −292 °F\n\nD (−324 °F) é a armadilha de quem esquece de somar 32.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão usa semelhança de triângulos na formação de sombras (propagação retilínea da luz).\n\nO raio de sol que passa pelo topo do muro (4 m) toca o solo a 7 m do muro. A altura da região de sombra a uma distância x do muro diminui linearmente:\nh(x) = 4 · (1 − x ÷ 7)\n\nA pessoa inteira fica na sombra quando h(x) ≥ 1,6 m:\n4 · (1 − x ÷ 7) = 1,6\n1 − x ÷ 7 = 0,4\nx = 7 · 0,6 = 4,2 m\n\nDistância a percorrer: 10 − 4,2 = 5,8 m\nTempo: Δt = 5,8 ÷ 0,5 = 11,6 s\n\nQuem considera apenas a entrada dos pés na sombra (a 7 m) acha 6 s, valor que não está nas alternativas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão cobra o efeito Doppler. O glóbulo vermelho reflete o ultrassom e funciona como fonte para o receptor.\n\nQuando a fonte se afasta do observador, as frentes de onda chegam mais espaçadas: o comprimento de onda percebido aumenta e, como a velocidade do som no meio não muda (v = λ · f), a frequência percebida diminui.\n\nPortanto, com o glóbulo se afastando do receptor:\n- frequência aparente: menor que a real;\n- comprimento de onda aparente: maior que o real.\n\nAs alternativas B e D descreveriam a aproximação (ou erram a relação inversa entre f e λ); C e E contrariam v = λ · f com velocidade constante.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão cobra o cálculo de energia elétrica: E = P · Δt, somando as três salas.\n\nSala 1: 2 × 300 W × 4 h = 2400 Wh\nSala 2: 4 × 120 W × 5 h = 2400 Wh\nSala 3: 8 × 50 W × 4 h = 1600 Wh\n\nTotal: 2400 + 2400 + 1600 = 6400 Wh = 6,4 kWh\n\nO cuidado é multiplicar a potência de cada lâmpada pelo número de lâmpadas da sala e pelo tempo de uso diário, e só no fim converter de Wh para kWh (dividindo por 1000). Quem esquece a quantidade de lâmpadas obtém 2,2 kWh (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão cobra porcentagem de porcentagem: cada fração se aplica ao grupo anterior.\n\nConhecem o estado sorológico: 3/4 das pessoas com HIV\nDestas, têm tratamento: 4/5\nDestas, têm carga viral suprimida: 4/5\n\nFração do total de pessoas vivendo com HIV:\n3/4 × 4/5 × 4/5 = 48/100 = 48%\n\nEm números: de 100 pessoas, 75 conhecem a condição, 60 têm tratamento (4/5 de 75) e 48 têm carga viral suprimida (4/5 de 60).\n\nO erro comum é somar ou aplicar as frações ao total em vez de encadeá-las; 60% (o resultado das duas primeiras etapas) não está nas alternativas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão cobra o reconhecimento de um padrão e uma proporção.\n\nAs razões dadas, 2:1, 1:1, 2:3, 1:2 e 2:5, podem ser reescritas com o mesmo antecedente: 2:1, 2:2, 2:3, 2:4, 2:5. Na figura n, a razão de azuis para amarelos é 2 : n. (Na figura, cada retângulo tem 2(n + 1) quadrados azuis e n(n + 1) amarelos, o que confirma 2 : n.)\n\nQueremos 2 : n = 1 : 100:\n2 ÷ n = 1 ÷ 100\nn = 200\n\nConferindo: na figura 200, a razão 2 : 200 se simplifica para 1 : 100.\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "A imagem corta a parte de baixo da alternativa E (184), mas o número ainda é legível; a contagem exata de quadrados na figura é pequena, e a resolução se apoia nas razões dadas."
+  },
+  "0:43": {
+   "resposta": "A questão pede a função cujos pontos dão a mesma dosagem pediátrica pelas duas regras.\n\nIgualando as fórmulas de Clark e de Young:\nP ÷ 70 = i ÷ (i + 12)\n\nIsolando P:\nP = 70 · i ÷ (i + 12)\n\nConferindo com o gráfico: para i = 1, P = 70 ÷ 13 ≈ 5,4 kg, valor pequeno e positivo, como no início da curva vermelha; a curva cresce e se curva para baixo, típico de uma função desse tipo, que tende a 70 quando i cresce muito.\n\nD é a fórmula invertida (troca numerador e denominador), e as demais não saem da igualdade das duas regras.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A questão pede o domínio da função P = 70i ÷ (i + 12) no trecho em que as duas regras valem ao mesmo tempo.\n\nCondições:\n- Regra de Young: 1 ≤ i ≤ 12 anos.\n- Regra de Clark: P ≤ 30 kg.\n\nA restrição de peso limita a idade. Fazendo P = 30:\n70i ÷ (i + 12) = 30\n70i = 30i + 360\n40i = 360\ni = 9\n\nComo P cresce com i, P ≤ 30 vale para i ≤ 9. Combinando com i ≥ 1, o domínio é 1 ≤ i ≤ 9, o que coincide com o retângulo sombreado no gráfico (de i = 1 até o ponto em que P = 30).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "A questão combina áreas iguais com as marcações de segmentos iguais.\n\nSeja h a altura da faixa P₁ e 10 − h a altura do resto. Na linha de cima, os segmentos são a, b, b; na de baixo, b, b, a; logo a + 2b = 12.\n\nÁreas: P₂ e P₅ são triângulos de catetos a e (10 − h): a(10 − h) ÷ 2. P₃ e P₄ são paralelogramos de base b e altura (10 − h): b(10 − h).\nIgualando: a ÷ 2 = b → a = 2b → 4b = 12 → b = 3, a = 6.\nÁrea de cada peça: 3(10 − h). P₁: 12h = 3(10 − h) → h = 2.\n\nHipotenusa dos triângulos: √(6² + 8²) = 10.\nP₁ = 2(12 + 2) = 28\nP₂ = P₅ = 6 + 8 + 10 = 24\nP₃ = P₄ = 3 + 10 + 3 + 10 = 26\nSoma: 28 + 48 + 52 = 128 cm\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "A questão cobra decaimento exponencial (porcentagem composta).\n\nSe 15% são eliminados a cada hora, sobram 85% da quantidade da hora anterior. Depois de t horas:\nQ(t) = 200 · 0,85ᵗ\n\nPara t = 5:\nQ(5) = 200 · 0,85⁵\n\nO gráfico de f(x) = x⁵ serve para ler 0,85⁵: em x = 0,85, a curva está perto de 0,44 (a conta exata dá 0,4437).\n\nQ(5) ≈ 200 · 0,44 ≈ 88 mg\n\nA armadilha é usar porcentagem simples: 5 × 15% = 75% eliminados daria 50 mg, valor que não está nas alternativas; e 0,15⁵ ou a leitura de f no ponto errado levam a outras respostas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "A questão usa trigonometria no triângulo retângulo. AD é a altura relativa a BC, então ABD e ACD são triângulos retângulos em D.\n\nSeja AD = h.\nNo triângulo ABD: tg 80° = h ÷ BD → BD = h ÷ n\nNo triângulo ACD: tg 60° = h ÷ DC → DC = h ÷ m\n\nComo D está entre B e C:\nBD + DC = ℓ\nh ÷ n + h ÷ m = ℓ\nh · (m + n) ÷ (m · n) = ℓ\nh = ℓ · m · n ÷ (m + n)\n\nB é a armadilha de quem inverte a fração no último passo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "A questão cobra o comprimento da circunferência e a divisão da faixa em passadas do rolo.\n\nA cada giro completo, o rolo pinta uma faixa de 10 cm de largura e comprimento igual à circunferência:\nC = 2 · π · r = 2 · 3,14 · 3 = 18,84 cm\n\nA faixa tem 30 cm de largura, então são necessárias 3 passadas lado a lado (30 ÷ 10), cada uma com 314 cm de comprimento.\n\nComprimento total a percorrer: 3 · 314 = 942 cm\nNúmero de giros: 942 ÷ 18,84 = 50\n\nTambém se pode pensar em área: área da faixa 30 · 314 = 9420 cm²; área pintada por giro 10 · 18,84 = 188,4 cm²; 9420 ÷ 188,4 = 50.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "Se cada passada tivesse de terminar com giros inteiros, seriam 17 por passada (51 no total); o gabarito considera o total contínuo, 50 giros, o que o \"aproximadamente\" do enunciado permite."
+  },
   "1:1": {
    "resposta": "**a)** O vírus influenza tem material genético (RNA) que **sofre mutações com muita frequência**, alterando os antígenos de superfície (hemaglutinina e neuraminidase). Assim, a cada ano circulam variantes diferentes, contra as quais os anticorpos e as células de memória da vacinação anterior podem não ser eficazes. Por isso a vacina é reformulada anualmente com as cepas previstas para a temporada, e a do ano anterior perde utilidade. Além disso, a proteção conferida pela vacina diminui com o tempo.\n\n**b)** A vacina provocou a **resposta primária**: o organismo reconheceu os antígenos, ativou linfócitos, produziu anticorpos e formou **células de memória**, o que leva cerca de 2 a 3 semanas. Quando o vírus real invade o organismo, ocorre a **resposta secundária**: as células de memória reconhecem rapidamente o antígeno e se diferenciam em plasmócitos, produzindo anticorpos **mais depressa, em maior quantidade e por mais tempo**. O vírus é neutralizado antes de causar a doença, ou ela fica branda.",
    "confianca": "alta",

@@ -1,0 +1,127 @@
+{
+ "indice": "data/questoes/unifesp/2026_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Interpretação de poema. A \"criatura\" de Machado é uma força que abarca tudo — vales e montanhas, colibri e verme, chacal e rola, o belo e o monstruoso — e trata tudo do mesmo modo: contempla \"friamente\" o desespero e o gozo e ama \"de igual amor\" o puro e o impuro. O traço que a distingue, portanto, é a indiferença: ela não escolhe, não se comove, não distingue bem de mal.\n\nEgoísmo (C) aparece numa palavra do poema, mas junto com \"amor\", formando uma contradição, e não define a criatura. Preguiça, ingenuidade e altruísmo não têm apoio no texto: ela é ativa (\"perpétua lida\") e nada tem de ingênua ou generosa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Figuras de linguagem. O poema se constrói sobre pares opostos — vales e montanhas, desespero e gozo, colibri e verme, belo e monstruoso, poluto e impoluto, Morte e Vida —, ou seja, antíteses. Ao mesmo tempo, a \"criatura\" (a Natureza, a Vida) recebe ações e sentimentos humanos: ela contempla, ama, sorri, obedece, gosta, se espreguiça. Atribuir traços humanos a um ser não humano é prosopopeia (personificação).\n\nMetalinguagem exigiria o poema falar de si mesmo ou da linguagem, o que não ocorre; pleonasmo (redundância) não é recurso central.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Temática do poema. Machado descreve uma força que devora a si mesma, destrói e recria, ama igualmente o puro e o impuro e segue um \"divino estatuto\" — e termina com o jogo entre Morte e Vida. O poema medita sobre o ciclo da existência, a natureza indiferente e a relação entre criação e destruição: é uma reflexão filosófica.\n\nA menção a \"divino\" não torna o tema místico-religioso, pois não há fé nem devoção; não há relação amorosa entre o eu lírico e alguém (lírico-amorosa), nem crítica bem-humorada (satírica) ou problema da sociedade (social).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Expressão expletiva (de realce). A construção \"é ... que\" pode ser retirada sem mudar o sentido, servindo só para enfatizar um termo. No verso da 7ª estrofe, sem ela fica \"E nesse destruir as suas forças dobra\" — o sentido é o mesmo; o \"é ... que\" apenas destaca \"nesse destruir\".\n\nNas outras alternativas, o \"que\" tem função própria: em A é conjunção integrante (\"dirás que...\"); em B, D e E é pronome relativo (retoma \"criatura\", \"mar\" e \"folha\") e não pode ser suprimido.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Formação de palavras por conversão (derivação imprópria): a palavra muda de classe sem mudar de forma. No verso da 7ª estrofe, \"destruir\", que é verbo, vem precedido do determinante \"nesse\" e funciona como substantivo (\"nesse destruir\" = nessa destruição).\n\nNas outras alternativas não há mudança de classe: \"sorrindo\" é gerúndio de verbo, \"rasga\" e \"devora\" são verbos, \"rebenta\" também. \"Primeiro\" e \"divino\" mantêm a função de adjetivos/numeral junto a substantivos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Movimentos artísticos. O texto de Hauser (em inglês) descreve um movimento que valorizou como nunca o sentimento e a disposição individual do artista (\"the artist's right to follow the call of his feelings\") e que foi o maior revés do racionalismo do Iluminismo, chegando a desprezar a razão e o autocontrole. Reação ao Iluminismo, culto da emoção e da individualidade: são as marcas do Romantismo.\n\nO Arcadismo é justamente ligado ao racionalismo iluminista; o Realismo valoriza a observação objetiva; o Barroco é anterior ao Iluminismo; o Modernismo é do século XX.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Relações entre palavras. O humor nasce da troca de \"cênicas\" por \"cínicas\": o rapaz procura o curso de \"artes cênicas\" (teatro) e encontra, ao lado, dois homens praticando \"artes cínicas\" — um admite que enganou o outro \"para o seu próprio bem\". As duas palavras são parecidas na grafia e no som, mas têm sentidos diferentes: são parônimas.\n\nHomonímia (D) exigiria grafia ou pronúncia iguais; sinonímia e antonímia tratam de sentidos iguais ou opostos; hiponímia, de relação entre termo específico e geral.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Interpretação de texto. No quarto parágrafo, o narrador diz que a própria Solange reconhece que o pai exagerava na imitação do jargão forense e cravava na fala uma \"profusão de pronomes descabidos\". Quem enfeita a fala com termos difíceis e colocações rebuscadas, para parecer culto, é pedante.\n\nO pai era também \"censor implacável\" das palavras, o que poderia sugerir autoritário (A), mas o que a filha reconhece no trecho é o exagero linguístico, não a autoridade. Não há sinal de hostilidade, ironia ou tédio atribuídos a ele por ela.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Colocação e emprego de pronomes oblíquos. \"Lhas\" = lhe + as: só cabe com verbo que tenha, ao mesmo tempo, objeto direto (as abotoaduras) e objeto indireto (a quem se dá). \"Dar\" admite os dois — dar as abotoaduras ao primo —, por isso \"não lhas dou\" e \"não lhas daria\" estão corretos. \"Ter\", porém, só tem objeto direto: não se \"tem algo a alguém\". Logo, os pronomes descabidos são os de \"lhas tenho\" e \"lhas tivesse\", que devem virar \"as tenho\" e \"as tivesse\".\n\nAs alternativas B, C e E mexem nos usos corretos de \"dar\"; D corrige apenas parte.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Valores semânticos de \"mesmo\". No quarto parágrafo, \"Mesmo a Solange reconhece\" significa \"até a Solange reconhece\": é palavra de inclusão, que realça um termo inesperado (nem a filha nega o exagero do pai).\n\nEm C, \"Mesmo os amigos deixaram de lhe emprestar\" tem o mesmo valor: até os amigos. Nas outras: em A, \"mesmo ressentido\" é concessivo (embora ressentido); em B, \"foi mesmo\" = de fato, realmente; em D, \"hoje mesmo\" = exatamente hoje; em E, \"ele mesmo\" = em pessoa, ele próprio.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Orações adverbiais. \"Sem que lhe houvessem perguntado\" equivale a \"embora ninguém lhe tivesse perguntado\": o avô anunciava aonde ia apesar de não haver motivo para isso. A oração apresenta um fato que poderia impedir a ação principal, mas não impede — isso é concessão.\n\nNão há hipótese (condição), motivo (causa), comparação ou resultado (consequência). A locução \"sem que\" pode ter outros valores em outros contextos, mas aqui a troca por \"embora não\" mantém o sentido, o que confirma o valor concessivo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Referência de pronomes. No trecho:\n• o primeiro \"que\" é pronome relativo ligado a \"dia\" (no dia em que = no dia no qual);\n• \"lhe\" é objeto indireto de \"pediu\": o primo pediu ao tio Américo;\n• o segundo \"que\" é relativo e retoma \"pedido\" (pedido que o tio indeferiu).\n\nA armadilha está no \"lhe\": ele vem antes do nome a que se refere, mas o sentido mostra que quem recebe o pedido é o tio, que depois o indefere. \"Um dos primos\" é sujeito de \"pediu\", não o destinatário.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Discurso direto e indireto. Na passagem para o discurso indireto, os tempos verbais recuam: o presente do indicativo vira pretérito imperfeito. Assim: \"dou\" → \"dava\" e \"tenho\" → \"tinha\" (ele disse que não as dava porque já não as tinha).\n\n\"Tivesse\" (pretérito imperfeito do subjuntivo) e \"daria\" (futuro do pretérito) já estão no plano do passado/hipótese e permanecem iguais: \"e que, mesmo que ainda as tivesse, não as daria\".\n\nPor isso, só os dois verbos no presente mudam.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Vozes verbais (em inglês). Um romano diz \"You need to abandon Rome immediately!\" (voz ativa: você precisa abandonar Roma). O outro tenta \"mudar de assunto\" (\"change the subject\"), e o primeiro repete a ordem na voz passiva: \"Rome needs to be abandoned by you immediately!\".\n\nA graça está no duplo sentido de \"subject\": \"assunto\" e \"sujeito\" gramatical. Ao passar a frase para a passiva, o sujeito muda de \"you\" para \"Rome\" — ele \"mudou o sujeito\", mas não o assunto. Entender a piada exige saber que a transposição ativa → passiva troca o sujeito da oração.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Ideia principal (texto em inglês). A reportagem parte da imagem estrangeira do Brasil (samba e bossa nova), mostra que o sertanejo domina o país mas tem pouco potencial de exportação, e conclui que sobra o funk como o gênero que \"could go global\" e mudar a marca do Brasil. Depois descreve a origem e a cultura do funk. O objetivo é mostrar que o funk pode se tornar um sucesso mundial.\n\nB exagera: o texto fala de potencial, não de domínio já alcançado. A e E atribuem ao sertanejo o papel global que o texto nega; D trata a bossa nova como tema, quando ela só aparece como imagem ultrapassada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Referência textual (inglês). O título fala de \"um novo tipo de música brasileira\" prestes a um \"boom\" global. No texto, samba e bossa nova são a imagem antiga (\"out of date\"); o sertanejo é popular no Brasil mas tem \"little export potential\"; resta o funk, apontado como o gênero que pode \"go global\" e é descrito em detalhe no último parágrafo. A expressão do título, portanto, refere-se ao funk.\n\nHip-hop é apenas uma das influências do funk, não o gênero brasileiro em questão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Interpretação (inglês). O filme aparece porque sua trilha sonora \"suave\" alimenta a imaginação dos estrangeiros de um Brasil onde bandas de samba e bossa nova cantam em calçadões de praia — imagem que o texto logo chama de ultrapassada. Ou seja, a trilha representa o que os estrangeiros acreditam ser a música brasileira mais popular.\n\nO Oscar e a ditadura (A e C) são apenas contexto; o texto não afirma que o filme criou imagem de praias (B) nem associa a ele o estilo country (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Interpretação (inglês). O segundo parágrafo diz que a ascensão do sertanejo \"reflects changes in Brazil's economy\", que antes se baseava na indústria (\"manufacturing\") e hoje é movida pela agricultura; com isso, os estados rurais \"started winning a voice\". A popularidade é atribuída à mudança de foco da economia, da indústria para a agricultura.\n\nA é o contrário: os produtores estavam no Rio antes. Gado, cerveja e caminhonetes (C) são temas das canções, não a causa do sucesso; D e E não aparecem no texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Vocabulário e conectivos (inglês). \"Despite\" significa \"apesar de\" e introduz uma concessão: apesar do domínio no Brasil, o sertanejo tem pouco potencial de exportação. O equivalente é \"notwithstanding\" (não obstante, apesar de), que também funciona como preposição antes de um substantivo.\n\n\"As well as\" = além de; \"due to\" = devido a (causa); \"whereas\" = ao passo que (contraste entre orações, não antes de um substantivo nesse uso); \"instead of\" = em vez de.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Função de trechos no texto (inglês). Os trechos sublinhados explicam termos brasileiros: \"dance parties\" traduz \"baile funk\"; \"which involves elaborate footwork\" explica o \"passinho\"; \"a paced variant of twerking\" explica a \"rebolada\". São esclarecimentos culturais e de vocabulário para o leitor estrangeiro da revista, que não conhece o funk.\n\nNão descrevem a cultura do hip-hop (A) nem danças de Miami e Porto Rico (E); a comparação com o twerking mostra semelhança, o que contradiz C; e o texto não fala de influência sobre outras culturas latino-americanas (B).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Vocabulário (inglês). \"Any\" com substantivo singular em frase afirmativa significa \"qualquer\"; \"on any given day\" é uma expressão fixa que quer dizer \"em um dia qualquer\", \"num dia típico\". O dado do texto é: em um dia qualquer, 28% das pessoas liam por prazer em 2004, contra 16% em 2023.\n\nNão se trata de dias escolhidos pela pesquisa (B), de feriados ou folgas (C e D), nem de \"todos os dias\" do período (E), o que mudaria a estatística: não é a parcela que lê diariamente, e sim a que lê num dia tomado ao acaso.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Interpretação (inglês). O segundo parágrafo diz que a leitura caiu mais entre negros, pessoas de menor renda ou escolaridade e moradores fora das regiões metropolitanas, enquanto mulheres e adultos muito escolarizados \"remained the most voracious readers\" — e, nesses grupos, o tempo de leitura até subiu, de 83 para 97 minutos por dia. Eles são, portanto, exceção à tendência de queda.\n\nB generaliza demais (\"all\"); C contradiz \"widening disparities\" (as diferenças aumentaram); D e E fazem afirmações sobre proficiência e acesso a livros que o parágrafo não faz.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Interpretação (inglês). No terceiro parágrafo, os pesquisadores dizem que horários mais longos nas bibliotecas e \"early-childhood reading initiatives\" (iniciativas de leitura na primeira infância) poderiam reverter a tendência. A alternativa E retoma a segunda sugestão: promover atividades de leitura voltadas a crianças pequenas.\n\nAs distrações digitais e a falta de tempo de lazer aparecem como causas da queda, não como alvo de medidas (B e D); não se propõe usar tecnologia (A). C fala em gestão de bibliotecas, mas o texto propõe ampliar o horário, não recursos administrativos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Interpretação de tirinha (inglês). Calvin diz \"I'm a man of few words\", expressão que elogia quem fala pouco e com ponderação, como alguém reservado e sábio. Hobbes desmonta a pose: sugere que, se Calvin lesse mais, teria um vocabulário maior — isto é, ele fala pouco porque sabe poucas palavras. No último quadro, Calvin corre atrás do tigre, furioso, porque a imagem que tinha de si mesmo foi minada.\n\nO tigre não concorda com ele (C e D) nem diz ter o mesmo problema (B); Calvin não queria irritar Hobbes (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

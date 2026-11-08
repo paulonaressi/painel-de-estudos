@@ -50,6 +50,8 @@
       area: ENEM.AREAS.some(a => a.id === salvo.area) ? salvo.area : 'linguagens',
       idioma: salvo.idioma === 'espanhol' ? 'espanhol' : 'ingles',
       filtro: 'todas',
+      ocultarIncompletas: salvo.ocultarIncompletas !== false, // questões que a API entregou sem dado essencial
+      incompletas: 0,         // quantas o filtro atual teria, ocultas ou não
       disciplina: 'todas',
       assunto: 'todos',
       questoes: [],
@@ -80,6 +82,7 @@
       area: estado.enem.area,
       idioma: estado.enem.idioma,
       atualId: estado.enem.atualId,
+      ocultarIncompletas: estado.enem.ocultarIncompletas,
       instituicao: estado.vunesp.instituicao,
       edicao: estado.vunesp.edicao,
     });
@@ -143,6 +146,9 @@
     if (e.assunto !== 'todos') qs = qs.filter(q => q.classe.assunto === e.assunto);
     if (e.filtro === 'pendentes') qs = qs.filter(q => !(store.get(q.id) || {}).conf);
     if (e.filtro === 'erradas') qs = qs.filter(q => { const r = store.get(q.id); return r && r.conf && !r.ok; });
+    const incompleta = q => ENEM.falhasDaFonte(q).length > 0;
+    e.incompletas = qs.filter(incompleta).length;
+    if (e.ocultarIncompletas) qs = qs.filter(q => !incompleta(q));
     e.lista = qs.map(q => q.id);
     if (!e.lista.includes(e.atualId)) e.atualId = e.lista[0] || null;
   }
@@ -253,6 +259,14 @@
     recalcularLista();
     salvarUi();
     renderTudo();
+  }
+
+  function alternarIncompletas() {
+    estado.enem.ocultarIncompletas = !estado.enem.ocultarIncompletas;
+    recalcularLista();
+    salvarUi();
+    renderEnunciado();
+    renderResposta();
   }
 
   function trocarFiltro(filtro) {
@@ -371,9 +385,10 @@
 
   function classeNavEnem(q) {
     const reg = store.get(q.id);
-    if (!reg) return '';
-    if (reg.conf) return reg.ok ? 'is-ok' : 'is-bad';
-    return reg.r ? 'is-marcada' : '';
+    const incompleta = ENEM.falhasDaFonte(q).length ? ' is-incompleta' : '';
+    if (!reg) return incompleta.trim();
+    if (reg.conf) return (reg.ok ? 'is-ok' : 'is-bad') + incompleta;
+    return (reg.r ? 'is-marcada' : '') + incompleta;
   }
 
   function navegadorEnem() {
@@ -385,7 +400,8 @@
         type: 'button',
         class: classeNavEnem(q),
         'aria-current': String(id === e.atualId),
-        'aria-label': `Questão ${q.numero}`,
+        'aria-label': `Questão ${q.numero}${ENEM.falhasDaFonte(q).length ? ' (incompleta na fonte)' : ''}`,
+        title: ENEM.falhasDaFonte(q).length ? 'Incompleta na fonte: ' + ENEM.falhasDaFonte(q).join('; ') : null,
         onclick: () => irPara(id),
       }, q.numero);
     }));
@@ -453,6 +469,14 @@
       h('div.q-tools', null,
         seg([{ v: 'todas', t: 'Todas' }, { v: 'pendentes', t: 'Pendentes' }, { v: 'erradas', t: 'Erradas' }], e.filtro, trocarFiltro, 'sm'),
         seletorDeAssunto(),
+        e.incompletas ? h('button.chip.sm', {
+          type: 'button',
+          'aria-pressed': String(e.ocultarIncompletas),
+          title: 'Questões que a fonte (API enem.dev) entregou sem figura, texto ou alternativa',
+          onclick: alternarIncompletas,
+        }, e.ocultarIncompletas
+          ? `${e.incompletas} ${e.incompletas === 1 ? 'incompleta oculta' : 'incompletas ocultas'} · mostrar`
+          : `Ocultar ${e.incompletas} ${e.incompletas === 1 ? 'incompleta' : 'incompletas'}`) : null,
         h('span.hint', null, `${e.lista.length} ${e.lista.length === 1 ? 'questão' : 'questões'}`)),
       navegadorEnem());
 
@@ -475,6 +499,17 @@
         h('p.nota-rodape', null, 'Reproduzida do caderno azul do INEP. ',
           h('a', { href: q.pdf, target: '_blank', rel: 'noopener noreferrer' }, 'Abrir o caderno completo')));
       return wrap;
+    }
+
+    const falhas = ENEM.falhasDaFonte(q);
+    if (falhas.length) {
+      const lista = falhas.join('; ');
+      wrap.append(h('div.aviso.aviso-fonte', { role: 'note' },
+        h('p', null, h('strong', null, 'Questão incompleta na fonte: '), lista.charAt(0).toUpperCase() + lista.slice(1) + '.'),
+        h('p', null, 'A API aberta de onde vêm as questões de 2009 e 2010 perdeu parte desta. Para resolver, abra a prova de ',
+          `${q.ano} no `,
+          h('a', { href: 'https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos', target: '_blank', rel: 'noopener noreferrer' }, 'site do INEP'),
+          ' ou pule para a próxima.')));
     }
 
     const avulsas = q.arquivos.filter(url => !q.contexto.includes(url));
@@ -590,11 +625,20 @@
   }
 
   // ---------- Vunesp: dados ----------
+  // "1-10", "1-10,31-35" (vários blocos) ou "5" (um número só)
   const faixaParaLista = texto => {
-    const m = /^(\d+)\s*[-–a]\s*(\d+)$/.exec(String(texto || '').trim());
-    if (!m || +m[2] < +m[1] || m[2] - m[1] > 200) return null;
-    return Array.from({ length: m[2] - m[1] + 1 }, (_, i) => +m[1] + i);
+    const numeros = [];
+    for (const pedaco of String(texto || '').split(',')) {
+      const m = /^(\d+)(?:\s*[-–a]\s*(\d+))?$/.exec(pedaco.trim());
+      if (m && m[2] === undefined) m[2] = m[1];
+      if (!m || +m[2] < +m[1] || m[2] - m[1] > 200) return null;
+      for (let n = +m[1]; n <= +m[2]; n++) numeros.push(n);
+    }
+    return numeros.length ? numeros : null;
   };
+
+  // Faixas por campo: as do caderno (estrutura fixa, onde cada prova recomeça do 1) ou as da edição (Unesp).
+  const faixasDe = (ed, cad) => (cad && cad.faixas) || (ed && ed.faixas) || {};
 
   // Muitos cadernos fora da Unesp não informam as áreas; nesse caso o campo não os esconde.
   function cadernoCobre(cad, campo) {
@@ -629,7 +673,7 @@
   function numerosDoCaderno(ed, cad) {
     const todos = cad && cad.local ? cad.local.numeros : faixaParaLista(cad && cad.questoes);
     const campo = estado.vunesp.campo;
-    const doCampo = faixaParaLista(ed && ed.faixas && ed.faixas[campo]);
+    const doCampo = faixaParaLista(faixasDe(ed, cad)[campo]);
     if (!todos || !doCampo) return todos;
     const filtrados = todos.filter(n => doCampo.includes(n));
     return filtrados.length ? filtrados : todos;
@@ -786,7 +830,7 @@
   }
 
   function areaDaQuestao(ed, cad, numero) {
-    for (const [campo, faixa] of Object.entries(ed.faixas || {})) {
+    for (const [campo, faixa] of Object.entries(faixasDe(ed, cad))) {
       if ((faixaParaLista(faixa) || []).includes(numero)) return campo;
     }
     const areas = (cad.areas || []).filter(a => a !== 'redacao');
@@ -806,13 +850,17 @@
     const daParte = x => (x.parte || 0) === (cad.local.parte || 0); // arquivos com Prova I e Prova II
     const q = ehRedacao ? indice.redacao : indice.questoes.find(x => x.n === numero && daParte(x));
     const apoios = ehRedacao ? [] : indice.apoios.filter(a => a.de <= numero && numero <= a.ate && daParte(a));
+    // bloco de uma disciplina só (estrutura fixa do caderno, no catálogo): a disciplina vem dali
+    const fixa = Object.entries(cad.disciplinas || {}).find(([, faixa]) => (faixaParaLista(faixa) || []).includes(numero));
     const classe = q && !ehRedacao
-      ? BQ.classificador.classificar({ texto: apoios.map(a => a.texto).join(' ') + ' ' + q.texto }, areaDaQuestao(ed, cad, numero))
+      ? BQ.classificador.classificar({ apoio: apoios.map(a => a.texto).join(' '), texto: q.texto },
+        areaDaQuestao(ed, cad, numero), fixa ? fixa[0] : null, !!cad.disciplinas)
       : null;
 
     const cabecalho = h('div.q-sub', null,
       h('h2', null, titulo),
       classe && classe.disciplina ? h('span.tag.accent', null, BQ.classificador.nome(classe.disciplina)) : null,
+      (classe && classe.tambem || []).map(d => h('span.tag.accent', { title: 'Um dos itens da questão cobra também esta disciplina' }, BQ.classificador.nome(d))),
       classe && classe.disciplina && classe.assunto
         ? h('span.tag', { title: 'Assunto estimado automaticamente pelas palavras do enunciado' }, classe.assunto) : null);
 

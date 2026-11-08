@@ -159,6 +159,90 @@ const numerosDaFaixa = texto => {
   return m ? Array.from({ length: m[2] - m[1] + 1 }, (_, i) => +m[1] + i) : [];
 };
 
+// Estrutura fixa dos cadernos fora da Unesp, por instituição e quantidade de questões (é assim que o
+// caderno é reconhecido; cada prova recomeça do 1, então tudo vale só dentro do caderno). Cada bloco
+// tem um campo e, quando é de uma disciplina só, a disciplina: aí a tela não estima, usa a daqui.
+// Conferido no texto dos cadernos (início e fim de cada bloco em pelo menos dois anos); as capas não
+// trazem essa divisão. Blocos sem disciplina (Português/Literatura, Humanas, interdisciplinares)
+// continuam com o classificador, restrito ao campo.
+const NM = 'natureza-matematica';
+const B = (faixa, area, disciplina = null) => ({ faixa, area, disciplina });
+const ESTRUTURAS = {
+  FAMEMA: { // 2018–2026
+    8: { rotulo: 'Prova I (discursiva) · Química e Biologia', blocos: [B('1-4', NM, 'quimica'), B('5-8', NM, 'biologia')] },
+    40: {
+      rotulo: 'Prova II (objetiva) e redação',
+      blocos: [B('1-10', 'linguagens'), B('11-20', NM, 'matematica'), B('21-30', 'humanas'), B('31-35', 'linguagens', 'ingles'), B('36-40', NM, 'fisica')],
+    },
+  },
+  UNIFESP: { // 1º dia: Português + Inglês; 2º dia: 5 de cada (Biologia, Química, Física, Matemática)
+    25: { blocos: [B('1-15', 'linguagens'), B('16-25', 'linguagens', 'ingles')] },
+    45: { blocos: [B('1-30', 'linguagens'), B('31-45', 'linguagens', 'ingles')] }, // 2018 e 2019
+    20: { blocos: [B('1-5', NM, 'biologia'), B('6-10', NM, 'quimica'), B('11-15', NM, 'fisica'), B('16-20', NM, 'matematica')] },
+  },
+  'FCMSCSP (Santa Casa de SP)': { // Conhecimentos Específicos (20) e Gerais (80)
+    80: { // Conhecimentos Gerais (objetiva), 2022 em diante
+      blocos: [B('1-10', 'linguagens'), B('11-20', 'linguagens', 'ingles'), B('21-30', 'humanas', 'historia'), B('31-40', 'humanas', 'geografia'),
+        B('41-50', NM, 'biologia'), B('51-60', NM, 'quimica'), B('61-70', NM, 'fisica'), B('71-80', NM, 'matematica')],
+    },
+    20: { blocos: [B('1-8', NM, 'biologia'), B('9-12', NM, 'quimica'), B('13-16', NM, 'fisica'), B('17-20', 'linguagens')] },
+  },
+  FAMERP: { // 2º dia, Conhecimentos Específicos (20); 1º dia, Conhecimentos Gerais (80)
+    80: { // Conhecimentos Gerais (objetiva), 2022 em diante
+      blocos: [B('1-10', 'linguagens'), B('11-20', 'linguagens', 'ingles'), B('21-30', 'humanas', 'historia'), B('31-40', 'humanas', 'geografia'),
+        B('41-50', NM, 'biologia'), B('51-60', NM, 'quimica'), B('61-70', NM, 'fisica'), B('71-80', NM, 'matematica')],
+    },
+    20: { blocos: [B('1-8', NM, 'biologia'), B('9-14', NM, 'quimica'), B('15-20', NM, 'fisica')] },
+  },
+  'FICSAE (Albert Einstein)': {
+    50: { // Prova I (só nos arquivos únicos do Objetivo, 2019 e 2020); 41–50: matemática em contexto interdisciplinar
+      rotulo: 'Prova I (objetiva)',
+      blocos: [B('1-10', 'linguagens'), B('11-15', 'linguagens', 'ingles'), B('16-25', 'humanas'), B('26-30', NM, 'biologia'),
+        B('31-35', NM, 'quimica'), B('36-40', NM, 'fisica'), B('41-50', NM)],
+    },
+    5: { // Prova II; a 4 é de Matemática de 2024 em diante, antes variava
+      rotulo: 'Prova II (discursiva) e redação',
+      blocos: [B('1', NM, 'biologia'), B('2', NM, 'quimica'), B('3', NM, 'fisica'), B('4', NM), B('5', 'linguagens', 'ingles')],
+    },
+  },
+  FMJ: { // Prova I (discursiva)
+    8: { blocos: [B('1-4', NM, 'quimica'), B('5-8', NM, 'biologia')] },
+    20: { blocos: [B('1-10', NM, 'quimica'), B('11-20', NM, 'biologia')] }, // 2024
+    40: { // Prova II (objetiva), 2025 em diante: mesma divisão da Prova II da Famema
+      blocos: [B('1-10', 'linguagens'), B('11-20', NM, 'matematica'), B('21-30', 'humanas'), B('31-35', 'linguagens', 'ingles'), B('36-40', NM, 'fisica')],
+    },
+    60: { // Prova II de 2024
+      blocos: [B('1-10', 'linguagens'), B('11-20', NM, 'matematica'), B('21-30', 'humanas', 'geografia'), B('31-40', 'humanas', 'historia'),
+        B('41-50', 'linguagens', 'ingles'), B('51-60', NM, 'fisica')],
+    },
+  },
+  UNESP: { // só a 1ª fase tem 90 questões (a 2ª usa faixasDaUnesp); dentro de cada área os blocos variam de ano a ano
+    90: { blocos: [B('1-20', 'linguagens'), B('21-30', 'linguagens', 'ingles'), B('31-60', 'humanas'), B('61-90', NM)] },
+  },
+};
+
+// Anos em que a divisão foi conferida; antes disso (Famema 2016–2017, Famerp 2015–2017, Unifesp até 2017,
+// com cadernos de 20, 25 e 45 questões de outra composição) a tela continua estimando.
+const ESTRUTURA_DESDE = { FAMEMA: 2018, FAMERP: 2019, UNIFESP: 2018 };
+
+function aplicarEstrutura(ed, cadernos) {
+  const porTamanho = ESTRUTURAS[ed.instituicao];
+  if (!porTamanho || ed.ano < (ESTRUTURA_DESDE[ed.instituicao] || 0)) return cadernos;
+  const juntar = (mapa, chave, faixa) => { if (chave) mapa[chave] = mapa[chave] ? `${mapa[chave]},${faixa}` : faixa; };
+  for (const c of cadernos) {
+    const tipo = c.local && porTamanho[c.local.numeros.length];
+    if (!tipo) continue;
+    const faixas = {};
+    const disciplinas = {};
+    for (const b of tipo.blocos) { juntar(faixas, b.area, b.faixa); juntar(disciplinas, b.disciplina, b.faixa); }
+    if (tipo.rotulo) c.rotulo = c.local.redacao ? tipo.rotulo : tipo.rotulo.replace(' e redação', '');
+    c.areas = ORDEM_AREA.filter(a => (a === 'redacao' ? c.local.redacao : a in faixas));
+    c.faixas = faixas;
+    c.disciplinas = disciplinas;
+  }
+  return cadernos;
+}
+
 // Numeração de cada campo na Unesp. Quando há cadernos separados por campo com as questões já
 // localizadas, vale o que está neles; senão, o padrão. Sem evidência, não se informa faixa.
 function faixasDaUnesp(ed, cadernos) {
@@ -216,7 +300,7 @@ const edicoes = pesquisa.edicoes.map(ed => {
     fase: ed.fase,
     formato: ed.formato,
     estrutura: ed.estrutura,
-    cadernos: enxugar(ed, agruparCadernos(ed)),
+    cadernos: aplicarEstrutura(ed, enxugar(ed, agruparCadernos(ed))),
     resolucoes: (ed.resolucoes || []).map(link),
     oficiais: (ed.respostas_esperadas || []).map(link),
   };

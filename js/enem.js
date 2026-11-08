@@ -234,5 +234,25 @@
     return Object.keys(IDIOMAS);
   }
 
-  BQ.enem = { AREAS, IDIOMAS, ANOS_PADRAO, ANOS_LOCAIS, POR_AREA, anosComResolucao, carregarResolucoes, faixa, areaDoNumero, carregarArea, carregarRedacao, listarAnos };
+  // Falhas conhecidas da API (medidas em 2009–2023; aqui só 2009 e 2010 vêm dela): a questão chega sem a figura, sem o texto com os
+  // dados (comando curto e nenhum contexto: em 2014 e 2015 são dezenas), sem o comando, com
+  // alternativas repetidas ou faltando. Vale só para questões da API; as dos cadernos não têm isso.
+  const IMAGEM_MD = /!\[[^\]]*\]\([^)]*\)/g;
+  function falhasDaFonte(q) {
+    if (q.recortes) return [];
+    const falhas = [];
+    const tudo = [q.contexto, q.comando, ...q.arquivos, ...q.alternativas.map(a => `${a.texto} ${a.arquivo || ''}`)].join(' ');
+    if (/broken-image/.test(tudo)) falhas.push('falta uma figura');
+    const temFigura = q.arquivos.length > 0 || IMAGEM_MD.test(q.contexto || '');
+    IMAGEM_MD.lastIndex = 0;
+    const contexto = (q.contexto || '').replace(IMAGEM_MD, '').trim();
+    if (!contexto && !temFigura && (q.comando || '').trim().length < 250) falhas.push('falta o texto com os dados');
+    if (!(q.comando || '').trim()) falhas.push('falta o comando (a pergunta)');
+    const alternativas = q.alternativas.map(a => `${(a.texto || '').trim()}|${a.arquivo || ''}`);
+    if (new Set(alternativas).size < alternativas.length) falhas.push('há alternativas repetidas');
+    if (q.alternativas.length !== 5 || alternativas.includes('|')) falhas.push('falta alternativa');
+    return falhas;
+  }
+
+  BQ.enem = { falhasDaFonte, AREAS, IDIOMAS, ANOS_PADRAO, ANOS_LOCAIS, POR_AREA, anosComResolucao, carregarResolucoes, faixa, areaDoNumero, carregarArea, carregarRedacao, listarAnos };
 })();

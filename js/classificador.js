@@ -1,6 +1,12 @@
 // Classificação automática das questões por disciplina e assunto, por palavras-chave.
 // É uma estimativa: acerta a maioria, mas erra em questões interdisciplinares ou de enunciado curto.
 //
+// O comando (o que a questão pede, depois do texto citado) pesa mais que o texto de apoio: na Vunesp
+// é comum um poema seguido de pergunta de gramática, e quem decide a disciplina é a pergunta.
+// "comando" em cada disciplina: termos que só contam dentro do comando.
+// Questões discursivas com itens a) e b) podem cobrar duas disciplinas (leitura do poema + gramática):
+// a disciplina de um item que destoa da principal volta em "tambem".
+//
 // Formato das listas: termos separados por espaço, "termo:peso" (peso 1 se omitido).
 // "_" vale espaço; "$" no fim exige a palavra inteira; sem "$" casa o começo da palavra.
 // Tudo sem acento e em minúsculas.
@@ -21,6 +27,17 @@
         verbete:3 tecnologias_de_informacao:2.5 tecnologias_da_informacao:2.5 comunicacao:1 digital:1 infografico:2 texto_jornalistico:3
         divulgacao_cientifica:2.5 resenha:2 e-mail:1.5 blog:2 linguagem_verbal:2 linguagem_nao_verbal:2.5 marcas_linguisticas:3
         recursos_linguisticos:2.5 vocabulario:1.5 palavra:0.5 expressao:0.5`,
+      // Pedidos de análise gramatical ou semântica, mesmo quando o texto de apoio é literário.
+      comando: `locucao:2.5 locucoes:2.5 conjuncao:3 conjuncoes:3 conjuntiv:3 oracao:2 oracoes:2 subordinad:3 coordenad:3
+        classe_gramatical:3 classe_de_palavra:3 classes_de_palavra:3 funcao_sintatica:3 sujeito$:2 predicado:3 complemento:2
+        objeto_direto:3 objeto_indireto:3 adjunto:3 aposto:3 vocativo:3 tempo_verbal:3 tempos_verbais:3 modo_verbal:3
+        modo_subjuntivo:3 modo_indicativo:3 preterito:2 voz_passiva:3 voz_ativa:3 concordancia:3 regencia:3 crase:3
+        prefix:3 sufix:3 derivacao:3 composicao:1.5 adjetivo:2.5 substantivo:2.5 adverbi:2.5 preposic:2.5 pronome:2 artigo_definido:3
+        ordem_direta:3 norma-padrao:3 norma_padrao:3 acepcao:2 sinonim:2 antonim:2 denotat:2 conotat:2 ambiguidade:2.5
+        discurso_direto:3 discurso_indireto:3 pontuacao:2 virgula:2.5 reescrev:1.5 substituindo:1.5 valor_semantico:3
+        sentido_equivalente:2 valor_equivalente:2 relacao_de_sentido:2.5 concessao:2 causa$:1 condicao:1 finalidade:1
+        verbo$:2 verbos$:2 forma_verbal:3 formas_verbais:3 flexion:2.5 pessoa_gramatical:3 gramatical:2 deitic:3
+        linguagem_formal:2 sentido_figurado:2 sentido_literal:2 interjeic:3 expletiv:3 metalinguag:1.5`,
       assuntos: {
         'Variação linguística': 'variacao_linguistica:3 variedade_linguistica:3 norma_padrao:2 norma_culta:2 regionalismo:2 giria:2 oralidade:2 preconceito_linguistico:3 sotaque:2 dialeto:2 informal coloquial',
         'Gêneros textuais e publicidade': 'campanha:2 anuncio:2 publicidade:2 publicitari:2 propaganda:2 cartaz:2 genero_textual:2 generos_textuais:2 noticia reportagem editorial artigo_de_opiniao:2 resenha carta$ infografico tirinha charge',
@@ -41,6 +58,10 @@
         vinicius_de_moraes:3 mia_couto:3 conceicao_evaristo:3 carolina_maria_de_jesus:3 rubem_fonseca:3 adelia_prado:3
         manoel_de_barros:3 paulo_leminski:3 hilda_hilst:3 lygia_fagundes:3 nova_aguilar:2 obra_completa:1.5 poesia_completa:3
         companhia_das_letras:1.5 jose_olympio:1.5`,
+      // Pedidos de leitura literária: foco narrativo, eu lírico, estilo de época.
+      comando: `narrador:2 foco_narrativo:3 eu_lirico:2.5 escola_literaria:3 movimento_literario:3 estilo_de_epoca:3
+        caracteristica_do_romantismo:3 caracteristica_do_modernismo:3 personagem:1.5 verossimilh:3 metrica:3 rima:2.5
+        heteronim:3 criacao_literaria:2.5 estetica_romantica:3 estetica_realista:3 estetica_modernista:3 escritor:1 cronista:1.5`,
       assuntos: {
         'Poesia': 'poema:2 poeta poesia verso$:2 versos$:2 estrofe:2 soneto:2 eu_lirico:2 liric rima',
         'Prosa e narrativa': 'romance$:2 conto$:2 contos$:2 narrador:2 personagem personagens cronica:2 ficcao prosa$ enredo',
@@ -317,14 +338,17 @@
     });
   }
 
+  const PESO_DO_COMANDO = 1.5; // o comando também é pontuado com a lista geral, além do texto inteiro
+
   for (const d of DISCIPLINAS) {
     d.lista = compilar(d.termos);
+    d.listaDoComando = compilar(d.comando);
     d.listasDeAssunto = Object.entries(d.assuntos).map(([nome, termos]) => ({ nome, lista: compilar(termos) }));
   }
   const POR_ID = Object.fromEntries(DISCIPLINAS.map(d => [d.id, d]));
 
   function normalizar(texto) {
-    return ' ' + String(texto || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+    return ' ' + String(texto || '').replace(/([a-zà-ú])- +([a-zà-ú])/gi, '$1$2').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
       .replace(/[^a-z0-9%/-]+/g, ' ') + ' ';
   }
 
@@ -343,31 +367,93 @@
     return total;
   }
 
-  // questao: { idioma?, contexto?, comando?, alternativas?, texto? }; area: campo da prova.
-  function classificar(questao, area) {
-    if (questao.idioma && POR_ID[questao.idioma]) {
-      return { disciplina: questao.idioma, assunto: POR_ID[questao.idioma].geral };
+  // O comando é o que vem depois da última referência de fonte, como "(Quincas Borba, 2012.)" ou "(…Adaptado.)".
+  // Sem referência reconhecível, não há comando separado e só o texto inteiro conta.
+  const FONTE = /\([^()]{3,250}?(?:\b1[5-9]\d\d|\b20\d\d|adaptado)[^()]{0,60}\)\.?/gi;
+  function separarComando(texto) {
+    let fim = -1;
+    for (const m of texto.matchAll(FONTE)) fim = m.index + m[0].length;
+    if (fim < 0) return '';
+    const resto = texto.slice(fim);
+    return resto.trim().length > 30 ? resto : '';
+  }
+
+  function assuntoDe(disciplina, texto) {
+    let assunto = disciplina.geral;
+    let melhor = 0.9;
+    for (const a of disciplina.listasDeAssunto) {
+      const pontos = pontuar(texto, a.lista);
+      if (pontos > melhor) { melhor = pontos; assunto = a.nome; }
     }
-    const texto = normalizar([
-      questao.contexto, questao.comando, (questao.alternativas || []).map(a => a.texto).join(' '), questao.texto,
-    ].join(' '));
+    return assunto;
+  }
+
+  // Itens "a) … b) …" do comando; só quando há pelo menos dois.
+  function separarItens(comando) {
+    const partes = String(comando || '').split(/(?:^|[\s.?!:])[a-e]\)\s/);
+    return partes.length >= 3 ? partes.slice(1) : [];
+  }
+
+  const LINGUAS_ESTRANGEIRAS = ['ingles', 'espanhol'];
+  const TEXTO_ESTRANGEIRO = 8; // pontos das palavras funcionais de um idioma que bastam para decidir por ele
+
+  // questao: { idioma?, contexto?, comando?, alternativas?, apoio?, texto? }; area: campo da prova;
+  // apoio: texto compartilhado por várias questões (sem ele, o comando sai do próprio texto);
+  // fixa: disciplina já conhecida (estrutura do caderno), quando só falta estimar o assunto;
+  // semLinguas: o caderno já diz onde ficam as questões de língua estrangeira, e esta não é uma delas.
+  function classificar(questao, area, fixa, semLinguas) {
+    if (questao.idioma && POR_ID[questao.idioma]) {
+      return { disciplina: questao.idioma, assunto: POR_ID[questao.idioma].geral, tambem: [] };
+    }
+    if (fixa && POR_ID[fixa]) return { disciplina: fixa, assunto: assuntoDe(POR_ID[fixa], normalizar(questao.texto)), tambem: [] };
+    const bruto = [
+      questao.contexto, questao.apoio, questao.comando, (questao.alternativas || []).map(a => a.texto).join(' '), questao.texto,
+    ].join(' ');
+    const texto = normalizar(bruto);
+    const comandoBruto = questao.comando
+      ? [questao.comando, (questao.alternativas || []).map(a => a.texto).join(' ')].join(' ')
+      : separarComando(String(questao.texto || '')) || (questao.apoio ? String(questao.texto || '') : '');
+    const comando = normalizar(comandoBruto);
+    const candidatas = DISCIPLINAS.filter(d => (!area || d.areas.includes(area)) // sem área, concorrem todas
+      && !(semLinguas && LINGUAS_ESTRANGEIRAS.includes(d.id)));
+
+    // Texto de apoio em língua estrangeira decide pela língua, mesmo com a pergunta em português.
+    for (const d of candidatas) {
+      if (LINGUAS_ESTRANGEIRAS.includes(d.id) && pontuar(texto, d.lista) >= TEXTO_ESTRANGEIRO) {
+        return { disciplina: d.id, assunto: d.geral, tambem: [] };
+      }
+    }
 
     let escolhida = POR_ID[PADRAO_DA_AREA[area]] || null;
     let melhor = 1.4; // abaixo disso não há sinal suficiente e vale a disciplina mais comum da área
-    for (const d of DISCIPLINAS) {
-      if (area && !d.areas.includes(area)) continue; // sem área, concorrem todas as disciplinas
-      const pontos = pontuar(texto, d.lista);
+    for (const d of candidatas) {
+      if (LINGUAS_ESTRANGEIRAS.includes(d.id)) continue; // língua estrangeira só pela regra acima, nunca por pontos soltos
+      const pontos = pontuar(texto, d.lista)
+        + (comando.trim() && !LINGUAS_ESTRANGEIRAS.includes(d.id) ? PESO_DO_COMANDO * pontuar(comando, d.lista) + pontuar(comando, d.listaDoComando) : 0);
       if (pontos > melhor) { melhor = pontos; escolhida = d; }
     }
-    if (!escolhida) return { disciplina: null, assunto: null };
+    if (!escolhida) return { disciplina: null, assunto: null, tambem: [] };
 
-    let assunto = escolhida.geral;
-    let melhorAssunto = 0.9;
-    for (const a of escolhida.listasDeAssunto) {
-      const pontos = pontuar(texto, a.lista);
-      if (pontos > melhorAssunto) { melhorAssunto = pontos; assunto = a.nome; }
+    // Cada item do comando (ou o comando inteiro, se não há itens) é julgado pelo que pede: os termos do
+    // comando valem cheio e os gerais pela metade, porque "verso", "estrofe" ou o trecho citado só dizem
+    // sobre o que é a pergunta, não o que ela cobra. Item sem sinal claro não opina.
+    const itens = separarItens(comandoBruto);
+    const opinioes = [];
+    for (const item of (itens.length ? itens : comando.trim() ? [comandoBruto] : []).map(normalizar)) {
+      let doItem = null;
+      let melhorItem = 2.9;
+      for (const d of candidatas) {
+        if (LINGUAS_ESTRANGEIRAS.includes(d.id)) continue;
+        const pontos = pontuar(item, d.listaDoComando) + 0.5 * pontuar(item, d.lista);
+        if (pontos > melhorItem) { melhorItem = pontos; doItem = d; }
+      }
+      opinioes.push(doItem);
     }
-    return { disciplina: escolhida.id, assunto };
+    // Se todos os itens pedem a mesma outra disciplina, ela passa a ser a principal.
+    if (opinioes.length && opinioes.every(o => o && o === opinioes[0]) && opinioes[0] !== escolhida) escolhida = opinioes[0];
+    const tambem = [...new Set(opinioes.filter(o => o && o !== escolhida).map(o => o.id))];
+
+    return { disciplina: escolhida.id, assunto: assuntoDe(escolhida, texto), tambem };
   }
 
   BQ.classificador = {

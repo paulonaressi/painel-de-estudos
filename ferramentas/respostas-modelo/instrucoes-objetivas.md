@@ -66,7 +66,7 @@ lista de objetos na ordem do manifesto, um por questão:
 Grave o arquivo a cada ~10 questões. Use para rascunhos só uma subpasta própria do scratchpad
 (outros agentes trabalham em paralelo). Não use a internet, não baixe nada e não altere nenhum outro
 arquivo. Antes de terminar, rode
-`python3 /Users/Developer/Developer/painel-de-estudos/ferramentas/respostas-modelo/validar.py {PASTA}`
+`python3 ferramentas/respostas-modelo/validar.py {PASTA}` (na raiz do repositório)
 (sem `--gravar`) e corrija o que ele apontar no seu lote.
 
 ## Relatório final

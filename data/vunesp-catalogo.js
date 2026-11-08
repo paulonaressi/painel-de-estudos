@@ -252,7 +252,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-20,21-30",
+      "humanas": "31-60",
+      "natureza-matematica": "61-90"
+     },
+     "disciplinas": {
+      "ingles": "21-30"
+     }
     }
    ],
    "resolucoes": [
@@ -526,7 +534,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-20,21-30",
+      "humanas": "31-60",
+      "natureza-matematica": "61-90"
+     },
+     "disciplinas": {
+      "ingles": "21-30"
+     }
     }
    ],
    "resolucoes": [
@@ -788,7 +804,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-20,21-30",
+      "humanas": "31-60",
+      "natureza-matematica": "61-90"
+     },
+     "disciplinas": {
+      "ingles": "21-30"
+     }
     }
    ],
    "resolucoes": [
@@ -1050,7 +1074,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-20,21-30",
+      "humanas": "31-60",
+      "natureza-matematica": "61-90"
+     },
+     "disciplinas": {
+      "ingles": "21-30"
+     }
     }
    ],
    "resolucoes": [
@@ -1300,7 +1332,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-20,21-30",
+      "humanas": "31-60",
+      "natureza-matematica": "61-90"
+     },
+     "disciplinas": {
+      "ingles": "21-30"
+     }
     }
    ],
    "resolucoes": [
@@ -1550,7 +1590,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-20,21-30",
+      "humanas": "31-60",
+      "natureza-matematica": "61-90"
+     },
+     "disciplinas": {
+      "ingles": "21-30"
+     }
     }
    ],
    "resolucoes": [
@@ -1813,7 +1861,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-20,21-30",
+      "humanas": "31-60",
+      "natureza-matematica": "61-90"
+     },
+     "disciplinas": {
+      "ingles": "21-30"
+     }
     }
    ],
    "resolucoes": [
@@ -6123,7 +6179,7 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 8 questões discursivas (Química 1–4, Biologia 5–8); Prova II: 40 questões objetivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova I (discursiva)",
+     "rotulo": "Prova I (discursiva) · Química e Biologia",
      "areas": [
       "natureza-matematica"
      ],
@@ -6151,11 +6207,21 @@ window.VUNESP_CATALOGO = {
        "oficial": true,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
-     "rotulo": "Prova II (objetiva)",
+     "rotulo": "Prova II (objetiva) e redação",
      "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-40",
@@ -6214,7 +6280,17 @@ window.VUNESP_CATALOGO = {
        "oficial": true,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -6238,7 +6314,7 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 8 questões discursivas (Química 1–4, Biologia 5–8); Prova II: 40 questões objetivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova I (discursiva)",
+     "rotulo": "Prova I (discursiva) · Química e Biologia",
      "areas": [
       "natureza-matematica"
      ],
@@ -6266,11 +6342,21 @@ window.VUNESP_CATALOGO = {
        "oficial": true,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
-     "rotulo": "Prova II (objetiva)",
+     "rotulo": "Prova II (objetiva) e redação",
      "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-40",
@@ -6329,7 +6415,17 @@ window.VUNESP_CATALOGO = {
        "oficial": true,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -6353,8 +6449,10 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 8 questões discursivas (Química 1–4, Biologia 5–8); Prova II: 40 questões objetivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova · parte 1 (questões 1 a 8)",
-     "areas": [],
+     "rotulo": "Prova I (discursiva) · Química e Biologia",
+     "areas": [
+      "natureza-matematica"
+     ],
      "questoes": null,
      "local": {
       "pdf": "provas/famema/2024_prova-espelho-curso-objetivo.pdf",
@@ -6379,11 +6477,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
-     "rotulo": "Prova · parte 2 (questões 1 a 40)",
+     "rotulo": "Prova II (objetiva) e redação",
      "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": null,
@@ -6442,7 +6550,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -6536,8 +6654,11 @@ window.VUNESP_CATALOGO = {
      ]
     },
     {
-     "rotulo": "Prova · parte 3 (questões 1 a 40)",
+     "rotulo": "Prova II (objetiva) e redação",
      "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": null,
@@ -6596,7 +6717,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -6620,8 +6751,10 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 8 questões discursivas; Prova II: 40 questões objetivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova · parte 1 (questões 1 a 8)",
-     "areas": [],
+     "rotulo": "Prova I (discursiva) · Química e Biologia",
+     "areas": [
+      "natureza-matematica"
+     ],
      "questoes": null,
      "local": {
       "pdf": "provas/famema/2021_prova-espelho-curso-objetivo.pdf",
@@ -6646,11 +6779,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
-     "rotulo": "Prova · parte 2 (questões 1 a 40)",
+     "rotulo": "Prova II (objetiva) e redação",
      "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": null,
@@ -6709,7 +6852,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -6733,8 +6886,10 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 8 questões discursivas; Prova II: 40 questões objetivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova · parte 1 (questões 1 a 8)",
-     "areas": [],
+     "rotulo": "Prova I (discursiva) · Química e Biologia",
+     "areas": [
+      "natureza-matematica"
+     ],
      "questoes": null,
      "local": {
       "pdf": "provas/famema/2020_prova-espelho-curso-objetivo.pdf",
@@ -6759,11 +6914,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
-     "rotulo": "Prova · parte 2 (questões 1 a 40)",
+     "rotulo": "Prova II (objetiva) e redação",
      "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": null,
@@ -6822,7 +6987,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -6846,8 +7021,10 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 8 questões discursivas; Prova II: 40 questões objetivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova · parte 1 (questões 1 a 8)",
-     "areas": [],
+     "rotulo": "Prova I (discursiva) · Química e Biologia",
+     "areas": [
+      "natureza-matematica"
+     ],
      "questoes": null,
      "local": {
       "pdf": "provas/famema/2019_prova-espelho-curso-objetivo.pdf",
@@ -6872,11 +7049,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
-     "rotulo": "Prova · parte 2 (questões 1 a 40)",
+     "rotulo": "Prova II (objetiva) e redação",
      "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": null,
@@ -6935,7 +7122,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -6959,8 +7156,10 @@ window.VUNESP_CATALOGO = {
    "estrutura": "48 questões objetivas (Conhecimentos Gerais) + redação; sem questões discursivas no índice do Objetivo",
    "cadernos": [
     {
-     "rotulo": "Prova · parte 1 (questões 1 a 8)",
-     "areas": [],
+     "rotulo": "Prova I (discursiva) · Química e Biologia",
+     "areas": [
+      "natureza-matematica"
+     ],
      "questoes": null,
      "local": {
       "pdf": "provas/famema/2018_prova-espelho-curso-objetivo.pdf",
@@ -6985,11 +7184,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
-     "rotulo": "Prova · parte 2 (questões 1 a 40)",
+     "rotulo": "Prova II (objetiva) e redação",
      "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": null,
@@ -7048,7 +7257,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -7296,6 +7515,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos e Redação",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -7340,7 +7560,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-14,15-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-14",
+      "fisica": "15-20"
+     }
     },
     {
      "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
@@ -7451,7 +7679,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -7477,6 +7719,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos e Redação",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -7521,7 +7764,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-14,15-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-14",
+      "fisica": "15-20"
+     }
     },
     {
      "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
@@ -7632,7 +7883,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -7658,6 +7923,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos e Redação",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -7702,7 +7968,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-14,15-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-14",
+      "fisica": "15-20"
+     }
     },
     {
      "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
@@ -7813,7 +8087,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -7839,6 +8127,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos e Redação",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -7883,7 +8172,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-14,15-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-14",
+      "fisica": "15-20"
+     }
     },
     {
      "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
@@ -7994,7 +8291,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -8020,6 +8331,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "2º dia — Conhecimentos Específicos e Redação",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -8058,7 +8370,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-14,15-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-14",
+      "fisica": "15-20"
+     }
     },
     {
      "rotulo": "1º dia — Prova de Conhecimentos Gerais (objetiva)",
@@ -8163,7 +8483,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -8189,6 +8523,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "2º dia — Conhecimentos Específicos e Redação",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -8227,7 +8562,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-14,15-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-14",
+      "fisica": "15-20"
+     }
     }
    ],
    "resolucoes": [
@@ -8253,6 +8596,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "2º dia — Conhecimentos Específicos e Redação",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -8291,7 +8635,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-14,15-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-14",
+      "fisica": "15-20"
+     }
     }
    ],
    "resolucoes": [
@@ -8317,6 +8669,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "2º dia — Conhecimentos Específicos e Redação",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -8355,7 +8708,15 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-14,15-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-14",
+      "fisica": "15-20"
+     }
     }
    ],
    "resolucoes": [
@@ -8593,6 +8954,8 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Prova de Conhecimentos Específicos e Redação — Medicina",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-20",
@@ -8637,7 +9000,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     },
     {
      "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
@@ -8748,7 +9120,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -8774,6 +9160,8 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Prova de Conhecimentos Específicos e Redação — Medicina",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-20",
@@ -8818,7 +9206,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     },
     {
      "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
@@ -8929,7 +9326,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -8955,6 +9366,8 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Prova de Conhecimentos Específicos e Redação — Medicina",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-20",
@@ -8999,7 +9412,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     },
     {
      "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
@@ -9110,7 +9532,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -9135,7 +9571,11 @@ window.VUNESP_CATALOGO = {
    "cadernos": [
     {
      "rotulo": "Prova de Conhecimentos Específicos — Medicina",
-     "areas": [],
+     "areas": [
+      "natureza-matematica",
+      "linguagens",
+      "redacao"
+     ],
      "questoes": "1-20",
      "local": {
       "pdf": "provas/fcmscsp/2024_prova-de-conhecimentos-especificos-medicina.pdf",
@@ -9172,7 +9612,16 @@ window.VUNESP_CATALOGO = {
        "oficial": true,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     },
     {
      "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
@@ -9283,7 +9732,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -9308,7 +9771,11 @@ window.VUNESP_CATALOGO = {
    "cadernos": [
     {
      "rotulo": "Prova de Conhecimentos Específicos — Medicina",
-     "areas": [],
+     "areas": [
+      "natureza-matematica",
+      "linguagens",
+      "redacao"
+     ],
      "questoes": "1-20",
      "local": {
       "pdf": "provas/fcmscsp/2023_prova-de-conhecimentos-especificos-medicina.pdf",
@@ -9345,7 +9812,16 @@ window.VUNESP_CATALOGO = {
        "oficial": true,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     },
     {
      "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
@@ -9456,7 +9932,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -9482,6 +9972,8 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Conhecimentos Específicos e Redação (2º dia no Objetivo)",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-20",
@@ -9520,7 +10012,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     },
     {
      "rotulo": "Prova de Conhecimentos Gerais (objetiva) — Medicina",
@@ -9625,7 +10126,21 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-20",
+      "humanas": "21-30,31-40",
+      "natureza-matematica": "41-50,51-60,61-70,71-80"
+     },
+     "disciplinas": {
+      "ingles": "11-20",
+      "historia": "21-30",
+      "geografia": "31-40",
+      "biologia": "41-50",
+      "quimica": "51-60",
+      "fisica": "61-70",
+      "matematica": "71-80"
+     }
     }
    ],
    "resolucoes": [
@@ -9651,6 +10166,8 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Conhecimentos Específicos e Redação (2º dia no Objetivo)",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-20",
@@ -9689,7 +10206,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     }
    ],
    "resolucoes": [
@@ -9715,6 +10241,8 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Conhecimentos Específicos e Redação (1º dia no Objetivo)",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-20",
@@ -9753,7 +10281,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     }
    ],
    "resolucoes": [
@@ -9779,6 +10316,8 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Conhecimentos Específicos e Redação (1º dia no Objetivo)",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-20",
@@ -9817,7 +10356,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     }
    ],
    "resolucoes": [
@@ -9843,6 +10391,8 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Conhecimentos Específicos e Redação (1º dia no Objetivo)",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "1-20",
@@ -9881,7 +10431,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-8,9-12,13-16",
+      "linguagens": "17-20"
+     },
+     "disciplinas": {
+      "biologia": "1-8",
+      "quimica": "9-12",
+      "fisica": "13-16"
+     }
     }
    ],
    "resolucoes": [
@@ -9905,8 +10464,10 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova II (discursiva) — caderno de questões",
+     "rotulo": "Prova II (discursiva) e redação",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": "51-55",
@@ -9936,7 +10497,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     },
     {
      "rotulo": "Prova I (objetiva)",
@@ -10017,7 +10588,18 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-15",
+      "humanas": "16-25",
+      "natureza-matematica": "26-30,31-35,36-40,41-50"
+     },
+     "disciplinas": {
+      "ingles": "11-15",
+      "biologia": "26-30",
+      "quimica": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -10041,8 +10623,12 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova II (discursiva) — caderno de questões e respostas",
-     "areas": [],
+     "rotulo": "Prova II (discursiva) e redação",
+     "areas": [
+      "natureza-matematica",
+      "linguagens",
+      "redacao"
+     ],
      "questoes": "51-55",
      "local": {
       "pdf": "provas/ficsae/2026_prova-ii-discursiva-caderno-de-questoes-e-respostas.pdf",
@@ -10070,7 +10656,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     },
     {
      "rotulo": "Prova I (objetiva)",
@@ -10151,7 +10747,18 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-15",
+      "humanas": "16-25",
+      "natureza-matematica": "26-30,31-35,36-40,41-50"
+     },
+     "disciplinas": {
+      "ingles": "11-15",
+      "biologia": "26-30",
+      "quimica": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -10175,8 +10782,12 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova II (discursiva) — caderno de questões e respostas",
-     "areas": [],
+     "rotulo": "Prova II (discursiva) e redação",
+     "areas": [
+      "natureza-matematica",
+      "linguagens",
+      "redacao"
+     ],
      "questoes": "51-55",
      "local": {
       "pdf": "provas/ficsae/2025_prova-ii-discursiva-caderno-de-questoes-e-respostas.pdf",
@@ -10204,7 +10815,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     },
     {
      "rotulo": "Prova I (objetiva)",
@@ -10285,7 +10906,18 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-15",
+      "humanas": "16-25",
+      "natureza-matematica": "26-30,31-35,36-40,41-50"
+     },
+     "disciplinas": {
+      "ingles": "11-15",
+      "biologia": "26-30",
+      "quimica": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -10309,8 +10941,12 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova II (discursiva) — caderno de questões e respostas",
-     "areas": [],
+     "rotulo": "Prova II (discursiva) e redação",
+     "areas": [
+      "natureza-matematica",
+      "linguagens",
+      "redacao"
+     ],
      "questoes": "51-55",
      "local": {
       "pdf": "provas/ficsae/2024_prova-ii-discursiva-caderno-de-questoes-e-respostas.pdf",
@@ -10338,7 +10974,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     },
     {
      "rotulo": "Prova I (objetiva)",
@@ -10419,7 +11065,18 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-15",
+      "humanas": "16-25",
+      "natureza-matematica": "26-30,31-35,36-40,41-50"
+     },
+     "disciplinas": {
+      "ingles": "11-15",
+      "biologia": "26-30",
+      "quimica": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -10443,8 +11100,12 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova II (discursiva) — caderno de questões e respostas",
-     "areas": [],
+     "rotulo": "Prova II (discursiva) e redação",
+     "areas": [
+      "natureza-matematica",
+      "linguagens",
+      "redacao"
+     ],
      "questoes": "1-5",
      "local": {
       "pdf": "provas/ficsae/2023_prova-ii-discursiva-caderno-de-questoes-e-respostas.pdf",
@@ -10472,7 +11133,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     },
     {
      "rotulo": "Prova I (objetiva)",
@@ -10553,7 +11224,18 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-15",
+      "humanas": "16-25",
+      "natureza-matematica": "26-30,31-35,36-40,41-50"
+     },
+     "disciplinas": {
+      "ingles": "11-15",
+      "biologia": "26-30",
+      "quimica": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -10577,8 +11259,12 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova II (discursiva)",
-     "areas": [],
+     "rotulo": "Prova II (discursiva) e redação",
+     "areas": [
+      "natureza-matematica",
+      "linguagens",
+      "redacao"
+     ],
      "questoes": "1-5",
      "local": {
       "pdf": "provas/ficsae/2022_prova-ii-discursiva-espelho-curso-objetivo.pdf",
@@ -10600,7 +11286,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     },
     {
      "rotulo": "Prova I (objetiva)",
@@ -10675,7 +11371,18 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-15",
+      "humanas": "16-25",
+      "natureza-matematica": "26-30,31-35,36-40,41-50"
+     },
+     "disciplinas": {
+      "ingles": "11-15",
+      "biologia": "26-30",
+      "quimica": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -10699,8 +11406,12 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova II (discursiva)",
-     "areas": [],
+     "rotulo": "Prova II (discursiva) e redação",
+     "areas": [
+      "natureza-matematica",
+      "linguagens",
+      "redacao"
+     ],
      "questoes": "1-5",
      "local": {
       "pdf": "provas/ficsae/2021_prova-ii-discursiva-espelho-curso-objetivo.pdf",
@@ -10722,7 +11433,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     }
    ],
    "resolucoes": [
@@ -10746,8 +11467,12 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova (arquivo único) · parte 1 (questões 1 a 50)",
-     "areas": [],
+     "rotulo": "Prova I (objetiva)",
+     "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens"
+     ],
      "questoes": null,
      "local": {
       "pdf": "provas/ficsae/2020_prova-arquivo-unico-espelho-curso-objetivo.pdf",
@@ -10814,11 +11539,24 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-15",
+      "humanas": "16-25",
+      "natureza-matematica": "26-30,31-35,36-40,41-50"
+     },
+     "disciplinas": {
+      "ingles": "11-15",
+      "biologia": "26-30",
+      "quimica": "31-35",
+      "fisica": "36-40"
+     }
     },
     {
-     "rotulo": "Prova (arquivo único) · parte 2 (questões 1 a 5)",
+     "rotulo": "Prova II (discursiva) e redação",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": null,
@@ -10842,7 +11580,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     }
    ],
    "resolucoes": [
@@ -10866,8 +11614,12 @@ window.VUNESP_CATALOGO = {
    "estrutura": "Prova I: 50 questões objetivas; Prova II: 5 questões discursivas + redação",
    "cadernos": [
     {
-     "rotulo": "Prova (arquivo único) · parte 1 (questões 1 a 50)",
-     "areas": [],
+     "rotulo": "Prova I (objetiva)",
+     "areas": [
+      "humanas",
+      "natureza-matematica",
+      "linguagens"
+     ],
      "questoes": null,
      "local": {
       "pdf": "provas/ficsae/2019_prova-arquivo-unico-espelho-curso-objetivo.pdf",
@@ -10934,11 +11686,24 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,11-15",
+      "humanas": "16-25",
+      "natureza-matematica": "26-30,31-35,36-40,41-50"
+     },
+     "disciplinas": {
+      "ingles": "11-15",
+      "biologia": "26-30",
+      "quimica": "31-35",
+      "fisica": "36-40"
+     }
     },
     {
-     "rotulo": "Prova (arquivo único) · parte 2 (questões 1 a 5)",
+     "rotulo": "Prova II (discursiva) e redação",
      "areas": [
+      "natureza-matematica",
+      "linguagens",
       "redacao"
      ],
      "questoes": null,
@@ -10962,7 +11727,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1,2,3,4",
+      "linguagens": "5"
+     },
+     "disciplinas": {
+      "biologia": "1",
+      "quimica": "2",
+      "fisica": "3",
+      "ingles": "5"
+     }
     }
    ],
    "resolucoes": [
@@ -11022,7 +11797,10 @@ window.VUNESP_CATALOGO = {
    "cadernos": [
     {
      "rotulo": "Prova I (discursiva)",
-     "areas": [],
+     "areas": [
+      "natureza-matematica",
+      "redacao"
+     ],
      "questoes": null,
      "local": {
       "pdf": "provas/fmj/2027_prova-i-discursiva.pdf",
@@ -11047,7 +11825,14 @@ window.VUNESP_CATALOGO = {
        "oficial": true,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
      "rotulo": "Prova II (objetiva)",
@@ -11118,7 +11903,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [],
@@ -11135,6 +11930,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Prova I (discursiva)",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-8",
@@ -11167,7 +11963,14 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
      "rotulo": "Prova II (objetiva)",
@@ -11238,7 +12041,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -11264,6 +12077,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Prova I (discursiva)",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-8",
@@ -11296,7 +12110,14 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-4,5-8"
+     },
+     "disciplinas": {
+      "quimica": "1-4",
+      "biologia": "5-8"
+     }
     },
     {
      "rotulo": "Prova II (objetiva)",
@@ -11367,7 +12188,17 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,31-35",
+      "natureza-matematica": "11-20,36-40",
+      "humanas": "21-30"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "ingles": "31-35",
+      "fisica": "36-40"
+     }
     }
    ],
    "resolucoes": [
@@ -11393,6 +12224,7 @@ window.VUNESP_CATALOGO = {
     {
      "rotulo": "Prova I (discursiva)",
      "areas": [
+      "natureza-matematica",
       "redacao"
      ],
      "questoes": "1-20",
@@ -11431,7 +12263,14 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-10,11-20"
+     },
+     "disciplinas": {
+      "quimica": "1-10",
+      "biologia": "11-20"
+     }
     },
     {
      "rotulo": "Prova II (objetiva)",
@@ -11516,7 +12355,19 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-10,41-50",
+      "natureza-matematica": "11-20,51-60",
+      "humanas": "21-30,31-40"
+     },
+     "disciplinas": {
+      "matematica": "11-20",
+      "geografia": "21-30",
+      "historia": "31-40",
+      "ingles": "41-50",
+      "fisica": "51-60"
+     }
     }
    ],
    "resolucoes": [
@@ -11592,7 +12443,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-15,16-25"
+     },
+     "disciplinas": {
+      "ingles": "16-25"
+     }
     },
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos (discursiva)",
@@ -11641,7 +12498,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [
@@ -11721,7 +12587,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-15,16-25"
+     },
+     "disciplinas": {
+      "ingles": "16-25"
+     }
     },
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos (discursiva)",
@@ -11770,7 +12642,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [
@@ -11850,7 +12731,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-15,16-25"
+     },
+     "disciplinas": {
+      "ingles": "16-25"
+     }
     },
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos (discursiva)",
@@ -11899,7 +12786,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     },
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos (reaplicação)",
@@ -11942,7 +12838,16 @@ window.VUNESP_CATALOGO = {
        "oficial": true,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [
@@ -12022,7 +12927,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-15,16-25"
+     },
+     "disciplinas": {
+      "ingles": "16-25"
+     }
     },
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos (discursiva)",
@@ -12071,7 +12982,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [
@@ -12145,7 +13065,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-15,16-25"
+     },
+     "disciplinas": {
+      "ingles": "16-25"
+     }
     },
     {
      "rotulo": "2º dia — Conhecimentos Específicos (discursiva)",
@@ -12188,7 +13114,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [
@@ -12262,7 +13197,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-15,16-25"
+     },
+     "disciplinas": {
+      "ingles": "16-25"
+     }
     },
     {
      "rotulo": "2º dia — Conhecimentos Específicos (discursiva)",
@@ -12305,7 +13246,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [
@@ -12385,7 +13335,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-15,16-25"
+     },
+     "disciplinas": {
+      "ingles": "16-25"
+     }
     },
     {
      "rotulo": "2º dia — Prova de Conhecimentos Específicos (discursiva)",
@@ -12434,7 +13390,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [
@@ -12533,7 +13498,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-30,31-45"
+     },
+     "disciplinas": {
+      "ingles": "31-45"
+     }
     },
     {
      "rotulo": "2º dia — Conhecimentos Específicos (discursiva)",
@@ -12576,7 +13547,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [
@@ -12670,7 +13650,13 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "linguagens": "1-30,31-45"
+     },
+     "disciplinas": {
+      "ingles": "31-45"
+     }
     },
     {
      "rotulo": "2º dia — Conhecimentos Específicos (discursiva)",
@@ -12713,7 +13699,16 @@ window.VUNESP_CATALOGO = {
        "oficial": false,
        "embutir": true
       }
-     ]
+     ],
+     "faixas": {
+      "natureza-matematica": "1-5,6-10,11-15,16-20"
+     },
+     "disciplinas": {
+      "biologia": "1-5",
+      "quimica": "6-10",
+      "fisica": "11-15",
+      "matematica": "16-20"
+     }
     }
    ],
    "resolucoes": [

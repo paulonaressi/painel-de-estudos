@@ -440,6 +440,15 @@ h1, h2, h3, p { margin: 0; }
 .q-nav button.is-bad { background: var(--bad-soft); border-color: transparent; color: var(--bad); font-weight: 600; }
 .q-nav button.is-escrita { background: var(--accent-soft); border-color: transparent; color: var(--accent); font-weight: 600; }
 .q-nav button[aria-current="true"] { outline: 2px solid var(--ink); outline-offset: 1px; color: var(--ink); font-weight: 700; }
+/* Questão que a API entregou incompleta: um ponto de alerta no canto. */
+.q-nav button.is-incompleta { position: relative; }
+.q-nav button.is-incompleta::after {
+  content: ''; position: absolute; top: 3px; right: 3px; width: 6px; height: 6px;
+  border-radius: 50%; background: var(--warn);
+}
+.aviso-fonte { margin: 0 0 14px; }
+.aviso-fonte p { margin: 0; }
+.aviso-fonte p + p { margin-top: 6px; }
 
 .q-body {
   margin-top: 24px;

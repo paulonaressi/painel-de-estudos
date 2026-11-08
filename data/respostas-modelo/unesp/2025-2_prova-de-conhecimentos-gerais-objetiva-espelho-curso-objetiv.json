@@ -333,6 +333,21 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "0:67": {
+   "resposta": "O conteúdo é o **cariótipo humano**: 46 cromossomos, em 23 pares, numa célula somática.\n\nNa estante, cada número aparece duas vezes (dois livros 01, dois 02... até 22): são os 22 pares de **autossomos**, os cromossomos que não definem o sexo. Os livros X e Y são os **cromossomos sexuais**, e sua presença indica uma célula de homem.\n\nPor que as outras falham: em B, cromossomos homólogos têm os mesmos genes (mesmos loci), mas podem ter alelos diferentes, um vindo do pai e outro da mãe; em D, os livros de mesmo número são homólogos, e não cromátides-irmãs, que são as duas cópias idênticas de um mesmo cromossomo duplicado; em A, o pareamento de homólogos ocorre na meiose I, não na metáfase II; em E, um espermatozoide é haploide, com 23 cromossomos e apenas X ou apenas Y, e a estante mostra 46.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:68": {
+   "resposta": "O conteúdo é **tabela periódica e densidade**. Como as esferas têm o mesmo volume, a ordem das massas é a ordem das densidades (m = d · V).\n\nIdentificando os elementos:\nEsfera 1: grupo 2, 3º período → magnésio (Mg)\nEsfera 2: grupo 13, 3º período → alumínio (Al)\nEsfera 3: grupo 6, 4º período → cromo (Cr), metal de transição\n\nA densidade dos metais cresce do grupo 1 em direção ao centro da tabela (metais de transição) e ao descer nos períodos. No 3º período, Mg é menos denso que Al, e o cromo, metal de transição do 4º período, é bem mais denso que os dois. Os valores aproximados confirmam:\nMg ≈ 1,7 g/cm³\nAl ≈ 2,7 g/cm³\nCr ≈ 7,2 g/cm³\n\nLogo, m₁ < m₂ < m₃.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:69": {
+   "resposta": "O conteúdo é **estequiometria e grau de pureza**. A impureza do MgO é o Mg(OH)₂ formado com a umidade; na calcinação ele perde água, e a perda de massa (0,18 g) é exatamente a água liberada.\n\nCom as massas molares H₂O = 18 g/mol e Mg(OH)₂ = 58 g/mol:\nn(H₂O) = 0,18 ÷ 18 = 0,01 mol\nMg(OH)₂ → MgO + H₂O, proporção 1 : 1, então havia 0,01 mol de Mg(OH)₂\nm(Mg(OH)₂) = 0,01 × 58 = 0,58 g\n\nO resto da amostra é MgO puro:\nm(MgO) = 5,8 − 0,58 = 5,22 g\npureza = 5,22 ÷ 5,8 ≈ 0,90 = 90%\n\nO erro comum é parar no valor da impureza (0,58 g, cerca de 10%) e não subtrair da amostra, ou tratar 0,18 g como a massa da impureza em vez da massa de água.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "0:70": {
    "resposta": "O conteúdo é **concentração comum** (massa de soluto por volume de solução), C = m ÷ V.\n\nConvertendo para as unidades pedidas:\nm = 100 mg = 0,100 g\nV = 5 mL = 0,005 L\n\nC = 0,100 ÷ 0,005 = 20 g/L\n\nOutra forma: 100 mg em 5 mL equivale a 20 mg por mL, e 20 mg/mL é o mesmo que 20 g/L (multiplicando numerador e denominador por 1.000).\n\nO cuidado é só com as conversões de miligramas para gramas e de mililitros para litros; errar uma delas desloca a vírgula do resultado.\n\n**Resposta: A**",
    "confianca": "alta",

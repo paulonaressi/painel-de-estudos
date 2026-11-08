@@ -7,6 +7,7 @@
 #      --objetivas: em vez das discursivas, as objetivas que têm gabarito em data/gabaritos/ (campo
 #      "gabarito" no lote; o roteiro é ferramentas/respostas-modelo/instrucoes-objetivas.md)
 #      (instituição pelo começo do nome no catálogo; anos pelo campo "ano" da edição)
+#      --sem-resposta: pula as questões que já têm resposta publicada em data/respostas-modelo/
 # Saída: trabalho/respostas-modelo/<pasta, padrão a data>/lote-NN.json e as imagens
 import json
 import re
@@ -65,6 +66,7 @@ def main():
     if '--pasta' in sys.argv:
         args.remove(pasta)
     so_objetivas = '--objetivas' in sys.argv
+    sem_resposta = '--sem-resposta' in sys.argv
     if not args:
         sys.exit('uso: python3 ferramentas/respostas-modelo/preparar.py INST[,INST]:ANO-ANO ... [--lote 45]')
     regras = filtros(args)
@@ -85,12 +87,16 @@ def main():
             indice = json.loads((RAIZ / local['indice']).read_text(encoding='utf-8'))
             arq_gab = RAIZ / 'data' / 'gabaritos' / Path(local['indice']).relative_to('data/questoes')
             gabs = json.loads(arq_gab.read_text(encoding='utf-8'))['questoes'] if arq_gab.exists() else {}
+            arq_resp = RAIZ / 'data' / 'respostas-modelo' / Path(local['indice']).relative_to('data/questoes')
+            feitas = set(json.loads(arq_resp.read_text(encoding='utf-8'))['questoes']) if sem_resposta and arq_resp.exists() else set()
             doc = documentos.setdefault(local['pdf'], fitz.open(RAIZ / local['pdf']))
             parte = local['parte']
             for q in indice['questoes']:
                 if q.get('parte', 0) != parte or q['n'] not in local['numeros']:
                     continue
                 gab = gabs.get(f"{local['parte']}:{q['n']}")
+                if f"{parte}:{q['n']}" in feitas:
+                    continue
                 fora = not gab if so_objetivas else (bool(gab) or objetiva(q['texto']))
                 if fora:  # discursivas e objetivas vão em rodadas separadas
                     ignoradas += 1

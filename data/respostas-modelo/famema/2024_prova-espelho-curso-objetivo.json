@@ -13,6 +13,21 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "2:3": {
+   "resposta": "A questão pede a **interpretação do poema** romântico. Na segunda estrofe, o eu lírico critica \"Tanta mentira, tão fingido rir\": a falsidade das pessoas da cidade, que riem sem sinceridade e escondem o que sentem. Isso é **dissimulação**, fingir ou disfarçar a verdade.\n\nA (C) é a armadilha: a tristeza e o tédio aparecem na estrofe (\"cheio e farto de tristeza e tédio\"), mas são sentimentos do próprio eu lírico, não características dos habitantes que ele critica. A ganância (D) pode ser associada ao \"egoísmo\" e ao \"interesse\", mas esses termos estão na primeira estrofe, e não na segunda.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:4": {
+   "resposta": "O conteúdo é **escolas literárias**. A rejeição da vida urbana, vista como barulhenta, falsa e interesseira, e a busca de refúgio na natureza e na solidão retomam um tema central do **Arcadismo** (século XVIII): o *fugere urbem*, a fuga da cidade, ligada ao ideal de vida simples no campo (*locus amoenus*, *aurea mediocritas*).\n\nO Romantismo, a que pertence Fagundes Varela, herdou e reelaborou esse motivo, agora com mais subjetividade e melancolia. Mas o tópico \"explorado reiteradamente\" como convenção é o árcade.\n\nO Barroco (A) se concentra no conflito entre o espiritual e o material; Realismo e Naturalismo (B e E) analisam a sociedade urbana de forma objetiva, sem idealizar o campo; o Simbolismo (D) se volta para o mistério, a musicalidade e o mundo interior.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:5": {
+   "resposta": "O conteúdo é **versificação e classes gramaticais**. Em cada estrofe, rimam o 2º e o 4º versos. Basta classificar as palavras rimadas:\n\n1ª estrofe: \"multidões\" / \"ilusões\" → dois substantivos.\n\n2ª estrofe: \"rir\" / \"porvir\" → \"rir\" está substantivado (\"tão fingido rir\", ou seja, o riso fingido) e \"porvir\" é substantivo: mesma classe.\n\n3ª estrofe: \"talvez\" / \"pés\" → advérbio e substantivo.\n\n4ª estrofe: \"astrais\" / \"paz\" → adjetivo e substantivo.\n\nPortanto, as classes diferentes aparecem na terceira e na quarta estrofes.\n\nA armadilha está na 2ª estrofe: quem lê \"rir\" como verbo marca a (D) ou a (E), mas, precedido do adjetivo \"fingido\", o infinitivo funciona como substantivo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "2:6": {
    "resposta": "O recurso central do conto é a **personificação** (ou prosopopeia): atribuir a seres inanimados características humanas.\n\nA nota de cinco mil cruzeiros fica \"preocupada\", ouve o \"zum-zum\" do almoxarifado, sente-se \"garbosa\" e cheia de \"minhocas na cabeça\", fala, se inquieta, conversa com a nota de cinco milhões que a chama de \"Maninha\". Por meio dessas cédulas humanizadas, Drummond faz uma crítica bem-humorada à inflação, que corrói o valor do dinheiro até a \"maravilhosa nota zero\".\n\nHá passagens com exagero, como a do infinito dos números, mas a hipérbole (A) não é o que estrutura o conto: o texto inteiro depende de as notas pensarem e sentirem como pessoas.\n\n**Resposta: D**",
    "confianca": "alta",
@@ -43,6 +58,11 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "2:12": {
+   "resposta": "O conteúdo é **análise combinatória: permutação com repetição**. A palavra FAMEMA tem 6 letras: F, A, M, E, M, A, ou seja, A e M aparecem duas vezes cada.\n\nSó podem começar e terminar com a mesma letra os anagramas que usam as letras repetidas nas pontas.\n\nCom A nas duas pontas: A _ _ _ _ A, sobram F, M, E, M para o meio:\n\n4! ÷ 2! = 24 ÷ 2 = 12\n\nCom M nas duas pontas: M _ _ _ _ M, sobram F, A, E, A:\n\n4! ÷ 2! = 12\n\nTotal: 12 + 12 = 24\n\nO erro típico é esquecer de dividir por 2! (contar anagramas iguais como diferentes, o que daria 48) ou considerar só uma das letras repetidas, o que leva a 12 (D).\n\nAs alternativas não aparecem no recorte desta questão; foram conferidas no PDF do caderno.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "2:13": {
    "resposta": "O conteúdo é **semelhança de triângulos** com geometria em malha. Perímetro 18 com 18 segmentos de 1 cm: pela figura, o retângulo tem 6 cm de base e 3 cm de altura (2·6 + 2·3 = 18).\n\nContando as marcas: A está a 1 cm do canto superior esquerdo e B a 4 cm, logo AB = 3. D é o canto inferior esquerdo e E está a 5 cm dele, logo DE = 5.\n\nComo AB é paralelo a DE, os triângulos ABC e EDC são semelhantes, com razão 3 : 5. As alturas relativas a AB e a DE somam 3 cm e estão na mesma razão:\n\nh = 3 × 3 ÷ (3 + 5) = 9/8 cm\n\nÁrea de ABC = (3 × 9/8) ÷ 2 = 27/16 cm²\n\nO erro comum é supor que C fica no meio da altura (h = 1,5), o que daria 9/4, valor que não aparece nas opções.\n\n**Resposta: C**",
    "confianca": "alta",
@@ -60,6 +80,11 @@
   },
   "2:16": {
    "resposta": "O conteúdo é **poliedros: relação de Euler**, V − A + F = 2, que é o mesmo que dizer que A = V + F − 2.\n\nNo dodecaedro, V = 20 e F = 12:\n\nA = 20 + 12 − 2 = 30\n\nCada aresta é compartilhada por exatamente duas faces. Se cada uma das 12 faces tem n lados:\n\n12·n = 2·30 → n = 5\n\nAs faces são pentágonos regulares.\n\nO erro típico é esquecer que cada aresta pertence a duas faces e fazer 12·n = 30, que não dá número inteiro, ou confundir o número de faces (12) com o número de lados (C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:17": {
+   "resposta": "A ideia é **proporção** (leitura de gráfico de barras segmentado).\n\nO marcador tem 8 divisões, cada uma com uma marca de meio. Na figura 1, 6 divisões estão cheias e correspondem a 360 km:\n\n1 divisão = 360 ÷ 6 = 60 km\n\nNa figura 2 estão cheias 2 divisões inteiras e metade da terceira (o preenchimento para exatamente na marca de meio):\n\n2,5 × 60 = 150 km\n\nO erro típico é tomar 360 km como o tanque cheio (8 divisões, 45 km cada), o que leva a 112,5 km (B).\n\nO recorte desta questão vem cortado: a figura 2 e as alternativas C, D e E foram conferidas no PDF do caderno.\n\n**Resposta: C**",
    "confianca": "alta",
    "pendencia": null
   },
@@ -158,6 +183,11 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "2:37": {
+   "resposta": "O conteúdo é a segunda lei de Newton aplicada à energia cinética. Com força resultante constante e sem atrito, a aceleração é constante, e o corpo, que parte do repouso, faz um movimento uniformemente variado:\n\na = F ÷ m\nv = a · t\n\nA energia cinética depende do quadrado da velocidade:\n\nEc = m · v² ÷ 2 = m · a² · t² ÷ 2\n\nLogo, Ec é proporcional a t². O gráfico é um arco de parábola que começa na origem (Ec = 0 em t = 0) e tem concavidade para cima, ficando cada vez mais inclinado. Esse é o esboço da alternativa E.\n\nA alternativa C, uma reta crescente, é a armadilha: a velocidade cresce linearmente com o tempo, mas a energia cinética cresce com o quadrado dela.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "2:38": {
    "resposta": "O conteúdo é calorimetria, com o calor sensível dado por Q = m · c · Δθ.\n\nPrimeiro, a massa de líquido. Com densidade de 1000 g/L:\nm = 1000 g/L × 10 L = 10 000 g\n\nVariação de temperatura até a luz acender:\nΔθ = 115 − 15 = 100 °C\n\nCalor necessário:\nQ = 10 000 × 0,6 × 100 = 600 000 cal = 600 kcal\n\nEssa é a menor quantidade de calor que o líquido precisa receber para atingir 115 °C. O erro comum é usar 115 °C como variação de temperatura, o que dá 690 kcal, ou usar o calor específico da água (1 cal/g·°C), o que leva a 1000 kcal.\n\n**Resposta: C**",
    "confianca": "alta",
@@ -165,6 +195,11 @@
   },
   "2:39": {
    "resposta": "O conteúdo é refração da luz, especificamente o índice de refração relativo. O índice relativo do meio A em relação ao meio B é a razão entre os índices absolutos:\n\nn(A,B) = nA ÷ nB\n\nCom os dados:\n0,5 = 2 ÷ nB\nnB = 2 ÷ 0,5 = 4\n\nO meio B é mais refringente que A, o que é coerente com a razão menor que 1.\n\nA armadilha é inverter a razão (nB ÷ nA = 0,5), o que daria nB = 1, alternativa C.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:40": {
+   "resposta": "O conteúdo é associação de resistores e potência elétrica. No circuito original, os quatro resistores estão em série, entre os pontos 1 e 5, ligados ao gerador ideal de tensão U:\n\nReq = 4R\nPot = U² ÷ 4R\n\nO fio ideal soldado entre os pontos 2 e 3 coloca em curto o resistor ligado entre eles: a corrente passa pelo fio, que não tem resistência, e esse resistor deixa de funcionar. Restam três resistores em série:\n\nReq' = 3R\nP' = U² ÷ 3R\n\nComparando:\nP' ÷ Pot = (U² ÷ 3R) ÷ (U² ÷ 4R) = 4 ÷ 3\nP' = (4/3) × Pot\n\nComo a tensão é fixa, diminuir a resistência aumenta a potência. Por isso as alternativas com fator menor que 1, como 2/3, 1/2 e 1/3, estão erradas.\n\n**Resposta: D**",
    "confianca": "alta",
    "pendencia": null
   }

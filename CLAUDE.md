@@ -43,7 +43,7 @@ python3 servidor.py                # http://localhost:5173
 - Precisa de servidor (não abre por `file://`): a tela busca JSON e PDFs locais.
 - O servidor manda `Cache-Control: no-cache`. Sem isso o navegador segura versões antigas dos
   scripts e as mudanças "não aparecem".
-- `.claude/launch.json` chama `python`; no Mac troque para `python3`.
+- `servidor.py` aceita a porta por argumento ou pela variável `PORT` (o painel de preview usa); `.claude/launch.json` chama `python3`.
 - Precisa de internet para o ENEM 2009–2023 (API), para o leitor de PDF (pdf.js via cdnjs) e
   para as fontes do Google Fonts.
 
@@ -62,7 +62,7 @@ python3 servidor.py                # http://localhost:5173
 | `data/questoes/<inst>/<arquivo>.json` | Índice de cada caderno: onde está cada questão no PDF + texto extraído. **Gerado** |
 | `data/enem/<ano>.json` | ENEM extraído de PDF (2024, 2025). **Gerado** |
 | `data/resolucoes/` | Resoluções comentadas do ENEM (`enem-2024.json`, `enem-2025.json`) e `indice.json` com os anos que têm |
-| `data/respostas-modelo/` | Respostas-modelo das discursivas da Vunesp: um arquivo por caderno (mesmo caminho do índice em `data/questoes/`) e `indice.json`. **Gerado** por `ferramentas/respostas-modelo/validar.py` |
+| `data/respostas-modelo/` | Respostas-modelo das discursivas e resoluções comentadas das objetivas da Vunesp: um arquivo por caderno (mesmo caminho do índice em `data/questoes/`) e `indice.json`. **Gerado** por `ferramentas/respostas-modelo/validar.py` |
 | `provas/` | PDFs baixados (206 MB) e `manifesto.json` (url → arquivo local) |
 | `ferramentas/` | Scripts de download, extração, catálogo, avaliação e resoluções |
 
@@ -115,6 +115,12 @@ aplicação digital de 2021 e 2022 é a mesma prova da regular (conferido na cor
   do Node passa.
 - cópias de terceiros (Curso Objetivo, Foco Medicina) onde não há oficial.
 - resoluções comentadas: páginas do Curso Objetivo (links, não conteúdo).
+- códigos de concurso: VNSP2504 = Unesp 2026, FEAE2602 = Einstein 2027, VNSP2105 = Unesp 2022 (1ª fase),
+  UFSP1701/1801/2001 = Unifesp 2018/2019/2021. Não contornar o bloqueio da Vunesp: onde o oficial não
+  baixa, usa-se a cópia do Curso Objetivo do mesmo caderno, e a tela diz "cópia · Curso Objetivo".
+- padrão de endereço do Objetivo: `…/resolucao-comentada/<inst>/<ano>/[1dia|2dia|1fase|2fase]/<inst><ano>_<parte>_prova.pdf`
+  (Einstein e FMJ sem subpasta: `alberteinstein2027_prova_I.pdf`). Os gabaritos que o Objetivo
+  hospeda são o arquivo da própria Vunesp, na versão do dia da prova.
 
 ## Pipeline
 
@@ -224,8 +230,9 @@ inclusive em PDF com CropBox deslocada).
   antiga, inglês/francês da Unifesp 2008–2011); `versao` separa versões em arquivos distintos com a
   mesma numeração (Unesp 2005/2). Padrão
   confirmado pelas capas de 2011 em diante: Humanas 1–12, Natureza/Matemática 13–24, Linguagens
-  25–36. Em 2010 era Natureza 1–12, Humanas 13–24 (a versão corp concluiu o contrário: os arquivos
-  do Foco Medicina de 2010 vêm com os nomes trocados; não conferido aqui). De 2021 a 2023 a 2ª fase foi objetiva
+  25–36, também em 2010 (conferido em 09/11/2026: os arquivos do Foco Medicina de 2010 vêm com os
+  nomes trocados — o "ciencias-humanas2010.pdf" traz Natureza 13–24 —, e o levantamento segue o
+  conteúdo, com observação no caderno). De 2021 a 2023 a 2ª fase foi objetiva
   (Linguagens 1–20, Humanas 21–40, Natureza/Matemática 41–60; ordem inferida, não conferida).
 
 ## Formatos
@@ -257,6 +264,8 @@ Desde 09/11/2026 (versão corp): o comando (o que vem depois da última referên
 que o texto de apoio; cada item a)/b) é julgado pelo que pede, e a disciplina de um item que destoa
 volta em `tambem` (etiqueta extra na tela); apoio em língua estrangeira decide pela língua;
 `classificar(q, area, fixa, semLinguas)` aceita a disciplina fixa da estrutura do caderno.
+Na Vunesp há filtro por disciplina abaixo do campo aberto: soma todas as edições da instituição
+(carrega todos os índices dela de uma vez, ~1 MB na Unesp); edições sem recorte local ficam de fora.
 É uma estimativa e erra: no piloto, a questão 150 de 2025 (proporção) saiu como "Geometria
 espacial". Nunca foi medido contra uma amostra corrigida à mão; o que existe é a distribuição
 (`avaliar-classificador.js`): Natureza fica em 12–16 por disciplina; Humanas oscila mais
@@ -362,10 +371,14 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
   famema/2025_prova-i-discursiva colidiu com fmj/2025_… (idem 2026); as 16 da Famema foram
   respondidas sobre imagens da FMJ e refeitas. O nome agora leva a pasta da instituição.
 - Limites conhecidos: itens que pedem desenho ou completar figura são descritos em texto.
+- Da versão corp (09/11/2026): 452 discursivas que aqui não tinham resposta (Unesp 2010–2016,
+  Famema 2024), mesmo caminho de conversão das objetivas; no roteiro entrou a regra das constantes
+  (resultado exato em função de π, g… e a aproximação).
 
 ## Estado
 
-- ENEM: 17 anos (2009–2025); 2011–2025 dos cadernos do INEP (com redação); resoluções em 2011–2025.
+- ENEM: 17 anos (2009–2025); 2011–2025 dos cadernos do INEP (com redação); resoluções em todos os
+  anos (2009 e 2010, pela API: 179 e 185, trazidas da versão corp, conferidas contra o gabarito da API).
   Mais 6 aplicações extras (reaplicação 2021–2025 e Belém 2025), 1.110 questões, todas com resolução.
 - Vunesp (09/11/2026): 115 edições no catálogo, 229 cadernos com questões locais, 6.400 questões na
   tela (eram 4.290; entraram 28 cadernos objetivos de 2022+ e a Famema 2024 Prova II). Antes: Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
@@ -376,8 +389,12 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
   ajustes do extrator, estruturas por caderno, classificador novo e aviso de questão incompleta da API
   (`falhasDaFonte`, só 2009 e 2010; medido: nenhuma questão desses anos é marcada hoje). Não vieram:
   o ENEM 2021–2023 pela API e `gabaritos-inep`/`corrigirGabarito` (aqui já é caderno + gabarito do
-  INEP). A reaplicação do ENEM e Belém 2025 vieram depois, no mesmo dia. Ficaram só na pasta corp
-  as respostas-modelo das discursivas de edições que aqui não têm e o filtro por disciplina na Vunesp.
+  INEP), `gabaritos-inep.py`, `preparar-vunesp.py`/`publicar-vunesp.py`/`refazer.py` e
+  `data/vunesp-gabaritos.json` (substituídos aqui por `processar_enem`, `respostas-modelo/` e
+  `data/gabaritos/`). Também vieram, no mesmo dia: reaplicação do ENEM e Belém 2025, 452
+  respostas-modelo de discursivas (Unesp 2010–2016, Famema 2024; todas as 1.473 da corp estão aqui),
+  a correção da Unesp 2010, a limpeza de cabeçalho dos recortes do ENEM (1.534 pedaços) e o filtro por
+  disciplina na Vunesp. A pasta corp não tem mais nada que falte aqui.
 - Rodada de conteúdo de 06/11/2026: Einstein 2027; Famerp 2015–2017; Famema 2016–2017; Unifesp
   2003–2017 (exceto 2007); Unesp 2011 (25–36) e 2010/2 (1–24) pelo Foco; Unesp 2005/2–2009/2.
 - Desde 11/2026 o site da Vunesp recusa (403) o `fetch` do Node e o `curl`, nas listas e nos PDFs;
@@ -395,7 +412,15 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
   descartado. Unifesp 2004: sem o 2º dia.
 - Unesp 2006 e 2007 (3º dia): a proposta de redação não tem título e fica dentro do recorte da
   questão 10. Unesp até 2005: o Objetivo só tem a 1ª fase (2005) ou nada (2001–2004/2).
-- Unesp: não há respostas esperadas oficiais para as discursivas; gabarito oficial só de 2021–2023.
+- Unesp: não há respostas esperadas oficiais para as discursivas.
+- Gabaritos oficiais das objetivas: só a versão do dia da prova; anulações depois dos recursos não
+  estão refletidas (o "após recursos" existe na Vunesp, mas o site não deixa baixar).
+- Unesp 2022, 1ª fase (duas provas, VNSP2105): o Objetivo não tem nos nomes padrão e o oficial não
+  baixa. FMJ 2022 e 2023: não há caderno nem na Vunesp nem no Objetivo.
+- Gráfico ou desenho a completar que fica dentro do campo de resposta (Famema, FMJ, Famerp) não entra
+  no recorte: a resposta-modelo descreve o desenho e fica "media".
+- ENEM 2026 (aplicação em novembro/2026) ainda sem caderno; Unifesp 2027 (UFSP2602) só tinha
+  impugnações em 08/11/2026.
 - Fora do catálogo: FMABC (só objetivas), Einstein de inverno 2017/2 e 2023/2 (só objetivas),
   UNILUS e outros; edições 2027 de Famerp e Famema (inscrições abertas em 06/11/2026), Unifesp
   2027 e Unesp 2027 (2ª fase ainda não aplicada).
@@ -430,6 +455,11 @@ gabarito, mas não é confirmação independente dele.
   não tem (2018/2, 2017, 2016, 2015, 2013, 2010) e, desde 06/11/2026, nas lacunas da Unesp 2011
   (25–36) e 2010/2 (1–24). Em 06/11/2026 ele pediu uma rodada de "caça" de cadernos faltantes e a
   incorporação deles; uma fonte nova (fora Vunesp, Unesp, INEP, Objetivo e Foco) ainda pede aval.
+  Em 08/11/2026 (pedido de "absolutamente tudo" dos últimos 5 anos): cópias do Objetivo também onde
+  o oficial existe mas o site da Vunesp não deixa baixar, gabaritos oficiais da Vunesp hospedados no
+  Objetivo e as figuras da API enem.dev para o material das resoluções de 2009 e 2010.
+- **Sem push a partir da conta corporativa**: a unificação de 09/11/2026 foi entregue como `git bundle`
+  e o dono fez o push da máquina pessoal.
 - **Direitos autorais**: as questões da Vunesp não são transcritas; a tela mostra o recorte do
   PDF, e o texto extraído serve só para classificar. Foi avisado que, se a plataforma for pública
   ou comercial, o licenciamento do conteúdo (Vunesp, cursinhos) é decisão dele.
@@ -438,13 +468,15 @@ gabarito, mas não é confirmação independente dele.
 
 ## Próximos passos possíveis
 
-1. ENEM 2009 e 2010: outra fonte de recorte (o extrator não acha todas as questões) e gabarito de 2010.
+1. ENEM 2009 e 2010: outra fonte de recorte (o extrator não acha todas as questões) e gabarito de 2010
+   (o INEP só publica o caderno com o gabarito marcado; os PDFs de 2009 e 2010 estão em
+   `provas/enem/gabaritos/`). As resoluções desses anos usam o gabarito da API.
 2. Melhorar a classificação — as resoluções prontas dão um sinal melhor que palavras-chave — e
    medir o acerto contra uma amostra corrigida à mão.
-3. Filtro por disciplina também na Vunesp (hoje é só etiqueta por questão).
+3. Revisão humana das resoluções "baixa" das objetivas (ver a seção delas) e de uma amostra das demais.
 4. Fechar as lacunas da Unesp (depende de autorização para novas fontes) e ensinar ao extrator os
    layouts que faltam.
-5. Respostas-modelo para o resto da Vunesp (hoje: Unesp 2017–2026/2, Medicina 2018–2027 e Unifesp).
+5. Apoio sem número ("READ THE FOLLOWING TEXT…", Famema 2022 q31–35) no extrator.
 6. Busca por texto, cópia offline do ENEM 2009–2023, contas de usuário/sincronização do progresso.
 
 ## Convenções

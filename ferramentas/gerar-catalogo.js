@@ -17,7 +17,8 @@ const manifesto = fs.existsSync(arquivoManifesto) ? JSON.parse(fs.readFileSync(a
 // recomeçando (Prova I e Prova II). Arquivo sem questões localizadas, ou com buracos na
 // numeração (layout que o extrator não entende), fica sem cópia local e abre como PDF inteiro.
 function copiasLocais(grupo) {
-  for (const item of grupo.map(c => manifesto[c.url])) {
+  for (const c of grupo) {
+    const item = manifesto[c.url];
     if (!item || !item.indice || !fs.existsSync(path.join(raiz, item.indice))) continue;
     const indice = JSON.parse(fs.readFileSync(path.join(raiz, item.indice), 'utf8'));
     const partes = [...new Set(indice.questoes.map(q => q.parte || 0))].sort((a, b) => a - b);
@@ -26,6 +27,8 @@ function copiasLocais(grupo) {
       return {
         pdf: item.arquivo,
         indice: item.indice,
+        fonte: nomeDaFonte(c),          // de onde veio o arquivo aberto na tela (a cópia, quando o oficial não baixou)
+        oficial: c.host_oficial === true,
         parte,
         numeros,
         redacao: !!indice.redacao && (indice.redacao.parte || 0) === parte,

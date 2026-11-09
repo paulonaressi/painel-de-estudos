@@ -906,6 +906,9 @@
     }
 
     const local = cad && cad.local;
+    // as fontes além da que está aberta (com recorte local, a aberta é a do arquivo, não a primeira da lista)
+    const aberta = local && local.fonte ? fontes.find(f => f.nome === local.fonte && f.oficial === local.oficial) : principal;
+    const outras = fontes.filter(f => f !== aberta);
     if (principal) {
       wrap.append(
         h('div.q-tools', null,
@@ -913,11 +916,16 @@
             ? h('a.btn.sm', { href: local.pdf, target: '_blank', rel: 'noopener noreferrer' }, 'Abrir caderno completo', icone('ext'))
             : h('a.btn.primary.sm', { href: principal.url, target: '_blank', rel: 'noopener noreferrer' }, 'Abrir caderno em nova aba', icone('ext')),
           !local && embutida ? h('button.btn.sm', { type: 'button', onclick: () => { v.verPdf = !v.verPdf; renderEnunciado(); } }, v.verPdf ? 'Ocultar caderno' : 'Mostrar caderno aqui') : null,
-          principal.oficial
-            ? h('span.tag.accent', null, `fonte oficial · ${principal.nome}`)
-            : h('span.tag.warn', { title: 'O caderno oficial desta edição não foi localizado; esta é uma cópia hospedada por terceiros.' }, `cópia · ${principal.nome}`)),
-        fontes.length > 1
-          ? h('p.outras', null, 'Outras cópias: ', fontes.slice(1).map((f, i) =>
+          // com recorte local, vale a origem do arquivo aberto (a cópia do Objetivo, quando o site da Vunesp não deixou baixar o oficial)
+          (local && local.fonte ? local.oficial : principal.oficial)
+            ? h('span.tag.accent', null, `fonte oficial · ${local && local.fonte ? local.fonte : principal.nome}`)
+            : h('span.tag.warn', {
+              title: principal.oficial
+                ? 'O caderno oficial existe (link em "Outras cópias"), mas o site da Vunesp não permite baixá-lo; este é o mesmo caderno na cópia de terceiros.'
+                : 'O caderno oficial desta edição não foi localizado; esta é uma cópia hospedada por terceiros.',
+            }, `cópia · ${local && local.fonte ? local.fonte : principal.nome}`)),
+        outras.length
+          ? h('p.outras', null, 'Outras fontes: ', outras.map((f, i) =>
               [i ? ' · ' : '', h('a', { href: f.url, target: '_blank', rel: 'noopener noreferrer' }, f.nome)]))
           : ''); // append() escreveria "null" na tela
     }

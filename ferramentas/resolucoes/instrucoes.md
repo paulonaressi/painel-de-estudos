@@ -83,3 +83,23 @@ e qualquer imagem ilegível ou cortada.
 | Matemática (`matematica`) | 136 a 180 | 60 a 180 palavras | Dizer em uma frase qual é a ideia (regra de três, área, função afim…) e mostrar as contas com os números da questão, uma por linha. Conferir aritmética trabalhosa com Python. Apontar o erro típico que leva à alternativa mais tentadora. |
 
 A numeração acima vale de 2017 em diante (1º dia: Linguagens e Humanas; 2º dia: Natureza e Matemática).
+
+## Anos da API (2009 e 2010)
+
+O material vem de `preparar-api.js` (não de `preparar.py`) e muda em três pontos; o resto do
+roteiro vale igual.
+
+- Não há imagem da questão inteira. Cada item do manifesto traz `enunciado` (texto da questão como
+  a tela mostra: contexto, comando e alternativas "(A) …"), `figuras` (PNGs/JPGs locais, citados no
+  enunciado como `[FIGURA n: arquivo]`) e `figuras_indisponiveis`. A fonte de verdade é esse texto
+  mais as figuras: abra toda figura citada.
+- A fonte às vezes perde figuras. Se o enunciado traz `[FIGURA INDISPONÍVEL NA FONTE]`, ou cita uma
+  imagem, charge, gráfico, mapa ou tabela que não veio, e a resposta depende dela: escreva o que
+  for possível sem inventar o conteúdo da figura, marque `confianca: "baixa"` e diga na `pendencia`
+  "A figura da questão não está disponível na fonte." Se a resposta não depende dela, siga normal.
+- Numeração: 2010 Humanas 1–45, Natureza 46–90, Linguagens 91–135 (91–95 em inglês e espanhol),
+  Matemática 136–180; 2009 Natureza, Humanas, Linguagens, Matemática, sem língua estrangeira. Algumas
+  questões faltam na própria fonte: elas não estão no manifesto, e está certo.
+
+Cada agente usa uma subpasta própria para rascunhos e scripts (ex.: `<scratchpad>/<ano>-<area>/`):
+no piloto de 2024 a pasta temporária era a mesma para os quatro e um sobrescreveu o script do outro.

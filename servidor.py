@@ -5,7 +5,8 @@ import http.server
 import os
 import sys
 
-PORTA = int(sys.argv[1]) if len(sys.argv) > 1 else 5173
+# A porta vem do argumento, ou da variável PORT (o painel de preview usa), ou 5173.
+PORTA = int(sys.argv[1]) if len(sys.argv) > 1 else int(os.environ.get('PORT', 5173))
 
 
 class SemCache(http.server.SimpleHTTPRequestHandler):

@@ -45,6 +45,8 @@ gráficos, mapas nem tabelas. Confira na imagem todo dado que você usar.
 - Em contas, mostre o caminho: dados, relação usada, conta, resultado com unidade. Uma conta por
   linha, com símbolos Unicode (·, ×, ÷, ², √, Δ, →, ≈) e fórmulas químicas com subscritos (H₂O).
   Sem LaTeX (a tela não renderiza).
+- Se a questão não fornece uma constante (π, g, massa molar), dê o resultado exato em função dela e a
+  aproximação com o valor usual, dizendo qual usou.
 - Em questões de língua estrangeira, escreva em português, salvo se o item pedir resposta no idioma.
 - Não transcreva o enunciado nem trechos longos da prova: no máximo algumas palavras entre aspas
   quando for indispensável para apontar a passagem.

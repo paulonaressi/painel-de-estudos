@@ -2458,28 +2458,30 @@
         {
           "rotulo": "Ciências Humanas (espelho Foco Medicina)",
           "areas": [
-            "humanas"
+            "natureza-matematica"
           ],
-          "questoes": "1-12",
+          "questoes": "13-24",
           "url": "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-humanas2010.pdf",
           "host_oficial": false,
           "http_status": 200,
           "content_type": "application/pdf",
           "x_frame_options": null,
-          "csp_frame_ancestors": null
+          "csp_frame_ancestors": null,
+          "observacao": "Os nomes dos arquivos do Foco Medicina estão trocados: o \"ciencias-da-natureza-e-matematica\" traz as questões 1–12 (Humanas) e o \"ciencias-humanas\" traz as 13–24 (Natureza/Matemática); conferido pelo conteúdo em 08/11/2026."
         },
         {
           "rotulo": "Ciências da Natureza e Matemática (espelho Foco Medicina)",
           "areas": [
-            "natureza-matematica"
+            "humanas"
           ],
-          "questoes": "13-24",
+          "questoes": "1-12",
           "url": "https://focomedicina.com.br/wp-content/uploads/2024/12/ciencias-da-natureza-e-matematica2010.pdf",
           "host_oficial": false,
           "http_status": 200,
           "content_type": "application/pdf",
           "x_frame_options": null,
-          "csp_frame_ancestors": null
+          "csp_frame_ancestors": null,
+          "observacao": "Os nomes dos arquivos do Foco Medicina estão trocados: o \"ciencias-da-natureza-e-matematica\" traz as questões 1–12 (Humanas) e o \"ciencias-humanas\" traz as 13–24 (Natureza/Matemática); conferido pelo conteúdo em 08/11/2026."
         },
         {
           "rotulo": "Linguagens e Códigos (espelho Foco Medicina)",

@@ -4413,11 +4413,11 @@ window.VUNESP_CATALOGO = {
    "estrutura": "36 questões discursivas (12 Ciências Humanas, 12 Ciências da Natureza e Matemática, 12 Linguagens e Códigos) + redação, 2 dias",
    "cadernos": [
     {
-     "rotulo": "Natureza e Matemática",
+     "rotulo": "Ciências Humanas",
      "areas": [
-      "natureza-matematica"
+      "humanas"
      ],
-     "questoes": "13-24",
+     "questoes": "1-12",
      "local": {
       "pdf": "provas/unesp/2010_ciencias-da-natureza-e-matematica-espelho-foco-medicina.pdf",
       "indice": "data/questoes/unesp/2010_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
@@ -4450,11 +4450,11 @@ window.VUNESP_CATALOGO = {
      ]
     },
     {
-     "rotulo": "Ciências Humanas",
+     "rotulo": "Natureza e Matemática",
      "areas": [
-      "humanas"
+      "natureza-matematica"
      ],
-     "questoes": "1-12",
+     "questoes": "13-24",
      "local": {
       "pdf": "provas/unesp/2010_ciencias-humanas-espelho-foco-medicina.pdf",
       "indice": "data/questoes/unesp/2010_ciencias-humanas-espelho-foco-medicina.json",
@@ -4538,8 +4538,8 @@ window.VUNESP_CATALOGO = {
    "oficiais": [],
    "numeracao_unica": true,
    "faixas": {
-    "natureza-matematica": "1-12",
-    "humanas": "13-24",
+    "humanas": "1-12",
+    "natureza-matematica": "13-24",
     "linguagens": "25-36"
    }
   },

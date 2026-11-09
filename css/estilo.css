@@ -300,6 +300,8 @@ h1, h2, h3, p { margin: 0; }
 .campo-bar i { display: block; height: 100%; background: var(--dot, var(--accent)); border-radius: 2px; }
 
 .sub-idioma { margin: 6px 10px 4px 30px; }
+.edicao .campo-num { margin-left: auto; }
+.subcampos-nota { margin: 4px 0 8px 30px; }
 .subcampos { list-style: none; margin: 4px 0 8px 20px; padding: 0 0 0 10px; border-left: 1px solid var(--line); }
 .subcampo {
   width: 100%;
@@ -699,6 +701,9 @@ h1, h2, h3, p { margin: 0; }
   text-align: left;
 }
 .chip:hover { color: var(--ink); background: var(--surface-2); }
+.chip:disabled { opacity: .45; cursor: not-allowed; }
+.chip:disabled:hover { color: inherit; background: transparent; }
+.chip.sm { padding: 4px 10px; font-size: 12.5px; }
 .outras { margin-top: 8px; font-size: 13px; color: var(--ink-2); }
 .chip[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
 .aviso {

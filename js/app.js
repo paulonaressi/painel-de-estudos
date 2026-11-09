@@ -68,6 +68,7 @@
     vunesp: {
       instituicao: instituicoes.includes(salvo.instituicao) ? salvo.instituicao : instituicoes[0] || null,
       campo: 'todos',
+      disciplina: 'todas',   // estimada pelo classificador; vale para todas as edições da instituição
       edicao: salvo.edicao || null,
       caderno: 0,
       questao: 1,
@@ -656,7 +657,11 @@
 
   function edicoesVisiveis() {
     const v = estado.vunesp;
-    return CATALOGO.filter(ed => ed.instituicao === v.instituicao && combinaCampo(ed, v.campo));
+    const lista = CATALOGO.filter(ed => ed.instituicao === v.instituicao && combinaCampo(ed, v.campo));
+    if (v.disciplina === 'todas') return lista;
+    const contagem = contagemPorDisciplina();
+    if (!contagem.completa) return lista;
+    return lista.filter(ed => (contagem.porEdicao.get(ed) || new Map()).get(v.disciplina) > 0);
   }
 
   function edicaoAtual() {
@@ -670,13 +675,75 @@
   }
 
   // Números das questões do caderno; com um campo escolhido, só os daquele campo (quando a edição informa as faixas).
-  function numerosDoCaderno(ed, cad) {
+  function numerosDoCampo(ed, cad) {
     const todos = cad && cad.local ? cad.local.numeros : faixaParaLista(cad && cad.questoes);
     const campo = estado.vunesp.campo;
     const doCampo = faixaParaLista(faixasDe(ed, cad)[campo]);
     if (!todos || !doCampo) return todos;
     const filtrados = todos.filter(n => doCampo.includes(n));
     return filtrados.length ? filtrados : todos;
+  }
+
+  // Com uma disciplina escolhida, só as questões que o classificador atribuiu a ela (pode sobrar lista vazia).
+  function numerosDoCaderno(ed, cad) {
+    const numeros = numerosDoCampo(ed, cad);
+    const disciplina = estado.vunesp.disciplina;
+    if (disciplina === 'todas' || !numeros) return numeros;
+    const classes = classesDoCaderno(ed, cad);
+    if (!classes) return cad && cad.local ? [] : numeros;
+    return numeros.filter(n => disciplinasDaQuestao(classes.get(n)).includes(disciplina));
+  }
+
+  // A principal e, nas questões com itens que cobram outra disciplina (poema + gramática), também essa.
+  function disciplinasDaQuestao(classe) {
+    if (!classe || !classe.disciplina) return [];
+    return [classe.disciplina, ...(classe.tambem || [])];
+  }
+
+  function disciplinasDoCampo(campo) {
+    if (campo === 'redacao') return [];
+    if (campo !== 'todos') return BQ.classificador.disciplinas(campo);
+    const vistas = new Set();
+    return ['linguagens', 'humanas', 'natureza-matematica'].flatMap(a => BQ.classificador.disciplinas(a))
+      .filter(d => !vistas.has(d.id) && vistas.add(d.id));
+  }
+
+  // Quantas questões de cada disciplina há em cada edição da instituição e do campo abertos.
+  // Fica "incompleta" enquanto algum índice de caderno ainda está carregando.
+  const contagensProntas = new Map();
+  function contagemPorDisciplina() {
+    const v = estado.vunesp;
+    const chave = `${v.instituicao}|${v.campo}`;
+    if (contagensProntas.has(chave)) return contagensProntas.get(chave);
+    const permitidas = new Set(disciplinasDoCampo(v.campo).map(d => d.id));
+    const total = new Map();
+    const porEdicao = new Map();
+    let completa = true;
+    let semRecorte = 0;
+    let questoes = 0; // todas as questões recortadas, inclusive as que o classificador não soube atribuir
+    const edicoes = CATALOGO.filter(ed => ed.instituicao === v.instituicao && combinaCampo(ed, v.campo));
+    for (const ed of edicoes) {
+      const daEdicao = new Map();
+      const cadernos = (ed.cadernos || []).filter(c => c.local && (v.campo === 'todos' || cadernoCobre(c, v.campo)));
+      if (!cadernos.length) semRecorte++;
+      for (const cad of cadernos) {
+        const classes = classesDoCaderno(ed, cad);
+        if (classes === undefined) { completa = false; continue; }
+        if (!classes) continue;
+        for (const n of numerosDoCampo(ed, cad) || []) {
+          questoes++;
+          for (const d of disciplinasDaQuestao(classes.get(n))) {
+            if (!permitidas.has(d)) continue;
+            daEdicao.set(d, (daEdicao.get(d) || 0) + 1);
+            total.set(d, (total.get(d) || 0) + 1);
+          }
+        }
+      }
+      porEdicao.set(ed, daEdicao);
+    }
+    const contagem = { total, porEdicao, completa, semRecorte, questoes };
+    if (completa) contagensProntas.set(chave, contagem);
+    return contagem;
   }
 
   function temRedacao(ed, cad) {
@@ -694,7 +761,8 @@
   function primeiraQuestao(ed, cad) {
     const numeros = numerosDoCaderno(ed, cad);
     if (estado.vunesp.campo === 'redacao' && temRedacao(ed, cad)) return 'redacao';
-    return numeros ? numeros[0] : 1;
+    if (!numeros) return 1;
+    return numeros.length ? numeros[0] : null; // null: nenhuma questão da disciplina neste caderno
   }
 
   // Ao escolher um campo, abre o caderno que contém aquele campo.
@@ -704,6 +772,10 @@
     const cadernos = (ed && ed.cadernos) || [];
     let i = v.campo === 'todos' ? 0 : cadernos.findIndex(c => (c.areas || []).includes(v.campo));
     if (i < 0) i = 0;
+    if (v.disciplina !== 'todas') {
+      const comDisciplina = cadernos.findIndex(c => (numerosDoCaderno(ed, c) || []).length > 0);
+      if (comDisciplina >= 0) i = comDisciplina;
+    }
     v.caderno = i;
     v.questao = primeiraQuestao(ed, cadernos[i]);
   }
@@ -712,6 +784,7 @@
   function trocarInstituicao(inst) {
     estado.vunesp.instituicao = inst;
     estado.vunesp.edicao = null;
+    estado.vunesp.disciplina = 'todas';
     ajustarCaderno();
     salvarUi();
     renderTudo();
@@ -720,6 +793,15 @@
   function trocarCampo(campo) {
     fecharMenu();
     estado.vunesp.campo = campo;
+    if (!disciplinasDoCampo(campo).some(d => d.id === estado.vunesp.disciplina)) estado.vunesp.disciplina = 'todas';
+    ajustarCaderno();
+    renderTudo();
+    irAoTopo();
+  }
+
+  function trocarDisciplinaVunesp(disciplina) {
+    fecharMenu();
+    estado.vunesp.disciplina = disciplina;
     ajustarCaderno();
     renderTudo();
     irAoTopo();
@@ -761,21 +843,51 @@
         return op;
       }));
 
+    carregarIndicesDaInstituicao(v.instituicao);
+    const contagem = contagemPorDisciplina();
+    const filtrando = v.disciplina !== 'todas' && contagem.completa;
+
     const campos = h('ul.campos', null, CAMPOS_VUNESP.map(c =>
-      h('li', null, h('button.campo', { type: 'button', style: `--dot:${c.cor}`, 'aria-current': String(c.id === v.campo), onclick: () => trocarCampo(c.id) },
-        h('span.campo-dot'), h('span.campo-nome', null, c.nome)))));
+      h('li', null,
+        h('button.campo', { type: 'button', style: `--dot:${c.cor}`, 'aria-current': String(c.id === v.campo), onclick: () => trocarCampo(c.id) },
+          h('span.campo-dot'), h('span.campo-nome', null, c.nome)),
+        c.id === v.campo ? subcamposVunesp(contagem) : null)));
 
     const edicoes = h('ul.edicoes', null, edicoesVisiveis().map(ed =>
       h('li', null, h('button.edicao', { type: 'button', 'aria-current': String(ed === atual), onclick: () => trocarEdicao(chaveEdicao(ed)) },
         h('span', null, ed.edicao),
-        ed.formato === 'objetiva' ? h('span.tag', null, 'objetiva') : null))));
+        ed.fase === '1ª fase' ? h('span.tag', null, '1ª fase') : ed.formato === 'objetiva' ? h('span.tag', null, 'objetiva') : null,
+        filtrando ? h('span.campo-num', { title: `Questões de ${BQ.classificador.nome(v.disciplina)} nesta edição` },
+          contagem.porEdicao.get(ed).get(v.disciplina)) : null))));
 
     return [
       h('div', null, h('span.side-label', null, 'Instituição'), selInst),
       h('div', null, h('span.side-label', null, 'Campos'), campos),
-      h('div', null, h('span.side-label', null, 'Edições'), edicoes),
+      h('div', null,
+        h('span.side-label', null, filtrando ? `Edições com ${BQ.classificador.nome(v.disciplina)}` : 'Edições'),
+        edicoes,
+        filtrando && contagem.semRecorte
+          ? h('p.nota-rodape', null, `${contagem.semRecorte} ${contagem.semRecorte === 1 ? 'edição abre' : 'edições abrem'} só como PDF inteiro e não ${contagem.semRecorte === 1 ? 'entra' : 'entram'} no filtro.`)
+          : null),
     ];
   }
+
+  // Disciplinas do campo aberto, somando todas as edições da instituição (estimadas pelo classificador).
+  function subcamposVunesp(contagem) {
+    const v = estado.vunesp;
+    const disciplinas = disciplinasDoCampo(v.campo);
+    if (!disciplinas.length) return null;
+    if (!contagem.completa) return h('p.nota-rodape.subcampos-nota', null, 'Contando questões por disciplina…');
+    const presentes = disciplinas.filter(d => contagem.total.has(d.id));
+    if (presentes.length < 2) return null;
+    const botao = (id, nome, n) => h('li', null,
+      h('button.subcampo', { type: 'button', 'aria-current': String(v.disciplina === id), onclick: () => trocarDisciplinaVunesp(id) },
+        h('span', null, nome), h('span.campo-num', null, n)));
+    return h('ul.subcampos', { 'aria-label': 'Disciplinas' },
+      botao('todas', 'Todas', contagem.questoes),
+      presentes.map(d => botao(d.id, d.nome, contagem.total.get(d.id))));
+  }
+
 
   function classeNavVunesp(ed, q) {
     const reg = store.get(idVunesp(ed, q));
@@ -790,7 +902,11 @@
     const v = estado.vunesp;
     const cad = cadernoAtual(ed);
     const numeros = numerosDoCaderno(ed, cad);
-    const redacao = temRedacao(ed, cad);
+    const redacao = temRedacao(ed, cad) && v.disciplina === 'todas';
+
+    if (numeros && !numeros.length && !redacao) {
+      return h('p.aviso', { id: 'q-nav' }, `Nenhuma questão de ${BQ.classificador.nome(v.disciplina)} neste caderno.`);
+    }
 
     if (!numeros) {
       // Sem a numeração do caderno no catálogo, o aluno informa o número da questão.
@@ -817,16 +933,59 @@
 
   // Índice do caderno baixado: null = caderno sem cópia local; undefined = ainda carregando.
   const indicesProntos = new Map();
+  const indicesPedidos = new Map();
+  const aguardandoTela = new Set();
+  function pedirIndice(cad) {
+    const url = cad.local.indice;
+    if (!indicesPedidos.has(url)) {
+      indicesPedidos.set(url, BQ.recortes.carregarIndice(url)
+        .then(dados => indicesProntos.set(url, dados), () => indicesProntos.set(url, { erro: true })));
+    }
+    return indicesPedidos.get(url);
+  }
+
   function indiceDoCaderno(cad) {
     if (!cad || !cad.local) return null;
     const url = cad.local.indice;
-    if (!indicesProntos.has(url)) {
-      indicesProntos.set(url, undefined);
-      BQ.recortes.carregarIndice(url)
-        .then(dados => indicesProntos.set(url, dados), () => indicesProntos.set(url, { erro: true }))
-        .then(() => { if (estado.prova === 'vunesp' && cadernoAtual(edicaoAtual()) === cad) renderEnunciado(); });
+    if (!indicesProntos.has(url) && !aguardandoTela.has(url)) {
+      aguardandoTela.add(url);
+      pedirIndice(cad).then(() => {
+        aguardandoTela.delete(url);
+        if (estado.prova === 'vunesp' && cadernoAtual(edicaoAtual()) === cad) renderEnunciado();
+      });
     }
     return indicesProntos.get(url);
+  }
+
+  // Para contar as disciplinas, carrega de uma vez os índices de todos os cadernos da instituição (~1 MB na Unesp).
+  const instituicoesPedidas = new Set();
+  function carregarIndicesDaInstituicao(inst) {
+    if (instituicoesPedidas.has(inst)) return;
+    instituicoesPedidas.add(inst);
+    const cadernos = CATALOGO.filter(ed => ed.instituicao === inst).flatMap(ed => (ed.cadernos || []).filter(c => c.local));
+    Promise.all(cadernos.map(pedirIndice)).then(() => {
+      if (estado.prova === 'vunesp' && estado.vunesp.instituicao === inst) renderSidebar();
+    });
+  }
+
+  // Disciplina e assunto de cada questão do caderno, calculados uma vez por caderno.
+  const classesProntas = new Map();
+  function classesDoCaderno(ed, cad) {
+    if (classesProntas.has(cad)) return classesProntas.get(cad);
+    const indice = indiceDoCaderno(cad);
+    if (!indice || indice.erro) return indice === undefined ? undefined : null;
+    const daParte = x => (x.parte || 0) === (cad.local.parte || 0); // arquivos com Prova I e Prova II
+    const mapa = new Map();
+    indice.questoes.filter(daParte).forEach(q => {
+      if (mapa.has(q.n)) return;
+      const apoios = indice.apoios.filter(a => a.de <= q.n && q.n <= a.ate && daParte(a));
+      // Bloco de uma disciplina só (estrutura fixa do caderno, no catálogo): a disciplina vem dali.
+      const fixa = Object.entries(cad.disciplinas || {}).find(([, faixa]) => (faixaParaLista(faixa) || []).includes(q.n));
+      mapa.set(q.n, BQ.classificador.classificar({ apoio: apoios.map(a => a.texto).join(' '), texto: q.texto },
+        areaDaQuestao(ed, cad, q.n), fixa ? fixa[0] : null, !!cad.disciplinas));
+    });
+    classesProntas.set(cad, mapa);
+    return mapa;
   }
 
   function areaDaQuestao(ed, cad, numero) {
@@ -850,12 +1009,7 @@
     const daParte = x => (x.parte || 0) === (cad.local.parte || 0); // arquivos com Prova I e Prova II
     const q = ehRedacao ? indice.redacao : indice.questoes.find(x => x.n === numero && daParte(x));
     const apoios = ehRedacao ? [] : indice.apoios.filter(a => a.de <= numero && numero <= a.ate && daParte(a));
-    // bloco de uma disciplina só (estrutura fixa do caderno, no catálogo): a disciplina vem dali
-    const fixa = Object.entries(cad.disciplinas || {}).find(([, faixa]) => (faixaParaLista(faixa) || []).includes(numero));
-    const classe = q && !ehRedacao
-      ? BQ.classificador.classificar({ apoio: apoios.map(a => a.texto).join(' '), texto: q.texto },
-        areaDaQuestao(ed, cad, numero), fixa ? fixa[0] : null, !!cad.disciplinas)
-      : null;
+    const classe = q && !ehRedacao ? (classesDoCaderno(ed, cad) || new Map()).get(numero) : null;
 
     const cabecalho = h('div.q-sub', null,
       h('h2', null, titulo),
@@ -902,7 +1056,10 @@
 
     if (cadernos.length > 1) {
       wrap.append(h('div.chips', null, cadernos.map((c, i) =>
-        h('button.chip', { type: 'button', 'aria-pressed': String(c === cad), onclick: () => trocarCaderno(i) }, c.rotulo || `Caderno ${i + 1}`))));
+        h('button.chip', {
+          type: 'button', 'aria-pressed': String(c === cad), onclick: () => trocarCaderno(i),
+          disabled: v.disciplina !== 'todas' && c.local && !(numerosDoCaderno(ed, c) || []).length ? '' : null,
+        }, c.rotulo || `Caderno ${i + 1}`))));
     }
 
     const local = cad && cad.local;
@@ -931,6 +1088,7 @@
     }
 
     wrap.append(navegadorVunesp(ed));
+    if (local && v.questao === null) return wrap; // nenhuma questão da disciplina escolhida neste caderno
 
     if (local) {
       wrap.append(questaoRecortada(ed, cad));
@@ -1024,7 +1182,7 @@
   function respostaVunesp() {
     const v = estado.vunesp;
     const ed = edicaoAtual();
-    if (!ed) return [];
+    if (!ed || v.questao === null) return [];
     const id = idVunesp(ed);
     const reg = store.get(id) || {};
     const ehRedacao = v.questao === 'redacao';
@@ -1121,12 +1279,12 @@
   // ---------- Render ----------
   function renderSidebar() {
     const fonte = estado.prova === 'enem'
-      ? 'ENEM (INEP): 2009 e 2010 pela API aberta enem.dev; 2011 a 2025 dos cadernos oficiais. Disciplina e assunto são estimados automaticamente.'
-      : 'Cadernos oficiais da Vunesp e da Unesp; edições sem caderno oficial abrem cópias de terceiros. Resoluções em sites de terceiros.';
+      ? 'ENEM (INEP): 2011 a 2025 recortados dos cadernos oficiais, com a reaplicação de 2021 a 2025 e a aplicação de Belém (2025); 2009 e 2010 pela API aberta enem.dev. Disciplina e assunto são estimados automaticamente.'
+      : 'Cadernos oficiais da Vunesp e da Unesp; onde o oficial não pode ser baixado, cópias de terceiros. Disciplina e assunto são estimados automaticamente.';
     elSidebar.replaceChildren(
       h('div', null,
         h('span.side-label', null, 'Prova'),
-        seg([{ v: 'enem', t: 'ENEM' }, { v: 'vunesp', t: 'Vunesp 2ª fase' }], estado.prova, trocarProva)),
+        seg([{ v: 'enem', t: 'ENEM' }, { v: 'vunesp', t: 'Vunesp' }], estado.prova, trocarProva)),
       ...(estado.prova === 'enem' ? sidebarEnem() : sidebarVunesp()),
       h('p.side-foot', null, fonte));
   }
@@ -1145,8 +1303,8 @@
     let discursivas = 0;
     for (const id of store.ids()) {
       const reg = store.get(id);
-      if (id.startsWith('enem:') && reg.conf) { conferidas++; if (reg.ok) acertos++; }
-      if (id.startsWith('vunesp:') && (reg.texto || reg.r)) discursivas++;
+      if (reg.conf) { conferidas++; if (reg.ok) acertos++; } // ENEM e objetivas da Vunesp com gabarito
+      else if (id.startsWith('vunesp:') && reg.texto) discursivas++;
     }
     const partes = [];
     if (conferidas) {

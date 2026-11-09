@@ -660,6 +660,32 @@ def questoes_de_idioma(ano):
     return range(1, 6) if ano >= 2017 else range(91, 96) if ano >= 2010 else range(0)
 
 
+# cabeçalho/rodapé da página e título de área no alto ("CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS")
+CABECALHO_ENEM = re.compile(r'(?i)^(\*[A-Z0-9]+\*|\d{4}|enem|exame|nacional|do|ensino|m[ée]dio|caderno|\d+|-|–|\||azul|p[áa]gina|dia|[º°]|1º|2º|ch|cn|lc|mt|\d+º'
+                            r'|ci[êe]ncias|da|natureza|humanas|linguagens,?|c[óo]digos|matem[áa]tica|e|suas|tecnologias|quest[õo]es|de|a)$')
+
+
+def sem_cabecalho(doc, recortes):
+    """Tira os pedaços de recorte que só têm cabeçalho/rodapé da página (código de barras *AZUL75SAB3*,
+    ano, "CN - 1º dia | Caderno 1 - AZUL - Página 16"): sobram quando a questão termina no pé de uma
+    coluna e o recorte segue pelo topo da coluna seguinte (~100 por ano). Pedaço com figura fica."""
+    if len(recortes) < 2:
+        return recortes
+    saida = []
+    for r in recortes:
+        p, x0, y0, x1, y1 = r
+        pag = doc[p - 1]
+        area = fitz.Rect(x0, y0, x1, y1)
+        palavras = [w[4] for w in pag.get_text('words') if w[0] >= x0 - 1 and w[2] <= x1 + 1 and w[1] >= y0 - 1 and w[3] <= y1 + 1]
+        figura = any((fitz.Rect(c) & area).height > 6 and (fitz.Rect(c) & area).width > 20
+                     for c in [i['bbox'] for i in pag.get_image_info()])
+        borda = y0 < 30 or y1 > pag.rect.height - 60
+        if borda and y1 - y0 < 90 and not figura and all(CABECALHO_ENEM.match(w) for w in palavras):
+            continue
+        saida.append(r)
+    return saida or recortes
+
+
 APLICACOES = {'reaplicacao': 'Reaplicação', 'belem': 'Aplicação de Belém, Ananindeua e Marituba'}
 
 
@@ -689,6 +715,7 @@ def processar_enem():
         for prova in pdfs:
             gabarito = ler_gabarito(prova.with_name(prova.name.replace('_PV_', '_GB_')))
             dados = extrair(prova)
+            doc = fitz.open(prova)
             arquivo = prova.relative_to(RAIZ).as_posix()
             for q in dados['questoes']:  # (no ENEM a repetição de 1 a 5 é a versão por idioma, não outra parte)
                 n = q['n']
@@ -699,7 +726,8 @@ def processar_enem():
                     resposta = resposta[0 if idioma != 'espanhol' else 1]
                 apoios = [a for a in dados['apoios'] if a['de'] <= n <= a['ate'] and a.get('parte', 0) == q.get('parte', 0)]
                 questoes.append({'numero': n, 'idioma': idioma, 'area': area_enem(n, ano), 'gabarito': resposta, 'pdf': arquivo,
-                                 'apoio': [r for a in apoios for r in a['recortes']], 'recortes': q['recortes'],
+                                 'apoio': sem_cabecalho(doc, [r for a in apoios for r in a['recortes']]),
+                                 'recortes': sem_cabecalho(doc, q['recortes']),
                                  'texto': ' '.join([a['texto'] for a in apoios] + [q['texto']])})
             if dados['redacao'] and not redacao:  # proposta de redação, no caderno do 1º dia
                 # a proposta do ENEM cabe numa página; o que passa dela é o cabeçalho da página seguinte

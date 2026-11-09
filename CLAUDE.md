@@ -1,7 +1,7 @@
 # Banco de Questões — ENEM e Vunesp 2ª fase
 
-Plataforma de estudos em construção: questões do ENEM e das provas discursivas (2ª fase) aplicadas
-pela Vunesp, com campos à esquerda, enunciado ao centro e resposta + resolução à direita, e tema
+Plataforma de estudos em construção: questões do ENEM e dos vestibulares aplicados pela Vunesp (2ª fase
+discursiva e, desde 09/11/2026, também as provas objetivas de 2022 em diante e a 1ª fase da Unesp), com campos à esquerda, enunciado ao centro e resposta + resolução à direita, e tema
 claro/escuro. O dono do projeto fala português e trabalha por refinamentos sucessivos ("vamos
 começar assim e depois refinamos"): entregue algo que funcione e diga com clareza o que ficou de fora.
 
@@ -103,10 +103,12 @@ bate com a do caderno azul (178 conferidas por texto); a API não tem a 34 nem a
 ## Pipeline
 
 ```bash
+python3 ferramentas/acrescentar-objetivas.py                # cadernos objetivos 2022+ no levantamento
 node ferramentas/baixar-cadernos.js [--copias] [--listar]   # Vunesp -> provas/ + manifesto.json
 bash ferramentas/baixar-enem.sh [ano ...]                   # INEP  -> provas/enem
 python3 ferramentas/extrair-questoes.py [vunesp|enem]       # -> data/questoes/**, data/enem/*.json
 node ferramentas/gerar-catalogo.js                          # -> data/vunesp-catalogo.js
+python3 ferramentas/gabaritos-vunesp.py [--oficiais]        # -> data/gabaritos/ (oficial + Curso Objetivo)
 node ferramentas/avaliar-classificador.js                   # distribuição por disciplina/assunto
 python3 ferramentas/exportar.py                             # pacotes zip em exportar/ (com e sem PDFs)
 ```
@@ -161,6 +163,19 @@ Casos que já deram trabalho e estão tratados (não desfazer sem testar):
   p. 30: a continuação da 86 fica no alto da coluna direita; Unifesp 2008 3º dia q19/q20 estavam trocadas).
 - Marca-d'água "RASCUNHO" girada, marcador partido em dois pedaços ("questão" + "01"), marcador
   duplicado, "QUESTÃ" sem o O, instrução quebrada por hífen, redação sem título em texto.
+- Trazidos da versão corp em 09/11/2026 (regressão completa; nenhuma chave com conteúdo mudou de
+  questão): coluna direita por sobreposição vertical, com folga de 12 pt para texto que começa antes
+  da divisa (Famema 2024 Prova II, antes inaproveitável) e sem contar rótulos dentro de figura larga;
+  linha alta na divisa entre faixas fica na faixa que contém o meio dela; tabela numérica larga é
+  faixa de largura inteira (Santa Casa 2026 p. 10); apoio em inglês ("to answer questions 11 to 14":
+  o texto em inglês deixou de ficar grudado na questão 10 do Einstein Prova I, Santa Casa, Famerp,
+  Famema); hífen invisível U+00AD; página 2 só é capa se tiver cara de capa (Unesp 2026 1ª fase);
+  tabela periódica numa página com questão não encerra a prova (Unesp 2025/2 1ª fase, q67–69);
+  bordas até o fim das palavras à direita (`sem_corte_a_direita`) e embaixo (`sem_corte_embaixo`,
+  até 10 pt) e, nos cadernos de uma questão por página, até o fim do texto (`ate_o_fim_do_texto`).
+  A faixa da coluna recua até o início real das linhas que recebeu, mas só se a nova borda não cortar
+  uma linha de outra coluna (sem essa trava, 48 recortes de Unifesp 2003–2009, Einstein 2018 e ENEM
+  2011/2019 mostravam lascas da coluna vizinha).
 - O relatório do script lista `FALTAM [...]` quando a numeração não bate com o catálogo. Os da
   FICSAE (51–55) são só rótulo do catálogo; o caderno numera 1–5.
 
@@ -174,6 +189,18 @@ inclusive em PDF com CropBox deslocada).
 - `local` só entra se o índice tiver numeração contínua e nenhuma questão reduzida à tarja;
   senão o caderno abre como PDF inteiro.
 - Com questões locais, as cópias redundantes saem da tela.
+- Parte idêntica a outra no mesmo arquivo (Famema 2024 traz a Prova I duas vezes) não aparece duas vezes.
+- `local.fonte`/`local.oficial` dizem de onde veio o arquivo aberto; o selo da tela segue isso
+  ("cópia · Curso Objetivo" quando o oficial existe mas não baixa, com o oficial em "Outras fontes").
+- Unesp 1ª fase (90 objetivas, 2023 a 2026/2) é edição própria (`fase: "1ª fase"`), sem as `faixas` da 2ª.
+- Estrutura fixa por caderno (`ESTRUTURAS`, fora da Unesp, e Unesp 1ª fase): reconhecido pela
+  instituição + quantidade de questões, recebe `faixas` por campo e, quando o bloco é de uma
+  disciplina só, `disciplinas`; a tela usa as do caderno antes das da edição e não estima a disciplina
+  onde ela é fixa. Só nos anos conferidos (`ESTRUTURA_DESDE`: Famema 2018+, Famerp 2019+, Unifesp
+  2018+). Famema Prova II (40): Português/Literatura 1–10, Matemática 11–20, Humanas 21–30, Inglês
+  31–35, Física 36–40; Famerp e Santa Casa Conhecimentos Gerais (80): 10 de cada, na ordem Português,
+  Inglês, História, Geografia, Biologia, Química, Física, Matemática; Einstein Prova I (50); FMJ;
+  Unifesp 1º/2º dia. Os rótulos mudam, os índices dos cadernos (que entram nos ids) não.
 - Unesp: `numeracao_unica` (1–36 ou 1–60 de ponta a ponta) e `faixas` por campo, exceto nas
   edições marcadas `numeracao_por_caderno` (2005/2–2009/2: cada dia recomeça e o 2º dia tem três
   versões por área), que funcionam como as outras instituições (o id leva o índice do caderno).
@@ -181,7 +208,8 @@ inclusive em PDF com CropBox deslocada).
   antiga, inglês/francês da Unifesp 2008–2011); `versao` separa versões em arquivos distintos com a
   mesma numeração (Unesp 2005/2). Padrão
   confirmado pelas capas de 2011 em diante: Humanas 1–12, Natureza/Matemática 13–24, Linguagens
-  25–36. Em 2010 era Natureza 1–12, Humanas 13–24. De 2021 a 2023 a 2ª fase foi objetiva
+  25–36. Em 2010 era Natureza 1–12, Humanas 13–24 (a versão corp concluiu o contrário: os arquivos
+  do Foco Medicina de 2010 vêm com os nomes trocados; não conferido aqui). De 2021 a 2023 a 2ª fase foi objetiva
   (Linguagens 1–20, Humanas 21–40, Natureza/Matemática 41–60; ordem inferida, não conferida).
 
 ## Formatos
@@ -209,6 +237,10 @@ Registros do aluno ficam só no navegador (`localStorage`): `bq:registros:v1` (p
 ## Classificador (`js/classificador.js`)
 
 Pontuação por palavras-chave, restrita às disciplinas da área; sem área conhecida concorrem todas.
+Desde 09/11/2026 (versão corp): o comando (o que vem depois da última referência de fonte) pesa mais
+que o texto de apoio; cada item a)/b) é julgado pelo que pede, e a disciplina de um item que destoa
+volta em `tambem` (etiqueta extra na tela); apoio em língua estrangeira decide pela língua;
+`classificar(q, area, fixa, semLinguas)` aceita a disciplina fixa da estrutura do caderno.
 É uma estimativa e erra: no piloto, a questão 150 de 2025 (proporção) saiu como "Geometria
 espacial". Nunca foi medido contra uma amostra corrigida à mão; o que existe é a distribuição
 (`avaliar-classificador.js`): Natureza fica em 12–16 por disciplina; Humanas oscila mais
@@ -260,7 +292,17 @@ Linguagens 91–135 (idiomas 91–95), Matemática 136–180: dê a faixa certa 
 
 ## Gabarito das objetivas da Vunesp (`ferramentas/gabaritos-vunesp.py`)
 
-Não há gabarito aberto (o site da Vunesp recusa programas). O script baixa as resoluções comentadas do
+Duas origens, e a oficial prevalece. **Oficial** (09/11/2026): o arquivo de gabarito da própria Vunesp
+(com o código do concurso, versão do dia da prova, antes dos recursos), em `provas/gabaritos-vunesp/`,
+ligado ao caderno por `LIGACOES`: 41 cadernos, 2.470 questões (Unesp 1ª fase 2023–2026/2 e 2ª fase
+2022–2023, Famerp e Santa Casa Conhecimentos Gerais 2022+, Einstein Prova I 2022+, FMJ Prova II
+2024+, Famema 2024–2026, Unifesp 1º dia 2018–2026). Nas 428 questões que as duas origens cobriam,
+as letras coincidiram. `--oficiais` refaz só essa parte, sem baixar nada. O arquivo de cada caderno
+lista em `oficial` as chaves da Vunesp (e `anuladas`); a tela diz "Gabarito oficial da Vunesp" ou
+"…do Curso Objetivo (não oficial)". Famema 2022: o gabarito oficial tem quatro tipos de prova e não
+diz qual é o caderno; ficou o do Objetivo.
+
+**Curso Objetivo** (não há gabarito aberto antes de 2022). O script baixa as resoluções comentadas do
 Curso Objetivo (PDF, em `trabalho/gabaritos/`, fora do site), parte em blocos pela letra da resposta e
 casa cada objetiva recortada com o bloco de mais palavras em comum — o número não é usado. Três
 formatos: "Resposta: X" depois da questão (2015+); "3" / "B" antes do enunciado (até 2014); só a letra
@@ -308,11 +350,18 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 ## Estado
 
 - ENEM: 17 anos (2009–2025); 2011–2025 dos cadernos do INEP (com redação); resoluções em 2011–2025.
-- Vunesp (06/11/2026): 108 edições no catálogo, 194 cadernos com questões extraídas, 4.290 questões
-  na tela. Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
+- Vunesp (09/11/2026): 115 edições no catálogo, 229 cadernos com questões locais, 6.400 questões na
+  tela (eram 4.290; entraram 28 cadernos objetivos de 2022+ e a Famema 2024 Prova II). Antes: Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
   Santa Casa 10 (200), Einstein 10 (145), FMJ 4 (44).
-- `provas/`: 168 PDFs da Vunesp (52 oficiais, 95 do Curso Objetivo, 21 do Foco Medicina) e 8 do
-  INEP, 255 MB. As cópias de terceiros foram verificadas: sem JavaScript, ação automática ou anexo.
+- `provas/`: 196 PDFs da Vunesp (52 oficiais, 123 do Curso Objetivo, 21 do Foco Medicina), os do INEP
+  e 42 gabaritos oficiais da Vunesp em `provas/gabaritos-vunesp/`, ~500 MB. As cópias de terceiros foram verificadas: sem JavaScript, ação automática ou anexo.
+- Unificação com a versão corp (09/11/2026): objetivas 2022+, gabaritos oficiais, 2.206 resoluções,
+  ajustes do extrator, estruturas por caderno, classificador novo e aviso de questão incompleta da API
+  (`falhasDaFonte`, só 2009 e 2010; medido: nenhuma questão desses anos é marcada hoje). Não vieram:
+  o ENEM 2021–2023 pela API e `gabaritos-inep`/`corrigirGabarito` (aqui já é caderno + gabarito do
+  INEP). Ficaram só na pasta corp: reaplicação do ENEM 2021–2025 e aplicação de Belém 2025
+  (6 provas, 1.110 questões, com resoluções) e as respostas-modelo das discursivas que lá cobrem
+  edições que aqui não têm; o filtro por disciplina na Vunesp também existe só lá.
 - Rodada de conteúdo de 06/11/2026: Einstein 2027; Famerp 2015–2017; Famema 2016–2017; Unifesp
   2003–2017 (exceto 2007); Unesp 2011 (25–36) e 2010/2 (1–24) pelo Foco; Unesp 2005/2–2009/2.
 - Desde 11/2026 o site da Vunesp recusa (403) o `fetch` do Node e o `curl`, nas listas e nos PDFs;
@@ -335,37 +384,28 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
   UNILUS e outros; edições 2027 de Famerp e Famema (inscrições abertas em 06/11/2026), Unifesp
   2027 e Unesp 2027 (2ª fase ainda não aplicada).
 
-## TRABALHO EM ANDAMENTO (08/11/2026) — retomar aqui
+## Resoluções comentadas das objetivas da Vunesp
 
-Resoluções comentadas das **objetivas da Vunesp**, ancoradas no gabarito do Curso Objetivo
-(`data/gabaritos/`). Autorizado pelo dono. Estado: 28 lotes de ~50 questões (1.393 no total); 9 lotes
-publicados (01, 02, 03, 05, 08, 09, 10, 12, 13 = 450 resoluções, commit seguinte a 8c68ada). Faltam
-os lotes 04, 06, 07, 11, 14 e 15 a 28.
+Ficam em `data/respostas-modelo/` (mesmo formato das respostas-modelo; a resposta termina em
+`**Resposta: X**` igual ao gabarito) e aparecem depois de "Conferir resposta". Estado em 09/11/2026:
+**todas as objetivas com gabarito têm resolução** (3.435: 3.356 alta, 72 media, 7 baixa). Origem:
+- 450 dos primeiros 9 lotes (08/11/2026);
+- 2.206 trazidas da versão corp (objetivas 2022+ e Unifesp 1º dia 2018–2021), convertidas da chave
+  `<pdf>#parte:n` para lotes do `validar.py`, ligando cada PDF ao índice pelo manifesto e conferindo
+  que o texto da questão é o mesmo nas duas extrações (as que já existiam aqui não foram tocadas);
+- 779 antigas que faltavam (Unifesp 2003–2020, Famema 2020–2022, Einstein 2019–2020, Unesp 2021),
+  `preparar.py UNIFESP,FAMEMA,UNESP,FICSAE,FAMERP,FCMSCSP,FMJ:2000-2030 --objetivas --sem-resposta
+  --lote 50 --pasta objetivas-restantes`, 16 agentes em paralelo (~150 mil tokens e ~5 min cada):
+  758 alta, 16 media, 5 baixa.
 
-Como continuar (o material de trabalho fica em `trabalho/`, que não vai para o git):
+Merecem olhar humano (a resolução não chegou ao gabarito do Curso Objetivo; pode ser erro do casamento
+automático do gabarito): Einstein 2019 q10 (silepse: o agente acha D; as questões 9 e 10 usam a mesma
+tira, e o texto da 10 mudou com o extrator novo depois de o gabarito ser casado), Unifesp 2014 q3,
+2013 q3, 2010 q10 e 2005 q23. Famema 2022 q31–35 ficaram "media": o texto em inglês ("READ THE
+FOLLOWING TEXT…", sem números) não é reconhecido como apoio e não entra no recorte.
 
-1. Se `trabalho/respostas-modelo/objetivas/lote-NN.json` não existir nesta máquina, gere de novo
-   (mesma divisão em lotes, pois a ordem do catálogo não mudou):
-   `python3 ferramentas/respostas-modelo/preparar.py UNIFESP,FAMEMA,UNESP,FICSAE:2000-2030 --objetivas --lote 50 --pasta objetivas`
-   (PyMuPDF: `pip3 install -r requirements.txt`).
-2. Para cada lote que falta, um agente em segundo plano com este pedido:
-   "Leia ferramentas/respostas-modelo/instrucoes-objetivas.md e siga à risca o roteiro entre as linhas
-   ---, com {LOTE} = lote-NN e {PASTA} = <caminho absoluto de trabalho/respostas-modelo/objetivas>.
-   Rascunhos só numa subpasta própria do scratchpad. Termine com o relatório final pedido."
-   Se existir um `respostas-lote-NN.json` parcial, diga ao agente para continuar dele. Rode vários
-   lotes em paralelo (10–14 de cada vez funcionou).
-3. Leia os relatórios: questões "baixa" (resolução não chegou ao gabarito) merecem um olhar na imagem.
-4. `python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/objetivas` até não haver
-   problemas; então `... --gravar` (ou `--gravar --parcial` para publicar só os lotes completos). O
-   gravar mescla com o que já está em `data/respostas-modelo/` (discursivas e lotes anteriores).
-5. Conferir no site uma objetiva com resolução: a resolução só aparece depois de "Conferir resposta"
-   (testar num navegador sem conta logada, para não gravar registro de teste no progresso da Kamila).
-6. Commit e push em `main` (o site republica em ~1 min); atualizar este arquivo: apagar esta seção e
-   registrar o resultado em "Gabarito das objetivas da Vunesp" (contagens por confiança, as "baixa").
-
-Ressalva para registrar: o gabarito vem no próprio lote, então o agente o vê antes de resolver; a
-resolução justifica o gabarito, mas não é uma confirmação independente dele (diferente do ENEM, em que
-o roteiro também traz o gabarito, mas é o oficial do INEP).
+Ressalva: o gabarito vem no lote, então o agente o vê antes de resolver; a resolução justifica o
+gabarito, mas não é confirmação independente dele.
 
 ## Combinado com o dono do projeto
 

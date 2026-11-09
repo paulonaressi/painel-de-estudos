@@ -1,0 +1,257 @@
+{
+ "indice": "data/questoes/unifesp/2003_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra a leitura da tirinha a partir dos recursos gráficos dos quadrinhos.\n\nNos quadrinhos 1 e 3, Cebolinha abre a boca e há balões de fala saindo dele, mas vazios, enquanto o espaço em volta está tomado por \"piu piu piu\", onomatopeias do passarinho. Ou seja, ele falou, mas não se ouve nada: o piado insistente encobre sua voz. No último quadrinho, ele recorre a um megafone para conseguir ser ouvido declamando sua versão da \"Canção do exílio\".\n\nA A erra ao dizer que ele ficou calado (os balões existem, ligados a ele). B, D e E inventam explicações (voz baixa, esquecimento, palavrões) que o desenho não sustenta; o megafone confirma que o problema era o barulho.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão cobra o reconhecimento de intertextualidade com a \"Canção do exílio\".\n\nOs versos citados (\"Teus risonhos lindos campos têm mais flores\", \"Nossos bosques têm mais vida\", \"Nossa vida no teu seio mais amores\") estão no Hino Nacional Brasileiro, com letra de Joaquim Osório Duque Estrada, oficializada em 1922. Eles retomam quase literalmente dois versos de Gonçalves Dias (\"Nossos bosques têm mais vida, / Nossa vida mais amores\"), que o hino inclusive cita entre aspas.\n\nAs outras obras também dialogam com a \"Canção do exílio\" (Drummond, Tom Jobim e Chico, Oswald, Cassiano Ricardo), mas por paródia ou recriação, sem conter esses versos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão cobra o uso de maiúsculas e a distinção entre substantivo comum e próprio.\n\nNa segunda tirinha, um cachorro diz que sua terra tem Corinthians e o outro corrige citando o verso original entre aspas: \"Minha terra tem palmeiras\". A graça está no duplo sentido (o time Palmeiras e as palmeiras do poema), mas a frase entre aspas é a citação do poema de Gonçalves Dias. Na citação, \"palmeiras\" é a árvore: substantivo comum, escrito com inicial minúscula.\n\nA A é tentadora pelo trocadilho com o time, mas a citação literal do poema exige a grafia original. C e E se contradizem (comum com maiúscula; nome de planta como próprio) e D inventa um valor adjetivo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra as marcas românticas da \"Canção do exílio\".\n\nEscrito por Gonçalves Dias em Portugal, o poema exalta a terra natal (palmeiras, sabiá, céu com mais estrelas), expressa saudade e desejo de voltar (\"Não permita Deus que eu morra / Sem que eu volte para lá\") e trata o tema com emoção e subjetividade. Nacionalismo, saudosismo e sentimentalismo são traços típicos do Romantismo — alternativa B.\n\nA A descreve o Classicismo/Arcadismo; o poema tem linguagem simples, sem ornamentos excessivos. A C erra no verso livre (o poema usa redondilha maior) e no hermetismo. A D fala em objetividade, contrária ao lirismo do poema, e a E em descrença e ordem cronológica, que não aparecem.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra a identificação da zeugma, elipse de um termo já expresso antes.\n\nNa segunda estrofe, os três primeiros versos repetem o verbo \"ter\" (\"Nosso céu tem mais estrelas\", \"Nossas várzeas têm mais flores\", \"Nossos bosques têm mais vida\"). No quarto, \"Nossa vida mais amores\", o verbo some, mas fica subentendido: \"Nossa vida [tem] mais amores\". É a zeugma.\n\nNas outras alternativas não há termo omitido que tenha sido enunciado antes: em A, B, C e E as orações estão completas (em E, o verbo \"tem\" está expresso).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra a escansão da redondilha maior (sete sílabas poéticas), com tônicas na 3ª e na 7ª.\n\nContando até a última tônica e fazendo as elisões:\n- Mi-nha-TER-ra-tem-pal-MEI(-ras): 3ª e 7ª.\n- Nos-so-CÉU-tem-mais-es-TRE(-las): 3ª e 7ª.\n- Em-cis-MAR-so-ZI-nho à-NOI(-te): 3ª, 5ª e 7ª — mantém o padrão.\n- On-de-CAN-ta o-Sa-bi-Á: 3ª e 7ª.\n- As-A-ves-que a-QUI-gor-JEI(-am): tônicas na 2ª, 5ª e 7ª.\n\nSó o verso de B não tem acento na 3ª sílaba (\"ves\" é átona), fugindo do padrão.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra a função dos pronomes relativos \"onde\" e \"que\" nas falas da tirinha.\n\nEm \"Minha terra tem Corinthians, onde canta o sabiá!\", \"onde\" é pronome relativo: retoma \"minha terra\" (o lugar em que canta o sabiá) e introduz uma oração subordinada adjetiva. A frase imita o verso de Gonçalves Dias, em que \"onde\" se refere a \"minha terra\", e não ao time.\n\nEm \"cada um tem o time que quiser\", \"que\" é pronome relativo que retoma \"o time\" e introduz outra oração adjetiva (\"o time que [cada um] quiser\").\n\nAs alternativas que falam em oração adverbial confundem o relativo \"onde\" (com antecedente) com o advérbio; C e E erram os antecedentes (\"Corinthians\", \"cada um\").\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão cobra a identificação do tempo e modo verbal de \"quiser\".\n\n\"Quiser\" é o futuro do subjuntivo do verbo \"querer\" (quando eu quiser, quando ele quiser…), usado aqui numa oração adjetiva que indica algo hipotético e futuro: o time que cada um vier a querer. O sujeito é \"cada um\", terceira pessoa do singular.\n\nNão é infinitivo (A, E) — o infinitivo é \"querer\". O pretérito imperfeito do subjuntivo seria \"quisesse\" (B), e o futuro do pretérito do indicativo seria \"quereria\" (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra o conceito de intertextualidade aplicado à canção \"Cálice\".\n\nA primeira estrofe da canção retoma, com quase as mesmas palavras, a súplica de Jesus no Evangelho de Lucas (\"Pai, afasta de mim esse cálice\"), repetida três vezes e acrescida do \"vinho tinto de sangue\". Há, portanto, reaproveitamento da forma (estrutura da frase, vocativo, verbo, objeto) e do conteúdo (pedido para se livrar do sofrimento). É intertextualidade — alternativa A.\n\nAs alternativas que negam a intertextualidade (B, C, E) partem da ideia errada de que é preciso copiar o texto inteiro ou manter o sentido original; a transformação política do sentido, aliás, é justamente um efeito da intertextualidade. A D a limita indevidamente à morfossintaxe.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra a análise sintática do verso \"Pai, afasta de mim esse cálice\".\n\n- \"Pai\": vocativo (chamamento, separado por vírgula; não é sujeito).\n- Sujeito oculto: \"tu\" (quem deve afastar é o Pai, a quem se dirige o pedido).\n- \"afasta\": imperativo afirmativo, 2ª pessoa do singular (afasta tu) — é um pedido.\n- \"de mim\": objeto indireto (afastar algo de alguém).\n- \"esse cálice\": objeto direto (o que deve ser afastado).\n\nA D reúne todos esses elementos. A A toma \"Pai\" por sujeito; B e C falam em presente do indicativo, 3ª pessoa; a E fala em subjuntivo e transforma \"esse cálice\" em sujeito.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão cobra o conceito de dígrafo: duas letras para um único som.\n\nNa alternativa C, todas as palavras têm dígrafo:\n- queres: \"qu\" (som de /k/);\n- vinho: \"nh\";\n- sangue: \"an\" (vogal nasal) e \"gu\" (som de /g/);\n- dessa: \"ss\";\n- filho: \"lh\".\n\nNas outras sempre há palavra sem dígrafo: \"Pai\", \"tua\", \"tragar\" (A); \"afasta\", \"dor\", \"seria\" (B); \"amarga\", \"escuta\" (D); \"feita\", \"bruta\" (E). Cuidado com encontros vocálicos (\"ai\", \"ei\"): são duas letras e dois sons, não dígrafos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão cobra a coesão estabelecida pela conjunção adversativa \"contudo\" no texto bíblico.\n\nA frase completa é \"Pai, se queres, afasta de mim este cálice! Contudo, não a minha vontade, mas a tua seja feita!\". A condição \"se queres\" deixa implícita a possibilidade contrária, \"se não queres\". \"Contudo\" introduz a ressalva que vale para esse caso: ainda que Jesus deseje escapar do sofrimento, se o Pai não quiser, que não se faça a vontade dele. Assim, \"contudo\" liga a oração implícita [se não queres] à oração seguinte, \"não [seja feita] a minha vontade\".\n\nA ligação entre \"a tua seja feita\" e \"não a minha\" é feita por \"mas\", não por \"contudo\" (E). B, C e D unem orações que não estão em contraste direto por meio de \"contudo\".\n\n**Resposta: A**",
+   "confianca": "media",
+   "pendencia": "A análise das orações ligadas por \"contudo\" depende de uma oração implícita proposta pela própria banca; outras leituras são defensáveis, mas a alternativa A é a que melhor se encaixa no raciocínio pedido."
+  },
+  "0:13": {
+   "resposta": "A questão cobra a identificação de rima nas linhas pares da segunda estrofe de \"Cálice\".\n\nAs linhas pares da estrofe terminam em \"labuta\", \"escuta\", \"outra\" e \"bruta\". Três delas compartilham a terminação \"-uta\" (rima consoante); \"outra\" só tem em comum o \"-a\" final e a vogal tônica não coincide, frustrando a expectativa de rima criada pelas demais.\n\nAs alternativas A e C trazem versos ímpares (\"amarga\", \"santa\"), fora do conjunto examinado; B e E são versos pares que rimam (\"escuta\", \"bruta\"). Resta o verso que termina em \"outra\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra a relação entre o trocadilho \"cálice\"/\"cale-se\" e a segunda estrofe da canção.\n\nO enunciado explica que Chico Buarque, sob a censura do regime militar, percebeu que \"cálice\" soa como \"cale-se\", ordem de silêncio. Na segunda estrofe, o verso que retoma diretamente essa ideia de calar é o que fala da boca \"calada\" e do \"peito\" que resiste: mesmo sem poder falar, resta o sentimento interior, o protesto que não se cala.\n\nAs outras alternativas tratam da amargura (A), da filiação \"santa\" ou \"outra\" (C, D, trocadilho com a \"outra\" pátria ou mãe) e de uma realidade \"menos morta\" (E), sem retomar a ordem de calar.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão cobra a identificação de marcas do narrador-testemunha num romance em 3ª pessoa.\n\nO narrador naturalista é onisciente, mas em um trecho ele se posiciona espacialmente junto aos fatos. É a frase sobre a Bruxa: ela \"Ia atirar-se cá para fora\". O advérbio \"cá\" indica o lugar de quem fala: o narrador está \"do lado de fora\", como se estivesse ali assistindo ao incêndio. É a marca mais direta e explícita de proximidade.\n\nAs outras alternativas descrevem a cena de modo impessoal, sem nenhum termo que situe o narrador no espaço; a D usa uma comparação expressiva (\"como à boca de uma fornalha\"), mas não revela a posição de quem narra.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão cobra as características do Naturalismo presentes no fragmento de *O cortiço*.\n\nNo trecho, a Bruxa ri \"ébria de satisfação\" no meio do fogo que ela própria provocou, numa \"orgia\" de loucura: o romance explora comportamentos patológicos e instintos baixos. Além disso, Aluísio Azevedo retrata a vida coletiva e os problemas sociais do Rio de Janeiro do seu tempo (fim do século XIX), o que é o enfoque contemporâneo do Naturalismo. A alternativa A traz as duas características corretas.\n\nAs outras têm sempre um erro: visão subjetivista (B), temas do passado (C), preciosismo vocabular e narrador-Deus (D) e \"elementos anticientíficos\" (E) — o Naturalismo, ao contrário, se apoia no cientificismo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra o que os dois trechos do incêndio têm em comum.\n\nNo primeiro, \"Ninguém se conhecia\" na confusão de gritos, choros e pragas: é o caos anônimo, cada um tentando se salvar. No segundo, a água aparece sem que se saiba quem a trouxe — \"Ninguém sabia dizê-lo\" —, mas baldes e mais baldes são despejados: é a ajuda coletiva, também anônima. Em comum, o anonimato: primeiro o do \"salve-se quem puder\", depois o do \"todos por todos\". É a alternativa E.\n\nA A, a B e a D distorcem os trechos (não há preocupação individual, desprezo nem apatia). A C fala em angústia, sentimento que o texto não atribui aos moradores.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra a regra normativa do pronome sujeito de infinitivo (\"para eu\" × \"para mim\").\n\nPela gramática normativa, quando o pronome é sujeito de um verbo no infinitivo, usa-se o pronome reto: \"para eu ficar ouvindo\". Em \"Que é p'ra mim ficá[r] ouvindo\", \"mim\" é o sujeito da locução \"ficar ouvindo\" — quem fica ouvindo é o próprio falante. O \"erro\" é esse, e a correção é \"p'ra eu\".\n\nNo verso de Djavan, \"Para mim, que estou\", \"mim\" é complemento da preposição (\"o que é o sofrer para mim\"), e o sujeito de \"estou\" é o relativo \"que\", logo está correto (B e C erram). A A diz que \"eu\" seria objeto direto, e a E fala em locução adverbial, justificativas erradas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão cobra o reconhecimento do encavalgamento (enjambement), quando a frase continua no verso seguinte.\n\nNas alternativas A, B, C e E, o primeiro verso fica sintaticamente incompleto e se completa no seguinte: o sujeito \"Meu bem-querer\" precisa do predicado do verso de baixo (A, B), \"Para mim, que estou\" só se completa com \"Jurado p'ra morrer de amor\" (C, E).\n\nNa D, o verso \"Acariciado pela emoção.\" termina com ponto final, encerrando a frase; o verso seguinte, \"Meu bem-querer, meu encanto,\", inicia nova frase. Não há encavalgamento entre eles.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão cobra o reconhecimento de verbos irregulares na estrofe de \"O menino da porteira\".\n\nNa alternativa E aparecem \"vinha\" (do verbo \"vir\", irregular: venho, vim, vinha) e \"é\" (do verbo \"ser\", um dos citados no enunciado). Os dois versos contêm, portanto, verbos que se desviam do paradigma da conjugação.\n\nNas outras, os verbos são regulares: \"viajava\", \"avistava\" (A, B), \"corria\" (correr) e \"abrir\" (B, C, D), \"toque\" (tocar, C) e \"ficar\" (D). Note que, em D, o verso \"Que é p'ra mim ficá[r] ouvindo\" tem o \"é\", mas está acompanhado de um verso só com verbos regulares; só a E tem verbos irregulares nos dois.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão cobra a comparação entre dois sentimentos na estrofe final de \"Meu bem-querer\".\n\nO eu lírico pergunta o que significa o sofrer para quem já está \"jurado p'ra morrer de amor\". A pergunta retórica diminui o sofrimento amoroso diante de algo muito maior: estar destinado a morrer de amor. O sofrer é, portanto, menos intenso.\n\nQuanto ao desejo: o sofrimento não é algo buscado, é apenas suportado; já a entrega total ao amor, até a morte, aparece como destino aceito, quase escolhido (\"jurado\"), e o amor é apresentado como segredo \"sagrado\". Daí a alternativa E: menos intenso, mas não desejado.\n\nAs alternativas que chamam o sofrer de \"mais intenso\" (A, C, D) invertem a hierarquia da pergunta.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "A comparação de intensidade é clara no texto, mas a ideia de que o sofrer \"não é desejado\" depende de interpretação; a alternativa E é a mais coerente."
+  },
+  "0:22": {
+   "resposta": "A questão cobra concordância nominal entre o substantivo e seus determinantes. O anúncio vende \"3 lojas\", então o núcleo do título deve ir para o plural: LOJAS. Além disso, \"feminino\" qualifica \"calçados\" (são calçados para mulheres), e o adjetivo concorda em gênero e número com o substantivo a que se refere: CALÇADOS FEMININOS. O título correto, portanto, é \"Lojas de calçados femininos\".\n\nA alternativa A corrige só metade do problema: mantém \"feminino\" no singular, sem concordar com \"calçados\". A E defende o título original, mas a função especificadora do adjetivo não o dispensa da concordância. C e D criam formas que não resolvem o plural de \"lojas\" ou mudam o sentido (a \"loja feminina\").\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "O ponto cobrado é a voz passiva sintética. O verbo \"vender\" é transitivo direto; com o pronome \"se\", a frase equivale a \"3 lojas são vendidas\". Nesse caso o \"se\" é partícula apassivadora (pronome apassivador) e \"3 lojas\" é o sujeito paciente, com o qual o verbo deve concordar: \"Vendem-se 3 lojas bem montadas\".\n\nPor isso o anúncio tem erro de concordância verbal. As alternativas que falam em índice de indeterminação do sujeito (A e B) erram, porque esse \"se\" acompanha verbos intransitivos, transitivos indiretos ou de ligação, não um transitivo direto com complemento. A D reconhece a voz passiva, mas nega o erro, o que é contraditório. A E inventa um pronome reflexivo com função de objeto indireto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão cobra a leitura de um poema-objeto, em que forma e conteúdo se confundem. No logograma de Pedro Xisto, a curva sinuosa do S (serpente, símbolo do pecado na tradição bíblica) desenha e \"escreve\" a palavra She, e dentro dela aparecem o h (homo/he) e o e (Eva). A serpente envolve e une o homem e a mulher, sugerindo a complementaridade dos sexos, tema adequado a um epitalâmio (canto nupcial); ao mesmo tempo, he aparece dentro de She, o que permite a leitura de uma supremacia do feminino.\n\nAs demais alternativas impõem leituras sem apoio no desenho: \"coisificação\" e separação pelo pecado (A), crítica ao capitalismo pelo \"&\" (C), esvaziamento de sentido como logotipo (D) ou ausência de hierarquia por disposição vertical (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão pede o enfoque de cada texto sobre o ser humano. No Auto da Lusitânia, Gil Vicente satiriza a sociedade: Todo o Mundo busca honra, louvor e dinheiro, enquanto Ninguém busca virtude e verdade, e os diabos anotam a ironia (visão satírica). Em Os Maias, Carlos e Ega concluem que nada vale a pena, num \"fatalismo\" de quem desistiu de agir: é a visão desencantada e pessimista do indivíduo na sociedade, típica do Realismo. Na \"Ode triunfal\", Álvaro de Campos canta as máquinas com febre e fúria, numa mistura de êxtase e sofrimento diante da modernidade: visão perplexa, eufórica e agônica.\n\nAs outras alternativas atribuem tons errados, como \"euforia\" a Gil Vicente (B), \"complacência do diabo\" (C), trovadorismo (D) ou visão \"positiva\" e \"objetiva\" (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra a ironia como dizer o contrário do sentido literal. No auto de Gil Vicente, o efeito irônico nasce dos nomes. \"Todo o Mundo\" é um rico mercador, ou seja, uma pessoa só, que busca honra, dinheiro e louvor; \"Ninguém\" é um homem pobre que, no entanto, busca virtude e verdade. Assim, frases como \"Ninguém busca virtude\" e \"Todo o mundo busca a vida\" ganham duplo sentido: literalmente parecem dizer que ninguém é virtuoso e que todos são vaidosos. A dissimulação contida nesses nomes é o mecanismo da crítica à sociedade.\n\nBerzebu tem o nome tradicional de demônio, sem ironia (A); Todo o Mundo não é humilde (B); o pedido \"Escreve lá outra sorte\" é literal (D); e Ninguém não é obstinado, mas virtuoso (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão pede o nome de duas figuras de linguagem. O emprego de palavras de sentido oposto lado a lado, como \"vida/morte\" e \"louvado/repreendido\", cria contraste e chama-se antítese. A invocação ou interpelação direta de seres, presentes ou ausentes, reais ou não, como em \"Ó rodas\" e \"ó grandes ruídos modernos\", é a apóstrofe; o vocativo com \"ó\" é sua marca típica.\n\nAs outras alternativas confundem figuras: eufemismo é suavizar uma expressão desagradável, e onomatopeia é imitar um som. Esta última aparece na própria \"Ode triunfal\" (\"r-r-r-r-r-r eterno\"), mas não é o recurso descrito no enunciado, que fala de invocação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra história literária: a Geração de 70, ligada à Questão Coimbrã (1865) e às Conferências Democráticas do Casino Lisbonense (1871), que combateu o Romantismo e defendeu o Realismo e as ideias socialistas e positivistas. Além de Eça de Queirós, seus nomes centrais são Antero de Quental (líder do grupo), o historiador Oliveira Martins e Teófilo Braga, depois presidente da República.\n\nAs alternativas tentadoras misturam integrantes com românticos. Antônio Feliciano de Castilho era justamente o alvo da Questão Coimbrã, defensor do \"ultrarromantismo\" acadêmico; Camilo Castelo Branco e Alexandre Herculano pertencem ao Romantismo; Júlio Dinis é um romancista de transição, sem participação no grupo. Só a alternativa B reúne três membros da geração.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra as regras de acentuação gráfica. Em B, todas as palavras são paroxítonas terminadas em ditongo crescente (vogal semivogal + vogal): Vir-gí-lio, fú-ria, ca-rí-cias, ma-té-ria, co-lé-gio. É a mesma regra para todas (há quem as classifique como proparoxítonas eventuais, mas a regra continua a mesma para o grupo).\n\nNas outras alternativas a regra muda dentro do grupo:\nA: estômago, fábrica e lâmpada são proparoxítonas; colégio é paroxítona em ditongo; inflexível é paroxítona terminada em -l.\nC: trópicos, máquinas e elétricas são proparoxítonas; lábios e fúria, paroxítonas em ditongo.\nD: cérebro e lógico são proparoxítonas; sério, Virgílio e sábio não.\nE: Ésquilo, átomos e êmbolo são proparoxítonas; carícia e Virgílio não.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão relaciona cada gênero literário à pessoa gramatical que nele predomina. O texto dramático se constrói pelo diálogo entre personagens que falam umas com as outras, em interlocução direta: privilegia a pessoa com quem se fala (2ª pessoa), como se vê nas falas de Todo o Mundo e Ninguém. O texto narrativo conta fatos sobre personagens, por um narrador que fala deles: privilegia a pessoa de que se fala (3ª pessoa), como em \"disse o Ega\" e \"Riram ambos\". O texto lírico expressa a subjetividade do eu: privilegia a pessoa que fala (1ª pessoa), como em \"Tenho febre e escrevo\".\n\nA ordem pedida, então, é 2ª, 3ª e 1ª pessoa. As outras alternativas embaralham essa correspondência; a A e a E, por exemplo, põem a 3ª pessoa no drama.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão pede o verso que já antecipava a mistura de tempos que coloca Platão e Virgílio dentro das máquinas. Os versos de D, \"Canto o presente, e também o passado e o futuro\", justificados por \"o presente é todo o passado e todo o futuro\", afirmam exatamente essa fusão temporal: o moderno contém toda a história, o que torna possível ver figuras antigas nas máquinas.\n\nAs outras alternativas tratam de outros aspectos do poema: A apresenta a febre e o cenário da fábrica; B traz a apóstrofe às rodas e a onomatopeia do ruído; C e E falam do excesso de sensações e do desejo de cantar as máquinas. Nenhuma delas menciona passado ou futuro.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão cobra o conhecimento dos heterônimos de Fernando Pessoa, personalidades poéticas com biografia e estilo próprios. Os três principais são Alberto Caeiro, o \"mestre\", poeta da natureza e da sensação objetiva; Ricardo Reis, neoclássico, de odes horacianas e postura epicurista e estoica; e Álvaro de Campos, o engenheiro futurista e sensacionista da \"Ode triunfal\".\n\nAs alternativas erradas incluem autores reais do Modernismo português, que não são heterônimos: Mário de Sá-Carneiro e Almada Negreiros, companheiros de Pessoa na revista Orpheu; José Régio, da revista Presença; e Miguel Torga, também ligado à Presença. A alternativa B acerta Ricardo Reis, mas erra Miguel Torga.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão cobra processos de formação de palavras. \"Pneumotórax\" junta dois radicais gregos (pneumo-, \"ar, pulmão\", e -tórax, \"peito\"), cada um com significado próprio: é composição (por justaposição, de radicais eruditos). \"Infiltrado\" parte do radical de \"filtro\" e recebe um prefixo (in-, \"para dentro\") e um sufixo (-ado, de particípio): in + filtr + ado, derivação prefixal e sufixal.\n\nA alternativa B inverte os processos. Na C, \"hibridismo\" exigiria radicais de línguas diferentes, e os dois são gregos; além disso, \"composição prefixal e sufixal\" não existe, já que prefixos e sufixos formam derivação. A D fala em \"simples flexão\", que não cria palavra nova, e a E repete a confusão entre derivação e composição.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão pede o caso em que \"e\" tem valor adversativo, equivalendo a \"mas\". No verso \"A vida inteira que podia ter sido e que não foi\", o \"e\" liga duas ideias opostas: a vida que poderia ter sido, mas não foi. A troca por \"mas\" mantém o sentido (\"que podia ter sido mas que não foi\") e evidencia a frustração do eu lírico.\n\nNos demais casos o \"e\" é aditivo ou faz parte de um numeral: em \"dispneia e suores noturnos\" soma sintomas; em \"trinta e três\" compõe o número, nas duas ocorrências; em \"pulmão esquerdo e o pulmão direito\" junta os dois órgãos afetados. Em nenhum deles há oposição.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão cobra a leitura do humor negro do poema-piada. O paciente, com tuberculose avançada, pergunta se não é possível tentar o pneumotórax, tratamento da época. O médico responde que a única coisa a fazer é \"tocar um tango argentino\": como o tango é associado à melancolia e à dor, a resposta absurda sugere que não há mais tratamento possível e só resta lamentar, ou aproveitar o tempo que sobra. O efeito vem justamente do contraste entre a gravidade da situação e a resposta inesperada.\n\nAs alternativas B e C leem a frase ao pé da letra ou de forma otimista; a D inventa um sentido figurado (especialistas portenhos) que não está no poema; a E fala de musicoterapia, o que inverte o sentido da piada.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão pede o que o texto afirma de fato. No primeiro parágrafo, o autor diz que \"links between genetic information and health data are required to study gene-environment interactions effectively\", isto é, as relações entre informações genéticas e dados de saúde são necessárias para estudar com eficácia as interações entre genes e ambiente. A alternativa C traduz essa frase.\n\nAs demais distorcem o texto. A farmacogenética é citada como área emergente que exige grandes bancos de dados, e não como algo inviabilizado (A) ou que dificulte o acesso (B). O texto também diz que os pesquisadores estão entusiasmados, não desinteressados (D), e que os dados ligados a informações pessoais identificáveis têm o maior valor científico, em vez de atrapalhar (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão pergunta sobre os desafios éticos dos bancos de genes. O segundo parágrafo diz que esses desafios chamaram a atenção de acadêmicos e formuladores de políticas e que \"the issue of consent is particularly problematic for researchers\": a questão do consentimento dos doadores (informado, renovado a cada pesquisa e com direito de retirar a amostra) é o problema central.\n\nA alternativa A confunde \"policy makers\" (formuladores de políticas) com polícia. A B é falsa, porque a comissão britânica de 1999 apenas destacou o problema, sem resolvê-lo. O texto não fala de pessoas falecidas (C) e não diz que seja proibido fazer novas pesquisas com o mesmo material (D): exige-se apenas um novo consentimento.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão pergunta o que as leis de consentimento de muitos países exigem. O segundo parágrafo diz que a aplicação estrita dessas leis obriga os pesquisadores a obter consentimento informado para o uso de toda informação genética identificável e \"a fresh consent for new research projects\", ou seja, um novo consentimento para cada novo projeto, além de permitir que o participante retire sua amostra a qualquer momento.\n\nA alternativa B confunde o relatório da Comissão de Genética Humana com a exigência legal. A C inverte a ideia: a lei protege a informação identificável, não obriga que ela seja identificável. A D e a E não têm apoio no texto; ele fala no direito de retirar a amostra, não em revelar identidades ou descartar amostras sem avisar.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão (em inglês, \"A questão do consentimento\") pede o que o texto diz sobre o consentimento. O autor afirma que \"the issue of consent is particularly problematic for researchers\" e que seguir as exigências legais é \"tremendously difficult\" em pesquisas com grandes bancos de genes. A alternativa D, \"criou muitos problemas, sobretudo para os pesquisadores\", resume isso.\n\nAs demais não se sustentam: o texto não diz que o tema não foi definido na maioria dos países (A); o consentimento dificulta, e não facilita, o acesso aos dados (B); ele não \"impulsiona\" a informação identificável (C); e nada indica que os doadores desconheçam a questão (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão pede a definição de \"blanket consent\" (consentimento geral, \"em bloco\"). O terceiro parágrafo o apresenta como saída para o dilema e o descreve como \"one-time consents\", consentimentos dados uma única vez, de caráter amplo e vago, que simplificam a pesquisa. A alternativa B, \"um consentimento abrangente, dado uma vez, que cobre a maior parte dos usos dos dados genéticos\", corresponde a isso.\n\nA D inverte o texto: o autor diz que esse consentimento não permite ao paciente exercer de modo significativo o direito de controlar suas informações. A E atribui a proposta à comissão britânica, o que o texto não diz. A A e a C também não têm apoio, pois o texto trata de um instrumento usado por pesquisadores, de peso legal fraco.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão cobra o sentido da expressão \"fall far short of\", que em inglês significa ficar muito abaixo de um padrão, não alcançá-lo de jeito nenhum. Na frase, o autor diz que a maior parte dos consentimentos gerais fica muito aquém de um verdadeiro consentimento informado, porque é vaga demais e não garante o controle do paciente sobre suas informações.\n\n\"Far\" intensifica (\"muito\") e \"short\" indica falta, deficiência. Por isso a B (\"falta pouco para chegar lá\") é a mais tentadora, mas erra a intensidade: a distância é grande, não pequena. A A e a E dizem o oposto (ultrapassar, abranger mais), e a C (\"caiu em desuso\") confunde \"fall\" com outro sentido do verbo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão pede um sinônimo de \"Moreover\", conector que acrescenta um argumento na mesma direção do anterior: \"além disso\". No texto, o autor já disse que os consentimentos gerais têm pouco peso legal e acrescenta outro defeito: eles também não permitem ao paciente controlar suas informações. \"Furthermore\" tem exatamente esse valor aditivo.\n\nAs outras opções mudam a relação lógica: \"However\" e \"Nevertheless\" são adversativos (\"porém\", \"no entanto\"); \"Thus\" é conclusivo (\"assim, portanto\"); \"Rather\" indica correção ou preferência (\"antes, em vez disso\"). Nenhum deles soma ideias.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A questão pede os dois grandes desafios citados no quarto parágrafo para criar novas políticas de consentimento. O primeiro (\"First\") é a opinião pública: há indícios de que a população não aceitaria baixar o padrão legal para facilitar pesquisas, e uma pesquisa com canadenses mostrou que 90% querem regras mais rígidas. O segundo (\"Second\") é a variação de jurisdição: no Canadá, a informação de saúde é assunto das províncias, e cada uma das dez terá de fazer sua lei. Logo, opinião pública e legislação local.\n\nAs alternativas A, B e D misturam detalhes do parágrafo (desconforto, padrão legal, leis canadenses, pesquisas) sem nomear as duas áreas. A C cita leis mais rígidas, que é o desejo do público, não um dos desafios em si.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A questão pergunta a que se refere o número 90%. O texto diz que, numa pesquisa de 2001, 90% dos canadenses concordaram totalmente (61%) ou concordaram (29%) que a informação genética é diferente e que as regras de acesso a ela deveriam ser mais rígidas (\"stricter\"). São, portanto, canadenses favoráveis a leis mais rígidas para a informação genética.\n\nA alternativa A diz o contrário: o texto afirma que o público não se sentiria confortável com a redução do padrão legal para facilitar a pesquisa. A C confunde o relatório que publicou o dado com uma adesão a ele. A D soma corretamente 61% e 29%, mas atribui aos entrevistados o desejo de controlar o próprio material, o que não foi perguntado. A E inventa participantes de pesquisas genéticas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "A questão pede o âmbito do tema. O texto, publicado na seção \"Ethics Watch\" de uma revista de genética, discute os desafios éticos e legais do consentimento nas pesquisas com bancos de genes e termina perguntando que salvaguardas tornariam uma mudança \"ethically sound\". É, portanto, um tema do campo geral da ética médica e científica.\n\nAs alternativas tentadoras pegam partes do texto. O \"blanket consent\" é discutido criticamente, e não proposto como solução (A); o Canadá aparece só como exemplo (B); a comissão britânica de 1999 apenas destacou o problema (D); e as leis cabem aos governos, não aos bancos de genes e pesquisadores (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "A questão pede uma das razões apontadas para a associação entre a saúde de maridos e mulheres. O autor do estudo diz que uma explicação simples é a natureza humana: \"We don't marry random people\", \"We marry kind of like us\", ou seja, as pessoas se casam com gente parecida com elas.\n\nA alternativa A troca \"human nature\" (natureza humana) por \"natureza do corpo humano\". A B e a E distorcem outro fator citado, o estresse que a doença de um cônjuge pode causar ao outro, que não é a doença em si nem a convivência. A D diz o contrário do texto: os semelhantes, não os opostos, se atraem.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "A questão pede o sentido do primeiro parágrafo. Ele propõe: quer um retrato da sua saúde? Olhe para o outro lado da mesa do café da manhã, onde está seu cônjuge. Em seguida informa que um novo estudo encontrou forte associação entre a saúde de maridos e mulheres. A ideia é que o cônjuge reflete o estado de saúde da pessoa.\n\nAs outras alternativas tomam a imagem ao pé da letra: o café da manhã é só a cena em que o casal se encontra, e não um indicador de saúde (B) ou um hábito saudável (E). \"Snapshot\" é usado em sentido figurado (um retrato rápido), não se refere a fotografias reais (C). O parágrafo não fala de vínculo de dez anos (D).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "A questão cobra a leitura dos números do segundo parágrafo. Um homem de 50 e poucos anos com saúde excelente tem cerca de 5% de chance de ser casado com uma mulher de saúde apenas regular (\"fair\") e 2% de chance de ser casado com uma mulher de saúde ruim (\"poor\"). Dois por cento é uma probabilidade muito pequena, como diz a alternativa B.\n\nA alternativa A erra a conta: 5% contra 2% é duas vezes e meia, e o texto não compara essa chance com nenhuma outra que dê \"quase o dobro\". A C, a D e a E falam de casar novamente ou de procurar uma mulher, situações que o estudo não trata; ele descreve casais já formados.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "A questão cobra o sentido de \"more likely\". \"Likely\" significa \"provável\", e \"to be more likely to\" indica maior probabilidade ou tendência de fazer algo. Na frase, pessoas casadas têm maior propensão a seguir o mesmo tipo de dieta (e a fumar se o cônjuge fuma): é uma ideia de propensão, de tendência.\n\nAs outras opções não correspondem: não há relação de causa e consequência explícita na expressão (A); \"likely\" não indica gosto ou preferência (B); probabilidade é o oposto de certeza (C); e condição seria expressa por \"if\" ou \"unless\" (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "A questão pede uma informação correta sobre o estudo. O texto diz que ele se baseou em dados de mais de 4.700 casais \"in their 50's\", isto é, na faixa dos 50 anos, que participaram de uma pesquisa nacional em 1992. A alternativa D está correta.\n\nA B é a mais tentadora, mas erra: são 4.700 casais, ou seja, cerca de 9.400 pessoas, e não 4.700 pessoas. A C confunde datas: 1992 é o ano da coleta dos dados; o estudo saiu na edição de outubro da Social Science & Medicine (o artigo do jornal é de 2002). A A confunde o vínculo do autor, economista da Brigham Young University, com financiamento. A E transforma uma sugestão aos médicos (\"broaden their gaze\") em mudança de visão dos casais.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

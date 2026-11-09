@@ -1,0 +1,207 @@
+{
+ "indice": "data/questoes/famema/2022_prova-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "2:1": {
+   "resposta": "A questão cobra os valores semânticos da conjunção \"e\". O valor concessivo aparece quando o \"e\" liga duas ideias que se contrariam e pode ser trocado por \"embora\", \"mesmo que\" ou \"apesar de\".\n\nEm E, \"Não fui aprovado e eu li todos os livros indicados\" equivale a \"Não fui aprovado, embora tenha lido todos os livros\": o esperado seria a aprovação, e o fato contraria essa expectativa. Nas outras frases o \"e\" tem valores diferentes: em A, sequência temporal (\"e logo\"); em B, intensidade enfática na exclamação; em C, conclusão ou consequência (\"e por isso desisti\"); em D, adversativo (\"mas não pude ajudar\") — o mais próximo do concessivo, mas aí o \"e\" introduz a oposição na segunda oração, não uma concessão ao fato.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:2": {
+   "resposta": "A questão cobra a função argumentativa da sequência que vem depois de \"É uma coisa santa a democracia\". Logo após a frase inicial, Machado restringe: \"não a democracia que faz viver os espertos, a democracia do papel e da palavra\", \"mas a democracia praticada honestamente\". Ele afasta um sentido e fixa qual democracia considera santa.\n\nEsse procedimento é uma delimitação do valor semântico da palavra, isto é, o autor deixa claro em que sentido está usando \"democracia\". Não é negar o sentido tradicional (B), já que a democracia sincera é justamente a ideia original; também não apresenta várias possibilidades em pé de igualdade (C), nem recorre a definição de dicionário (D) ou à origem do termo (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:3": {
+   "resposta": "A questão cobra a conjugação do pretérito perfeito do indicativo de um verbo pronominal com ênclise.\n\n\"Levantei-me\" está na 1ª pessoa do singular do pretérito perfeito. No plural, fica \"levantamos\" + \"nos\". Quando o verbo termina em -mos e recebe o pronome \"nos\" depois dele, o -s final cai: levantamos + nos → levantamo-nos (como em \"sentamo-nos\", \"vestimo-nos\").\n\nA alternativa A mantém o -s, o que a norma-padrão não admite. \"Levantemos-nos\" e \"levantemo-nos\" (D e E) são formas do presente do subjuntivo/imperativo, outro tempo verbal, e B é uma mesóclise do futuro do presente.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:4": {
+   "resposta": "A questão pede para desenvolver uma oração reduzida de gerúndio mantendo o sentido que ela tem no texto. O narrador conta que libertou o escravo Pancrácio \"acompanhando as ideias pregadas por Cristo\": seguir essas ideias é apresentado como o motivo do gesto, ou seja, a oração tem valor de causa.\n\nA forma desenvolvida adequada é \"já que acompanhava as ideias pregadas por Cristo\", com a conjunção causal \"já que\" e o verbo no pretérito imperfeito, coerente com \"declarei\" e \"restituía\". A alternativa D introduz uma concessão (o oposto de motivo); E muda o tempo verbal para o presente e dá valor temporal; B não forma oração desenvolvida; e A (\"conforme\") indica conformidade, não a razão da libertação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:5": {
+   "resposta": "A questão pede a frase com incoerência, isto é, com uma contradição interna de sentido.\n\nEm B, a frase afirma que a solidão é bela \"quando se tem alguém a quem o dizer\". Mas, se há alguém com quem compartilhar, já não existe solidão; a condição anula aquilo que se elogia. Por isso a frase se contradiz (é um paradoxo de efeito humorístico ou poético, mas logicamente incoerente).\n\nAs outras são coerentes: A define a solidão como medo da vida; C compara viver e sonhar pelo traço comum de estar só; D usa a imagem da cerca que isola nos dois sentidos; E afirma que a solidão é construída por nós.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:6": {
+   "resposta": "A questão cobra a interpretação de um ditado. \"Não chore sobre o leite derramado\" significa que não adianta lamentar algo que já aconteceu e não pode ser desfeito; o melhor é aceitar e seguir em frente.\n\nA alternativa D traduz essa mensagem: aceitar o que aconteceu é o primeiro passo para superar as consequências de um infortúnio. B é a mais tentadora, pois também desaconselha o choro, mas o sentido é outro: lamentar o que se perdeu impede de ver outras coisas boas (as estrelas), sem a ideia central de aceitar o fato consumado. As demais falam de discrição (A), solidão (C) ou de uma visão geral do mundo (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:7": {
+   "resposta": "A questão pede a frase que usa, em parte, linguagem coloquial, isto é, uma forma típica da fala informal.\n\nEm B, \"a gente\" no lugar de \"nós\" é uma marca característica do registro coloquial do português brasileiro: \"O que a gente leva da vida é a vida que a gente leva\". O humor está no jogo com o verbo \"levar\" (carregar / conduzir), mas o que responde à pergunta é o uso de \"a gente\".\n\nAs outras frases seguem a norma-padrão. A C chega a usar a 2ª pessoa e a ênclise (\"Dizes-me\"), o oposto do coloquial; A, D e E também não trazem marcas de oralidade, apenas o humor do Barão de Itararé.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:8": {
+   "resposta": "A questão cobra os diferentes sentidos do sufixo -ada. Ele pode indicar golpe (martelada), conteúdo (panelada), conjunto (garotada), ação (entrada), produto feito de algo (marmelada, goiabada), entre outros.\n\nEm E, os três substantivos têm o mesmo valor: caldeirada, bacalhoada e feijoada são pratos preparados com o ingrediente ou no recipiente indicado pela base (caldeirada é cozido de peixes feito em caldeira). Nas outras séries o sentido muda dentro do grupo: em A, golpe, conteúdo e ação; em B, conjunto (garotada), quantidade (livralhada) e ato (cusparada); em C, golpes (cacetada, bordoada) e conjunto (meninada); em D, doces (marmelada, goiabada) mas \"estada\" indica permanência.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:9": {
+   "resposta": "A questão pede a frase construída sobre uma metáfora, figura em que um termo é usado no lugar de outro por uma semelhança implícita, sem conectivo de comparação.\n\nEm B, as crianças são chamadas de \"mensagens vivas para um tempo que não veremos\": elas não são mensagens literalmente, mas, como uma carta, levam algo de nós para o futuro. É uma metáfora.\n\nA e C são frases de sentido literal (conselhos). D tem humor e ironia (o asilo), mas sem metáfora. E se apoia num paradoxo ou antítese (\"tudo em nada\"), não na transferência de sentido por semelhança.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:10": {
+   "resposta": "A questão cobra a identificação da estratégia argumentativa de um anúncio. O cartaz começa com \"Não seja pão-duro!\", isto é, constrange quem hesita em comprar, insinuando que não adquirir o lote é sinal de mesquinharia. Depois, aponta o exemplo dos que já compraram, como modelo a seguir.\n\nA pressão é social: o leitor é levado a comprar para não ser visto como avarento e para se igualar aos outros. Não há ameaça ou medo (B), não se fala em preservação da natureza como argumento (C — o \"Paraíso Verde\" é só cenário), nem em vantagem financeira (D) ou em vizinhança (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:11": {
+   "resposta": "A questão trata de uma função afim (gráfico é uma reta). Basta achar a taxa de variação e usá-la.\n\nTaxa: (186 − 96) ÷ (30 − 18) = 90 ÷ 12 = 7,5 cantos por minuto a cada 1 °C\nDe 96 para 141: 141 − 96 = 45 cantos a mais\nAumento de temperatura: 45 ÷ 7,5 = 6 °C\nTemperatura: 18 + 6 = 24 °C\n\nOutra forma de ver: 141 é exatamente a média entre 96 e 186, então a temperatura é a média entre 18 e 30 °C, isto é, 24 °C.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:12": {
+   "resposta": "A questão usa o teorema do resto. Como x² − 2x − 8 = (x + 2)(x − 4) tem grau 2, o resto da divisão tem grau no máximo 1: R(x) = a·x + b. E D(x) e R(x) têm o mesmo valor nas raízes −2 e 4.\n\nD(−2) = 4 → −2a + b = 4\nD(4) = −2 → 4a + b = −2\nSubtraindo: 6a = −6 → a = −1\nb = 4 + 2a = 2\n\nR(x) = −x + 2. Conferindo: R(−2) = 4 e R(4) = −2.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:13": {
+   "resposta": "A questão cobra a discussão de um sistema linear pelo determinante.\n\ndet = 1·(a + 2) − 2·(−a − 2) + (−1)·(1 − 1) = 3a + 6\ndet = 0 → a = −2. Para a ≠ −2, o sistema é possível e determinado, qualquer que seja b.\n\nPara a = −2, somando as duas primeiras equações: 3y + z = 7. Subtraindo a 1ª da 3ª: −3y − z = b − 4. Somando essas duas: 0 = b + 3. Logo, com a = −2, o sistema é indeterminado se b = −3 e impossível se b ≠ −3.\n\nA: a = −3 → det ≠ 0, é determinado (falsa). B: a = −2, b = −2 → impossível (falsa). C: a = −2, b = −3 → indeterminado (falsa). D: a = −3 → possível e determinado (verdadeira). E: a = −2 também satisfaz a ≠ −3 e daria sistema impossível (falsa).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:14": {
+   "resposta": "A questão usa a distância de ponto a reta para achar uma corda. A circunferência tem centro (4, 0) e raio √21.\n\nDistância do centro à reta x + 2y + 1 = 0:\nd = |4 + 2·0 + 1| ÷ √(1² + 2²) = 5 ÷ √5 = √5\n\nA perpendicular do centro à corda divide-a ao meio, formando um triângulo retângulo com o raio:\n(metade da corda)² = r² − d² = 21 − 5 = 16\nmetade da corda = 4\ncorda = 8\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:15": {
+   "resposta": "A questão é de probabilidade condicional (teorema de Bayes). Imagine 10 000 voluntários.\n\nInfectados: 2% → 200; destes, 90% testam positivo → 180 verdadeiros positivos\nNão infectados: 9 800; destes, 3% testam positivo → 294 falsos positivos\nTotal de positivos: 180 + 294 = 474\nP(infectado | positivo) = 180 ÷ 474 ≈ 0,38 = 38%\n\nO resultado surpreende porque a doença é rara: mesmo com um teste bom, os falsos positivos entre os muitos não infectados superam os verdadeiros positivos. A alternativa B (90%) confunde essa probabilidade com a sensibilidade do teste.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:16": {
+   "resposta": "A questão pede o máximo de uma função quadrática de área. Seja AE = AF = x; então CG = CH = 2x. A área de EFGH é o quadrado menos os quatro triângulos retângulos dos cantos.\n\nCanto A: x · x ÷ 2 = x²/2\nCanto C: 2x · 2x ÷ 2 = 2x²\nCanto D: DE · DH ÷ 2 = (1 − x)(1 − 2x) ÷ 2\nCanto B: BF · BG ÷ 2 = (1 − x)(1 − 2x) ÷ 2\nÁrea = 1 − x²/2 − 2x² − (1 − x)(1 − 2x) = 3x − 4,5x²\n\nÉ uma parábola com concavidade para baixo; o máximo está no vértice:\nx = 3 ÷ (2 · 4,5) = 1/3\nÁrea máxima = 3 · (1/3) − 4,5 · (1/9) = 1 − 0,5 = 1/2\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:17": {
+   "resposta": "A questão usa produtos notáveis e a relação fundamental sen²x + cos²x = 1.\n\n(sen x + cos x)² = sen²x + cos²x + 2·sen x·cos x\n0,64 = 1 + 2·sen x·cos x\nsen x·cos x = −0,18\n\nSoma de cubos: a³ + b³ = (a + b)(a² − ab + b²)\nsen³x + cos³x = (sen x + cos x)·(1 − sen x·cos x)\n= 0,8 · (1 + 0,18) = 0,8 · 1,18 = 0,944\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:18": {
+   "resposta": "A questão é de contagem com simetria. Primeiro escolhem-se as 4 cores entre as 8; depois, conta-se de quantas formas distintas essas 4 cores podem ser dispostas no tetraedro.\n\nEscolha das cores: C(8, 4) = 70\nDisposições das 4 cores nas faces, sem considerar rotação: 4! = 24\nO tetraedro regular tem 12 rotações que o levam nele mesmo, e pinturas que diferem só por uma rotação são iguais: 24 ÷ 12 = 2\nTotal: 70 · 2 = 140\n\nAs 2 disposições são uma e sua imagem no espelho, que não podem ser sobrepostas girando. Quem esquece a escolha das cores obtém só 2; quem ignora as rotações obtém 8·7·6·5 = 1 680.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:19": {
+   "resposta": "A questão pede o volume de uma pirâmide quadrangular regular com todas as arestas iguais a 6 cm.\n\nBase: quadrado de lado 6 → área = 36 cm²\nMetade da diagonal da base: 6√2 ÷ 2 = 3√2 cm\nAltura (aresta lateral, altura e metade da diagonal formam triângulo retângulo):\nh² = 6² − (3√2)² = 36 − 18 = 18 → h = 3√2 ≈ 4,23 cm\nVolume: V = 36 · 4,23 ÷ 3 ≈ 50,76 cm³\nMassa: m = 2,5 · 50,76 ≈ 126,9 g\n\nAproximadamente 127 g.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:20": {
+   "resposta": "A questão usa coordenadas para achar o centro. Como D não é o ponto médio de AB (AD = 4 e DB = 6), o segmento CD não passa pelo centro.\n\nColoque D na origem: A(−4, 0), B(6, 0) e C(0, 2).\nO centro está na mediatriz de AB, a reta x = 1: centro (1, k).\nDistâncias iguais a A e a C:\n(1 + 4)² + k² = 1² + (2 − k)²\n25 + k² = 5 − 4k + k²\nk = −5\nr² = 5² + (−5)² = 50 → r = √50\n\nQuem usa a potência de ponto imaginando que CD está sobre um diâmetro chega a r = 7, que não está entre as alternativas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:21": {
+   "resposta": "A questão pede a afirmação incorreta sobre clima e saúde. O erro está em D: queimadas e inversões térmicas pioram a qualidade do ar ao concentrar fumaça e poluentes perto do solo, e o efeito típico é o aumento das doenças respiratórias (asma, bronquite, irritações), não das doenças infectocontagiosas, que dependem de agentes transmissores.\n\nAs outras estão de acordo com o texto: eventos extremos como secas, enchentes e ondas de calor afetam diretamente a morbidade (A); chuvas e estiagens alteram os criadouros de vetores, como o da dengue no verão chuvoso e o da malária, que na Amazônia se favorece quando as águas baixam (B); enchentes espalham doenças de veiculação hídrica, como a leptospirose (C); e geadas e secas reduzem a produção agrícola de subsistência (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:22": {
+   "resposta": "A questão trata da reestruturação produtiva no estado de São Paulo depois da crise do fordismo. Com a globalização e a melhora dos transportes e das telecomunicações, as empresas passaram a separar a gestão (que ficou concentrada na metrópole) da produção (que se espalhou pelo interior e por cidades médias).\n\nI está correta: cidades médias do interior ganharam força e certa autonomia em relação à capital. III está correta: é a \"disjunção produtiva\", com produção desconcentrada e gestão centralizada. II está errada, porque a mudança buscou o contrário: reduzir custos de produção e de circulação, encurtando o tempo de circulação em relação ao tempo de trabalho.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:23": {
+   "resposta": "A questão cobra as características dos modais de transporte no Brasil.\n\nI está correta: o rodoviário é o modal mais flexível (porta a porta), responde pela maior parte da carga, em torno de 60%, e concentra a maior parte do consumo de combustível do setor.\n\nII está correta: a ferrovia move grandes volumes em longas distâncias com alta eficiência energética; o custo alto está na implantação (trilhos, terraplenagem, material rodante), enquanto a operação e a manutenção saem baratas por tonelada transportada.\n\nIII está errada: o aquaviário é justamente o modal de menor consumo de energia por tonelada e o menos poluente, com custos de operação e manutenção baixos e equipamentos de vida longa. A afirmação inverte essas características.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:24": {
+   "resposta": "A questão pede a afirmação incorreta sobre a transição demográfica. O erro está em C: o bônus demográfico (aumento da proporção de pessoas em idade de trabalhar) resulta da queda da mortalidade e, principalmente, da queda da natalidade, acompanhadas do aumento — e não da redução — da esperança de vida. Dizer que a esperança de vida diminuiu contraria todo o processo mostrado nas tabelas, em que a população idosa cresce.\n\nAs outras são aceitas: a fatia de menores de 15 anos cai e a de idosos sobe (A); as projeções do IBGE indicam que o crescimento chega a zero por volta de 2040 e a população passa a diminuir depois disso (B); a faixa de 0 a 9 anos perde peso proporcional (D); e os idosos passam de cerca de 4,5% em 1890 para mais de 23% em 2040 (E).\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "Algumas afirmações dadas como corretas não batem exatamente com a tabela: em 2040 os idosos somam 23,7% (11,3 + 12,4), não 23,4% (E), e a queda da população a partir de 2040 (B) vem das projeções do IBGE, não dos números mostrados. O erro de C (redução da esperança de vida) é o único inequívoco."
+  },
+  "2:25": {
+   "resposta": "A questão trata da geopolítica depois da Guerra Fria. O trecho lembra que, nos anos 1990, se falava em mundo unipolar e \"fim da história\"; as afirmativas mostram como esse quadro mudou no século XXI.\n\nI está correta: a ascensão da China é a grande novidade do sistema de Estados neste século e desafia a supremacia dos EUA no Leste e no Centro da Ásia. II está correta: o Leste Asiático concentra disputas de poder envolvendo China, Japão, Coreias, Rússia e EUA. III está correta: EUA e China são rivais estratégicos, mas suas economias são interdependentes — a China exporta e financia a dívida americana, e os EUA são grande mercado consumidor —, o que as torna complementares para a economia mundial.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:26": {
+   "resposta": "A questão cobra características de impérios da Antiguidade à Época Moderna. A alternativa B está correta: Alexandre Magno, ao conquistar do Egito à Índia, espalhou a cultura grega e deu origem ao helenismo; ele pretendia um império universal e chegou a ser reconhecido como filho de um deus (como no oráculo de Amon, no Egito).\n\nAs outras têm erros: o império de Sargão da Acádia ficou na Mesopotâmia e arredores, sem dominar Egito, Grécia ou o Indo (A); o Império Bizantino perdeu territórios para o Califado Omíada, não os anexou (C); o Império Carolíngio se apoiou justamente nas relações de suserania e vassalagem (D); e o Sacro Império Romano-Germânico era centrado nos territórios germânicos, não equivalia aos domínios espanhóis (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:27": {
+   "resposta": "A questão cobra o sentido original da Doutrina Monroe (1823) e sua diferença em relação a políticas posteriores dos EUA.\n\n- **1ª (V)**: a doutrina surgiu quando a maior parte das colônias ibéricas já era independente; tinha caráter defensivo, contra uma possível recolonização pela Santa Aliança, e ficou resumida no lema \"América para os americanos\".\n- **2ª (F)**: a \"Política do Grande Porrete\" (Big Stick) é de Theodore Roosevelt, no início do século XX, e foi um corolário intervencionista acrescentado depois; não pertence à primeira metade do século XIX.\n- **3ª (F)**: a \"Política da Boa Vizinhança\" é de Franklin Roosevelt, nos anos 1930.\n\nA sequência é V – F – F.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:28": {
+   "resposta": "A questão pede a leitura dos gráficos de temas das resoluções da ONU relacionada ao contexto histórico de cada período.\n\nNo gráfico de colonialismo, a curva tem os valores mais altos entre 1950 e 1970 (perto de 30%) e cai depois. É exatamente o período da descolonização afro-asiática, quando dezenas de novos países entraram na ONU e levaram o tema à Assembleia — alternativa A.\n\nAs outras têm erros históricos: \"Guerra nas Estrelas\" foi um programa dos EUA (Reagan), não soviético; o Estado de Israel (1948) não explica os choques do petróleo dos anos 1970, e a Guerra do Golfo é de 1991; a Declaração Universal dos Direitos Humanos é de 1948; a Resolução 242 é de 1967, não dos anos 1990.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:29": {
+   "resposta": "A questão pede a associação entre três conflitos coloniais e suas causas.\n\n- 1ª descrição: disputa entre senhores de engenho de Olinda e comerciantes do Recife por causa da elevação do Recife a vila — **Guerra dos Mascates (3)**.\n- 2ª descrição: tupinambás e outros povos aliados aos franceses contra os portugueses, até a expulsão dos franceses do Rio de Janeiro — **Confederação dos Tamoios (1)**.\n- 3ª descrição: resistência dos povos chamados \"tapuias\" à expansão da pecuária e das lavouras no sertão nordestino — **Guerra dos Bárbaros (2)**.\n\nA ordem é 3, 1 e 2.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:30": {
+   "resposta": "A questão trata do papel do Estado na economia globalizada do século XXI.\n\n- **I (correta)**: políticas monetária, cambial, comercial e fiscal são definidas pelos Estados, e são elas que integram cada país à economia mundial.\n- **II (correta)**: nas economias do leste asiático, sobretudo na China, o Estado planeja, financia e dirige setores estratégicos, ao contrário do receituário neoliberal; foi assim que a China se tornou a \"fábrica do mundo\".\n- **III (incorreta)**: a globalização aumentou a interdependência entre as economias; crises se espalham rapidamente, e a zona do euro respondeu com mecanismos coletivos (Banco Central Europeu, resgates conjuntos), não com negociações isoladas.\n\nCorretas: I e II.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:31": {
+   "resposta": "Questão de compreensão do texto \"How Physicians Can Prepare for the Future of Health Care\".\n\n- **1ª (T)**: o autor diz que ter visão antecipada do futuro (\"foresight\") pode significar a diferença entre sucesso e fracasso para os médicos.\n- **2ª (F)**: o texto pede o contrário: os médicos devem se preparar e até liderar a mudança, em vez de esperar que ela aconteça.\n- **3ª (F)**: o texto afirma que a capacidade de preparação dos médicos tem consequências amplas (\"far-reaching implications\") para pacientes e instituições de saúde.\n\nSequência: T – F – F.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "O recorte desta questão não mostra o texto em inglês em que ela se baseia; ele está na página 19 do caderno, antes da questão 31. A resolução usa esse texto."
+  },
+  "2:32": {
+   "resposta": "Questão de compreensão sobre o que o autor diz da inteligência artificial (IA).\n\nO texto afirma que é improvável que a tecnologia digital substitua os médicos tão cedo, mas que os médicos que usam essas tecnologias podem substituir os que não usam. Ou seja, os médicos precisarão dominar as tecnologias digitais (\"conversant with\" = familiarizado com) — alternativa C.\n\nA alternativa A contradiz o texto (\"unlikely\" que a IA substitua os médicos). A B inverte a ideia: a mineração de dados levaria a avanços na medicina de precisão. A D também inverte: o texto elogia o monitoramento remoto para levar cuidado hospitalar à casa do paciente. A E não aparece no texto.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "O recorte desta questão não mostra o texto em inglês em que ela se baseia; ele está na página 19 do caderno, antes da questão 31. A resolução usa esse texto."
+  },
+  "2:33": {
+   "resposta": "Questão de compreensão sobre a \"mentalidade disruptiva\" (\"disruptive mindset\").\n\nNa seção \"Developing a Disruptive Mindset\", o autor diz que é preciso desafiar os paradigmas existentes, ter uma visão positiva da mudança e nunca se conformar com o status quo. Questionar as práticas atuais é justamente isso — alternativa D.\n\nAs demais vão contra o texto: evitar projetos inovadores (B) ou resistir à mudança (C) é o oposto do que se propõe; o texto não fala em métodos severos (A) nem em abolir regulamentações (E).\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "O recorte desta questão não mostra o texto em inglês em que ela se baseia; ele está na página 19 do caderno, antes da questão 31. A resolução usa esse texto."
+  },
+  "2:34": {
+   "resposta": "Questão de vocabulário em contexto.\n\nO texto diz que, em outros mercados, empresas convencionais ficaram \"left in the dust\" enquanto os inovadores alcançavam novas alturas. A expressão significa \"ficar para trás\", como quem fica comendo poeira de quem passou na frente. Uma empresa que fica para trás diante da inovação torna-se ultrapassada: \"outdated\" — alternativa A.\n\nAs outras (adaptável, inovadora, engenhosa, com excesso de funcionários) não correspondem à ideia de ser superado e substituído.\n\n**Resposta: A**",
+   "confianca": "media",
+   "pendencia": "O recorte desta questão não mostra o texto em inglês em que ela se baseia; ele está na página 19 do caderno, antes da questão 31. A resolução usa esse texto."
+  },
+  "2:35": {
+   "resposta": "Questão sobre o valor do conectivo \"while\".\n\nNo trecho, \"keeping ahead of the curve\" (estar à frente, antecipar-se) é recompensado, enquanto \"missing the boat\" (perder a oportunidade) traz perigo. \"While\" aqui tem valor de contraste (\"ao passo que\"), opondo duas situações de resultados contrários — alternativa E.\n\nNão são duas ações exigidas, nem duas decisões prejudiciais, nem duas condições desejáveis: uma é desejável e a outra, arriscada.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "O recorte desta questão não mostra o texto em inglês em que ela se baseia; ele está na página 19 do caderno, antes da questão 31. A resolução usa esse texto."
+  },
+  "2:36": {
+   "resposta": "Movimento uniformemente variado: a distância é a velocidade média vezes o tempo.\n\nDados: v final = 0, Δt = 6 s, Δs = 105 m.\n\nNo MUV, a velocidade média é a média das velocidades inicial e final:\nΔs = (v₀ + 0) ÷ 2 · Δt\n105 = (v₀ ÷ 2) · 6\n105 = 3 · v₀\nv₀ = 35 m/s\n\n(A desaceleração é a = 35 ÷ 6 ≈ 5,8 m/s², não é necessária.)\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:37": {
+   "resposta": "Equilíbrio de forças no bloco e no homem.\n\nNo bloco (sem atrito), a tração equilibra a componente do peso paralela ao plano:\nT = m · g · sen 30°\nT = 60 · 10 · 0,5 = 300 N\n\nO fio ideal transmite a mesma tração ao homem, que é puxado para cima por 300 N. No homem em repouso:\nN + T = P\nN = 80 · 10 − 300\nN = 800 − 300 = 500 N\n\nO piso exerce 500 N sobre o homem. A alternativa A (800 N) ignora a força do fio.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:38": {
+   "resposta": "Equilíbrio de momentos numa alavanca com braços diferentes (dupla pesagem).\n\nCom M à esquerda (braço x) e m₁ à direita (braço y):\nM · x = m₁ · y\n\nCom M à direita e m₂ à esquerda:\nm₂ · x = M · y\n\nDividindo a primeira pela segunda:\nM ÷ m₂ = m₁ ÷ M\nM² = m₁ · m₂\nM = √(m₁ · m₂)\n\nA massa verdadeira é a média geométrica das duas leituras, qualquer que seja a razão x/y. A média aritmética (A) só coincide com ela quando x = y.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:39": {
+   "resposta": "Equação dos espelhos esféricos e aumento linear.\n\nDados: R = 40 cm, então f = 20 cm (côncavo) e f = −20 cm (convexo). Aumento A = f ÷ (f − p).\n\nEspelho côncavo: imagem com metade do tamanho só pode ser real e invertida (A = −1/2):\n−1/2 = 20 ÷ (20 − p) → 20 − p = −40 → p = 60 cm\n\nEspelho convexo: imagem sempre virtual e direita (A = +1/2):\n1/2 = −20 ÷ (−20 − p) → 20 + p = 40 → p = 20 cm\n\nA vela fica entre os dois:\nd = 60 + 20 = 80 cm\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:40": {
+   "resposta": "Circuito com chave: identificar os nós ligados por fio e calcular a resistência equivalente.\n\nCom a chave fechada, a bateria fica entre o ponto do alto do círculo (ligado por fio ao ponto da esquerda, que chamaremos de E) e o ponto da direita (D). Resistores:\n- 6 Ω vertical e 3 Ω: ambos entre E e o centro O → em paralelo: 6 · 3 ÷ 9 = 2 Ω\n- 4 Ω entre O e D → 2 + 4 = 6 Ω entre E e D\n- 6 Ω de baixo, também entre E e D\n\nEquivalente: 6 Ω em paralelo com 6 Ω = 3 Ω.\n\nO voltímetro continua em 9 V (gerador ideal). O amperímetro está em série com a bateria:\ni = 9 ÷ 3 = 3 A\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

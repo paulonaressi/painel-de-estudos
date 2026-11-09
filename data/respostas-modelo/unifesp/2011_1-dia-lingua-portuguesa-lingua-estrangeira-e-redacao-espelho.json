@@ -1,0 +1,222 @@
+{
+ "indice": "data/questoes/unifesp/2011_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra a leitura fiel do que o texto afirma. A autora diz que \"bullying\" é palavra inglesa, ainda sem tradução no Brasil, usada para qualificar comportamentos violentos na escola, de meninos e de meninas — exatamente o que resume a alternativa B.\n\nAs outras extrapolam ou deturpam: o texto não prevê que a palavra se tornará familiar (A); o \"quase natural\" do texto se refere ao modo como os agressores agem, não a uma aceitação crescente do fenômeno (C); a falta de tradução não é apresentada como dificuldade (D); e o texto diz que as atitudes \"geralmente\" não têm motivação, sem falar em metade dos casos (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão pede a paráfrase de um trecho. O texto afirma que os mais fortes usam os mais frágeis como \"meros objetos de diversão, prazer e poder\", com o intuito de maltratar, intimidar e humilhar. A alternativa A resume isso: os mais fortes usam sua prepotência e a intimidação dos mais frágeis para se divertir.\n\nB contradiz o texto, que fala em atos intencionais, e não involuntários. D também contradiz: as agressões \"geralmente\" não têm motivação específica, isto é, são gratuitas. C (tratamentos dispendiosos) e E (consequência natural da sociedade) não aparecem no texto; o \"invariavelmente\" se refere ao sofrimento das vítimas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão pede a compreensão de um relato. A própria Ana explica por que é perseguida: usa preto, ouve rock, pinta o cabelo, curte coisas diferentes e fala de outros assuntos, \"por isso, não me aceitam\". Ou seja, ela é vítima porque tem gostos e interesses que o grupo não aprecia (C).\n\nD inverte a relação de causa: o visual dela vem antes dos insultos e é justamente o motivo deles. E contradiz o texto, que diz que, mesmo com as restrições no Orkut e no MSN, \"o tormento continua\". A e B não têm apoio no texto: ele diz que o problema cresce com o uso da tecnologia, e Ana frequenta a escola.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra regência verbal e colocação pronominal. No sentido de \"retribuir um sentimento\", o verbo corresponder não pede o objeto direto \"o\". Em \"ela não o correspondia\", o pronome está mal empregado; a construção adequada é simplesmente \"ela não correspondia\" (subentende-se \"ao amor dele\"), como na alternativa B. O erro, portanto, é de uso de pronome.\n\nAs demais apontam \"erros\" que não existem: \"mas\" está correto como conectivo (A e C), \"apaixonado\" não precisa ser trocado por \"obcecado\" (D) e \"cursava\" está bem empregado (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra a leitura de dados do texto. São cerca de 47 mil assassinatos por ano, e logo em seguida o autor diz que os acidentes fatais de trânsito vêm \"logo atrás\" em letalidade, com 33 a 35 mil mortes por ano. Os acidentes de trânsito são, portanto, quase tão importantes quanto os assassinatos como causa de morte, como diz a alternativa D.\n\nAs demais extrapolam o texto. Ele não compara a dificuldade de eliminar cada forma de violência (A); atribui à polícia apenas uma parcela das mortes, sem restringir os assassinatos às periferias (B); diz que os direitos estão assegurados na Constituição, e não que são restritos (C); e o custo que cita (R$ 5,3 bilhões) se refere aos acidentes de trânsito, não ao conjunto das mortes (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra pronome relativo: a que palavra cada \"que\" se refere e que função tem na oração. No primeiro caso, \"que varia de região para região\" retoma \"parcela\": é a parcela das mortes que varia (o verbo no singular confirma). No segundo, \"que se respalda na impunidade\" retoma \"polícia\", que é quem continua cometendo crimes.\n\nNos dois casos o relativo é o sujeito do verbo da oração adjetiva (\"varia\" e \"se respalda\"). Logo: parcela, sujeito; polícia, sujeito (A).\n\n\"Mortes\" (B) não concorda com \"varia\", e \"ação\" (D e E) não é quem se respalda na impunidade.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão pede que se confira cada afirmação com o texto.\n\nI está incorreta. O texto diz que a privação do emprego, do salário digno, da moradia etc. \"pode ser compreendido\" como forma de violência; em lugar nenhum diz que isso \"raramente\" acontece.\n\nII está correta: a falta de educação, saúde e transporte público está na mesma lista de privações que podem ser vistas como violência.\n\nIII está correta: o texto diz que uma discussão num botequim de periferia pode terminar em morte, como mais um item da \"lista da violência\".\n\nEstão no texto II e III, apenas (D).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão pede a interpretação do segundo parágrafo. Depois da guerra começa um \"ciclo de emudecimento\" dos dois lados. Do lado brasileiro, sedimenta-se no mundo das letras a ideia do país como \"paraíso racial\" (uma ideologia). Do lado dos imigrantes, os descendentes se concentram na própria ascensão social (uma postura pragmática). As duas atitudes juntas produziram o silêncio sobre a intolerância (C).\n\nA erra: as quatro décadas são de silêncio, não de intolerância cultivada. B faz um juízo que o texto não faz. D atribui ao assassinato motivação racista e o põe como início das hostilidades, quando o texto fala em atentados anteriores da Shindô-Renmei. E contradiz o texto: os atentados acirraram a hostilidade.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra a diferença entre oração adjetiva explicativa e restritiva. A explicativa, separada por vírgulas, acrescenta uma informação sobre um termo já definido. A restritiva, sem vírgulas, delimita quais elementos o termo abrange.\n\nEm \"a população de Osvaldo Cruz, que já estava com os nervos à flor da pele...\", a oração explica algo sobre a população inteira da cidade. Já em \"qualquer japonês que encontrasse pela frente\", a oração restringe: não todo japonês, mas o que fosse encontrado. É o que diz a alternativa D.\n\nA inverte as funções. B e C também erram, porque as vírgulas marcam justamente o caráter explicativo e dispensável da primeira oração.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra o sentido de expressões em contexto. \"Estar com os nervos à flor da pele\" significa estar extremamente sensível, irritadiço, prestes a reagir a qualquer estímulo: daí \"ultrassensibilidade\". O \"eclipse do Estado Novo\" é uma metáfora para o fim daquele regime, encerrado em 1945, junto com o final da guerra e da Shindô-Renmei. Logo, final (E).\n\nA erra no segundo termo, porque eclipse não é ressurgimento, assim como \"recrudescimento\" em D, que é agravamento. B e C dão a \"à flor da pele\" sentidos (ódio, vingança) mais fortes que os da expressão.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão cobra a 3ª geração romântica, a poesia condoreira de Castro Alves.\n\nI está correta. O fragmento de \"O navio negreiro\" tem dramaticidade (o porão \"imundo\", a \"lúgubre coorte\"), típica do poeta-condor, discípulo assumido de Victor Hugo.\n\nII está correta. A poesia social da 3ª fase era feita para ser declamada a grandes públicos, com hipérboles, exclamações e preocupação social.\n\nIII está correta. O poema é abolicionista e explora a sonoridade: rimas (leão/amplidão, fundo/imundo), ritmo marcado em versos de sete sílabas, aliterações e reticências expressivas.\n\nTodas estão corretas (E).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão cobra a construção do fragmento, que se organiza em antíteses entre \"Ontem\" e \"Hoje\". Ontem, na África, havia liberdade, caça, sono tranquilo; hoje, no porão do navio, há peste, morte e corrente. O eu lírico denuncia a escravidão por meio dessas oposições intensas (B).\n\nA erra porque o paralelismo \"Ontem... Hoje...\" se repete na segunda estrofe. C erra porque \"jaguar\", em \"tendo a peste por jaguar\", também é metafórico: a peste ataca como uma fera. D erra porque o tom é de revolta e denúncia, não de resignação. E erra porque os versos são todos de sete sílabas (redondilha maior).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra a marca naturalista do determinismo biológico: o ser humano movido por instintos e impulsos fisiológicos, mais do que pela razão ou pela moral. Na alternativa A, Amaro, um padre, ergue-se \"cerrando os dentes\", com uma \"decisão brutal\" de possuir Amélia. É o desejo sexual tomando conta do personagem como uma força animal, o que liga o trecho ao Naturalismo.\n\nAs outras alternativas narram ações sem esse peso instintivo: recomendar e deixar o livro (B e C) são gestos de aproximação calculados; a insônia de Amélia (D) e o olhar baixo (E) mostram perturbação, mas não o impulso brutal que caracteriza a visão determinista.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão pede a interpretação do primeiro parágrafo. Amaro, lendo até tarde, ouve ranger a cama de Amélia e imagina cenas íntimas dela, que conhece da convivência diária: desfazendo as tranças, desapertando as ligas. É a observação constante da moça na casa que alimenta o desejo dele (B).\n\nA erra porque o livro que ele lia não desperta amor, apenas o perturba com períodos \"túmidos de desejo\". C não se sustenta: a perturbação de Amélia não vem da obra em si. D extrapola: nada indica aumento de religiosidade, e a palidez e a insônia sugerem outra coisa. E diz mais do que o texto: há sinais de perturbação em Amélia, mas não de correspondência declarada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão pede uma frase que confirme a máxima \"o menino é o pai do homem\", isto é, que as características da infância permanecem no adulto. No último parágrafo, Brás Cubas diz que, já adulto, foi opiniático e egoísta e que, se não passou o tempo escondendo chapéus, \"alguma vez\" puxou pelo rabicho das cabeleiras. É a mesma travessura de criança repetida pelo homem feito (E).\n\nAs alternativas A a D falam só de atos do menino (a maldade, a escrava ferida, a cinza no tacho, Prudêncio como cavalo), sem mostrar que permaneceram na vida adulta.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão cobra a ironia machadiana. Brás Cubas narra com naturalidade que quebrou a cabeça de uma escrava, que culpou outra pelo doce estragado e que montava Prudêncio, um menino escravizado, como cavalo, enquanto o pai o admirava. Ao expor essa naturalidade sem comentário moral, o texto produz um juízo crítico sobre a sociedade escravista que formou aquele menino (B).\n\nA erra: não há determinismo naturalista, e a narrativa é irônica e memorialística. C erra: o tom é leve e cínico, não sisudo. D não procede, porque os papéis de senhor e escravo são bem definidos. E é a mais tentadora, mas o narrador conta suas crueldades abertamente, até com certo orgulho: nada é revelado de forma sutil.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra um recurso de construção do período. Para mostrar o \"menino diabo\", o narrador acumula ações ligadas pela conjunção \"e\": quebrou a cabeça da escrava \"e\" deitou cinza ao tacho \"e\" foi dizer à mãe...; punha as mãos no chão, \"e\" recebia um cordel, \"e\" trepava-lhe ao dorso, \"e\" fustigava... Essa sequência de orações coordenadas sindéticas aditivas (polissíndeto) dá a impressão de travessuras sem fim (D).\n\nNão há metáforas em abundância (A) nem vocabulário raro (B). O discurso direto aparece só em falas curtas (C). As orações adjetivas restritivas são poucas (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra marcas de oralidade. A versão em cordel troca palavras do registro culto por formas próximas da fala popular: \"malino\" no lugar de maligno (adjetivo usado no original), \"botava\" no lugar de punha (\"punha as mãos no chão\" no original), \"inda\" por ainda e \"pra\" por para. São quatro adaptações à oralidade de termos comuns da língua padrão (A).\n\nAs demais alternativas incluem palavras que não são versões populares de termos do original: \"zombaria\" e \"daí\" pertencem normalmente à língua padrão e não correspondem a nada específico em Machado.\n\n**Resposta: A**",
+   "confianca": "media",
+   "pendencia": "\"Estripulia\" (alternativa B) também é forma popular (de \"estrepolia\") e lembra as travessuras do original; o gabarito A se apoia em correspondências mais diretas, como malino/maligno e botava/punha."
+  },
+  "0:19": {
+   "resposta": "A questão cobra metrificação, estrofação e rimas.\n\nI está correta. Contando até a última tônica, \"Cres-cia-na-tu-ral-men(te)\" e \"Fa-zen-do es-tri-pu-li(a)\" têm sete sílabas poéticas (redondilha maior), padrão do cordel.\n\nII está correta: são três estrofes de seis versos, ou seja, sextilhas.\n\nIII está correta. Em cada estrofe rimam o 2º, o 4º e o 6º versos (estripulia/zombaria/dia; negado/punhado/Endiabrado; falo/montá-lo/cavalo), e os ímpares ficam soltos: ABCBDB.\n\nTodas estão corretas (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão pede o que há em comum entre Machado de Assis e Castro Alves nos trechos lidos. Os dois tratam da escravidão: o porão do navio negreiro e os escravos de Brás Cubas. Os dois têm visão crítica da realidade, um pela denúncia, outro pela ironia. Os dois exploram o ritmo da frase, nos versos de Castro Alves e no polissíndeto de Machado. E os dois mostram o homem como objeto do homem: Prudêncio usado como cavalo e os cativos amontoados como carga. Tudo isso está em C.\n\nA e E erram por atribuir aos dois uma característica de só um deles: a contenção expressiva é machadiana, e o tom arrebatado é de Castro Alves. B e D erram ao incluir a intertextualidade explícita, que não existe em nenhum dos dois.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão pede que se confira cada afirmação com o texto.\n\nI está incorreta. O narrador diz que o apelido era \"inverdade\": Rômulo era chamado de cozinheiro só porque, gordo, \"lembrava culinária\", e não porque tivesse cozinhado.\n\nII está incorreta. As provocações nasciam do \"enfado\", e Rômulo foi escolhido como \"expiatório do desfastio\", isto é, para espantar o tédio. A antipatia existia, mas não era o motivo essencial.\n\nIII está correta. Contra os pequenos, Rômulo reagia com brutalidade; diante dos mais fortes, resmungava; no escuro, esbravejava e marcava alguém para a vingança; depois, ficava acabrunhado ou tinha acessos de raiva. As reações variavam conforme a situação.\n\nSó III está correta (C).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão distingue a voz do narrador da voz atribuída ao grupo. Em \"Cozinheiro, Rômulo!\", o narrador intervém claramente: depois de chamar a provocação de \"inverdade\", ele exclama, indignado, e justifica com ironia por que o apelido não tinha fundamento. Em \"Vindita inexorável\", a frase nominal curta, em discurso indireto livre, reflete a percepção dos colegas sobre Rômulo: quem ele marcava não escaparia da vingança. Daí a alternativa A.\n\n\"Mestre-cuca!\" (C, D e E) reproduz o apelido gritado pelos meninos: é a fala do grupo, não um ponto de vista do narrador nem uma opinião elaborada sobre Rômulo.\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "A alternativa D também é defensável, porque \"Mestre-cuca!\" é o grito dos colegas; o gabarito prefere ler \"Vindita inexorável\" como a opinião do grupo sobre Rômulo e o apelido como simples provocação."
+  },
+  "0:23": {
+   "resposta": "A questão pede uma leitura global do comportamento de Rômulo. Diante das provocações, ele oscila: fica tonto, esbraveja juras de morte, senta-se acabrunhado, procura lembrar se algum dia cozinhou (\"vendo se se lembrava de haver tratado panelas\"), o que mostra que perde a certeza sobre si mesmo, e tem acessos de raiva. É a oscilação entre angústia e fúria descrita em B.\n\nA erra: a tensão vinha do enfado dos alunos, não da marcação dos inspetores. C confunde: os suscetíveis eram os provocados, não os que provocavam. D erra porque, com os mais fortes, Rômulo apenas resmungava. E erra porque o acabrunhamento não predominava: ele também tinha frequentes acessos de raiva.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão cobra função sintática. Em \"Para que o não manifestassem\", o pronome \"o\" retoma Rômulo e é objeto direto de \"manifestassem\" (manifestar algo, no sentido de demonstrar a antipatia por ele).\n\nEm E, \"os cabelos\" é objeto direto de \"puxavam\": puxavam os cabelos, sem preposição (o \"lhe\" indica de quem eram).\n\nAs demais têm outras funções:\n\"Dos mais fortes\" é objeto indireto de vingar-se (A).\n\"Os menores\" é sujeito de \"aproveitavam-se\" (B).\n\"Por vozes fantásticas\" é agente da passiva (C).\n\"A acessos de raiva\" é objeto indireto de entregar-se (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão cobra o romance de 30 e Capitães da areia.\n\nI está incorreta. O romance se passa em Salvador e trata de crianças excluídas e violentadas, mas isso não destoa da Geração de 30: está no centro do seu projeto de denúncia social.\n\nII está correta. A linguagem é fluente, coloquial, de frases curtas e acessível, herança das conquistas modernistas.\n\nIII está correta. Sem-Pernas parte de um tipo social (o menino pobre, aleijado, abandonado), mas ganha densidade psicológica quando vêm à tona a surra na cadeia e a dor que nunca desapareceu.\n\nCorretas: II e III (E).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra o valor dos tempos verbais. O pretérito mais-que-perfeito indica um fato passado anterior a outro fato também passado; o pretérito imperfeito do subjuntivo pode exprimir desejo ou hipótese.\n\nEm A, \"vivera\" (mais-que-perfeito) situa a vida na casa do padeiro antes do momento narrado, e \"acarinhasse\" (imperfeito do subjuntivo) exprime a mão desejada, que ainda não existe.\n\nNas outras, os pares não cumprem as duas funções: \"estava\", \"recusava\" e \"quer\" estão no indicativo (imperfeito ou presente), e \"sofreu\", \"chorou\", \"desapareceu\" e \"levaram\" estão no pretérito perfeito. \"Tivera\" (C) é mais-que-perfeito, mas vem acompanhado de \"recusava\", que não é hipotético.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão cobra a prosopopeia, figura que atribui ações ou sentimentos humanos a seres inanimados. Em \"A perna coxa se recusava a ajudá-lo\", a perna ganha vontade própria e \"se recusa\", como uma pessoa. E é justamente a deficiência física, a perna coxa, a razão principal pela qual Sem-Pernas é estigmatizado: daí o próprio apelido.\n\nNas outras alternativas não há personificação ligada ao estigma: \"lágrimas secaram\" e \"borracha zunia\" descrevem fenômenos físicos, e \"a dor nunca desapareceu\" é uso figurado comum, que não remete à deficiência.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra a quebra de expectativa na construção do texto. Os primeiros versos caracterizam Geni sempre na mesma direção: ela se entrega a todos os marginalizados (errantes, cegos, detentos, loucos, velhinhos), o que a sociedade vê como degradação. O verso da alternativa C rompe essa lógica ao chamá-la de bondosa, revelando que a entrega é generosidade. Cria-se uma forte oposição: justamente por isso a cidade a apedreja, o que expõe a hipocrisia coletiva.\n\nOs versos de A, B e E continuam a série depreciativa, e o de D é a reação da cidade, consequência da caracterização, e não a ruptura dela.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra metrificação e tipo de rima. Contando as sílabas poéticas até a última tônica, com as elisões da fala, os versos do fragmento têm, em sua maioria, sete sílabas: são heptassílabos (redondilha maior), o metro popular por excelência.\n\nAs rimas são predominantemente consoantes, isto é, coincidem vogais e consoantes a partir da última vogal tônica (por exemplo, nos dois primeiros versos, torto/porto). A rima toante, em que só as vogais coincidem, não é a regra.\n\nLogo: heptassílabos e rima consoante (E).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão cobra função sintática. O verso inicial depende do adjetivo \"namorada\", que vem dois versos depois. A ordem direta seria: ela já foi namorada de tudo quanto é sujeito marginalizado. \"Namorada\" é um nome de sentido relativo (namorada de alguém), e o termo introduzido pela preposição \"de\" completa esse sentido. É, portanto, complemento nominal (E).\n\nNão é adjunto adnominal (D) porque não qualifica nem especifica \"namorada\": indica o alvo da relação expressa pelo nome. Não é objeto indireto (B), que completaria um verbo, nem predicativo (C); o predicativo do sujeito é \"namorada\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão pede o que o texto diz sobre a disputa pelo primeiro voo. A autora afirma que o \"fierce historical debate\" (irmãos Wright × Santos Dumont) não será resolvido no artigo, mas que ele é um exemplo marcante da \"lack of global recognition\" (falta de reconhecimento mundial) das conquistas brasileiras em inovação. Ou seja, a disputa mostra que o mundo não reconhece de fato a inovação brasileira (B).\n\nA erra porque o texto diz apenas que o debate não será resolvido \"aqui\", não que não pode ser resolvido. C e D afirmam o que o texto não diz: não há definição estabelecida nem disputa encerrada. E erra porque o texto não diz onde a disputa começou.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão pede o que, segundo o texto, os brasileiros aprendem na escola. O primeiro parágrafo diz que quem cresceu no Brasil aprendeu que o verdadeiro inventor foi Alberto Santos Dumont, mineiro, cujo 14-bis \"took to the skies in 1906\" (levantou voo em 1906). É exatamente a alternativa E.\n\nAs outras não estão no texto. A, B e C citam critérios do debate (tempo no ar, decolagem sem ajuda, testemunhas), mas o texto não diz o que se ensina sobre eles. D erra porque o texto diz que Santos Dumont era de Minas Gerais, não que o 14-bis voou lá (o voo foi em Paris).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão pede o que o texto diz sobre a aeronave Ipanema, da EMBRAER. Em 2005 ela foi o primeiro avião produzido comercialmente movido só a biocombustível, \"This time, the world was watching\", e a revista Scientific American a apontou como uma das invenções mais importantes do ano (C).\n\nB distorce: o texto não fala em um século de EMBRAER nem em empresa do ano. D inverte a relação: a atenção ao Ipanema reflete um interesse que já existia por biocombustíveis. E confunde: a redução de 50–60% é das emissões de carbono, não do consumo de combustível. A não tem relação com o texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra o terceiro parágrafo. O texto fala da \"recent backlash against biofuels\" — uma forte reação contrária a eles —, que os culpa pela escassez mundial de alimentos porque a terra \"is reportedly diverted from food crops\", isto é, áreas antes usadas para alimentos passaram a produzir biocombustíveis (A).\n\nB inverte: os biocombustíveis são acusados de agravar a falta de alimentos, não de reduzi-la. C afirma como fato um prejuízo que o texto apresenta só como crítica. D e E não aparecem no texto, que não fala em solução temporária nem em produção diversificada.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão pede o motivo da expressão \"natural knowledge economy\". O último parágrafo diz que os recursos e ativos naturais do Brasil são uma área-chave de oportunidade para a ciência e a inovação, \"a focus that leads us to characterise Brazil as a 'natural knowledge economy'\". Ou seja, oportunidades de ciência e inovação nasceram dos recursos naturais do país (D).\n\nA é uma ideia geral, não o motivo do rótulo. B e C contradizem o texto, que fala em escassez de alimentos e demanda de energia como desafios ainda presentes e em críticas ao impacto dos biocombustíveis sobre a produção de alimentos. E não está no texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão pede o sentido de \"This time, the world was watching\" (desta vez, o mundo estava olhando). \"Desta vez\" retoma o primeiro parágrafo: o voo do 14-bis em 1906 é exemplo da falta de reconhecimento mundial das conquistas brasileiras. Em 2005, com o Ipanema, aconteceu o contrário: o mundo prestou atenção. O trecho, portanto, contrasta os dois momentos (B).\n\nA erra porque a EMBRAER não foi fundada com o Ipanema. C erra porque não há analogia com o Kitty Hawk. D e E não têm base no texto: o intervalo de um século não é criticado, e nenhum cientista viajou no voo inaugural.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão cobra referência pronominal. Em \"To their advocates, biofuels... offer a more secure, sustainable energy supply\", o possessivo \"their\" se refere a \"biofuels\", que vem logo depois: \"para os seus defensores\", isto é, para os defensores dos biocombustíveis (A). \"Advocates\" significa defensores, partidários.\n\nO pronome antecipa o substantivo que aparece na sequência da frase. As outras alternativas tentam ligar \"their\" a termos anteriores (herdeiros de Santos Dumont, EMBRAER, cientistas), mas o sentido da frase é que quem defende os biocombustíveis vê neles uma energia mais segura e sustentável.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão cobra o valor da conjunção \"as\". No trecho, os biocombustíveis são culpados pela escassez mundial de alimentos \"as land is reportedly diverted from food crops\" — porque, segundo se diz, terras antes usadas para alimentos são desviadas para eles. \"As\" tem aqui o valor de \"since\"/\"because\": introduz a causa da acusação (E).\n\n\"As\" também pode indicar comparação (\"as... as\") ou tempo (\"enquanto\"), mas nesse contexto explica por que os biocombustíveis são culpados. Não há contraste, condição ou consequência.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão pede uma síntese do texto. O neurocientista Robert Provine diz que o riso é sobretudo uma resposta social (\"Laughter above all else is a social thing\") e o texto mostra que macacos, cães e ratos também riem, e que chimpanzés fazem cócegas uns nos outros. Logo: resposta social, observável em alguns animais (E).\n\nA erra: o shopping aparece só numa piada de abertura, não como método de pesquisa. B contradiz o texto: todos os grupos linguísticos riem do mesmo modo e entendem o riso. C contradiz o texto: surdos riem sem ouvir, e o riso não depende de um sentido. D extrapola: são citadas algumas universidades, não \"as principais do mundo\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão pede uma informação comprovada pelo texto. Provine diz que o riso é \"a social thing\" e que \"the requirement for laughter is another person\". Panksepp diz que o riso é \"deeply social\". Os dois concordam, portanto, que o riso é uma resposta social (D).\n\nC contradiz o texto: só 10 a 15% do riso vem de piadas. A não está no texto: os chimpanzés riem, mas nada indica que seja no mesmo padrão humano. B não é dito, e E contradiz o texto: os bebês riem muito antes de falar.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão cobra o último parágrafo. Jeffrey Burgdorf descobriu que o riso, em ratos, produz uma substância química, um fator de crescimento semelhante à insulina,, que age como antidepressivo e redutor de ansiedade. Ou seja: há uma substância produzida no organismo dos ratos pelo riso (B).\n\nA confunde \"insulin-like growth factor\" com crescimento do animal. C e E generalizam o que foi visto só em ratos: Burgdorf apenas \"acha\" que o mesmo provavelmente ocorre em humanos. D contradiz o fim do texto: não se provou que o riso seja o melhor remédio.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A questão cobra o sentido de \"You just do\", em que \"do\" substitui o verbo já mencionado, \"laugh\". O trecho diz que ninguém nos ensina a rir: \"You just do\" = \"você simplesmente ri\". \"Just\" tem o sentido de \"simplesmente\", e o \"do\" retoma \"laugh\". Logo, as pessoas simplesmente riem (A).\n\nB contradiz o trecho, que diz que ninguém ensina. C (rir involuntariamente) é a frase seguinte do texto, mas não é o sentido de \"You just do\". D e E trazem ideias de outras partes do texto (bebês, padrão comum do riso).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A questão cobra o valor de \"whether... or\". Em \"Whether you speak Mandarin, French or English, everyone will understand laughter\", a construção significa \"quer você fale mandarim, francês ou inglês\", isto é, não importa qual dessas línguas você fale, todos entendem o riso. A expressão equivalente é \"No matter if\" (não importa se) (D).\n\n\"Whatsoever\" (seja o que for) reforça negações e não introduz orações. \"In due time\" significa no momento certo. \"Nevertheless\" indica oposição (contudo). \"Furthermore\" acrescenta (além disso).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

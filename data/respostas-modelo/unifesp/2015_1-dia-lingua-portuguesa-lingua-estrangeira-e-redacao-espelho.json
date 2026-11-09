@@ -1,0 +1,232 @@
+{
+ "indice": "data/questoes/unifesp/2015_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra adequação ao registro coloquial. O dono avisa que aquele é o último peixe que compra, e Garfield, num diálogo informal, conclui que precisa aproveitá-lo. No português falado do Brasil é comum usar o pronome reto \"ele\" como objeto (\"saborear bem ele\") e começar a pergunta com o sujeito explícito \"Eu\", como na alternativa E. As demais seguem a norma-padrão ou soam formais demais para a situação: ênclise \"saboreá-lo\" (A), \"saborear a ele\" com preposição (B), subjuntivo com \"Convém que\" (C) e mesóclise \"Saboreá-lo-ei\" (D), a mais distante da fala cotidiana.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão pede a tese do texto de Fernando Pessoa. Ele afirma que a palavra falada é fenômeno natural e a escrita, cultural, e que por isso obedecem a regras \"essencialmente diferentes\": na fala vale a lei do maior número (falar como a maioria fala), e na escrita valem a correção e as formas cultas, que seriam pedantes no trato verbal. Logo, fala e escrita são domínios distintos, e comunicar bem exige empregar os recursos próprios de cada um. A A diz que são da mesma natureza; a C inverte a relação entre natural e cultural; a B e a D não captam a necessidade de adequar a linguagem a cada domínio.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Pela \"lei do maior número\", na fala devemos usar a linguagem como a maioria a usa, mesmo que contrarie a gramática normativa. A alternativa D reproduz o português oral contemporâneo da maioria dos falantes: próclise no início da frase (\"Me esqueci\"), \"Cê\", \"tá\", \"né\". A A e a B usam formas cultas pouco faladas hoje (\"Olvidei-me\", \"Sentir-te-ias\"); a C é gíria e palavrão restritos a um grupo, com sinais gráficos que nem são fala; a E imita uma variedade estigmatizada e regional, não a da maioria.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra concordância verbal e nominal na norma-padrão. Na A: \"surgiram várias dúvidas\" concorda com o sujeito plural posposto; \"O enredo e a temática abordada [...] mostraram\" tem sujeito composto, logo verbo no plural, e o adjetivo pode concordar com o termo mais próximo; \"Vislumbraram-se vieses\" é voz passiva sintética, com verbo concordando com o sujeito \"vieses\". Nas outras há erros: \"ficou várias dúvidas\" e \"mostrou\" (B); \"Vislumbrou-se vieses\" (B, C, D); \"houveram\" com sentido de existir, que é impessoal (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "O poema de Ricardo Reis retoma o tema clássico (horaciano) da fugacidade da vida. As rosas, que \"se apagam\" na fronte \"tão cedo\", e as \"folhas breves\" simbolizam a brevidade de tudo; o eu lírico aceita essa passagem e pede apenas a coroa de rosas, sem querer mais (\"E basta\"). O tema é a passagem rápida do tempo e a brevidade da vida. Não se fala de amor nem de relações entre pessoas (D, E), e a natureza aparece como símbolo do efêmero, não como modelo de vida simples (C).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão pede o reconhecimento da obra pela descrição crítica. O texto fala de um livro difícil de enquadrar num gênero, que descreve minuciosamente \"a terra, o homem e a luta\", feito por um autor que praticou geografia humana e sociologia no começo do século XX, e que, segundo Antonio Candido, está entre a literatura e a sociologia naturalista, mostrando o contraste entre litoral e interior. Trata-se de Os sertões (1902), de Euclides da Cunha, dividido justamente em \"A terra\", \"O homem\" e \"A luta\" sobre a Guerra de Canudos. As outras são romances sem esse caráter de ensaio científico.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "O poema descreve o despertar de quem sai do sono \"como / de uma batalha\": o eu lírico não sabe se está ferido, sente-se zonzo e lava os olhos de onde ainda escorrem \"restos de treva\". Ou seja, ele atribui o mau despertar a uma noite de sono difícil, agitada como uma luta. A batalha é imaginária (\"em lugar algum\"), por isso não há feridas reais (E) nem perturbação mais física que mental (B); o despertar não apaga a noite, que ainda escorre dos olhos (A); e a noite não é forma de enfrentar medos (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão pede o sentido de cada estrofe. Na primeira, o eu lírico toma consciência de que está acordando e compara a saída do sono a sair de uma batalha. Na segunda, levanta hipóteses sobre o que o sono lhe fez (\"Não sei [...] / se estou ferido / se o corpo / tenho / riscado\"). Na terceira, tenta se recompor, lavando o rosto na pia. Isso corresponde à B. A E fala em renovação e em dia melhor, e a D e a C falam em recuperação ou certezas que o poema não traz; a A vê libertação onde ainda há \"restos de treva\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão pede a reescrita que muda o sentido. \"Lugar algum\", com \"algum\" depois do substantivo, tem valor negativo: significa \"nenhum lugar\", e a batalha não aconteceu em parte alguma. Já \"algum lugar\", com \"algum\" antes, tem valor positivo: um lugar qualquer, indeterminado, mas existente. Por isso a D altera o sentido. Nas demais, a mudança na ordem das palavras mantém o significado dos versos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Cobram-se o uso dos porquês e a grafia pelo Novo Acordo. No título \"Ciência explica ___.\", a lacuna fica no fim da frase, antes do ponto: usa-se \"por quê\", separado (equivale a \"por que motivo\") e acentuado por estar em posição final. Na segunda lacuna, o Acordo Ortográfico manda juntar o prefixo \"auto\" quando a palavra seguinte começa por r ou s, dobrando a consoante: \"autorretrato\". O hífen só aparece diante de \"o\" ou \"h\" (auto-observação). Só a E reúne as duas formas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A campanha holandesa parte do pressuposto de que o tempo passado no Facebook poderia ser usado em \"atividades emocionalmente mais realizadoras\": em média 17 minutos por dia, mais de 28 horas em 99 dias. O usuário, portanto, gasta tempo na rede e deixa de se dedicar a momentos mais significativos da vida, como diz a C. O texto não afirma que a rede traga felicidade, equilíbrio ou autoconhecimento (A, B, D), e não considera o tempo gasto pequeno (E): a ideia é justamente que ele faz falta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão pede uma inferência. O texto diz que o projeto responde aos experimentos psicológicos feitos pelo próprio Facebook e que \"a diferença neste caso é que o teste é completamente voluntário\". Se a diferença é a participação voluntária, conclui-se que os experimentos do Facebook foram feitos sem o consentimento dos usuários (A). A B é justamente o que a pesquisa ainda vai medir; a ONG não pretende criar outra rede social (C); o texto não fala em perturbações psicológicas causadas pela rede (D) nem relaciona felicidade a estado emocional (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão é sobre o valor dos artigos. Em \"Uma organização não governamental holandesa\", o artigo indefinido apresenta ao leitor uma informação nova: a ONG aparece pela primeira vez no texto. Em \"longe da rede social\", o artigo definido \"a\" (contraído em \"da\") retoma algo já conhecido: a rede social é o Facebook, citado no título e na frase anterior. Por isso a D é a correta. Os artigos não são equivalentes nem intercambiáveis (A, B), e a C inverte as funções.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão pede a função das aspas. Em \"nem uma 'olhadinha'\", as aspas destacam o substantivo no diminutivo, realçando seu sentido de olhada rápida, só uma espiada: nem isso o participante poderá dar. Em \"'atividades emocionalmente mais realizadoras'\", as aspas indicam que a expressão foi copiada das palavras dos responsáveis pelo projeto, isto é, uma transcrição. A A erra no segundo caso, que não é fala coloquial; não há discurso direto, ironia nem sentido pejorativo nos trechos (B, C, D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão trata do sentido dos sufixos. Em \"olhadinha\", o diminutivo \"-inha\" não indica tamanho físico, mas uma olhada breve, ligeira: sentido de rapidez. Em \"emocionalmente\", o sufixo \"-mente\" forma advérbio de modo a partir do adjetivo \"emocional\" (de modo emocional). Logo, rapidez e modo. A opção E (afeto) é tentadora, porque o diminutivo pode ter valor afetivo, mas aqui não é esse o sentido, e \"-mente\" não indica tempo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão é de regência e colocação de pronomes. \"Cuidar\" é transitivo indireto e pede a preposição \"de\": quem cuida, cuida de alguém, logo \"Eu cuido dela\". \"Respeitar\" é transitivo direto: respeita-se alguém, sem preposição, logo o complemento é o pronome oblíquo \"a\": \"eu a respeito\" (a próclise é atraída pelo pronome sujeito, como é usual). A A e a D tratam \"cuidar\" como transitivo direto ou com \"lhe\"; a B usa \"lhe\" com \"respeitar\"; a E dá um mesmo complemento a verbos de regências diferentes.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "O narrador diz que foi condenado por um crime que não cometeu e do qual nunca se defendeu. Os jornais o chamaram de \"crime passional\" (\"Cherchez la femme\", procurem a mulher), o que indica motivação amorosa; e ele afirma que \"nem negava nem confessava\", porque \"quem cala consente\". Logo, a B resume o que o texto sugere. Nada indica que o poeta fosse o culpado (A), que tenha sido acidente (C) ou que a esposa fosse a criminosa (D); e a defesa é descrita como \"belo discurso\", não confusa (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A confissão de Lúcio se realiza como narrativa em primeira pessoa, centrada em suas lembranças e emoções: é subjetiva. O narrador conta fatos já ocorridos — o crime, o processo, o júri, a condenação — de que participou, por isso predominam os verbos no passado (\"pareceu\", \"esvoaçaram\", \"concedeu\", \"fora\"). Não é argumentação (A, D), pois ele narra mais do que defende uma tese, nem narrativa objetiva (B), já que tudo passa por seu estado de espírito; e não é uma descrição no presente (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "O narrador conta que, depois dos acontecimentos em que se viu envolvido, ficara tão despedaçado que a prisão lhe parecia \"uma coisa sorridente\": \"Era o esquecimento, a tranquilidade, o sono\", um termo para a sua \"vida devastada\". Ou seja, a prisão serviria para amenizar os sofrimentos que arruinaram sua vida, como diz a A. Ele não quis provar inocência nem rever o caso (B, D), pois nem se defendeu; e a prisão não é vista como coroação de erros nem como equilíbrio com a justiça (C, E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão pede o sentido das palavras no contexto. \"Decerto\" significa \"com certeza\", \"certamente\": o narrador tem certeza de que não vão acreditar nele. \"Laivos\" são sinais, traços leves, indícios: um herói com indícios de mistério. \"Oscilar\" é balançar, mudar de um estado a outro: depois das sensações máximas, nada mais fará o narrador variar. A sequência certamente – indícios – variar é a E. \"Decerto\" não significa \"ocasionalmente\", \"possivelmente\" nem \"eventualmente\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "O objeto direto pleonástico ocorre quando o objeto direto aparece antes do verbo e é repetido por um pronome oblíquo átono. Em \"este momento culminante raras são as criaturas que o vivem\", \"este momento culminante\" é o objeto direto de \"vivem\", deslocado para o início da frase por ênfase, e o pronome \"o\" o retoma junto ao verbo. Na A, o \"o\" de \"o viveram\" está junto ao verbo, mas não há termo anteposto retomado na mesma oração; em B, C e E os pronomes \"me\" e \"nos\" não repetem objeto algum.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão pede a comparação de pontos de vista sobre a adaptação de Machado de Assis. Os três textos divergem: o Texto 1 chama a adaptação de \"assassinato\" e convoca protesto na rua; o Texto 2 a defende como porta de entrada para o original; o Texto 3 não quer impedir o projeto, mas é contra o apoio do Ministério da Cultura e vê \"adulteração\" das obras.\n\nPortanto, os posicionamentos são diferentes, e o do Texto 1 é o mais radical, como diz a alternativa E. A alternativa A erra porque o Texto 3 diz expressamente que não defenderia que a autora fosse impedida; a C erra porque o Texto 3 nega o apoio do Ministério; a D erra porque o Texto 2 não fala de financiamento.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "O que se cobra é o valor semântico da preposição \"para\" em cada contexto.\n\nEm \"Vamos para a rua protestar\", \"para\" indica direção, deslocamento até um lugar: é sentido de movimento (equivale a \"rumo à rua\").\n\nEm \"Não será a adulteração de obras, para torná-las supostamente mais legíveis\", \"para\" introduz o objetivo da adulteração: é sentido de finalidade (equivale a \"a fim de torná-las\").\n\nA sequência correta é, portanto, movimento e finalidade. As alternativas com \"conformidade\", \"modo\", \"tempo\" ou \"comparação\" não correspondem a nenhum dos dois usos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão trata do valor expressivo dos sufixos. Em \"Machadão\", o aumentativo -ão não indica tamanho físico, mas afeto e admiração: o autor do texto trata Machado com familiaridade e simpatia, como um grande escritor querido.\n\nEm \"machadada\", o sufixo -ada forma a palavra que significa golpe de machado. O cronista brinca com o nome do escritor: \"dar uma machadada\" num jovem cheio de estímulos digitais seria impor-lhe Machado à força, como uma pancada. É um jogo de palavras irônico.\n\nPor isso a sequência é simpatia e ironia. A alternativa B inverte a ordem.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "O filosofismo de Memórias póstumas aparece nas passagens em que se discutem ideias abstratas sobre o homem e a vida, e o exemplo mais claro é o Humanitismo, a filosofia de Quincas Borba.\n\nNa alternativa B, Quincas Borba expõe seu \"sistema\" para destruir a dor, explicando-a como ilusão herdada e transmitida: é reflexão filosófica, ainda que paródica (o romance satiriza as teorias cientificistas do século XIX).\n\nAs demais passagens são narrativas: A conta a origem da família; C relata a morte do narrador; D reproduz um bilhete de Virgília; E relembra uma travessura de infância. Nenhuma delas desenvolve uma teoria.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra a interpretação da ironia na fala do condenado. Richard Humprey foi preso por distribuir conteúdo pirateado e, na prisão, a própria instituição exibiu uma cópia ilegal de um filme.\n\nA pergunta retórica \"e aí a cadeia mostra filmes piratas?\" denuncia a incoerência: o Estado pune a pirataria, mas a pratica dentro do presídio. É, portanto, inconformismo com a contradição entre o discurso e a prática, como diz a alternativa D.\n\nA fala não mostra arrependimento nem vontade de combater a pirataria (A, B, C), nem discute critérios legais de condenação (E); ela só aponta a hipocrisia da situação.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "O conto de Eça de Queirós é satírico: o narrador, que enriqueceu de repente, descreve o comportamento das pessoas diante do seu dinheiro.\n\nTodos se rebaixam: a dona da pensão passa a servi-lo de vestido de seda, aristocratas, padres e povo vêm \"de lábio abjeto\" pedir favores, um velho nobre oferece a filha \"para esposa ou para concubina\", mulheres se oferecem por carta e ele é tratado \"como um ídolo sobre o altar\". O exagero dessas cenas é irônico e mostra relações movidas pelo interesse, com as pessoas se humilhando perante ele, como afirma a alternativa C.\n\nA B erra porque o texto não vê honestidade nessas atitudes; a E, porque a aristocracia também o venera; a A, porque ele não se mostra humilde.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "O recurso é a gradação: os adjetivos aplicados ao narrador crescem em intensidade, um após o outro, \"sublime\", \"celeste\" e, por fim, \"extraceleste\", que já ultrapassa o céu.\n\nEssa escalada mostra como os jornais competiam para bajulá-lo, procurando termos cada vez mais elogiosos para o novo milionário; daí a referência a jornalistas que \"esporeavam a imaginação\".\n\nHá exagero, mas o recurso estrutural do trecho é a progressão dos termos, e ela não serve para enfatizar a quantidade de atenção recebida (A). Não há antítese (E), pois os termos não se opõem, nem simples redundância (D). O narrador não refuta o tratamento (C); ele o expõe com ironia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra análise de conectivos, pronomes e concordância.\n\nA) Correta. \"Desde que me sabia rico\" significa \"a partir do momento em que soube que eu era rico\": a locução indica tempo (e não condição, outro uso possível de \"desde que\").\n\nB) \"Mesma\" concorda com \"ela\"; trocar por \"mesmo\" seria erro de concordância.\n\nC) O pronome \"a\" em \"olhando-a\" retoma \"turba\", não \"Lisboa\".\n\nD) \"Em que\" equivale a \"na qual\"; \"cuja\" indica posse e não cabe ali.\n\nE) \"Ali\" retoma o interior do leito, sob os cortinados, onde fica a lâmpada, e não os \"versos eróticos de Catulo\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "O soneto de Cruz e Sousa é simbolista. O tema é a condição existencial do eu lírico, que sofre e busca nos \"Silêncios\" um consolo de natureza transcendente (\"celestes raios\", \"anjos inefáveis\", \"mistérios insondáveis\").\n\nQuanto à forma, os versos são decassílabos: \"Lar-gos-Si-lên-cios-in-ter-pre-ta-ti(vos)\" tem 10 sílabas poéticas. A musicalidade, traço do Simbolismo, vem de assonâncias e aliterações (como as sibilantes em \"Sombra, segredo\").\n\nAs outras alternativas erram na forma: não há redondilha maior (A), versos livres (B e C) nem versos de doze sílabas (E). Além disso, as rimas das quadras são interpoladas (ABBA), não alternadas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A tira é em inglês e o humor está no estranhamento das crianças diante de frutas e verduras. A professora apresenta \"real food\" como algo que os antepassados comiam e que não vem em embalagens nem de lanchonetes de fast-food. As crianças reagem com \"Whoa! Weird\", \"Creepy\" e perguntam se terão de comer algo \"que cresceu\" e por que aquilo tem terra.\n\nA crítica, portanto, é aos maus hábitos alimentares das crianças, acostumadas apenas a comida industrializada, como diz a alternativa B.\n\nNão há falta de modos (A), a questão não se restringe a vegetais verdes (C), a professora não é o alvo (D) e não há conflito entre pais e filhos (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão pede o sentimento das crianças diante da \"comida de verdade\". As falas \"Weird\" (estranho), \"Creepy\" (assustador, repulsivo) e o espanto com a terra nos alimentos mostram nojo e aversão.\n\n\"Revulsion\" significa repulsa, aversão, que é exatamente o que elas expressam.\n\nOs outros termos não servem: \"damage\" é dano; \"awareness\" é consciência; \"disguise\" é disfarce (falso cognato que lembra \"desgosto\", mas \"desgosto\" em inglês seria \"disgust\"); \"sorrow\" é tristeza.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão pede o que concluiu a pesquisa de Duncan Selbie, segundo o primeiro parágrafo. O texto diz que, se os níveis de obesidade voltassem aos de 1994, haveria 1,7 milhão de pessoas a menos com diabetes (\"1.7 million fewer people would suffer from the condition\").\n\nLogo, menos pessoas sofreriam de diabetes se a obesidade retornasse aos números de 1994, como afirma a alternativa E.\n\nA alternativa A distorce o dado: 1,7 milhão não é o número de obesos, e sim a redução de casos de diabetes. O texto também não fala de causas genéticas (B), nem de mais diabéticos no passado (C), nem de redução da obesidade nos últimos 20 anos (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A expressão \"through no fault of their own\" significa \"sem ter culpa disso\", \"não por culpa própria\". O texto reconhece que muitas pessoas desenvolvem diabetes por fatores que não dependem delas, antes de falar da relação com a obesidade.\n\nPortanto, essas pessoas não podem ser culpadas por adoecer: \"can't be blamed for getting ill\", alternativa B.\n\nA alternativa C diz o contrário (que levaram uma vida pouco saudável). As demais tratam de cintura, pesquisas de remédios ou tratamento pago pelo NHS, assuntos que o trecho não aborda.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A informação está no segundo parágrafo: combater o diabetes já consome do NHS (o sistema público de saúde britânico) \"10 per cent of its budget for England\", e o impacto sobre o Tesouro em 20 anos de estilo de vida pouco saudável \"could be catastrophic\". Ou seja, o gasto já é de 10% e tende a crescer.\n\nIsso corresponde à alternativa C.\n\nA B generaliza para \"os países desenvolvidos\" e afirma que os recursos se esgotarão, o que o texto não diz. A E fala de catástrofe nas comunidades, mas o texto prevê um impacto catastrófico nas contas públicas. A A e a D tratam de cura e diagnóstico rápido, que não aparecem no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "\"Given that\" significa \"dado que\", \"considerando que\". A expressão apresenta como fato já aceito a informação de que o diabetes consome recursos do NHS, e a partir dela o autor conclui que o impacto futuro pode ser catastrófico.\n\nEla introduz, portanto, um pressuposto, ou seja, a premissa que sustenta a conclusão do período.\n\nNão é generalização, exemplo, consequência nem finalidade: a consequência é justamente o que vem depois (\"the impact... could be catastrophic\").\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A estrutura correlativa \"not only... but also\" equivale ao português \"não só... mas também\". Ela acrescenta um segundo elemento ao primeiro, somando as ideias: a má saúde afeta o indivíduo e, além dele, o resto da comunidade.\n\nTrata-se, portanto, de uma relação de inclusão (adição).\n\nApesar do \"not\", não há negação: o que se nega é a exclusividade (\"não só\"). Também não há contraste nem alternativa, pois as duas ideias se somam em vez de se oporem ou se excluírem.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "O advérbio \"rather\" introduz uma ideia que substitui ou corrige a anterior. O texto acaba de dizer que Selbie não adota a abordagem de \"Big Brother\", de leis sem fim e de tutela (\"nannying\"); em seguida, \"Rather, he is keen to promote choices\": em vez disso, ele prefere promover escolhas.\n\nO equivalente em português é \"pelo contrário\" (ou \"antes\", \"em vez disso\"), alternativa C.\n\n\"Mesmo assim\" indicaria concessão; \"além disso\", adição; \"por sinal\" e \"via de regra\" não têm relação com a ideia de oposição entre as duas atitudes.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A resposta está no fim do terceiro parágrafo: o relatório \"is intended to kick-start a global campaign to develop tools and standards to track drug resistance\" — pretende dar início a uma campanha mundial para criar ferramentas e padrões de acompanhamento da resistência às drogas.\n\nIsso corresponde à alternativa D.\n\nA alternativa C é a mais tentadora: o texto diz que os dados de muitos países eram incompletos, mas identificar esses países não é objetivo do relatório, é uma constatação. A A fala em levantamento de micro-organismos causadores de doenças, quando o levantamento foi da resistência. B e E não aparecem no texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "O primeiro parágrafo diz que a OMS tratou da resistência antimicrobiana em bactérias, fungos, vírus e parasitas, com as bactérias como \"the main focus of the report\". Ou seja, o relatório se concentrou nas bactérias resistentes aos antibióticos, alternativa B.\n\nAs outras distorcem o texto: A afirma algo sobre parasitas que não está escrito; C erra porque os dados de 114 países foram \"glaringly incomplete\", não detalhados; D fala em internações desnecessárias, quando o texto diz que as internações se prolongam; E trata de classes de antibióticos posteriores a 1987, assunto da Royal Pharmaceutical Society, que diz justamente que nenhuma classe nova surgiu desde então.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Antibióticos de \"último recurso\" são os usados quando todo o resto falhou. O terceiro parágrafo diz que a falha de um tratamento de último recurso contra a gonorreia foi confirmada em 10 países, inclusive Austrália, Canadá, França, Suécia e Reino Unido.\n\nLogo, esses antibióticos não funcionaram como deveriam no caso da gonorreia em 10 países, alternativa A.\n\nA B generaliza para \"todos os países desenvolvidos\"; a C e a D falam de preço e de infecções intestinais, o que o texto não afirma (os carbapenêmicos combatem uma bactéria intestinal, mas não são receitados para infecções intestinais em geral); a E propõe trocá-los por tratamentos comuns, o oposto da lógica do texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "O quarto parágrafo diz que a FDA emitiu \"voluntary guidelines\", isto é, orientações voluntárias, pedindo que laboratórios, produtores e veterinários parassem de usar indiscriminadamente antibióticos importantes para humanos no gado. Além disso, a agência recorreu de uma decisão judicial que a obrigava a proibir penicilina e tetraciclina como promotores de crescimento, atitude que o texto chama de míope (\"shortsightedly\").\n\nOu seja, a FDA adotou uma medida branda, alternativa E.\n\nA C é o oposto: a FDA não proibiu, ela recorreu contra a proibição. A B e a D também não têm apoio no texto. A A não é o que o parágrafo afirma: ele não autoriza nada; o foco é a brandura da agência diante do abuso.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A questão é de referência pronominal. No trecho \"But the agency, shortsightedly, has appealed a court order requiring it to ban the use of penicillin\", o sujeito é \"the agency\", ou seja, a FDA.\n\nA ordem judicial exige que a agência (\"it\") proíba o uso de penicilina pelos produtores; por isso a FDA recorreu dela. O pronome \"it\" retoma, portanto, a Food and Drug Administration, alternativa B.\n\nNão pode ser \"a court order\", porque a ordem é que exige algo de alguém; nem \"drug companies\" e \"animal producers\", que estão no plural e não seriam retomados por \"it\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "O quinto parágrafo diz que a Royal Pharmaceutical Society, que representa os farmacêuticos britânicos, pediu \"stronger financial incentives\" (incentivos financeiros maiores), porque nenhuma nova classe de antibióticos foi descoberta desde 1987: o retorno financeiro é baixo.\n\nLogo, a sociedade afirma que incentivos financeiros são necessários para desenvolver novas classes de antibióticos, alternativa E.\n\nA D é a armadilha: o texto não diz que surgiram \"poucos\" antibióticos eficientes desde 1987, e sim nenhuma classe nova. Câncer e doenças cardiovasculares aparecem só como exemplo de remédios lucrativos (A); não se fala de teste de dose única (B) nem de rever o ciclo de tratamento (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "O último parágrafo diz que os antibióticos transformaram a medicina e salvaram inúmeras vidas nas últimas sete décadas, mas que agora \"rampant overuse\" (o uso abusivo e desenfreado) e a falta de novas drogas ameaçam minar sua eficácia.\n\nPortanto, os antibióticos estão perdendo eficácia por causa do uso abusivo, alternativa A.\n\nA B e a E fazem mau uso do número \"sete décadas\", que se refere ao passado, aos 70 anos de uso dos antibióticos. A C e a D não estão no último parágrafo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

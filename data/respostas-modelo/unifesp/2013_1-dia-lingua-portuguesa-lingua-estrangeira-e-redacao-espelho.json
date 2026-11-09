@@ -1,0 +1,232 @@
+{
+ "indice": "data/questoes/unifesp/2013_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra a percepção da ironia na tira de Fernando Gonsales.\n\nO primeiro rato declama versos claramente ruins (\"Meu coração morre de paixão por vocezão\"), e o amigo diz que achou \"horrível\". Quando o poeta reescreve o verso trocando a rima por outra igualmente forçada (\"por tuzão\"), o amigo comenta: \"É o novo Drummond\". Como ele acabara de considerar os versos horríveis, o elogio não é sincero: ao comparar o amigo a um grande poeta, ele sugere, por ironia, que os versos continuam de má qualidade.\n\nNão há encanto (A) nem perplexidade (D), e a crítica não recai sobre Drummond (B e E), que serve de padrão de excelência justamente para realçar o contraste.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão cobra o tema do poema \"O constante diálogo\", de Drummond.\n\nO eu lírico enumera interlocutores de todo tipo: o ser amado, o semelhante, o oposto, o adversário, o surdo-mudo, o vegetal, o mineral, e ainda o diálogo consigo mesmo, com os mortos, o sonho, o passado. Fecha dizendo que, mesmo no silêncio e com o silêncio, \"dialogamos\". O título já indica a ideia: o diálogo é constante, inevitável, faz parte da condição humana.\n\nA alternativa C é a mais tentadora, mas o poema inclui o \"diálogo consigo mesmo\", então não exige um outro distinto do eu. Também não fala em afinidade (D), já que inclui o indiferente e o adversário, nem dissimula um monólogo (A).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão pede o discurso que se destaca na abordagem temática do poema de Drummond.\n\nA justificativa para o gabarito está na lista de interlocutores: muitos deles não podem responder ou recusam a troca, como o indiferente, o oposto, o adversário, o surdo-mudo, o irracional, o vegetal, o mineral, o inominado e os mortos. O eu lírico dialoga com o que está ausente ou não corresponde, e isso revela uma tensão existencial entre as pessoas, marcada pela indiferença e pela oposição. O silêncio do final também pode ser lido como forma de ausência.\n\nAs outras leituras têm pontos fracos: o poema não é pessimista (C), nem autobiográfico (E). Mas a metafísica (A, com \"os mortos\" e \"o passado\") e a comunicação (D) também encontram apoio no texto.\n\n**Resposta: B**",
+   "confianca": "baixa",
+   "pendencia": "Resolvendo sozinho, o poema parece tratar sobretudo do diálogo e da comunicação (alternativa D) ou da metafísica (A); a leitura do gabarito, \"discurso da ausência\", é defensável, mas não é a única evidente."
+  },
+  "0:4": {
+   "resposta": "A questão cobra o valor do imperativo e a circunstância expressa por \"no silêncio\" e \"com o silêncio\".\n\nO imperativo \"Escolhe teu diálogo\" não é uma ordem rígida nem uma advertência: o eu lírico oferece uma opção ao leitor (a melhor palavra ou o melhor silêncio). É um imperativo de sugestão, de conselho.\n\nJá \"Mesmo no silêncio e com o silêncio / dialogamos\" indica a maneira como se dialoga: em silêncio, usando o silêncio. São adjuntos adverbiais de modo; respondem a \"como dialogamos?\".\n\nNão é lugar (C), porque \"silêncio\" não é espaço físico; nem causa (D) ou consequência (B). E o tom do poema não tem sarcasmo nem ordem (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra a relação entre os dois textos sobre o silêncio.\n\nNo poema de Drummond, \"Mesmo no silêncio e com o silêncio / dialogamos\": o silêncio também é uma forma de diálogo. No texto de Eni Orlandi, o silêncio é \"a matéria significante por excelência\" e \"o real da comunicação\": ele significa por si mesmo, não é mera falta de palavras. Os dois textos, portanto, tratam o silêncio como forma de comunicação.\n\nAs outras alternativas contrariam essa ideia: o silêncio não é repressão ao diálogo (A) nem ausência de sentido (B). Orlandi, aliás, critica a tradução do silêncio em palavras, o que afasta a alternativa E, e nenhum dos textos fala em interpretação mais objetiva (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra o uso das aspas em \"condenado\".\n\nNo trecho \"O homem está 'condenado' a significar\", a palavra não tem sentido jurídico (ter recebido uma pena), nem quer dizer \"culpado\". As aspas sinalizam um uso especial: no contexto, o homem está destinado, inevitavelmente obrigado, a atribuir sentido a tudo. O próprio texto confirma: há \"uma injunção à interpretação\" e o homem está \"irremediavelmente\" constituído pela relação com o simbólico.\n\nAssim, as aspas reforçam o sentido contextual de \"predestinado\". A alternativa A erra ao propor \"culpado\"; C, D e E sugerem sentidos (\"reprovável\", \"desgraçado\", \"buliçoso\") que não combinam com a ideia de inevitabilidade.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra a crítica da autora ao \"império do verbal\".\n\nNo último parágrafo, Orlandi afirma que, nas formas sociais, \"traduz-se o silêncio em palavras\" e que, assim, ele é visto como linguagem e perde sua especificidade como matéria significante distinta. Ou seja, quando o silêncio é traduzido pelas palavras, sua essência se perde.\n\nAs demais alternativas vão contra o texto: a autora não diz que comunicar exige o fim do silêncio (A) nem que a comunicação pelo silêncio é irrealizável (E), já que o considera \"o real da comunicação\". Ela também não afirma que as palavras recuperam bem os sentidos silenciados (D), ao contrário; e não fala de uma linguagem que dispense silêncio e palavras (C).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão cobra a referência do pronome \"lhe\".\n\nO trecho completo é: \"uma redução pela qual qualquer matéria significante fala, isto é, é remetida à linguagem (sobretudo verbal) para que lhe seja atribuído sentido\". O que é remetido à linguagem é \"qualquer matéria significante\", e é a ela que se atribui sentido: \"para que seja atribuído sentido a qualquer matéria significante\".\n\nO pronome \"lhe\" funciona como objeto indireto e retoma esse sujeito da oração anterior. \"Recobrimento\" e \"redução\" são processos descritos pela autora, não aquilo que recebe sentido; \"linguagem e significação\" são as noções sobrepostas; e o silêncio não aparece nesse período.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra a noção de palavras cognatas e o mal-entendido que gera o humor.\n\nNa tira, um pássaro lamenta que as pessoas não sabem mais o que é carinho; o outro responde: \"Carinho é o diminutivo de caro\". A graça está em tomar as duas palavras como se fossem da mesma família, com \"carinho\" formado de \"caro\" + sufixo diminutivo \"-inho\", como em \"livro → livrinho\". Ou seja, a personagem as considera cognatas (de mesma origem e radical).\n\nNa verdade, \"carinho\" não é usado como diminutivo de \"caro\" no sentido de preço, e o trocadilho desloca a conversa do afeto para o dinheiro. Não se trata de composição (E), hibridismo (B) ou derivação de um verbo (A).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra a identificação do movimento literário descrito por Massaud Moisés.\n\nAs pistas são claras: origem francesa, coletâneas publicadas em Paris a partir de 1866 (o \"Parnasse contemporain\"), \"Arte pela Arte\", culto da forma, impassibilidade (\"não se emocionar jamais\"), descrição de objetos e busca de universalidade. É o Parnasianismo, cuja objetividade se opõe ao subjetivismo romântico.\n\nSobre Portugal, o texto diz que o movimento \"não passou de prurido\", pouco alterou o ritmo literário e faltou \"intuito comum\": ou seja, não se impôs na cena portuguesa.\n\nA e B falam em Simbolismo e expressão do sentimento, o oposto da impassibilidade; D atribui ao Parnasianismo compromisso social, que ele rejeitava; E fala em Realismo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão cobra a posição do eu lírico diante da Igreja nos versos de Cesário Verde.\n\nAs duas igrejas lançam \"a nódoa negra e fúnebre do clero\": a imagem associa o clero a uma mancha escura e à morte. Em seguida, o eu lírico imagina nelas \"um ermo inquisidor severo\", lembrando a Inquisição, enquanto se aventura pela História. A Igreja aparece como presença opressiva e sombria.\n\nEssa visão negativa do clero caracteriza uma posição anticlerical, comum na geração realista portuguesa. Não há submissão (B) nem tom evangelizador (C); \"saudoso\" qualifica o largo, não uma saudade da Igreja (D); e a crítica é clara, não ambígua (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão cobra a leitura crítica da nota sobre a concessionária Orla Rio.\n\nA concessionária elevou de 60 para 65 anos a idade para usar de graça o banheiro público, com base numa lei estadual de 2002. O autor observa que essa lei é anterior ao Estatuto do Idoso (2003), que favorece pessoas \"com idade igual ou superior a 60 anos\". Ao lembrar isso, ele mostra que a medida contraria o que o Estatuto determina.\n\nA alternativa B é a armadilha: a empresa agiu de acordo com a lei estadual, não de forma incoerente com ela; o problema é que essa lei foi superada pelo Estatuto. A menção à ditadura e à inflação é ironia sobre o aumento de preço, não comparação da conduta da empresa (C e D).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra o alvo da crítica no texto \"Do chuchu ao xixi\".\n\nO autor critica a Orla Rio, que aumentou o preço do banheiro público e restringiu a gratuidade dos idosos apoiando-se numa lei já superada pelo Estatuto do Idoso. Ao lembrar, com ironia, que em 1977 \"a ditadura culpou o chuchu\" pela inflação, ele sugere que tanto aquela explicação quanto a justificativa da concessionária são pouco plausíveis, e que as decisões prejudicam a coletividade (os idosos e os usuários em geral).\n\nLogo, a crítica atinge quem desconsidera os interesses coletivos e apresenta justificativas pouco convincentes. Não se trata de impostos (C) nem de quem desqualifica decisões públicas (E); as alternativas A e D não têm apoio no texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra a relação de sentido entre \"ditadura\" e \"democracia\" no último parágrafo.\n\nO autor contrapõe dois momentos: em 1977, durante a ditadura, rimos da culpa atribuída ao chuchu; hoje, na democracia, rimos (ou não) do impacto do xixi na inflação. É uma comparação entre passado e presente, com uma situação semelhante (algo banal servindo de explicação para a inflação).\n\nA passagem E repete essa estrutura: um poema que se aprendia \"nas escolas do passado\" fala da diferença da sorte, e \"Hoje\" essa diferença atinge os partidos, divididos em situação e oposição. Há o mesmo contraste temporal com retomada de uma ideia.\n\nAs demais apenas narram fatos (A, B, D) ou comparam o dinheiro à pintura sem a oposição passado/presente com regimes ou épocas (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão cobra o tipo de texto predominante no trecho de \"A Moreninha\".\n\nO narrador apresenta o sarau como um quadro: o diplomata que ajusta negócios, o velho que se lembra dos minuetes, o moço que goza os regalos da época, as moças que cantam e passeiam, a vovó que enche os bolsos de doces, o dandy galante. Predominam verbos no presente com valor habitual (\"Em um sarau todo o mundo tem que fazer\"), enumerações e caracterizações: é uma descrição das características de um sarau típico.\n\nNão há sequência de fatos (C), nem tese argumentada (A e E). A alternativa B erra no julgamento: o sarau é chamado de \"o bocado mais delicioso que temos\" e de \"festa\" que brilha com prazer e bom gosto, não de algo sem atrativos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão cobra a relação entre o texto e o contexto do Romantismo brasileiro.\n\nMacedo escreve para o público burguês da corte, no Segundo Reinado, e retrata essa sociedade com leveza: o sarau é \"o bocado mais delicioso que temos\", a sociedade é \"alegre, numerosa e escolhida\", a casa \"brilha\" com \"o prazer e o bom gosto\", e há humor brando nas cenas da vovó e dos rapazes. É um retrato ameno e otimista da vida social.\n\nNão há ufanismo nem \"bem-aventurança\" (A), e o narrador não despreza (B), não satiriza com dureza uma sociedade \"frívola e hipócrita\" (C), nem a apresenta como decadente (D). O tom é de amenidade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra a caracterização das personagens descritas no sarau.\n\nO diplomata ajusta, com uma taça na mão, os negócios mais intrincados: é perspicaz, hábil. O velho lembra-se dos minuetes e das cantigas do seu tempo: é saudosista. Os moços gozam os regalos da época: aproveitam a vida com prazer. As moças são no sarau \"como as estrelas no céu\", recebem aplausos e olhares: encantam a todos.\n\nAs outras alternativas atribuem juízos que o texto não faz: o diplomata não é trapaceiro nem oportunista (A e D); o velho não é intimista, desencantado ou \"avançado\"; e os rapazes não vivem com parcimônia nem de modo exagerado ou fútil. O tom ameno do narrador afasta essas leituras negativas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra o papel do pronome \"se\" e o efeito de sua retirada sobre o sujeito.\n\nEm \"Ali vê-se um ataviado dandy\", o \"se\" é pronome apassivador: a frase equivale a \"um dandy é visto ali\", e o sujeito é \"um ataviado dandy\". Sem o pronome, fica \"Ali vê um ataviado dandy\": \"dandy\" passa a ser objeto direto, e o sujeito de \"vê\" vira outro, subentendido (alguém que vê). Há, portanto, mudança de sujeito.\n\nNas demais, o \"se\" é pronome reflexivo ou parte de verbo pronominal (elevar-se, lembrar-se, espichar-se, deslizar-se). Retirá-lo pode empobrecer ou alterar a regência, mas o sujeito continua o mesmo: a moça, o velho, as outras.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão cobra concordância verbal, crase e uso do pronome relativo.\n\n1ª lacuna: o sujeito \"Autocontrole e disciplina\" é composto e vem antes do verbo, então o verbo vai para o plural: \"podem criar\".\n\n2ª lacuna: \"Devido\" exige a preposição \"a\", mas o pronome demonstrativo \"essa\" não admite artigo. Logo, não há crase: \"Devido a essa abordagem\".\n\n3ª lacuna: o verbo \"trabalha\" é transitivo direto e precisa de sujeito; o relativo \"que\" retoma \"categoria de ioga\" e funciona como sujeito: \"uma categoria de ioga que trabalha apenas as valências físicas\".\n\n\"Aonde\" indica movimento (A), \"à essa\" tem crase indevida (C), e D tira a preposição exigida por \"devido\" e deixa \"trabalha\" sem sujeito (\"com que\"). Em A, C e E falta ainda o plural de \"podem\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão cobra o emprego coloquial do pronome pessoal do caso reto como complemento.\n\nNa tira, \"Maneiro encontrar tu!\" usa \"tu\" (pronome reto, próprio da função de sujeito) como objeto direto de \"encontrar\". Pela norma-padrão seria \"encontrar-te\" ou \"encontrar você\".\n\nO mesmo desvio aparece em D: \"viu ali ele com a namorada nova\". \"Ele\" é objeto direto de \"viu\"; a norma pediria \"viu-o\".\n\nNas outras alternativas o uso está de acordo com a norma: em B, \"para eu me livrar\", \"eu\" é sujeito do infinitivo; \"para nós\", \"para mim\" e \"entre mim e ti\" usam corretamente pronomes oblíquos depois de preposição.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão cobra o nacionalismo de \"Mensagem\", de Fernando Pessoa.\n\nEm \"Prece\", o eu lírico reconhece um presente apagado (\"a alma é vil\", restam \"o mar universal e a saudade\"), mas afirma que a chama da vida, embora oculta em cinzas, ainda pode ser reacendida pelo vento. A última estrofe pede o sopro que renove o esforço para que \"outra vez conquistaremos a Distância\", do mar ou de outra forma. É a busca de reviver o sonho de grandeza, projetando um Portugal futuro à altura dos feitos gloriosos das navegações.\n\nA e B ficam só na decadência e ignoram a esperança; D distorce, pois os heróis foram glorificados; E contraria o texto, que não vê o presente como glorioso.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão cobra a expressão adequada para indicar tempo decorrido.\n\nO texto conta algo que aconteceu dois meses antes. Para indicar tempo passado usa-se o verbo \"haver\", impessoal (sempre no singular): \"Há dois meses\" ou, com aproximação, \"Há cerca de dois meses, a jornalista foi furtada\".\n\nAs demais não servem: \"À\" e \"A\" indicariam tempo futuro ou distância (\"daqui a dois meses\"), o que não combina com \"foi furtada\"; \"Fazem\" está errado porque o verbo \"fazer\" indicando tempo é impessoal (\"Faz dois meses\"); \"Acerca de\" significa \"a respeito de\".\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão cobra a interpretação do segundo parágrafo da notícia.\n\nQuando Rowenna escreveu ao hacker pedindo ao menos sua lista de contatos profissionais, recebeu como resposta a cobrança de R$ 1,4 mil. Exigir dinheiro para devolver algo que foi tomado indevidamente é extorsão.\n\nNão se trata de donativo (B), porque o valor foi cobrado como condição; nem de negociação legal (C), já que o hacker havia invadido a conta. Ele também não tentou se eximir de culpa (D) nem reconheceu erro (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão cobra a mudança de classe gramatical (derivação imprópria).\n\nEm \"a jornalista britânica Rowenna Davis\", \"britânica\" é adjetivo e caracteriza \"jornalista\". Na reescrita \"a britânica Rowenna Davis\", com o artigo e sem o substantivo, a palavra passa a ser o núcleo do termo: virou substantivo. Houve mudança de classe da própria palavra destacada.\n\nNas outras, troca-se uma palavra por outra equivalente de mesma função: \"identidade\" e \"identificação\" são substantivos (A); \"que\" e \"o qual\" são pronomes relativos (B); \"sua\" e \"dela\" exprimem posse (C); e \"bancários\" (adjetivo) é trocado pela locução adjetiva \"do banco\", que cumpre o mesmo papel (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão cobra a ambiguidade estrutural na frase do aluno.\n\nEm \"Beba leite de cabra em pó!\", a intenção era dizer que o leite (de cabra) é em pó. Mas, pela proximidade, \"em pó\" parece ligar-se a \"cabra\", como se a cabra fosse em pó. Os dois termos, \"de cabra\" e \"em pó\", deveriam modificar o mesmo núcleo, \"leite\", mas a ordem linear os aproxima de forma confusa.\n\nA emenda \"Beba leite em pó de cabra!\" piora: agora parece que é pó de cabra. Daí \"Pior a emenda do que o soneto\". O riso vem dessa ambiguidade.\n\nNão há sentido figurado (B e E), e \"de cabra\" não é complemento de \"Beba\" (C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra o valor semântico de duas conjunções.\n\n\"Mesmo que estejam fora de um contexto mais esclarecedor\" significa \"ainda que\", \"embora\": o falante sente a relação sintática apesar de faltar contexto. É uma concessão.\n\n\"Como todos rissem, o autor da frase emendou\" significa \"porque todos riram\": o riso é o motivo da emenda. Com o verbo antes da oração principal, \"como\" tem valor causal.\n\nA armadilha é ler \"como\" como conformidade (A) ou comparação (D), sentidos que ele tem em outros contextos, mas não aqui.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão cobra a distinção entre ordem estrutural e ordem linear no sintagma substantivo + adjetivo.\n\nNa ordem estrutural (canônica) do português, o núcleo vem primeiro e o modificador depois: substantivo + adjetivo. Quando o adjetivo é anteposto, as duas ordens deixam de coincidir.\n\nEm E, \"ouro olímpico\" segue a ordem direta: núcleo (\"ouro\") seguido do adjetivo (\"olímpico\"). As duas ordens coincidem.\n\nNas demais o adjetivo vem antes do substantivo: \"rara disputa\", \"diferentes concepções\", \"interessante oportunidade\", \"novo jornalismo\". Nesses casos, a ordem linear inverte a estrutural.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra a marca característica da poesia de Augusto dos Anjos.\n\nNo soneto, o poeta se olha no espelho e vê o corpo em decomposição: \"húmus necrófago\", diafragmas que se decompõem, \"feixe de mônadas bastardas\", a \"herança horrenda\" passada aos filhos. São termos e conceitos tirados da biologia, da química e da filosofia científica do século XIX (evolucionismo, hereditariedade, monismo). Com eles, o poeta mergulha no \"eu\" e explora tanto o ser biológico (a carne que apodrece) quanto o metafísico (a \"alma\" e a \"flama psíquica\").\n\nO eu não desiste de se conhecer (A), não alça voos transcendentes nem rompe com o pessimismo (B), o determinismo não o leva a superar conflitos (C), e não há equilíbrio final (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra os recursos formais do soneto de Augusto dos Anjos.\n\nVocabulário seleto: termos raros e científicos, como \"húmus necrófago\", \"heteróclito\", \"mônadas\", \"flâmeo\".\n\nRimas raras: palavras incomuns rimando entre si, como \"batalha / estraçalha / trabalha / mortalha\", \"rosto / sol-posto / composto / gosto\" e \"bastardas / ardas\".\n\nAliterações: repetição de consoantes, como em \"flâmeo fogo efêmero\" (som de f) e \"relampejantes\".\n\nO soneto tem versos decassílabos rimados: não há versos brancos ou livres (A, D, E), nem redondilhas (C). E o vocabulário é científico, não obsceno.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão cobra o recurso que gera o humor na tira.\n\nA personagem colou pelos do sovaco num papel e chama aquilo de obra de arte, uma crítica ao \"atual vazio\" das artes plásticas. Quando pedem o nome, ela responde: \"Só vácuo!\". A graça está na semelhança sonora entre \"sovaco\" e \"só vácuo\": duas expressões quase iguais na pronúncia e na escrita, com sentidos muito diferentes. Isso é paronomásia, um trocadilho.\n\nNão é ironia (A), porque a fala não diz o contrário do que pensa; nem onomatopeia (E), que imita sons; metáfora (C) e metonímia (D) não explicam o jogo entre as palavras.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão cobra a compreensão do primeiro parágrafo do texto em inglês.\n\nO texto diz que a vida numa ilha, \"even one that has become a summer playground to the rich and famous\" (mesmo uma que virou um parque de diversões de verão para os ricos e famosos), exige criatividade e flexibilidade. Mais adiante, a entrevistadora chama Nantucket de \"posh summer tourist destination\" (destino turístico de verão elegante). Ou seja, é um lugar onde muitas pessoas passam o verão.\n\nA é a armadilha: os 30 anos referem-se ao tempo em que o Dr. Lepore é o único cirurgião da ilha, não à fama do lugar. Quem redefine a medicina é o médico (B). O texto não diz que falta estrutura (C) nem que não há veterinário (E); apenas que ele às vezes faz esse papel.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão pede o adjetivo que resume o perfil do Dr. Lepore. O primeiro parágrafo diz que a vida na ilha exige \"resourcefulness and flexibility\" e mostra o médico fazendo de tudo: cirurgias, clínica geral, aconselhamento e até papel de veterinário. O episódio do coração costurado com linha de seda preta, lembrada de técnicas do século XIX, confirma que ele encontra soluções com o que tem à mão. Isso é ser \"resourceful\" (engenhoso, cheio de recursos).\n\nA alternativa B é a armadilha: \"rich and famous\" descreve os veranistas da ilha, não o médico, que inclusive atende quem não pode pagar. Nada no texto o apresenta como frenético (A), ambicioso (D) ou grosseiro (E); \"quirky\" quer dizer excêntrico, peculiar, não rude.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão cobra o sentido do verbo frasal \"take it upon oneself\" (to do something): decidir, por iniciativa própria, encarregar-se de algo, assumir a responsabilidade por uma tarefa que ninguém lhe impôs. No trecho, o médico assumiu a responsabilidade de oferecer qualquer tipo de atendimento de que os moradores precisassem.\n\nPor isso a correspondência é \"assumiu a responsabilidade\". A alternativa B é tentadora porque \"deliver\" aparece logo depois, mas \"deliver\" ali significa prestar o atendimento, e o destaque não fala em entrega. \"Levou consigo\", \"apoderou-se\" e \"tomou a dianteira\" interpretam \"take\" ao pé da letra e perdem o sentido idiomático.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A primeira pergunta sugere que Nantucket é um destino turístico sofisticado. A jornalista responde que também pensava nela como um refúgio de verão para ricos, mas que existe uma população que vive ali o ano inteiro, interessante e diversa, que \"has to scrabble for a living\", isto é, precisa se virar para ganhar a vida. Logo, nem todo mundo na ilha é rico.\n\nA alternativa A distorce o trecho: o texto não diz que a ilha ficou movimentada o ano todo, só que há moradores permanentes. B e E contrariam o que ela diz sobre o acesso, que depende do tempo, e não da temporada de verão. D confunde \"drama\" (as situações difíceis criadas pelo isolamento) com produções teatrais.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão cobra conectivos concessivos. \"Even though\" significa \"embora, mesmo que\" e introduz uma oração subordinada: mesmo havendo balsas rápidas e aviões, a ilha continua à mercê do tempo. O substituto precisa ter o mesmo valor e a mesma estrutura, ligando-se diretamente a uma oração com sujeito e verbo.\n\n\"In spite of the fact that\" (apesar do fato de que) cumpre as duas exigências. \"However\" e \"Nevertheless\" também expressam contraste, mas são advérbios que iniciam a segunda ideia (\"No entanto...\"), e não a oração subordinada; colocados no lugar de \"even though\", deixariam a frase malformada. \"Whether\" indica alternativa (\"se\") e \"As if\" indica comparação hipotética (\"como se\").\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Um \"field hospital\" é um hospital de campanha, montado às pressas em zona de guerra, com poucos recursos. A frase vem logo depois do relato da cirurgia no coração feita sem equipamento adequado, com só seis bolsas de sangue e linha de seda preta, e é seguida da explicação: \"there is making do with what you have\", ou seja, é preciso se virar com o que se tem. A comparação, portanto, indica improvisação.\n\nA tentadora é E (emergência): o caso era urgente, mas a própria autora observa que eles não estão sob fogo; o ponto da comparação é a falta de recursos e a necessidade de improvisar, não a urgência em si. Aventura, combatividade e perigo iminente não são o foco.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "O trecho diz que não havia tempo para tirar o homem da ilha. Ele tinha levado uma facada no coração, ferimento em que pouquíssimos chegam vivos ao hospital; transferi-lo para o continente seria tarde demais. Por isso o Dr. Lepore teve de operá-lo ali mesmo. O sentido é que o paciente não podia ser levado a um hospital do continente.\n\nA alternativa C inverte a ideia: não é que restasse pouco tempo para sair, e sim que não havia tempo nenhum para a remoção. A afirma algo que o texto não diz (ele ficou na ilha e sobreviveu). B fala de helicóptero, que não é mencionado, e E contradiz a situação, já que ele foi tratado no hospital da própria ilha.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A última resposta conta que o hospital da ilha passou a ser administrado pela Partners Health Care, que implantou novos sistemas, mas o médico \"flouts many of them\" (desrespeita, ignora boa parte deles) e diz que ninguém vai controlar seu tempo. A administração não reclama porque precisa dele. Conclui-se que ele não se importa muito com os novos procedimentos administrativos.\n\nB é a armadilha: o texto diz justamente que eles não podem se queixar, e não que estão preocupados. C é falsa, pois ele aceita planos de saúde (\"He takes insurance\") e até pagamento em espécie. D erra quem administra: é uma corporação privada de saúde, não o estado. A generaliza sem apoio no texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "O estudo afirma que trabalhar depois do oitavo mês prejudica o bebê tanto quanto fumar e sugere que o efeito é mais acentuado no trabalho fisicamente exigente (\"physically demanding work\"); os bebês dessas mães cresciam mais devagar no útero. A alternativa E resume essa ideia: o trabalho físico no fim da gravidez tende a afetar mais o crescimento do feto do que o trabalho intelectual.\n\nAs outras não se sustentam. A e C misturam os dois fatores: o texto compara trabalho e fumo, mas não diz que quem trabalha fuma nem quem são as mães dos bebês de baixo peso. B contraria o texto, que diz que a idade importa (abaixo de 24 anos não houve efeito). D é falsa: só 16% e depois 30% trabalhavam até um mês antes do parto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão cobra a referência de um pronome demonstrativo. A frase compara dois grupos: mulheres que trabalharam depois do oitavo mês tiveram bebês cerca de 230 g mais leves do que \"those who stopped work between six and eight months\". Quem parou de trabalhar entre o sexto e o oitavo mês foram as mulheres, então \"those\" retoma \"women\", sujeito da comparação.\n\nA confusão possível é com \"babies\", que aparece logo antes; mas bebês não param de trabalhar. O verbo \"stopped work\" só faz sentido com as mães, o que elimina também \"smoking\", \"months\" e \"pregnancy\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão cobra o valor do verbo modal \"may\". No trecho, o texto diz que bebês com baixo peso ao nascer correm mais risco de problemas de saúde e \"may suffer from a variety of problems later in life\": podem vir a ter problemas mais tarde. \"May\" expressa possibilidade, algo que pode ou não acontecer.\n\nA ideia de inevitabilidade (C) contrariaria o próprio \"may\", que é exatamente o oposto de uma certeza; o texto fala em risco maior, não em destino. \"May\" também pode indicar permissão ou pedido educado (\"May I...?\"), mas não é esse o uso aqui, e não expressa obrigação (que seria \"must\") nem hábito.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A lacuna completa a expressão \"incentives ___ employers\". Em inglês, o substantivo \"incentive\" pede a preposição \"for\" para indicar a quem o incentivo se destina: incentivos para os empregadores oferecerem licença-maternidade mais flexível. A construção \"incentives for someone to do something\" é exatamente a do trecho, com o infinitivo \"to offer\" logo depois.\n\nAs outras preposições não funcionam: \"through\" indicaria o meio, \"about\" o assunto, \"by\" o agente e \"with\" companhia ou instrumento. Nenhuma expressa o destinatário do incentivo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A frase fala em licença mais flexível para mulheres que talvez precisem de uma pausa antes, ___ depois, do nascimento dos bebês. A lógica do estudo é que parar de trabalhar antes do parto traz benefícios; então a pausa deve vir antes em vez de depois. \"Rather than\" (em vez de, e não) expressa essa escolha e liga dois termos paralelos, \"before\" e \"after\".\n\n\"Instead\" tem sentido parecido, mas sozinho é advérbio e precisaria de \"of\" para ligar os termos. \"But\" criaria oposição sem sentido (antes, mas depois), \"no\" deixaria a frase agramatical e \"less likely\" não cabe na estrutura.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A frase do pesquisador diz que é preciso pensar seriamente na licença dos pais porque, como o estudo sugere, os possíveis benefícios de tirar licença flexível antes do parto ___ bastante altos. O falante apresenta uma possibilidade apoiada no estudo (\"possible benefits\", \"suggests\"), então o modal \"could be\" (poderiam ser) é o que combina com o tom e com a gramática: verbo seguido do adjetivo \"high\".\n\nAs negativas (\"simply aren't\", \"can't be\", \"are not\") contradizem o argumento, que defende a licença justamente porque os benefícios seriam grandes. \"Will do\" não se combina com um adjetivo e daria uma frase sem sentido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "A lacuna fica em \"British women may be working for ___ now during pregnancy\". A frase seguinte explica com números: entre as mães acompanhadas desde 1991, 16% trabalhavam até um mês antes do parto; entre as de 2000 e 2001, eram 30%. Ou seja, as mulheres estão trabalhando por mais tempo durante a gravidez, e o advérbio que completa \"for ___\" com esse sentido é \"longer\".\n\n\"More\" ou \"less\" depois de \"for\" ficariam sem complemento e não expressam duração; \"fewer\" se usa com substantivos contáveis; \"far\" indica distância. Além disso, \"less\" contrariaria os dados, que mostram aumento.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "indice": "data/questoes/unifesp/2008_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra leitura do cartaz \"De criança para criança\" e conhecimentos de regência.\n\n- I. Correta: a frase mantém o sentido do texto (toda criança tem direito à atenção e ao carinho dos adultos) e usa bem a regência: \"assistir\", no sentido de prestar assistência, ajudar, é transitivo direto e admite a voz passiva (\"deve ser assistida\").\n- II. Correta: o título indica que o texto é dirigido de uma criança a outra; o \"você\" da pergunta final é a criança leitora.\n- III. Incorreta: as perguntas não trazem relação de oposição. \"E as crianças que não têm uma família?\" introduz um novo caso, e \"você não acha?\" pede a concordância do leitor; não há adversidade (ideia de \"mas\").\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão pede a relação entre o cartaz, que defende o direito das crianças à atenção, ao carinho e à proteção dos adultos, e a notícia sobre bebês trocados pelos pais por material de construção, cestas básicas e uma casa.\n\nAo negociar os filhos como mercadoria, os pais contradizem o que o cartaz expõe: os bebês não foram respeitados no seu direito à família e à proteção.\n\nA erra porque os pais obtiveram vantagens (casa, cestas); B e E veem confirmação onde há contradição, e E ainda considera \"necessária\" uma doação ilegal; D erra porque a troca violou, sim, o direito dos bebês.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão cobra o valor do futuro do pretérito em textos jornalísticos.\n\nEm \"que teriam sido trocados pelos pais\", a forma \"teriam\" indica que a informação ainda não foi confirmada: o jornal relata um fato apurado pela polícia sem assumi-lo como certo. É o uso do futuro do pretérito para expressar hipótese, suposição.\n\nComo a investigação não estava concluída, os casos eram possíveis, prováveis, mas não confirmados (C). Não há indício de que fossem fantasiosos, contraditórios ou idealizados.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão pede o sentido das \"ilusões perdidas\" no título do conto de Moacyr Scliar.\n\nA mulher sempre sonhou com a maternidade e implora ao companheiro para ter o filho. Ele aceita, mas com a condição de trocar o recém-nascido por uma casa. Ela dá à luz, mas entrega a criança: a maternidade se realiza só em parte, sem que ela possa ser mãe de fato. Essa é a ilusão perdida.\n\nB erra porque ela fica \"extasiada\" com a casa modesta; C e D atribuem a ela alegria ou cálculo que o conto não sustenta — quem pensa em \"quatro ou cinco casas\" é o homem; E não tem base no texto, que fala justamente no lar onde \"ficariam para sempre\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão pede o que explica o comportamento do casal no conto.\n\nA mulher se submete ao companheiro em tudo: implora, promete trabalhar e sustentar o filho, chora, e \"como sempre, cedeu\", entregando a criança. Ele, por sua vez, age de modo mesquinho e interesseiro: vê na gravidez um negócio, troca o filho por uma casa e, no fim, pensa que mais filhos renderiam mais casas.\n\nA erra ao generalizar a falta de amor (ela quer o filho e o lar); B e C falam em amor ou ódio exagerados, que o texto não mostra; E erra porque quem age de forma calculista é ele, não ela.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão pede o sentido das frases finais do conto.\n\nA mulher, ingênua, diz que vão encher a casa de crianças. O homem não responde, mas pensa: \"Quatro ou cinco casas, aquilo era um bom começo\". Para ele, cada filho seria uma nova moeda de troca — ter mais filhos pode se tornar lucrativo. Ela, ao contrário, ainda vê os filhos com olhos sonhadores. É uma ironia amarga que fecha o conto.\n\nA e E contrariam o pensamento do homem, que vê vantagem em mais filhos; B adota apenas o ponto de vista ingênuo da mulher; D fala em compensação afetiva, quando o que move o homem é o lucro.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra o imperativo com o tratamento \"você\" e a colocação/regência pronominal.\n\nCom \"você\" (3ª pessoa), o imperativo afirmativo usa as formas do presente do subjuntivo: faça, dê, sustente. Assim: \"Faça tudo que eu quero, dê um jeito de arranjar trabalho, sustente o nenê\".\n\nNo final, o verbo \"deixar\" (permitir) pede objeto direto: deixa-se alguém fazer algo. Para \"você\", o pronome oblíquo adequado é \"a\" (ela, a mulher): \"que eu a deixo ser mãe\".\n\nPor isso, E é a única correta. A e B usam formas de \"tu\" (faças, dês, faz) misturadas; C mistura \"faz\" com \"sustenta\"; D usa \"dá\" (indicativo) e \"lhe\", que é objeto indireto, inadequado para \"deixar\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão pede por que os pronomes \"ele\" e \"ela\", tão repetidos no conto, não geram ambiguidade.\n\nA narrativa tem praticamente só dois personagens: o homem e a mulher. Como \"ele\" só pode se referir ao companheiro e \"ela\" só pode se referir à mulher, as referências dos pronomes são muito restritas, e o leitor nunca fica em dúvida sobre quem é quem.\n\nNão há alternância com sinônimos (A); os tempos verbais variam (C); nem todos os pronomes poderiam ser omitidos sem prejuízo (D); e o tamanho das frases (E) não é o que garante a clareza.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra figuras de linguagem no trecho bíblico.\n\n\"Adiantados em idade\" é uma forma suave de dizer que Abraão e Sara estavam velhos; \"havia cessado o costume das mulheres\" é um jeito delicado de dizer que Sara já não menstruava, isto é, chegara à menopausa. Ambas são eufemismos: expressões que atenuam algo que poderia soar duro ou indiscreto.\n\nNão há exagero (hipérbole), mistura de sentidos (sinestesia) nem relação de parte e todo (sinédoque). Também não se trata de vigor sexual ou paixão: o assunto é a velhice e o fim do ciclo menstrual, que tornariam a gravidez de Sara um milagre.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra o valor da conjunção \"pois\" e a referência do pronome \"lhe\".\n\nEm \"Assim, pois, riu-se Sara consigo\", o \"pois\" vem intercalado, depois de \"Assim\", e retoma o que foi dito antes: como ambos eram velhos, Sara riu. Posposto ao início da oração, o \"pois\" tem valor conclusivo (equivale a \"portanto\").\n\nEm \"ao tempo determinado, que Deus lhe tinha falado\", o \"lhe\" é objeto indireto de \"falar\" e retoma Abraão, a quem Deus tinha anunciado o nascimento do filho (\"Certamente tornarei a ti...\", \"deu a Abraão um filho\").\n\nB e D erram no valor de \"pois\"; C e E, no valor ou na referência.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão pede o sentido de \"hedonismo\" na fala do pai de Calvin.\n\nHedonismo é a doutrina que põe o prazer como bem supremo; no uso comum, é a busca do prazer pessoal e imediato. O humor da tirinha está no contraste: o pai chama de \"hedonismo louco\" acordar às seis da manhã, correr 20 km e comer farelo de aveia — coisas que, para Calvin, nada têm de prazerosas. Por isso o menino desconfia de que o pai não seja \"normal\".\n\nAssim, o termo se relaciona à busca de prazer pessoal (ainda que o prazer do pai seja estranho). As outras alternativas não correspondem ao sentido da palavra.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão pede uma afirmação correta sobre as falas de Calvin.\n\nQuando Calvin diz \"Você vive com seus pais e eles são tudo que você conhece\", o \"você\" não se refere ao tigre Haroldo, seu interlocutor: é um uso coloquial do pronome com valor genérico, equivalente a \"a gente\" ou \"qualquer pessoa\". Ele está falando de crianças em geral.\n\nA erra porque a linguagem coloquial é adequada a uma conversa informal entre amigos; C erra porque os termos amplos não prejudicam a compreensão; D erra porque \"eles\" retoma claramente \"seus pais\"; E erra porque \"Bem, talvez...\" introduz uma ressalva, não uma confirmação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra o valor do artigo indefinido em \"correr uns bons 20 km\".\n\nAntes de numerais, \"uns\" (ou \"umas\") indica aproximação, cálculo impreciso: \"uns 20 km\" quer dizer \"cerca de 20 km\". Na fala do pai, a expressão \"uns bons\" ainda reforça que se trata de uma distância considerável, talvez até um pouco mais.\n\nNão há ideia de posse, exatidão, definição ou especificação: o artigo indefinido faz justamente o contrário de precisar a quantidade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão pede a causa da desolação do narrador na crônica de Mário de Andrade.\n\nEle diz que está desolado porque \"meu engraxate me deixou\": o engraxate de sempre sumiu (foi vender bilhete de loteria). O tom exagerado (\"doenças mortíferas\", \"perplexidade penosíssima\") mostra que, de tanto usar os serviços dele, o narrador criara certa afeição pelo engraxate.\n\nB fala em serviços precários, o que o texto não diz; C e E erram porque o menino húngaro não é a causa da desolação, e o narrador até admite que ele poderia ficar bom; D inverte o sentido — havia, sim, um laço afetivo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão pede o sentimento que a timidez do engraxate (o menino húngaro da outra cadeira) desperta no narrador.\n\nO narrador descreve o menino como \"retalho de húngaro\", de \"cara de infeliz\", que \"não dá simpatia alguma\", e diz que a timidez dele faz a gente se unir ao universo \"no propósito de desgraçar esses desgraçados de nascença\". Trata-se de repulsa, uma antipatia instintiva por ele e por sua condição de mal-nascido.\n\nNão há pena (A) nem enternecimento (C): o texto fala claramente em falta de simpatia. Também não há indignação com quem pouco faz para progredir (E), nem distanciamento dos que o veem com interesse (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão cobra a interpretação do estado de espírito do narrador. Ele confessa estar em “plena desolação” porque o engraxate o deixou, sai perguntando por ele e, ao saber que o menino passou a vender bilhete de loteria, fica numa “perplexidade penosíssima”. Ao final, lamenta que o menino, que poderia ser um bom engraxate, tenha mudado de ramo. Ou seja, o que o perturba é ficar definitivamente sem o seu engraxate, que parece estar se dando bem no novo trabalho.\n\nA (A) erra porque ele não queria agradecer, e sim reaver o serviço. A (B) e a (D) atribuem ao menino húngaro ironia ou maus-tratos que o texto não mostra: ele apenas responde de modo seco, “antipático”. A (E) inventa que o menino se diverte com a situação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra paráfrase, colocação pronominal e discurso indireto. Em “a gente ensinando”, o gerúndio tem valor condicional e “a gente” equivale a “nós”; na norma padrão, fica “se nós ensinássemos, poderia tornar-se bom engraxate”, exatamente a alternativa (E).\n\nPor que as outras falham: (A) troca a relação de causa (“É por causa do meu engraxate”) por concessão (“Embora”); (B) “chispeavam” indica olhos que brilham, faiscando, e não observação plácida; (C) a norma padrão não admite pronome oblíquo átono iniciando a frase (“Me deixou”); (D) no discurso indireto o presente “Está vendendo” passa ao pretérito imperfeito (“que estava vendendo”), e não ao futuro do pretérito “estaria”, que acrescenta dúvida.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra conhecimentos sobre Mário de Andrade e a Semana de Arte Moderna. A afirmação I está correta: na conferência “O movimento modernista” (1942), Mário chamou o período aberto pela Semana de “orgia intelectual” e reconheceu que o movimento foi apoiado pela aristocracia cafeeira e pela burguesia culta de São Paulo e do Rio, meio do qual ele próprio fazia parte.\n\nA II é falsa: Mário foi um dos líderes da ruptura com o Parnasianismo (o “Prefácio interessantíssimo” e “A escrava que não é Isaura” atacam essa estética). A III também é falsa: o projeto de Mário tinha forte preocupação com a cultura nacional, visível em “Macunaíma” e em suas pesquisas sobre folclore, música e fala brasileira. Só a I está correta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão cobra o sentido de pronomes indefinidos na negação. Na charge, o policial revista uma criança na favela e, à pergunta “Achou alguma coisa aí?”, responde “Nenhum futuro!”. A crítica é que essa criança não tem perspectivas: o policial não encontrou futuro algum nela.\n\nEm português, “algum” posposto ao substantivo, numa frase negativa, tem valor negativo, equivalente a “nenhum”: “Não achei futuro algum” = “Não achei nenhum futuro”. As alternativas (A), (B) e (C) são afirmativas e invertem o sentido; a (E), “não achei muita coisa”, sugere que se achou pouco, o que atenua a negação total e perde a referência ao futuro.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão cobra a tese do texto de Bertrand Russell. Logo na abertura, o autor afirma que, no ensino, a liberdade “deve ser questão de grau” e que há liberdades que não podem ser toleradas. Ele ridiculariza a ideia de nunca proibir nada a uma criança (os alfinetes, o veneno, a janela) e conclui que deve haver um elemento de disciplina e autoridade; a dúvida é apenas até que ponto e como exercê-lo.\n\nPortanto, a liberdade não deve ser absoluta e os excessos precisam ser coibidos. A (C) e a (D) defendem justamente a liberdade sem restrições que o autor critica; a (A) e a (E) atribuem ao texto ideias que ele não apresenta.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão pede o que caracteriza as liberdades que, segundo Russell, não podem ser toleradas. Os exemplos do texto são de dois tipos: os que põem em risco a própria criança (engolir alfinetes, tomar veneno, cair de uma janela, apanhar resfriados) e os que atingem outras pessoas, como importunar anciãos — a alusão a Eliseu, profeta bíblico que reagiu duramente à zombaria de meninos, lembra que nem todo adulto é capaz de responder a isso. Logo, são liberdades que representam riscos à integridade da criança e de adultos.\n\nA (A) e a (B) restringem o problema ao ambiente escolar; a (D) é genérica e não corresponde aos exemplos; a (E) confunde as liberdades com o remédio proposto (disciplina e autoridade).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão cobra o sentido de uma palavra no contexto. “Advogar” significa, em sentido figurado, defender uma ideia ou causa, sustentá-la com argumentos — como faz um advogado com o seu cliente. Em “Quem advoga a liberdade da educação”, o autor se refere a quem defende uma educação com liberdade.\n\n“Impõe” e “exige” indicam obrigação, o que não cabe; “estuda” muda o sentido; “afirma” é fraco, porque advogar não é apenas declarar, mas tomar partido a favor de algo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão cobra concordância verbal. Ao trocar “Quem” por “As pessoas que”, o sujeito de “advoga” e de “quer dizer” passa ao plural: “As pessoas que advogam… não querem dizer”. O infinitivo “dizer”, que forma locução com “querem”, não se flexiona (“querem dizerem” é erro).\n\nJá em “o que lhes der na veneta”, o sujeito de “der” é o pronome “o que” (aquilo que), e não “as pessoas” nem “as crianças”; por isso o verbo continua no singular: “o que lhes der na veneta”. A única alternativa que faz as duas coisas corretamente é a (D). A (B) e a (E) erram ao flexionar “dizer” e “der”; a (A) e a (C) deixam um dos verbos no singular indevidamente.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão cobra as características de Alberto Caeiro, o heterônimo “mestre” de Fernando Pessoa. Caeiro é o poeta das sensações: valoriza o que se vê e se toca, recusa a metafísica e acha que pensar demais afasta o homem da realidade. No poema, a criança que crê em fadas, mesmo afirmando o que não existe, “sabe” que as coisas existem existindo, que existir “não se explica” e que não há razão para nada existir — ou seja, a existência se apreende pelo contato com o mundo concreto, sem explicações.\n\nPor isso a (B) é a correta. A (A), a (C) e a (E) atribuem a Caeiro subjetivismo, misticismo e metafísica, que ele rejeita; a (D) inverte a sua visão objetiva das coisas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão compara o poema de Caeiro com os versos de Angelus Silesius citados por Leonardo Boff: a rosa floresce “por florescer”, “é sem porquê”, sem perguntar se a olham. A ideia é que a existência não precisa de justificativa: as coisas existem porque existem.\n\nO poema de Caeiro diz o mesmo: existir “existe e não se explica” e não há “razão nenhuma para nada existir”. O ponto de vista de Silesius é, portanto, confirmado, porque o eu lírico entende que o existir por si só já basta. A (A) e a (E) introduzem Deus como explicação, o que nenhum dos dois textos faz; a (B) e a (C) falam em negação, quando há concordância entre os textos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra a ideia central das lembranças da narradora. O “chão da infância” é povoado pela mãe fazendo contas ou mexendo o tacho de goiabada, pela tia Laura ao piano, pelo pai que fuma e recita poesia e pelas pajens, como Maricota, com quem ela chupa cana no quintal. É o convívio com a família e com as pajens que marca essas memórias.\n\nA (B) é a mais tentadora, porque o pai é chamado de “instável” e a família se muda muito, mas ele está presente: conversa com a filha e recita para ela. A viuvez da tia (A) e a escravidão (D) são detalhes, e as pajens não são indiferentes (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão cobra a natureza da relação entre a narradora e a pajem Maricota. As duas estão juntas no quintal chupando cana, Maricota faz perguntas, chama a menina de “burra” e, quando recebe uma ordem, responde enfurecida que não é escrava. Essa liberdade para expressar o desagrado, sem cerimônia, revela intimidade e proximidade, e não uma relação distante ou formal.\n\nA (B) fala em respeito devido por relação profissional, mas a pajem não demonstra deferência alguma; a (A) inverte quem se irrita; a (C) ignora que Maricota reage com veemência; a (D) inventa uma rivalidade e um desejo de ocupar o lugar da narradora que o texto não menciona.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra o efeito da repetição na fala da pajem. Ao ouvir “Corta mais cana”, Maricota se levanta enfurecida e retruca: “Pensa que sou sua escrava, pensa?”. A pergunta é retórica: a repetição de “pensa” reforça a indignação com a ordem e deixa claro que ela não vai obedecer — tanto que lembra que “a escravidão já acabou” e passa a procurar outra coisa pelo quintal. Conclui-se que ela não pretende mais cortar cana naquele momento.\n\nAs alternativas (B) e (E) dizem o contrário (obrigação ou prontidão em atender); a (C) ignora o tom enfurecido; a (D) não procede, porque ela entendeu muito bem o pedido e justamente o recusa.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão pede que se reconheça o poema recitado pelo pai: um navio cheio de negros presos em correntes que clamam por Deus. É “O navio negreiro”, de Castro Alves, poeta condoreiro da terceira geração romântica, conhecido como “poeta dos escravos”. A estrofe II traz as marcas do poema: a multidão faminta presa “nos elos de uma só cadeia”, que chora e dança, e o capitão que manda os marinheiros vibrarem o chicote.\n\nA estrofe I é de “Os Lusíadas”, de Camões (a tempestade que antecede o Adamastor), e a III é de “Mar português”, de Fernando Pessoa (“Mensagem”) — não de Álvaro de Campos. Nenhuma das duas trata de um navio negreiro, por isso (A), (B), (C) e (E) não descrevem os versos recitados pelo pai.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão cobra o estilo de Lygia Fagundes Telles. A autora é conhecida pela ficção intimista e psicológica: narrativas em primeira pessoa, centradas na memória, nas sensações e nos conflitos interiores das personagens. No trecho, a narradora revisita fragmentos da infância (“chão movediço”), mistura lembranças e reflexões e revela o que sentia e não compreendia, como a palavra “instável” ou a escravidão.\n\nO texto não tem elementos sobrenaturais (realismo fantástico), não é uma denúncia urbano-social nem regionalista, e não discute questões metafísicas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão cobra localização de informação no primeiro parágrafo. O texto diz que, no início, a dengue “seems like a case of severe flu” — parece um caso de gripe forte; só depois a febre sobe, com dores de cabeça, dores intensas nas articulações, náusea e manchas na pele.\n\nA (A) mistura sintomas que vêm depois e acrescenta dor na nuca e vômito, que o texto não menciona. A (B) e a (D) confundem os sintomas iniciais com a forma hemorrágica (DHF), que é a mais grave. A (E) distorce o texto: líquidos são o único tratamento disponível, mas antitérmicos não são citados, e isso não descreve os sintomas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão cobra compreensão de detalhes do texto. No terceiro parágrafo, lê-se que quem sobrevive à infecção por um dos “four viruses that cause the disease” fica imune àquele vírus. Logo, a dengue pode ser causada por quatro variantes do vírus, como diz a (E).\n\nAs outras contradizem o texto: (A) não há vacina nem tratamento preventivo (“no known preventive treatment”); (B) a doença atinge sobretudo áreas urbanas e semiurbanas; (C) não se fala em rios; (D) a transmissão é pela picada da fêmea do Aedes, e não por contato entre pessoas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão cobra a leitura de números do segundo parágrafo. Segundo a OMS, a dengue afeta cerca de 50 milhões de pessoas por ano, e “a further 2.5 billion, two-fifths of the world’s population, are considered ‘at risk’” — outros 2,5 bilhões, dois quintos da população mundial, estão em risco.\n\nOs 50 milhões (B) são os afetados por ano; as 500 mil pessoas, muitas delas crianças, são as que desenvolvem a forma hemorrágica (D distorce o dado); 20% é a letalidade da DHF sem tratamento adequado, e 100 é o número de países onde a doença é endêmica (E mistura os dois).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra um dado do terceiro parágrafo sobre a forma hemorrágica (DHF). No México, segundo o secretário de saúde, há seis anos só um em cada 50 casos era hemorrágico; “now one in five is” — agora, um em cada cinco, ou seja, 20% dos casos.\n\nAs outras são falsas: (A) a imunidade vale só contra o vírus já contraído, e uma nova infecção por outra variante aumenta o risco de DHF; (C) 20% é a letalidade possível sem tratamento, não a proporção de mortos no mundo; (D) 2.693 são os casos de DHF neste ano, não mortes; (E) Paraguai e Brasil aparecem apenas nas mortes (11 e 17).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão cobra a informação do quinto parágrafo. Como não há tratamento preventivo nem cura antiviral, “the only practical way to prevent the viruses’ spread is to eliminate the Aedes mosquitoes by preventing them from breeding” — a única forma prática é eliminar o mosquito, impedindo que ele se reproduza.\n\nA (A) e a (B) citam tratamentos e antivirais que o texto diz não existirem. A (C) fala em alertar sobre sintomas, o que não impede a transmissão. A (E) é a mais tentadora, mas o programa mexicano é só um exemplo de medida contra o mosquito, e o texto diz que ele passou a funcionar o ano todo, não apenas na época das chuvas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão cobra a leitura do terceiro parágrafo. Ele diz que, no início do século 20, a oposição ao cigarro “took a moral rather than a health-conscious tone” — tinha um tom moral, e não de preocupação com a saúde, sobretudo em relação às mulheres que queriam fumar.\n\nA (A) é falsa porque hoje o cigarro é símbolo de morte e doença. A (C) troca “highly prized” (muito valorizado) por “cômodo”. A (D) distorce os anúncios com médicos, que eram publicitários e exaltavam supostas virtudes saudáveis, não campanhas políticas. A (E) não tem apoio no texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão cobra o sentido de um conector. “Although” é uma conjunção concessiva, equivalente a “embora”, “ainda que”. No trecho, o autor diz que a oposição ao cigarro era moral, embora mesmo naquela época muitos médicos se preocupassem com o risco para a saúde: o fato introduzido não impede a afirmação principal.\n\n“Portanto” indica conclusão, “exceto” exclusão, “enquanto” tempo ou contraste, e “conforme” conformidade; nenhum deles tem valor concessivo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão cobra referência textual. No último parágrafo, o texto afirma que, nos anos 1980, os cientistas estabeleceram que “nicotine is extremely addictive”. Em seguida, diz que as empresas de tabaco rejeitaram publicamente “such claims” (tais afirmações), embora se aproveitassem do potencial viciante adicionando nicotina aos cigarros. As afirmações rejeitadas são, portanto, a de que a nicotina vicia fortemente.\n\nA nicotina extra (B) é o que as empresas faziam às escondidas; “statistical arguments or anecdotes” (D) é como elas tinham classificado os estudos dos anos 1950, em outro parágrafo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão cobra o sentido de “rather than”, que significa “em vez de”, “e não”. No trecho, as empresas de tabaco ridicularizaram os estudos como meros argumentos estatísticos ou casos isolados, em vez de definições de causalidade. A expressão equivalente é “instead of”.\n\n“Because of” e “due to” indicam causa (“por causa de”), “such as” introduz exemplos (“como”) e “so that” indica finalidade (“para que”); todas mudariam o sentido.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão cobra o valor da partícula “to” antes de verbo. Em “campaigns aimed at youngsters to hook whole new generations of smokers”, o infinitivo com “to” expressa o objetivo das campanhas dirigidas aos jovens: viciar (“to hook”, fisgar) novas gerações de fumantes. É o chamado infinitivo de finalidade, equivalente a “para” (“in order to”).\n\nNão há relação de causa, exemplo, ressalva ou condição no trecho.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão cobra a informação do quinto parágrafo. Em 1947, Richard Doll e A. Bradford Hill, do British Medical Research Council, criaram uma técnica estatística sofisticada para documentar “the association between rising rates of lung cancer and increasing numbers of smokers” — relacionaram estatisticamente o aumento do câncer de pulmão e o aumento do número de fumantes.\n\nA (A) exagera (o texto fala em avanços no pensamento epidemiológico, não que eles o criaram); a (B) generaliza para “fatos do cotidiano”; a (C) diz que provaram só o aumento de fumantes, sem a relação com o câncer; a (E) inventa o estudo de documentos fornecidos pelo conselho.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão cobra a posição dos ambientalistas no segundo parágrafo. Eles “have voiced concerns that a global ethanol boom could accelerate rain forest destruction” — temem que o crescimento mundial do etanol acelere a destruição da floresta tropical, se árvores forem derrubadas para dar lugar às plantações.\n\nA (B) troca floresta tropical por subtropical e diz que a cana e a soja tomarão o lugar da floresta, quando o temor é que a soja seja empurrada para a Amazônia. A (C) e a (D) atribuem aos ambientalistas a crítica de Fidel Castro e Hugo Chávez sobre a fome, e o texto diz que esses presidentes nem trataram de questões ambientais. A (E) inverte a posição: eles discordam do presidente.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A questão cobra o argumento do presidente no primeiro parágrafo. Para rebater as críticas, ele disse que é injustificado pensar que mais cana para etanol provocaria mais desmatamento, porque “Amazon weather conditions aren’t favorable for the sugar cane” — o clima amazônico não é favorável ao cultivo de cana.\n\nAs outras alternativas não aparecem como argumento dele: a soja no Brasil central (A) é o ponto de preocupação dos ambientalistas; a fome e o uso de alimentos como combustível (C) é a crítica de Cuba e Venezuela, apenas negada por ele; produtividade (D) e comparação com o etanol de milho (E) não são mencionadas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "A questão cobra referência do pronome relativo. No trecho, os ambientalistas dizem que a conversão de plantações de soja em cana pode levar os produtores a migrar para a Amazônia “for their crop, which is also in high demand worldwide, particularly from China”. “Which” retoma “their crop”, isto é, a soja, que também tem grande procura no mundo, especialmente pela China.\n\nNão faria sentido dizer que a Amazônia, os produtores ou a China têm “alta demanda mundial”; e o etanol de cana não é a cultura dos produtores de soja.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

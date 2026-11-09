@@ -243,6 +243,16 @@
    "confianca": "media",
    "pendencia": "Se cada passada tivesse de terminar com giros inteiros, seriam 17 por passada (51 no total); o gabarito considera o total contínuo, 50 giros, o que o \"aproximadamente\" do enunciado permite."
   },
+  "0:49": {
+   "resposta": "Probabilidade com grupos disjuntos: conta-se o total de meninas em cada grupo e divide-se pelo total de crianças.\n\nBilateral: 55 crianças, 80% meninas → 0,8 × 55 = 44 meninas\nUnilateral: 70 crianças, 30% meninos → 70% meninas → 0,7 × 70 = 49 meninas\nTotal de meninas: 44 + 49 = 93\nP(menina) = 93 ÷ 125 = 0,744 = 74,4%\n\nA armadilha é usar os 30% do grupo unilateral como meninas (seriam 21), o que daria 65 ÷ 125 = 52%, valor fora das opções; o enunciado diz que 30% são meninos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "Distância de ponto a reta: a distância do ponto (x₀, y₀) à reta ax + by + c = 0 é |a·x₀ + b·y₀ + c| ÷ √(a² + b²).\n\nCentro do objeto: origem (0, 0)\nReta: 3x + 4y − 12 = 0\nd = |3·0 + 4·0 − 12| ÷ √(3² + 4²)\nd = 12 ÷ √25 = 12 ÷ 5\n\nInterpretação geométrica: a reta corta os eixos em (4, 0) e (0, 3), formando um triângulo retângulo de hipotenusa 5; a distância d é a altura relativa à hipotenusa, 3 × 4 ÷ 5 = 12/5.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "1:1": {
    "resposta": "**a)** O vírus influenza tem material genético (RNA) que **sofre mutações com muita frequência**, alterando os antígenos de superfície (hemaglutinina e neuraminidase). Assim, a cada ano circulam variantes diferentes, contra as quais os anticorpos e as células de memória da vacinação anterior podem não ser eficazes. Por isso a vacina é reformulada anualmente com as cepas previstas para a temporada, e a do ano anterior perde utilidade. Além disso, a proteção conferida pela vacina diminui com o tempo.\n\n**b)** A vacina provocou a **resposta primária**: o organismo reconheceu os antígenos, ativou linfócitos, produziu anticorpos e formou **células de memória**, o que leva cerca de 2 a 3 semanas. Quando o vírus real invade o organismo, ocorre a **resposta secundária**: as células de memória reconhecem rapidamente o antígeno e se diferenciam em plasmócitos, produzindo anticorpos **mais depressa, em maior quantidade e por mais tempo**. O vírus é neutralizado antes de causar a doença, ou ela fica branda.",
    "confianca": "alta",

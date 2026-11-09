@@ -1,0 +1,257 @@
+{
+ "indice": "data/questoes/unifesp/2006_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão cobra a leitura conjunta de imagem e texto. O homem, sentado diante de papéis, admite que o papel é dele e que a assinatura também é dele, mas diz não reconhecer o documento. A fala é contraditória: ele assume tudo o que o liga ao papel e, ao mesmo tempo, nega o conteúdo. A charge, tirada de um livro sobre como não ser enganado nas eleições, ironiza o político que tenta esconder a verdade.\n\nEssa atitude é de dissimulação: fingir, disfarçar o que se sabe. Não há honestidade (B), justamente o contrário; nem intimidação, agressividade ou preocupação, já que ele fala com tranquilidade, tentando escapar da responsabilidade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão cobra colocação e emprego do pronome oblíquo. Para evitar a repetição de “o documento”, que é objeto direto de “reconhecer” (reconhecer algo), usa-se o pronome oblíquo “o”. Como há a palavra negativa “não”, que atrai o pronome, a colocação exigida pela norma padrão é a próclise: “eu não o reconheço”.\n\nA (B) e a (D) usam “lhe”, que é objeto indireto e não cabe aqui. A (C) usa o pronome reto “ele” como objeto, uso coloquial condenado pela norma. A (E) erra duas vezes: a ênclise contraria a atração do “não”, e a forma “-lo” só aparece depois de verbos terminados em r, s ou z.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão cobra a compreensão do texto da Folha. Segundo a pesquisa da Unifesp, a letra ilegível impede que médicos da mesma especialidade cheguem a um diagnóstico igual; o prontuário precisa ser compreendido para dar continuidade ao tratamento, e, como diz o autor da tese, sem a informação adequada pode não haver o tratamento correto. Logo, a caligrafia ilegível pode prejudicar os pacientes em tratamento.\n\nA (A) atribui a condenação aos pacientes, o que o texto não diz. A (B) e a (E) criam condições que não existem: a legibilidade é exigida sempre pelo código de ética. A (D) não tem apoio no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra pressuposto, isto é, o que fica implícito na frase. A palavra “nem” em “Nem mesmo os médicos conseguem” indica que se esperava que ao menos os médicos fossem capazes de entender a letra dos colegas; se nem eles conseguem, a situação é ainda pior para os outros. O pressuposto é que a letra de um médico deveria, pelo menos, ser entendida por outro médico.\n\nA (A) inverte essa expectativa. A (B), a (C) e a (E) fazem afirmações sobre a atitude dos médicos que a frase não contém.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão compara dois textos. A Folha trata a letra ilegível como problema que prejudica o tratamento e contraria o código de ética. O segundo trecho acrescenta outra explicação: a letra de médico é “uma tradição antiga” que nasce da relação de poder do médico com o paciente, e é tão enraizada que até quem escreve bem adota esse “modelo”. Ou seja, funciona como marca de identidade da profissão, embora possa pôr o tratamento em risco.\n\nA (A) fala em intenção de não ser entendido, que nenhum dos textos afirma. A (C) inventa uma “força oculta”. A (D) contradiz a Folha, que diz que o código de ética exige legibilidade. A (E) é falsa porque o segundo texto explica a origem da ilegibilidade, não a defende.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra a relação lógica numa oração condicional. A frase diz que, se o médico não tem a informação adequada, existe a possibilidade de não fazer o tratamento correto. Ou seja, ter a informação adequada é condição necessária para tratar corretamente: sem ela, o tratamento fica comprometido.\n\nA (A) diz o oposto (“prescindir” = dispensar). A (C) inverte causa e consequência. A (D) diz que a informação inviabiliza o tratamento, absurdo. A (E) atribui ao médico uma opinião que a frase não expressa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra concordância verbal e nominal. Na (A), “Existem” concorda com o sujeito “possibilidades”; “não fazer” e “tenha” concordam com “o médico”, singular. Tudo correto.\n\nNas outras há erro: (B) “os médicos… caso não tenha” — o verbo deveria ir para o plural, “tenham”; (C) “haver” no sentido de existir é impessoal, então o certo é “haja informações”; (D) “têm”, no plural, não concorda com “o médico”, que é o sujeito da frase; (E) com o “se” apassivador, o verbo concorda com “possibilidades” (“Vislumbram-se”), e “se não tiver” deveria concordar com “os médicos” (“tiverem”).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão compara a letra ruim no samba de Adoniran Barbosa e na escrita dos médicos. No samba, o eu lírico pede desculpas pelas linhas mal traçadas e diz que a letra é da mulher dele: a escrita precária revela a condição de quem teve pouca instrução, um trabalhador humilde da cidade, tema típico de Adoniran. Nos textos sobre os médicos, a ilegibilidade não tem essa explicação social; aparece como tradição da profissão, ligada à relação de poder com o paciente.\n\nAs motivações são, portanto, diferentes. A (A), a (C) e a (D) igualam poeta e médicos, o que não procede; a (B) atribui aos médicos a intenção de disfarçar a realidade social, o que os textos não dizem.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão avalia três leituras do samba. A afirmação I está correta: o samba é um agradecimento ao doutor José Aparecido pelo dinheiro que ele deu, e em nenhum momento se fala em cobrança ou devolução, o que sugere um gesto de solidariedade.\n\nA II é falsa: ao contar que comprou uma cadeira de engraxate, casou e tem filhos, o eu lírico mostra ao benfeitor o bom uso do dinheiro, num tom de gratidão, e não tenta se colocar acima dele. A III também é falsa: “seu”, redução de “senhor”, é forma respeitosa de tratamento, e não displicente; o tratamento dado a Gervásio também é cortês.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra os valores do diminutivo. Além de indicar tamanho pequeno e afeto, o diminutivo “casinha” sugere uma casa modesta, simples, compatível com a vida do trabalhador que comprou uma cadeira de engraxate e se diz satisfeito com o que conquistou.\n\n“Penúria” e “pobreza” carregam ideia de miséria e carência, o que contraria o tom de contentamento do samba. Não há humilhação nem ironia: o eu lírico conta com orgulho e gratidão o que conseguiu.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão cobra a uniformidade de tratamento no imperativo. No samba, o doutor é tratado por “você” (“fiz um samba pra você”). “Você” leva o verbo para a terceira pessoa do singular; no imperativo, usam-se as formas do presente do subjuntivo: “veja” e “apareça”. Assim: “Veja no verso meu endereço, apareça quando quiser”.\n\n“Vê” e “aparece” (A) são formas do imperativo afirmativo de “tu”; “vejas” (B) e “vês” (C) também são de segunda pessoa e ainda misturam tratamentos; “vejai” e “aparecei” (D) seriam de “vós”, e “vejai” nem existe (o correto seria “vede”).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão cobra a estética parnasiana. Nos versos de Olavo Bilac, o poeta defende que a obra não mostre o esforço de quem a fez (o “suplício do mestre”, os “andaimes do edifício”): o resultado deve parecer natural e simples, embora seja fruto de muito trabalho. Essa ideia de arte como trabalho minucioso, de lapidação da forma, é a do extremo rigor formal, marca dos parnasianos, grupo do qual Bilac é o principal nome no Brasil.\n\nA expressão dos sentimentos (A) é romântica; a sugestão de sons e imagens e os conflitos humanos remetem ao Simbolismo, e a contestação social não pertence a nenhuma dessas estéticas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra as marcas parnasianas dos versos de Bilac. O poeta busca a perfeição da forma — o efeito que agrada sem mostrar o esforço — e associa a arte a valores universais e absolutos, como a Beleza e a Verdade, grafadas com maiúscula, “arte pura” e “inimiga do artifício”. Isso corresponde à alternativa (C).\n\nA (A) contradiz o rigor técnico parnasiano. A (B) e a (E) falam em subjetividade e forma pouco idealizada, o oposto da impessoalidade e do ideal clássico do Parnasianismo. A (D) é a mais tentadora, porque os parnasianos de fato se afastavam da realidade social, mas os versos não usam metáforas vagas; eles expõem uma concepção de arte de modo bem objetivo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra conhecimento de “Dom Casmurro”, de Machado de Assis. A afirmação I está correta: o “enigma de Capitu” existe porque o romance é narrado por Bentinho, que acusa a mulher de traição sem provas definitivas; o leitor oscila entre acreditar no adultério ou no ciúme do narrador.\n\nA II é falsa: o triângulo é formado por Capitu, Bentinho e Escobar; Quincas Borba é personagem de outros romances de Machado. A III também é falsa: o narrador de Sabino diz não ter chegado “a nenhuma conclusão”, ou seja, não está convicto de nada.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão cobra o foco narrativo de “Dom Casmurro”. O trecho mostra que tudo o que sabemos de Capitu passa pelo olhar de Bentinho, narrador em primeira pessoa e personagem apaixonado: ele lembra a definição de José Dias, examina os olhos dela e cria a imagem dos “olhos de ressaca”. Como o leitor só tem a versão dele, a suposta traição não pode ser comprovada, o que gera a dúvida do texto de Sabino.\n\nA (B) e a (D) dão peso excessivo a José Dias, que só aparece como referência. A (C) é falsa: a apresentação é carregada de subjetividade. A (E) diz que ele a idealiza, quando na verdade a descreve como enigmática e perigosa.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão cobra o sentido de “oblíqua” no contexto. Olhar oblíquo é olhar de lado, que não encara de frente; por extensão, indica alguém que não é direto, que esconde as intenções — reforçado por “dissimulada”. José Dias vê Capitu, portanto, como uma mulher evasiva, que foge e disfarça.\n\nA descrição é de desconfiança, não de admiração (irresistível), nem de crítica a falta de modos (inconveniente). “Compreensiva” e “irônica” não têm relação com a imagem de olhar enviesado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra a interpretação da imagem dos “olhos de ressaca”. Bentinho compara os olhos de Capitu à onda que se retira da praia em dia de ressaca e diz que eles traziam um fluido misterioso e enérgico, uma força que arrastava para dentro. A comparação mostra que ele se sentia fortemente atraído, quase tragado, por ela.\n\nA (A) e a (C) falam em repulsa e desconfiança, sentimentos que não aparecem no trecho. A (D) usa uma frase anterior, quando ele ainda não tinha examinado bem os olhos. A (E) inverte o sentido: a imagem reforça o mistério de Capitu.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão cobra a passagem do discurso indireto para o direto. No indireto, “Só me perguntava o que era, se nunca os vira”, Capitu dirige-se a Bentinho. No direto, os tempos voltam ao momento da fala: o mais-que-perfeito “vira” passa ao pretérito perfeito “viu”, e a pessoa é a terceira do singular, como no tratamento da época. Assim: “— O que foi, nunca os viu?”.\n\nA (E) é a única com “viu”. Em “o que foi?”, o pretérito perfeito tem o valor idiomático de “o que houve?”, compatível com “era” no indireto (o presente “é” também seria possível, mas nenhuma alternativa o combina com “viu”). A (A), a (B) e a (D) mantêm “vira”, que pertence ao indireto; a (C) usa “viram”, no plural, que não corresponde a Bentinho.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão cobra as características do soneto de Filinto Elísio, poeta português do século 18. A afirmação I está correta: a amada, Márcia, é descrita por imagens de perfeição (fios de ouro, alvo peito, dentes de aljôfar) e o eu lírico se julga indigno dela, mantendo distância. A III também: o soneto em decassílabos, a idealização e as metáforas preciosas são marcas da tradição clássica, retomada pelo Arcadismo (neoclassicismo).\n\nA II é falsa: o jogo amoroso é bem convencional, com a amada inatingível e o amante que sofre em silêncio. A IV é falsa: não há sensualidade explícita nem convite ao “carpe diem” (aproveitar o momento).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão cobra a compreensão do último terceto. O eu lírico diz que se julga tão pouco merecedor da amada que não ousa incomodá-la com as penas que sofre por ela em vão. Ou seja, não se considera digno do amor de Márcia e, por isso, sofre calado.\n\nA (A) é a mais tentadora, mas o motivo do silêncio não é poupar a amada do sofrimento, e sim não aborrecê-la (“enojá-la”) com atrevimento. Na (B), quem se julgaria atrevido é ele, e não a amada que o vê assim. A (C) e a (D) contradizem o texto: ele não pretende revelar o sentimento nem acredita merecê-la.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão cobra o sentido das palavras no contexto. “Enlevar” é encantar, extasiar: a voz da amada encanta pela doçura. “Roubar mil agrados” é conquistar, ganhar a simpatia de todos pela graça. E “penas”, no último verso, são sofrimentos, padecimentos — reforçados pelo verbo “padeço” no mesmo verso.\n\nNa (B), “plumas” é outro sentido de “penas” que não cabe aqui. “Saquear”, “despojar” e “subtrair” tomam “roubar” no sentido literal, de furtar, e “piedades”, “compaixões” e “mágoas” não correspondem às penas de amor do poeta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão cobra o valor semântico da preposição \"de\" em cada expressão do verso.\n\nEm \"metal de voz\", o termo \"de voz\" especifica e caracteriza o substantivo: não é um metal qualquer, é o timbre metálico, sonoro, da voz da amada. Trata-se de uma relação de qualificação (especificação), em que o segundo termo diz que tipo de \"metal\" é aquele.\n\nEm \"enleva de doçura\", a voz encanta, arrebata, por causa da sua doçura: \"de doçura\" equivale a \"por sua doçura\", \"em razão da doçura\". É, portanto, relação de causa.\n\nA alternativa (A) é tentadora porque \"metal de voz\" lembra posse, mas a voz não \"possui\" o metal; o termo apenas qualifica o som.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão pede a leitura comparada dos dois poemas quanto à maneira de representar o amor.\n\nI está correta: em Garrett, o amor surge como algo que o eu lírico não escolheu; ele pergunta \"quem mo pôs aqui n'alma... quem foi?\", isto é, o sentimento se instalou nele independentemente da vontade.\n\nII está errada nas duas partes. Filinto descreve sobretudo atributos físicos de Márcia (olhos, dentes, cabelos, peito), enquanto Garrett trata o amor como chama interior, sem explorar o corpo.\n\nIII está errada: nenhum dos dois poemas mostra um amor prestes a se realizar na realidade vivida pelos amantes; em Filinto o poeta se julga indigno e padece \"em vão\", e em Garrett o amor é um inferno que consome.\n\nLogo, só I é verdadeira.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão cobra figuras de linguagem e leitura dos dois poemas.\n\nNa descrição de Márcia, Filinto usa metáforas típicas da poesia neoclássica: os lábios são \"rubi\", a pele é \"nevada alvura\", os dentes são \"aljôfar\" (pérolas). E exagera nas quantidades para engrandecer a amada: \"mil prendas\", \"mil agrados\", \"mil extremos\", o que é hipérbole. Por isso (B) está correta.\n\nAs demais falham: (A) o poema não narra uma história, é descritivo; (C) não há eufemismo em Garrett, ao contrário, o amor é chamado de \"inferno\"; (D) o pronome \"o\" em \"mo\" retoma \"este inferno de amar\"; (E) as perguntas de Garrett exprimem perplexidade e angústia diante do sentimento, não disposição para vivê-lo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão cobra as funções da linguagem.\n\nO poema de Garrett está centrado no próprio eu lírico: exclamações (\"como eu amo!\"), perguntas angustiadas, interjeição \"ai\", travessões e reticências que mostram a emoção transbordando. Quando a mensagem gira em torno das emoções de quem fala, predomina a função emotiva (ou expressiva), com forte subjetivismo e sem contenção dos sentimentos, como diz (D).\n\nNão é metalinguística (o poema não fala da própria linguagem), nem apelativa (não tenta convencer um interlocutor), nem referencial (não há informação objetiva e racional), nem fática (não testa o canal de comunicação). As perguntas do texto são retóricas, voltadas para o próprio sujeito, e não um apelo ao leitor.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão pede o efeito que a visita à exposição teve sobre o narrador.\n\nO narrador conta que foi \"criado com a idéia\" de que os aposentados se lamentam pelo que não fizeram. Na exposição, porém, encontra idosos animadíssimos e uma senhora \"cheia de vida, disposta a aprender\"; isso o faz lembrar ainda da mãe de um amigo que, viúva, passou a viajar e rejuvenesceu. Ou seja, a experiência contradiz o conceito que ele tinha da velhice e o leva a revê-lo, como afirma (E).\n\n(B) diz o contrário: ele não ratifica, mas abandona aquela ideia. (C) inventa uma indignação que não existe; o tom é de surpresa simpática. (D) fala em lamentação, que é justamente o que o texto nega. (A) não tem apoio no texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão cobra o sentido da locução concessiva \"apesar de\".\n\n\"Apesar dos cabelos grisalhos\" introduz um fato que poderia impedir o outro, mas não impede: a idade (sugerida pelos cabelos brancos) seria, no senso comum, um obstáculo à vontade de aprender, e mesmo assim a senhora está \"disposta a aprender\". O narrador, portanto, desmonta o preconceito de que a velhice tira a capacidade de aprender, que é o que diz (D).\n\n(A) exagera e generaliza, afirmando que os velhos têm mais disposição. (C) e (E) defendem a ideia preconceituosa que o texto contesta. (B) introduz \"frustrações\", que o trecho não menciona.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra a retomada de referentes por pronomes (coesão).\n\n\"Observei-a\": o pronome retoma a última personagem feminina mencionada, \"uma senhora à minha frente\" que comentou o vestido; a vestimenta não pode ser, porque o narrador logo diz que ela \"deve ter ficado parecida com um tapete\" ao usá-lo.\n\n\"Encontrei-a há pouco tempo\": está no parágrafo sobre a mãe do amigo que enviuvou, vendeu os móveis e passou a viajar; é a ela que o pronome se refere.\n\n\"Meus filhos\": a fala \"Agora que meus filhos estão criados\" é dessa mesma mulher, a mãe do amigo, e não do narrador.\n\nA sequência é: uma senhora, a mãe de um amigo, a mãe de um amigo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cruza a tirinha com o texto de Walcyr Carrasco.\n\nNa tirinha, Liberdade vê passar uma velhinha curvada, de bengala, e diz que, se o tempo fizer \"essa piada\" com ela, vai reagir. Ela rejeita, portanto, a velhice associada à decadência e ao abatimento.\n\nNo texto, essa é justamente a imagem de velhice com que o narrador foi educado: aposentados que se lamentam pelo que não fizeram. É a visão que a exposição desmentiu, ao mostrar idosos animados. Por isso (A) está correta: Liberdade se revoltaria contra a velhice que o narrador concebera a partir de sua educação.\n\n(B) inverte a relação, e (C), (D) e (E) descrevem a velhice ativa e alegre, que Liberdade não teria motivo para recusar.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão pede a leitura da atitude da personagem no último quadrinho.\n\nLiberdade aparece de cara fechada, com o corpo inclinado para a frente, numa postura de enfrentamento. A fala é uma ameaça (\"Sabe o que eu faço com ele???\") dirigida ao tempo, reforçada pela repetição insistente do verbo (\"sabe\", \"Sabe?\") e pelos três pontos de interrogação, que dão tom exaltado à pergunta. Tudo isso exprime indignação diante da velhice decadente e disposição agressiva de reagir contra ela, como diz (C).\n\nNão há medo nem tristeza na expressão (A, E), nem melancolia (B). O efeito cômico da tira existe para o leitor, mas a atitude da personagem não é de humor e surpresa (D): é de revolta.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão pede o motivo pelo qual o eu lírico chama o espelho de \"amigo verdadeiro\".\n\nNa primeira estrofe, o espelho reflete as rugas, os cabelos brancos e os olhos míopes e cansados do poeta: é \"mestre do realismo exato e minucioso\". Ele é verdadeiro porque não engana, mostra o rosto tal como está, com todos os sinais da velhice. O agradecimento (\"Obrigado, obrigado!\") tem certa ironia melancólica, mas confirma essa sinceridade. É o que diz (D).\n\nAs outras invertem o poema: o espelho não alivia o sofrimento (A), não estimula devaneios (B) e não cria fantasias (E). Só um espelho \"mágico\", que o poeta imagina na segunda estrofe, enxergaria o menino interior; o espelho real fica na superfície.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão cobra a leitura do contraste entre as duas estrofes.\n\nO espelho real mostra o exterior: rugas, cabelos brancos, olhos cansados, um \"homem triste\" marcado pelo tempo. O espelho \"mágico\" imaginado iria além da superfície e revelaria o menino que vive dentro desse homem, que ainda põe os chinelinhos atrás da porta na véspera do Natal, isto é, que conserva a esperança e o sonho.\n\nA metáfora do espelho leva, então, a refletir sobre a oposição entre o que o mundo externo e o tempo impõem ao homem e os anseios que continuam vivos no menino interior, como afirma (E).\n\n(A) ignora o menino; (B) e (C) falam do Natal em si, que é só o pretexto; (D) inverte: os sonhos estão no menino, não no homem.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão pede o sentido da presença do menino dentro do poeta.\n\nO poema diz que o menino \"sustenta esse homem\", \"não quer morrer\" e \"não morrerá senão comigo\". Ele é, portanto, a base que mantém o homem de pé: uma força interior de vida e de esperança, que todo ano o faz pensar em pôr os chinelinhos à espera do presente. Graças a esse menino, o homem consegue transcender a realidade triste da velhice que o espelho mostra. É o que diz (B).\n\n(A) e (C) veem só a resignação e a tristeza, quando o menino representa justamente o contrário. (D) exagera: o poeta não é alheio ao mundo, ele sabe que está velho. (E) atribui ao poema uma contestação do mundo opressor que ele não faz.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão pede a ideia de senso comum que o poema contraria.\n\nCostuma-se pensar que a criança que fomos desaparece quando nos tornamos adultos. O poema de Bandeira diz o contrário: o menino \"não quer morrer\" e \"não morrerá senão comigo\", ou seja, ele acompanha o homem até a morte e continua vivo, a ponto de ainda pensar nos chinelinhos na véspera do Natal. É exatamente o que afirma (C).\n\nAs outras atribuem ao poeta ideias que o texto não sustenta: ele não discute se os presentes são direito só das crianças (A), não diz que os idosos vivem num mundo de fantasias (B), nem que são especialmente críticos (D), nem que o Natal vale pelos presentes (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão cobra conhecimento sobre Manuel Bandeira e o Modernismo.\n\nBandeira foi um dos nomes centrais da primeira geração modernista, ao lado de Oswald e Mário de Andrade; seu poema \"Os sapos\" foi lido na Semana de Arte Moderna de 1922. Sua poesia parte de experiências pessoais (a doença, a família, a infância em Recife) e trata de temas como o amor, a morte e a solidão, transformando o cotidiano e o vivido em matéria de valor universal. É o que diz (D).\n\nAs outras erram: Bandeira não está na transição entre Realismo e Modernismo (A); usa muito a linguagem coloquial e popular (B); valoriza o cotidiano, sem desapego (C); e, embora trate da infância e da saudade, não tem a visão idealizada dos românticos (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão pede o motivo do elogio ao Brasil, que está no primeiro parágrafo.\n\nA presidente da International Aids Society afirma que o Brasil, \"by maintaining an aggressive and comprehensive approach to HIV prevention, treatment and support\" (ao manter uma abordagem enérgica e abrangente de prevenção, tratamento e apoio), é um líder no esforço global. Isso corresponde a (D).\n\n(A) erra porque a ajuda recusada foi dos Estados Unidos, não da ONU. (B) contradiz o texto: o Brasil recusou parte da ajuda internacional. (C) confunde: o Brasil lidera o combate à doença, não as descobertas científicas. (E) distorce o número: cerca de 600 mil brasileiros estão infectados, o texto não fala em queda.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão pede a razão da recusa da verba americana, explicada no segundo parágrafo.\n\nO texto diz que o país recusou US$ 40 milhões \"after Washington injected a clause condemning prostitution\", isto é, depois que Washington incluiu uma cláusula que condenava a prostituição. E acrescenta: \"Prostitution is legal in Brazil\". A recusa veio, portanto, da cláusula sobre a prostituição, que é legal no Brasil, como diz (C).\n\n(A) dá uma razão genérica que não é a apresentada. (B) erra: os líderes globais elogiaram a decisão. (D) mistura: quem falou em soberania nacional foi o Ministério da Saúde, e o texto não menciona liberdade de pesquisa. (E) inventa diferenças religiosas oficiais entre os dois países.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão pede o que o texto diz sobre o programa brasileiro contra a aids.\n\nNo segundo parágrafo: \"The national anti-Aids programme provides drugs free of charge to anyone who needs them\", ou seja, o programa fornece remédios gratuitamente a quem precisa deles. É o que diz (A).\n\n(B) erra: o programa distribui camisinhas a profissionais do sexo, o que é o oposto de discriminá-los; \"aggressively\" aí significa \"de forma intensa\". (C) generaliza: o texto fala em profissionais do sexo, não em toda a população e adolescentes. (D) não tem apoio: a International Aids Society apenas elogiou o programa. (E) também não: o programa do Quênia é uma iniciativa de Bill Clinton, sem comparação com o brasileiro.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão pede a afirmação que está de acordo com o texto.\n\nO texto diz que o Brasil recusou ajuda americana vinculada a uma cláusula contra a prostituição e que foi um dos primeiros países a se opor à política de ligar a ajuda externa a \"policies backed by the religious right\" (políticas apoiadas pela direita religiosa). Ou seja, o Brasil não aceita ajuda condicionada a restrições de fundo religioso, como afirma (E).\n\n(A) erra o local e a data: o texto não diz que a conferência foi em Washington, e o fato é de 2005. (B) não aparece no texto. (C) confunde: são 2.060 trabalhos científicos (\"papers\"), não 2.060 cientistas, e Helene Gayle não organizou a conferência. (D) não é dito: Clinton apenas lançou um programa.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão pede o que dizem alguns ativistas, segundo o terceiro parágrafo.\n\nO texto afirma que o país foi criticado por ativistas que dizem que o governo \"has struck a deal with a major pharmaceutical company to avoid breaking the patent\", isto é, fez um acordo com um grande laboratório para evitar a quebra da patente dos remédios contra a aids. É o que diz (B).\n\n(C) inverte a crítica: os ativistas do grupo Pela Vida disseram que o desconto era insuficiente para garantir remédio para todos. (D) é o contrário do que os ativistas denunciam. (A) e (E) não aparecem como fala dos ativistas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão cobra a leitura de um dado numérico.\n\nNo último parágrafo, o texto informa que cerca de 100 mil crianças no Quênia têm HIV, mas \"only 1,200 receive treatment\" (só 1.200 recebem tratamento). O programa de Clinton pretende \"to double\" (dobrar) esse número até o fim do ano.\n\nConta:\n1.200 × 2 = 2.400 crianças\n\nAs distrações usam outros números do texto: 100.000 é o total de crianças infectadas, e 10.000 é a meta da Fundação Clinton para pelo menos dez países, não só para o Quênia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão cobra a referência da palavra \"deal\" (acordo).\n\nNo terceiro parágrafo, o texto fala do acordo entre o governo e um grande laboratório: \"the deal with Abbott Laboratories to sell drugs to the government at a steep discount\", ou seja, o acordo para o laboratório vender remédios ao governo com grande desconto. Quando o texto diz que o ministro \"later denied the deal had been finalised\" (depois negou que o acordo tivesse sido fechado), \"deal\" retoma esse acordo de venda com desconto, como diz (E).\n\n(A) é o contrário: o acordo serviria justamente para evitar a quebra da patente. (B), (C) e (D) referem-se a outros pontos do texto, não ao acordo com o laboratório.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A questão cobra o sentido do conectivo \"however\".\n\n\"However\" é um conectivo de oposição, equivalente a \"no entanto\", \"porém\". No trecho, ele contrapõe o elogio ao Brasil (um dos primeiros a se opor à política de Bush) às críticas de ativistas. O sinônimo em inglês com o mesmo valor adversativo é \"nevertheless\" (no entanto, mesmo assim).\n\nAs outras opções mudam o sentido: \"furthermore\" é aditivo (além disso); \"inasmuch\" (como \"inasmuch as\") é causal (visto que); \"somehow\" significa \"de algum modo\"; \"unless\" é condicional (a menos que).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A questão pede o que o texto diz sobre o grupo CHERG, na seção \"Methods\".\n\nO texto informa que a OMS criou o CHERG em 2001 \"to develop estimates of the proportion of deaths in children younger than age 5\" atribuíveis a pneumonia, diarreia, malária e sarampo, \"and the major causes of death in the first 28 days of life\". Ou seja, o grupo desenvolveu estimativas sobre as principais causas de morte nos primeiros 28 dias de vida, como diz (B).\n\n(A) chama a desnutrição de \"principal causa\"; (D) erra as datas (2000–03 é o período dos dados); (E) mistura as causas das mortes até 5 anos com as neonatais. (C) é a mais próxima, mas o texto atribui à OMS, \"em colaboração com o CHERG\", a estimativa sobre a desnutrição, e não a uma conclusão do próprio grupo.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A alternativa C também tem apoio no texto (a desnutrição aparece como causa subjacente de 53% das mortes); a B é a escolhida por repetir literalmente a tarefa atribuída ao CHERG."
+  },
+  "0:45": {
+   "resposta": "A questão pede um dado da seção \"Findings\".\n\nO texto diz que seis causas responderam por 73% \"of the 10.6 million yearly deaths in children younger than age 5\" e, entre elas, pneumonia (19%) e diarreia (18%). Portanto, há 10,6 milhões de mortes por ano, 19% por pneumonia e 18% por diarreia, como afirma (C).\n\n(A) erra: as seis causas não são todas doenças contagiosas (parto prematuro e asfixia no nascimento não são) e respondem por 73% das mortes, não matam 73% das crianças. (B) confunde: 94% é a parcela das mortes por malária que ocorrem na África, e 54% se refere às doenças transmissíveis. (D) soma errado: pneumonia neonatal e parto prematuro são 10% + 10% = 20% de todas as mortes, não \"das 54%\". (E) contradiz o texto: as doenças transmissíveis somam 54%.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "A questão pede a recomendação feita na seção \"Interpretation\".\n\nA última frase do texto diz que \"these estimates of the causes of child deaths should be used to guide public-health policies and programmes\", ou seja, os dados sobre as causas de mortalidade infantil devem orientar as políticas e os programas de saúde pública. As estimativas tratam justamente das seis principais causas apresentadas, o que corresponde a (A).\n\n(B) não aparece: o texto não pede que o CHERG continue as pesquisas. (C) não é dito. (D) distorce: a recomendação para a África é combater a malária, e a desnutrição deve ser combatida em todas as regiões. (E) erra ao dizer que a desnutrição é a principal causa de morte de recém-nascidos; no período neonatal, as causas citadas são parto prematuro, sepse ou pneumonia e asfixia.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "A questão cobra o sentido da expressão \"due to\".\n\n\"Due to\" significa \"devido a\", \"em razão de\". Na frase, ela liga as mortes no período neonatal ao que as provoca: \"primarily due to preterm delivery, sepsis or pneumonia\", isto é, mortes causadas principalmente por parto prematuro, sepse ou pneumonia. Trata-se, portanto, de uma relação de causalidade.\n\nNão há ideia de tempo (simultaneidade, temporalidade, sequência de fatos) nem de alternância; o \"or\" da frase apenas lista possíveis causas, sem mudar o valor de \"due to\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "A questão cobra a referência do pronome \"these\".\n\nNa última frase, \"these estimates of the causes of child deaths\" retoma as estimativas apresentadas ao longo do texto: as que o grupo CHERG, criado pela OMS em 2001, foi encarregado de desenvolver (seção \"Methods\") e cujos resultados aparecem em \"Findings\". Logo, \"these\" refere-se às estimativas desenvolvidas pelo CHERG, grupo estabelecido pela OMS, como diz (B).\n\n(A) restringe à África, mas as estimativas são globais. (C) restringe aos primeiros 28 dias, quando o estudo trata das crianças até 5 anos. (D) e (E) falam de temas que o texto não aborda (investimento público, pobreza em países subdesenvolvidos).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "A questão pede o que diz o texto sobre a pesquisa.\n\nO estudo avaliou a resistência à insulina em crianças de três países europeus: Dinamarca, Estônia e Portugal. O texto cita os resultados de cada um: na Dinamarca, filhos de pais mais escolarizados tinham menor resistência; na Estônia e em Portugal, ocorreu o oposto. É o que afirma (C).\n\n(A) contradiz o título (\"Wealth doesn't always predict good health\"). (B) distorce o dado: os 24% são a diferença de resistência à insulina entre os grupos dinamarqueses, não uma parcela dos estudantes. (D) não aparece no texto. (E) erra: o estudo relacionou a escolaridade e a renda dos pais à resistência à insulina dos filhos, não a escolaridade dos estudantes à renda.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "A questão pede uma informação sobre a amostra do estudo.\n\nO texto diz que a pesquisa se baseia em \"about 1,000 randomly selected schoolchildren\" em cada um dos três países, isto é, crianças em idade escolar selecionadas aleatoriamente. É o que diz (D).\n\nAs outras não têm apoio: (A) os estudantes não são só estonianos e portugueses, nem o texto os classifica como pobres; (B) Bristol é a universidade da autora, não a origem dos estudantes, que vivem na Dinamarca, na Estônia e em Portugal; (C) a pesquisa compara justamente filhos de pais com escolaridade e renda altas e baixas; (E) o texto não fala de dieta.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

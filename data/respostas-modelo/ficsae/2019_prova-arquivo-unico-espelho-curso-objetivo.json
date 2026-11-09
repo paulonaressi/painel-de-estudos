@@ -3,6 +3,246 @@
  "gerado_em": "2026-11-08",
  "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
  "questoes": {
+  "0:1": {
+   "resposta": "Humor por quebra de expectativa. Terêncio propõe um teste a Deus: se Ele \"está mesmo vendo tudo\", deve dizer a cor da cueca. Com isso, põe em dúvida a onisciência divina (a capacidade de saber tudo), e não a existência de Deus — ele fala com Deus como alguém que existe.\n\nO desfecho é engraçado porque a resposta \"Brincadeira boba\" vem acompanhada da revelação de que Terêncio está sem cueca: a pergunta era uma armadilha, e Deus, que de fato via tudo, não caiu nela.\n\nA alternativa A é falsa (Deus não falha); C confunde existência com onisciência; D e E não têm apoio na tira.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Posição do narrador na crônica. Ao contrário do amigo \"crédulo\", que confia cegamente na lei, o narrador desconfia da Justiça desde o início: aconselha o colega a entregar o atestado porque \"a justiça é cega e tarda\", acompanha com ironia o processo e fecha com o aforismo \"Quem acredita na lei, esta lhe cai em cima\".\n\nEssa postura é de incredulidade: ele não acredita que a lei proteja quem a segue à risca.\n\n\"Ingenuidade\" e \"confiança\" descrevem o amigo, não o narrador; \"perplexidade\" é o estado do amigo diante do despacho; \"indiferença\" não combina com quem aconselha e comenta o caso.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "Variação linguística: o texto segue, no geral, o registro padrão, com uma ou outra expressão popular. Em \"Estava montado o angu\", o narrador usa uma expressão coloquial (\"angu\" = confusão, encrenca formada), que destoa da variedade culta predominante.\n\nNas outras alternativas, as frases estão no registro formal ou neutro, com vocabulário próprio da burocracia (\"requerimento\", \"certidão\", \"parturiente\", \"dá entrada no processo\") e construções cuidadas (\"Ainda o vi várias vezes\"). O \"Vou aos jornais\" também segue a norma-padrão (ir a).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Correlação de tempos na passagem do discurso direto para o indireto. Quando o verbo de elocução está no passado (\"replicou\"), o presente do indicativo da fala passa para o pretérito imperfeito do indicativo.\n\nDiscurso direto: \"— A lei não exige isso — replicou ele.\"\nDiscurso indireto: Ele replicou que a lei não exigia isso.\n\n\"Exigiu\" (perfeito) indicaria um fato pontual concluído, não o estado permanente da lei; \"exigira\" (mais-que-perfeito) seria a transposição de um pretérito perfeito; \"exigiria\" corresponde a um futuro; \"exigisse\" é subjuntivo, usado para ordens ou hipóteses.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Contexto histórico dos movimentos literários. O texto fala de um movimento que, na Europa, foi protesto cultural ligado ao \"mal do século\" e à saudade de um paraíso perdido, reações à industrialização e à ascensão burguesa — traços do Romantismo europeu.\n\nNo Brasil, chegou \"importado\" numa sociedade imperial de grandes proprietários escravocratas e burguesia nascente, e assumiu caráter de afirmação nacionalista: logo após a Independência, o Romantismo brasileiro buscou a identidade nacional (indianismo, natureza tropical, cor local).\n\nO Arcadismo é anterior à industrialização; Realismo e Simbolismo não têm o \"mal do século\" nem o projeto nacionalista; o Modernismo é do século XX, já na República.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Interpretação de *Lavoura arcaica*, de Raduan Nassar. O trecho é o diálogo do retorno do filho pródigo (André): o pai abre a conversa dizendo que as marcas no rosto do filho são \"a colheita de quem abandona a casa por uma vida pródiga\", ou seja, censura-o por ter partido.\n\nO filho não acusa o pai de impedi-lo de sair (A); também não discorda de que o apetite é sagrado nem repreende o pai por isso (C e D) — ele usa a palavra \"prodigalidade\" para insinuar que a fartura sempre existiu na própria casa. Não há crítica ao empenho do filho no trabalho (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Interpretação: o que o pai valoriza nas suas falas. Ele descreve a mesa da família como \"comedida\" e \"austera\", sem desperdício, e diz que o apetite é permitido \"desde que seja moderado\". Toda a sua argumentação gira em torno da moderação, isto é, do comedimento.\n\nO esbanjamento (A) é justamente o que ele condena ao falar da \"vida pródiga\" do filho. Paciência e caridade (B e D) não aparecem no trecho. A sobrevivência (E) é citada como função do apetite, mas não é o valor elogiado; o centro do discurso é a medida, o controle.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Relação de sentido entre orações. A locução \"desde que\", seguida de verbo no subjuntivo (\"trabalhemos\"), introduz uma oração subordinada adverbial condicional: equivale a \"contanto que\" ou \"se\".\n\nNo trecho, a natureza põe seus frutos ao alcance da família com uma condição: que todos trabalhem para merecê-los.\n\nAtenção: \"desde que\" pode ter valor temporal (\"desde que chegou, não parou\") ou causal em outros contextos, mas com o subjuntivo e a ideia de exigência, o valor é de condição. Não há causa, consequência, concessão nem conclusão.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Interpretação de tira (Quino). No primeiro quadro, o avô vive aterrorizado por fantasmas do passado; no segundo, a família o convence a olhar para o futuro; no terceiro, todos ficam aterrorizados pelos fantasmas que os esperam no futuro.\n\nA ironia está em que a \"cura\" foi pior que a doença: os fantasmas do futuro são numerosos (o desenho mostra uma multidão de figuras ameaçadoras, inclusive militares) e contagiam a família inteira, enquanto os do passado afligiam só o avô. Logo, os fantasmas do futuro se mostram mais aterrorizantes.\n\nB fala em \"confusão\" entre passado e futuro, que não existe; D erra a origem do medo; E é falsa, porque o avô passou a olhar para o futuro.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "Silepse é a concordância com a ideia, e não com a forma gramatical. O caso típico da tira está no terceiro quadrinho: em \"toda a família somos um caso patológico\", o sujeito gramatical (\"toda a família\") é da 3ª pessoa do singular, mas o verbo vai para a 1ª do plural porque o narrador se inclui no grupo (silepse de pessoa e de número), reforçada por \"Vivemos aterrorizados\".\n\nNo segundo quadrinho, \"conseguimos convencê-lo a que olhasse, junto conosco\" tem sujeito oculto \"nós\" e verbo na 1ª do plural, concordância regular; o narrador fala em nome da família, e é essa a leitura que o gabarito adotado aqui parece valorizar ao apontar o segundo quadrinho. Pela definição dada no enunciado, porém, a silepse inequívoca é a do terceiro.\n\n**Resposta: B**",
+   "confianca": "baixa",
+   "pendencia": "Pela definição de silepse, ela ocorre no terceiro quadrinho (“toda a família somos”), o que levaria à alternativa D; o gabarito usado aqui (Curso Objetivo) indica B, e não encontramos silepse no segundo quadrinho. Vale conferir no gabarito oficial."
+  },
+  "0:11": {
+   "resposta": "Tema central de texto em inglês. A reportagem trata da poluição do ar em Seul: um drone monitora emissões, e o texto explica que a poeira fina (fine dust, PM10 e PM2.5) é o principal fator de estresse dos sul-coreanos, porque pode se alojar nos pulmões, chegar à corrente sanguínea e está ligada a doenças respiratórias e câncer (\"carcinogenic\").\n\nLogo, o tema é a poluição do ar e os riscos à saúde causados pelas partículas finas.\n\nA alternativa A confunde o lixo das ruas com a poeira no ar; C é ampla demais; D toma o meio (drones) pelo tema; E fala de tipos de poluentes, mas o foco é o risco à saúde.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Compreensão de detalhe em texto em inglês. O segundo parágrafo diz que o drone (UAV) do programa piloto é \"tasked with inspecting factory emissions\" na região metropolitana da capital, ou seja, tem a tarefa de inspecionar as emissões das fábricas. O primeiro parágrafo confirma a cena: o drone voa nos arredores de Seul, perto de uma planta industrial, filmando poluentes.\n\nPortanto, ele serve para monitorar as emissões industriais na cidade e arredores. Não mapeia ruas sujas (A), não prevê pontos críticos (B), e ele é uma das soluções tecnológicas, não algo que as cria (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Compreensão de detalhe em inglês. O terceiro parágrafo informa que a OMS recomenda média diária de no máximo 25 microgramas por metro cúbico de PM2.5 e que, no fim de março de 2018, o PM2.5 de Seul \"soared to over 100\" (disparou para mais de 100) — quatro vezes o limite. Em seguida diz que o PM2.5 é o de maior preocupação, porque é tão pequeno que se aloja nos pulmões e chega à corrente sanguínea.\n\nOu seja, atingiu recentemente níveis muito acima do que a OMS considera seguro.\n\nB, C e E inventam informações (descoberta recente, doenças incuráveis, \"principal causa\" anunciada pela OMS); D exagera ao dizer que a composição \"inevitavelmente\" causa efeitos mortais.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Conclusão de texto em inglês. No último parágrafo, o texto reconhece que as novas soluções \"may do a good job of measuring dust\" (podem medir bem a poeira), mas pergunta: \"what about actually busting it?\" (e quanto a acabar de fato com ela?). E responde: \"That's where the technology hasn't quite caught up yet\" — é aí que a tecnologia ainda não chegou.\n\nLogo, as inovações tornaram possível medir as emissões, mas ainda não encontraram meios de eliminá-las.\n\nA erra porque o Greenpeace apenas comenta, não coopera com as empresas; B traz um ranking que o texto não menciona; D e E não têm apoio no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Leitura de anúncio em inglês. A campanha do WWF afirma que até 30% dos peixes consumidos são pescados ilegalmente e termina com o apelo \"Make a difference. Choose sustainable fish\" — faça a diferença, escolha peixe sustentável.\n\nO pedido, portanto, é que o consumidor escolha apenas peixe obtido por práticas de pesca responsáveis.\n\nA alternativa A se dirige a pescadores, não ao público; C propõe parar de comer peixe, o que o anúncio não pede; D (doação) e E (aderir ao site) não aparecem como forma de \"fazer a diferença\" — o site é só a referência da campanha.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Povos tupi-guaranis antes da chegada dos europeus. O texto informa que praticavam a coivara (agricultura de derrubada e queimada da mata) e que, a partir do sul da Amazônia, realizaram um grande movimento de migração. Sabe-se que eram hábeis na navegação fluvial e costeira em canoas, o que favoreceu sua expansão pelos rios e pelo litoral do território que depois seria o Brasil.\n\nA alternativa A descreve os povos dos sambaquis, grupos coletores de moluscos bem anteriores; C trata da cultura marajoara; B ignora as guerras entre grupos nativos e contra os portugueses; D é falsa, pois os tupis ocupavam o litoral quando os portugueses chegaram.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Crise do Antigo Sistema Colonial (fim do século XVIII e início do XIX). Os laços entre colônias e metrópoles se afrouxaram porque o mercantilismo — base do pacto colonial e do monopólio comercial — entrou em declínio na Europa, enquanto ganhavam força as ideias iluministas e liberais: liberdade de comércio (Adam Smith), crítica ao absolutismo e propostas de reforma política. A Revolução Industrial também exigia mercados abertos.\n\nA alternativa A erra porque o colonialismo na África se intensificaria depois, no século XIX; B, C e D trazem processos posteriores ou estranhos ao período (republicanismo no Brasil, redemocratização, influência norte-americana).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Imperialismo europeu na África. Comparando os mapas: em 1830, a presença europeia se limitava a pontos do litoral (feitorias, fortes, Colônia do Cabo, Argélia francesa); em 1902, quase todo o continente estava repartido entre Grã-Bretanha, França, Alemanha, Bélgica, Portugal, Itália e Espanha, restando só Libéria e Etiópia independentes.\n\nPortanto, a ocupação principal ocorreu ao longo do século XIX e culminou na partilha, formalizada a partir da Conferência de Berlim (1884–1885).\n\nA erra a época e o \"equilíbrio\"; B é anacrônica (a descolonização é do século XX); C ignora potências novas, como Alemanha, Bélgica e Itália; E é falsa, pois a conquista do interior foi violenta.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Relações entre Estados Unidos e América Latina na Segunda Guerra. A Política da Boa Vizinhança (Franklin Roosevelt, a partir de 1933) trocou as intervenções armadas por aproximação diplomática, econômica e cultural. Com a entrada dos EUA na guerra (1941), ela se intensificou: os norte-americanos passaram a comprar matérias-primas estratégicas, como a borracha e o quartzo brasileiros citados no texto, e a exportar filmes, música e personagens (Zé Carioca), consolidando sua liderança no continente.\n\nB fala de influência cubana, posterior a 1959; C erra porque os EUA queriam a adesão latino-americana, não a neutralidade; D (Big Stick) é política do início do século XX; E confunde o New Deal, programa interno dos EUA.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Charge e contexto histórico (1970). No primeiro quadro, uma família pobre, à mesa com pratos vazios, vê chegar o garçom com uma travessa coberta; no segundo, a tampa é erguida e, em vez de comida, aparece a taça da Copa do Mundo. O humor está no contraste entre a fome da família e o \"prato\" oferecido.\n\nA charge contrapõe o tricampeonato mundial, celebrado e explorado pelo regime militar, às dificuldades econômicas da população: o \"milagre econômico\" concentrava renda e o custo de vida pesava para os mais pobres. A conquista não enche o prato.\n\nC atribui à paixão pelo futebol uma cegueira que a charge não mostra; B e D falam de repressão e luta popular, ausentes na imagem; E ignora a crítica.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Geopolítica do petróleo. O Estreito de Ormuz liga o Golfo Pérsico ao Golfo de Omã e ao Mar da Arábia, sendo a única saída marítima dos grandes produtores da região — Arábia Saudita, Irã, Iraque, Kuwait, Catar, Emirados Árabes Unidos. Por ele passa cerca de um quinto do petróleo comercializado no mundo, por isso o Irã o trata como \"arma\": ameaçar fechá-lo afeta o abastecimento e o preço mundial.\n\nAs demais alternativas não correspondem ao papel do estreito: não é rota de refugiados para a Europa, não é centro de comunicações com o Ocidente, nem local de bases espaciais ou de minerais metálicos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Relação centro-periferia e produção cultural. O texto mostra que o videoativismo do século XXI é feito pelos próprios moradores da periferia e trata de reivindicações sociais, expressões culturais e demandas identitárias. Ao filmar a si mesmos, esses moradores contestam a imagem da periferia construída de fora — pela grande mídia, em geral associada só à violência e à carência — e afirmam sua cultura e seus pontos de vista. Isso é desconstruir as representações sobre a periferia.\n\nA alternativa A sugere uma lógica externa, quando o movimento nasce de dentro; B diz que o vídeo promove disparidades, quando as denuncia; D e E não têm relação com o texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Movimentos de massa em encostas urbanas. A foto mostra casas na beira de uma encosta da qual se desprendeu uma grande massa de terra, deixando o solo exposto: um deslizamento.\n\nO mecanismo: um alto índice de chuva sazonal infiltra a água até saturar o solo; encharcado, ele fica mais pesado e perde coesão e atrito entre as partículas, tornando a encosta instável. Desmatamento, cortes no terreno e ocupação irregular agravam o processo.\n\nAs outras opções não servem: chuva baixa não desencadearia o evento; assoreamento é acúmulo de sedimentos em rios; diastrofismo e soerguimento são movimentos tectônicos; terraceamento é técnica agrícola de contenção.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Leitura comparativa de mapas sobre a ocupação do território brasileiro. A cor 6 (vermelho) aparece até 1960 concentrada no litoral, no Sudeste e no Sul — regiões de ocupação antiga e intensa — e, entre 1960 e 2000, avança muito pelo Centro-Oeste e pelas bordas da Amazônia, acompanhando a expansão da fronteira agrícola, as rodovias e a mudança da capital para Brasília.\n\nEsse padrão de expansão corresponde às áreas antropizadas, isto é, modificadas pela ação humana (desmatamento, agropecuária, cidades).\n\nRemanescentes de Mata Atlântica, florestas secundárias e unidades de conservação não cresceriam desse modo; corredores ecológicos não cobririam metade do país.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Matriz energética e logística no Brasil. O texto critica a dependência do país em relação aos combustíveis fósseis e ao transporte rodoviário (a greve dos caminhoneiros de 2018 parou o Brasil) e a pouca exploração de fontes como o sol e o vento, enquanto se insiste em barrar rios.\n\nA estratégia para contornar esse problema é diversificar a matriz energética (solar, eólica, biocombustíveis) e o sistema de transporte (ferrovias, hidrovias, cabotagem), reduzindo a dependência do caminhão e do diesel.\n\nA alternativa E propõe novas rodovias, o que aprofunda o problema; A mistura cabotagem com segurança nacional; B fala em importar biomassa, que o país produz; C trata só da gestão de ferrovias, sem diversificar a energia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "Divisão celular: identificar a fase pelo número e pelo estado dos cromossomos que migram para cada polo.\n\nCélula com 2n = 8 → 4 pares de homólogos\nNa mitose (anáfase), as cromátides-irmãs se separam: migram 8 cromossomos simples (não duplicados) para cada polo\nNa anáfase II, também migram cromossomos simples, 4 para cada polo\nNa anáfase I, os homólogos se separam: migram 4 cromossomos ainda duplicados (com duas cromátides) para cada polo\n\nComo se veem 4 cromossomos duplicados indo para cada polo, a célula está na anáfase I da meiose. Nas metáfases não há deslocamento para os polos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "Relações ecológicas entre animais do solo e plantas. As minhocas são decompositoras e não se alimentam da planta: escavam galerias que arejam o solo e facilitam a infiltração de água, e seus excrementos (húmus) enriquecem o solo com nutrientes. Por isso, beneficiam o pé de alface.\n\nAs lesmas são herbívoras e comem as folhas da alface, prejudicando a planta (relação de herbivoria).\n\nLogo, a alface foi beneficiada no recipiente com minhocas e prejudicada no recipiente com lesmas. A alternativa A inverte os papéis; B, C e E ignoram a diferença entre os dois animais.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra a diferença entre gene eucarioto (com íntrons) e RNAm maduro, e o código genético em trincas.\n\nO gene tem éxons e íntrons; no processamento do RNA (splicing), os íntrons são retirados. Por isso o segmento de DNA transcrito tem **maior** número de bases que o RNAm funcional. Já no citoplasma, o RNAm associa-se a um **ribossomo**, onde ocorre a tradução — o nucléolo apenas produz o RNA ribossômico, não faz síntese de proteína.\n\nCada códon tem 3 bases:\n369 ÷ 3 = 123 códons → 123 aminoácidos (na simplificação da prova).\n\nNa alternativa D, \"o mesmo\" número de bases está errado justamente por ignorar a retirada dos íntrons.\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "A conta 369 ÷ 3 = 123 é a simplificação esperada pela prova; a rigor, o códon de parada não codifica aminoácido e o RNAm maduro tem regiões não traduzidas, então a cadeia teria menos de 123."
+  },
+  "0:29": {
+   "resposta": "A ideia cobrada é que só há especiação completa quando surge isolamento reprodutivo.\n\nAs duas raposas vieram de um ancestral comum e foram separadas pela mata atlântica (isolamento geográfico). Com a derrubada da floresta, voltaram a se encontrar e cruzaram, produzindo híbridos férteis: há netos do cruzamento original e animais com DNA mitocondrial de uma espécie e aparência da outra. Logo, a separação geográfica não chegou a produzir isolamento reprodutivo.\n\nC erra porque, se os híbridos são férteis, não há isolamento pós-zigótico, e o cruzamento mostra que também não há pré-zigótico eficaz. Não se trata de convergência (A), de especiação simpátrica (D) nem de seleção artificial (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Herança autossômica recessiva com cálculo de probabilidade condicionada pelo heredograma.\n\nO avô afetado é aa, então a mãe de Renan e o pai de Bárbara são certamente Aa. Cada um casou com um AA.\nRenan: Aa × AA → chance de ser Aa = 1/2.\nBárbara: Aa × AA → chance de ser Aa = 1/2.\nSe ambos forem Aa, filho aa = 1/4.\nSer menino = 1/2.\n\nP = 1/2 · 1/2 · 1/4 · 1/2 = 1/32.\n\nA armadilha é esquecer a probabilidade de cada um ser portador (daria 1/8) ou a do sexo (daria 1/16).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Identificação de substâncias por solubilidade em água e reação com ácido.\n\nUma amostra dissolveu e a outra não: então há um sal de sódio (solúvel) e um de bário (insolúvel). Apenas a insolúvel fez efervescência com HCl. A efervescência vem do CO₂ liberado por carbonatos:\nBaCO₃ + 2 HCl → BaCl₂ + H₂O + CO₂\n\nLogo, a insolúvel é o carbonato de bário. Como a solúvel não reagiu, ela não é carbonato: é o sulfato de sódio.\n\nEm B, o carbonato de sódio teria efervescido e o sulfato de bário não; em A, as duas amostras reagiriam.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Estequiometria com massa e volume molar de gás.\n\nReação: SO₂ + Ca(OH)₂ → CaSO₃ + H₂O (proporção 1 : 1 entre SO₂ e CaSO₃).\n\nMassa molar do CaSO₃ = 40 + 32 + 3 · 16 = 120 g/mol\nn(CaSO₃) = 1 200 g ÷ 120 g/mol = 10 mol\nn(SO₂) = 10 mol\nV(SO₂) = 10 mol · 25 L/mol = 250 L\n\nCada 1,2 kg de sulfito formado corresponde, portanto, a 250 L de SO₂ que deixam de ir para o ar.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Cálculo com teor em massa e concentração em g/L.\n\nMassa de K⁺ em 1 t de silvinita (8%):\n1 000 kg · 0,08 = 80 kg = 80 000 g\n\nVolume de água do mar com essa massa (0,4 g/L):\nV = 80 000 g ÷ 0,4 g/L = 200 000 L\n\nO erro comum é esquecer de converter quilogramas em gramas, o que levaria a 200 L.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra a relação entre Kw, pH da água pura e o princípio de Le Chatelier.\n\nNa água pura, [H⁺] = [OH⁻] e pH = −log[H⁺]. A tabela mostra o pH caindo com o aquecimento (7,47 a 0 °C; 6,14 a 100 °C): [H⁺] aumenta, e com ela [OH⁻]. Logo Kw = [H⁺]·[OH⁻] **aumenta** com a temperatura.\n\nSe aquecer desloca o equilíbrio H₂O ⇌ H⁺ + OH⁻ para a direita, a autoionização **absorve** energia: é **endotérmica**. pH abaixo de 7 aqui não significa água ácida, pois [H⁺] continua igual a [OH⁻].\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Carbono quiral é o carbono saturado ligado a quatro grupos diferentes.\n\nPercorrendo a cadeia do glutamato:\n- carbono do grupo COOH e carbono do COO⁻: fazem dupla com oxigênio, não são quirais;\n- os dois CH₂: têm dois hidrogênios iguais, não são quirais;\n- o carbono ligado ao NH₂: está ligado a H, NH₂, COO⁻Na⁺ e à cadeia CH₂–CH₂–COOH — quatro grupos diferentes.\n\nHá, portanto, um único carbono quiral (o carbono α do aminoácido).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Movimento circular uniforme: o atrito faz o papel de resultante centrípeta.\n\nO ângulo central é 60°, ou seja, 1/6 da volta.\nArco AB = 2πR ÷ 6 = 2 · 3 · 100 ÷ 6 = 100 m\nv = 100 m ÷ 5 s = 20 m/s\n\nForça centrípeta (= atrito):\nF = m · v² ÷ R\nF = 1 200 · 20² ÷ 100\nF = 1 200 · 400 ÷ 100 = 4 800 N\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Primeira lei da termodinâmica e trabalho como área sob o gráfico P × V.\n\nQ = ΔU + W\n1 400 = 300 + W → W(ABC) = 1 100 J\n\nTrecho BC é isobárico, então o trabalho é a área do retângulo:\nW(BC) = P · ΔV = 3,0 · 10⁵ Pa · (5,0 − 3,0) · 10⁻³ m³ = 600 J\n\nW(AB) = 1 100 − 600 = 500 J\n\nNão dá para calcular AB pela área diretamente, porque a curva não é dada por equação; por isso se usa o balanço de energia.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Lente convergente seguida de espelho plano: a imagem da lente vira objeto do espelho.\n\nLente (f = 20 cm, p = 30 cm):\n1/p' = 1/f − 1/p = 1/20 − 1/30 = 1/60 → p' = 60 cm (imagem real I₁, à direita da lente)\n\nO espelho está a 80 cm da lente, então I₁ fica 80 − 60 = 20 cm à frente dele.\nNo espelho plano, a imagem I₂ fica 20 cm atrás do espelho.\n\nd = 30 + 80 + 20 = 130 cm = 1,3 m\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Ondas estacionárias em corda: frequência fundamental f = v ÷ 2L.\n\nTração: o bloco em repouso dá T = m · g = 4 · 10 = 40 N (a roldana ideal só muda a direção).\nComprimento AB: a corda faz 60° com a barra de 0,5 m, então\ncos 60° = 0,5 ÷ AB → AB = 0,5 ÷ 0,5 = 1 m\n\nv = √(T ÷ μ) = √(40 ÷ 4 · 10⁻³) = √10 000 = 100 m/s\nf = v ÷ 2L = 100 ÷ (2 · 1) = 50 Hz\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "Segunda lei de Ohm: R = ρ · L ÷ A, com A = π · r².\n\nA = 3 · (0,3 · 10⁻⁹)² = 3 · 0,09 · 10⁻¹⁸ = 2,7 · 10⁻¹⁹ m²\nL = 12 · 10⁻⁹ m\n\nρ = R · A ÷ L\nρ = 10¹¹ · 2,7 · 10⁻¹⁹ ÷ (1,2 · 10⁻⁸)\nρ = 2,7 · 10⁻⁸ ÷ (1,2 · 10⁻⁸) = 2,25 Ω·m\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Paridade de poder de compra: comparar o preço do mesmo produto convertido para a mesma moeda.\n\nPreço brasileiro em dólares:\n16,90 ÷ 3,85 ≈ 4,39 dólares\n\nComparação com o preço nos EUA:\n4,39 ÷ 5,51 ≈ 0,80\n\nO sanduíche no Brasil custa cerca de 80% do preço americano, ou seja, é uns 20% mais barato — sinal de que o real estava desvalorizado em aproximadamente 20%.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Princípio da contagem aplicado ao número sequencial.\n\nO sequencial tem 4 dígitos e começa em 0001, então vai de 0001 a 9999:\n9 999 números possíveis por secretaria (o 0000 não é usado).\n\nComo a contagem recomeça para cada uma das 8 secretarias dentro do mesmo ano:\n8 · 9 999 = 79 992 bens\n\nA alternativa C (80 000) inclui indevidamente o código 0000 em cada secretaria.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Probabilidade condicional: entre os casais formados, qual a fração em que o macho dá saltos maiores.\n\nCasais esperados:\nsaltadores: 30 · 0,30 = 9\ndemais: 120 · 0,10 = 12\ntotal de casais = 21\n\nP(saltador | formou casal) = 9 ÷ 21 = 3/7\n\nO erro tentador é responder 30% ou 1/5 (30 de 150), que não consideram a condição \"ao observar um casal\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Sistema de equações a partir de faturamento e comissão.\n\nSejam x bombonas pequenas, y grandes e z containers, com y = 10z.\nFaturamento: 300x + 950 · 10z + 5 200z = 50 100 → 300x + 14 700z = 50 100\nComissão: 18x + 47,5 · 10z + 260z = 2 565 → 18x + 735z = 2 565\n\nMultiplicando a primeira por 0,05: 15x + 735z = 2 505\nSubtraindo: 3x = 60 → x = 20\n14 700z = 50 100 − 6 000 = 44 100 → z = 3; y = 30\n\nVolume: 20 · 50 + 30 · 200 + 3 · 1 000 = 1 000 + 6 000 + 3 000 = 10 000 L\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "Equilíbrio de Hardy-Weinberg: a frequência de AA é p².\n\nCom p = 0,7:\nf(AA) = p² = 0,7² = 0,49\n\nNo gráfico, a curva dos triângulos (AA) passa por cerca de 0,49 quando p = 0,7, o que confirma a conta. A alternativa C (0,42) é a frequência do heterozigoto Aa (2pq = 2 · 0,7 · 0,3), e E (0,09) é a de aa (q²).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "Escrever 2pq só em função de p, usando p + q = 1.\n\nq = 1 − p\nf = 2pq = 2p(1 − p) = 2p − 2p²\n\nÉ uma parábola com concavidade para baixo, que vale zero em p = 0 e p = 1 e atinge o máximo em p = 0,5, com f = 2 · 0,5 − 2 · 0,25 = 0,5 — exatamente o formato da curva dos quadrados no gráfico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "Área de setor circular: A = (θ ÷ 360°) · π · r².\n\nRaio = 370 km e ângulo = 120° (1/3 da volta):\nA = (1/3) · π · 370²\n370² = 136 900\nA = π · 136 900 ÷ 3 ≈ 3,14 · 45 633 ≈ 143 300 km²\n\nCom π ≈ 3,14 a área fica perto de 143 mil km², dentro do intervalo de 140 000 a 150 000 km². As outras faixas corresponderiam a raios ou ângulos bem diferentes.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "Razão de volumes entre sólidos semelhantes é o cubo da razão de semelhança.\n\nRaio de Júpiter = 11 · raio da Terra.\nVolume da esfera = (4/3) · π · r³, então\nV(Júpiter) ÷ V(Terra) = 11³ = 1 331\n\nAssim, seriam necessárias cerca de 1 331 \"bolas de futebol\" para formar o volume de Júpiter. As alternativas B (121 = 11²) e D (22) confundem volume com área ou com o próprio raio.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "0:49": {
    "resposta": "Trigonometria no triângulo retângulo. Na posição inclinada, o braço do suporte afasta a base da TV 10 cm da parede e o trecho da TV entre o braço e a parede (29 cm ou 45 cm) é a hipotenusa. O lado oposto a β é o afastamento de 10 cm, então usamos o seno.\n\nTV de 32\": sen β = 10 ÷ 29 ≈ 0,345\nNa tabela, sen 20° = 0,342 → β ≈ 20,2°\n\nTV de 55\": sen β = 10 ÷ 45 ≈ 0,222\nNa tabela, sen 12° = 0,208 e sen 13° = 0,225 → β ≈ 12,8°\n\nDiferença ≈ 20,2° − 12,8° ≈ 7,4°, valor entre 7° e 9°.\n\nCuidado: usar a tangente (10 ÷ 29 como cateto sobre cateto) ou arredondar mal pode levar a cerca de 6°, que cai na alternativa E.\n\n**Resposta: C**",
    "confianca": "alta",

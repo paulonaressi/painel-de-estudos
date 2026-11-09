@@ -1,0 +1,227 @@
+{
+ "indice": "data/questoes/unifesp/2016_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão pede a característica da linguagem do texto de divulgação científica de Carl Sagan.\n\nA divulgação científica quer levar a ciência ao público leigo, por isso usa linguagem acessível. No texto, Sagan conta uma lenda (\"Segundo o modo como ouvi pela primeira vez a história\"), fala em primeira pessoa, explica a progressão 1, 2, 4, 8... com exemplos concretos e faz humor: o grão-vizir talvez estivesse \"fazendo uma dieta rica em fibras\", e o novo jogo se chamaria \"vizirmat\". A linguagem é, portanto, acessível e divertida.\n\nNão é impessoal (A), já que o narrador se coloca no texto; nem hermética, rebuscada, pedante ou mal-humorada (B, D, E), o contrário do que um divulgador busca.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão cobra a passagem do discurso indireto para o direto.\n\nNo indireto, o narrador relata a fala do grão-vizir no passado: \"era um homem modesto, disse ao xá\". No direto, o próprio grão-vizir falaria de si no momento da conversa, em primeira pessoa e no presente: \"Sou um homem modesto\". O pretérito imperfeito \"era\", usado pelo narrador, volta ao presente do indicativo, \"sou\".\n\n\"Fui\" (B) é passado e diria que ele já não é modesto; \"serei\" (A) e \"seria\" (C) projetam a modéstia para o futuro ou a hipótese; \"fosse\" (D) é subjuntivo e não cabe numa afirmação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão pede o excerto que foge à lógica da fábula do tabuleiro de xadrez.\n\nA lógica da fábula é o crescimento exponencial: uma quantidade que dobra a cada etapa (1, 2, 4, 8...) e atinge números gigantescos. A, B, C e E tratam exatamente disso: a população que dobra a cada quarenta anos e supera os alimentos (Malthus), os casos de aids que dobram a cada ano, a bactéria que se divide em duas e a população que vai de 6 para 12, 24, 48 bilhões.\n\nJá D apenas lista grandes números isolados (população na época de Jesus, distância da Terra ao Sol, mortos nas guerras, segundos num ano), sem nenhuma relação de duplicação ou progressão geométrica. É o único que se afasta da lógica do texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra o eufemismo, que suaviza uma ideia desagradável.\n\nNo fim do texto, Sagan sugere duas saídas para a história: o rei entregar o reino ao vizir ou o vizir experimentar \"as aflições de um novo jogo chamado vizirmat\". Assim como \"xeque-mate\" vem de \"shah mat\", \"rei morto\", \"vizirmat\" seria \"vizir morto\". Em vez de dizer diretamente que o vizir foi executado, o autor usa uma expressão atenuada e bem-humorada. Isso é eufemismo.\n\nAs outras alternativas são afirmações diretas, sem atenuar nenhuma ideia desagradável: o tamanho inicial dos números (B), o pedido do vizir (C), a época da história (D) e a admiração do rei (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão pede o sentido do comentário sobre o rei que se delicia com o jogo \"Morte ao rei\".\n\nO nome persa do jogo significa \"morte ao rei\", e seu objetivo é capturar o rei inimigo. É curioso, então, que um rei sinta prazer com um jogo cuja meta simbólica é a morte de alguém como ele. Sagan diz que essa razão \"é um mistério\", isto é, a satisfação do rei com esse jogo é difícil de explicar, como afirma B.\n\nO texto não diz que as regras são misteriosas (A), não afirma que o rei não entendeu o nome (C) nem que desconhecia o jogo (E). A origem incerta do xadrez (D) aparece no primeiro parágrafo, mas não é o sentido desse trecho.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão pede a compreensão do enredo do soneto de Camões.\n\nJacob serve sete anos ao pai de Raquel, Labão, para tê-la como esposa. Mas o pai, \"usando de cautela\", em lugar de Raquel \"lhe dava Lia\": Labão engana Jacob entregando-lhe a outra filha. Jacob, então, começa a servir mais sete anos para obter Raquel. É exatamente o que diz A.\n\nB inverte a troca; C erra o objetivo dos novos sete anos (o amor é por Raquel, não por Lia); D atribui a Jacob o descumprimento, que foi de Labão; E inventa a morte de Jacob, quando o soneto termina com ele recomeçando o trabalho e dizendo que serviria ainda mais se a vida não fosse tão curta.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão cobra a antítese, figura que aproxima palavras ou ideias de sentido oposto.\n\nNo último verso, \"para tão longo amor tão curta a vida\", Camões opõe \"longo\" a \"curta\", e o amor à vida. A oposição resume o soneto: o amor de Jacob é tão grande que nenhuma vida bastaria para servi-lo; por isso ele diz que serviria ainda mais se a vida não fosse tão breve. A construção paralela (\"tão longo... tão curta\") reforça o contraste.\n\nEm A há uma oposição entre o pai e Raquel, mas não entre termos de sentido contrário: \"ao pai\" e \"a ela\" são apenas pessoas diferentes. As demais alternativas não apresentam par de opostos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão cobra a forma do soneto: métrica e esquema de rimas.\n\nMétrica: os versos têm dez sílabas poéticas, contadas até a última tônica, como em \"Se/te a/nos/ de/ pas/tor/ Ja/cob/ ser/VI(a)\". É o decassílabo, verso que Camões consagrou na medida nova, de origem italiana.\n\nRimas:\n- quartetos: servia (A), bela (B), ela (B), pretendia (A); dia (A), vê-la (B), cautela (B), Lia (A) → ABBA ABBA;\n- tercetos: enganos (C), pastora (D), merecida (E); anos (C), fora (D), vida (E) → CDE CDE.\n\nO soneto é, portanto, decassílabo com esquema ABBA ABBA CDE CDE.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão pede o alvo da crítica do sermão de Vieira.\n\nVieira usa a imagem dos peixes que se comem uns aos outros, os grandes devorando os pequenos, para falar dos homens. Ele diz que \"os grandes que têm o mando das cidades e das províncias\" não se contentam em comer os pequenos um por um, mas devoram \"os povos inteiros\", e que os pequenos são o \"pão cotidiano dos grandes\". A crítica recai, portanto, sobre a ganância excessiva dos poderosos, que exploram sem limite os mais fracos.\n\nOs miseráveis aparecem como vítimas, não como culpados de preguiça, falta de ambição ou humildade excessiva (A, B, D). E o defeito apontado nos poderosos é a voracidade, não a vaidade (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão pede o provérbio que resume o teor do sermão.\n\nO sermão mostra que os homens, como os peixes, devoram uns aos outros: os grandes exploram e consomem os pequenos, \"como pão\". O provérbio \"O homem é o lobo do homem\" diz exatamente isso: o ser humano é o predador do próprio semelhante.\n\nOs outros provérbios tratam de fraqueza (A), de coragem e sorte (C), de preguiça (D) e de trabalho (E). O último pode confundir, porque Vieira fala em \"ofício\", mas ele diz justamente que os poderosos devoram os pequenos em qualquer ofício que exerçam; não é o trabalho que salva da fome.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão pede o lugar onde o pregador profere o sermão.\n\nVieira finge pregar aos peixes e pede que eles olhem do mar para a terra. Em seguida, corrige a direção: não é para os matos nem para o sertão que devem olhar; \"Para cá, para cá; para a cidade é que haveis de olhar\". O advérbio \"cá\" indica o lugar onde está quem fala. Ao identificar \"cá\" com \"a cidade\", o pregador revela que fala da cidade (Vieira pregou esse sermão em São Luís do Maranhão). A descrição seguinte, de gente andando pelas praças, calçadas e ruas, confirma o ambiente urbano.\n\nO mar (A) é onde estão os ouvintes fictícios, os peixes; o sertão (B) é justamente o lugar que ele manda não olhar.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra o sentido literal e figurado das palavras.\n\n- \"os tapuias se comem uns aos outros\": refere-se à antropofagia atribuída aos indígenas; comer, aqui, é literal.\n- \"muito maior açougue é o de cá\": não existe um açougue de verdade; a palavra é metáfora do lugar onde os homens se destroem uns aos outros. Sentido figurado.\n- \"muito mais se comem os brancos\": os brancos não praticam canibalismo; \"comer\" significa explorar, prejudicar, devorar os bens do outro. Sentido figurado.\n\nA graça do trecho está justamente na passagem do comer literal dos tapuias para o comer figurado, e pior, dos brancos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra o valor da preposição \"para\" nas duas ocorrências.\n\n- \"para encarecer a fealdade deste escândalo mostrou-lho nos peixes\": Santo Agostinho mostrou o escândalo nos peixes com o objetivo de realçar sua feiura.\n- \"para que vejais quão feio e abominável é, quero que o vejais nos homens\": Vieira quer mostrar o escândalo nos homens com o objetivo de que os peixes vejam o quanto ele é horrível.\n\nNos dois casos, \"para\" (e \"para que\") introduz o objetivo da ação, o propósito: é relação de finalidade. Um teste: dá para trocar por \"a fim de\" e \"a fim de que\" sem mudar o sentido.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão pede a ordem direta do trecho de Vieira.\n\nOrdem direta é sujeito, verbo e complementos, com a oração principal antes da subordinada. No original, o verbo vem antes do sujeito (\"Diz Deus\"). Colocando na ordem direta: sujeito \"Deus\" + verbo \"diz\" + oração objetiva \"que os homens comem não só o seu povo, senão a sua plebe\" + o adjunto \"declaradamente\". É a forma de C, que mantém o sentido.\n\nB conserva a inversão \"Diz Deus\"; D e E deslocam a oração principal para o fim ou o meio do período; A embaralha os complementos e muda o sentido, dando a entender que só a plebe come o povo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão pede os versos de Bocage que rompem com o \"locus amoenus\" árcade.\n\nO \"locus amoenus\" é o cenário campestre ameno e luminoso: flores, rios mansos, pastores, brisas suaves. A, B, C e D seguem essa convenção, com flautas de pastores, Tejo sorridente, passarinho e rio transparente, manhã de flores e prado na estação das flores.\n\nEm E, o cenário é o oposto: a noite \"escura e feia\", o \"profundo silêncio\" e um \"deserto bosque\" sem luz. A paisagem sombria e solitária, que reflete a angústia do eu lírico, já anuncia a sensibilidade pré-romântica de Bocage e rompe com o ambiente ameno árcade.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra a relação entre um fato histórico e o período literário em que ocorreu. A tela de Pedro Américo mostra o corpo esquartejado de Tiradentes, executado em 1792 como líder da Inconfidência Mineira (1789). Esse movimento envolveu diretamente poetas árcades de Vila Rica, como Tomás Antônio Gonzaga, Cláudio Manuel da Costa e Alvarenga Peixoto, todos presos ou condenados no processo. Por isso o fato remete ao Arcadismo, escola da segunda metade do século XVIII. O Barroco é anterior (século XVII), e Romantismo, Realismo e Naturalismo são do século XIX; o fato de a pintura ser de 1893 não muda a época do episódio retratado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "O conceito cobrado é a ambiguidade, isto é, a possibilidade de uma expressão ter dois sentidos. No requerimento, \"a égua de minha mulher\" e \"o filho da égua de minha mulher\" permitem ler que o filho é da mulher, e não da égua; e \"o dito filho da égua\" soa como xingamento. O juiz, ao final, completa a confusão ao mandar entregar o filho a quem tem \"a mulher\", e não o cavalo. O humor nasce desse duplo sentido das construções com \"de\". Não há paródia nem paráfrase de outro texto, nem intertextualidade com obra anterior; sinonímia é a troca de palavras de mesmo sentido, o que não ocorre.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão trata da função das aspas no discurso. O escrivão está lendo um requerimento escrito por Francisco Antônio: primeiro resume quem é o autor (\"Diz Francisco Antônio, natural de Portugal...\") e, a partir das aspas, passa a reproduzir literalmente as palavras do próprio requerente, em primeira pessoa (\"minha mulher\", \"meu vizinho\", \"peço a V. Sa.\"). As aspas marcam, portanto, o discurso direto do autor da solicitação. Não é fala da mulher, nem jargão jurídico, e o escrivão não comenta nem desacredita o trecho; o tom cômico vem do conteúdo, não de uma marca de ironia das aspas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "É preciso reconhecer o autor pela descrição do crítico. Antonio Candido fala de um escritor que, na época de Flaubert e Zola (realismo e naturalismo), preferiu o elíptico, o fragmentário e o narrador intrometido, inspirado nos ironistas do século XVIII (como Sterne), e que sugere coisas terríveis de modo cândido. Esse é o retrato clássico de Machado de Assis, sobretudo a partir de Memórias póstumas de Brás Cubas, com capítulos curtos, digressões e conversa com o leitor. Aluísio Azevedo seguia justamente Zola; Alencar e Manuel Antônio de Almeida são anteriores a esse momento; Euclides não faz ficção nesse molde.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Cobram-se o uso dos porquês e a crase. Primeira lacuna: pergunta direta no fim da frase, logo \"Por quê?\" (separado e com acento por estar antes do ponto). Segunda: \"resistir\" pede a preposição \"a\" e \"ideia\" é palavra feminina com artigo (\"a ideia de pagar\"), então \"resistir à ideia\". Terceira: \"seja doado à arte\" — \"doar\" pede \"a\" e \"arte\" vem determinada (a arte), daí a crase. Quarta: explicação da causa, \"porque não sou famoso\", junto e sem acento. Só a sequência Por quê – à – à – porque atende às quatro exigências.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão pede que se reconheça um poema simbolista pelos traços citados: o vago, a musicalidade e o abandono do descritivismo. No trecho da alternativa E (Cruz e Sousa, \"Antífona\"), há sinestesia e insistência no branco (\"alvas, brancas\", \"luares\", \"neves\", \"neblinas\"), formas \"vagas, fluidas\", vocabulário litúrgico (incensos, turíbulos) e reticências que sugerem em vez de definir. As demais estrofes são parnasianas: descrevem com precisão objetos e cenários (paredão, palácio de mármore, vaso, ídolo de gesso), com vocabulário raro e culto à forma, justamente o que o Simbolismo recusava.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "O texto descreve a pintura surrealista: objetos pintados com realismo minucioso, mas postos em contextos estranhos, como num sonho. Isso corresponde à tela C, de René Magritte, em que uma amazona e seu cavalo são cortados pelas árvores de um bosque de forma impossível: tudo é reconhecível, mas a relação entre figura e fundo é absurda. A tela A (Van Gogh) é pós-impressionista; a B (Vermeer) é realista, mas sem estranheza; a D (Kandinsky) é abstrata, sem objetos reconhecíveis; a E (Picasso) é cubista, deforma as figuras em vez de pintá-las com realismo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A crítica descreve um livro montado a partir de inúmeros textos já existentes — lendas indígenas, folclore, tradição oral e erudita, europeia e brasileira — que são retrabalhados e reorganizados numa ordem nova, sem compromisso com a imitação da realidade (mímesis). É a análise de Gilda de Mello e Souza sobre Macunaíma, de Mário de Andrade, rapsódia modernista que funde mitos e textos de várias origens. As outras obras seguem, em maior ou menor grau, a representação da realidade (Eça, Manuel Antônio, Machado) ou a idealização romântica (Iracema), sem essa colagem de textos preexistentes como princípio.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão pede o tom do texto. A cronista reage à morte de Mineirinho, crivado por treze tiros, com revolta contra a violência policial e contra a hipocrisia dos \"sonsos essenciais\" que se sentem protegidos por essa justiça. Ela fala em \"revolta irredutível\", diz repudiar a justiça que vela seu sono e chama cada tiro de assassinato. Esse é o tom de indignação. Não há resignação (ela se rebela), nem ironia predominante; há momentos de tristeza, mas o texto não é melancólico nem de luto: é de protesto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "No primeiro parágrafo, a cronista vê no rosto da cozinheira \"a pequena convulsão de um conflito\": o mal-estar de sentir coisas contraditórias, já que Mineirinho era perigoso, mas \"nós o queríamos vivo\". A própria cronista declara sentir-se dividida da mesma forma. Logo, as duas compartilham a dificuldade de conciliar sentimentos contrários diante da morte do criminoso. A cozinheira não o considera inocente (\"Quem não sabe que Mineirinho era criminoso?\"); a cronista não se incomoda com ela nem a provoca, e concorda que ele se salvou, sem perplexidade com a opinião.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão é de classe gramatical. Em \"Perguntei a minha cozinheira o que pensava\", o verbo \"perguntar\" tem dois complementos: o que se pergunta (\"o que pensava\", objeto direto) e a quem se pergunta (\"a minha cozinheira\", objeto indireto). O \"a\" é a preposição que introduz esse objeto indireto. Diante de pronome possessivo feminino, o artigo é facultativo; aqui ele foi omitido (por isso não há crase), restando só a preposição. Não é artigo, porque \"minha cozinheira\" é complemento regido por \"perguntar a alguém\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "No terceiro parágrafo, a cronista descreve sua reação a cada um dos treze tiros: alívio nos primeiros, alerta no terceiro, desassossego, vergonha, horror, boca trêmula, até que o décimo terceiro tiro \"me assassina\". A gradação acompanha o acúmulo de tiros e mostra que, a partir de certo ponto, já não se trata de defesa ou de justiça, mas de excesso. Ela ressalta, assim, a desproporção da ação policial. O texto não justifica a violência nem legitima a justiça humana; também não fala em justiça divina, e o \"Não matarás\" é levado a sério, não ironizado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão pede a relação de sentido entre orações. Em \"O décimo terceiro tiro me assassina — porque eu sou o outro\", a segunda oração explica por que o tiro atinge a cronista: ela se identifica com Mineirinho, é \"o outro\". A conjunção \"porque\" introduz, portanto, a causa (ou explicação) do fato da oração anterior. Não é consequência (seria o resultado do tiro), nem finalidade (\"para que\"), nem conclusão (\"portanto\"), nem alternância (\"ou... ou\").\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão é de função sintática. Em \"que a esse não nos matem\", o verbo \"matar\" é transitivo direto: quem mata, mata alguém, sem preposição. \"A esse\" retoma \"ao homem acuado\" e é o complemento de \"matem\" (que não matem esse homem); a preposição não é exigida pelo verbo, aparece por ênfase ao antecipar o termo, por isso é objeto direto preposicionado. O pronome \"nos\" está ligado ao mesmo verbo transitivo direto e a banca o classifica como objeto direto. As opções com objeto indireto caem porque \"matar\" não pede preposição.\n\n**Resposta: C**",
+   "confianca": "media",
+   "pendencia": "O \"nos\" aqui tem sentido de \"por nós\" ou \"em nosso nome\" e muitos gramáticos o leriam como pronome de interesse (dativo ético); a banca o considerou objeto direto."
+  },
+  "0:31": {
+   "resposta": "A questão é de referência pronominal. Salma Hayek diz que \"they\" não veem as mulheres como força econômica poderosa, e o texto completa: até recentemente, \"studio heads\" acreditavam que as mulheres só se interessavam por comédias românticas. Quem não vê as mulheres como força econômica são, portanto, os chefes dos estúdios de Hollywood. \"Us\" se refere às mulheres (alternativa D, a mais tentadora, confunde os dois pronomes); \"powerful economic force\" é o que elas são e não quem as vê; o festival é apenas o lugar da declaração.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Pede-se uma inferência a partir da fala de Hayek. Ela chama de \"incredible ignorance\" o fato de não verem as mulheres como força econômica, e o texto diz que ela estava \"denouncing sexism in Hollywood\". Logo, deixar de reconhecer as mulheres como força econômica é tratado como comportamento sexista. A crítica é aos chefes de estúdio de Hollywood, não aos organizadores de Cannes (B); Cannes não promove comédias românticas nem retratava mulheres nelas (A, D); e nada se diz sobre a opinião das mulheres americanas (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão é de compreensão de um dado explícito. O texto diz que Malala foi baleada num ônibus escolar no Paquistão, em 2012, pelo Talibã, \"for advocating girls' rights to education\", isto é, por defender o direito das meninas à educação. O ônibus é o local do atentado, não o lugar onde ela fazia campanha (B); o Nobel veio depois, em 2014 (C); não se fala em rejeitar livros do Talibã (D); e ela foi ao Líbano só para inaugurar a escola, anos depois (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Compreensão de detalhe: o primeiro parágrafo informa que Malala celebrou o 18º aniversário no Líbano abrindo uma escola para refugiadas sírias e pedindo aos líderes mundiais que invistam em \"books not bullets\" (livros, não balas), ou seja, em educação e não em armas. As demais trocam detalhes: ela não decidiu morar no Líbano (A); a escola pode receber até 200 meninas de 14 a 18 anos, mas não se diz que falou com elas (B); as borboletas são desenhos na sala, não uma comemoração (C); as outras três escolas são da Kayany Foundation, no Líbano, e não foram visitadas na Síria (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão é de vocabulário: \"instead of\" significa \"em vez de\", \"no lugar de\". Na frase \"invest in books instead of bullets\", Malala pede que se invista em livros no lugar de balas, ou seja, que uma coisa substitua a outra. A ideia expressa é de substituição. Não há simultaneidade (as duas coisas ao mesmo tempo), nem comparação (como \"more than\"), nem simples paralelismo ou ênfase: a expressão exclui um termo em favor do outro.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "\"Must\" expressa obrigação ou necessidade. Na frase, Malala exige dos líderes que \"we must invest\": devemos investir. Entre as opções, \"ought to\" também expressa dever (obrigação moral) e se encaixa na mesma estrutura, com o mesmo sujeito: \"we ought to invest\". A opção \"has to\" tem sentido próximo, mas não concorda com o sujeito \"we\" (o correto seria \"have to\"), por isso não substitui o termo sem alterar a frase. \"Can\" indica capacidade, \"might\" possibilidade e \"used to\" hábito no passado, sentidos diferentes do original.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "\"Must\" indica obrigação forte e \"ought to\" um dever mais moral; a banca aceitou a equivalência e descartou \"has to\" pela falta de concordância com \"we\"."
+  },
+  "0:37": {
+   "resposta": "A questão pede um dado do penúltimo parágrafo: \"More than one in four people living in Lebanon is a refugee\" — mais de uma em cada quatro pessoas no Líbano é refugiada, ou seja, mais de 25% dos moradores. As outras distorcem números: o Líbano abriga 1,2 milhão dos 4 milhões que fugiram da Síria, sem comparação com a Jordânia (A); a fronteira está sendo fechada, com refugiados mandados de volta (C); 4,27 milhões é a previsão da ONU para todos os países vizinhos (D); \"four-year\" é a duração da guerra, não um prazo de estadia (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão retoma a ideia central do estudo da JAMA Pediatrics. O pesquisador Seth Pollak afirma que se pensava a pobreza como questão \"social\", mas que agora se vê que é \"a biomedical issue that is affecting brain growth\": uma questão biomédica que afeta o desenvolvimento do cérebro. Isso é a alternativa C. A E inverte a ideia (\"eminentemente social\" é o que se pensava antes). O estudo trata de massa cinzenta, não de massa branca nem da relação entre as duas (A, B), e nada diz sobre troca de escola particular por pública (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão pede o que os estudos anteriores mostravam. O texto diz: \"Previous studies have shown that children living in poverty tend to perform poorly in school\", têm notas bem mais baixas \"and do not go as far in school as their well-off peers\", isto é, não avançam tanto na escola quanto os colegas mais ricos. Daí a alternativa A: passam menos tempo no sistema educacional. A B é verdadeira no texto, mas é dado de contexto (51% em 2013), não resultado de estudos anteriores; C, D e E não aparecem.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "O objetivo do estudo está no quarto parágrafo: \"To see whether this is due to some physical effect that poverty might have on a child's brain\", ou seja, verificar se o mau desempenho escolar das crianças pobres se deve a um efeito físico da pobreza no cérebro. É a alternativa D. Analisar a massa cinzenta no cérebro inteiro e em algumas regiões (E) foi o método, não o objetivo; o estudo não compara massa branca e cinzenta (A), não define o papel da massa cinzenta na escola (B) nem uma quantidade mínima dela (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A expressão \"due to\" significa \"devido a\", \"por causa de\". Em \"To see whether this is due to some physical effect...\", os pesquisadores querem saber se o mau desempenho se deve a um efeito físico da pobreza no cérebro, isto é, se esse efeito é a causa. Não indica finalidade (seria \"to\" ou \"in order to\", que aparece no início da frase e pode confundir), nem condição (\"if\"), nem reiteração ou estimativa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "O texto diz que as crianças abaixo de 150% do nível federal de pobreza, \"36,375\" dólares anuais \"for a family of four\", tinham de 3% a 4% menos massa cinzenta, e que o nível federal de pobreza em 2015 é de 24.250 dólares para uma família de quatro pessoas.\nConta: 1,5 × 24.250 = 36.375 dólares.\nLogo, o valor de 36.375 dólares é uma vez e meia o nível federal de pobreza para uma família de quatro. Não se trata de salário mínimo, renda média dos alunos ou custo de sobrevivência, e o nível de 2015 não foi \"reduzido\" a partir desse valor.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "O quinto e o sexto parágrafos mostram que quanto mais pobre a família, maior o déficit: abaixo de 150% do nível de pobreza, 3% a 4% menos massa cinzenta; abaixo do próprio nível, 8% a 10% menos, com notas de 4 a 7 pontos menores nos testes; e até 20% da diferença nas notas viria do desenvolvimento cerebral reduzido. Por isso a C é a correta. A A troca os números (abaixo do nível de pobreza são 8% a 10%); os 20% da D se referem à diferença nas notas, não aos alunos; B e E não aparecem no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "O sexto parágrafo diz que as crianças de baixa renda têm menos estímulos que ajudam o cérebro a crescer: \"they hear fewer new words, and have fewer opportunities to read or play games\". Se ter menos oportunidade de jogar prejudica o desenvolvimento, jogar (playing games) é um fator que favorece o crescimento cerebral. As demais opções — dormir mal, ouvir menos palavras novas, aglomeração e estresse alto — são citadas como fatores que prejudicam esse desenvolvimento, o oposto do que se pede.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "No último parágrafo, Joan Luby afirma que o mais importante é que \"there really is enough scientific evidence to take public health action at this point\": já há evidência científica suficiente para agir no campo da saúde pública. É a alternativa E. Ela diz que as intervenções precoces são mais eficazes e baratas que as tardias, o contrário da A (\"mesmo na idade adulta\"); ela já escreveu o editorial que acompanha o estudo, não vai escrevê-lo (C); e não pede mais pesquisa (B) nem fala em tratar o déficit logo que constatado (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

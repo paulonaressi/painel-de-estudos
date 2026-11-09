@@ -1,0 +1,212 @@
+{
+ "indice": "data/questoes/unifesp/2017_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Intertextualidade: reconhecer o gênero de onde vêm as frases citadas por Mafalda.\n\nAs frases são curtas, repetitivas, com palavras simples e muitas sílabas de padrão consoante-vogal (\"Victor vê a uva da vinha\", \"esta uva é boa\"). É o estilo das cartilhas de alfabetização, que montam frases artificiais para treinar a leitura de sílabas.\n\nPor isso Mafalda, com ironia, sugere um monumento aos autores \"sacrificados\" que, em vez de escrever coisas inteligentes, preferem ensinar a ler. Nada indica anúncio, receita, peça teatral ou guia turístico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Paradoxo: construção que reúne ideias que parecem contraditórias, mas fazem sentido num plano mais profundo.\n\nEm \"somos ainda hoje uns desterrados em nossa terra\", o desterrado é quem foi expulso ou vive longe da sua terra; dizer que se é desterrado na própria terra soa contraditório. O sentido, no texto, é que os brasileiros vivem segundo formas de convívio, instituições e ideias trazidas de países distantes, estranhas ao ambiente local.\n\nAs demais alternativas trazem descrições ou avaliações sem a contradição aparente que caracteriza o paradoxo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "Conectivos: valor semântico de \"não obstante\".\n\nNo trecho, Espanha e Portugal são uma zona menos carregada de europeísmo, mas, apesar disso, mantêm esse europeísmo como patrimônio necessário. \"Não obstante\" introduz uma ideia que contrasta com a anterior: tem valor adversativo/concessivo, equivalente a \"contudo\", \"todavia\", \"no entanto\".\n\n\"Além disso\" é aditivo; \"assim sendo\" e \"portanto\" são conclusivos; \"ainda bem\" exprime alívio. Nenhum deles mantém a oposição.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Elipse: omissão de um termo facilmente subentendido pelo contexto.\n\nEm \"a comparação entre elas e as da Europa de além-Pireneus\", o substantivo \"formas\" (de vida social, retomado por \"elas\") fica subentendido depois do artigo \"as\": \"as [formas] da Europa\". O termo foi omitido para evitar a repetição, sem prejuízo do sentido.\n\nNas demais frases, todos os termos estão expressos; em A há um aposto e uma enumeração, mas nenhuma palavra omitida que precise ser recuperada.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Vocabulário em contexto.\n\n\"Tibieza\" significa frouxidão, fraqueza, falta de vigor ou de energia. No trecho, o autor diz que a valorização extrema da personalidade e da autonomia individual entre ibéricos produz formas de organização e associação fracas, pouco solidárias — tanto que, \"em terra onde todos são barões\", só uma força externa garante um acordo coletivo duradouro.\n\nO sinônimo adequado é **fraqueza**. \"Firmeza\" e \"constância\" têm sentido oposto; \"estranheza\" e \"combinação\" não se relacionam com o termo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Literatura: reconhecer o locus amoenus, o cenário natural idealizado e agradável.\n\nO soneto descreve Sílvia dormindo à beira de uma fonte, entre flores, pássaros, mar e rio — uma natureza harmoniosa, que se cala enquanto ela dorme e festeja quando ela abre os olhos. Esse espaço bucólico e aprazível é o **locus amoenus**, motivo herdado da tradição clássica e muito explorado depois pelos árcades.\n\nNão há lugar horrível (A), reflexão sobre a morte (C), convite a aproveitar o momento (E) nem defesa da simplicidade formal (D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra a sinestesia, figura que mistura sensações de sentidos diferentes.\n\nEm \"Flores canoras\", as flores, que se percebem pela visão e pelo olfato, recebem um atributo da audição (canoras = que cantam). Em \"pássaros fragrantes\", os pássaros, associados ao canto, ganham um atributo do olfato (fragrantes = perfumados). O verso cruza, portanto, sensações de sentidos distintos, que é exatamente o que define a sinestesia. Gregório troca as qualidades de propósito: na presença de Sílvia, a natureza fica desorientada.\n\nOs demais versos não fazem essa mistura: \"os dois diamantes\" (C) é metáfora dos olhos; \"Dominava o silêncio\" (D) é personificação; \"horizontes de mil cores\" (E) fica só no campo visual.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão pede o trecho colocado em ordem direta (sujeito, verbo, complementos) sem mudar o sentido.\n\nNo soneto, \"não vestia / O céu seus horizontes de mil cores\" tem o sujeito posposto: quem não vestia era o céu. Na ordem direta fica \"O céu não vestia seus horizontes de mil cores\", exatamente como em C.\n\nAs outras mudam o sentido: em A, o sujeito de \"Não dão\" são as flores e os pássaros, não a Aurora; em B, \"rio não se ouvia\" quer dizer que o rio não era ouvido, e não que o rio não ouvia; em D, \"Tudo\" é sujeito (tudo festeja Sílvia), não objeto; em E, a reescrita mantém o sujeito (\"a bela ocasião\", isto é, Sílvia) depois do verbo, o que não é ordem direta; a ordem direta seria \"A bela ocasião das minhas dores estava dormindo ao despertar do dia\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão pede o movimento literário a partir das características descritas por Antonio Candido.\n\nOs indícios são: cosmopolitismo ligado às modas europeias, desejo de seguir os mesmos modelos do passado cultural (a tradição clássica greco-latina), incorporação da produção da colônia às \"formas superiores de expressão\" e, ao mesmo tempo, atenção ao índio e à natureza local, mas \"em termos clássicos\". Isso descreve o Arcadismo do século XVIII: poetas como Basílio da Gama (O Uraguai) e Santa Rita Durão (Caramuru) tratam do índio e da paisagem brasileira dentro das convenções neoclássicas.\n\nO Romantismo (A) também valoriza índio e natureza, mas rompe com os modelos clássicos e busca a originalidade nacional; o Barroco (D) não se define pela imitação dos clássicos com essa tônica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão pede a moral que resume a fábula.\n\nO lenhador diz uma coisa com as palavras (nega ter visto a raposa) e faz outra com os gestos (aponta o esconderijo). A resposta final da raposa denuncia justamente o desacordo entre o discurso e a ação: ela seria grata se os gestos combinassem com as palavras. A moral adequada, portanto, trata de quem proclama atitudes nobres, mas na prática age de modo vil, como em B.\n\nAs outras alternativas falam de pedir ajuda e depois evitá-la (A), de desatenção (C), de ambição arriscada (D) e de quem reclama de pequenas desgraças (E), temas que não aparecem na história.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão cobra a relação de sentido entre orações introduzida pela conjunção \"como\".\n\nQuando \"como\" aparece no início do período, antes da oração principal, ele equivale a \"porque\", \"já que\": é conjunção causal. A oração \"como eles não prestaram atenção nos seus gestos\" explica o motivo de os caçadores terem acreditado nas palavras do lenhador. Reescrevendo: \"Já que não prestaram atenção nos gestos, deram crédito às palavras\". O sentido é de causa.\n\nNão há comparação (E), porque nada está sendo comparado; e a consequência (D) seria o contrário: o crédito às palavras é que resulta da desatenção.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão cobra a transposição do discurso indireto para o direto.\n\nNo direto, as falas aparecem como foram ditas, no tempo do momento da conversa:\n- \"Ele sugeriu que ela entrasse em sua cabana\" → o lenhador diria \"Entre em minha cabana\". O pretérito imperfeito do subjuntivo (\"entrasse\") vira imperativo, e com o tratamento usado na narrativa a forma é \"entre\".\n- \"perguntaram ao lenhador se ele tinha visto uma raposa\" → \"Você viu uma raposa passar por aqui?\". O mais-que-perfeito composto (\"tinha visto\") volta ao pretérito perfeito (\"viu\").\n\nA forma \"vira\" é mais-que-perfeito simples, o mesmo tempo de \"tinha visto\"; mantê-la não faz a mudança de tempo exigida.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão pede o autor a partir de um comentário crítico sobre sua obra.\n\nOs traços citados são: amor declarado pelas coisas do Brasil, obra que abrange o Norte, o Sul e o Centro do país, o campo e a cidade, o homem da sociedade e o sertanejo, sintaxe e modismos brasileiros, e um \"painel\" em que o índio tem papel importante. Isso descreve José de Alencar, que planejou cobrir o Brasil em romances indianistas (Iracema, O Guarani), regionalistas (O Gaúcho, O Sertanejo), históricos e urbanos (Senhora, Lucíola) e defendeu uma língua literária brasileira.\n\nMachado de Assis (A) é urbano e não dá ao índio esse peso; Guimarães Rosa (E) concentra-se no sertão mineiro.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão pede a máxima cristã que o Diabo inverte ao prometer \"as delícias da terra\".\n\nO Diabo oferece prazeres e glórias deste mundo, materiais e imediatos. A máxima \"Meu reino não é deste mundo\", dita por Jesus, afirma o contrário: a recompensa cristã é espiritual e está fora da vida terrena. A promessa diabólica é, portanto, a inversão direta dessa frase: o reino do Diabo é justamente deste mundo.\n\nAs outras máximas tratam do amor ao próximo (A), do perdão e da hipocrisia de quem julga (B), do comércio no templo (C) e da não violência (E), sem relação com a oferta de prazeres terrenos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão pede o recurso retórico dominante na defesa que o Diabo faz da venalidade.\n\nNo último parágrafo, o Diabo não afirma diretamente sua tese: ele a conduz por meio de perguntas. \"Como é que não podes vender a tua opinião, o teu voto...?\", \"não há mulheres que vendem os cabelos?\", \"não pode um homem vender uma parte do seu sangue...?\". São interrogações retóricas: perguntas que já supõem a resposta e levam o ouvinte a concordar, como se a conclusão fosse óbvia. É isso que dá à argumentação a aparência de \"monumento de lógica\" elogiada pelo casuísta.\n\nHá alguma enumeração (casa, boi, sapato, chapéu), mas a repetição (A) não é o eixo do argumento; também não há citação de autoridade (C) nesse trecho.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão cobra o sentido dos prefixos.\n\n- \"reabilitadas\": o prefixo re- indica repetição, voltar a fazer (habilitar de novo; os vícios voltam a ser aceitos).\n- \"infinitas\": o prefixo in- indica negação (o que não é finito, sem fim).\n\nNas outras, o primeiro prefixo não é de repetição: des- em \"desmentir\" e \"deslavada\" indica negação ou oposição, extra- em \"extraordinária\" indica posição exterior (fora do ordinário), e em \"reboava\" o re- não acrescenta ideia de repetir algo (reboar = ecoar, retumbar). Em \"preconceito\", pre- indica anterioridade, não negação; em \"perversas\", per- não é negação.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão cobra a classe gramatical da palavra \"a\".\n\n- \"era a virtude principal\": o \"a\" acompanha o substantivo \"virtude\", determinando-o (a virtude principal, a mais importante de todas). É artigo definido feminino.\n- \"chegava a suprir todas as outras\": o \"a\" liga o verbo \"chegava\" ao infinitivo \"suprir\". Diante de verbo não existe artigo; trata-se da preposição exigida pela locução \"chegar a\" (atingir o ponto de).\n\nUm teste ajuda: troque por um substantivo masculino. \"Era o dom principal\" (artigo varia para \"o\"), mas \"chegava a suprir\" continua \"a\", porque a preposição não varia.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão pede a posição do autor diante do projeto dos satélites-espelho.\n\nEmbora o texto relate os argumentos dos dois lados, o fecho revela o julgamento de Crary. Ele diz que o empreendimento \"ilustra o imaginário contemporâneo\" de iluminação e circulação contínuas e que o projeto, em seus \"excessos empresariais\", é \"uma expressão hiperbólica de uma intolerância institucional\" a tudo que obscureça a visibilidade constante. Palavras como \"excessos\", \"hiperbólica\" e \"intolerância\" são claramente negativas: o autor critica o projeto e o que ele representa.\n\nPor isso não cabem indiferença, imparcialidade ou neutralidade (A, B, C): a apresentação dos defensores não anula a avaliação final. Muito menos apoio (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão pede como o slogan se relaciona com os objetivos do projeto.\n\nO projeto pretendia refletir a luz do Sol para a Terra durante a noite, primeiro em regiões de longas noites polares e depois em cidades inteiras, permitindo atividade ao ar livre \"noite e dia\". O slogan \"Luz do dia a noite toda\" diz exatamente isso: levar luz semelhante à diurna para o período noturno. Há, portanto, plena adequação entre o que a empresa queria vender e a frase escolhida; o slogan é apropriado.\n\nA alternativa \"contraditório\" (B) seduz porque junta \"dia\" e \"noite\", mas a frase não se contradiz: ela descreve literalmente a proposta. Também não há duplo sentido (C) nem ironia (E) por parte da empresa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão pede o sentido dos números \"24/7\" no título.\n\nA sinopse fala de um mundo que funciona \"ininterruptamente\", sem limites de tempo, e do \"homem sem sono\" capaz de trabalhar e consumir \"sob a lógica 24/7\". O excerto mostra o mesmo ideal: iluminação contínua, atividade noite e dia. \"24/7\" é a abreviação de 24 horas por dia, 7 dias por semana, isto é, uma medida de tempo cronológico que significa funcionamento sem pausa.\n\nNão se trata de valor monetário (A), data histórica (C), limite de espaço (D) nem código secreto (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão pede os versos de Fernando Pessoa que seguem o preceito futurista do manifesto de Marinetti.\n\nO manifesto exalta a vida moderna: multidões, máquinas, usinas, locomotivas, aviões, velocidade e energia. Em E, versos do heterônimo Álvaro de Campos (da \"Ode triunfal\"), o eu lírico declara amar \"carnivoramente\" as \"coisas todas modernas\" e chama a técnica de \"Nova Revelação metálica e dinâmica de Deus\". É a mesma euforia diante da modernidade, com tom exaltado e vocabulário de máquina.\n\nAs outras não combinam: A e C são de Alberto Caeiro e Ricardo Reis, que valorizam o campo, a contemplação serena e a calma; B, também de Caeiro, recusa o discurso político do homem da cidade; D, de Mensagem, olha para o passado mítico português (dom Sebastião), não para o futuro técnico.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão pede a obra descrita pelo comentário crítico.\n\nOs indícios são: narrador em terceira pessoa que se aproxima e se distancia dos personagens, \"desgraça irremediável\" que os açoita, o abismo entre o saber do intelectual e a \"indigência dos retirantes\", linguagem \"enxuta e medida\" e uso intenso do discurso indireto livre para sondar a interioridade de personagens que pouco falam. Isso descreve Vidas secas, de Graciliano Ramos: a família de Fabiano, retirantes do sertão, é narrada em terceira pessoa com prosa seca, e o indireto livre dá voz aos pensamentos de quem quase não tem palavras.\n\nMorte e vida severina (A) é poema dramático; Os sertões (B) é ensaio; Capitães da Areia (D) trata de meninos de rua em Salvador; Grande sertão (E) é narrado em primeira pessoa por Riobaldo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão pede palavras que reforçam o tom pessimista de \"Dissolução\".\n\nO poema descreve a aceitação resignada do fim: o eu lírico desiste de buscar luz e aceita a \"noite\", sente-se \"vazio de quanto amávamos\" e vê um \"fim unânime\" pousar no ar. \"Noite\" sugere escuridão e término, \"vazio\" indica perda e ausência, e \"fim\" marca diretamente o esgotamento. Os três termos concentram a ideia de dissolução que dá título ao poema, coerente com o desencanto de Claro enigma.\n\nNas outras alternativas há palavras neutras ou até ligadas à luz e à vida, como \"dia\", \"lâmpada\", \"céu\", \"povoações\", \"ordem\" e \"imaginação\", que não carregam, por si, o pessimismo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão pede o verso com personificação, isto é, com uma qualidade humana atribuída a um ser inanimado ou abstrato.\n\n\"Aprazer\", segundo a nota, é sentir prazer, contentar-se. Em \"Pois que aprouve ao dia findar\", é o dia que se contenta em terminar, como se tivesse vontade e sentimentos. Atribuir desejo e satisfação ao dia, que não é pessoa, é personificação.\n\nNas outras não há isso: em A, o \"vazio\" é do próprio eu lírico (humano); em B, a pele é do eu lírico; em C, a \"rosa definitiva\" é uma metáfora, mas não recebe ação ou sentimento humano; em E, \"perene trânsito\" caracteriza o mundo sem humanizá-lo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra a retomada pronominal (coesão referencial).\n\nNa última estrofe, o eu lírico se dirige a seres abstratos como se falasse com eles (apóstrofe). Primeiro vem \"Imaginação, falsa demente,\" e logo depois \"já te desprezo\". O vocativo \"Imaginação\" é o interlocutor do momento, e o pronome \"te\" o retoma: é a imaginação que o eu lírico despreza. Só em seguida ele passa a falar com outro interlocutor (\"E tu, palavra.\"), e depois com o corpo, no último verso.\n\n\"Palavra\" (B) é a tentação, mas ela aparece depois do \"te\" e é retomada por \"tu\", em outra frase.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão pede a tela de Magritte em que um objeto \"assume a substância do material em que se sente à vontade\".\n\nEm O sedutor (D), um navio a vela aparece sobre o mar, mas seu corpo é feito da própria água do mar, com as mesmas ondas e a mesma cor. O navio, que vive no mar, é \"feito\" daquilo que é o seu ambiente natural: assume a substância do meio em que está à vontade.\n\nNas outras, a ideia é diferente: em A, garrafa e cenoura se fundem num objeto híbrido; em B, guarda-chuva e copo d'água se opõem (um repele, o outro contém água); em C, a silhueta do homem recortada mostra o céu, num jogo de cheio e vazio; em E, o quadro dentro do quadro discute representação e realidade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão cobra a compreensão de um texto curto em inglês sobre perda e desperdício de alimentos.\n\nO texto diz que nos países em desenvolvimento há muita \"food loss\", definida como \"unintentional wastage\" (perda não intencional), muitas vezes \"due to poor equipment, transportation and infrastructure\", isto é, causada por equipamentos, transporte e infraestrutura deficientes. É exatamente o que afirma E.\n\nAs outras distorcem o texto: não se fala em mudança climática (A) nem em falta de refrigeração (B); a perda não intencional é baixa nos países ricos (\"low levels of unintentional losses\"), o contrário de C; e a perda no transporte é típica dos países em desenvolvimento, não dos ricos (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão pede o propósito geral do texto.\n\nO parágrafo opõe dois conceitos: \"food loss\", a perda não intencional, comum nos países em desenvolvimento e causada por problemas de equipamento, transporte e infraestrutura; e \"food waste\", o desperdício, comum nos países ricos, quando consumidores compram demais ou varejistas rejeitam alimentos por padrões estéticos. O texto, portanto, contrasta os dois conceitos (\"contrasts concepts\"), como diz C.\n\nEle não apresenta soluções (A), não culpa os países em desenvolvimento pelo \"food waste\" (B), não recomenda mudança de atitude dos consumidores (D) e não menciona governos (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão cobra a referência do pronome relativo \"which\".\n\nO trecho é: \"there are low levels of unintentional losses but high levels of 'food waste', which involves food being thrown away by consumers\". O pronome relativo retoma o termo imediatamente anterior, \"food waste\", e introduz sua definição: o desperdício é aquilo que envolve alimentos jogados fora pelos consumidores. Note também o verbo \"involves\", no singular, que concorda com um conceito único.\n\n\"Food\" (A) faz parte da própria oração relativa; \"food loss\" (C) foi definido na frase anterior, com outro \"which\"; \"consumers\" (D) vem depois e é agente de \"thrown away\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra o sentido do conector \"because of\".\n\n\"Because of\" significa \"por causa de\" e introduz a causa por meio de um substantivo: os varejistas rejeitam alimentos por causa de padrões estéticos exigentes. O equivalente direto é \"due to\" (\"devido a\"), que também vem seguido de substantivo e indica causa: \"who reject food due to exacting aesthetic standards\".\n\nAs demais mudam o sentido: \"in order to\" e \"so that\" indicam finalidade; \"in spite of\" indica concessão (\"apesar de\"), o oposto da causa; \"such as\" introduz exemplos (\"como, tais como\").\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão relaciona o quadrinho aos conceitos do texto anterior.\n\nA espiga da esquerda, num monte de alimentos estragados ao ar livre, diz que não conseguiu chegar à geladeira (\"I couldn't reach the fridge\"). Ela se perdeu antes de chegar ao consumidor, sem que ninguém tivesse a intenção de jogá-la fora, por falta de conservação e transporte adequados. Isso corresponde à \"food loss\", a perda não intencional causada por equipamento, transporte e infraestrutura ruins.\n\nA espiga da direita, na lata de lixo, passou tempo demais na geladeira: foi comprada e esquecida pelo consumidor. Ela é que representa a \"food waste\" (por isso D está errada). Nenhuma das duas está em situação melhor ou deseja voltar à geladeira.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão cobra o sentido do modal \"couldn't\".\n\n\"Couldn't\" é o passado negativo de \"can\" e expressa incapacidade no passado: \"não consegui\", \"não pude\". A espiga conta que não conseguiu chegar à geladeira. A expressão equivalente é \"was unable to\" (\"não foi capaz de\"), também no passado: \"I was unable to reach the fridge\".\n\n\"Cannot\" (A) está no presente; \"won't\" (B) indica recusa ou futuro; \"shouldn't\" (D) indica conselho (\"não deveria\"); \"might not\" (E) indica possibilidade (\"talvez não\"). Nenhuma delas mantém a ideia de incapacidade no passado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão cobra a referência do advérbio \"there\" no quadrinho.\n\nA fala da espiga da direita depende da fala da esquerda. A primeira diz que não conseguiu chegar à geladeira (\"the fridge\"); a segunda responde que, ao contrário (\"instead\"), passou tempo demais \"lá\". O \"there\" retoma, portanto, o lugar mencionado antes, a geladeira: a espiga ficou esquecida no refrigerador até estragar e ir para o lixo.\n\nA lata de lixo (D) é onde ela está agora, mas não é o lugar onde passou \"tempo demais\"; o \"instead\" contrapõe sua situação à da outra espiga, que nem chegou à geladeira.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão pede a ideia central do texto.\n\nJá o título anuncia que reduzir o desperdício de alimentos ajudaria a mitigar a mudança climática. O texto desenvolve essa relação: a agricultura responde por mais de 20% das emissões de gases de efeito estufa, entre 30% e 40% dos alimentos nunca são consumidos, e evitar perda e desperdício evitaria emissões desnecessárias. O texto, portanto, estabelece uma relação entre desperdício de alimentos e mudança climática.\n\nChina e Índia (A) aparecem só como exemplo de economias emergentes; o estudo é do instituto de Potsdam e não analisa a agricultura desses países. O texto não diz que expandir a agricultura reduz emissões (B, D), e o clima extremo (C) aparece como consequência das emissões, não como causa de fome.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão cobra o vocabulário de \"a major driver\".\n\n\"Driver\", nesse contexto, é aquilo que impulsiona ou provoca algo, um fator determinante (\"motor\", \"propulsor\"). \"Major\" significa importante, principal. Dizer que a agricultura é \"a major driver of climate change\" é dizer que ela é um propulsor importante da mudança climática, o que o texto confirma ao lembrar que ela responde por mais de 20% das emissões. A tradução mais fiel é \"um propulsor importante\".\n\nAtenção ao artigo \"a\" (um, indefinido): por isso \"o maior operador\" (A) e \"o primeiro estímulo\" (C) não servem, além de mudarem o sentido. \"Limitador\" (E) é o oposto de \"driver\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão cobra a compreensão de uma condição no terceiro parágrafo.\n\nO texto diz que a parcela de alimentos desperdiçados deve aumentar muito \"if emerging economies like China and India adopt western food habits\", incluindo comer mais carne. A condição é, portanto, China e Índia adotarem hábitos alimentares ocidentais.\n\nAs outras alternativas distorcem o texto: ele diz que os países ricos tendem a consumir mais comida do que é saudável, mas não fala em \"comida industrializada\" nem coloca isso como condição para o aumento (B, C); os 30 a 40% (D) são um dado atual, não uma condição; e o texto fala em comer mais carne, não em deixar de comer (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão cobra o sentido da conjunção \"as\".\n\nEm \"As poorer countries develop and the world's population grows, emissions... could soar\", o \"as\" liga dois processos que avançam ao mesmo tempo e de forma proporcional: conforme os países pobres se desenvolvem e a população cresce, as emissões podem disparar. Esse \"as\" equivale a \"à medida que\", que em português expressa proporção.\n\n\"As\" também pode ser causal (\"porque\") ou temporal, mas aqui a ideia de progressão simultânea (\"develop\", \"grows\", \"soar\") deixa claro o sentido proporcional. \"Durante\" (E) é preposição e não introduz oração; \"mesmo que\" (C) é concessivo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão pede o que o quarto parágrafo indica como medida.\n\nDepois de mostrar que as emissões ligadas ao desperdício podem subir de 0,5 para 1,9 a 2,5 gigatoneladas por ano, o parágrafo diz que é amplamente defendido que \"cutting food waste and distributing the world's surplus food where it is needed\" ajudaria a combater a fome, sobretudo porque a terra para expandir a agricultura é limitada. A indicação é, portanto, reduzir o desperdício e redistribuir os alimentos onde forem necessários (C).\n\nExpandir a agricultura (A) é justamente o que o texto diz ser limitado. Não se propõe reverter o desenvolvimento (B), limitar a população (D) nem controlar emissões de todas as fontes (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A questão cobra o sentido de \"given that\".\n\n\"Given that\" é uma locução conjuntiva que significa \"dado que\", \"uma vez que\": introduz uma causa ou justificativa já admitida. O trecho \"given that land to expand farming is limited\" quer dizer \"uma vez que a terra para expandir a agricultura é limitada\". A paráfrase equivalente é B: \"because there is a land limitation to expand farming\".\n\nA armadilha está no verbo \"give\": as alternativas A, C e D usam \"given\" no sentido de \"dado, doado\" (terra dada a alguém), o que não tem relação com a locução. E (while) muda a relação para tempo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A questão pede a posição de Jürgen Kropp no último parágrafo.\n\nKropp afirma que o potencial da redução do desperdício de alimentos para diminuir emissões \"should be given more attention\" e completa: \"It is not a strategy of governments at the moment\". Ou seja, ele defende que o tema receba mais atenção e lamenta que os governos ainda não o adotem como estratégia. Isso corresponde a B: os governos deveriam dar mais atenção ao desperdício de alimentos para reduzir emissões.\n\nE diz o oposto: se não é estratégia dos governos, eles não estão preocupados com o tema. Ele não fala em programa separado (A) nem em impacto da mudança climática sobre o desenvolvimento (C, D).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "A questão cobra o valor do \"to\" em \"the potential for food waste curbs to reduce emissions\".\n\nAqui \"to\" introduz o infinitivo \"reduce\" e indica o propósito, aquilo que se pretende alcançar com as restrições ao desperdício: o potencial dessas medidas para reduzir as emissões. Em português, equivale a \"para\", com ideia de finalidade.\n\nNão há exclusão, concordância, acréscimo nem contraste nesse trecho; o \"to\" apenas liga a ação (conter o desperdício) ao seu objetivo (reduzir emissões).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

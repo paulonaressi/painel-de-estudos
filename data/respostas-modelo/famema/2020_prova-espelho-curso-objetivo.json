@@ -43,6 +43,91 @@
    "confianca": "alta",
    "pendencia": null
   },
+  "1:1": {
+   "resposta": "Interpretação de charge: o humor nasce do contraste entre o que o médico imagina e o que o paciente responde. O médico atribui a melhora dos exames a hábitos saudáveis (atividade física, alimentação, sono); o paciente revela que apenas saiu do Facebook, do Twitter e dos grupos de WhatsApp.\n\nA conclusão implícita é que o uso das redes sociais fazia mal à saúde dele: bastou abandoná-las para os exames ficarem \"ótimos\". Logo, as redes podem trazer prejuízos à saúde.\n\nA alternativa A inverte o sentido (a saúde melhorou quando ele deixou de usá-las), e a E contradiz a charge, que atribui grande efeito justamente às redes.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:2": {
+   "resposta": "Concordância verbal na voz passiva e com sujeito posposto. Se \"atividades físicas\" e \"hábitos alimentares\" passam a ser os sujeitos, o verbo concorda com eles no plural.\n\n- \"Tem praticado atividades físicas?\" vira voz passiva: \"Têm sido praticadas atividades físicas?\" — o auxiliar fica no plural (têm, com acento) e o particípio concorda em gênero e número com \"atividades\" (praticadas).\n- \"Mudou hábitos alimentares?\" com \"hábitos\" como sujeito: \"Mudaram hábitos alimentares?\" (os hábitos mudaram).\n\nA alternativa A erra no particípio (\"praticado\"); B e E deixam \"mudou\" no singular; D tira o acento de \"têm\".\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:3": {
+   "resposta": "Interpretação do *Auto da Barca do Inferno*, de Gil Vicente. O sapateiro chega carregado de formas (símbolo do ofício e da exploração) e resiste a embarcar: pergunta pelo destino dos que \"morrem confessados\" e diz que foi \"confessado e comungado\", ou seja, apega-se à prática religiosa formal para escapar do inferno.\n\nO diabo responde lembrando os pecados: morreu excomungado, calou \"dez mil enganos\" e roubou o povo por trinta anos com seu ofício. Por isso o sapateiro se opõe, mas o diabo o relembra das faltas.\n\nA alternativa A erra porque o diabo não admite deixá-lo ir; C e D contrariam a recusa explícita (\"Pois digo-te que não quero!\").\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:4": {
+   "resposta": "Gênero e intenção do teatro vicentino. O *Auto da Barca do Inferno* é uma sátira moralizante: cada personagem representa um tipo social e é julgado pelos vícios do seu grupo.\n\nNo trecho, a crítica é explícita: o diabo acusa o sapateiro de enganar e roubar o povo durante trinta anos no exercício do ofício, e mostra que a religiosidade de fachada (confissão e comunhão) não apaga a desonestidade. É uma crítica aos costumes com fim moral.\n\nB erra porque não há perdão; C ignora a intenção crítica; D e E tratam o personagem como modelo de devoção, quando ele é exemplo do que não se deve fazer.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:5": {
+   "resposta": "Colocação e escolha de pronomes oblíquos ao passar do tratamento \"tu\" para \"você\" (terceira pessoa). A regência de cada verbo decide o pronome:\n\n- \"esperar\" é transitivo direto (esperar alguém) → pronome \"o\": \"que há já muito que o espero\".\n- \"dizer\" pede objeto indireto de pessoa (dizer algo a alguém) → pronome \"lhe\": \"Pois digo-lhe que não quero\".\n- O imperativo \"Embarca\" (tu) passa a \"Embarque\" (você).\n\nA alternativa A usa \"lhe\" com \"esperar\"; C usa \"o\" com \"dizer\"; D põe crase antes de \"você\", que não admite artigo; E troca a construção pronominal.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:6": {
+   "resposta": "Objetivo de um texto opinativo. O editorial apresenta iniciativas educacionais bem-sucedidas: a alfabetização no Ceará (parceria com municípios, formação de professores, material estruturado, incentivo pelo ICMS), a adoção do modelo em outros estados e o ensino médio integral de Pernambuco. Fecha elogiando a mobilização \"em torno de propostas palpáveis\".\n\nOu seja, examina práticas que buscam melhorar o ensino no país. A alternativa A toma um detalhe (o ICMS) pelo todo; E fica só no Ceará; C e D contrariam o tom positivo do texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:7": {
+   "resposta": "Reescrita com manutenção de sentido. No original, os municípios são \"os principais encarregados dos primeiros anos de escolarização\" — um aposto explicativo. A alternativa C apenas inverte a ordem: fala da parceria com os principais encarregados e esclarece, com \"isto é\", que são os municípios. O sentido fica igual.\n\nAs demais distorcem relações: A inverte causa e consequência (no texto, o bom resultado é que dá mais ICMS); B inverte a origem do projeto (é de Pernambuco e foi acolhido em São Paulo); D transforma adição (\"além de\") em concessão (\"apesar de\"); E faz das restrições de renda a causa do êxito, quando o texto diz que o Ceará se destaca apesar delas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:8": {
+   "resposta": "Aspecto verbal: a ideia de ação em processo, em andamento, é expressa pela locução com gerúndio. Em \"está sendo implantado\", o auxiliar \"estar\" + \"sendo\" + particípio indica uma ação que ainda está acontecendo (voz passiva em progresso), e o próprio texto opõe esse estágio ao de Pernambuco, onde o modelo \"já foi adotado\".\n\nNas outras alternativas: \"acionou\" é pretérito perfeito (ação concluída); \"destaca\" e \"replicam\" são presente com valor de constatação geral; \"pode se mobilizar\" exprime possibilidade, não processo em curso.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:9": {
+   "resposta": "Interpretação de *Memórias de um Sargento de Milícias*. O narrador distingue dois tipos de agregado: em algumas casas ele era muito útil, porque a família aproveitava seus serviços; em outras (a maioria), era um \"refinado vadio\", um parasita que se prendia à família sem contribuir e chegava a mandar na casa.\n\nPortanto, a figura aparece por dois vieses, conforme a relação com a família: útil a ela ou explorador dela. O narrador ainda deixa ao leitor decidir em qual dos casos Leonardo se encaixará.\n\nA alternativa D inverte a relação (no segundo caso é o agregado quem explora a família); A e E reduzem a descrição a um só lado.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:10": {
+   "resposta": "Figuras de linguagem. A hipérbole exagera de propósito; a metáfora faz uma comparação implícita, sem conectivo.\n\n- \"o esmagavam com o peso de mil exigências\": \"mil\" e \"esmagar\" são exageros para dizer que lhe faziam muitas cobranças → hipérbole.\n- \"que lhe participava da seiva sem ajudá-la a dar frutos\": a família é tratada como árvore e o agregado como parasita que suga a seiva sem produzir → metáfora.\n\nNa alternativa E, \"se prendia à árvore familiar\" também é metafórico, mas o primeiro trecho (\"o tomava por seu divertimento\") não tem exagero. Nas demais, os trechos citados são literais ou não correspondem às duas figuras na ordem pedida.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:11": {
+   "resposta": "Mínimo múltiplo comum aplicado a calendário. Os dois voltam a se encontrar na capital depois de um número de dias que seja múltiplo de 10 e de 12 ao mesmo tempo; o primeiro é o MMC.\n\nMMC(10, 12) = 60 dias\nA semana tem 7 dias: 60 = 7 × 8 + 4\nDepois de 8 semanas completas cai de novo num sábado; faltam 4 dias\nSábado + 4 dias → domingo, segunda, terça, quarta\n\nO próximo encontro será numa quarta-feira.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:12": {
+   "resposta": "Termo geral da progressão geométrica: aₙ = a₁·qⁿ⁻¹.\n\nPG (aₙ): a₁ = 3/8, q = 5\na₅ = (3/8) × 5⁴ = (3/8) × 625 = 1 875/8\n\nPG (bₙ): q = 5/2\nb₄ = b₁ × (5/2)³ = b₁ × 125/8\n\nComo a₅ = b₄:\nb₁ × 125/8 = 1 875/8\nb₁ = 1 875 ÷ 125 = 15\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:13": {
+   "resposta": "Raízes complexas de polinômio com coeficientes reais vêm em pares conjugados, e as relações de Girard ligam raízes e coeficientes.\n\nRaízes: 2 + i, 2 − i e uma raiz real r\nProduto das raízes = −(−5) ÷ 1 = 5\n(2 + i)(2 − i) = 4 + 1 = 5 → 5·r = 5 → r = 1\nSoma das raízes = −a: (2 + i) + (2 − i) + 1 = 5 → a = −5\nSoma dos produtos dois a dois = b:\n(2 + i)(2 − i) + 1·(2 + i) + 1·(2 − i) = 5 + 4 = 9 → b = 9\na + b = −5 + 9 = 4\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:14": {
+   "resposta": "Análise combinatória: como cada grupo tem exatamente um menino, os grupos ficam identificados pelos meninos, e basta distribuir as 6 meninas, duas para cada menino.\n\nMeninas para o 1º menino: C(6, 2) = 15\nPara o 2º menino: C(4, 2) = 6\nPara o 3º menino: C(2, 2) = 1\nTotal: 15 × 6 × 1 = 90\n\nNão se divide por 3! porque os grupos já são distintos (cada um tem um menino diferente). Quem divide chega a 15, a alternativa tentadora.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:15": {
+   "resposta": "Probabilidade condicional: sabendo que a camiseta é M, o espaço amostral passa a ser só as camisetas M.\n\nTotal: 150; tamanho P: 100 → tamanho M: 50\nEstampadas no total: 150 − 59 = 91\nEstampadas P: 67 → estampadas M: 91 − 67 = 24\nP(estampada | M) = 24 ÷ 50 = 0,48 = 48%\n\nA alternativa de 24% aparece se dividirmos 24 pelas 100 camisetas P, ou se esquecermos de restringir o espaço amostral.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:16": {
+   "resposta": "Geometria analítica: retas perpendiculares têm coeficientes angulares cujo produto é −1, e a reta s forma com os eixos um triângulo retângulo.\n\nr: x − 3y + 6 = 0 → y = x/3 + 2, coeficiente angular 1/3\ns ⊥ r → coeficiente angular −3: y = −3x + c (c > 0, primeiro quadrante)\nInterceptos de s: (c/3, 0) e (0, c)\nÁrea = (c/3)·c ÷ 2 = c²/6 = 128/3 → c² = 256 → c = 16\ns: y = −3x + 16\nInterseção: x − 3(−3x + 16) + 6 = 0\n10x − 42 = 0 → x = 21/5\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:17": {
+   "resposta": "Problema que leva a equação do 2º grau: a parte de cada um é o preço dividido pelo número de participantes.\n\nParte original: 396/N\nCom um a menos: 396/(N − 1)\n396/(N − 1) − 396/N = 3\n396·N − 396·(N − 1) = 3·N·(N − 1)\n396 = 3·N·(N − 1) → N·(N − 1) = 132\nN² − N − 132 = 0 → N = 12 (a outra raiz, −11, não serve)\n\nConferindo: 396 ÷ 12 = 33 e 396 ÷ 11 = 36, aumento de R$ 3,00.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "1:18": {
    "resposta": "A ideia é calcular a área do quadrilátero côncavo ABDC como a diferença entre as áreas dos triângulos isósceles ABC e DBC, que têm a mesma base BC.\n\nNo triângulo DBC (DB = DC = 2 cm), com sen β = √6/4:\ncos β = √(1 − 6/16) = √10/4\nBC = 2 · DB · cos β = 2 · 2 · √10/4 = √10 cm\naltura de D: 2 · sen β = √6/2 cm\nÁrea DBC = ½ · √10 · √6/2 = √60/4 = √15/2 cm²\n\nNo triângulo ABC (AB = AC = 4 cm), a altura relativa a BC cai no ponto médio:\nh² = 4² − (√10/2)² = 16 − 10/4 = 54/4 → h = 3√6/2 cm\nÁrea ABC = ½ · √10 · 3√6/2 = 3√15/2 cm²\n\nÁrea ABDC = 3√15/2 − √15/2 = √15 cm²\n\n**Resposta: E**",
    "confianca": "alta",

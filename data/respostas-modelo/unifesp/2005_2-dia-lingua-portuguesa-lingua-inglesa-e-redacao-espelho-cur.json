@@ -1,0 +1,257 @@
+{
+ "indice": "data/questoes/unifesp/2005_2-dia-lingua-portuguesa-lingua-inglesa-e-redacao-espelho-cur.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão pede a leitura do ciclo descrito na propaganda.\n\nO texto diz que, quando a mãe sente saudades, quer ouvir a voz do filho; quando ouve, quer ver o rosto; e quando vê o rosto (na tela do celular com câmera), sente saudades de novo. Ou seja, ouvir a voz e ver a imagem não acabam com a saudade, que volta sempre. É o que diz (D): ela sente saudades apesar de ouvir a voz e ver o rosto.\n\n(E) é o contrário do anúncio. (A) e (B) não têm apoio: a mãe usa o celular justamente para falar com o filho. (C) inventa uma exigência e diz que a saudade diminui, o que o texto não sugere.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão cobra pressuposto, isto é, a ideia que o texto dá como certa sem dizê-la.\n\nA propaganda mostra a mãe que quer ouvir a voz e ver o rosto do filho por meio do celular. Isso só faz sentido se mãe e filho estiverem longe um do outro: o anúncio pressupõe que a saudade aparece quando há distância física, e o produto serve para encurtá-la. É o que diz (A).\n\n(B) contradiz o anúncio: o celular não supre a saudade, que reaparece ao ver o rosto. (C), (D) e (E) não têm base no texto; embora a peça tenha sido publicada perto do Dia das Mães, nada indica que a saudade seja pouco vivida nessas datas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão pede o sentido da pergunta final, \"Fácil agradar sua mãe, não é?\".\n\nA frase vem depois de um ciclo que não termina: a saudade leva a querer ouvir a voz, a voz leva a querer ver o rosto, e ver o rosto traz a saudade de volta. A pergunta tem tom irônico e bem-humorado: agradar a mãe não é tão fácil, porque a saudade nunca se satisfaz completamente. Fica sugerido que a saudade é um sentimento que as mães não conseguem controlar, como afirma (D). O celular com câmera é apresentado como a maneira de atender, ao menos em parte, a esse desejo.\n\nAs outras atribuem às mães intenções negativas (truques, controle, impedir a independência dos filhos) que o anúncio, de tom afetuoso, não sugere.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra referência pronominal, valor das conjunções e variação de registro.\n\nI está correta: \"sua voz\" e \"seu rosto\" referem-se ao leitor (\"você\"), o filho ou a filha a quem o anúncio se dirige; pode ser homem ou mulher.\n\nII está errada: com \"Se\" no lugar de \"Quando\", os verbos continuariam no presente do indicativo (\"Se ela sente saudades, quer ouvir sua voz\"); a flexão não muda.\n\nIII está correta: \"quando\" é conjunção temporal e \"se\" é condicional, mas a troca manteria a coerência, porque a ideia é de um fato que sempre leva ao outro.\n\nIV está correta: \"Facinho\" (diminutivo afetivo) e \"né\" são marcas da fala informal e mantêm o sentido da frase.\n\nCorretas: I, III e IV.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão pede a comparação entre a saudade do poema e a da propaganda.\n\nEm Casimiro de Abreu, a saudade é de uma fase da vida, a infância, \"a aurora da minha vida\", que \"os anos não trazem mais\": é uma saudade ampla, ligada ao tempo que passou e às suas paisagens. Na propaganda, a saudade é da mãe em relação a uma pessoa determinada, o filho distante, e pode ser parcialmente atendida pelo celular. São, portanto, diferentes: uma mais geral, envolvendo fases da vida; a outra, específica, envolvendo pessoas. É o que diz (C).\n\n(A) erra porque o poema não trata de afastamento físico entre pessoas. (D) não serve para o poema: a infância perdida não pode ser recuperada. (B) e (E) atribuem aos textos oposições que eles não apresentam.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra o estilo do poema e a métrica.\n\nOs versos de \"Meus oito anos\" têm linguagem simples, tom suave e afetivo, rimas e ritmo marcado, o que lhes dá grande musicalidade. O metro é a redondilha maior, o verso de sete sílabas poéticas, comum na poesia popular:\n\nOh! / que / sau / da / des / que / te(nho) → 7 sílabas\nDa au / ro / ra / da / mi / nha / vi(da) → 7 sílabas\n\nIsso confirma (A).\n\nAs outras falham: não há linguagem grandiosa nem crítica social (B, E: isso lembra Castro Alves, poeta condoreiro); o poema é subjetivo, não objetivo (C); e não há morbidez, mas saudade nostálgica de uma infância feliz (D).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão cobra características do Romantismo presentes nos versos.\n\nO poema é uma expressão direta de emoção: exclamações (\"Oh! que saudades que tenho\"), lembranças afetivas da infância, de \"amor\", \"sonhos\" e \"flores\". Isso é sentimentalismo. E o tema central é a saudade de um tempo que não volta, \"a aurora da minha vida\" que \"os anos não trazem mais\", o que é saudosismo, a idealização do passado. É o que diz (B).\n\nAs demais citam traços que não aparecem nesses versos: religiosidade, condoreirismo (poesia social de tom grandioso), medievalismo e byronismo (tédio, pessimismo, satanismo). As bananeiras e laranjais sugerem a paisagem brasileira, mas não há religiosidade nem idealização do amor.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão cobra o valor da palavra \"que\" antes de um substantivo, numa frase exclamativa.\n\nEm \"Oh! que saudades que tenho\", o primeiro \"que\" é um pronome (determinante) exclamativo, que intensifica a quantidade e a força das saudades. Equivale a \"quantas\": \"Oh! quantas saudades tenho\". A troca mantém a exclamação e concorda com o substantivo feminino plural \"saudades\".\n\nAs outras não servem: \"muita\" e \"bastante\" não concordam com o plural e tiram o caráter exclamativo; \"quais\" é interrogativo e não exprime intensidade; \"algumas\" indica pouca quantidade, o contrário do sentido do verso.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão pede a explicação da diretora da empresa para a dificuldade de traduzir certas palavras.\n\nJurga Ziliskiene diz que, embora as definições pareçam precisas, o problema é refletir \"com outras palavras\" as referências à cultura local que os vocábulos originais carregam; o mais importante \"são as experiências culturais\" e a ênfase cultural das palavras. Ou seja, a dificuldade está na necessidade de levar para a outra língua os sentidos culturais do termo, como diz (D).\n\n(C) contradiz a fala: ela admite que é possível achar o significado no dicionário. (A), (B) e (E) não aparecem no texto: não se fala em discordância, falta de interesse ou de incentivo dos tradutores.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão cobra o sentido de uma palavra no contexto.\n\nNo primeiro parágrafo, \"uma lista compilada por uma empresa britânica com as opiniões de mil tradutores\" é uma lista montada a partir da reunião, da coleta dessas opiniões. \"Compilar\" significa justamente reunir, juntar informações de várias fontes num só conjunto. Por isso \"reunida\" é a substituição que preserva o sentido.\n\n\"Aprovada\" e \"comprovada\" acrescentam ideia de validação. \"Apresentada\" e \"divulgada\" referem-se à publicação da lista, não ao modo como ela foi organizada.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "A questão pede que se relacione a lista de palavras à situação da novela.\n\n\"Ilunga\" designa a pessoa que perdoa os maus-tratos na primeira vez, tolera na segunda, \"mas nunca pela terceira vez\". Maria Clara, depois de suportar as maldades de Laura, reage com a surra quando a vilã reincide pela segunda vez, isto é, na terceira ofensa. Esse limite de tolerância é exatamente o que define \"ilunga\".\n\nAs outras palavras não se aplicam: \"pochemuchka\" é quem faz perguntas demais; \"klloshar\", perdedor; \"shlimazl\", pessoa cronicamente azarada; \"naa\", palavra regional japonesa para enfatizar ou concordar.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão cobra figuras de linguagem.\n\nDizer que a maldade de Laura tem \"proporções oceânicas\" é atribuir a ela um tamanho imenso, do porte de um oceano. A intenção é exagerar, de forma expressiva, o quanto a vilã é má. Esse exagero intencional é a hipérbole, como diz (B).\n\n(A) é tentadora, mas não há comparação da maldade com o oceano em si: \"oceânicas\" apenas indica uma dimensão enorme, a serviço do exagero. (C) é o contrário: o eufemismo suaviza, e aqui se intensifica. (D) não há ironia, pois o texto realmente afirma a maldade. (E) não há pleonasmo, já que \"maldade\" e \"oceânicas\" não repetem o mesmo sentido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra o efeito de humor obtido pela ordem das palavras.\n\nO texto de Millôr é uma nota social de casamento com as palavras embaralhadas. Na ordem normal, seria algo como: no convento das carmelitas, contraíram ontem laços matrimoniais a senhorita Sandra Carvalho e o cirurgião plástico Nóbrega Pernotta, sendo testemunhas os próprios pais. Ao romper a ordem sintática, o autor cria combinações absurdas e engraçadas, como \"contraíram carmelitas\", \"as próprias testemunhas sendo seus pais\" e \"os laços matrimoniais\" soltos no fim. É o que afirma (B).\n\n(C) exagera: o texto pode ser reordenado e compreendido. (D) e (E) dizem que a sintaxe segue as convenções, o que é falso. (A) erra ao dizer que o sentido de \"enlace\" muda; o texto continua falando de um casamento.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão pede a obra romântica com enredo semelhante ao de \"Romeu e Julieta\": jovens apaixonados de famílias inimigas, que não podem viver o amor e morrem.\n\nEm \"Amor de perdição\", de Camilo Castelo Branco, Simão Botelho e Teresa de Albuquerque pertencem a famílias rivais. Os pais impedem a união, Teresa é mandada para o convento, Simão é preso e degredado, e os dois morrem sem realizar o amor. É a semelhança mais direta, como diz (C).\n\nNas outras, o obstáculo é diferente: em \"Iracema\", a diferença entre a índia e o português; em \"Eurico, o presbítero\", o sacerdócio de Eurico; em \"Viagens na minha terra\", as circunstâncias da guerra civil e as escolhas de Carlos. Leonardo Pataca e Maria da hortaliça, nas \"Memórias de um sargento de milícias\", não vivem amor trágico.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão cobra as características do herói e da heroína românticos em histórias de amor impossível.\n\nO Romantismo valoriza a emoção acima da razão. Os amantes românticos vivem o amor de modo intenso e sentimental, e o veem como um ideal absoluto, puro, pelo qual vale sofrer e até morrer. Por isso as marcas centrais são o sentimentalismo e a idealização do amor, como diz (A).\n\n(B) e (D) descrevem o oposto do modelo romântico: amor ligado a interesses, cálculo e racionalidade, traços mais próximos do Realismo. (C) inclui o nacionalismo, que é um tema do Romantismo, mas não caracteriza as personagens do amor impossível. (E) fala em introspecção psicológica, marca típica do Realismo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão pede o perfil da protagonista do conto \"Amor\", de Clarice Lispector.\n\nAna mora num apartamento \"que estavam aos poucos pagando\", tem empregadas no edifício, cuida dos filhos, da cozinha, das roupas que costura para os meninos: é uma dona de casa de classe média cuja missão é organizar o lar e cuidar da família. O texto diz que ela \"dava a tudo, tranquilamente, sua mão pequena e forte\". É o que afirma (E).\n\n(A) erra: Ana não é rica, e o texto sugere inquietações íntimas, mesmo que ela não as formule. (B) erra a classe social e o desejo de independência, que não aparece. (C) contradiz a satisfação que ela sente com o lar (\"um lar perplexamente lhe dera\" a raiz firme das coisas). (D) não tem apoio: Ana segue o papel tradicional da mulher.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão pede o efeito da frase \"as árvores que plantara riam dela\" em relação às anteriores.\n\nAntes, o narrador compara Ana a um lavrador: ela plantou as sementes (os filhos, a casa, o casamento) e as árvores cresceram; tudo parece fruto do seu trabalho e sob seu controle. Depois, \"certa hora da tarde\", essas mesmas árvores \"riam dela\": a obra que ela construiu parece zombar da sua criadora, que, sem nada para fazer, fica inquieta. Há, assim, uma inversão de sentido que expõe a fragilidade daquela vida aparentemente plena. Esse contraste entre o que se afirma e o que se revela produz um tom de ironia.\n\nNão há comicidade (A) nem indignação (E), e a frase não anuncia o futuro (B). A perplexidade (C) aparece em outra passagem, mas não é o efeito da imagem das árvores.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A questão pede o sentido de \"Certa hora da tarde era mais perigosa\".\n\nO próprio texto explica: era a hora em que \"nada mais precisava de sua força\". Com as tarefas cumpridas e os filhos e o marido fora, Ana deixa de ser requisitada e \"inquietava-se\". O perigo é esse vazio: sem o trabalho doméstico que dá sentido ao seu papel, ela se sente sem importância e corre o risco de olhar para dentro de si. É o que diz (B).\n\n(A) e (E) atribuem o incômodo ao cansaço ou ao excesso de tarefas, mas o problema é justamente a falta delas. (C) inventa uma queixa por falta de reconhecimento. (D) descreve os momentos em que Ana é útil, não a hora perigosa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão pede como Ana satisfez a necessidade de \"sentir a raiz firme das coisas\".\n\nO texto responde logo em seguida: \"E isso um lar perplexamente lhe dera\". Foi ao assumir a vida de esposa e mãe, o \"destino de mulher\", com o marido, os filhos e a casa, que Ana encontrou essa sensação de solidez. Ou seja, ela a alcançou assumindo plenamente a organização de um lar, como diz (A).\n\n(B) é o contrário: o gosto pelo decorativo \"suplantara a íntima desordem\". (C) inverte causa e efeito: a juventude passou a parecer \"uma doença de vida\" depois do casamento. (D) contradiz o texto, em que as árvores crescem. (E) não aparece: a tarde sozinha é a hora \"perigosa\", não um meio de buscar firmeza.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão pede o significado do gosto de Ana pelo decorativo.\n\nO texto diz que seu desejo \"vagamente artístico\" se voltou para tornar os dias \"realizados e belos\" e que, com o tempo, o gosto pelo decorativo \"suplantara a íntima desordem\": cada coisa ganharia \"uma aparência harmoniosa\". Ana não resolve suas inquietações interiores; ela as encobre, desviando-as para a beleza e a ordem da casa. Isso é sublimar, criando uma harmonia que é só aparente, como diz (C).\n\n(A) e (D) afirmam que os problemas foram eliminados ou não existiam, o que contradiz a \"íntima desordem\". (B) não ocorre: Ana não discute nada com a família. (E) não tem apoio: não há intenção de fazer todos agirem de forma igual.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão pede o tema de reflexão sugerido pela expressão \"destino de mulher\".\n\nO conto mostra Ana inteiramente definida pelo casamento, pelos filhos e pelos cuidados com a casa. O narrador diz que ela veio \"por caminhos tortos\" a cair nesse destino, como se fosse o lugar reservado a toda mulher, e revela as inquietações que esse papel encobre: a hora perigosa da tarde, a \"íntima desordem\" escondida pela ordem doméstica. Ao descrever esse destino, o texto leva o leitor a pensar sobre o papel imposto à mulher na sociedade, como diz (D).\n\n(B) e (E) reduzem a questão a aspectos parciais (a maternidade, a família) e com tom de elogio que o texto não tem. (A) e (C) não são tema da passagem; a juventude aparece apenas como contraste com a vida atual.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão cobra a ligação entre a tela de Portinari e a literatura regionalista que tratou da seca e da miséria no sertão nordestino.\n\nRachel de Queiroz estreou com *O Quinze* (1930), romance sobre a grande seca de 1915 e os retirantes; João Cabral de Melo Neto escreveu *Morte e vida severina*, a caminhada do retirante Severino rumo ao litoral, cercado de morte e fome. Os dois autores tratam exatamente do tema da tela.\n\nNas outras alternativas sempre há um nome fora do tema: José de Alencar (romantismo indianista e urbano), Hilda Hilst, Drummond (poesia mineira e urbana), Cecília Meireles (lirismo intimista). Graciliano Ramos (*Vidas secas*), Jorge Amado e José Lins do Rego seriam pertinentes, mas estão acompanhados de autores que não são.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão pergunta qual concepção de linguagem o poema defende.\n\nPela leitura do poema, a alternativa mais coerente seria a E: o poeta elogia as \"cousas\" porque \"Bastam-se\", sonha com uma linguagem só de adjetivos, e termina dizendo que basta \"provares o seu gosto\" para captar o sentido — uma linguagem que contém em si a própria essência.\n\nO gabarito indicado é a C, que lê de modo literal o verso \"Morre, João...\": as pessoas \"atrapalham\" e o poeta desejaria uma linguagem capaz de eliminá-las, como o poema que \"te mate de amor\". Essa leitura toma ao pé da letra a ironia do poema e não se sustenta bem no texto; registramos o gabarito, mas a interpretação da alternativa E é a que melhor se apoia nos versos.\n\n**Resposta: C**",
+   "confianca": "baixa",
+   "pendencia": "Pela leitura do poema, a alternativa E (\"bastar-se a si mesma\") parece a correta; o gabarito usado indica C, que não encontramos apoio sólido no texto. Confira com o gabarito oficial ou com um professor."
+  },
+  "0:24": {
+   "resposta": "A questão cobra a relação de sentido entre dois elementos do poema.\n\nO poeta caracteriza as pessoas e as cousas por traços contrários: as pessoas \"atrapalham\", \"estão em toda parte\", multiplicam-se em excesso, são imprevisíveis (João pode chegar triste ou alegre, amigo ou adverso); as cousas \"são quietas\", \"bastam-se\", \"não se metem com ninguém\", \"não exigem nada\". Essa construção por contraste é uma relação de oposição.\n\nContiguidade (proximidade), semelhança, compatibilidade ou complementaridade supõem aproximação ou harmonia entre os termos, o que o texto nega: o eu lírico prefere as cousas justamente por serem o contrário das pessoas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão cobra o valor do advérbio \"decerto\" nos versos sobre a linguagem das plantas e dos animais.\n\nO poeta sonha com uma linguagem feita só de adjetivos e acrescenta que assim \"decerto\" é a linguagem das plantas e dos animais. Ele não demonstra nem contesta isso: apenas supõe, com convicção, que essa linguagem pura de qualidades exista na natureza. O advérbio apresenta essa ideia como algo possível e provável, não como fato comprovado.\n\nNão há ironia nem negação (A, B), nem dúvida (D) — \"decerto\" reforça a suposição em vez de questioná-la. A alternativa C fala em \"muitas situações\" e em obrigação (\"deve ser\"), ideias que não estão no texto. Resta a E: o poeta indica a possibilidade de que essa linguagem seja composta apenas por adjetivos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra a concepção de poema expressa nos últimos versos.\n\nO eu lírico sonha com um poema cujas palavras escorram \"como a polpa de um fruto maduro\" e que mate de amor \"antes mesmo que tu saibas o misterioso sentido\", bastando \"provares o seu gosto\". O poema, portanto, guarda um sentido oculto, misterioso, que não precisa ser decifrado racionalmente: é experimentado pelos sentidos, vivenciado.\n\nIsso corresponde à alternativa D. O poema não é visto como insuficiente (A) nem limitado pelo sonho e pela linguagem (B) — ele é feito de linguagem e nasce do sonho, o que também elimina a C. A ideia de fuga da realidade (E) não aparece: o poema é desejado como experiência concreta, quase física.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão cobra a leitura do título (\"De gramática e de linguagem\") e as funções da linguagem.\n\nO primeiro par de versos cita a definição de substantivo concreto dada por \"uma gramática\": é linguagem falando da própria língua, ou seja, função metalinguística, ligada à ideia de gramática.\n\nO segundo par fala do sentido do poema que se capta pelo gosto e se dirige diretamente ao interlocutor (\"tu saibas\", \"Basta provares\"), com o verbo voltado para o \"tu\": predomina a função apelativa (conativa), e o tema é a linguagem poética, viva, que se sente.\n\nAs demais alternativas trocam os pares (E), juntam os dois na mesma ideia (B, D) ou apontam a função referencial, que não é a dominante em nenhum dos dois (C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra concordância verbal e nominal ao passar o sujeito para o plural.\n\n- \"vir\", no presente do indicativo, 3ª pessoa do plural, é \"vêm\" (com acento circunflexo); \"vem\" é singular e \"vêem\" (grafia da época) é de \"ver\".\n- Na locução \"há de estar\", só o auxiliar se flexiona: \"hão de estar\". O infinitivo fica sem flexão, pois o sujeito já está marcado no auxiliar (\"hão de estarem\" está errado).\n- Os predicativos concordam com o sujeito \"Eles\": \"tristes ou alegres\".\n\nResultado: \"Eles vêm! E hão de estar tristes ou alegres.\" A alternativa C erra só nos predicativos no singular; A e E erram o acento de \"vêm\".\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão cobra traços do Modernismo de 1922 presentes no poema-piada de Oswald de Andrade.\n\n- I. Busca de uma língua brasileira: o último verso usa o pronome reto como objeto (\"boto ele\"), construção da fala brasileira condenada pela gramática normativa, usada de propósito.\n- II. Versos livres: os quatro versos não têm métrica regular nem rima.\n- III. Ironia e humor: o poema imagina D. Pedro II ameaçado de cadeia por um \"senhor feudal\", invertendo a hierarquia de forma cômica e satírica; o próprio título é irônico.\n\nAs três características estão presentes.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão cobra a postura do Modernismo diante da herança cultural portuguesa.\n\nOs modernistas de 1922, e Oswald em especial (com o \"Manifesto da Poesia Pau-Brasil\" e depois a Antropofagia), atacavam a importação passiva de modelos europeus e o academicismo herdado de Portugal. No poema, a figura de D. Pedro II, imperador da dinastia portuguesa e símbolo da corte, é rebaixada e ameaçada de cadeia: é uma sátira ao referencial português e, por extensão, à cópia de valores europeus.\n\nAs alternativas A e D afirmam a dependência em relação à Europa, o contrário da proposta; B exagera ao dizer que a literatura brasileira seria \"insuperável\"; E faz uma afirmação histórica falsa, pois a influência portuguesa foi grande.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "A questão cobra o sentido de uma expressão coloquial no contexto do poema.\n\n\"Vir com história\" é expressão popular que significa vir com conversa sem fundamento, desculpas, lero-lero, enrolação — em outras palavras, conversa fiada. No poema, o \"senhor feudal\" ameaça prender D. Pedro II se ele aparecer com esse tipo de conversa, o que reforça o tom de deboche.\n\nNão se trata de colóquio de intelectuais (A), comunicado urgente (C), prosa amistosa (D) nem diálogo sério (E): o contexto de ameaça mostra que a \"história\" é algo que o falante não quer ouvir e despreza.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "A questão cobra a relação entre o título \"Senhor feudal\" e as cantigas de amor medievais.\n\nNo feudalismo, o vassalo devia obediência e serviço ao senhor em troca de proteção: uma relação de vassalagem. As cantigas de amor transpõem essa relação para o amor: o trovador se coloca como vassalo da dama (\"mia senhor\"), a quem serve com submissão.\n\nNo poema de Oswald, a ideia de poder também é a do senhor sobre os demais: o eu lírico, como senhor feudal, manda e ameaça até o imperador. A alternativa C (idealização do amor) é tentadora por lembrar a cantiga, mas o que o enunciado pede é a ideia de poder, e esta remete à vassalagem.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "A questão cobra a colocação e a forma do pronome oblíquo na norma padrão.\n\nO verbo \"botar\" é transitivo direto (bota-se alguém na cadeia), então o complemento deve ser o pronome oblíquo átono \"o\", e não o reto \"ele\" nem o \"lhe\" (que é de objeto indireto). Com o sujeito \"Eu\" expresso antes do verbo, a próclise é aceita: \"Eu o boto na cadeia\".\n\nPor que as outras erram:\n- A e D usam \"lhe\", forma de objeto indireto.\n- B: depois de forma verbal terminada em vogal oral (\"boto\"), o pronome é \"o\" (\"Boto-o\"); \"no\" só aparece após som nasal.\n- E começa a frase com pronome oblíquo, o que a norma padrão não admite.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "A questão cobra a correlação entre o tempo da oração condicional e o da oração principal.\n\nNa norma padrão, as combinações típicas são:\n- pretérito imperfeito do subjuntivo + futuro do pretérito: \"Se viesse… botaria\";\n- futuro do subjuntivo + futuro do presente: \"Se vier… botarei\".\n\nA alternativa A faz a primeira correlação corretamente. As demais misturam tempos que não se combinam: \"vem… botava\" (B), \"viesse… boto\" (C), \"vinha… botara\" (D, com mais-que-perfeito) e \"vier… terei botado\" (E, futuro composto, que indicaria ação já concluída antes de outra no futuro, sentido que não cabe aqui).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A questão cobra a leitura de um soneto árcade de Bocage.\n\nO eu lírico convida Marília a desfrutar com ele a beleza dos campos e a sombra das árvores, deixando de lado a \"vã grandeza\" da corte. São marcas do Arcadismo: o *carpe diem* tranquilo (aproveitar o presente), o *fugere urbem* (fugir da cidade/corte), o bucolismo e a vida simples junto à natureza, em linguagem clara e equilibrada.\n\nNão há visão negativa do amor (A) nem idealização que torne a mulher inacessível (D) — ela é convidada a estar com ele. A linguagem é contida, não altamente subjetiva (B), e a razão não é dominada pela emoção nem há \"ânsia\" (C); o convite é sereno.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "A questão cobra vocabulário: o verbo \"relish\".\n\nO texto começa dizendo que a maioria dos americanos \"relish the thought of sleeping late\". \"Relish\" significa saborear, apreciar muito; \"sleeping late\" é dormir até tarde. Ou seja, eles gostam da ideia de dormir até tarde — exatamente a alternativa C (\"enjoy the idea of sleeping late\").\n\nA recomendação de oito horas vem dos especialistas, não da população (D, E). O texto não diz quantas horas os americanos de fato dormem (A) nem que preferem dormir mais de sete horas (B).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "A questão cobra a conclusão do estudo de 2002.\n\nSegundo o texto, o estudo de 2002 constatou que dormir mais de sete horas por noite estava \"associated with a shorter life span\" — havia uma associação entre sono e tempo de vida. É o que diz a alternativa B: encontrou um vínculo (\"link\") entre sono e duração da vida.\n\nA alternativa A atribui ao estudo de 2002 o local de outra pesquisa, a do Brigham and Women's Hospital, feita \"this year\". A C inverte o resultado (dormir mais estava associado a viver menos). O texto não fala de lugares barulhentos (D) nem estabelece correlação clara com doenças (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "A questão cobra o que o texto atribui ao Dr. Jerome Siegel.\n\nEle afirma que a expectativa de vida \"declines as sleep falls below seven hours\", isto é, cai quando a pessoa dorme menos de sete horas, \"but not as steeply\" quanto com oito horas ou mais. A alternativa E reproduz a primeira parte: quem dorme menos de sete horas apresentou queda na expectativa de vida.\n\nA C inverte a comparação: segundo ele, a queda é menos acentuada abaixo de sete horas do que acima de oito. A frase sobre doenças que causam fadiga e morte precoce (A, B) não é atribuída a ele, e o \"milhão de americanos\" (D) é o número de pessoas do estudo de 2002.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "A questão cobra a posição dos especialistas em sono.\n\nO texto diz que a maioria deles \"are reluctant to draw conclusions\" (relutam em tirar conclusões), porque os resultados se baseiam em correlações, que não mostram causa e efeito. Ou seja, ainda estão incertos quanto às conclusões das pesquisas — alternativa A.\n\nA B afirma justamente a relação causal que os especialistas evitam afirmar. A C e a E atribuem a eles descobertas que não aparecem no texto, e a D distorce os 12%, que se referem ao aumento do risco de morte de quem dormia oito horas, não a quem \"não dorme bem\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:40": {
+   "resposta": "A questão cobra a hipótese levantada no fim do segundo parágrafo.\n\nO texto sugere: \"People who sleep longer may have illnesses that cause fatigue and earlier death\". Isto é, a doença pode ser a causa do sono prolongado (e da morte precoce), e não o contrário. A alternativa D diz isso: problemas de saúde podem fazer as pessoas dormirem mais.\n\nA A distorce o \"over the age of 30\", que apenas delimita o grupo estudado. A B afirma como fato o que o texto apresenta como incerto. A C contradiz o texto, que também associa menos de sete horas a queda na expectativa de vida, e a E afirma uma causa de morte que o texto não estabelece.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "A questão cobra a referência da expressão \"the link\" na última frase.\n\nA frase final diz que dormir mais de sete horas por noite está associado a um tempo de vida menor, \"though whether poor health or too much sleep accounts for the link is unclear\". O \"link\" retoma a associação mencionada logo antes, entre a quantidade de sono e a duração da vida (life span).\n\nA alternativa A é a mais tentadora, mas \"poor health\" e \"too much sleep\" são as duas possíveis explicações para o vínculo, não os termos ligados por ele. As demais (C, D, E) não correspondem a nada que a frase relacione.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "A questão cobra o sentido da conjunção \"whether\".\n\nEm \"whether poor health or too much sleep accounts for the link is unclear\", \"whether\" introduz uma alternativa incerta: \"não está claro se é a saúde fraca ou o excesso de sono que explica o vínculo\". Nesse uso, \"whether\" equivale a \"if\" (se), em interrogativas indiretas.\n\nAs outras opções não cabem: \"also\" (também), \"cause\" (causa), \"as\" (como/porque) e \"nor\" (nem) mudariam o sentido ou deixariam a frase sem lógica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "A questão cobra compreensão do primeiro parágrafo do texto da *Lancet*.\n\nO texto explica que a clonagem reprodutiva está ligada a outro procedimento: o desenvolvimento de linhagens de células-tronco por SCNT (transferência nuclear de célula somática), \"sometimes called cloning for research or therapeutic cloning\". Logo, a clonagem para pesquisa, ou terapêutica, usa o SCNT — alternativa D.\n\nA A e a B contrariam o texto, que começa perguntando por que a ONU e o Congresso americano não conseguem aprovar uma proibição. A C erra ao dizer que as duas adotam o mesmo método: o texto diz que os processos são distintos em objetivos e métodos (e SCNT não é \"pesquisa quantitativa\"). A E não tem apoio.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "A questão cobra a posição de quem apoia a clonagem para pesquisa.\n\nO texto apresenta duas políticas possíveis quando as duas clonagens são tratadas juntas: proibir ambas ou proibir só a reprodutiva e regulamentar a de pesquisa. Diz então que, \"for individuals who support cloning for research, the first option is unacceptable\" — ou seja, quem apoia a pesquisa rejeita a proibição de todos os tipos de clonagem. É a alternativa A.\n\nNão há menção a divergência entre eles (B), a querer tratar as duas como unidade (C), a apoio à clonagem reprodutiva (D) nem a limites éticos gerais (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:45": {
+   "resposta": "A questão cobra a consequência de tratar as duas clonagens como uma coisa só.\n\nVinculadas, as duas práticas só admitem duas políticas: proibir tudo (inaceitável para quem apoia a pesquisa) ou proibir a reprodutiva e permitir a de pesquisa (inaceitável para quem se opõe à pesquisa). Como o mundo está \"deeply divided along these lines\", o texto conclui que \"legislation might not be possible\" — não se consegue uma lei aceitável para todos. É a alternativa C.\n\nA existência de cientistas contrários a tudo (A), as diferenças culturais (B), a clonagem de animais (D) e os médicos inescrupulosos (E) não são apresentados como o problema do vínculo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:46": {
+   "resposta": "A questão cobra o sentido da \"terceira opção\" do segundo parágrafo.\n\nO texto diz que \"a third option, however, entails not linking the two cloning practices\": a terceira saída é não vincular as duas práticas. Como quase todos concordam que a clonagem reprodutiva deve ser proibida, \"the link must be broken\" para acabar com o impasse. Isso é desvincular a clonagem reprodutiva da clonagem para pesquisa — alternativa A.\n\nA D diz o contrário (manter o vínculo). A proibição internacional mencionada no fim do texto vale para a clonagem reprodutiva, não para a terapêutica (B). Mudança de país de cientistas aparece como problema, não como proposta (C), e não se fala em cassar licenças (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:47": {
+   "resposta": "A questão cobra a referência textual de \"such research\".\n\nA frase é: \"For individuals who support cloning for research, the first option is unacceptable; for most people who oppose such research, the second option is unacceptable…\". \"Such research\" (tal pesquisa) retoma o termo imediatamente anterior, \"cloning for research\", que o texto já havia identificado como clonagem terapêutica. É a alternativa C.\n\nNão se refere à clonagem reprodutiva (A), que é proibida por quase todos, nem à legislação (D). As alternativas B e E descrevem partes do procedimento, mas o termo retomado é a clonagem para pesquisa como um todo.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:48": {
+   "resposta": "A questão cobra o sentido da locução \"in view of\".\n\n\"In view of\" significa \"em vista de\", \"considerando\", \"devido a\". No texto: em vista da importância de conter cientistas desonestos e de pôr fim às esperanças irreais de pais em potencial, é necessária uma proibição internacional. A locução introduz a causa ou justificativa da conclusão — \"devido a\".\n\nAs outras opções não servem: \"à revelia de\" (sem o conhecimento de), \"afora\" (além de, exceto), \"senão\" (do contrário) e \"apesar de\" (concessão, ideia oposta à de causa).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:49": {
+   "resposta": "A questão cobra o que o texto considera importante no último período.\n\nA frase final diz que, em vista da importância de \"reining in rogue scientists\" (refrear cientistas desonestos, que mudam de país para continuar o trabalho) e de pôr fim às esperanças irreais de pais estimulados por esses pseudocientistas, \"an international ban is needed\". Ou seja, é importante impedir, com uma proibição internacional, a ação de cientistas desonestos — alternativa E.\n\nA A inverte o texto: as esperanças dos pais devem ser encerradas (\"set to rest\"), não alimentadas. A B e a C também distorcem o trecho, e hospitais especializados (D) não são mencionados.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:50": {
+   "resposta": "A questão cobra o valor da conjunção \"since\".\n\nEm \"Since there is essentially universal agreement that reproductive cloning should be prohibited, the link must be broken…\", \"since\" significa \"já que\", \"uma vez que\". Introduz uma ideia dada como aceita (o consenso sobre proibir a clonagem reprodutiva), sobre a qual se apoia a conclusão de que o vínculo deve ser rompido. Essa base aceita para o raciocínio é um pressuposto.\n\nNão indica consequência (A) — ao contrário, introduz a razão —, nem exemplo (C), discordância (D) ou alternância (E). Atenção: \"since\" também pode significar \"desde\" (tempo), mas aqui o sentido é causal.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,6 +1,6 @@
 {
  "indice": "data/questoes/famema/2021_prova-espelho-curso-objetivo.json",
- "gerado_em": "2026-11-06",
+ "gerado_em": "2026-11-08",
  "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
  "questoes": {
   "0:1": {
@@ -40,6 +40,206 @@
   },
   "0:8": {
    "resposta": "**a)** A organela osmorreguladora é o **vacúolo contrátil** (ou pulsátil). Ela permanece ativa porque o hialoplasma do paramécio é **hipertônico** em relação à água doce do meio (que é hipotônica), de modo que a água entra continuamente na célula por osmose.\n\n**b)** As bombas de prótons ficam na **membrana** do vacúolo contrátil (e dos canais radiais que o alimentam). Elas atuam por **transporte ativo**, com gasto de energia (ATP), lançando íons H⁺ do citoplasma para o interior da organela. O acúmulo desses íons (e de outros íons que os acompanham) torna o conteúdo da organela hipertônico em relação ao hialoplasma, e a água em excesso passa do citoplasma para o vacúolo por osmose. Cheio, o vacúolo se contrai e expulsa a água para o meio.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:1": {
+   "resposta": "Questão de interpretação do poema de Adélia Prado.\n\nO \"amor feinho\" é apresentado como um amor sem idealização: \"magro\", \"não tem ilusão\", \"cuida do essencial\", aparece nas coisas da casa (as plantas ao redor, a saudade) e nos filhos. É um amor do dia a dia, simples, e o eu lírico o deseja e o considera alcançável (\"Eu quero amor feinho\", \"o que ele tem é esperança\") — alternativa B.\n\nNão é algo único e extraordinário (A), nem ilusão (C), contrariada pelo próprio verso \"não tem ilusão\". A D generaliza demais (\"a qualquer pessoa\"), e a E é negativa, ao passo que o poema valoriza esse amor.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:2": {
+   "resposta": "Questão de sentido de palavra em contexto.\n\n\"Teologar\" é discorrer teoricamente sobre Deus. No poema, o amor \"uma vez encontrado é igual fé, / não teologa mais\": quem tem fé não precisa de argumentos para crer, e quem vive o amor feinho não precisa ficar teorizando sobre ele. O verbo indica, portanto, elaborar teorias desnecessárias sobre algo que, na prática, dispensa explicações — alternativa A.\n\nAs demais atribuem ao verbo sentidos (prescrever regras, experimentar, descrever com precisão, convencer) que não combinam com a comparação com a fé.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:3": {
+   "resposta": "Questão de transitividade verbal.\n\nEm \"Eu quero amor feinho\", \"querer\" pede complemento sem preposição (\"amor feinho\"): transitivo direto. O mesmo ocorre em \"Planta beijo de três cores\": quem planta, planta alguma coisa, e \"beijo de três cores\" (nome de uma flor) é objeto direto — alternativa E.\n\nNas outras: \"olha um pro outro\" tem complemento com preposição (\"para o outro\"); \"não teologa mais\" está sem complemento; \"é\" e \"fica\" são verbos de ligação (\"é igual fé\", \"fica velho\").\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:4": {
+   "resposta": "Questão sobre o sentido do neologismo do título.\n\n\"Insapiens\" junta o prefixo de negação \"in-\" a \"sapiens\" (sábio, racional): o \"homem não sábio\", irracional. No texto, o narrador conta que, quando não lembra onde guardou algo, afrouxa o espírito e a mão vai sozinha ao lugar certo, como o cavalo que voltava para casa quando se soltava a rédea. Ele diz que não sabe quem é o cavaleiro e quem é o cavalo: homem e cavalo ficam equiparados naquela situação — alternativa C.\n\nA e D erram ao dizer \"racional\". B e E atribuem ao homem método ou controle das rédeas, o oposto do que o texto descreve: ele solta as rédeas.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:5": {
+   "resposta": "Questão de sentido de expressão em contexto.\n\nDepois de comparar a própria mão \"sonâmbula\" ao cavalo que voltava sozinho para casa, o narrador diz que saber qual dos dois, espírito ou corpo, é o cavaleiro e qual é o cavalo é \"questão acadêmica\". Ele reconhece que o problema existe e é complexo (a relação entre mente e corpo é tema de filósofos), mas o deixa de lado: o que lhe interessa é contar a experiência. A expressão indica, portanto, uma discussão complexa que foge ao propósito do texto — alternativa D.\n\nNão é irrelevante por ser simples (C), nem uma questão que ele pretenda resolver (A); também não se trata de crença pessoal (B) nem de algo a ser evitado por ser crítico (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:6": {
+   "resposta": "Questão de classe e função de palavra.\n\nEm \"ele voltava direitinho para casa\", \"direitinho\" modifica o verbo \"voltava\" e significa \"de modo certo, corretamente\": é advérbio, com função de adjunto adverbial de modo. O mesmo ocorre em \"Bianca sempre faz direito sua lição de casa\": \"direito\" modifica \"faz\" e quer dizer \"corretamente\" — alternativa A.\n\nNas demais, \"direito\" é adjetivo (\"pé direito\", \"homem direito\") ou substantivo (\"é seu direito\", \"o direito da camisa\", isto é, o lado certo).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:7": {
+   "resposta": "Questão de interpretação da crônica de Moacyr Scliar.\n\nNo segundo parágrafo, o autor diz que as pessoas melhoravam no spa e pergunta, com ironia, por que não melhorariam: comiam bem, descansavam, conversavam e, sobretudo, relaxavam. A melhora vinha desse descanso e do afastamento das preocupações (\"a fúria da inflação\"), e não necessariamente das propriedades das águas; mesmo assim, isso \"preserva a reputação das termas\". Ele insinua, portanto, que a cura tinha outras causas — alternativa E.\n\nO tom é bem-humorado, sem denúncia: não há crítica ao comércio (D), nem prejuízo aos doentes (A), nem lamento pelos spas modernos (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:8": {
+   "resposta": "Questão que relaciona o texto às características do Barroco.\n\nA arte barroca (século XVII) é marcada pelo exagero, pelo rebuscamento e pelos contrastes: na literatura, cultismo e conceptismo, com figuras de linguagem acumuladas; na arquitetura, fachadas e interiores cheios de curvas, dourados e ornamentos. Um hotel de \"luxo barroco\" seria, então, decorado com excesso de ornamentos e reentrâncias, mais próximo do exagero que da contenção — alternativa B.\n\nPraticidade funcional (A) e simplicidade (D) são o oposto do Barroco; a paisagem bucólica (C) remete ao Arcadismo; tecnologia moderna (E) nada tem a ver com o estilo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:9": {
+   "resposta": "Questão sobre conectivos e equivalência de sentido.\n\nEm \"modesto, mas digno\", \"mas\" é conjunção adversativa: o Irai é modesto e, apesar disso, digno. A ideia de contraste e a ordem dos termos se mantêm com \"no entanto\", outra adversativa: \"modesto, no entanto digno\" — alternativa A.\n\nA E usa adversativa, mas inverte a ordem e muda a ênfase (a qualidade que \"vence\" passa a ser a modéstia). \"Senão\" (B) não tem esse valor aqui; \"pois\" (C) indica explicação; \"apesar de\" (D) põe a concessão em \"digno\", invertendo o sentido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:10": {
+   "resposta": "Questão de transposição para a voz passiva.\n\nNa voz ativa, \"o criminoso pode alegar\" + objeto direto (a oração \"que foi o segundo eu o autor do crime\"). Na passiva analítica, o objeto vira sujeito e o verbo principal vai para o particípio com o auxiliar \"ser\"; o auxiliar modal \"poder\" fica no mesmo tempo da ativa (presente do indicativo): \"pode ser alegado\" — alternativa D.\n\n\"Pôde\" (A) é pretérito perfeito e mudaria o tempo; \"é alegado\" (C) e \"foi alegado\" (E) eliminam o \"poder\"; \"pode alegar\" (B) continua na ativa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:11": {
+   "resposta": "Porcentagem de uma porcentagem: média ponderada.\n\nPessoas que não trabalham por causa do coronavírus em cada faixa:\n18 a 44 anos: 1,5% de 60 milhões = 0,9 milhão\n45 anos ou mais: 0,5% de 100 milhões = 0,5 milhão\nTotal: 0,9 + 0,5 = 1,4 milhão\n\nEm relação aos 160 milhões aptos:\n1,4 ÷ 160 = 0,00875 = 0,875%\n\nSomar as porcentagens (1,5% + 0,5% = 2%) ou tirar a média simples (1%) erra porque as faixas têm tamanhos diferentes.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:12": {
+   "resposta": "Ângulos formados por retas paralelas cortando os lados de um retângulo.\n\nChame de θ o ângulo agudo que r e s (paralelas) fazem com a horizontal.\n\n- β fica entre r e o lado de cima do retângulo, do lado obtuso: β = 180° − θ.\n- γ fica entre s e o lado vertical da direita, tomado de cima até s: γ = 90° + θ.\n\nSomando:\nβ + γ = 180° − θ + 90° + θ = 270°\n\nA soma não depende de θ. Com α + β + γ = 380°:\nα = 380° − 270° = 110°\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:13": {
+   "resposta": "Semelhança de triângulos: reta de visão a 45° e a estrutura da arquibancada.\n\nAlturas dos assentos: x, 2x e 3x. A cabeça do torcedor de cima fica 0,8 m acima do assento:\n3x + 0,8 = 2,9\nx = 0,7 m\n\nNa horizontal, a reta a 45° tem altura igual à distância até o ponto onde toca o chão; logo o ponto da cabeça está a 2,9 m desse ponto. Esse ponto fica 0,3 m à frente do encosto do degrau de cima, e os encostos distam y entre si (dois degraus até o de baixo), que está a 1,1 m do ponto no chão:\n1,1 + 2y − 0,3 = 2,9\n2y = 2,1\ny = 1,05 m\n\nx + y = 0,7 + 1,05 = 1,75 m\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:14": {
+   "resposta": "Leitura de matrizes e multiplicação matricial.\n\nNa matriz de A, a posição (A, B) = 1 é o 1º jogo: A fez 1 ponto, logo houve empate. A posição (B, A) = −1 é o 2º jogo: A perdeu, logo B venceu.\n\nPontuação de B: 1 ponto no 1º jogo e 2 no 2º. Na mesma estrutura:\nB = [0 1; 2 0]\n\nProduto:\n[0 1; −1 0] · [x y; z w] = [z w; −x −y]\n\nIgualando a [0 1; 2 0]:\nz = 0, w = 1, −x = 2 → x = −2, −y = 0 → y = 0\n\nx + y + z + w = −2 + 0 + 0 + 1 = −1\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:15": {
+   "resposta": "Área por diferença e simetria em relação à reta y = x.\n\nA circunferência de centro (4, 4) e raio 4 toca os eixos em (0, 4) e (4, 0). A região entre os dois eixos e o arco, no canto da origem, é o quadrado de lado 4 menos um quarto do círculo:\n16 − (π · 4²) ÷ 4 = 16 − 4π\n\nA reta y = x passa pela origem e pelo centro, então é eixo de simetria dessa região e a divide em duas partes iguais. A parte laranja (junto ao eixo y) é a metade:\n(16 − 4π) ÷ 2 = 8 − 2π\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:16": {
+   "resposta": "Sequências: a linha n tem n + 1 números, crescendo de 0,1 em 0,1.\n\nQuantidade de números até o fim da linha n:\n2 + 3 + … + (n + 1) = n(n + 3) ÷ 2\n\nO k-ésimo número da sequência vale 0,1 · k (o 2º é 0,2, o 5º é 0,5). Se 66,5 é o último da linha x, ele é o 665º número:\nx(x + 3) ÷ 2 = 665\nx² + 3x − 1330 = 0\nx = 35 (35 · 38 = 1330)\n\nConferindo: a linha 35 tem 36 números, de 66,5 − 3,5 = 63,0 até 66,5, como diz o enunciado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:17": {
+   "resposta": "Função quadrática a partir das raízes.\n\nA parábola corta o eixo x em P(−5, 0) e R(1, 0), então:\nf(x) = a(x + 5)(x − 1)\n\nPelo ponto Q(0, 2):\n2 = a · 5 · (−1) → a = −0,4\n\nNão é preciso achar b e c: a + b + c é o valor da função em x = 1.\nf(1) = a + b + c\n\nComo x = 1 é raiz (ponto R, no chão), f(1) = 0. Logo a + b + c = 0.\n\nConferindo: f(x) = −0,4x² − 1,6x + 2, e −0,4 − 1,6 + 2 = 0.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:18": {
+   "resposta": "Sistema com logaritmo: transformar a equação logarítmica em linear.\n\nlog(x + y) = 2 significa\nx + y = 10² = 100\n\nSistema:\nx − y = −20\nx + y = 100\n\nSomando: 2x = 80 → x = 40\ny = 100 − 40 = 60\n\nCondição de existência: x + y = 100 > 0 (ok).\n\ny ÷ x = 60 ÷ 40 = 1,5\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:19": {
+   "resposta": "Probabilidade do evento complementar.\n\nCada carta mostra um dos dois lados com probabilidade 1/2, de forma independente. \"Pelo menos uma M\" é o contrário de \"nenhuma M\".\n\nNenhuma M para cima:\n- Carta 1 (F/A): não tem M → probabilidade 1\n- Carta 2 (M/E): precisa mostrar E → 1/2\n- Carta 3 (M/A): precisa mostrar A → 1/2\nP(nenhuma M) = 1 · 1/2 · 1/2 = 1/4\n\nP(pelo menos uma M) = 1 − 1/4 = 3/4\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:20": {
+   "resposta": "Volume de prisma: área da base (trapézio) × profundidade.\n\nA face da frente é um trapézio retângulo: lado vertical de 6 m, base de baixo de 2 m e lado inclinado a 30° com a horizontal.\n\nProjeção horizontal do lado inclinado:\n6 ÷ tg 30° = 6 ÷ (√3/3) = 18 ÷ √3 = 6√3 m\n\nBase de cima: 2 + 6√3 m\n\nÁrea do trapézio:\n(2 + 2 + 6√3) ÷ 2 · 6 = (4 + 6√3) · 3 = 12 + 18√3 m²\n\nVolume, com profundidade 5 m:\n5 · (12 + 18√3) = 60 + 90√3 m³\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:21": {
+   "resposta": "A questão trata dos impactos do turismo sobre o patrimônio histórico.\n\nUm aeroporto internacional em Chinchero, perto de Machu Picchu, aumentaria muito o fluxo de turistas na região. Mais visitantes significa mais desgaste dos sítios arqueológicos (circulação de pessoas, obras de infraestrutura, urbanização), além do risco às próprias ruínas incas de Chinchero — por isso a preocupação de arqueólogos e historiadores. Alternativa A.\n\nAs demais contradizem o efeito esperado da obra: ela tende a gerar empregos e empreendimentos locais (contra B e D), a aumentar, não diminuir, a pressão sobre as ruínas (contra C) e a acelerar a urbanização, que costuma ser desordenada (contra E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:22": {
+   "resposta": "Leitura de gráfico ligada à geografia da circulação.\n\nO faturamento do comércio eletrônico brasileiro passou de R$ 18,7 bilhões em 2011 para R$ 49,7 bilhões em 2017, quase o triplo. Toda compra virtual termina numa entrega física: depende de transporte, armazéns, centros de distribuição e rede viária eficientes. Num país extenso e dependente de rodovias, esse crescimento exige mais investimento em logística — alternativa B.\n\nObsolescência programada (A) e combate ao consumo consciente (E) não são necessidades, e sim críticas ao consumismo; marketing (C) e compras coletivas (D) não decorrem diretamente do gráfico.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:23": {
+   "resposta": "A questão pede a identificação de um ciclone tropical (furacão) num perfil vertical.\n\nA figura mostra nuvens de grande desenvolvimento vertical dispostas em anel em torno de um \"olho\" central, com centenas de quilômetros de diâmetro e ar subindo ao redor do centro: é a estrutura de um furacão. Ele se forma sobre oceanos quentes, em áreas de baixa pressão atmosférica, para onde o ar converge e de onde sobe, alimentando as nuvens — alternativa C.\n\nO movimento ascendente do ar o intensifica, não o atenua (A). Ele perde força ao se afastar das águas quentes, rumo às latitudes altas (B) ou sobre o continente, e não sobre águas quentes (D). Pela escala da figura (cerca de 700 km), não é um vórtice de pequena extensão (E), como um tornado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:24": {
+   "resposta": "A questão trata dos riscos da agricultura urbana para a qualidade dos alimentos.\n\nNas cidades, o solo pode estar contaminado por metais pesados (chumbo, cádmio), combustíveis, resíduos industriais, esgoto ou entulho de antigos usos do terreno. Plantas cultivadas nesse solo podem absorver os poluentes e levá-los ao consumidor. Por isso, a medida que dá confiabilidade à produção é avaliar o risco de contaminação do solo antes de plantar — alternativa E.\n\nAlbedo (A), densidade e porosidade (C) e o rebaixamento do lençol freático (D) não dizem respeito à segurança do alimento. Usar defensivos agrícolas (B) aumentaria a preocupação com a qualidade, em vez de reduzi-la.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:25": {
+   "resposta": "A questão pede a localização de dois pontos por coordenadas geográficas e do trajeto entre eles.\n\n50° N, 10° L fica na Europa central (Alemanha); 30° S, 135° L fica no centro-sul da Austrália. Uma linha reta entre eles, no planisfério, desce pelo Mediterrâneo oriental e pela Península Arábica (perto de 34° N, 35° L e 26° N, 47° L), atravessando o Oriente Médio, e segue pelo Oceano Índico e pela Indonésia até a Austrália — alternativa B.\n\nO trajeto passa longe da China, do mar das Filipinas e do interior da África. A diferença de longitude é de 125°; como cada fuso tem 15°, são cerca de oito fusos, e não quatro.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:26": {
+   "resposta": "A questão trata do papel da religião nas sociedades medievais.\n\nO trecho de Le Goff mostra uma Europa dividida em grandes comunidades religiosas: cristãos latinos, cristãos ortodoxos, muçulmanos e judeus. Na Idade Média, a religião organizava a vida social, política e econômica: definia hierarquias, alianças, casamentos, guerras (como as Cruzadas) e exclusões (como a dos judeus). Por isso, as relações entre as pessoas derivavam em grande parte das crenças religiosas — alternativa A.\n\nO poder do papa não era restrito à religião nem universalmente aceito (houve o Cisma do Oriente) (B); não houve aliança que barrasse o islã, que chegou à Península Ibérica (C); as relações foram marcadas por conflitos (D); e a iconoclastia foi uma disputa interna do mundo bizantino, não um ponto de união (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:27": {
+   "resposta": "A questão trata do Período Regencial (1831–1840), aberto pela abdicação de D. Pedro I em 1831.\n\nSem um imperador adulto, a regência ficou marcada por disputas entre grupos da elite (liberais moderados, exaltados, restauradores; depois progressistas e regressistas) e pela autonomia dada às províncias pelo Ato Adicional de 1834. Nesse quadro estouraram rebeliões em várias províncias, muitas com forte participação popular: Cabanagem, Balaiada, Sabinada, Farroupilha, Revolta dos Malês. O texto mostra a conclusão da elite: a autonomia regional precisava de um controle maior do governo central — alternativa C.\n\nO Poder Moderador vinha da Constituição de 1824 e foi até suspenso na regência (A); não houve recolonização (B); o governo central não foi dissolvido (D); e a campanha abolicionista é da segunda metade do século XIX (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:28": {
+   "resposta": "A questão relaciona o trecho de Lima Barreto às correntes do início da República.\n\nO narrador ironiza os cadetes da Escola Militar, influenciados pelo positivismo, que transformaram Floriano e a República em \"artigo de fé\". Esse grupo, militar e florianista (os \"jacobinos\"), era apenas uma das correntes republicanas: convivia e disputava espaço com os republicanos liberais, ligados às oligarquias cafeeiras, que acabaram dominando o regime. O trecho mostra, portanto, a diversidade de orientações dentro do campo republicano — alternativa D.\n\nA Constituição de 1891 era liberal e federalista, não positivista (C); o trecho não trata de voto (A), de imprensa (B) nem de governos guiados pela ciência (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:29": {
+   "resposta": "A questão trata do neocolonialismo na África (Partilha da África, Conferência de Berlim, 1884–1885).\n\nO texto diz que as conquistas impuseram fronteiras às redes de comércio africanas. As potências europeias traçaram os limites coloniais conforme seus interesses, muitas vezes em linhas retas, sem respeitar os espaços históricos de povos, reinos e rotas da África; grupos rivais ficaram juntos e povos aparentados foram separados — alternativa E.\n\nNão houve reorganização em nações com idioma nativo comum (A), nem transferência de industrialização (B): as colônias forneciam matéria-prima. O tráfico transatlântico já havia acabado antes da partilha (C), e a formação de elites para os futuros Estados (D) não é o tema do trecho.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:30": {
+   "resposta": "A questão relaciona o texto à ditadura civil-militar dos anos 1970.\n\nO trecho fala da publicidade que, a partir dos anos 1970, supervaloriza os bens de consumo e reduz a modernidade a \"mero crescimento econômico\". Foi a época do \"milagre econômico\" (1968–1973): crescimento acelerado, expansão do crédito e dos bens duráveis (carros, eletrodomésticos, TV) e propaganda oficial do \"Brasil grande\", com a promessa de que o consumo traria ascensão social — alternativa B.\n\nNão havia autonomia sindical, e os salários foram arrochados (A); não havia democracia política (E); o Estado se fortaleceu, em vez de se enfraquecer (D); e a preservação ambiental não era prioridade (C).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:31": {
+   "resposta": "Questão sobre a ideia central do texto (em inglês).\n\nO texto explica que as \"comfort foods\", consumidas para trazer conforto, deixam a pessoa \"cranky\" (mal-humorada): o açúcar e os carboidratos refinados causam picos e quedas de glicose, com mau humor, irritabilidade e ansiedade; o prazer da dopamina é passageiro e vem seguido de culpa. O texto trata, portanto, de alimentos que acabam com o seu humor (\"wreck your mood\") — alternativa C.\n\nA E diz o contrário (\"vencer o mau humor\"), que é justamente a promessa que o texto desmente. O texto não fala em saciedade (A), dano ao cérebro (B) nem produtividade (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:32": {
+   "resposta": "Questão de localização de informação no texto.\n\nO texto diz que as comfort foods dão uma dose de dopamina, prazer \"fleeting\" (passageiro). Logo depois, Chambers explica que a dopamina cai quando começamos a nos sentir culpados, e que isso traz falta de satisfação e sentimentos de culpa, vergonha e arrependimento (\"guilt, shame and regret\"). Ao prazer seguem-se, portanto, sentimentos negativos — alternativa E.\n\nA dose de dopamina (A) e os gatilhos de recompensa (B) são o próprio prazer, não o que vem depois. Saciedade (C) não é mencionada, e o consumo excessivo (D) aparece como efeito de longo prazo, não como o que se segue ao prazer.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:33": {
+   "resposta": "Questão de vocabulário em contexto.\n\nNo trecho, as comfort foods dão uma dose de dopamina, \"but that pleasure is fleeting\". \"Fleeting\" quer dizer passageiro, que dura pouco: \"fugaz\" — alternativa B. O \"but\" já indica que vem uma restrição ao prazer, e o parágrafo seguinte confirma que a dopamina cai logo.\n\n\"Instantâneo\" (C) é a alternativa mais tentadora, mas significa \"imediato\", que acontece de uma vez, e não \"que acaba depressa\". \"Real\", \"estranho\" e \"intenso\" não têm relação com a palavra.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:34": {
+   "resposta": "Questão de sinônimo de advérbio de frequência.\n\nEm \"This combination often makes us feel a lack of satisfaction\", \"often\" significa \"frequentemente, muitas vezes\". O sinônimo é \"frequently\" — alternativa A.\n\nOs outros advérbios indicam frequências diferentes: \"occasionally\" e \"sometimes\" = às vezes; \"seldom\" = raramente; \"hardly\" = quase não. Trocar \"often\" por qualquer um deles mudaria o sentido da frase.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:35": {
+   "resposta": "Questão de leitura de imagem com texto em inglês.\n\nA imagem usa uma torta como \"gráfico de pizza\": a parte maior é \"what we throw out\" (o que jogamos fora) e a menor, \"what we eat\" (o que comemos). O texto diz que 40% de toda a comida dos Estados Unidos nunca é consumida, enquanto 50 milhões de americanos não têm acesso regular a alimentos. O site se chama \"we hate to waste\" (odiamos desperdiçar). A campanha é sobre o desperdício de alimentos — alternativa D.\n\nA menção à fome pode levar à B, mas a imagem não pede doações: ela denuncia o volume de comida jogada fora. Calorias, alimentação saudável e orgânicos não aparecem.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:36": {
+   "resposta": "Gráfico velocidade × tempo: o deslocamento é a área sob a curva.\n\nA fase uniformemente acelerada vai de t = 0 a t = 40 s, com a velocidade subindo de 0 a 10 m/s. A área é um triângulo:\nΔs = base · altura ÷ 2\nΔs = 40 · 10 ÷ 2\nΔs = 200 m\n\nConferindo pela aceleração:\na = 10 ÷ 40 = 0,25 m/s²\nΔs = a · t² ÷ 2 = 0,25 · 1600 ÷ 2 = 200 m\n\nA alternativa C (400 m) contaria o retângulo inteiro, sem dividir por 2.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:37": {
+   "resposta": "Equilíbrio de forças: a bolsa está parada, então as componentes verticais das trações nos dois ramos da alça equilibram o peso. O ângulo θ está entre cada ramo e a borda horizontal da bolsa, logo a componente vertical de cada tração é T·sen θ.\n\nDados: m = 1,6 kg; g = 10 m/s²; sen θ = 0,8\nPeso: P = 1,6 × 10 = 16 N\nEquilíbrio: 2·T·sen θ = P\n2·T·0,8 = 16\nT = 16 ÷ 1,6 = 10 N\n\nA alternativa de 16 N seria a tração se um único ramo sustentasse a bolsa na vertical; com dois ramos inclinados, cada um suporta 10 N.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:38": {
+   "resposta": "Calorimetria com fonte de potência constante: como o fluxo de calor é invariável, o calor recebido é proporcional ao tempo de exposição.\n\nÁgua: Q = m·c·Δθ = 100 × 1 × 20 = 2 000 cal em 5 min\nPotência da fonte: 2 000 ÷ 5 = 400 cal/min\nAmostra: em 1 min recebe 400 cal\n400 = 40 × c × 20\nc = 400 ÷ 800 = 0,5 cal/(g·°C)\n\nA capacidade térmica do recipiente é desprezível, então todo o calor vai para a água ou para a amostra.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:39": {
+   "resposta": "Lei de Coulomb: a força elétrica entre cargas pontuais é inversamente proporcional ao quadrado da distância (F = k·|q·Q| ÷ d²).\n\nDistância inicial: 1,2 × 10⁻² m\nDistância final: 0,4 × 10⁻² m → a distância fica 3 vezes menor\nA força fica 3² = 9 vezes maior\nF' = 9 × 20 = 180 N\n\nQuem pensa em proporção simples com a distância chegaria a 60 N, que não está entre as opções; o erro mais comum é esquecer o quadrado.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:40": {
+   "resposta": "Primeira e segunda leis de Ohm: a resistência de um fio de seção constante é proporcional ao seu comprimento (R = ρ·L ÷ A).\n\nQuando o anel toca o fio a 4 cm de A, o circuito se fecha passando só por esse trecho de 4 cm:\nR(4 cm) = U ÷ i = 3 ÷ 0,05 = 60 Ω\nO fio inteiro tem 60 cm, 15 vezes mais:\nR(60 cm) = 15 × 60 = 900 Ω\n\nOs outros elementos (fios, anel, amperímetro, fonte) são ideais, então toda a resistência do circuito está no trecho de 4 cm.\n\n**Resposta: A**",
    "confianca": "alta",
    "pendencia": null
   }

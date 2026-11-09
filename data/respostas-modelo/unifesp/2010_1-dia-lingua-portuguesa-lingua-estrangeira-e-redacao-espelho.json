@@ -1,0 +1,217 @@
+{
+ "indice": "data/questoes/unifesp/2010_1-dia-lingua-portuguesa-lingua-estrangeira-e-redacao-espelho.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "A questão pede a interpretação do eu lírico. O poema mostra o tio frágil: velho, ouvindo pouco, magro, sem camisa, com os pelos do peito embranquecidos. O \"mas\" de \"mas está aqui\" muda o rumo: apesar das limitações, ele está presente, e o diminutivo \"sentadinho\" revela ternura. O eu lírico, portanto, mostra a fragilidade do tio e o afeto por ele (B).\n\nA e E fazem leituras negativas que o poema não sustenta: as limitações são descritas sem queixa. C contradiz o texto, porque \"trocamos ideias\" indica aproximação; o parêntese \"(tentamos)\" só mostra a dificuldade, não distanciamento. D atribui ao tio qualidades que o verso não indica.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "A questão cobra a leitura conjunta de texto verbal e imagem numa charge.\n\nI está correta: \"já\" marca tempo e indica que algo mudou, sugerindo que a proporção de idosos chegou a um ponto antes não alcançado.\nII está correta: é justamente essa ideia de marca inédita que a frase \"Idosos já são 10% no país\" transmite.\nIII está correta: a imagem mostra o banco lotado e uma fila de velhinhos esperando lugar, recurso visual que reforça, com humor, o crescimento da população idosa.\n\nComo as três afirmações se sustentam, a alternativa correta é a que reúne I, II e III.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "A questão pede a ideia central do texto: a distância entre o que as empresas dizem e o que fazem.\n\nO autor critica as empresas que exibem palavras bonitas (\"sustentável\", \"responsabilidade social\") sem praticá-las de verdade: a que mal começou a coleta seletiva e já se diz sustentável, a que gasta mais em anúncios do que doou. Ele chama isso de \"oportunismo irresponsável\", ou seja, um discurso que não combina com a prática de quem o emite. É o que diz a alternativa C.\n\nA alternativa A inverte a relação: o uso de expressões vazias não coíbe o oportunismo, é a sua manifestação. B e E fogem do foco, e D fala em empresas \"engajadas\", o oposto do que o texto descreve.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "A questão cobra a interpretação de uma pergunta retórica e da ironia que ela carrega.\n\nAo perguntar \"O que dizer de uma empresa que mal começou a praticar coleta seletiva e já sai por aí se intitulando 'sustentável'?\", o autor critica a pressa em adotar o rótulo. \"Mal começou\" e \"já\" opõem uma prática incipiente a um título ambicioso. Fica implícito que a empresa deveria primeiro consolidar as práticas sustentáveis e só depois se definir (se intitular) como sustentável, que é o sentido da alternativa D.\n\nA está errada porque o autor defende justamente o real sentido do termo. B contraria a crítica: coleta seletiva sozinha não torna ninguém sustentável. E distorce o texto, que não condena a coleta seletiva, apenas o exagero do rótulo.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "A questão cobra o sentido de palavras pelo contexto.\n\n\"Mina\": o oportunismo \"mina a credibilidade de algo muito sério\"; minar, aqui, é corroer aos poucos, enfraquecer, ou seja, abalar.\n\"Efêmeras\": as expressões banalizadas ficam \"efêmeras, vazias\"; efêmero é o que dura pouco, passageiro.\n\nA alternativa A reúne os dois sentidos. As alternativas D e E trazem \"perenes\" e \"duradouras\", que são antônimos de efêmeras; B (\"mensuráveis\") e C (\"altera\") não correspondem ao sentido de nenhuma das duas palavras no trecho.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "A questão cobra um uso das aspas: marcar palavras que pertencem ao discurso de outra pessoa.\n\nNo texto, \"sustentável\" e \"responsabilidade social\" aparecem entre aspas porque são os rótulos que as próprias empresas usam para se apresentar. O autor reproduz esses termos para criticá-los, mostrando que não os assume nas condições em que são empregados; há até um tom irônico. Ou seja, as expressões não pertencem ao autor, mas ao discurso das empresas (alternativa A).\n\nNão são coloquialismos nem neologismos (são termos correntes do mundo corporativo), e o autor quer justamente mostrar que eles são usados de modo ambíguo e vazio, o que descarta C e D.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "A questão pede um título que sintetize os dados do infográfico.\n\nOs números apontam duas tendências: aumento da atividade sexual (9,3% tiveram mais de cinco parceiros casuais, alta de 132% em relação a 2004; 10,5% dos jovens fizeram sexo com alguém conhecido pela internet) e queda da proteção (uso de camisinha caiu 19%; boa parte dos que tiveram relações extraconjugais nem sempre usou preservativo). \"Muito sexo, pouca proteção\" resume as duas ideias (D).\n\nA contraria o aumento dos parceiros casuais. C é falsa: entre as mulheres o índice dos que nem sempre usaram camisinha é maior (75%). B não tem apoio nos dados, e E trata de um único item do quadro.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "A questão cobra a compreensão da tese de Jacinto, que está ligada ao cientificismo do século XIX.\n\nPara Jacinto, o homem só é \"superiormente feliz quando é superiormente civilizado\", isto é, quando soma às suas forças naturais as noções acumuladas desde Aristóteles e os mecanismos inventados pelo progresso. A fórmula de Jorge Calande (\"suma ciência × suma potência = suma felicidade\") condensa a ideia: felicidade é o resultado do máximo de conhecimento combinado com o máximo de poder técnico. Logo, a felicidade superior envolve conhecimento e progresso científico (C).\n\nAs demais alternativas contrariam a tese: ela não propõe dissimular a força, buscar a simplicidade nem separar progresso de filosofia ou se afastar dela.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "A questão pede uma inferência a partir da tese de Jacinto.\n\nSe a felicidade depende de somar ciência e potência, isto é, de usufruir de todos os mecanismos do progresso, a vida longe dele seria, na lógica de Jacinto, uma vida diminuída. Sem os inventos que multiplicam a força do corpo, restaria ao homem apenas o que ele consegue pensar: a vida ficaria muito limitada e reduzida à prática intelectual (A).\n\nAs alternativas B, C e D atribuem vantagens à vida sem progresso, o que é o oposto do que Jacinto pensa nesse momento do romance (a valorização do campo só vem no final). E erra ao dizer que a falta de progresso não afetaria a prática intelectual, já que, na fórmula, ciência e potência caminham juntas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:10": {
+   "resposta": "A questão relaciona o trecho de Eça ao Realismo e a outras obras.\n\nI está correta: o Realismo nasce em meio ao cientificismo do século XIX, e o trecho o comprova ao citar a vida intelectual de 1866 a 1875, os técnicos e filósofos e a fé no \"desenvolvimento da mecânica e da erudição\".\nIII está errada: Dom Casmurro escreve por tédio, tenta a erudição e desiste porque lhe faltam \"forças\"; não é alguém empenhado no progresso, nem candidato à felicidade de Jacinto.\nII: o gabarito a considera errada. A justificativa possível é que o trecho de Vidas Secas trata da aparência e da submissão social de Fabiano, sem falar de ciência nem de potência, critérios de Jacinto. Ainda assim, pela lógica de Jacinto, um homem à margem da civilização seria infeliz, e a II parece defensável.\n\n**Resposta: A**",
+   "confianca": "baixa",
+   "pendencia": "O gabarito dá só a I como correta, mas a afirmação II também parece correta pela tese de Jacinto (Fabiano vive à margem da civilização); a resolução não encontrou motivo sólido para descartá-la."
+  },
+  "0:11": {
+   "resposta": "A questão compara a visão da modernidade em Álvaro de Campos e no trecho de Eça.\n\nOs versos são uma exaltação das máquinas: interjeições (\"Eia!\") saúdam comboios, pontes, hotéis, aparelhos, brocas e máquinas rotativas. É a fase futurista (sensacionista) de Álvaro de Campos, que celebra a vida moderna e tecnológica. Esse entusiasmo se parece com o dos camaradas de Jacinto, que estavam \"largamente preparados\" para crer que a felicidade vinha do \"ilimitado desenvolvimento da mecânica e da erudição\" (D).\n\nA e C erram ao falar em rechaço ou reserva diante da modernidade. B e E descrevem os camaradas como românticos ou subjetivos, quando eles são deslumbrados com o progresso técnico.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "A questão pede a leitura do olhar do narrador, Zé Fernandes, sobre o Jacinto que se fixou em Tormes.\n\nJacinto agora vive no campo, casou-se, tem filhos, cuida da lavoura e faz \"palestras agrícolas, prudentes e sem quimeras\". É o oposto do Jacinto de Paris, obcecado por teorias e inventos. Zé Fernandes vê a mudança com simpatia, mas faz uma pequena ressalva: diz que o amigo começava a ficar \"monótono\" e que ele \"quase\" lamentava o Jacinto antigo, que planejava queijeiras de cristal. É exatamente o que diz a alternativa A: estilo de vida diferente, visto com bons olhos apesar de algum senão.\n\nB e D erram porque Jacinto abandonou, sim, os preceitos de Paris. C e E inventam sofrimento e condenação, que o trecho não mostra.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "A questão cobra a intertextualidade da tira com o \"Poema de sete faces\", de Carlos Drummond de Andrade.\n\nNo poema, que abre o primeiro livro de Drummond, um \"anjo torto\" anuncia ao poeta: \"Vai, Carlos! ser gauche na vida\". Ser gauche é ser desajeitado, deslocado, alguém que não se encaixa nas convenções sociais. A tira retoma a cena com o rato que ouve \"Vai ser rato de sebo na vida!\". A imagem do anjo torto se liga, portanto, a uma visão de vida à margem das convenções, que no Modernismo se estende à arte, livre das regras tradicionais (C).\n\nA e B dizem o contrário (aceitação e adequação às regras). D atribui ao poema o culto parnasiano da forma, que os modernistas rejeitavam. E erra ao dizer que o poeta segue temas tradicionais.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "A questão pede a comparação, feita pelo texto, entre a atuação das autoridades em 1918 e em 2009.\n\nNa gripe espanhola, mesmo com poucos recursos, as autoridades de Curitiba fecharam casas de espetáculos e proibiram aglomerações, até em templos e enterros. Agora, segundo o autor, elas estão \"permitindo a desinformação e o caos\": umas suspendem as aulas, outras criticam a medida, e os shoppings ficam lotados, o que anula o efeito da suspensão. Ou seja, no passado houve mais diligência; hoje as atitudes são pouco consistentes diante da gravidade da gripe A (E).\n\nA diz o contrário. B e D atribuem ao passado negligência e ineficácia que o texto não aponta. C elogia a ação atual, que o autor critica.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A questão pede o que o texto conclui sobre a situação do cidadão comum.\n\nO autor mostra autoridades que se contradizem (uma secretaria suspende as aulas, outra critica a medida e depois cede \"apenas para tranquilizar as famílias\") e especialistas que divergem sobre a gravidade da gripe A. Então pergunta: \"Quando nem as autoridades da saúde se entendem, como o cidadão pode ter uma orientação segura?\". Fica claro que falta ao cidadão informação clara e precisa sobre a doença (C).\n\nA e D dizem o contrário: o cidadão é afetado pelas contradições e não tem informação suficiente. B e E não têm apoio no texto: ninguém afirma que o cidadão distingue as gripes ou age com precipitação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A questão relaciona o título, \"sala de aula vazia, shopping cheio\", ao último parágrafo.\n\nO título já anuncia um paradoxo, e o último parágrafo o explica: as aulas foram suspensas para evitar aglomerações, mas os jornais noticiam que férias e chuva \"lotam shoppings de Curitiba\". Os alunos deixam a escola e vão para outro ambiente fechado e cheio, com risco \"igual ou maior\". É a contradição no comportamento das pessoas descrita em B.\n\nA fala em gastos com cuidados médicos, que o texto não menciona. C e D mudam o foco para a exploração comercial e a mobilização popular. E atribui a contradição a normas impostas à população, quando o parágrafo trata do efeito da suspensão das aulas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A questão cobra o valor semântico da palavra \"então\" no contexto.\n\nNo trecho \"ante os parcos recursos e conhecimentos médico-científicos de então\", a palavra vem depois de uma preposição e funciona como um adjunto que se refere a um tempo passado: \"de então\" equivale a \"daquela época\", 1918. Ela situa os recursos e conhecimentos no período da gripe espanhola, isto é, reporta ao sentido de época (E).\n\nNão indica causa nem modo, e não tem valor conclusivo (como em \"estudou; então passou\"). Trocá-la por \"agora\" inverteria o sentido, pois o texto contrapõe justamente aquela época ao século 21.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "A questão cobra concordância verbal e nominal.\n\nC está correta: o sujeito do verbo \"caber\" é composto e vem posposto (\"a orientação e a publicação de normas\"), por isso o verbo vai para o plural, \"cabem\".\n\nOs erros das outras:\nA: \"ficou proibidas as aglomerações\" deveria ser \"ficaram proibidas\", concordando com \"as aglomerações\".\nB: com o pronome \"se\" apassivador, o verbo concorda com a oração \"que... tenham sido vítimas\", que é singular: \"Estima-se\"; além disso, \"vítima\" deveria estar no plural.\nD: o sujeito \"Férias\" é plural, logo \"Férias lotam shoppings\".\nE: \"Existe divergências\" deveria ser \"Existem\", e \"a gripe A têm\" deveria ser \"tem\", no singular.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "A questão cobra o uso do acento indicativo de crase.\n\nNa manchete do jornal, \"às aulas de creches, ensino fundamental e médio... serão retomadas\" está errado. A expressão \"as aulas de creches...\" é o sujeito de \"serão retomadas\", e sujeito não é regido por preposição. Sem a preposição \"a\", não há crase: o certo é \"as aulas de creches\" (D).\n\nJá em \"voltam às aulas\" a crase está correta, pois quem volta, volta a algum lugar (preposição a + artigo as). O verbo \"voltam\" concorda com \"escolas\", \"Com a decisão\" está bem construído e \"próxima semana\" não tem erro.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "A questão cobra regência verbal, crase e o uso dos porquês.\n\n1º espaço: quem faz questão, faz questão de algo; logo, \"faço questão de que você assista\".\n2º espaço: \"assistir a um DVD\" pede a preposição \"a\"; antes de artigo indefinido masculino (\"um\") não há crase, então fica só \"a\".\n3º espaço: pergunta direta com o sentido de \"por qual motivo\": \"Por que você faz tanta questão assim?\", separado e sem acento, pois não está no fim da frase.\n4º espaço: resposta que dá a causa, conjunção explicativa: \"Porque você dorme!\", junto e sem acento.\n\nA sequência é \"de que, a, Por que, Porque\" (A). \"Por quê\" só leva acento no fim da frase, e \"à\" exigiria palavra feminina.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "A questão cobra a leitura de um trecho do \"Auto da Barca do Inferno\", de Gil Vicente, e o caráter satírico do seu teatro.\n\nO Frade chega ao julgamento acompanhado de uma dama e admite com naturalidade que ela é sua; ao ser perguntado se não o castigavam no convento, responde que os outros frades \"fazem outro tanto\". Gil Vicente, por meio do Diabo irônico (\"Que cousa tão preciosa!\"), satiriza o religioso que prega a castidade e vive o contrário, e com ele a corrupção do clero da época. É a censura à hipocrisia descrita em A.\n\nB e D veem no frade apego à fé, o que o texto desmente. C culpa a mulher, que nem fala. E erra ao dizer que os outros frades não faziam o mesmo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "A questão pede a leitura da relação entre trabalhar e pagar nos versos iniciais da canção.\n\nA repetição insistente de \"trabalha\" ocupa dois versos; o salário só chega no fim do mês e é logo consumido pela repetição de \"paga\", até quitar tudo o que se deve. O trabalho é muito, e o que sobra é nada: a relação é desigual, e o trabalho não aparece nem como vantajoso financeiramente nem como prazeroso (C). Isso ajuda a entender a fuga do trabalho no resto da letra.\n\nA, B e E veem equilíbrio, compatibilidade ou justiça, o oposto do que a repetição sugere. D fala em remuneração alta, que o texto não indica.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "A questão pede quais frases são incompatíveis com a visão de trabalho da canção, em que o eu arranja uma desculpa para não trabalhar em cada dia da semana.\n\nI é incompatível: o ditado valoriza o trabalho como algo que enobrece, e o eu da canção foge dele.\nII é compatível: querer que todo dia seja domingo é exatamente o desejo do eu da canção.\nIII é incompatível: o ditado premia quem se esforça e acorda cedo para trabalhar.\nIV também é incompatível: os versos de Caymmi chamam a atenção para o esforço que existe por trás do acarajé e do abará, reconhecendo o trabalho que as pessoas ignoram, enquanto a canção só quer escapar dele.\n\nComo a II é a única compatível, a resposta reúne I, III e IV (D); nenhuma outra alternativa exclui a II e inclui I e III.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "A questão cobra o valor da palavra \"só\" (advérbio de exclusão) no contexto.\n\nDizer \"no fim do mês recebe\" apenas informa quando o pagamento acontece. Com \"só\", a frase passa a enfatizar que o pagamento vem apenas no fim do mês, depois de muitos dias de trabalho repetido (\"trabalha, trabalha, trabalha\"). Fica evidente a ideia de espera longa, de demora (B).\n\nNão se trata de intensidade nem de rapidez (seria o contrário). O tempo é definido (\"no fim do mês\"), o que descarta C, e não há ideia de probabilidade, já que o pagamento é certo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "A questão cobra o valor da palavra \"que\" em dois contextos.\n\n1º caso, \"Não trabalho na sexta, que é dia de azar\": o \"que\" introduz o motivo de não trabalhar e equivale a \"porque\", \"pois\". É uma conjunção explicativa.\n2º caso, \"Tenho que descansar\": na locução verbal \"ter que + infinitivo\", o \"que\" faz o papel da preposição \"de\"; a forma recomendada pela gramática normativa é \"tenho de descansar\".\n\nPor isso a alternativa E está correta. A trata o primeiro \"que\" como pronome relativo, mas ele não retoma \"sexta\" (não é \"na qual é dia de azar\"). As outras alternativas atribuem valores de conclusão, tempo ou oposição, que não aparecem.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:27": {
+   "resposta": "A questão cobra o reconhecimento do anacoluto: um termo começa a frase e fica solto, sem função sintática, porque a construção muda no meio do caminho.\n\nIII é anacoluto: \"No berço, pendente dos ramos floridos, / Em que eu pequenino feliz dormitava\" abre o período, mas a frase se reorganiza na pergunta \"Quem é que esse berço... embalava?\". O termo inicial fica desligado, sem papel na oração final.\nI é hipérbato (inversão da ordem direta: \"Mas esse astro que fulgente brilhara à frente das águias baixou do Capitólio\"), sem ruptura sintática.\nII é pleonasmo: \"Meu saco de ilusões\" é retomado pelo pronome \"o\" em \"tive-o\"; o termo antecipado continua tendo função de objeto direto, só que repetida.\n\nLogo, o anacoluto aparece apenas em III (C).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "A questão cobra a passagem do discurso direto para o indireto.\n\nNo discurso direto, a mãe dá uma ordem ao filho: \"Anacoluto, traz água pro moço\". No indireto, o vocativo deixa de ser uma interpelação e vira informação (o nome do filho), e o imperativo passa a uma oração subordinada com o verbo no pretérito imperfeito do subjuntivo, \"que lhe trouxesse água\"; \"pro moço\" vira o pronome \"lhe\". A alternativa A faz tudo isso corretamente, usando \"cujo nome era Anacoluto\".\n\nB mantém \"traga\" no presente, incompatível com \"ouviu\" no passado. C troca a pessoa (\"me trouxesse\"), como se Bandeira narrasse. D conserva o imperativo \"traz\", próprio do discurso direto. E usa \"que o nome era\" no lugar de \"cujo nome era\", construção condenada pela norma-padrão.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "A questão pede o reconhecimento do estilo dos versos de Fagundes Varela.\n\nOs versos falam de ideias atrozes, febre e vertigem, pedem o \"sono da sepultura\" e terminam perguntando quando chegará a vez do eu lírico morrer. São marcas da segunda geração romântica (ultrarromântica), influenciada pelo \"mal do século\": tédio, sofrimento, subjetivismo exagerado e desejo de morte como fuga (B). Varela pertence a essa geração.\n\nA natureza não aparece como refúgio árcade, mas como espelho da morte. Não há temática social (condoreirismo) nem culto da forma (Parnasianismo). E o pessimismo não leva à transcendência simbolista: o desejo é o fim de tudo, a sepultura.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "A questão cobra a visão naturalista do ser humano em \"O Cortiço\".\n\nPombinha entende que os homens, \"escravos ridículos\", se deixam dominar pela mulher por causa do desejo, gastando honra, bens e até a vida. É a concepção naturalista do homem como animal, governado pelos instintos, sobretudo o sexual. A partir disso, ela se sente superior ao \"outro sexo\" e percebe que a sexualidade pode ser usada para obter vantagens, o que antecipa seu destino no romance (E).\n\nA erra ao dizer que o Naturalismo condena temas repulsivos sem base científica; ele os explora apoiado nas teorias da época. B fala em instintos controlados, contrário ao determinismo. C e D atribuem ao trecho um conflito com o Naturalismo e uma visão idealizada que não existem.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "Leitura de texto em inglês: a questão cobra o primeiro parágrafo.\n\nO texto diz que, segundo Angus Maddison, a expectativa de vida no primeiro milênio d.C. ficava em torno de 25 anos, o que significava, na prática, que muitas crianças morriam bem cedo (\"lots of children died very young\"). Ou seja, a expectativa era baixa por causa da alta mortalidade infantil, segundo uma estimativa (D).\n\nA troca \"primeiro milênio\" por \"Idade Média\". B e E ligam saneamento e revolução industrial ao primeiro milênio, quando o texto os associa à grande virada posterior, com a industrialização. C não tem apoio no texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Leitura de texto em inglês: a questão cobra o segundo parágrafo.\n\nNo início do século XX, a expectativa de vida nos EUA e nas partes mais ricas da Europa estava perto de 50 anos e continuou subindo. Até meados do século, os ganhos vieram da menor mortalidade infantil (\"lower child mortality\"); depois, os anos extras vieram da maior sobrevivência dos mais velhos (\"higher survival rates among older people\"). É o que resume a alternativa B.\n\nA fala em \"maioria dos europeus\", mas o texto cita só as regiões mais ricas, e perto de 50, não acima. C distorce os números (68 é a média mundial atual, para ambos os sexos). D confunde dados, e E inventa a causa das guerras, já que o texto diz que o motivo da maior longevidade feminina ainda não foi descoberto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Leitura de texto em inglês: a questão cobra a referência de um pronome possessivo.\n\nO trecho completo é \"Most experts now agree that there will be further rises, but disagree about their extent\": a maioria dos especialistas concorda que haverá novos aumentos (da expectativa de vida), mas discorda quanto à extensão deles. O que tem extensão são os aumentos, \"further rises\" (E).\n\n\"Most experts\" é o sujeito de \"agree\" e \"disagree\", não o dono da extensão. \"Averages\", \"men and women\" e \"life expectancy\" estão em frases anteriores; além disso, \"life expectancy\" é singular e não combinaria com \"their\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Leitura de texto em inglês: a questão pede um dos argumentos de quem acredita que a vida humana tem limite.\n\nO terceiro parágrafo começa com esses especialistas: \"the human lifespan is finite because bodies, in effect, wear out\", isto é, a vida é finita porque o corpo, na prática, se desgasta. \"Wear out\" significa desgastar-se com o uso e o tempo, o que corresponde à alternativa A.\n\nAs outras distorcem o texto: doenças crônicas como câncer e diabetes são citadas por serem difíceis de tratar, não por falta de estudos (B); pandemias e desastres naturais são mencionados como ameaças, sem comparação entre eles nem afirmação sobre \"regiões do mundo\" (C e D). E contraria o argumento.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "Leitura de texto em inglês: a questão cobra o sentido de \"best-performing country\" no contexto.\n\nOeppen e Vaupel montaram uma série desde 1840 juntando, a cada época, os dados do país que tinha o recorde de longevidade (\"whatever country was holding the longevity record at the time\"). A previsão de que, em 2050, a expectativa de vida no \"best-performing country\" chegue perto dos 95 anos (\"mid-90s\") se refere, portanto, ao país que estiver com o recorde de longevidade naquele ano (B).\n\nO critério não é riqueza (A) nem número de idosos acima de 90 anos (C). Os \"três meses por ano\" descrevem o ritmo da linha de tendência, não uma condição para o país (D), e E não tem sentido, pois 2050 é previsão.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Leitura de texto em inglês: a questão pede a posição de Jay Olshansky.\n\nJames Fries fixou um teto de 85 anos para a média potencial da vida humana. A equipe de Olshansky disse que essa média continuaria travada (\"would remain stuck there\"), a menos que o próprio envelhecimento pudesse ser controlado (\"unless the ageing process itself can be brought under control\"). Ou seja, ele concorda com Fries, mas faz uma ressalva (A).\n\nB está errada: para Olshansky, nenhuma técnica disponível hoje (estilo de vida, remédios, cirurgia, genética) reduziria a mortalidade dos idosos o bastante. C exagera: ele fala das técnicas atuais e não afirma que nenhuma técnica jamais prolongará a vida. D e E não estão no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:37": {
+   "resposta": "Leitura de texto em inglês: a questão pede a relação entre Fries e a pesquisa de Oeppen e Vaupel.\n\nFries estabeleceu um limite de 85 anos para a média potencial de vida. Oeppen e Vaupel, ao contrário, mostraram que a linha de tendência do recorde de longevidade sobe sem parar, cerca de três meses por ano desde 1840, e preveem que o país recordista chegue perto dos 95 anos em 2050. O próprio texto introduz essa pesquisa dizendo que \"the evidence points the other way\". Eles divergem, portanto, quanto ao limite da expectativa de vida (C).\n\nA e E dizem o contrário. B não corresponde a nenhum dos dois, e D também está errada, porque a pesquisa de Oeppen e Vaupel contraria a visão de Olshansky.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:38": {
+   "resposta": "Leitura de texto em inglês: a questão cobra o sentido de \"such as\".\n\nNo trecho \"health threats, such as HIV/AIDS, SARS, bird flu and swine flu\", a expressão introduz exemplos de ameaças à saúde e equivale a \"como\", \"por exemplo\". O equivalente em inglês é \"like\" (D): \"health threats, like HIV/AIDS...\".\n\nAs outras não servem: \"rather than\" significa \"em vez de\"; \"furthermore\", \"além disso\"; \"because of\", \"por causa de\"; e \"how is\" (\"como é\") não introduz exemplos e deixaria a frase sem sentido.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:39": {
+   "resposta": "Leitura de texto em inglês: a questão cobra o sentido de \"thanks to\".\n\nNo primeiro parágrafo, o texto diz que muito mais crianças sobreviveram até a vida adulta \"thanks to better sanitation, more control over epidemics, improved nutrition and higher living standards\". \"Thanks to\" significa \"graças a\", \"por causa de\": introduz os motivos que levaram ao aumento da sobrevivência. Indica, portanto, causa (B).\n\nA lista que vem depois é uma enumeração, mas o que a expressão marca é a relação de causa. A consequência é a sobrevivência das crianças, que vem antes, e não há conclusão nem exemplificação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:41": {
+   "resposta": "Leitura de texto em inglês: a questão pede o que o texto diz sobre a geração \"boomer\" (nascidos no pós-guerra).\n\nO segundo parágrafo afirma que essa geração está entrando na aposentadoria \"undersaved and in need of continued employment\", isto é, com poupança insuficiente e precisando continuar trabalhando. É o que diz a alternativa C.\n\nA distorce o texto: os boomers querem reduzir horas e estresse e alguns trocariam salário alto por trabalho com sentido, mas o texto não diz que eles não querem se aposentar. B, D e E não aparecem: a competição com recém-formados não é mencionada, \"reinventing themselves\" se refere a quem está na meia-idade e encontra vagas, e a troca de riqueza por plano de saúde não é atribuída aos boomers.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:42": {
+   "resposta": "Leitura de texto em inglês: a questão cobra a referência de um pronome.\n\nO trecho completo é \"our job market will also reward those who place a higher value on intangibles, and it will do so without relegating those people to a life of need\": o mercado de trabalho também vai recompensar quem valoriza os benefícios intangíveis, e fará isso sem condenar essas pessoas a uma vida de necessidade. O sujeito que \"fará isso\" (it will do so) é o mesmo que recompensa: \"our job market\" (A).\n\n\"Go-getters\" e \"dreams of wealth\" estão no plural e pertencem à frase anterior; \"intangibles\" também é plural; e \"American\" não aparece como substantivo a que \"it\" possa se referir.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:43": {
+   "resposta": "Leitura de texto em inglês: a questão pede um dos setores com boas oportunidades de emprego.\n\nNo último parágrafo, o autor lista onde estão os empregos: tecnologias verdes, governo, educação, infraestrutura (\"Think infrastructure, where much of the President's nearly $800 billion stimulus effort will be focused\"), avaliação e controle de riscos e saúde. Entre as alternativas, a única que aparece nessa lista é \"infrastructure\" (D).\n\n\"Industry\" não é citada. \"Job security\" é um dos fatores de satisfação no trabalho, não um setor. \"Midlife retirement\" não existe no texto. E \"chastened financial system\" é o contexto em que se valoriza a área de risco; a oportunidade está em \"risk assessment and controls\", não no sistema financeiro em si.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:44": {
+   "resposta": "Leitura de texto em inglês: a questão cobra vocabulário e a relação de causa no último parágrafo.\n\nO texto diz que a saúde está em expansão \"as boomers grow fitfully into old age\": a área cresce porque os boomers estão envelhecendo, com problemas de saúde. A frase a completar diz que esse envelhecimento é um bom ___ para escolher a saúde como área promissora. A palavra que dá sentido é \"reason\", motivo: \"a good reason for choosing health care\" (E).\n\n\"Payment\", \"job\" e \"change\" não fazem sentido na expressão \"a good ___ for choosing\". \"Alternatively\" é advérbio e não pode vir depois de \"a good\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

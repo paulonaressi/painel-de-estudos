@@ -1,0 +1,122 @@
+{
+ "indice": "data/questoes/unifesp/2020_1-dia-lingua-portuguesa-e-lingua-inglesa-objetiva-e-redacao.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:1": {
+   "resposta": "Leitura de cartum: identificar o que a casa simboliza.\n\nA legenda diz, em tradução livre, \"guardando meu tempo sozinha e meu espaço pessoal\". A personagem está de sentinela, com uma espada, diante da casa. A casa, portanto, representa aquilo que ela protege: o tempo a sós e o espaço pessoal, isto é, a sua **privacidade**.\n\nA alternativa mais tentadora é \"segurança\", mas a segurança é a atitude da guarda (a espada, a vigilância), não o que a casa representa. Intimidação e violência descrevem, no máximo, o gesto da personagem; hospitalidade é o oposto da ideia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "Compreensão do conceito de polidez em Sérgio Buarque de Holanda.\n\nO autor define a polidez como \"organização de defesa ante a sociedade\", algo que fica na parte exterior do indivíduo e \"equivale a um disfarce\"; no parágrafo seguinte, fala em \"máscara\". A alternativa B é a única que retoma essas ideias: a polidez como máscara de defesa diante da sociedade.\n\nAs demais contrariam o texto: lhaneza, hospitalidade e generosidade não são civilidade (A) nem mandamentos (D) — o autor diz que são expressões de um fundo emotivo; a confusão com a reverência religiosa é atribuída aos japoneses (C); e a polidez é exterior, não uma qualidade íntima (E).\n\n**Resposta: B**",
+   "confianca": "media",
+   "pendencia": "No texto, a polidez é apresentada como o contrário do modo brasileiro de convívio; a alternativa B fala em 'brasileiros', o que é discutível, mas é a única que retoma a ideia de máscara e defesa."
+  },
+  "0:3": {
+   "resposta": "Relacionar o argumento do último parágrafo a uma citação de Nietzsche.\n\nO autor diz que, para o \"homem cordial\", a vida em sociedade liberta do pavor de viver consigo mesmo: ele não se apoia em si próprio e passa a \"viver nos outros\". Há, portanto, uma incapacidade de ficar só, ligada a uma relação frágil consigo mesmo.\n\nA frase de C diz que o mau amor por si mesmo transforma o isolamento em cativeiro: quem não se aceita não suporta a solidão — exatamente a ideia do parágrafo. As outras citações tratam de amor exclusivo, seres imaginários, perdão ou medo como fator de compreensão, temas ausentes do trecho.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "Relação de sentido entre palavras: qual termo é o mais abrangente (hiperônimo) no contexto.\n\nNo primeiro parágrafo, lhaneza, hospitalidade e generosidade são apresentadas como \"um traço definido do caráter brasileiro\"; civilidade e polidez são formas de comportamento social; veneração é uma forma específica de manifestar respeito.\n\n\"Caráter\" é o termo mais genérico: designa o conjunto de traços de um povo, dentro do qual se encaixam a lhaneza e as demais virtudes citadas. Os outros termos nomeiam comportamentos ou atitudes particulares.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:6": {
+   "resposta": "Reconhecer o tema do carpe diem (\"aproveita o dia\") na lírica árcade de Gonzaga.\n\nNa alternativa E, o eu lírico convida a amada a gozar o presente enquanto os \"Destinos impiedosos\" ainda não se voltaram contra o casal: o verbo repetido no imperativo (\"façamos\") e a expressão \"breves dias\" deixam explícitas a fugacidade do tempo e a urgência de aproveitá-lo.\n\nAs outras estrofes tratam de invocação ao Amor para escrever (A), sofrimento amoroso (B), valor do afeto da pastora acima da riqueza (C) e envelhecimento causado pelos sofrimentos (D), que se aproxima do tema do tempo, mas sem o convite a aproveitar o presente.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "Interpretação do sentimento do personagem diante da obra de Van Gogh.\n\nO pintor fracassado afirma que, enquanto existirem as telas de Van Gogh, ele não poderá \"dar vazão\" ao seu instinto criador. Ou seja, a existência das obras o impede de criar: ele se sente travado, bloqueado. Essa sensação é de **inibição**.\n\nNão há temor (ele não tem medo das telas, quer destruí-las), nem devoção ou submissão (ele odeia o artista), nem indiferença (ele está obcecado pelas obras).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "Figura de linguagem: metonímia é o uso de um termo no lugar de outro com o qual mantém relação de proximidade, como autor pela obra.\n\nEm \"um tipo de cupim que só queria comer Van Gogh\", o nome do pintor está no lugar das suas telas: os cupins comeriam os quadros, não o artista. É o caso clássico de autor pela obra.\n\nNão é personificação, pois \"queria\" atribuído a insetos é apenas expressão de preferência alimentar; nem hipérbole, já que não há exagero intencional.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:9": {
+   "resposta": "Passagem do discurso direto para o indireto: verbos recuam no tempo e pronomes de 1ª pessoa passam para a 3ª.\n\nEm discurso indireto, a frase ficaria introduzida por \"dizia que\": \"enquanto existissem no mundo aqueles girassóis..., não poderia jamais dar vazão ao seu instinto criador\".\n- \"existirem\" (futuro do subjuntivo) → \"existissem\" (pretérito imperfeito do subjuntivo);\n- \"poderei\" (futuro do presente) → \"poderia\" (futuro do pretérito);\n- \"meu\" → \"seu\".\n\nA alternativa D usa \"dele\", o que tornaria a referência ambígua, e mantém os tempos do discurso direto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:11": {
+   "resposta": "Valor semântico de prefixos: negação e repetição.\n\n- \"deformados\": o prefixo de- indica privação, negação ou afastamento da forma (sem a forma original).\n- \"recobertas\": o prefixo re- indica repetição ou reforço (cobertas de novo, por cima).\n\nNas outras opções, \"repulsivo\" não tem re- de repetição (vem de \"repulsa\", repelir), e \"insuspeitados\" tem in- de negação, mas aparece emparelhado com palavras que não exprimem repetição. Só a combinação \"deformados\" e \"recobertas\" atende às duas ideias, na ordem pedida.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:12": {
+   "resposta": "Pontuação e ordem inversa: identificar a vírgula que separa o sujeito deslocado para o fim.\n\nEm \"Deu-lhe muito trabalho, aquilo\", o sujeito de \"deu\" é \"aquilo\" (aquilo deu-lhe muito trabalho). Ele foi posposto ao verbo e ao complemento, e a vírgula marca esse deslocamento.\n\nNas demais, as vírgulas separam adjunto adverbial anteposto (B e E, \"Em vez de...\", \"Para isso\"), orações coordenadas (C) ou oração reduzida de gerúndio e aposto (D); nenhuma isola o sujeito.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:13": {
+   "resposta": "Literatura: o poema \"Os sapos\" (1918), lido na Semana de Arte Moderna de 1922, satiriza a estética parnasiana.\n\nO \"sapo-tanoeiro\" se gaba do verso \"martelado\", de evitar hiatos, de nunca rimar termos cognatos, de fazer rimas com \"consoantes de apoio\" e de ter reduzido \"a formas a forma\". São os traços do Parnasianismo: culto da forma, rigor métrico, rima rica e obsessão pela perfeição técnica. O verso final, \"Não há mais poesia / Mas há artes poéticas\", ironiza a troca da emoção pela regra.\n\nBandeira, que se tornaria modernista, ataca exatamente os parnasianos, e não os românticos, que valorizavam a liberdade expressiva.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Linguagem figurada: identificar a passagem que reforça o caráter transgressor da teoria.\n\nDarwin diz estar quase convencido de que as espécies não são imutáveis e acrescenta, entre parênteses, que dizer isso é \"como confessar um homicídio\". A comparação mostra o quanto a ideia rompia com a crença dominante (a fixidez das espécies criadas por Deus): admiti-la parecia confessar um crime grave.\n\nAs outras passagens falam do esforço do trabalho (B, D), da rejeição a Lamarck (A) ou de mudança de opinião (E), sem a força figurada de transgressão.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "Relação lógica entre orações: a conjunção \"embora\" introduz concessão.\n\nDarwin afirma que suas conclusões não diferem muito das de Lamarck e, em seguida, faz uma ressalva: \"embora a forma da mudança difira inteiramente\". A oração apresenta um fato contrário à ideia principal que, no entanto, não a anula — a semelhança geral se mantém apesar da diferença no mecanismo.\n\n\"Embora\" pode ser trocado por \"ainda que\" ou \"apesar de que\", conectivos concessivos; não há ideia de causa, consequência, comparação ou conclusão.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Interpretação de cartum em inglês.\n\nA legenda diz: \"Na internet, ninguém sabe que você é um cachorro\". O cachorro escuro está diante do computador, explicando ao outro que ali ele pode navegar sem que percebam o que ele é. A graça está no anonimato da rede: quem está do outro lado da tela não vê quem você realmente é.\n\nPor isso, o sentido é que usuários da internet podem se comunicar sem revelar a identidade. Não há imitação de humanos como tema (A), surpresa com o que se viu (C), nem relação com o outro cachorro nunca ter usado a internet (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Função da fala no cartum.\n\nO cachorro escuro, sentado ao computador, responde à curiosidade do outro cachorro, que o observa: diz que, na internet, ninguém sabe que ele é um cachorro. A frase explica por que ele pode estar usando a rede, apesar de ser um animal — é uma **justificativa** (\"providing a justification\").\n\nNão é pedido de desculpas (apology), ordem (order), relato de fatos (report) nem citação de outra pessoa (quotation): é o próprio cachorro dando a razão de sua atitude.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Leitura de texto e gráfico em inglês.\n\nO primeiro parágrafo informa que 69% dos adultos americanos usam o Facebook e que o YouTube é \"even more popular\" (\"ainda mais popular\"), com 73% dos adultos assistindo a vídeos na plataforma. No gráfico 1, a linha verde do YouTube fica acima da do Facebook em 2018–2019.\n\nAssim, a plataforma mais popular entre adultos é o YouTube. O Facebook é a alternativa tentadora, mas lidera apenas em tempo médio de uso (gráfico 2), não em número de usuários.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Referência textual: a quem retoma \"these users\".\n\nO trecho diz que 69% dos adultos americanos usam o Facebook; \"of these users, more than half visit the site several times a day\" — \"desses usuários, mais da metade visita o site várias vezes ao dia\". \"These users\" retoma, portanto, os 69% de adultos que usam o Facebook.\n\nA alternativa D confunde o referente com a parte (\"mais da metade\") que se refere a ele; a E descreve justamente esse subgrupo, não o grupo retomado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Relacionar dado do texto ao gráfico.\n\n\"Fewer than one in ten had an Instagram account\" significa \"menos de um em cada dez tinha conta no Instagram\", ou seja, menos de 10% dos adultos. O texto situa esse dado em 2012, quando a pesquisa começou.\n\nNo gráfico 1 (parcela de adultos que usam cada site), a curva do Instagram começa em 2012 abaixo de 10%, praticamente junto à do Pinterest. O gráfico 2 mede minutos por dia e começa em 2014, então não serve para essa informação.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Compreensão do segundo parágrafo.\n\nO parágrafo cita pesquisas segundo as quais limitar o uso de redes sociais reduziu \"loneliness, depression, anxiety and fear\" (solidão, depressão, ansiedade e medo) e outra que ligou o uso intenso à depressão, por causa da comparação social. Todos esses pontos dizem respeito à **saúde mental** (\"mental health\").\n\nIdentidades falsas, privacidade, perda da realidade e procrastinação não são mencionadas no trecho.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "Compreensão de detalhe do texto.\n\nO artigo da Universidade da Pensilvânia concluiu que limitar o uso de redes sociais a 10 minutos por dia levou a reduções de solidão, depressão, ansiedade e medo. Em outras palavras, reduzir o tempo de uso melhora a saúde — alternativa C.\n\nA alternativa A inverte o resultado (a interrupção não causou esses sintomas, reduziu-os). E transforma o resultado em recomendação para jovens, o que o texto não diz; D atribui um erro ao estudo de 2014, que na verdade é apresentado como outra evidência.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "Vocabulário e verbos modais em inglês.\n\n\"Might yield\" significa \"poderia render/gerar\": \"might\" exprime possibilidade, e \"yield\", no contexto de \"health benefits\", quer dizer produzir, proporcionar. O equivalente é \"could produce\" (\"poderia produzir\").\n\n\"Should impair\" e \"can damage\" têm sentido oposto (prejudicar); \"must deliver\" exprime obrigação ou certeza, e \"will bring\" exprime certeza futura — ambos eliminam a ideia de mera possibilidade.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "Conectivo de causa em inglês.\n\n\"Due to\" significa \"devido a, por causa de\": o elo entre uso intenso das redes e depressão se deve, em grande parte, ao fenômeno da comparação social. O equivalente é \"as a result of\" (\"como resultado de\").\n\n\"In spite of\" é concessivo (\"apesar de\"), \"apart from\" significa \"além de / exceto\", \"instead of\" é \"em vez de\" e \"in order to\" indica finalidade (\"a fim de\").\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:25": {
+   "resposta": "Função de um trecho no texto.\n\nO termo \"social comparison phenomenon\" aparece entre aspas e é logo explicado pela oração introduzida por \"whereby\" (\"pela qual\"): os usuários se comparam aos outros e saem com uma avaliação pior de si mesmos. A parte sublinhada esclarece o sentido da expressão anterior, ou seja, tem função de **elucidação**.\n\nNão é suposição nem opinião do autor, já que descreve o que a pesquisa identificou; e não é síntese, pois não resume o parágrafo, apenas define um conceito.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

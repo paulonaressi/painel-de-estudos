@@ -46,7 +46,7 @@
     prova: salvo.prova === 'vunesp' ? 'vunesp' : 'enem',
     enem: {
       anos: ENEM.ANOS_PADRAO,
-      ano: ENEM.ANOS_PADRAO.includes(salvo.ano) ? salvo.ano : ENEM.ANOS_PADRAO[0],
+      ano: ENEM.ANOS_PADRAO.includes(salvo.ano) ? salvo.ano : ENEM.ANOS_PADRAO[0], // número ou "2024-reaplicacao"
       area: ENEM.AREAS.some(a => a.id === salvo.area) ? salvo.area : 'linguagens',
       idioma: salvo.idioma === 'espanhol' ? 'espanhol' : 'ingles',
       filtro: 'todas',
@@ -320,9 +320,9 @@
   // ---------- ENEM: telas ----------
   function sidebarEnem() {
     const e = estado.enem;
-    const selAno = h('select.select', { 'aria-label': 'Ano da prova', onchange: ev => trocarAno(+ev.target.value) },
+    const selAno = h('select.select', { 'aria-label': 'Ano da prova', onchange: ev => trocarAno(ENEM.provaDoValor(ev.target.value)) },
       e.anos.map(ano => {
-        const op = h('option', { value: ano }, `ENEM ${ano}${e.anosComResolucao.includes(ano) ? ' · com resoluções' : ''}`);
+        const op = h('option', { value: ano }, `${ENEM.rotulo(ano)}${e.anosComResolucao.includes(ano) ? ' · com resoluções' : ''}`);
         op.selected = ano === e.ano;
         return op;
       }));
@@ -416,15 +416,15 @@
   function enunciadoRedacaoEnem() {
     const e = estado.enem;
     const wrap = h('div.q-wrap', null,
-      h('p.crumbs', null, `ENEM ${e.ano}`, h('span.sep', null, '·'), 'Redação'),
+      h('p.crumbs', null, ENEM.rotulo(e.ano), h('span.sep', null, '·'), 'Redação'),
       h('div.q-title-row', null, h('h1', null, 'Proposta de redação')));
     if (e.redacao === undefined) {
       wrap.append(h('div.skel', { 'aria-hidden': 'true' }, Array.from({ length: 9 }, () => h('i'))));
     } else if (!e.redacao) {
-      wrap.append(h('div.estado', null, h('h2', null, 'Proposta indisponível'), h('p', null, `Não encontrei a proposta de redação do ENEM ${e.ano}.`)));
+      wrap.append(h('div.estado', null, h('h2', null, 'Proposta indisponível'), h('p', null, `Não encontrei a proposta de redação do ${ENEM.rotulo(e.ano)}.`)));
     } else {
       wrap.append(
-        BQ.recortes.montar(e.redacao.pdf, [{ rotulo: null, recortes: e.redacao.recortes }], `Proposta de redação do ENEM ${e.ano}, reproduzida do caderno de prova`),
+        BQ.recortes.montar(e.redacao.pdf, [{ rotulo: null, recortes: e.redacao.recortes }], `Proposta de redação do ${ENEM.rotulo(e.ano)}, reproduzida do caderno de prova`),
         h('p.nota-rodape', null, 'Reproduzida do caderno azul do INEP. ',
           h('a', { href: e.redacao.pdf, target: '_blank', rel: 'noopener noreferrer' }, 'Abrir o caderno completo')));
     }
@@ -436,7 +436,7 @@
     if (e.verRedacao) return enunciadoRedacaoEnem();
     const area = ENEM.AREAS.find(a => a.id === e.area);
     const wrap = h('div.q-wrap', null,
-      h('p.crumbs', null, `ENEM ${e.ano}`, h('span.sep', null, '·'), area.nomeLongo));
+      h('p.crumbs', null, ENEM.rotulo(e.ano), h('span.sep', null, '·'), area.nomeLongo));
 
     if (e.carregando) {
       wrap.append(
@@ -495,7 +495,7 @@
         BQ.recortes.montar(q.pdf, [
           { rotulo: q.apoio.length ? 'Texto de apoio' : null, recortes: q.apoio },
           { rotulo: null, recortes: q.recortes },
-        ], `Questão ${q.numero} do ENEM ${q.ano}, reproduzida do caderno de prova`),
+        ], `Questão ${q.numero} do ${ENEM.rotulo(q.ano)}, reproduzida do caderno de prova`),
         h('p.nota-rodape', null, 'Reproduzida do caderno azul do INEP. ',
           h('a', { href: q.pdf, target: '_blank', rel: 'noopener noreferrer' }, 'Abrir o caderno completo')));
       return wrap;
@@ -523,14 +523,14 @@
   function linkDeBusca(q) {
     const trecho = (q.comando || q.contexto || q.texto || '').replace(/!\[[^\]]*\]\([^)]*\)/g, ' ').replace(/[*_#>\[\]()]/g, ' ')
       .split(/\s+/).filter(Boolean).slice(0, 12).join(' ');
-    return 'https://www.google.com/search?q=' + encodeURIComponent(`ENEM ${q.ano} resolução comentada ${trecho}`);
+    return 'https://www.google.com/search?q=' + encodeURIComponent(`${ENEM.rotulo(q.ano)} resolução comentada ${trecho}`);
   }
 
   function respostaRedacaoEnem() {
     const id = `enem:${estado.enem.ano}:redacao`;
     const reg = store.get(id) || {};
     return [h('div.card', null,
-      h('h2', null, 'Sua redação', h('span.tag', null, `ENEM ${estado.enem.ano}`)),
+      h('h2', null, 'Sua redação', h('span.tag', null, ENEM.rotulo(estado.enem.ano))),
       campoDeTexto(null, reg.texto, 'Escreva sua redação… (até 30 linhas na folha oficial)',
         valor => { store.set(id, { texto: valor }); }, 'alto'),
       h('p.nota-rodape', null, 'Salvo automaticamente neste navegador.')),

@@ -54,7 +54,8 @@ def main():
     if not args or '--ano' not in args:
         sys.exit('uso: python3 ferramentas/resolucoes/validar.py <pasta> --ano <ano> [--mostrar area:numero ...] [--gravar [--parcial]]')
     pasta = Path(args[0])
-    ano = int(args[args.index('--ano') + 1])
+    ano = args[args.index('--ano') + 1]
+    ano = int(ano) if ano.isdigit() else ano  # aplicação extra: "2024-reaplicacao", "2025-belem"
 
     entregues = {}
     completo = True
@@ -105,7 +106,8 @@ def main():
 
         arquivo_indice = destino / 'indice.json'
         indice = ler(arquivo_indice) if arquivo_indice.exists() else {}
-        indice['enem'] = sorted(set(indice.get('enem', [])) | {ano}, reverse=True)
+        # mais recente primeiro; no mesmo ano, a regular (número) antes das aplicações extras (texto)
+        indice['enem'] = sorted(set(indice.get('enem', [])) | {ano}, key=lambda p: (-int(str(p)[:4]), isinstance(p, str), str(p)))
         gravar(arquivo_indice, json.dumps(indice))
         print(f'gravado: {len(questoes)} questões em data/resolucoes/enem-{ano}.json; anos com resolução: {indice["enem"]}')
 

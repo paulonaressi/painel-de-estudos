@@ -92,6 +92,22 @@ incompleto. 2009: gabarito com as quatro cores em colunas. Anuladas: 157 (2022);
 bate com a do caderno azul (178 conferidas por texto); a API não tem a 34 nem a 174 de 2023. Em 2022 as 185 conferem, inclusive inglês e espanhol. O `fetch` do Node falhou para
 `download.inep.gov.br` no Windows (causa não investigada); `curl` funciona.
 
+**Reaplicação e aplicação de Belém (09/11/2026, trazidas da versão corp)**: cada aplicação extra é uma
+"prova" própria do ano, com chave em texto `"<ano>-reaplicacao"` ou `"2025-belem"` (a regular continua
+número). Vale para dados (`data/enem/2024-reaplicacao.json`, com `prova` e `aplicacao`), ids
+(`enem:2024-reaplicacao:91`), resoluções (`enem-2024-reaplicacao.json`; `indice.json` mistura números e
+textos: mais recente primeiro, a regular antes das extras) e progresso. Em `js/enem.js`:
+`PROVAS_EXTRAS`, `rotulo()` ("ENEM 2024 · reaplicação"), `ordenarProvas`, `provaDoValor` (lê o
+`<select>` e o localStorage), `anoDaProva`. No extrator, `chave_da_prova` decide pelo nome do arquivo:
+`<ano>_PV_reaplicacao_PPL_D1_CD1`/`D2_CD7` (2021–2024) e, em 2025, dias numerados seguidos:
+`D3_CD1`/`D4_CD7` = Belém, Ananindeua e Marituba; `D5_CD1`/`D6_CD7` = reaplicação. Seis provas, 185
+questões cada, anulada só a 34 de 2021-reaplicação; duas versões de língua com o mesmo idioma seguem a
+ordem do caderno (inglês primeiro). A extração daqui bateu com a da corp em tudo (gabarito, idioma e
+texto de cada questão), então as 1.110 resoluções vieram como estavam: 2025-reaplicação 184 alta/1
+media; Belém 180/5; 2024-reaplicação 183/2; 2023-reaplicação 183/2; 2022-reaplicação 181/4;
+2021-reaplicação 182/2 (+ a anulada). `preparar.py` e `validar.py --ano` aceitam essas chaves. A
+aplicação digital de 2021 e 2022 é a mesma prova da regular (conferido na corp) e não entra.
+
 **Vunesp**: não existe base aberta. O catálogo aponta para PDFs:
 - oficiais em `documento.vunesp.com.br` (2022+) e `vestibular.unesp.br` (2019–2021). A lista de
   documentos de um concurso fica em `https://documento.vunesp.com.br/Projeto/<CÓDIGO>/documento`
@@ -350,6 +366,7 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
 ## Estado
 
 - ENEM: 17 anos (2009–2025); 2011–2025 dos cadernos do INEP (com redação); resoluções em 2011–2025.
+  Mais 6 aplicações extras (reaplicação 2021–2025 e Belém 2025), 1.110 questões, todas com resolução.
 - Vunesp (09/11/2026): 115 edições no catálogo, 229 cadernos com questões locais, 6.400 questões na
   tela (eram 4.290; entraram 28 cadernos objetivos de 2022+ e a Famema 2024 Prova II). Antes: Unesp 38 edições (1.857 questões), Unifesp 23 (1.440), Famema 11 (384), Famerp 12 (220),
   Santa Casa 10 (200), Einstein 10 (145), FMJ 4 (44).
@@ -359,9 +376,8 @@ python3 ferramentas/respostas-modelo/validar.py trabalho/respostas-modelo/<data>
   ajustes do extrator, estruturas por caderno, classificador novo e aviso de questão incompleta da API
   (`falhasDaFonte`, só 2009 e 2010; medido: nenhuma questão desses anos é marcada hoje). Não vieram:
   o ENEM 2021–2023 pela API e `gabaritos-inep`/`corrigirGabarito` (aqui já é caderno + gabarito do
-  INEP). Ficaram só na pasta corp: reaplicação do ENEM 2021–2025 e aplicação de Belém 2025
-  (6 provas, 1.110 questões, com resoluções) e as respostas-modelo das discursivas que lá cobrem
-  edições que aqui não têm; o filtro por disciplina na Vunesp também existe só lá.
+  INEP). A reaplicação do ENEM e Belém 2025 vieram depois, no mesmo dia. Ficaram só na pasta corp
+  as respostas-modelo das discursivas de edições que aqui não têm e o filtro por disciplina na Vunesp.
 - Rodada de conteúdo de 06/11/2026: Einstein 2027; Famerp 2015–2017; Famema 2016–2017; Unifesp
   2003–2017 (exceto 2007); Unesp 2011 (25–36) e 2010/2 (1–24) pelo Foco; Unesp 2005/2–2009/2.
 - Desde 11/2026 o site da Vunesp recusa (403) o `fetch` do Node e o `curl`, nas listas e nos PDFs;

@@ -660,12 +660,33 @@ def questoes_de_idioma(ano):
     return range(1, 6) if ano >= 2017 else range(91, 96) if ano >= 2010 else range(0)
 
 
+APLICACOES = {'reaplicacao': 'Reaplicação', 'belem': 'Aplicação de Belém, Ananindeua e Marituba'}
+
+
+def chave_da_prova(nome):
+    """Qual prova um caderno azul do INEP compõe: o ano (aplicação regular) ou "<ano>-reaplicacao" /
+    "2025-belem". Só entram o caderno 1 (1º dia) e o 7 (2º dia), que são os azuis. Em 2025 o INEP
+    numerou os dias seguidos: 1–2 regular, 3–4 Belém/Ananindeua/Marituba, 5–6 reaplicação."""
+    m = re.fullmatch(r'(\d{4})_PV_(impresso|reaplicacao_PPL)_D(\d)_CD(\d+)\.pdf', nome)
+    if not m or m.group(4) not in ('1', '7'):
+        return None
+    ano, tipo, dia = int(m.group(1)), m.group(2), int(m.group(3))
+    if tipo == 'reaplicacao_PPL':
+        return f'{ano}-reaplicacao'
+    return {1: ano, 2: ano, 3: f'{ano}-belem', 4: f'{ano}-belem', 5: f'{ano}-reaplicacao', 6: f'{ano}-reaplicacao'}.get(dia)
+
+
 def processar_enem():
     pasta = RAIZ / 'provas' / 'enem'
-    anos = sorted({int(p.name[:4]) for p in pasta.glob('*_PV_impresso_*.pdf')})
-    for ano in anos:
+    provas = {}
+    for pdf in sorted(pasta.glob('*_PV_*.pdf')):
+        chave = chave_da_prova(pdf.name)
+        if chave is not None:
+            provas.setdefault(chave, []).append(pdf)
+    for chave, pdfs in sorted(provas.items(), key=lambda kv: (int(str(kv[0])[:4]), str(kv[0]))):
+        ano = int(str(chave)[:4])
         questoes, redacao = [], None
-        for prova in sorted(pasta.glob(f'{ano}_PV_impresso_*.pdf')):
+        for prova in pdfs:
             gabarito = ler_gabarito(prova.with_name(prova.name.replace('_PV_', '_GB_')))
             dados = extrair(prova)
             arquivo = prova.relative_to(RAIZ).as_posix()
@@ -687,18 +708,27 @@ def processar_enem():
                            'texto': dados['redacao']['texto']}
             if dados['avisos']:
                 print(f"  avisos em {prova.name}: {'; '.join(dados['avisos'])}")
+        # As duas versões de uma questão de língua com o mesmo idioma (cabeçalho não reconhecido): o
+        # caderno traz sempre inglês antes de espanhol (2022-reaplicação/4 e outras)
+        for n in questoes_de_idioma(ano):
+            versoes = [q for q in questoes if q['numero'] == n]
+            if len(versoes) == 2 and versoes[0]['idioma'] == versoes[1]['idioma']:
+                versoes[0]['idioma'], versoes[1]['idioma'] = 'ingles', 'espanhol'
+                print(f"  {chave}/{n}: idiomas pela ordem do caderno")
         questoes.sort(key=lambda q: (q['numero'], q['idioma'] or ''))
         faltam = faltantes({q['numero'] for q in questoes}, range(1, 181))
         if faltam:  # 2009 e 2010: o extrator não acha todas; esses anos ficam com a API
-            print(f"ENEM {ano}: NÃO gravado, faltam {len(faltam)} questões {faltam[:12]}")
+            print(f"ENEM {chave}: NÃO gravado, faltam {len(faltam)} questões {faltam[:12]}")
             continue
-        gravar(RAIZ / 'data' / 'enem' / f'{ano}.json', {'ano': ano, 'fonte': 'INEP — cadernos azuis', 'questoes': questoes,
-                                                       'redacao': redacao})
+        dados_prova = {'ano': ano, 'fonte': 'INEP — cadernos azuis', 'questoes': questoes, 'redacao': redacao}
+        if chave != ano:  # aplicação extra: prova própria do ano
+            dados_prova = {'ano': ano, 'prova': chave, 'aplicacao': APLICACOES[chave.split('-', 1)[1]], **dados_prova}
+        gravar(RAIZ / 'data' / 'enem' / f'{chave}.json', dados_prova)
 
         numeros = {q['numero'] for q in questoes}
         sem = [q['numero'] for q in questoes if not q['gabarito']]
         idiomas = sorted({q['idioma'] for q in questoes if q['idioma']})
-        print(f"ENEM {ano}: {len(questoes)} questões, faltam {faltantes(numeros, range(1, 181))}, "
+        print(f"ENEM {chave}: {len(questoes)} questões, faltam {faltantes(numeros, range(1, 181))}, "
               f"sem gabarito (anuladas) {sem}, idiomas {idiomas}, redação {'sim' if redacao else 'NÃO'}")
 
 

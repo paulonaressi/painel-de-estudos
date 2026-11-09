@@ -1,0 +1,933 @@
+{
+ "prova": "enem",
+ "ano": "2024-reaplicacao",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir do caderno oficial e do gabarito do INEP. Sem revisão humana.",
+ "questoes": {
+  "1:espanhol": {
+   "resolucao": "O poema do peruano Huanca-Velásquez fala em nome dos povos aimará e quéchua. Primeiro lembra o sofrimento dos antepassados (fome, frio, açoites); depois afirma que, apesar de séculos de tentativas de fazê-los desaparecer, essa gente \"seguirá apareciendo\" (continuará aparecendo) e viverá \"para siempre\". A citação de Túpac Catari reforça a ideia: matam um, mas virão milhões.\n\nA diversidade cultural aparece, portanto, na valorização da **resiliência de grupos étnicos** específicos, que resistem à opressão e se mantêm.\n\nA alternativa A é a mais tentadora, mas fala genericamente da \"perenidade das pessoas\"; o poema não trata de pessoas em geral, e sim de povos indígenas determinados. B e E pegam apenas uma parte do texto (o sofrimento, a homenagem), sem o sentido central de resistência.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "1:ingles": {
+   "resolucao": "A tirinha mostra uma personagem que confessa não saber \"how to look at art\" (como olhar uma obra de arte) e espera que algo grandioso aconteça, uma revelação. O pássaro sugere que ela o levante para ver melhor. No último quadro, ao segurá-lo no colo, os dois reproduzem sem perceber a cena do quadro: uma figura que carrega outra nos braços.\n\nO humor está aí: a \"revelação\" não vem de uma técnica de contemplação, mas do momento em que o espectador se reconhece na obra. A tirinha ilustra, assim, a importância da **identificação com produções artísticas** para que elas façam sentido.\n\nNão se trata de defender o ensino de Arte (A) nem de aprender técnicas (E): ninguém ensina nada, a compreensão vem da experiência vivida diante do quadro.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:espanhol": {
+   "resolucao": "O poema dá voz a um migrante latino-americano que atravessa o México rumo à fronteira. A súplica é dirigida a \"Señor\" (Deus), e se repete ao longo do texto sempre com verbos no imperativo: \"ayúdame\" (ajuda-me), \"llévame\" (leva-me), \"déjame\" (deixa-me), sempre pedindo para ser levado ou acompanhado.\n\nEssa combinação de **vocativo** com **imperativo** em tom de pedido materializa a posição de subalternidade: sem visto nem passaporte, sujeito a sequestros e violência, o migrante só pode implorar proteção a uma instância superior.\n\nAs perguntas retóricas (E) aparecem apenas no início e não sustentam a súplica; possessivos (B) como \"nuestro camino\" e \"nuestra sangre\" descrevem a situação, mas não formam o pedido.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "2:ingles": {
+   "resolucao": "O texto da BBC relata que o Kuwait caminha para temperaturas \"unbearable\", com termômetros passando de 53 °C, e que cidadãos pedem que o país não fique ainda mais quente.\n\n\"Unbearable\" é formado por un- (negação) + bear (suportar) + -able (que pode ser): \"insuportável\". O adjetivo enfatiza, portanto, a **dificuldade de viver em temperaturas muito altas**, a ponto de a vida no lugar se tornar intolerável.\n\nA alternativa C é a mais tentadora porque o texto também diz que o Oriente Médio aquece mais rápido que o resto do mundo, mas essa informação está em \"warming faster\", não em \"unbearable\". A palavra qualifica o calor que se torna insuportável, não a velocidade do aquecimento. A COP26 (B) e as mudanças no cotidiano (E) aparecem em outro parágrafo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "3:espanhol": {
+   "resolucao": "No prólogo, García Márquez fala da dificuldade de escrever contos: diferentemente do romance, o conto \"fragua o no fragua\" (dá liga ou não dá), e quando não dá o melhor é recomeçar ou jogá-lo no lixo. Ele cita a frase de que um bom escritor se mede mais pelo que rasga do que pelo que publica.\n\nEm seguida, admite: não rasgou os rascunhos e as anotações, mas fez algo pior, \"los eché al olvido\", isto é, jogou-os no esquecimento. A expressão declara que os **rascunhos foram postos de lado**, abandonados, em vez de destruídos.\n\nA alternativa E é a armadilha: ela diz que o escritor rasga as anotações, exatamente o que ele nega ter feito (\"no rompí\"). A e B correspondem a ideias do trecho, mas não ao sentido da expressão pedida.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "3:ingles": {
+   "resolucao": "O cartum mostra um casal diante de um berço cercado de aparelhos: móbile eletrônico, caixas de som, câmera, carrinho e cadeira automatizados, tudo emitindo sinais e ruídos. A fala diz que, depois dessa fase, eles planejam criar o filho \"without technology\" (sem tecnologia).\n\nO humor nasce do contraste entre a intenção declarada e a cena: o bebê já está mergulhado em tecnologia desde o berço. Por meio da combinação de imagem e texto, o cartum **questiona o excesso de aparatos eletrônicos** na criação dos filhos.\n\nA alternativa B é tentadora porque os pais parecem preocupados, mas o cartum ironiza essa \"consciência\" em vez de valorizá-la. Não há crítica à educação tradicional (A) nem estímulo a brinquedos (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "4:espanhol": {
+   "resolucao": "A charge ilustra um artigo da Convenção sobre os Direitos da Criança: o título diz que a criança tem direito a que respeitem sua origem, costumes e crenças. Uma menina diz à colega indígena Xóchitl que ela tem direito de falar sua própria língua; o menino reage com deboche, dizendo que, se ela precisasse de outra língua, ele não emprestaria a sua.\n\nA fala preconceituosa do menino é o contraponto que reforça a mensagem central: o direito de a criança indígena **usar sua língua originária**.\n\nA alternativa A fala de crenças religiosas, que aparecem no título, mas o diálogo trata exclusivamente de língua. E é tentadora pelo deboche do menino, mas o foco da reivindicação, explicitado na fala da menina, é o direito linguístico.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "4:ingles": {
+   "resolucao": "O cartum retoma a famosa piada da internet \"ninguém sabe que você é um cachorro\". Um cão no computador diz que, no Facebook, 273 pessoas sabem que ele é um cachorro; \"the rest can only see my limited profile\" (o resto só vê meu perfil restrito).\n\nA graça está na ideia de que o perfil nas redes mostra apenas o que o usuário escolhe, e quem está do outro lado pode estar falando com alguém muito diferente do que imagina. O cartum critica, assim, a **manipulação dos perfis**, que pode gerar riscos aos usuários.\n\nAs alternativas A e B se apoiam no fato de os personagens serem cães, mas o cartum não fala de produtos nem de exploração comercial de pets. Também não há crítica ao número de seguidores (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "5:espanhol": {
+   "resolucao": "A notícia relata que Roxana Quispe Collantes, estudiosa do quéchua, apresentou e defendeu sua tese de doutorado nessa língua indígena, fato inédito que repercutiu no mundo acadêmico. Ela diz que seu sonho era que o quéchua entrasse na academia, porque é sua identidade e porque \"ninguna lengua es menos que otra\" (nenhuma língua é menos que outra).\n\nA conquista revela, portanto, a **valorização de uma língua indígena no ambiente acadêmico**, espaço tradicionalmente reservado às línguas de prestígio, como o espanhol.\n\nA alternativa A reduz o fato a um projeto pessoal, quando a própria pesquisadora o apresenta como afirmação de uma língua. E é tentadora porque a tese analisa poesia em quéchua, mas o texto não fala em vantagem de estudar poesia na língua original.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "5:ingles": {
+   "resolucao": "O eu lírico descreve o pai, que fala cinco línguas (urdu, hindi, punjabi, suaíli, gujarati), cada uma associada a imagens ricas e sensoriais: pavões, água de rosas, sabores, orgulho ancestral. São \"five different worlds\" (cinco mundos diferentes).\n\nA virada vem com \"yet English shrinks him down\" (mas o inglês o encolhe) diante de homens brancos que acham que suas palavras são \"the only reality\" (a única realidade). A disposição dos versos, uma palavra por linha, reproduz visualmente esse encolhimento.\n\nO poema usa a trajetória familiar de imigrantes para ressaltar a **hegemonia linguística**: o inglês, língua dominante, apaga a riqueza das outras línguas e diminui quem não o domina como nativo. Não há tema ambiental, profissional ou educacional no texto.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "6": {
+   "resolucao": "O poema de Drummond se constrói pela repetição de um mesmo molde sintático: \"Todos os/Todas as [algo] são iguais\". Histórias em quadrinhos, filmes, partidos, guerras, amores, a morte: tudo entra no mesmo esquema. É essa **recorrência da mesma estrutura sintática** (paralelismo) que faz o texto avançar, acrescentando um novo elemento a cada verso e acumulando a sensação de monotonia.\n\nA progressão culmina na virada final, introduzida por \"Contudo\": o ser humano, ao contrário de tudo o mais, não é igual a ninguém, é \"um estranho ímpar\". O contraste só ganha força porque o leitor foi cansado pela repetição.\n\nA alternativa B é a mais tentadora, mas os itens listados não se associam pelo sentido (futebol, sonetos, fomes); o que os une é a forma repetida. O marcador de contraste (A) aparece uma única vez.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "7": {
+   "resolucao": "O trecho se dedica a compor a figura da prima Julieta: idade aproximada, o andar lento, a cabeça agitada para trás, os braços brancos, a cabeleira loura com reflexos metálicos, os olhos verde-azulados, a voz rouca. Predominam adjetivos e caracterizações, quase sem ações que façam o tempo avançar.\n\nTrata-se, portanto, de uma **sequência descritiva**, construída a partir do que os sentidos do narrador captam: visão (cabelos, olhos, braços) e audição (a voz \"em dois planos\").\n\nA alternativa C é a armadilha, porque há um narrador que se lembra da infância. Mas não se contam fatos em sequência temporal; o objetivo é fixar a imagem da personagem. Também não há tese defendida (E) nem instruções (B).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "8": {
+   "resolucao": "Na ilustração de Al Margen, uma figura feminina emerge de uma flor e olha para o alto, de boca aberta. Acima dela flutuam um olho com asas e um espeto com pão, dado e outros objetos, como iscas penduradas. O olho alado remete ao olhar alheio, ao ser visto; o espeto, aos objetos de consumo e de desejo oferecidos a quem olha para cima.\n\nA obra sintetiza, assim, a **relação entre visibilidade, imaginário social e desejo**: a pessoa vive voltada para aquilo que a sociedade expõe como desejável e para o olhar que a vigia.\n\nA alternativa A é tentadora pelo tema da exposição, mas não há nenhum elemento que remeta especificamente a redes sociais. B fala de padrões de beleza, que a imagem não representa.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "9": {
+   "resolucao": "O texto apresenta o podcast como um formato híbrido: tem marcas do rádio (entrevistas, debates, reportagens, boletins), mas \"não possui uma estrutura fixa\", cada episódio pode ser contado de um jeito, aborda temas diversos e, \"sobretudo, é flexível\".\n\nO diferencial em relação às outras mídias é, portanto, a **versatilidade**, tanto na produção (formatos variados) quanto no acesso a conteúdos diferentes.\n\nA alternativa B inverte a ideia: o podcast herda marcas do rádio, mas o que o distingue é justamente não se prender a modelos tradicionais. C pega um benefício citado (aprofundamento da temática), mas restringe a temas políticos e científicos, que são só exemplos. O alcance de público (D) e a linguagem coloquial (E) não são mencionados.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "10": {
+   "resolucao": "A função conativa (ou apelativa) se volta para o interlocutor, buscando envolvê-lo ou convencê-lo; a emotiva se centra no emissor, expressando sua posição, com marcas de primeira pessoa.\n\nEm \"Vamos criar juntos o próximo nível?\", as duas convivem: a primeira pessoa do plural (\"vamos\") inclui o anunciante, e a pergunta é um convite direto ao leitor, que é chamado a participar.\n\nAs alternativas B e C também têm primeira pessoa (\"somos\", \"estamos\"), mas apenas afirmam algo, sem apelo ao interlocutor. E é conativa (\"conheça\", no imperativo), mas não traz marca do emissor. D não tem nenhuma das duas marcas. Só a pergunta inicial reúne as duas funções ao mesmo tempo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "11": {
+   "resolucao": "João do Rio descreve a rua como algo que \"nasce, como o homem, do soluço, do espasmo\". As metáforas ligam a rua ao corpo de quem a construiu: há \"suor humano na argamassa\", cada casa é feita do \"esforço exaustivo de muitos seres\", os pedreiros cantam cobertos de suor uma melopeia que parece um soluço.\n\nEssas imagens caracterizam a rua como lugar que retrata a **dinâmica do trabalho na constituição do espaço urbano**: a cidade é produto do esforço físico de trabalhadores anônimos.\n\nA alternativa A é tentadora por causa do fim do trecho (a rua \"mais igualitária\", \"mais niveladora\"), mas o texto não fala de luta por posições sociais; diz que a rua iguala porque nasce do trabalho de todos. A canção dos pedreiros (D) é detalhe, não tradição musical.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "12": {
+   "resolucao": "O texto critica a forma como, a partir de 1980, as academias passaram a divulgar o exercício como essencial à saúde numa perspectiva médica, individual e de consumo, voltada ao controle de riscos e ao ajuste do indivíduo à sociedade capitalista. Esse modelo é chamado de \"limitado\".\n\nEm seguida, os autores afirmam que, como \"exigem os desafios contemporâneos\", as reflexões sobre movimento e saúde precisam considerar as relações entre educação, trabalho, lazer e práticas corporais, voltadas à melhoria das condições de vida de toda a população. Por isso o gabarito aponta a **reflexão sobre múltiplos fatores** necessários para condições sociais mais justas.\n\nAs alternativas A, B e C descrevem o modelo dominante que o texto critica, e não a relação que a sociedade atual exige.\n\n**Resposta: E**",
+   "confianca": "media",
+   "pendencia": "O enunciado é ambíguo: \"na sociedade atual\" pode ser lido como o modelo dominante descrito no texto (próximo de A ou B), mas o gabarito oficial se apoia no que os desafios contemporâneos exigem."
+  },
+  "13": {
+   "resolucao": "O trecho de Lygia Fagundes Telles constrói a expressividade pela descrição do cemitério abandonado, carregada de impressões sensoriais e subjetivas. O mato é personificado: \"não satisfeito\", \"subira\", \"infiltrara-se ávido\", como se quisesse cobrir os últimos vestígios da morte. Os passos soam \"como uma estranha música\" feita de folhas secas trituradas. Há luz (\"banhada de sol\"), som e cor nos medalhões \"pálidos\".\n\nÉ uma **descrição impressionista** do ambiente: o cenário é pintado pelas sensações que provoca, e não de forma objetiva.\n\nA alternativa A é tentadora, mas as comparações do trecho (\"como uma estranha música\", \"como uma criança\") não são com a natureza; a natureza é o que está sendo descrito. Não há visão bucólica (E): o mato é violento e invasor.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "14": {
+   "resolucao": "A reportagem defende a ampliação da licença-paternidade, hoje de cinco dias. Para convencer o leitor, o argumento mais forte está no último parágrafo: especialistas e estudos apontam pais mais participativos, filhos com melhor desempenho escolar e mais saudáveis emocionalmente, mães com mais chances nas carreiras e empresas com maior retenção de funcionários e produtividade.\n\nA estratégia é, portanto, **apresentar benefícios profissionais e familiares** decorrentes desse direito, um argumento de consequência.\n\nA alternativa A é a mais tentadora, mas a fala citada é de um jornalista ligado a um coletivo, não de um especialista jurídico. A menção à Constituição e à lei (B e C) apenas contextualiza o tema, e os coletivos (D) aparecem só para identificar quem fala.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "15": {
+   "resolucao": "Na passagem de Clarice Lispector, a personagem sente dentro de si \"um animal perfeito\" e tem medo de soltá-lo. Ela percebe que isso se deve, em parte, ao desejo de agradar e de ser amada por alguém poderoso como a tia morta. A frase \"a bondade me dá ânsias de vomitar\" e a imagem da bondade como carne crua guardada, morna e temperada de vez em quando para se conservar, revelam a hipocrisia dessa bondade cultivada para agradar.\n\nA reflexão nasce, assim, da tomada de consciência da **dissimulação praticada em nome da convivência**: a personagem reprime o que é para ser aceita.\n\nA alternativa E é tentadora pela vontade de \"pisá-la, repudiá-la\", mas o desdém se dirige ao desejo de agradar, não à memória da tia em si. Não há violência familiar (B) nem conflito de gerações (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "16": {
+   "resolucao": "O fragmento de Ronaldo Correia de Brito anuncia uma luta corporal que não acontece como se espera: os dois homens não rolam pelo chão nem trocam socos. Ficam abraçados, sentindo o calor e o cheiro um do outro, e se separam \"derrotados pela certeza\" de que gostariam de nunca romper o abraço. Romano suplica que o outro vá embora, e Anselmo hesita entre matá-lo ou retê-lo junto ao peito.\n\nA tensão da luta se transforma, assim, num conflito interior: cada um **reconhece e renega a força de um sentimento imperioso**, o desejo que os une, e foge dele.\n\nA alternativa D é tentadora porque eles desistem do confronto, mas não por terem recuperado a calma; desistem por perceberem um afeto que não admitem. Não há culpa por crimes (C) nem estratégia de ataque (A, E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "17": {
+   "resolucao": "As duas cartas agradecem o livro de Gilberto Mendonça Teles, mas de maneiras diferentes. Paulo Bomfim escreve de forma pessoal e poética: as palavras \"faíscam em garimpos semânticos\", Goiás \"mora em suas raízes\", ele se reencontra nos antepassados e renasce na neta. São **impressões subjetivas**, nascidas da experiência sensível com o texto.\n\nNelson Sodré adota tom formal e cordial, elogia as \"inúmeras surpresas\" do livro e menciona o trabalho do autor sobre vanguarda europeia e Modernismo. É uma apreciação **técnica**, que trata da obra de Teles de modo geral.\n\nAs demais alternativas inventam perfis que os textos não sustentam: nada indica culto à morte ou concretismo (B), leitor pouco iniciado ou interesse financeiro (D), e não há fala goiana cotidiana (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "18": {
+   "resolucao": "A canção de Chico Buarque retrata a rotina repetitiva de um casal. A marca de oralidade está no uso do verbo **\"pegar\"** como auxiliar, seguido de outro verbo (\"pega e me espera\"), construção típica da fala informal brasileira que indica o início de uma ação ou sua decisão repentina, sem o sentido literal de \"segurar\".\n\nNas demais alternativas, a linguagem é poética, mas não coloquial: \"boca de paixão\", \"boca de pavor\" e \"jura eterno amor\" são imagens líricas; \"faz tudo sempre igual\" é construção corrente, que não se afasta da norma.\n\nVale lembrar que, nesse tipo de questão, o ENEM busca o traço que pertence à modalidade falada e informal, e não apenas expressões simples ou cotidianas no conteúdo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "19": {
+   "resolucao": "O texto trata do preconceito contra mulheres no rúgbi. Os comentários mais comuns dizem que o esporte é violento e próprio de homens, que mulheres não deveriam praticá-lo, e por isso as atletas são rotuladas como \"homossexuais e/ou masculinizadas\".\n\nEssa rotulação é uma **estigmatização**: atribui às mulheres que praticam a modalidade uma marca negativa por desviarem do papel de gênero esperado.\n\nA alternativa C é tentadora, mas o texto não fala em impedimento de acesso; ao contrário, diz que o rúgbi \"busca a adesão de mulheres\". A violência citada (B) é a imagem do esporte, não agressão física contra as atletas. Não se fala em desinteresse (A) nem em resultados (E).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "20": {
+   "resolucao": "O texto apresenta o jargão corporativo como um \"código cifrado\" dos ambientes de trabalho, marcado pelo predomínio de termos em inglês (como \"asap\" no lugar de \"rapidinho\"). No fim, explica sua função: reforçar laços entre quem está dentro do círculo e barrar quem está fora, a ponto de 60% reclamarem da falta de apoio para aprender a \"língua da casa\".\n\nO jargão diz respeito, portanto, a **expressões codificadas empregadas num contexto social específico**, o das empresas.\n\nA alternativa E é tentadora porque a maioria acha que o jargão provoca mal-entendidos, mas isso é efeito citado, não sua definição, e ele não pertence à \"comunicação corriqueira\". B confunde a pesquisa (feita sobre o jargão) com a origem dos termos, e C contraria a ideia de código restrito.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "21": {
+   "resolucao": "A fotografia de German Lorca mostra dois homens de terno lendo jornal encostados num muro, com sombras fortes projetadas na parede. O texto de Duran explica a cena: o título da obra, \"À procura de emprego\", revela que eles mergulham nas páginas do Diário Popular, o jornal que mais trazia anúncios de vagas na época.\n\nCom isso, o texto dá força expressiva à foto ao mostrar que ela **constrói uma cena urbana a partir de uma ação cotidiana** daquele tempo: procurar emprego nos classificados.\n\nA alternativa A contraria o texto, que descreve uma São Paulo limpa e impecável. C é tentadora por causa da leitura, mas o foco não é o acesso à leitura nem notícias variadas, e sim a busca por trabalho. Não há socialização (D) nem ócio (E).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "22": {
+   "resolucao": "O texto afirma que é fácil encontrar erros de ortografia e concordância em notícias falsas, \"até porque reportagens reais prezam por um vocabulário rico e o emprego correto de todas as normas\".\n\nConhecer a norma-padrão ajuda a identificar fake news, portanto, porque ela é uma **característica dos textos jornalísticos** verdadeiros: quem a conhece percebe quando um texto que se apresenta como notícia foge desse padrão.\n\nA alternativa E é tentadora, mas o texto não diz que todo desvio compromete a compreensão; diz que o desvio é um indício de falsidade. A também não se sustenta: a norma não revela quem escreveu o texto. B é falsa (o próprio texto começa falando de quem não domina bem o idioma).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "23": {
+   "resolucao": "O texto define o doping como o uso de substâncias para melhorar a performance \"de forma artificial\", fala em \"uso ilícito\" e \"artimanha\", e mostra que a prática existe desde a Antiguidade e se sofistica junto com os métodos de detecção.\n\nA reflexão ética surge justamente quando o texto aborda a **melhoria da performance de forma ilegal**: o problema moral está em obter vantagem desleal sobre os adversários, burlando as regras do esporte.\n\nAs demais alternativas apontam elementos presentes no texto, mas que não carregam a dimensão ética: a visibilidade na mídia (A), os exames (B), a história desde a Grécia (D) e o aprimoramento das substâncias (E) são informações de contexto. A questão ética está na trapaça.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "24": {
+   "resolucao": "O texto discute se o corretor ortográfico ajuda ou atrapalha. Um especialista explica que ele pode ser alimentado por pessoas que checam detalhes ou \"por dicionários\" que, em tese, têm as palavras escritas corretamente. A professora completa: essas ferramentas atuam em aspectos ortográficos e até sintáticos, mas \"não garantem a coesão e a coerência\", nem o sentido do texto.\n\nSegundo o texto, portanto, o corretor **ajusta a grafia** com base numa programação abastecida por dicionários.\n\nAs alternativas B, C e E atribuem ao corretor funções que a professora diz explicitamente que ele não cumpre (sentido, articulação, gêneros textuais). D confunde o corretor com o acesso amplo à informação, que é outra coisa mencionada no texto.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "25": {
+   "resolucao": "No Texto I, um fandango tradicional, o violeiro se queixa de que é ofendido e chamado de vagabundo por tocar viola; a viola está associada a uma condição marginalizada. No Texto II, a viola caipira ganha o primeiro curso universitário do mundo, na USP, e é tocada também na música erudita, no pop e no rock.\n\nComparados, os textos revelam que o instrumento **assume papéis antagônicos** na história da música brasileira: de marca de desprestígio social a objeto de estudo acadêmico e prestígio.\n\nA alternativa C contraria o Texto II, que mostra a tradição viva e em expansão. D é tentadora pelo curso universitário, mas o texto não diz que a viola dependa de pesquisas para não desaparecer. Não há substituição de instrumentos (B) nem subordinação à música religiosa (E).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "26": {
+   "resolucao": "O cartaz do Junho Verde convida a aderir ao combate à desnutrição usando a expressão \"vista esta causa\" e pedindo que amigos e parceiros \"vistam a camisa\". Na imagem, uma multidão de pessoas forma o desenho de uma camiseta branca com o selo \"Diga não à desnutrição\".\n\nO recurso que aparece ao mesmo tempo no verbal e no não verbal é, portanto, a **representação da ideia de vestir a camisa**: a expressão popular (engajar-se numa causa) é literalmente desenhada pelas pessoas reunidas.\n\nA data (A) e o problema (B) aparecem só no texto verbal; a imagem não os representa. Não há confraternização (D), e o cartaz não orienta sobre formas concretas de contribuir (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "27": {
+   "resolucao": "A notícia apresenta o aplicativo Celular Seguro, criado pelo governo federal para bloquear de forma mais rápida aparelhos furtados ou roubados, e explica como usá-lo: instalar, cadastrar-se pelo gov.br, registrar o celular e uma pessoa de confiança e, em caso de roubo, acionar o bloqueio.\n\nA importância social do texto está em **informar a população sobre a segurança promovida por um recurso digital**, permitindo que o cidadão se proteja.\n\nA alternativa D é tentadora, porque o texto descreve o passo a passo, mas a descrição é simples e voltada ao usuário, não técnica, e não é ela que dá relevância social à notícia. O texto não avalia a iniciativa (A), não pede apoio (C) e não trata de compra (E): o aplicativo é instalado pela loja de aplicativos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "28": {
+   "resolucao": "O poema de Ana Cristina Cesar dialoga com \"Poética\", de Manuel Bandeira, que começa com \"Estou farto do lirismo comedido\". Aqui, o eu lírico está \"farta\" de outra coisa: da metalinguagem narcísica, do texto de espelho, dos \"supersignos\" da poesia de sua época (\"espaço em branco\", \"vocábulo delirante\").\n\nNo lugar disso, quer imagens excessivas e incômodas: página atravancada de abajures, o zoológico inteiro, ratas devorando ninhadas, multidões mostrando as dentinas, bandos \"ilícitos\" e \"bastardos\". O poema expande a poética de Bandeira ao **introduzir imagens de efeito desconcertante** no espaço do repertório tradicional.\n\nA alternativa A contraria o poema, que rompe com a tradição em vez de reiterá-la. D é tentadora pelo \"farta\" no feminino, mas a questão de gênero não organiza o poema. Também não há neologismos (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "29": {
+   "resolucao": "O vocativo \"Caro Freud\" identifica o destinatário da carta. A questão pede o trecho que retoma esse destinatário, isto é, que se refere a Freud por meio de um elemento coesivo.\n\nEm \"Pela expressão fechada em seu rosto\", o possessivo **\"seu\"** remete a Freud: é o rosto do psicanalista que mostra que ele entende as dificuldades do narrador. O trecho retoma, portanto, o interlocutor nomeado no vocativo.\n\nNas outras alternativas, os termos se referem ao próprio narrador (\"me fazer compreender\", \"resolvi\", \"rir de mim\") ou à situação amorosa (\"a história\"). Nenhum deles aponta para Freud.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "30": {
+   "resolucao": "O texto mostra uma mãe que, em vez de esperar uma ligação do filho adulto que voltou para o Texas, acompanha pelo aplicativo o momento em que ele chega em casa. O app controla \"permanentemente\" o paradeiro dos três filhos, avisando quando estão em trânsito, em casa ou onde não deveriam estar.\n\nA configuração familiar que aparece é a de filhos que já vivem sua vida de forma independente, em outras cidades, mas sob monitoramento constante. O aplicativo reflete, assim, a **marca da vigilância na construção da autonomia** dos indivíduos.\n\nA alternativa A é tentadora, mas a segurança é a justificativa dada pela mãe; o que o texto põe em questão, desde a pergunta inicial (\"até onde eles podem ir\"), é o controle. Não se trata de crianças (C) nem de comunicação entre interlocutores (D).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "31": {
+   "resolucao": "Na canção de Gonzaguinha, o eu lírico avisa ao interlocutor como vai reagir a cada atitude dele. A primeira estrofe é toda construída com orações iniciadas por \"se\": se receber um beijo, gosta; se receber um tapa, briga; se mandarem calar, fala mais. A estrutura volta nas estrofes seguintes.\n\nEssas **estruturas condicionais** criam o tom de ameaça: estabelecem uma relação de causa e consequência em que cada agressão terá resposta. É um recado de quem não aceita mais ser submisso.\n\nO paralelismo (B) existe, mas é a condição introduzida por \"se\" que expressa o aviso. Os verbos no infinitivo (C) aparecem só no fim, e o vocativo (E), em poucos versos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "32": {
+   "resolucao": "O poema de Ferreira Gullar foi publicado em 1975, em plena ditadura militar, fato histórico com o qual dialoga. Mesmo reconhecendo o pão caro, a liberdade pequena e o \"terror\", o eu lírico afirma, com a certeza de \"dois e dois são quatro\", que a vida vale a pena, e enxerga um \"tempo de alegria\" acenando por trás do terror.\n\nO olhar é tenso porque convive com a opressão, mas **revigorado quanto ao futuro sociopolítico** do país: há esperança de superação.\n\nA alternativa D é tentadora pela esperança, mas restringe o poema à política econômica, quando a liberdade e o terror mostram que o foco é político. B contraria a esperança do texto, e E toma ao pé da letra a imagem de \"dois e dois são quatro\", que expressa certeza, não solução matemática.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "33": {
+   "resolucao": "Antonio Prata compara dois processos de criação. O cronista, no mundo ideal, sai pela cidade sem plano e escreve no momento em que surge a ideia, com \"os ingredientes colhidos na hora\"; quanto mais \"cego\" no início, mais lugares novos encontra. O romancista, ao contrário, deixa as ideias amadurecerem antes de ir para o papel e precisa de pistas de para onde vai, porque conta uma longa história.\n\nA reflexão se baseia, portanto, na **forma como as temáticas ganham corpo na obra**: na crônica, de modo imediato, a partir do cotidiano; no romance, por amadurecimento.\n\nA alternativa E é tentadora, mas a organização prévia vale só para o romance; o texto valoriza justamente a falta dela na crônica. Não há comparação de elementos formais (A) nem de estilos de outros escritores (D).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "34": {
+   "resolucao": "A reportagem trata da comissão do Senado que discute projetos de lei sobre inteligência artificial. Mostra que a IA agiliza procedimentos no setor público, mas também é usada para desinformação, como a criação de imagens de fatos que não aconteceram. Fecha com a fala de uma especialista: não existe hoje mecanismo capaz de identificar se um conteúdo foi produzido por IA.\n\nAo tratar da segurança, o texto evidencia a **problemática da identificação da origem dos conteúdos**: sem saber se algo foi gerado por IA, fica difícil combater a desinformação.\n\nA alternativa E é tentadora porque há uma comissão discutindo leis, mas o texto não afirma que a legislação seja precária, e o assunto é a IA, não a internet em geral. A e C pegam apenas o lado positivo da tecnologia.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "35": {
+   "resolucao": "O motorista de táxi diz que gosta de ler e compra muitos livros, mas só pela internet, deixando de lado as livrarias. O cronista responde com ironia: diz que também gostava de todos os táxis, mas a partir dali passaria a andar só de transporte por aplicativo. O motorista entende o recado: \"O senhor tem razão\".\n\nA ironia faz o taxista sentir na pele o efeito de sua própria escolha, e serve para **criticar a mudança no padrão de consumo**: ao trocar a livraria pela compra on-line, o leitor contribui para fragilizar um comércio, assim como os aplicativos fragilizam os táxis.\n\nA alternativa E inverte o sentido: a crônica não estimula o comércio eletrônico, ela o questiona. Não há crítica à qualidade dos livros (D) nem ao transporte público (C).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "36": {
+   "resolucao": "A reportagem trata da dificuldade de ler bulas de remédio e das alternativas que a indústria oferece. Para dar credibilidade às informações, o texto recorre à **fala de especialistas**: um médico endocrinologista alerta para os riscos de ler a bula sem orientação, e o presidente do Conselho Regional de Farmácia explica as regras da Anvisa (perguntas e respostas, bula em áudio, em braile, em tamanho maior).\n\nÉ o argumento de autoridade, típico do gênero reportagem: a informação ganha confiabilidade porque vem de quem tem conhecimento técnico sobre o assunto.\n\nA alternativa A descreve uma característica do texto, mas não é ela que sustenta a credibilidade. Não há exemplificações (B) nem interlocução direta com o leitor (D), e a data recente (C) não é o recurso de validação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "37": {
+   "resolucao": "A função metalinguística ocorre quando a linguagem fala da própria linguagem, isto é, quando o código é usado para explicar o código. O verbete de dicionário é o exemplo clássico: a palavra \"panela\" é explicada por meio de outras palavras, com sua origem (do latim) e suas acepções (vasilha, conteúdo, panelinha, nádegas, cavidade de formigas).\n\nPor isso, a função predomina porque o verbete **define um conceito**, esclarecendo os sentidos de uma palavra.\n\nA alternativa E é tentadora, porque a primeira acepção descreve um objeto, mas o verbete não expõe o objeto panela: ele explica a palavra \"panela\", com todos os seus sentidos, inclusive os figurados. Não há discussão (A), argumento (B) nem tentativa de influenciar o leitor (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "38": {
+   "resolucao": "O texto relata o caso de um professor em Portugal que percebeu que os trabalhos de seus alunos haviam sido escritos pelo ChatGPT: nenhum erro, frases curtas e estrutura idêntica. Ele havia permitido o uso da ferramenta, mas não para a execução integral dos textos. O caso abriu um debate sobre riscos e usos indevidos, e escolas passaram a adotar programas de detecção.\n\nO impacto revelado é de natureza **pedagógica**: a IA potencializa desafios para a educação, como avaliar a autoria e orientar o uso adequado da ferramenta.\n\nA alternativa D é tentadora por causa das ferramentas de detecção, mas elas servem para identificar textos de IA, não para checar fontes. B confunde a observação sobre o estilo \"típico do inglês\" com tradução. Não há intercâmbio (A) nem viés comercial (C).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "39": {
+   "resolucao": "O infográfico traz dados sobre o mercado mundial do skate e sobre os praticantes no Brasil. Na seção \"Skatistas no Brasil\", aparece que o número de mulheres aumentou (1,6 milhão em 2015, o dobro de 2009), \"mas os homens ainda são maioria\": 81% contra 19%.\n\nOs dados indicam, portanto, que a modalidade **permanece predominantemente praticada por homens**.\n\nA alternativa A é contrariada pelo próprio infográfico: o esporte foi criado por surfistas norte-americanos, em 1950. D mistura dados que não se relacionam (o mercado mundial não é atribuído às mulheres). B e E falam de risco de acidentes e de preço dos equipamentos, temas que o infográfico não relaciona com o número de praticantes, que, aliás, mais que dobrou.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "40": {
+   "resolucao": "A obra de Mestre Vitalino mostra pessoas em torno de uma mesa, comendo, com pratos, garrafas e bancos. A cena é reconhecível: tamanhos, roupas, gestos e objetos remetem a uma refeição real do cotidiano nordestino.\n\nA arte figurativa é aquela que reproduz formas reconhecíveis do mundo. Os bonecos de barro de Vitalino são, portanto, **figurativos, com representação da realidade**, característica marcante da arte popular do ceramista, que retrata o dia a dia do povo do sertão.\n\nA alternativa B é o oposto: não há abstração. D não se aplica, porque não há figuras divinas alongadas. A é tentadora, mas a obra representa uma cena completa e cotidiana, não a fixação de um gesto específico; e a predominância de linhas curvas (E) não é o traço que define o trabalho.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "41": {
+   "resolucao": "O texto apresenta os exergames, jogos que usam os movimentos do corpo, combinando videogame e atividade física. Segundo os autores, eles aproveitam a ludicidade dos games para a prática do exercício e permitem pôr em prática habilidades motoras ligadas a jogos, esportes, danças, lutas e ginásticas, \"proporcionando uma maior vivência da cultura corporal de movimento\".\n\nAo associar tecnologia e atividade física, os exergames **ampliam as experiências corporais** dos praticantes.\n\nA alternativa B é tentadora pela menção a treinamento, mas o texto fala de treinamento individualizado e terapêutico, não de competições. Não há referência a interação social (A), cirurgias (D) ou compreensão tática (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "42": {
+   "resolucao": "O texto trata de cidades na fronteira seca entre Brasil e Argentina, onde a convivência produz um sotaque que mistura português e espanhol. A palavra \"camiáu\" (caminhão) não existe no português nem no espanhol padrão: é do **portunhol**, nascida do contato entre as duas línguas.\n\nO fenômeno revela a **riqueza da diversidade linguística em contextos de fronteira**, como o próprio texto conclui ao falar de regiões onde duas línguas coexistem.\n\nA alternativa B é tentadora porque \"camiáu\" é uma palavra nova, mas ela não nasce no comércio nem pertence ao português brasileiro. A fala em variedade histórica, e E em variação do português entre estados; ambas ignoram que o fenômeno resulta do contato com o espanhol. Não há proposta ortográfica (C).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "43": {
+   "resolucao": "A reportagem trata do crescimento das fake news e reproduz as dicas do Conselho Nacional de Justiça para evitar boatos: ler a notícia inteira, checar quem publicou, conferir a data, pesquisar em outras fontes, não acreditar em tudo nas redes e desconfiar de notícias com muitos adjetivos.\n\nEssas orientações auxiliam no combate ao problema porque indicam **atitudes a tomar em casos de disseminação de notícias falsas**: o que o leitor deve fazer antes de acreditar numa informação e compartilhá-la.\n\nA alternativa E é a mais tentadora, mas é genérica demais: as dicas não tratam de boas práticas de comunicação em geral, e sim da conduta diante de notícias possivelmente falsas. As demais (A, C, D) desviam para sites suspeitos e ferramentas tecnológicas, que o texto não detalha.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "44": {
+   "resolucao": "Em Lucíola, o narrador Paulo sente ciúme de Jacinto, que frequenta a casa de Lúcia. Quando ela diz que o homem é \"quase um criado\", que trata de suas compras, o ciúme desaparece: desde que Jacinto \"desceu ao mister de homem assalariado\", o narrador deixa de reparar nele e passa a tratá-lo como ao carroceiro ou ao cozinheiro.\n\nA mudança de atitude revela uma visão de mundo marcada pela **relevância do prestígio social para a classe burguesa**: um homem de posição inferior não é visto como rival, nem sequer como alguém digno de atenção.\n\nA alternativa E é tentadora, porque o relato é em primeira pessoa, mas a emotividade não é o que o fragmento evidencia. Não há fuga para um tempo idealizado (C) nem preocupação com moda (B).\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "45": {
+   "resolucao": "O cartaz mostra crianças em situações de risco (subir num banquinho, mexer com tesoura, pular de um lugar alto) e pergunta: \"Travessura ou autismo?\". Explica que autistas podem apresentar falta de consciência do perigo e pede: \"Mude o seu olhar\". As crianças aparecem sobre uma peça de quebra-cabeça, símbolo do autismo que remete à ideia de que cada pessoa tem um encaixe próprio.\n\nA articulação entre texto e imagem sustenta que é preciso **respeitar as singularidades de cada criança** para evitar preconceitos: o que parece travessura pode ser característica do autismo.\n\nAs alternativas B, C e D são tentadoras pela presença do perigo, mas o cartaz não pede restrição nem vigilância; pede uma mudança de olhar, de compreensão. O título \"Tudo depende do olhar\" reforça essa leitura.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "46": {
+   "resolucao": "O texto é de 1960, ano da inauguração de Brasília, auge do **nacional-desenvolvimentismo** de Juscelino Kubitschek (Plano de Metas, \"50 anos em 5\"). A interiorização da capital era apresentada como o caminho para integrar o território e superar o atraso.\n\nRepare na mudança de perspectiva: o sertão, antes associado à \"palhoça\", às \"febres\" e à \"verminose\", aparece agora \"palpitante de vida\", e a nova capital levantada no Planalto Central simboliza a \"emancipação nacional\". O texto liga, portanto, a paisagem do interior (o cerrado, a região antes \"imobilizada\", a cidade construída) ao projeto desenvolvimentista.\n\nNão há correspondências oficiais, relatórios médicos ou mensagens parlamentares em jogo, e o governo JK nada tinha de socialista.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "47": {
+   "resolucao": "Georges Duby trata da **Baixa Idade Média** (séculos XI a XIII), quando a expansão agrícola — arroteamentos, desmatamentos, drenagens, novas técnicas — gerou excedentes que alimentaram o renascimento urbano e a construção das catedrais góticas.\n\nO texto diz que a arte urbana \"extraiu dos campos vizinhos o principal alimento de seu crescimento\" e que as próprias catedrais (Laon, Amiens, Paris) esculpem bois de trabalho, videiras e o ciclo dos trabalhos do campo. O monumento é \"o fruto do campo\", ou seja, da cultura agropecuária.\n\nA alternativa da aristocracia feudal é tentadora, mas o texto destaca o trabalho dos camponeses (cultivadores, vinhateiros), não o senhorio; feiras e manufaturas não aparecem.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "48": {
+   "resolucao": "O texto de Élisée Reclus descreve a **Revolução Industrial** apoiada no carvão mineral: como o combustível era a base da energia (máquinas a vapor), as fábricas se instalavam junto às bacias hulhíferas, caso do norte da Inglaterra, do Ruhr e do norte da França.\n\nA consequência espacial é explícita: \"as cidades industriais espremem-se na vizinhança das minas\" e a população \"amontoa-se em multidões densas\". Ou seja, a industrialização atraiu trabalhadores do campo e intensificou a urbanização, com cidades poluídas e superpovoadas.\n\nIsso é o contrário de redução da densidade demográfica; as ferrovias, aliás, se expandiram nesse período, e reservas ambientais não faziam parte desse modelo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "49": {
+   "resolucao": "O debate de Valladolid (1550–1551) opôs Juan Ginés de Sepúlveda, que via os indígenas como bárbaros e justificava a guerra e a sujeição, e o frei Bartolomeu de Las Casas, que defendia a humanidade dos nativos.\n\nApesar de opostas, as duas narrativas julgam o indígena a partir dos valores europeus e cristãos: Sepúlveda o considera \"infra-humano\"; Las Casas o eleva a \"homem como os outros\", até \"superior\", mas sempre medido pela régua do colonizador e tendo em vista a conversão. É isso que se chama **etnocentrismo**: tomar a própria cultura como padrão para avaliar a do outro.\n\nPor isso não se pode falar em aceitação da diversidade ou em reconhecimento da alteridade, que pressuporiam ver o indígena em seus próprios termos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "50": {
+   "resolucao": "O festival de Woodstock (1969) é símbolo da **contracultura**: juventude, pacifismo, crítica ao consumo e ao sistema. O texto aponta a contradição do evento: pensado como negócio lucrativo, virou festa gratuita e anárquica, mas o filme recuperou \"facilmente os lucros perdidos\".\n\nAqui entra o conceito de **indústria cultural** (Adorno e Horkheimer): o mercado absorve até as manifestações que o contestam e as transforma em mercadoria. O autor diz que a indústria cultural não deixou \"de vencer e absorver\" a criatividade juvenil do rock. Isso é a mercantilização de artes questionadoras.\n\nNão se fala em censura, academicismo ou padrões estéticos impostos, e o foco não é a mídia como espetáculo, e sim o lucro sobre a rebeldia.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "51": {
+   "resolucao": "A charge mostra pessoas em situação de rua, morando em barracas improvisadas numa praça, sonhando com uma casa, diante de um cartaz que proclama: \"Todo brasileiro tem direito à moradia\".\n\nA ironia está na distância entre a lei e a realidade. A moradia é um **direito social** previsto no artigo 6º da Constituição de 1988 (incluído em 2000). Para que ele se concretize, é preciso política habitacional que amplie o acesso à casa digna: programas de habitação popular, regularização fundiária, uso de imóveis ociosos.\n\nAlojamentos públicos são solução provisória e não equivalem à moradia sonhada; condomínios elitizados e o trabalho informal nada têm a ver com o direito em questão.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "52": {
+   "resolucao": "O texto trata da evolução da **geodésia** e do posicionamento: o que antes exigia especialistas, instrumentos sofisticados e meses de cálculo, hoje qualquer smartphone faz em segundos, graças aos sistemas de navegação por satélite (GPS/GNSS). É um exemplo do meio técnico-científico-informacional.\n\nA consequência para a oferta de serviços é o surgimento de aplicativos que dependem da localização em tempo real: mapas e navegação, transporte por aplicativo, entregas, compartilhamento de bicicletas e patinetes. Isso é a popularização dos aplicativos de mobilidade.\n\nBeleza, lazer, entretenimento e segurança não têm relação direta com a obtenção de coordenadas geográficas descrita no texto.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "53": {
+   "resolucao": "**Ubuntu** é uma filosofia de povos bantos do sul da África, resumida no provérbio citado: uma pessoa é pessoa por meio de seus relacionamentos com os outros. O ser humano se constitui na comunidade, não isoladamente.\n\nA tradição ética eurocêntrica moderna, ao contrário, parte do indivíduo: o sujeito racional e autônomo de Descartes e Kant, o indivíduo portador de direitos do liberalismo. O contraste, portanto, está na valorização dos vínculos entre as pessoas, isto é, da **intersubjetividade**.\n\nAs alternativas que falam em individualidade e racionalidade descrevem justamente o polo eurocêntrico, e não o africano; liberdade e identidade não são o eixo do texto.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "54": {
+   "resolucao": "O Texto I (Magnoli) afirma que a escravidão moderna foi um sistema econômico, não racial, já que pessoas de todas as cores escravizaram outras em diversas sociedades. O Texto II (Hebe Mattos) contesta essa leitura.\n\nPara Mattos, a escravidão atlântica tem uma especificidade histórica: ela produziu o **racismo estrutural** na América. A própria linguagem definia o tráfico como \"negreiro\" e os livres não brancos como pessoas \"de cor\", que seguiam racializadas mesmo ao ascender socialmente. Ou seja, a crítica se apoia na historicidade da construção étnico-racial: a cor passou a marcar socialmente as pessoas naquele contexto concreto.\n\nNão se trata de veracidade filosófica nem de similaridade cultural; o argumento é histórico.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "55": {
+   "resolucao": "Theodor Adorno, da **Escola de Frankfurt**, pensa a barbárie a partir de Auschwitz: o horror não veio da falta de civilização, mas surgiu no interior da sociedade tecnologicamente mais avançada. É a tese da *Dialética do esclarecimento*: a razão que deveria emancipar se reduziu a **razão instrumental**, preocupada só com meios eficientes, e acabou se voltando contra os próprios fins humanos.\n\nO texto aponta pessoas \"atrasadas\" em relação à própria civilização técnica, tomadas por uma agressividade primitiva. A condição dessa barbarização é o obscurecimento ligado à razão instrumental: o avanço técnico caminha junto com o apagamento da reflexão crítica, e o esclarecimento recai no mito.\n\nO eclipse da experiência subjetiva também é tema de Adorno, mas o texto destaca o contraste entre desenvolvimento técnico e irracionalidade.\n\n**Resposta: D**",
+   "confianca": "media",
+   "pendencia": "A alternativa oficial usa uma formulação ambígua (\"obscurecimento da razão instrumental\"); a leitura adotada é a do obscurecimento produzido pelo predomínio da razão instrumental."
+  },
+  "56": {
+   "resolucao": "A OIM integra o **sistema ONU** e coordena a Rede das Nações Unidas para a migração. Essa vinculação a uma organização mais abrangente expressa o reconhecimento de que os fluxos migratórios contemporâneos são um desafio global.\n\nRefugiados de guerras, migrantes econômicos, deslocados por desastres ambientais e por mudanças climáticas exigem cooperação internacional, por isso os objetivos citados: migração regular, redução da migração forçada e proteção de direitos. Trata-se de reconhecer novos desafios populacionais.\n\nNão há ausência de agências (a própria OIM existe desde 1951); fome e analfabetismo são temas de outros órgãos (FAO, Unesco); e o texto não menciona iminência de conflitos militares.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "57": {
+   "resolucao": "Élisée Reclus, geógrafo anarquista do século XIX, critica a **modernização agrícola** que convive com a concentração da terra. Os grandes proprietários podem introduzir métodos científicos, novas espécies e técnicas, mas o latifúndio, \"em sua essência\", implica privar a maioria da terra.\n\nOu seja, a modernização muda a técnica e a produtividade, mas mantém intacta a **estrutura fundiária** concentrada: \"se alguns têm muito é porque a maioria não tem mais nada\". É a mesma crítica que se faz à modernização conservadora no campo brasileiro.\n\nÍndice produtivo, técnica agrícola e variedade genética são justamente o que a modernização altera; o alvo da crítica é a permanência da concentração da propriedade.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "58": {
+   "resolucao": "Em novembro de 2015 rompeu-se a barragem de Fundão, da mineradora Samarco, em Mariana (MG), no maior desastre socioambiental da mineração brasileira. A lama de rejeitos de minério de ferro desceu pelo vale e chegou ao rio Doce e ao litoral do Espírito Santo.\n\nAs imagens de satélite mostram o subdistrito de Bento Rodrigues: em 2014, ruas, casas e vegetação; em 2016, quase tudo coberto por lama, com as construções soterradas. A comparação evidencia a destruição de lugares habitados, com moradores desalojados e laços comunitários rompidos.\n\nAs matas ciliares foram destruídas, não adensadas; a ocupação urbana desapareceu em vez de se concentrar.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "59": {
+   "resolucao": "O texto defende a **intensificação agropecuária**: produzir mais na mesma área, aumentando a produtividade por hectare, para não precisar abrir novas áreas sobre a floresta. É a ideia de conciliar produção e preservação poupando terra.\n\nA prática que atende a essa lógica é recuperar solos degradados, como pastagens abandonadas ou de baixa produtividade: correção do solo, integração lavoura-pecuária-floresta, plantio direto. Com isso, áreas já desmatadas voltam a produzir e a fronteira agrícola não precisa avançar.\n\nFiscalizar parques e monitorar rios são medidas de proteção, mas não aumentam a produção; expandir cultivos permanentes pode exigir novas áreas; e mapear minérios não tem relação com o tema.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "60": {
+   "resolucao": "O texto trata da **medicalização da beleza**: padrões corporais idealizados, difundidos pela mídia, e uma medicina estética que se apresenta como portadora de \"verdades científicas\". Isso se liga a bulimia, anorexia, academias e cirurgias plásticas.\n\nA questão própria da sociedade contemporânea é a produção de sujeitos cuja identidade depende da aprovação da imagem corporal. Ao perseguir um corpo perfeito inalcançável, as pessoas se tornam vulneráveis: inseguras, sujeitas a transtornos alimentares e a intervenções arriscadas. São subjetividades vulneráveis, moldadas por essa pressão.\n\nBulimia e anorexia não são patologias desconhecidas; o texto não fala de envelhecimento saudável nem de métodos alternativos, já que a cirurgia estética é medicina convencional.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "61": {
+   "resolucao": "O texto descreve os **bancos de sementes crioulas** (na Paraíba, \"sementes da paixão\"): variedades locais selecionadas ano após ano pelos próprios agricultores, guardadas na propriedade e acompanhadas de saberes transmitidos entre gerações.\n\nEssa prática mantém viva uma grande variedade genética de plantas adaptadas ao clima e ao solo de cada lugar, que se perderia com a substituição por poucas sementes comerciais padronizadas. É, portanto, uma forma de conservar o **patrimônio biogenético** (agrobiodiversidade), além de garantir autonomia e segurança alimentar às comunidades.\n\nA alternativa das espécies transgênicas é o oposto disso: elas vêm de empresas e reduzem a diversidade. Inovação industrial e exportações também não combinam com a agricultura familiar tradicional descrita.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "62": {
+   "resolucao": "O Dia de Sobrecarga da Terra indica quando o consumo humano de recursos naturais no ano ultrapassa a capacidade do planeta de regenerá-los e de absorver resíduos. Ele se baseia na ideia de **pegada ecológica** e de **capacidade de suporte**.\n\nPara ampliar essa capacidade é preciso reduzir a pressão sobre os recursos, especialmente as emissões de carbono, que são a maior parte da pegada global. Investir em fontes renováveis (solar, eólica, biomassa) diminui a queima de combustíveis fósseis e, com isso, o dióxido de carbono acumulado na atmosfera, citado no texto.\n\nAs demais alternativas agravariam o problema: mais resíduos, menos apoio à agricultura orgânica, enfraquecimento do controle ambiental e mineração em terras indígenas.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "63": {
+   "resolucao": "O texto retoma a crítica à **indústria cultural** (Escola de Frankfurt) e à manipulação ideológica pela mídia. A televisão oferece uma visão fragmentada do real, faz com que o espectador deixe de ser protagonista e receba \"ideias\" prontas, gerando alienação.\n\nAs características criticadas são, portanto, a massificação cultural, que padroniza a percepção e torna o público passivo, e a submissão aos interesses do mercado de consumo, que comandam a programação. O sujeito \"não autônomo\" do texto é o consumidor de massa.\n\nAs demais alternativas atribuem à mídia efeitos positivos (independência moral, democratização, contraposição ao mercado) ou elementos que o texto não menciona.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "64": {
+   "resolucao": "Michelle Perrot, historiadora das mulheres, analisa o século XIX, período de consolidação da **sociedade burguesa** e da industrialização. Nesse modelo, o espaço público (trabalho remunerado, política) era reservado aos homens, e o espaço privado do lar, às mulheres.\n\nO texto mostra que à dona de casa cabiam a maternidade e as \"tarefas domésticas\" (alimentação, educação, limpeza) e que a sociedade \"não poderia crescer e se reproduzir\" sem esse trabalho. Ou seja, a ordem burguesa dependia da **divisão sexual do trabalho**: o trabalho feminino não pago sustentava a reprodução da família e da força de trabalho.\n\nO texto aponta justamente a falta de remuneração e a centralidade dos afazeres do lar, e não sua eliminação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "65": {
+   "resolucao": "Na **Primeira República** (1889–1930), o Brasil viveu contrastes fortes. As grandes cidades, sobretudo o Rio de Janeiro, passavam por reformas urbanas, recebiam imigrantes e viviam a sensação de \"vertigem e aceleração do tempo\", com novas tecnologias e hábitos ligados à belle époque.\n\nJá no interior, nas fazendas e nos sertões, prevalecia o \"marasmo\": a rotina secular, o coronelismo e a vontade senhorial. O texto põe lado a lado dois ritmos de vida e duas culturas distintas no mesmo país, isto é, diferenças entre dinâmicas socioculturais.\n\nNão há convergência de ideais, e o texto não trata de políticas públicas ou de incentivos governamentais; a atividade agropastoril aparece como cenário, não como o que se pretende evidenciar.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "66": {
+   "resolucao": "O **Brexit**, aprovado em referendo em 2016, foi motivado em boa parte pelo discurso de controle da imigração. A saída da União Europeia acabou com a livre circulação de pessoas entre o Reino Unido e o bloco, um dos pilares do mercado comum europeu.\n\nO temor dos setores citados — clínicas, restaurantes, bares e lavouras — revela que a economia britânica depende de trabalhadores estrangeiros, muitas vezes em funções que os nativos não ocupam. Ao restringir a imigração, o país dificulta a circulação da força de trabalho de que precisa.\n\nO texto não menciona sindicatos patronais, tecnologia digital, mercado financeiro nem assistência pública.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "67": {
+   "resolucao": "O Museu da Maré é um exemplo de **museu comunitário** ou de território, ligado à nova museologia: em vez de expor só obras de arte ou objetos da elite, guarda a memória de grupos populares, contada a partir dos próprios moradores.\n\nA exposição reúne elementos patrimoniais (fotografias, pertences doados, a réplica de uma palafita) para narrar os \"tempos\" da favela: a água, a migração, a casa, a resistência, o trabalho. Com isso, valoriza a diversidade histórica, reconhecendo a experiência de uma comunidade que costuma ficar fora da história oficial.\n\nNão se trata de definir identidade artística nem de conservar uma edificação civil; a palafita é reprodução, e jornalismo policial e opinião pública não têm relação com a proposta.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "68": {
+   "resolucao": "O exemplo dos cisnes é clássico na filosofia da ciência. A partir de muitas observações particulares (o cisne 1, o 2, até o 534 são brancos), chega-se a uma conclusão geral (\"todos os cisnes são brancos\"). Esse caminho do particular para o universal é o **método indutivo**, associado a Francis Bacon e ao empirismo.\n\nO exemplo também é usado por Karl Popper para mostrar o limite da indução: nenhuma quantidade de casos confirma a regra com certeza, e bastou encontrarem cisnes negros na Austrália para refutá-la. Mas a questão pede apenas o tipo de raciocínio.\n\nNão há intuição pessoal, retórica persuasiva ou criação: a conclusão vem das observações empíricas, e não as nega.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "69": {
+   "resolucao": "As comunidades de **Fundo e Fecho de Pasto**, na Bahia, são povos tradicionais que usam a terra coletivamente, criando o gado solto na Caatinga, em áreas comuns, há séculos.\n\nEsse modo de vida depende da vegetação nativa: o rebanho se alimenta da caatinga, que precisa continuar de pé, e o uso comunitário evita o desmatamento em grandes lotes cercados. Assim, a relação sociedade-natureza dessas comunidades favorece a conservação do bioma, como acontece com outros povos tradicionais.\n\nA modernização agrícola e o comércio imobiliário, ao contrário, ameaçam essas comunidades com cercamento e grilagem das terras; turismo e mudança de costumes não aparecem no texto.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "70": {
+   "resolucao": "A noção de **cidadania** nasce na Antiguidade clássica: na pólis grega, sobretudo em Atenas, e na República romana. Mas era restrita.\n\nEm Atenas, cidadão era o homem livre, adulto, filho de pais atenienses, que podia participar da assembleia. Mulheres, estrangeiros (metecos) e escravos ficavam de fora. Em Roma, a cidadania também se ligava à condição de homem livre. Por isso, em sua origem, o conceito estava associado aos homens livres.\n\nO clero católico não existia na Antiguidade clássica; escravos eram justamente excluídos; e as sufragistas lutaram pelo voto feminino nos séculos XIX e XX, muito depois.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "71": {
+   "resolucao": "O tema é a **abolição da escravidão** no Brasil. O samba-enredo da Mangueira de 2019 recusa a versão de que a liberdade foi um presente da princesa Isabel (\"Nem das mãos de Isabel\") e exalta o \"dragão no mar de Aracati\", Francisco José do Nascimento, o Chico da Matilde.\n\nO Texto II explica: em 1881, jangadeiros liderados por ele se recusaram a embarcar escravizados vendidos para o Sul, e o Ceará aboliu a escravidão em 1884. Os dois textos ressaltam, portanto, que a abolição foi conquistada pela mobilização social: greves, fugas, sociedades abolicionistas, imprensa e ação popular.\n\nA Lei Áurea, inovação jurídica do Estado, é justamente a explicação que os textos querem relativizar.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "72": {
+   "resolucao": "Virgínia Fontes analisa a relação entre tecnologia e trabalho no capitalismo, num contexto de \"uberização\". A promessa é de que as máquinas libertariam as pessoas do trabalho. Mas, como os trabalhadores precisam vender sua força de trabalho para sobreviver, a substituição por máquinas não traz liberdade: traz perda de emprego.\n\nEsse é o **desemprego estrutural** (ou tecnológico): vagas eliminadas permanentemente pela automação, e não por uma crise passageira. A autora observa ainda que a tecnologia poderia reduzir jornadas sem cortar salários, mas isso não acontece.\n\nO texto não fala em ampliação do trabalho, padronização salarial ou deslocamentos sazonais; flexibilização judicial não é o efeito descrito.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "73": {
+   "resolucao": "Pesquisas de DNA antigo, arqueologia e linguística mostram que os europeus atuais descendem de várias levas de migrantes: caçadores-coletores vindos da África, agricultores do Oriente Médio e pastores das estepes russas.\n\nO pesquisador diz que isso desmonta \"o paradigma nacionalista\" de que um povo sempre viveu no mesmo lugar sem se misturar. Esse discurso é o da **pureza racial**, que sustentou o nacionalismo étnico e ideologias como o nazismo (a suposta raça ariana) e ainda alimenta discursos contra imigrantes.\n\nDiversidade étnica, variedade linguística e multiplicidade genética são justamente o que as descobertas confirmam, e não o que elas desconstroem.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "74": {
+   "resolucao": "O texto fala de como a ideia de **império romano** foi apropriada em diferentes épocas para legitimar projetos políticos. O exemplo mais marcante no século XX é o **fascismo italiano** de Mussolini, que se apresentava como herdeiro de Roma: o próprio nome vem dos fasces, símbolo de autoridade dos magistrados romanos, e o regime usava a saudação romana e sonhava refazer o império no Mediterrâneo e na África.\n\nO slogan \"Tudo no Estado; nada fora do Estado; nada contra o Estado\" é de Mussolini e resume o totalitarismo fascista.\n\n\"Tupi or not Tupi\" é do Manifesto Antropófago; \"Uma terra sem povo...\" é do sionismo; \"O privado é público\" lembra o feminismo; a última frase é uma crítica ao poder.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "75": {
+   "resolucao": "Os textos tratam de **micronações**: a Ilha das Rosas, na Itália, e o Principado de Sealand, no Mar do Norte. Nos dois casos, os fundadores tinham território, moradores, hino, bandeira, títulos e até comércio, mas nenhum país os reconheceu como Estado.\n\nNo direito internacional, a soberania plena depende também do **reconhecimento externo** pelos outros Estados. Sem ele, a Itália destruiu a ilha com explosivos e a Inglaterra tentou intimidar os Bates, tratando-os como uma ocupação ilegal, e não como nações.\n\nMoeda, mercado consumidor e legislação não são o que faltou de decisivo; a população nativa também não é exigida, já que Estados podem ser formados por imigrantes.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "76": {
+   "resolucao": "Os dois textos ligam arte e **democracia**. O Texto I mostra que, após a Segunda Guerra, cresceu na Europa o sentimento democrático e a sociedade passou a exercer algum controle sobre o poder público, o que mudou também a percepção da arte. O Texto II afirma que a liberdade artística é \"termômetro democrático\": espaço da diversidade, perseguido por regimes autoritários, como o nazismo com a \"arte degenerada\", e por quem discrimina pessoas LGBTQIAPN+ e adeptos de religiões afro-brasileiras.\n\nA manifestação artística aparece, assim, como forma de participação cidadã, que defende a pluralidade e a inclusão dos grupos atacados pela intolerância.\n\nAs demais alternativas falam em rituais, estratificação, independência econômica ou regulação, ideias que não estão nos textos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "77": {
+   "resolucao": "O Texto I, da filosofia da linguagem, afirma que dar significado ao mundo não é só uma operação cognitiva (conhecer, descrever): também é lidar com ele no sentido do \"padecer\", isto é, senti-lo, ser afetado por ele.\n\nO poema de Drummond (\"Poema de sete faces\") é exatamente isso. Diante do \"vasto mundo\", o eu lírico não descreve nem explica a realidade: expressa um sentimento, e conclui que \"mais vasto é meu coração\". A significação do mundo ali é **expressiva**, porque manifesta a experiência vivida e afetiva do sujeito.\n\nO poema não julga atos (valorativa), não dá ordens (imperativa) e não retrata a realidade objetiva; a ideia de \"aspirações individuais\" também não corresponde ao \"padecer\" do Texto I.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "78": {
+   "resolucao": "O texto trata da nova **geopolítica do Ártico**. Com o aquecimento global, o gelo marinho derrete e abre rotas de navegação antes bloqueadas durante boa parte do ano, como a Passagem do Noroeste e a Rota do Mar do Norte, além de expor reservas de petróleo, gás e minérios.\n\nEssas rotas encurtam muito a viagem entre Ásia, Europa e América do Norte, o que explica o interesse da Rússia, dos países nórdicos, dos Estados Unidos e de novos atores como a China. A intensificação do uso da rota resulta, portanto, do aumento da temperatura global.\n\nO texto aponta disputas, e não pacificação; também não há bloqueio de trajetos tradicionais nem políticas ambientais como causa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "79": {
+   "resolucao": "O Texto I, da micro-história, propõe olhar os indivíduos e os movimentos sociais para romper homogeneidades aparentes e mostrar que as pessoas, \"façam\" ou não a história, moldam e modificam as relações de poder. É uma valorização da ação dos sujeitos comuns.\n\nA canção de Gabriel, o Pensador, convoca o ouvinte a agir: \"pouca luta\", \"muito protesto\", \"muita greve\", \"você pode e você deve\", e critica quem se conforma e vira \"a cara pra não ver\". A ideia comum é o **protagonismo do cidadão**, a capacidade de cada um interferir na realidade.\n\nA canção recusa justamente a pacificação e a passividade; ela fala a todos (\"pobre, rico ou classe média\"), e não só a estudantes ou trabalhadores sindicalizados.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "80": {
+   "resolucao": "O **Círio de Nazaré**, em Belém, é uma das maiores procissões católicas do mundo e é patrimônio imaterial reconhecido pelo Iphan. A corda entrou na procissão em 1855 por motivo prático (tirar a berlinda de um atoleiro) e, com o tempo, ganhou outro sentido: sacrifício, promessa e aproximação do sagrado.\n\nEssa ressignificação não veio da Igreja nem de um rito oficial: foi construída pelos próprios devotos. Mostra que a festa é marcada pela manifestação do imaginário popular, que cria e renova seus símbolos.\n\nA alternativa do culto católico é tentadora, mas a corda não é um rito litúrgico reproduzido; não se trata de ritual indígena, costume europeu ou contestação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "81": {
+   "resolucao": "O **Matopiba** (Maranhão, Tocantins, Piauí e Bahia) é a fronteira agrícola mais recente do Cerrado. Terras baratas, relevo plano, que facilita a mecanização, e tecnologias de correção do solo e sementes adaptadas, desenvolvidas pela Embrapa, atraíram grandes produtores de soja e milho.\n\nEssas são características do modelo produtivo **moderno**, o agronegócio: monocultura em larga escala, mecanização, insumos químicos e voltada à exportação. O texto destaca justamente os \"avanços tecnológicos\".\n\nAgricultura familiar, orgânica, itinerante (roça de coivara) e agroflorestal são modelos que não combinam com a expansão da soja mecanizada descrita.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "82": {
+   "resolucao": "A **Companhia Siderúrgica Nacional** (CSN), em Volta Redonda (RJ), foi construída durante o Estado Novo com financiamento dos Estados Unidos, negociado em troca do apoio brasileiro aos Aliados na Segunda Guerra.\n\nO otimismo de Vargas se explica pelo papel da siderurgia como base da **indústria pesada** (de base): o aço é insumo para máquinas, ferrovias, navios e outras indústrias. Produzi-lo no país era condição para a industrialização autônoma e para reduzir a dependência de importações, daí a ideia de \"emancipação\".\n\nA siderúrgica não produz bens de consumo; o Brasil não ficou neutro (alinhou-se aos Estados Unidos) e não alcançou independência fabril das potências, já que o próprio projeto dependeu de capital norte-americano.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "83": {
+   "resolucao": "Os textos tratam da **ditadura de Pinochet** no Chile (1973–1990), iniciada com o golpe contra Salvador Allende, e da memória dos 50 anos do golpe. A repressão matou e fez desaparecer milhares de pessoas, como o cantor Victor Jara, e torturou dezenas de milhares.\n\nTortura, assassinato e desaparecimento forçado praticados pelo Estado contra a população civil são **crimes contra a humanidade**, imprescritíveis. A condenação dos militares que mataram Jara e a fala do juiz que ordenou a prisão de Pinochet (\"justiça tardia não é justiça\") ressaltam a importância de punir esses crimes para fortalecer a democracia.\n\nA anistia aos agentes da repressão vai na direção contrária; as demais alternativas não aparecem nos textos.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "84": {
+   "resolucao": "Em 1955, no Alabama, vigoravam as leis de **segregação racial** (as leis Jim Crow) no sul dos Estados Unidos. A recusa de Rosa Parks em ceder o lugar no ônibus levou à sua prisão e desencadeou o boicote aos ônibus de Montgomery, que durou mais de um ano e projetou Martin Luther King.\n\nEsse ato individual se tornou símbolo do **movimento pelos direitos civis**, estimulando o ativismo político da população negra e de outros grupos oprimidos, que culminou nas leis de 1964 e 1965.\n\nO boicote foi uma tática pacifista bem-sucedida (a Suprema Corte declarou a segregação nos ônibus inconstitucional), o que elimina a alternativa D; não houve disputa militar entre estados nem emigração forçada.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "85": {
+   "resolucao": "Henri Acselrad trata da **justiça ambiental**: a ideia de que a questão ecológica não pode ser separada da luta contra a pobreza e a desigualdade. O problema apontado é que a proteção ambiental costuma ser vista como obstáculo à geração de emprego e renda.\n\nNo campo, a saída que concilia as duas coisas são as cooperativas de manejo sustentável: extrativistas, agricultores familiares e comunidades tradicionais produzem e geram renda usando os recursos naturais sem destruí-los, como fazem cooperativas de açaí, castanha e borracha.\n\nReservas que impedem o uso agrícola ignoram a pobreza; polos industriais ignoram o ambiente; a remoção de moradores e a garantia de direitos civis não resolvem o conflito entre renda e conservação.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "86": {
+   "resolucao": "O trecho apresenta o **eterno retorno**, de Friedrich Nietzsche: viver de modo que você deseje repetir infinitamente cada instante da sua vida. É um teste para saber se dizemos \"sim\" à vida tal como ela é, com suas dores.\n\nIsso se liga ao amor fati e à **visão trágica** da existência: em vez de buscar consolo num além ou num ideal futuro, Nietzsche propõe afirmar plenamente a vida terrena e o presente. Por isso a conduta é trágica, pela afirmação do presente.\n\nAs demais alternativas descrevem o que Nietzsche critica: idealismo utópico, conformismo resignado, religião voltada ao transcendente e saudosismo. A eternidade citada não é um outro mundo, e sim a repetição deste.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "87": {
+   "resolucao": "Os **quilombos** foram a forma mais marcante de resistência à escravidão no Brasil. A historiografia recente, de que João José Reis é um dos representantes, mostra que eles não viviam isolados: mantinham relações com a sociedade em volta.\n\nO texto dá o exemplo dos quilombolas de Iguaçu, no Rio de Janeiro: vendiam madeira à Corte e trabalhavam em fazendas de proprietários que contratavam fugidos. Ou seja, sobreviviam e se mantinham livres articulando-se à economia mercantil da região.\n\nO texto não fala em compra de alforria, combate a indígenas ou bandeirantes; e trabalhar para fazendeiros não é apropriar-se das terras senhoriais.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "88": {
+   "resolucao": "Para Albert Camus, o **absurdo** nasce do confronto entre o desejo humano de sentido, clareza e unidade e um mundo que não responde a esse desejo, irracional e indiferente. O absurdo não está só no homem nem só no mundo, mas nesse choque.\n\nSísifo, condenado a rolar uma pedra montanha acima para vê-la descer de novo, é a imagem dessa condição: um esforço sem fim diante de uma realidade que não oferece sentido. Daí a resposta: confrontação da irracionalidade do real.\n\nCamus não nega a materialidade do mundo nem a responsabilidade (ao contrário, defende a revolta lúcida); a questão também não é a intersubjetividade nem uma teoria da transcendência.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "89": {
+   "resolucao": "O mapa, do MapBiomas, mostra que 232 terras indígenas tiveram desmatamento em 2021, concentrado na **Amazônia Legal**: Pará, Rondônia, Mato Grosso, Amazonas e Roraima, com várias áreas acima de 500 hectares. Terras indígenas são da União e protegidas por lei, então esse desmatamento é ilegal, ligado a garimpo, extração de madeira, grilagem e pecuária.\n\nA iniciativa governamental necessária é reforçar a fiscalização ambiental: monitoramento por satélite, ação de Ibama, Funai e Polícia Federal, retirada de invasores e demarcação.\n\nExploração mineral, cultivos modernos e projetos de integração regional estão entre os vetores da pressão sobre essas terras; subsídios industriais não têm relação com o mapa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "90": {
+   "resolucao": "O texto trata das **trancistas** negras no Rio de Janeiro e destaca que trançar cabelos não começou na diáspora: penteados complexos e adornos como conchas, búzios e miçangas eram marcas civilizatórias de várias sociedades africanas, com significados como prosperidade.\n\nAssim, a atividade é apresentada como continuidade de uma prática milenar trazida pelos africanos escravizados e mantida por seus descendentes. É uma afirmação da **herança ancestral** africana e da identidade negra no Brasil.\n\nNão se trata de inovação nem de apropriação da cultura local: a origem é africana, e não brasileira. O texto também não fala em rejeição do presente nem em senso comum.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "91": {
+   "resolucao": "A eficiência do climatizador é medida pela redução de temperatura que ele produz, e essa redução depende da temperatura de entrada e da umidade relativa (UR): quanto mais seco o ar, mais água evapora e mais calor é retirado.\n\nBasta cruzar os dados de cada cidade (Tabela 2) com a Tabela 1:\n\nBarbalha: 26,0 °C e 58% (faixa 50 a 59) → 5,7 °C\nBelém: 27,5 °C e 75% (faixa 70 a 80) → 2,6 °C\nCáceres: 28,5 °C e 51% (faixa 50 a 59) → 6,2 °C\nCorumbá: 27,0 °C e 52% (faixa 50 a 59) → 5,9 °C\nJanaúba: 25,5 °C e 40% (faixa 40 a 49) → 7,1 °C\n\nA maior redução é a de Janaúba. Cáceres tenta porque tem a maior temperatura, mas a umidade pesa muito mais que a temperatura na tabela: Janaúba, com o ar mais seco, ganha mesmo sendo a mais fria.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "92": {
+   "resolucao": "O problema descrito é a impermeabilização: sem infiltração, a água da chuva escoa pela superfície, arrastando sujeira, óleo e resíduos para os rios. Mitigar esse efeito significa devolver ao solo a capacidade de absorver água.\n\nParques e espaços arborizados fazem exatamente isso: o solo exposto e coberto por vegetação permite a infiltração, as raízes e a serapilheira retêm a água e os detritos e diminuem o volume e a velocidade do escoamento superficial que chegaria aos cursos d'água.\n\nAs outras opções não atacam a causa: reciclar lixo seco e construir fossas sépticas tratam de outros tipos de poluição; vasos de plantas não recuperam área permeável significativa; e ampliar a canalização apenas leva o escoamento contaminado mais rápido até os rios.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "93": {
+   "resolucao": "O experimento de Griffith (1928) é o ponto de partida da descoberta do \"princípio transformante\", depois identificado como o DNA.\n\nLeitura das quatro etapas: bactérias não virulentas vivas não matam o camundongo; virulentas vivas matam; virulentas mortas pelo calor não matam; mas a mistura de não virulentas vivas com virulentas mortas mata o animal. Como nenhuma das duas, sozinha, é letal, algo das bactérias virulentas mortas foi passado às não virulentas vivas, tornando-as virulentas.\n\nA hipótese testada, portanto, é que a virulência pode ser transferida de uma bactéria para outra (transformação bacteriana).\n\nO calor aparece apenas como ferramenta para matar as bactérias virulentas; ele não é o objeto de estudo, o que descarta as alternativas sobre mutação pelo calor ou eficácia do calor. A quantidade de bactérias também não foi variada.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "94": {
+   "resolucao": "A ideia central é a da nanotecnologia como sistema de liberação de fármacos: a nanocápsula protege o princípio ativo e o leva mais fundo na pele antes de soltá-lo.\n\nNa figura, o \"produto normal\" fica retido na epiderme, enquanto o produto nanoencapsulado atravessa a epiderme (bolinhas cor-de-rosa, com núcleo oleoso e parede polimérica) e, já na derme, aparece como princípio ativo livre. Como o polímero é biodegradável, a cápsula se desfaz ao migrar, liberando a prilocaína e a lidocaína na região onde estão as terminações nervosas. Isso aumenta o transporte e a absorção dos princípios ativos.\n\nAs alternativas que falam em ficar na epiderme ou em ir até a hipoderme contrariam a figura, e não há nada que indique necessidade de mais creme por causa do tamanho da cápsula.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "95": {
+   "resolucao": "O PET é um poliéster: suas unidades são ligadas por grupos éster (–COO–). No esquema, a água entra como reagente e a ligação éster é quebrada: de um lado forma-se um ácido carboxílico (–COOH) e, do outro, um álcool (–OH).\n\nÉster + H₂O → ácido carboxílico + álcool\n\nEssa é a reação de hidrólise (quebra pela água), no caso hidrólise de éster, inversa da esterificação.\n\nEsterificação seria o caminho contrário (ácido + álcool formando éster e água). Transesterificação troca o grupo álcool de um éster por outro álcool, sem gerar ácido livre. Eterificação forma éteres, e neutralização é reação entre ácido e base.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "96": {
+   "resolucao": "A questão usa a resposta imune humoral: a IgM é produzida logo no início de uma infecção (indica infecção recente), e a IgG aparece depois e permanece (indica infecção mais antiga), com avidez crescente com o tempo.\n\nA nova proprietária quer provar que o cavalo já chegou infectado, ou seja, que a infecção é anterior à compra, ocorrida poucos dias antes. O resultado que favorece essa tese é o de infecção antiga:\n\nIgM negativo → não há infecção recente;\nIgG positivo → houve contato com o vírus há mais tempo.\n\nCom esse perfil, a conclusão vale independentemente da avidez. IgM positivo (alternativas A, D e E) apontaria infecção recente, compatível com contágio já na nova propriedade, o que favoreceria o vendedor. Ambos negativos indicariam ausência de anticorpos, sem prova de infecção anterior.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "97": {
+   "resolucao": "O texto dá a pista: polímeros biodegradáveis com \"grupos ésteres hidrolisáveis\". A água (com ajuda das enzimas dos microrganismos) quebra a ligação éster, gerando moléculas menores que podem ser assimiladas.\n\nBasta identificar a unidade monomérica com o grupo éster, isto é, um carbono com dupla ligação com oxigênio (C=O) ligado a um oxigênio da cadeia (–CO–O–). Isso aparece na alternativa B, um poliéster.\n\nAs demais: A é uma cadeia só de carbonos (tipo polietileno), muito resistente à degradação; C tem C=O ligado a nitrogênio, que é uma amida (poliamida), não éster; D tem oxigênio entre carbonos sem carbonila, ou seja, um poliéter; E tem cloro numa cadeia carbônica (tipo PVC). Nenhuma dessas tem o grupo éster pedido.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "98": {
+   "resolucao": "O fusível protege o circuito por efeito Joule: a corrente aquece o fio, e ele deve fundir (abrir o circuito) quando a corrente fica perigosa. Pelo texto, cada 4 A elevam a temperatura em 1 °C.\n\nO equipamento deve operar com corrente menor que 1 000 A, então o fio precisa fundir antes de a corrente chegar a esse valor:\n\nΔT máxima = 1 000 A ÷ 4 A/°C = 250 °C\n\nO material precisa fundir abaixo de 250 °C, mas o mais perto possível desse limite, para não interromper o circuito em correntes normais de trabalho. Corrente necessária para fundir cada um:\n\nFr: 27 × 4 = 108 A (fundiria em uso normal)\nSn: 232 × 4 = 928 A\nZn: 420 × 4 = 1 680 A (já passou de 1 000 A)\n\nO estanho funde pouco antes de 1 000 A. Zinco, prata e silício só fundiriam acima do limite, sem proteger o aparelho; o frâncio fundiria cedo demais.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "99": {
+   "resolucao": "Para classificar a relação, olhe o que as duas espécies fazem com o mesmo recurso: ambas visitam a flor do maracujazeiro e coletam o seu pólen. A mamangava poliniza a planta; a abelha europeia apenas retira o pólen, sem fecundar a flor.\n\nQuando duas espécies diferentes exploram o mesmo recurso limitado (aqui, o pólen do maracujazeiro), há competição interespecífica: o pólen levado pela Apis mellifera deixa de estar disponível para a mamangava, e as duas se prejudicam mutuamente.\n\nNão é predação (uma não come a outra), nem mutualismo ou comensalismo (não há benefício de uma abelha para a outra). Inquilinismo exige que uma espécie use a outra como abrigo. A relação de mutualismo existe, sim, mas é entre a mamangava e a planta, não entre os dois insetos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "100": {
+   "resolucao": "Compare os dois espectros. Em (A), a lâmpada LED branca tem um pico forte no azul (perto de 450 nm) e outro largo do verde ao laranja. Em (B), com a cobertura, a emissão abaixo de cerca de 480 nm praticamente desaparece, e surge um único pico, maior, no amarelo-alaranjado (perto de 600 nm).\n\nO texto diz que o material mantém a intensidade total da lâmpada. Se a luz azul fosse apenas refletida ou bloqueada, ela sumiria do espectro, mas a parte amarela não cresceria. Como o pico amarelo-alaranjado aumenta, a energia da luz azul foi absorvida e reemitida em comprimentos de onda maiores (menor energia por fóton), que é o comportamento de um material fluorescente.\n\nUltravioleta não aparece no espectro (B), e difração ou polarização não mudam a cor da luz.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "101": {
+   "resolucao": "É uma questão de proporção em massa (estequiometria): toda a massa de carbono do CO₂ emitido precisa ser fixada nas árvores.\n\nMassa de carbono em 3 000 kg de CO₂ (12 g de C em cada 44 g de CO₂):\nm(C) = 3 000 × 12 ÷ 44\nm(C) ≈ 818 kg\n\nCarbono fixado por 1 000 m² de angico-branco:\n3 520 kg × 0,50 = 1 760 kg de C\n\nÁrea necessária:\nA = 818 ÷ 1 760 × 1 000 m²\nA ≈ 465 m²\n\nO erro típico é esquecer de converter CO₂ em carbono e usar os 3 000 kg diretamente, o que daria cerca de 1 700 m².\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "102": {
+   "resolucao": "O critério é \"semelhante dissolve semelhante\": manchas lipofílicas (óleos, ceras, gorduras) são apolares, então o solvente também deve ser apolar. Além disso, precisa ser volátil.\n\nAnalise a polaridade pela geometria. Na alternativa B, o tetracloroeteno (C₂Cl₄) tem quatro cloros distribuídos simetricamente em torno da dupla ligação: os dipolos das ligações C–Cl se anulam, e a molécula é apolar. É justamente o percloroetileno, solvente clássico da lavagem a seco.\n\nNas outras estruturas a simetria não é completa: o 1,2-dicloroeteno cis (A), o triclorometano (C) e o tricloroeteno (D) têm momento dipolar resultante diferente de zero; e o etanol (E) é polar e faz ligações de hidrogênio pelo –OH, sendo um mau solvente para gorduras.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "103": {
+   "resolucao": "O cronômetro mede o tempo contando ciclos da tensão da rede, calibrado para 50 Hz, ou seja, ele considera que 50 ciclos correspondem a 1 segundo.\n\nNo laboratório, a rede é de 60 Hz. Em um evento de 60 s reais, o número de ciclos é:\n\nN = 60 Hz × 60 s = 3 600 ciclos\n\nO aparelho converte esses ciclos usando a calibração de 50 Hz:\n\nt indicado = 3 600 ÷ 50 = 72 s\n\nComo os ciclos chegam mais depressa do que o previsto, o cronômetro \"adianta\" e marca um tempo maior que o real. O erro comum é fazer a proporção ao contrário (60 × 50 ÷ 60 = 50 s), como se a frequência maior fizesse o relógio atrasar.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "104": {
+   "resolucao": "A ideia é a da constante elástica de molas: para o mesmo material e o mesmo fio, a constante k é inversamente proporcional ao comprimento da mola. Cortar a mola pela metade dobra a constante elástica:\n\nk' = 2k\n\nA massa total foi mantida, então a frequência característica aumenta:\n\nw₀' = √(2k ÷ m) = √2 · w₀\n\nOriginalmente, w₀ = b (volta rápido, sem oscilar). Com w₀' > b, o texto informa que o sistema passa a oscilar algumas vezes até parar.\n\nAs alternativas que dizem que k diminui erram justamente na relação entre comprimento e rigidez: a mola mais curta é mais dura, não mais mole.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "105": {
+   "resolucao": "Como o gás é ideal e a pressão interna acompanha a atmosférica, vale a equação geral dos gases para a quantidade fixa de gás dentro do balão:\n\nP₁ · V₁ ÷ T₁ = P₂ · V₂ ÷ T₂\n\nLeitura dos gráficos: no nível do mar, P₁ = 100 kPa e T₁ = 300 K; a 20 km de altitude, P₂ ≈ 10 kPa e T₂ ≈ 240 K (perto do mínimo da curva de temperatura).\n\nV₂ ÷ V₁ = (P₁ ÷ P₂) × (T₂ ÷ T₁)\nV₂ ÷ V₁ = (100 ÷ 10) × (240 ÷ 300)\nV₂ ÷ V₁ = 10 × 0,8 = 8\n\nO volume da esfera é proporcional ao cubo do raio, então:\n\nr₂ ÷ r₁ = ∛8 = 2\n\nO raio dobra. A alternativa 8,00 é a armadilha de quem para no volume; 10,00 ignora também a queda de temperatura.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "106": {
+   "resolucao": "É um cálculo de massa de sódio a partir da proporção do Na no NaCl (massa molar 23 + 35,5 = 58,5 g/mol).\n\nLimite recomendado: 5 g de NaCl.\nm(Na) = 5 × 23 ÷ 58,5 ≈ 1,97 g\n\nConsumo com sal light: 12 g, metade NaCl.\nm(NaCl) = 12 × 0,50 = 6 g\nm(Na) = 6 × 23 ÷ 58,5 ≈ 2,36 g\n\nO KCl não contém sódio, então não entra na conta.\n\nExcesso de sódio:\n2,36 − 1,97 ≈ 0,39 g ≈ 0,4 g\n\nQuem compara 6 g com 5 g de sal e responde 1,0 g esquece que a pergunta é sobre a massa de sódio, não de cloreto de sódio.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "107": {
+   "resolucao": "Desprezando a resistência do ar, todos os corpos caem com a mesma aceleração, a da gravidade (g), independentemente da massa ou do tamanho: é a queda livre, como mostrou Galileu.\n\nPartindo do repouso, da mesma altura h = 50,0 cm = 0,500 m, e no mesmo instante:\n\nh = g · t² ÷ 2\nt = √(2h ÷ g)\n\nNessa expressão não aparece a massa nem o tamanho da fruta; só a altura e g, que são iguais para as três. Com g = 10 m/s², por exemplo:\n\nt = √(2 × 0,500 ÷ 10) ≈ 0,32 s\n\nLogo, melancia, melão e maçã chegam juntas ao chão. A ideia de que o corpo mais pesado cai primeiro é a intuição aristotélica que a questão quer derrubar; ela só valeria se o ar tivesse efeito relevante.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "108": {
+   "resolucao": "Na eletrólise, o polo positivo é o ânodo, onde ocorre oxidação, e o polo negativo é o cátodo, onde ocorre redução.\n\nPela figura, o eletrodo de bismuto (Bi) está ligado ao polo (+) e atrai os íons Cl⁻ da água salgada; ao fim, ele aparece como BiOCl. O bismuto passa de 0 para +3, ou seja, se oxida, capturando o cloreto:\n\nBi + Cl⁻ + H₂O → BiOCl + 2 H⁺ + 3 e⁻\n\nEntão o BiOCl se forma no ânodo.\n\nNo outro eletrodo, ligado ao polo (−), o NaTi₂(PO₄)₃ recebe elétrons e íons Na⁺, formando o Na₃Ti₂(PO₄)₃: isso ocorre no cátodo, não no ânodo, o que derruba a alternativa E. O processo retém os íons nos eletrodos; não há liberação de H₂ ou O₂, e o Bi é consumido no polo positivo, não formado.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "109": {
+   "resolucao": "Calcule o número de oxidação (Nox) do enxofre em cada espécie, lembrando que o oxigênio vale −2 e o hidrogênio +1:\n\nS (substância simples): 0\nSO₂: x − 4 = 0 → +4\nSO₃: x − 6 = 0 → +6\nH₂SO₄: 2 + x − 8 = 0 → +6\nH₂S₂O₇: 2 + 2x − 14 = 0 → +6\n\nO maior Nox possível do enxofre é +6 (ele tem 6 elétrons de valência). A passagem de +4 para +6 ocorre na Etapa 2, na oxidação do SO₂ a SO₃ pelo O₂ com catalisador.\n\nNas etapas 3, 4 e 5 o enxofre já está em +6: são reações de combinação com água ou com o ácido, sem mudança de Nox. A Etapa 1 leva o enxofre só até +4.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "110": {
+   "resolucao": "O problema é o acúmulo de plástico no ambiente, e a melhor solução ambiental é a que reaproveita o material e reduz a extração de matéria-prima: a reciclagem, que transforma o plástico descartado em novos objetos.\n\nPor que as outras falham:\n\nIncineração reduz o volume, mas libera gases poluentes (CO₂, e até dioxinas na queima de alguns plásticos), o que a alternativa nega erradamente.\n\nPlásticos biodegradáveis não têm, necessariamente, matéria-prima renovável, e sua produção não é simples nem barata.\n\nAterros sanitários têm capacidade limitada e se esgotam; o plástico apenas fica guardado lá por séculos.\n\nPlásticos oxibiodegradáveis se fragmentam em pedaços menores (microplásticos), e não são rapidamente assimilados pelos microrganismos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "111": {
+   "resolucao": "Em grandes altitudes o ar é rarefeito: a pressão parcial de O₂ é baixa, e fica mais difícil carregar a hemoglobina com oxigênio nos pulmões.\n\nA adaptação das lhamas é ter hemoglobina com maior afinidade pelo O₂: ela se liga ao oxigênio mesmo quando ele está escasso, saturando-se nos pulmões e maximizando a captação do gás. Na curva de dissociação, isso corresponde a um deslocamento para a esquerda.\n\nAs outras alternativas não resolvem o problema da falta de O₂: afinidade pelo CO₂ e tamponamento do pH tratam de outra função; a \"velocidade de transporte\" não depende da hemoglobina; e a solubilidade dos gases no plasma é uma propriedade física, não algo que uma hemoglobina diferente altere.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "112": {
+   "resolucao": "A figura mostra que a pessoa infectada, sem máscara, espalha gotículas e aerossóis com vírus até as pessoas saudáveis; com máscara, quase nada passa. A máscara funciona como barreira física, que retém as partículas na saída (quem está infectado) e na entrada (quem está saudável).\n\nPor isso ela é eficaz mesmo com pessoas infectadas assintomáticas, que não sabem que transmitem.\n\nAs alternativas incorretas atribuem à máscara funções que ela não tem: ela não neutraliza nem inativa o vírus (A), não muda a quantidade de vírus produzida no corpo do doente (C) e não altera a carga viral que a pessoa infectada inspira e expira (D). Também não mantém as pessoas afastadas (E); isso seria o distanciamento.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "113": {
+   "resolucao": "As raças de cães descendem do lobo-cinza, mas a diversidade de formas, tamanhos e pelagens visível na figura foi produzida pelo ser humano, que escolheu quais animais cruzariam de acordo com as características desejadas (guarda, caça, companhia, aparência). Isso é seleção artificial: a reprodução diferencial dos genótipos é decidida pelo criador, e não pelo ambiente.\n\nDeriva genética é mudança ao acaso, sem direção, e não explicaria raças com características escolhidas. Especiação alopátrica exigiria isolamento geográfico até formar novas espécies, mas todas as raças continuam sendo a mesma espécie e cruzam entre si. Híbridos vêm do cruzamento entre espécies diferentes. Divergência adaptativa supõe adaptação a ambientes distintos pela seleção natural.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "114": {
+   "resolucao": "A esterilização pelo calor não remove minerais nem água do solo; o que ela elimina são os microrganismos. O efeito sobre a planta tem de vir, portanto, de uma função biológica desses microrganismos.\n\nO texto informa que o nitrogênio do solo está na forma orgânica. A planta absorve nitrogênio principalmente como amônio (NH₄⁺) e nitrato (NO₃⁻), produzidos por bactérias e fungos: decompositores fazem a amonificação e bactérias nitrificantes oxidam o amônio a nitrato. Além disso, a ervilha é uma leguminosa que se associa a bactérias fixadoras de nitrogênio (Rhizobium) nas raízes.\n\nSem os microrganismos, o nitrogênio fica preso na matéria orgânica, e a planta cresce menos. Fosfato, cálcio e potássio já estão na forma mineral e continuam disponíveis; a umidade foi mantida ideal.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "115": {
+   "resolucao": "A energia mecânica de um satélite em órbita é negativa e aumenta (fica menos negativa) quanto maior a órbita. Para órbitas circular ou elíptica:\n\nE = −G · M · m ÷ (2a)\n\nem que a é o raio da órbita circular ou o semieixo maior da elipse.\n\nComparação dos tamanhos: R₁ é a menor órbita; a elipse vai de R₁ (ponto A) até R₂ (ponto B), então o seu semieixo maior fica entre R₁ e R₂; R₂ é a maior.\n\nR₁ < a(elipse) < R₂ → E₁ < E_E < E₂\n\nO mesmo resultado sai da descrição das etapas: em A e em B os motores aplicam impulsos tangentes à trajetória, no sentido do movimento, aumentando a velocidade e, portanto, adicionando energia ao satélite a cada mudança de órbita.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "116": {
+   "resolucao": "O DNA mitocondrial é herdado só pela mãe: todos os filhos, homens e mulheres, recebem as mitocôndrias da mãe, mas apenas as filhas as transmitem.\n\nSiga a linha materna de W: sua mãe é a filha do casal formado pelo indivíduo 2 e sua esposa; essa esposa é filha da mulher da 2ª geração, que por sua vez é filha da mulher do casal do topo. W carrega o DNA mitocondrial dessa linhagem feminina.\n\nO indivíduo 3 é filho da outra filha da mesma mulher da 2ª geração, logo tem o mesmo DNA mitocondrial que W.\n\nOs demais não: 1 é filha de uma mulher que entrou na família por casamento; 2 é marido, com mitocôndrias da própria mãe; 4 e 5 são filhos de mulheres de fora. O erro comum é escolher 2 por ele aparecer na linha de W, mas ele é homem e veio de outra família.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "117": {
+   "resolucao": "Pela 1ª lei de Ohm, o circuito original tem:\n\nV = R · i = 40 Ω × 4 A = 160 V\n\nPara aquecer a mesma água no mesmo tempo, o aquecedor de 40 Ω precisa dissipar a mesma potência (P = R · i²), ou seja, a corrente nele deve continuar sendo 4 A. Com a nova fonte de 250 V, a resistência total do circuito deve ser:\n\nR total = 250 V ÷ 4 A = 62,5 Ω\n\nFalta, portanto:\n\n62,5 Ω − 40 Ω = 22,5 Ω\n\nPara que a mesma corrente de 4 A passe pelo aquecedor e pelo resistor extra, e a resistência total aumente, o novo resistor deve ficar em série. Em paralelo, a resistência total diminuiria e a corrente no aquecedor aumentaria (ele ficaria submetido a 250 V).\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "118": {
+   "resolucao": "O professor alerta que nem todos os seres coletados são vegetais: o cogumelo é um fungo. A diferença fundamental para musgo, samambaia, alga, pinheiro e goiabeira é o modo de nutrição.\n\nTodos os outros são fotossintetizantes (autótrofos): produzem o próprio alimento a partir da luz. Os fungos não têm clorofila e são heterótrofos: absorvem matéria orgânica do meio, em geral decompondo restos de outros seres.\n\nAs demais características não separam o cogumelo do grupo: as algas também são talófitas; musgos e samambaias também são criptógamas; musgos também são avasculares. E fungos se reproduzem sexuadamente, o que torna a alternativa D falsa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "119": {
+   "resolucao": "É estequiometria em sequência: some as duas etapas e relacione cloro com titânio.\n\nTiO₂ + 2 Cl₂ + 2 CO → TiCl₄ + 2 CO₂\n2 Mg + TiCl₄ → 2 MgCl₂ + Ti\n\nCada TiCl₄ produz 1 Ti, e cada TiCl₄ consome 2 Cl₂. Então:\n\n2 mol de Cl₂ → 1 mol de Ti\n\nQuantidade de titânio:\nn(Ti) = 480 kg ÷ 48 kg/kmol = 10 kmol\n\nQuantidade e massa de cloro (Cl₂ = 2 × 35,5 = 71 kg/kmol):\nn(Cl₂) = 2 × 10 = 20 kmol\nm(Cl₂) = 20 × 71 = 1 420 kg\n\nA alternativa 710 kg é o erro de quem usa a proporção de 1 Cl₂ para 1 Ti, esquecendo que o TiCl₄ tem quatro átomos de cloro.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "120": {
+   "resolucao": "As doenças negligenciadas são doenças tropicais, em geral infecciosas ou parasitárias, que afetam sobretudo populações pobres e por isso atraem pouco investimento da indústria farmacêutica. Exemplos clássicos: leishmaniose, doença de Chagas, malária, esquistossomose, hanseníase e dengue.\n\nA leishmaniose é causada pelo protozoário Leishmania e transmitida pelo mosquito-palha; é endêmica em regiões tropicais e pobres e seus tratamentos são antigos e tóxicos. É exatamente o tipo de doença que se beneficia de investimentos filantrópicos.\n\nInfarto, câncer e Alzheimer são doenças não transmissíveis, muito estudadas pelos laboratórios porque atingem também países ricos. A influenza A ocorre no mundo todo e tem vacinas e antivirais desenvolvidos com investimento comercial.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "121": {
+   "resolucao": "O gráfico traz as curvas de igual audibilidade. A curva de 0 fon é o limiar de audibilidade: para cada frequência, ela indica o menor nível de intensidade sonora que o ouvido consegue perceber.\n\nLocalize 90 Hz no eixo horizontal (escala logarítmica, um pouco antes da marca de 100 Hz) e suba até a curva de 0 fon, a mais baixa. Nesse ponto, a curva cruza a linha de aproximadamente 40 dB.\n\nOu seja, a 90 Hz um som só é percebido se tiver pelo menos cerca de 40 dB. O ouvido é pouco sensível a graves: o limiar só chega perto de 0 dB nas frequências médias, de algumas centenas a alguns milhares de hertz.\n\nA alternativa 0 dB é a armadilha de quem lê o nome \"0 fon\" como se fosse 0 dB; a de 4 000 confunde o eixo das frequências com o dos níveis.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "122": {
+   "resolucao": "O gráfico mostra o efeito da remoção de um predador: com Pisaster, o número de espécies se mantém em torno de 17 a 20; sem ele, cai para cerca de 2 em poucos anos.\n\nA explicação está no texto: o mexilhão Mytilus é dominante e compete por espaço com muitos invertebrados e algas. A estrela-do-mar se alimenta principalmente desse mexilhão, mantendo a sua população controlada. Assim, sobra espaço no costão para outras espécies, e a diversidade se mantém. Sem o predador, o mexilhão ocupa todo o substrato e exclui os competidores (exclusão competitiva).\n\nÉ o exemplo clássico de espécie-chave (Paine, 1966). As demais alternativas não têm base nos dados: a estrela não serve de presa, não isola populações, não fragmenta hábitats e não libera substâncias inibidoras.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "123": {
+   "resolucao": "O texto destaca que boa parte do nitrogênio dos fertilizantes está nas formas NH₄⁺ e NO₃⁻ e que esses íons são lixiviados para rios e lagos. Ou seja, o adubo em excesso é levado pela água para os ecossistemas aquáticos.\n\nAo chegar à água, o nitrogênio (junto com o fósforo) é um nutriente para as algas e cianobactérias, que se multiplicam muito: é a eutrofização. A proliferação de algas turva a água; quando elas morrem, a decomposição consome o oxigênio dissolvido, prejudicando peixes e outros organismos.\n\nPor isso a consequência é a proliferação de algas nos cursos d'água. Há aumento, e não redução, de nutrientes (B); os íons nitrato e amônio são solúveis e saem do solo, em vez de ficarem retidos (D); e o desequilíbrio prejudica as espécies nativas (E).\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "124": {
+   "resolucao": "O conceito é o da radiação térmica: superfícies escuras e foscas são boas absorvedoras e também boas emissoras de radiação; superfícies espelhadas refletem muito e emitem pouco.\n\nOs dois copos começam com água quente, à mesma temperatura e mais quentes que o ambiente, então ambos perdem energia, e a água esfria nos dois. O copo pintado de preto (copo 1) é melhor emissor, por isso perde calor por radiação mais rapidamente, e sua temperatura cai mais depressa. O copo espelhado (copo 2) emite pouco e esfria mais devagar; é o princípio da garrafa térmica, que tem paredes espelhadas.\n\nA alternativa B erra ao dizer que o copo espelhado não esfria: ele também troca calor, só que mais lentamente. A alternativa E inverte o papel das superfícies.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "125": {
+   "resolucao": "Defina o comportamento de cada animal no gráfico de pressão osmótica interna × externa.\n\nO Animal A é osmorregulador: mantém sua osmolaridade interna quase constante. No gráfico, sua curva é praticamente horizontal, variando pouco mesmo que a pressão externa vá de 200 a 1 600 mOsm.\n\nO Animal B é osmoconformador: sua pressão interna acompanha a do ambiente. No gráfico, sua curva é uma reta crescente em que interna = externa (200 → 200, 1 600 → 1 600).\n\nO gráfico B mostra exatamente isso: Animal A quase constante (cerca de 600 a 770 mOsm) e Animal B crescendo sobre a diagonal.\n\nNa alternativa A os papéis estão trocados; em C, D e E alguma curva tem inclinação incompatível, como um osmoconformador cuja pressão interna diminui quando a externa aumenta.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "126": {
+   "resolucao": "A questão usa a colisão elástica frontal: a velocidade final do nêutron é\n\nv_nf = (m_n − m_s) ÷ (m_n + m_s) · v₀\n\nA redução é máxima quando o fator (m_n − m_s) ÷ (m_n + m_s), em módulo, é o menor possível, ou seja, quando a massa do moderador é a mais próxima da massa do nêutron. Usando o número de massa (nêutron ≈ 1):\n\n²H: |1 − 2| ÷ 3 ≈ 0,33\n⁴He: |1 − 4| ÷ 5 = 0,60\n¹²C: |1 − 12| ÷ 13 ≈ 0,85\n¹⁴N: |1 − 14| ÷ 15 ≈ 0,87\n⁹⁴Sr: |1 − 94| ÷ 95 ≈ 0,98\n\nO deutério deixa o nêutron com só um terço da velocidade. A intuição de que o alvo mais pesado freia mais está errada: o nêutron \"quica\" num núcleo pesado e volta quase com a mesma velocidade. É por isso que a água pesada (D₂O) é usada como moderador.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "127": {
+   "resolucao": "A pergunta é qual fonte primária gera eletricidade por processos químicos, isto é, por transformação de substâncias.\n\nNa biomassa (lenha, bagaço de cana, biogás), a energia está armazenada nas ligações químicas da matéria orgânica, produzida pela fotossíntese. Na usina, essa matéria é queimada (combustão, uma reação química) ou fermentada, e o calor liberado aciona as turbinas.\n\nNas outras fontes não há reação química: a eólica e a maremotriz aproveitam energia cinética e potencial do vento e da água (processos mecânicos); a geotérmica usa o calor interno da Terra; e a nuclear vem de reações nucleares (fissão), que mudam os núcleos atômicos, e não ligações químicas entre átomos.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "128": {
+   "resolucao": "É um circuito com fonte real (força eletromotriz ε e resistência interna r) alimentando lâmpadas iguais em paralelo. Para n lâmpadas de resistência R em paralelo, a resistência equivalente é R ÷ n, e pela lei de Pouillet:\n\ni = ε ÷ (R ÷ n + r)\n\nCom 20 e com 40 lâmpadas:\n\ni₂₀ = ε ÷ (R/20 + r)\ni₄₀ = ε ÷ (R/40 + r)\n\nDividindo:\n\nα = i₄₀ ÷ i₂₀ = (R/20 + r) ÷ (R/40 + r)\n\nA corrente total aumenta (α > 1) porque a resistência externa caiu, mas ela não dobra por causa da resistência interna da fonte; repartida entre o dobro de lâmpadas, cada uma recebe menos corrente e brilha menos.\n\nA alternativa D é a mesma fração invertida (seria i₂₀ ÷ i₄₀), e 1/2 ou 1/20 ignoram a resistência interna.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "129": {
+   "resolucao": "O HIV é um retrovírus: seu material genético é RNA, e, para se multiplicar, ele precisa converter esse RNA em DNA. Quem faz isso é a transcriptase reversa, que produz uma fita de DNA a partir do RNA viral e depois a fita complementar, formando um DNA de fita dupla. Esse DNA viral é integrado ao DNA da célula (pela integrase) e passa a ser transcrito para fabricar novos vírus.\n\nAo bloquear a transcriptase reversa, o fármaco impede a formação do DNA viral e a sua integração, interrompendo o ciclo de replicação.\n\nAs outras alternativas descrevem processos de outras enzimas: transcrição de DNA em RNA (RNA polimerase), duplicação do DNA celular (DNA polimerase) ou formação de RNA transportador; nada disso é função da transcriptase reversa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "130": {
+   "resolucao": "A vacina perdeu eficácia muito rapidamente em novos animais: protegeu 100% no início, 60% depois de quatro semanas e 15% depois de três meses. Como os testes foram feitos com novas cobaias, o problema não está na memória imunológica dos animais vacinados; está no alvo da vacina.\n\nA explicação mais provável é a alta taxa de mutação do vírus: novas variantes surgem com antígenos de superfície diferentes, e os anticorpos induzidos pela vacina deixam de reconhecê-los. É o que acontece com o vírus da gripe, que exige vacinas atualizadas a cada ano.\n\nDiminuição da carga viral não explicaria perda de proteção; supressão do sistema imune ou perda da memória não fazem sentido em cobaias novas e saudáveis; e \"janela imunológica\" se refere ao período em que a infecção ainda não é detectável nos exames.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "131": {
+   "resolucao": "A polinização pelo vento (anemofilia) é pouco eficiente: o pólen é levado ao acaso e a maior parte se perde. A adaptação que compensa isso é produzir enormes quantidades de grãos de pólen, leves e pequenos, aumentando a chance de alguns atingirem o estigma de outra flor.\n\nAs plantas anemófilas, como as gramíneas, costumam ter flores pequenas e discretas, sem pétalas vistosas, sem néctar e sem odor, porque não precisam atrair animais polinizadores. Pétalas atrativas, néctar e odor (alternativas A, B e C) são adaptações à polinização por insetos, aves ou morcegos. Flores grandes também não ajudam o vento a transportar o pólen; o que importa é a quantidade de pólen e estigmas expostos, às vezes plumosos, para capturá-lo.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "132": {
+   "resolucao": "A mata ciliar é a vegetação que margeia rios e reservatórios. Suas raízes seguram o solo das margens e a cobertura vegetal reduz o escoamento superficial da água da chuva.\n\nSem ela, a chuva arrasta terra e sedimentos para dentro do rio, e as margens desbarrancam. Os sedimentos se depositam no fundo, diminuindo a profundidade e a capacidade de armazenamento dos reservatórios: é o assoreamento. Por isso o texto fala que, com a mata nativa, os reservatórios \"poderiam ter mais água\".\n\nReplantar a mata ciliar atua diretamente na prevenção do assoreamento. A vegetação também ajuda a filtrar parte dos poluentes, mas a ligação mais direta com a perda de volume dos reservatórios é a dos sedimentos; salinização e compactação do solo não são o problema central da área.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "133": {
+   "resolucao": "Na física, força é uma grandeza vetorial que mede a interação entre corpos e é capaz de alterar o estado de movimento ou deformar um corpo (segunda lei de Newton, F = m · a).\n\nA frase 5 descreve exatamente isso: todo corpo é atraído para o centro da Terra pela força gravitacional (o peso), que é uma interação entre a massa do corpo e a da Terra.\n\nNas outras frases a palavra tem sentido cotidiano: \"Forças Armadas\" designa instituições militares; \"força maior\" significa um imprevisto inevitável; \"força do pensamento\" é uma metáfora para influência ou poder. A frase 4 é a mais tentadora, mas a bola \"com mais força\" se refere à sua velocidade ou energia depois do choque; força não é algo que um corpo carrega consigo, ela só existe durante a interação.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "134": {
+   "resolucao": "O texto descreve a injeção de um vírus geneticamente modificado em embriões para corrigir um defeito no DNA e recuperar parte da audição. Isso é terapia gênica: introduzir nas células uma versão funcional de um gene para compensar o gene defeituoso. Vírus modificados são usados como vetores justamente porque sabem entrar nas células e levar material genético para dentro delas.\n\nAs outras técnicas não corrigem genes: a marcação molecular e o sequenciamento servem para identificar ou ler sequências de DNA (diagnóstico); a clonagem terapêutica produz células-tronco de um embrião clonado; e a hibridização genômica é uma técnica de comparação entre DNAs.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "135": {
+   "resolucao": "Bioindicadores são organismos cuja presença, ausência ou condição revela características do ambiente, como o nível de poluição.\n\nO cágado-de-barbelas vive justamente nos pontos de despejo de esgoto, com muita matéria orgânica, metais e pouquíssimo oxigênio, e é usado em estudos de ecotoxicologia: analisar esses animais (acúmulo de metais, alterações de saúde) permite avaliar a qualidade da água e os efeitos da poluição. Por isso são considerados bioindicadores.\n\nBiorremediadores seriam organismos que removem ou degradam poluentes, o que o texto não diz. O cágado é nativo da região, não invasor; é um réptil que respira ar, não um anaeróbio; e se alimenta da matéria orgânica, mas não é um decompositor (papel de fungos e bactérias).\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "136": {
+   "resolucao": "A ideia é usar progressão aritmética: em cada lado da rua os números crescem com a mesma razão.\n\nLado de baixo: 84, 106, ?, ?, 172.\nRazão: 106 − 84 = 22 (confere: 84 + 4 · 22 = 172).\n\nLado de cima: Costa, Pereira, 139, Dias, 183. O lote 139 está na 3ª posição e o 183 na 5ª, duas posições adiante:\n183 − 139 = 44 = 2 · 22, mesma razão.\n\nCosta está duas posições antes do 139:\n139 − 2 · 22 = 139 − 44 = 95\n\n(Pereira fica com 117 e Dias com 161.) Quem volta só uma posição chega a 117, que é o número do Pereira, não do Costa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "137": {
+   "resolucao": "A ideia é calcular a média aritmética das três frequências de cada cantor.\n\nI: (380 + 410 + 470) ÷ 3 = 1 260 ÷ 3 = 420 Hz\nII: (330 + 350 + 490) ÷ 3 = 1 170 ÷ 3 = 390 Hz\nIII: (420 + 420 + 390) ÷ 3 = 1 230 ÷ 3 = 410 Hz\nIV: (407 + 410 + 404) ÷ 3 = 1 221 ÷ 3 = 407 Hz\nV: (310 + 380 + 480) ÷ 3 = 1 170 ÷ 3 = 390 Hz\n\nA maior média é a do cantor I. Cuidado: o cantor II tem a maior frequência isolada (490 Hz), mas o critério é a média, e as outras duas notas dele são baixas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "138": {
+   "resolucao": "A ideia é somar as demandas de BTUh e ver quanto sobra no aparelho atual.\n\nDemanda atual:\nárea: 6 · 4 = 24 m² → 24 · 600 = 14 400 BTUh\npessoas além da primeira: 4 · 600 = 2 400 BTUh\ncomputadores: 5 · 600 = 3 000 BTUh\ntotal: 14 400 + 2 400 + 3 000 = 19 800 BTUh\n\nSobra no aparelho:\n24 600 − 19 800 = 4 800 BTUh\n\nCada novo funcionário traz junto um novo computador:\n600 + 600 = 1 200 BTUh por contratação\n4 800 ÷ 1 200 = 4\n\nO erro típico é esquecer o computador de cada novo funcionário (4 800 ÷ 600 = 8) ou contar as 5 pessoas atuais sem descontar a primeira, que já está incluída no cálculo por área.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "139": {
+   "resolucao": "A ideia é escrever o número por extenso em algarismos, respeitando as classes (milhões, milhares, unidades).\n\n\"Um milhão\" = 1 000 000\n\"cento e setenta e seis\" = 176\n\nComo não há nenhum milhar, a classe dos milhares fica 000:\n1 000 000 + 176 = 1 000 176\n\nA alternativa tentadora é 1 176 000, que seria \"um milhão, cento e setenta e seis mil\": ali o 176 ocuparia a classe dos milhares, mas o texto não fala em \"mil\".\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "140": {
+   "resolucao": "A ideia é calcular o desconto como a fração do que se leva sem pagar, em relação ao total levado.\n\nOpção 1: pague 8 e leve 9 → 1 unidade grátis em 9\ndesconto = 1 ÷ 9 ≈ 0,1111 = 11,11%\n\nOpção 2: leve 8 e pague 7 → 1 unidade grátis em 8\ndesconto = 1 ÷ 8 = 0,125 = 12,50%\n\nA opção 2 dá o maior desconto. O erro comum é dividir pelo que se paga: 1 ÷ 8 na opção 1 dá 12,50% e 1 ÷ 7 na opção 2 dá 14,28%, mas o desconto é sobre o preço das unidades levadas.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "141": {
+   "resolucao": "A ideia é achar o preço de venda a partir de lucro = receita − custo.\n\nMês 1:\nlatas: 20 · 12 = 240\ncusto: 20 · 18 = R$ 360,00\nreceita: 360 + 600 = R$ 960,00\npreço por lata: 960 ÷ 240 = R$ 4,00\n\nMês 2 (mesmo custo, lucro R$ 360,00 maior):\nlucro: 600 + 360 = R$ 960,00\nreceita: 360 + 960 = R$ 1 320,00\npreço por lata: 1 320 ÷ 240 = R$ 5,50\n\nA alternativa R$ 4,00 é o preço antigo; R$ 1,50 é o custo de cada lata (18 ÷ 12).\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "142": {
+   "resolucao": "A ideia é perceber que o ponto M gira em torno da haste e depois projetar esse movimento em cada plano.\n\nAs cordas ficam esticadas e perpendiculares à haste horizontal (eixo y). Então M descreve um arco de circunferência centrado na haste, num plano perpendicular a ela: o plano xOz. Durante o balanço, a coordenada y de M não muda.\n\nEstudante I (vista frontal, projeção em yOz): y fica constante e só z varia → um segmento de reta vertical.\n\nEstudante II (vista lateral, projeção em xOz): o próprio plano do movimento → o arco de circunferência aparece em verdadeira grandeza.\n\nA parábola é a armadilha: ela lembra a trajetória de um lançamento, mas aqui M fica sempre à distância do comprimento da corda até a haste, o que define uma circunferência.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "143": {
+   "resolucao": "A ideia é dividir o investimento pelo custo efetivo de cada funcionário em cada opção.\n\nTreinamento próprio: custa R$ 9 000,00, mas as peças vendidas devolvem R$ 1 500,00.\ncusto efetivo: 9 000 − 1 500 = R$ 7 500,00\nfuncionários: 2 520 000 ÷ 7 500 = 336\n\nEmpresa especializada:\nfuncionários: 2 520 000 ÷ 4 000 = 630\n\nDiferença:\n630 − 336 = 294\n\nQuem não desconta o valor das peças acha 2 520 000 ÷ 9 000 = 280 e uma diferença de 350, que não aparece; quem para na conta de uma opção marca 336 ou 630.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "144": {
+   "resolucao": "A ideia é traduzir a definição em unidades: o parâmetro é uma quantidade dividida por uma área.\n\nPelo texto, a resolução é \"a quantidade de pontos (pixels) que há em cada quadradinho de 1 cm de lado\".\n\nQuantidade: pixels.\nQuadradinho de 1 cm de lado: área de 1 cm · 1 cm = 1 cm².\n\n\"Quantidade em cada quadradinho\" é uma densidade por área:\nresolução = pixels ÷ área → pixel/cm²\n\nA alternativa pixel/cm seria pixels por unidade de comprimento (como o \"ppi\", pixels por polegada), mas a definição dada no texto conta os pontos dentro de um quadrado, isto é, por área. Produtos como cm² · pixel não fazem sentido para \"pontos em cada quadradinho\".\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "145": {
+   "resolucao": "A ideia é calcular, para cada local, a razão gasolina ÷ etanol e comparar.\n\nDistrito Federal: 3,18 ÷ 2,28 ≈ 1,395\nGoiás: 2,93 ÷ 1,95 ≈ 1,503\nMato Grosso: 3,17 ÷ 2,17 ≈ 1,461\nRio de Janeiro: 3,14 ÷ 2,35 ≈ 1,336\nSão Paulo: 2,70 ÷ 1,90 ≈ 1,421\n\nA maior razão é a de Goiás. Note que o maior preço da gasolina (DF) ou a maior diferença em reais não decidem a questão: o que importa é o quociente, e Goiás combina gasolina relativamente cara com etanol barato.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "146": {
+   "resolucao": "A ideia é tirar a taxa de 10% para achar o gasto real e depois subtrair os sucos.\n\nO total com taxa é 110% dos gastos:\ngastos = 82,50 ÷ 1,10 = R$ 75,00\n\nTirando os sucos:\n75,00 − 16,50 = R$ 58,50 em pratos\n\nTrês pratos iguais:\n58,50 ÷ 3 = R$ 19,50\n\nO erro típico é tirar 10% de 82,50 (82,50 − 8,25 = 74,25), o que leva a (74,25 − 16,50) ÷ 3 = 19,25. A taxa incide sobre os gastos, não sobre o total já com taxa.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "147": {
+   "resolucao": "A ideia é medir o rendimento em metros quadrados por pedreiro por hora (grandezas diretamente proporcionais).\n\nEquipe I:\nhoras-pedreiro: 3 · 2 · 6 = 36\nrendimento: 36 m² ÷ 36 = 1 m² por pedreiro por hora\n\nEquipe II:\nhoras-pedreiro: 5 · 8 · 6 = 240\nárea: 240 · 1 = 240 m²\n\nA mais que a equipe I:\n240 − 36 = 204 m²\n\nA pergunta é a diferença, não a área da equipe II: marcar 240 é o deslize mais comum.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "148": {
+   "resolucao": "A ideia é usar proporcionalidade com produtividade constante: estandes montados ∝ voluntários × tempo.\n\nPrimeira edição: 10 voluntários, 1 semana, 5 estandes.\nSegunda edição: 2 semanas (o tempo dobra).\n\nSituação I (voluntários iguais): estandes ∝ tempo. Com o dobro do tempo, os mesmos 10 voluntários montam o dobro: 10 estandes → maior.\n\nSituação II (estandes iguais): para o mesmo trabalho, voluntários e tempo são inversamente proporcionais. Com o dobro do tempo, bastam metade: 5 voluntários → menor.\n\nEntão: estandes maior na I e voluntários menor na II.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "149": {
+   "resolucao": "A ideia é que a relação entre as escalas é uma função afim, determinada por dois pontos.\n\nPontos (T °C ; T °X):\nfusão: (0 ; −10)\nebulição: (100 ; 140)\n\nInclinação:\n(140 − (−10)) ÷ (100 − 0) = 150 ÷ 100 = 1,5\nX = 1,5 · C − 10\n\nA reta procurada é crescente, corta o eixo vertical em −10 e passa por (100 ; 140). No gráfico, é a reta II: a linha tracejada vertical de 100 °C sobe até ela na altura 140, e ela cruza o eixo T(°X) abaixo da origem, em −10.\n\nAs outras não servem: III e IV são decrescentes; V passa por (140 ; 140) (seria X = C); I passa por (140 ; 100), trocando os papéis das escalas.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "150": {
+   "resolucao": "A ideia é que, com vazão constante, a altura cai mais depressa onde a seção é estreita e mais devagar onde é larga.\n\nCom a base para cima, a água sai por baixo e o nível desce passando, de cima para baixo, por:\n\n1. cilindro estreito do topo: seção pequena e constante → reta curta e bem inclinada;\n2. cilindro largo: seção grande e constante → reta mais suave e longa;\n3. zona esférica: a seção diminui à medida que o nível desce → a altura cai cada vez mais rápido, curva que vai ficando mais íngreme (concavidade para baixo);\n4. gargalo: seção pequena e constante → trecho final quase vertical.\n\nO gráfico A tem exatamente essa sequência. No B a curva da zona esférica faz o contrário: vai ficando menos inclinada, como se a seção aumentasse ao descer. No C e no D o último trecho é suave, como se o gargalo fosse largo.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "151": {
+   "resolucao": "A ideia é que dobrar a folha é uma reflexão: preserva medidas de lados e de ângulos.\n\nNa segunda dobra, o lado CN vai parar sobre MN com N fixo. A dobra é a bissetriz do ângulo reto em N, então o ângulo PNQ mede 45°.\n\nO ponto C (ângulo reto do retângulo) cai em P, sobre MN; logo o ângulo em P continua reto: QPN = 90°.\n\nSoma dos ângulos:\n180° − 90° − 45° = 45° no vértice Q\n\nCom dois ângulos de 45°, os lados PN e PQ são iguais (de fato, PN = CN = PQ, a altura do retângulo DCNM). O triângulo é retângulo e isósceles, e não pode ser equilátero porque tem um ângulo de 90°.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "152": {
+   "resolucao": "A ideia é aplicar a definição de logaritmo para isolar P.\n\nn = 20 · log(P ÷ P₀)\n80 = 20 · log(P ÷ P₀)\nlog(P ÷ P₀) = 4\nP ÷ P₀ = 10⁴\n\nP = 10⁴ · 2 × 10⁻⁵\nP = 2 × 10⁻¹ N/m²\n\nQuem esquece o fator 20 e faz P ÷ P₀ = 10⁸⁰ cai fora das alternativas; quem divide em vez de multiplicar por P₀ chega a 5 × 10⁸, que também não aparece. A conta das potências é 10⁴ · 10⁻⁵ = 10⁻¹.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "153": {
+   "resolucao": "A ideia é usar o teorema de Pitágoras nos triângulos retângulos em E e depois a área do quadrilátero de diagonais perpendiculares.\n\nTriângulo BEC (reto em E):\nBE² = 34² − 30² = 1 156 − 900 = 256 → BE = 16 cm\n\nTriângulo AEB (reto em E):\nAE² = 20² − 16² = 400 − 256 = 144 → AE = 12 cm\n\nDiagonais:\nAC = 12 + 30 = 42 cm\nBD = 2 · 16 = 32 cm (E é ponto médio de BD)\n\nÁrea com diagonais perpendiculares:\nA = (42 · 32) ÷ 2 = 1 344 ÷ 2 = 672 cm²\n\nEsquecer de dividir por 2 dá 1 344; somar só lados não dá área.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "154": {
+   "resolucao": "A ideia é converter minutos em segundos e multiplicar pela distância de um segundo-luz.\n\n8 minutos = 8 · 60 = 480 segundos\n\nDistância:\n480 · 300 000 km = 144 000 000 km\n\nEm potência de 10:\n144 000 000 = 144 × 10⁶ km\n\nA alternativa 144 × 10⁵ tem a conta certa mas um zero a menos. Já 24 × 10⁵ (2 400 000) sai de multiplicar 8 por 300 000 sem passar os minutos para segundos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "155": {
+   "resolucao": "A ideia é probabilidade com o espaço amostral restrito a quem recebe cartão: só os funcionários com pelo menos um filho.\n\nFuncionários com filhos (os que concorrem):\n425 − 68 = 357\n\nFuncionários com exatamente dois filhos:\n119\n\nProbabilidade:\nP = 119 ÷ 357 (que simplifica para 1/3)\n\nA armadilha é usar 425 no denominador (119/425): os 68 sem filhos não recebem cartão e, portanto, não fazem parte do sorteio.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "156": {
+   "resolucao": "A ideia é contar quantos vértices novos cada corte cria.\n\nO octaedro regular tem 6 vértices, e em cada vértice se encontram 4 arestas (4 faces).\n\nAo retirar uma pirâmide em um vértice, o plano corta essas 4 arestas e cria uma seção quadrada com 4 vértices novos. O vértice original desaparece.\n\nComo as seções não se encontram, nenhum vértice novo é compartilhado:\n6 · 4 = 24 vértices\n\nConferindo pela relação de Euler: o octaedro truncado tem 8 hexágonos + 6 quadrados = 14 faces e 36 arestas; V = 36 − 14 + 2 = 24. A alternativa 14 é o número de faces.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "157": {
+   "resolucao": "A ideia é que a menor caixa de base quadrada que contém um cilindro tem a base quadrada circunscrita ao círculo da base.\n\nO círculo deve caber no quadrado, tocando os quatro lados. Então o lado do quadrado é igual ao diâmetro externo:\nlado = 2 · 25 = 50 cm\n\nA altura da caixa é a do cilindro (1 m), como pede o enunciado.\n\nO erro comum é usar o raio (25 cm) como lado: o cilindro não caberia. A alternativa 157 vem do comprimento da circunferência (2 · π · 25 ≈ 157), que não tem relação com o lado.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "158": {
+   "resolucao": "A ideia é montar a conta por faixas e ver até onde o consumo total pode ir sem passar de R$ 220,00.\n\nSe o total ficar até 200 kWh (Cosip R$ 10,00):\n200 kWh: 100 · 0,90 + 100 · 1,00 + 10 = 90 + 100 + 10 = R$ 200,00\nAinda sobra margem, então dá para passar de 200 kWh.\n\nAcima de 200 kWh (Cosip R$ 12,00), com x kWh além de 200:\n90 + 100 + 1,20 · x + 12 ≤ 220\n202 + 1,20 · x ≤ 220\n1,20 · x ≤ 18\nx ≤ 15\n\nConsumo total máximo: 200 + 15 = 215 kWh\nJá consumidos: 180 kWh\nLimite a partir de agora: 215 − 180 = 35 kWh\n\nO erro típico é esquecer que a Cosip sobe para R$ 12,00 acima de 200 kWh, o que daria x ≤ 16,67.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "159": {
+   "resolucao": "A ideia é calcular a razão milímetros de chuva ÷ dias de precipitação de cada reservatório.\n\nI: 350 ÷ 29 ≈ 12,07\nII: 382 ÷ 30 ≈ 12,73\nIII: 390 ÷ 31 ≈ 12,58\nIV: 389 ÷ 33 ≈ 11,79\nV: 338 ÷ 29 ≈ 11,66\n\nA maior razão é a do reservatório II. O III tem o maior volume (390 mm), mas também mais dias, e por isso a razão dele fica um pouco menor: a pergunta é sobre a razão, não sobre o volume total.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "160": {
+   "resolucao": "A ideia é calcular a diferença homens − mulheres em cada ano e tirar a média aritmética.\n\n2003: 883 − 826 = 57\n2005: 957 − 874 = 83\n2007: 1 048 − 953 = 95\n2009: 1 107 − 987 = 120\n2011: 1 201 − 1 043 = 158\n2013: 1 292 − 1 117 = 175\n2015: 1 306 − 1 142 = 164\n\nSoma: 57 + 83 + 95 + 120 + 158 + 175 + 164 = 852\nMédia: 852 ÷ 7 ≈ 121,7\n\nQuem usa só a primeira e a última diferença, (57 + 164) ÷ 2 = 110,5, cai na alternativa C: a média precisa incluir os sete anos.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "161": {
+   "resolucao": "A ideia é calcular, em cada cidade, a média de cada par de meses consecutivos (abril-maio, maio-junho, junho-julho) e pegar a maior.\n\nX: (17 + 27) ÷ 2 = 22; (27 + 20) ÷ 2 = 23,5; (20 + 25) ÷ 2 = 22,5\nY: 23; 21,5; 22\nZ: 20; 24; 24\nW: 23,5; 22; 19,5\nK: (19 + 25) ÷ 2 = 22; (25 + 26) ÷ 2 = 25,5; (26 + 19) ÷ 2 = 22,5\n\nA maior média em dois meses consecutivos é 25,5, em K (maio e junho). Repare que Z tem a maior temperatura isolada (28 em junho) e X a de maio (27), mas o critério é a média de dois meses seguidos.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "162": {
+   "resolucao": "A ideia é comparar o preço por metro: preço do pacote ÷ metragem total.\n\nI: 4 · 60 = 240 m → 4,90 ÷ 240 ≈ R$ 0,0204/m\nII: 12 · 20 = 240 m → 4,50 ÷ 240 = R$ 0,01875/m\nIII: 16 · 30 = 480 m → 8,60 ÷ 480 ≈ R$ 0,0179/m\nIV: 20 · 30 = 600 m → 11,00 ÷ 600 ≈ R$ 0,0183/m\nV: 24 · 20 = 480 m → 8,70 ÷ 480 ≈ R$ 0,0181/m\n\nO menor preço por metro é o do pacote III. Comparar por rolo ou pelo preço do pacote engana, porque os rolos têm metragens diferentes; III e V têm os mesmos 480 m, e III é mais barato.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "163": {
+   "resolucao": "A ideia é substituir x = 12 000 em cada função afim e comparar os custos.\n\nI: 500 + 0,40 · 12 000 = 500 + 4 800 = R$ 5 300\nII: 800 + 0,50 · 12 000 = 800 + 6 000 = R$ 6 800\nIII: 2 000 + 0,20 · 12 000 = 2 000 + 2 400 = R$ 4 400\nIV: 1 100 + 0,25 · 12 000 = 1 100 + 3 000 = R$ 4 100\nV: 600 + 0,30 · 12 000 = 600 + 3 600 = R$ 4 200\n\nO menor custo é o da empresa IV. Olhar só a menor taxa fixa (I) ou o menor preço por cópia (III) leva ao erro: com 12 000 cópias, o que decide é a soma.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "164": {
+   "resolucao": "A ideia é usar proporcionalidade direta com a distância e depois aplicar o acréscimo de 2% pelo excesso de carga.\n\nConsumo com 10 000 kg:\n60 L em 90 km → 60 ÷ 90 = 2/3 L por km\nem 75 km: 75 · 2/3 = 50 L\n\nA carga de 10 300 kg excede o limite em 300 kg, então o consumo é 2% maior:\n50 · 1,02 = 51 L\n\nMarcar 50 L é esquecer o excesso de carga. A alternativa 61,2 vem de aplicar os 2% sobre os 60 L da viagem de 90 km, sem ajustar a distância.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "165": {
+   "resolucao": "A ideia é converter áreas em quantidade de tijolos: cada tijolo cobre a área da sua face aparente.\n\nFace do tijolo: 0,2 · 0,05 = 0,01 m²\nParede sem janela: 8 · 3 = 24 m² → 24 ÷ 0,01 = 2 400 tijolos\n\nLimites da janela:\nmínima: área de 100 tijolos = 100 · 0,01 = 1 m²\nmáxima: 1/6 da parede = 24 ÷ 6 = 4 m² → 400 tijolos\n\nTijolos usados = 2 400 − tijolos que caberiam na janela:\njanela maior (4 m²): 2 400 − 400 = 2 000 (mínimo)\njanela menor (1 m²): 2 400 − 100 = 2 300 (máximo)\n\nA alternativa 100 e 400 dá os limites da janela, não os tijolos da parede. A rigor o texto exclui os valores exatos (a janela não pode ter exatamente 1 m² nem 4 m²), e 2 000 e 2 300 são as fronteiras dessa faixa.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "166": {
+   "resolucao": "A ideia é usar a conservação da energia mecânica: Ec + Ep = 12 kJ em todo instante, então Ep = 12 − Ec.\n\nA energia potencial é máxima quando a cinética é mínima.\n\nNo gráfico, entre 0 e 8 h, o menor valor de Ec é 3 kJ (em t = 2 h).\n\nEp máxima:\n12 − 3 = 9 kJ\n\nO erro típico é responder 12, o valor da energia mecânica total, que a potencial só atingiria se a cinética chegasse a zero. Quem confunde máximo com mínimo usa Ec = 11 kJ e chega a 1 kJ, que é o menor valor da potencial.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "167": {
+   "resolucao": "A ideia é que aumentar 50% a cada ano é multiplicar por 1,5: progressão geométrica.\n\nAno 1: A₁ = 500\nAno 2: A₂ = 500 · 1,5\nAno 3: A₃ = 500 · 1,5²\n...\nAno n: Aₙ = 500 · 1,5ⁿ⁻¹\n\nO expoente é n − 1 porque no primeiro ano ainda não houve aumento (1,5⁰ = 1).\n\nA alternativa com 0,5ⁿ⁻¹ representaria uma redução de 50% ao ano. As alternativas com n · 250 ou (n − 1) · 250 somam sempre 250 hectares, isto é, 50% dos 500 iniciais, o que seria crescimento linear (PA), não 50% sobre o ano anterior.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "168": {
+   "resolucao": "A ideia é achar o fator q do modelo exponencial e aplicar n = 6.\n\nq = 27 000 ÷ 30 000 = 0,9\nConfere: 24 300 ÷ 27 000 = 0,9 e 21 870 ÷ 24 300 = 0,9.\n\nV(6) = 30 000 · 0,9⁶\n0,9² = 0,81\n0,9³ = 0,729\n0,9⁶ = 0,729² = 0,531441\nV(6) = 30 000 · 0,531441 ≈ 15 943\n\nEm milhares de reais, com uma casa decimal: 15,9.\n\nA armadilha é pensar em queda linear de R$ 3 000,00 por ano (30 000 − 6 · 3 000 = 12 000); as quedas diminuem a cada ano (3 000, 2 700, 2 430…), porque são 10% do valor do ano anterior.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "169": {
+   "resolucao": "A ideia é que a vitamina Y só vem do alimento W; isso fixa a quantidade de W, e o que faltar de X sai do alimento mais barato.\n\nVitamina Y (só W, 16% por 100 g):\n100 ÷ 16 = 6,25 porções de 100 g → 625 g de W\ncusto: 0,625 kg · R$ 8,00 = R$ 5,00\n\nVitamina X fornecida por esses 625 g de W:\n6,25 · 8% = 50%\nFaltam 50% de X.\n\nCusto de 1% de X:\nZ: R$ 0,30 por 100 g dá 25% → R$ 0,012 por 1%\nW: R$ 0,80 por 100 g dá 8% → R$ 0,10 por 1%\nZ é bem mais barato.\n\nZ necessário: 50 ÷ 25 = 2 porções → 200 g → 0,2 · 3,00 = R$ 0,60\n\nTotal: 5,00 + 0,60 = R$ 5,60\n\nQuem para em R$ 5,00 esquece que W cobre só metade da vitamina X.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "170": {
+   "resolucao": "A ideia é calcular a taxa de variação (inclinação) de cada função afim e usar o mesmo intervalo de tempo nas duas.\n\ny₁ passa por A(0 ; 10) e B(20 ; 50):\ntaxa = (50 − 10) ÷ 20 = 2 °C por segundo\n\ny₂ passa por A(0 ; 10) e C(40 ; 30):\ntaxa = (30 − 10) ÷ 40 = 0,5 °C por segundo\n\nTempo para y₁ subir 20 °C:\n20 ÷ 2 = 10 s\n\nNo mesmo tempo, y₂ aumenta:\n10 · 0,5 = 5 °C\n\nA alternativa 20 supõe que as duas aumentam igual; 10 é o tempo, não a variação de temperatura.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "171": {
+   "resolucao": "A ideia é comparar volumes: o volume do cilindro mais 400 mL dá o volume mínimo do prisma de base quadrada.\n\nCilindro (raio 8 cm, altura 20 cm, π = 3):\nV = 3 · 8² · 20 = 3 · 64 · 20 = 3 840 cm³ = 3 840 mL\n\nVolume mínimo da nova embalagem:\n3 840 + 400 = 4 240 cm³\n\nPrisma de base 16 cm × 16 cm:\n16 · 16 · h ≥ 4 240\n256 · h ≥ 4 240\nh ≥ 16,5625 cm\n\nO valor aproximado é 17 cm. O erro comum é usar o diâmetro (16) como raio no cilindro, o que dá 3 · 256 · 20 = 15 360 cm³ e uma altura de cerca de 62 cm.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "172": {
+   "resolucao": "A ideia é que o volume do cilindro é V = π · r² · h: o raio entra ao quadrado e a altura entra linearmente. Como o preço é proporcional ao volume, a melhor lata é a de menor volume que ainda seja pelo menos o triplo.\n\nI: raio × 6 → volume × 36\nII: área da base × 3 e altura × 3 → volume × 9\nIII: raio × 3 → volume × 9\nIV: altura × 3 → volume × 3\nV: raio × 3 e altura × 3 → volume × 9 · 3 = × 27\n\nTodas atendem ao \"no mínimo o triplo\", e a de menor volume (e menor custo) é a IV, com exatamente o triplo.\n\nO erro típico é achar que triplicar o raio triplica o volume; na verdade multiplica por 9.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "173": {
+   "resolucao": "A ideia é fazer o balanço de combustível: quanto já foi gasto, quanto sobra e quanto é preciso para o resto do trecho mais a reserva.\n\nTrecho já percorrido: 560 − 80 = 480 km\nGasto a 12 km/L: 480 ÷ 12 = 40 L\nSobra no tanque: 50 − 40 = 10 L\n\nTrecho final a 16 km/L:\n80 ÷ 16 = 5 L\n\nNecessário ao sair do posto: 5 + 25 = 30 L\nReabastecer: 30 − 10 = 20 L\n\nA alternativa 15 L (25 − 10) esquece o combustível gasto nos 80 km finais; 5 L é só esse consumo, sem a reserva de 25 L.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "174": {
+   "resolucao": "A ideia é ler o gráfico de radar: quanto mais perto do centro está o ponto de uma cor, menor é a distância preferida naquele país. É preciso olhar cada cor separadamente.\n\nEstranhos (vermelho): o ponto mais próximo do centro é o da Argentina, por volta de 85 cm; os demais ficam de cerca de 95 cm para cima.\n\nConhecidos (laranja): de novo a Argentina, por volta de 60 cm (a Itália vem logo depois, um pouco acima).\n\nAmigos (azul): o ponto mais interno é o da Noruega, por volta de 30 cm; Argentina, Alemanha e Itália ficam perto de 40 cm.\n\nSequência pedida: Argentina, Argentina e Noruega.\n\nA alternativa \"China, Índia e China\" troca menor por maior: são os pontos mais afastados do centro em cada grupo.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "175": {
+   "resolucao": "A ideia é calcular o lucro de cada tipo e comparar as compras que cabem em R$ 1 000 000,00.\n\nLucro por unidade:\n2 quartos: 5% de 220 000 = R$ 11 000\n3 quartos sem varanda: 4% de 300 000 = R$ 12 000\n3 quartos com varanda: custa 300 000 · 1,15 = 345 000; lucro 4% = R$ 13 800\n\nAlternativas:\nA) custo 880 000 → 4 · 11 000 = R$ 44 000\nB) custo 900 000 → 3 · 12 000 = R$ 36 000\nC) custo 3 · 345 000 = 1 035 000 → passa do orçamento\nD) custo 660 000 + 300 000 = 960 000 → 33 000 + 12 000 = R$ 45 000\nE) custo 865 000 → 11 000 + 12 000 + 13 800 = R$ 36 800\n\nO maior lucro é R$ 45 000. O apartamento com varanda tem o maior lucro unitário, mas é tão caro que rende menos por real investido.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "176": {
+   "resolucao": "A ideia é reconhecer uma progressão aritmética na tabela: a cada ano do gato, a idade humana equivalente aumenta 4 anos.\n\n80 − 76 = 4, 84 − 80 = 4, … até 116 aos 25 anos.\n\nTermo geral a partir de 15 anos (76):\nidade humana = 76 + 4 · (idade do gato − 15)\n\nPara 38 anos:\n38 − 15 = 23 anos depois do início da tabela\n76 + 4 · 23 = 76 + 92 = 168\n\nConferindo pelo fim da tabela: 116 + 4 · (38 − 25) = 116 + 52 = 168.\n\nO cuidado é partir de um ponto da tabela: multiplicar a idade inteira por 4 (38 · 4 = 152) não respeita o valor inicial de 76.\n\n**Resposta: D**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "177": {
+   "resolucao": "A ideia é que a razão entre áreas é o quadrado da escala linear.\n\nÁrea no desenho:\n0,10 · 0,15 = 0,015 m²\n\nRazão entre as áreas (real ÷ desenho):\n24 ÷ 0,015 = 1 600\n\nEscala linear:\n√1 600 = 40 → escala 1 : 40\n\nConferindo: 0,10 · 40 = 4 m e 0,15 · 40 = 6 m, e 4 · 6 = 24 m².\n\nA alternativa 1 : 1 600 é a armadilha: é a razão entre áreas, não entre comprimentos.\n\n**Resposta: B**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "178": {
+   "resolucao": "A ideia é calcular o total dos dois banhos em cada petshop, aplicando a promoção de cada um.\n\nI: 29,00 + 15,00 (poodle em promoção) = R$ 44,00\nII: 23,00 + 20,00 · 0,90 = 23,00 + 18,00 = R$ 41,00\nIII: 25,00 + 20,00 − 5,00 = R$ 40,00\nIV: (22,00 + 28,00) · 0,90 = 50,00 · 0,90 = R$ 45,00\nV: 30,00 · 0,80 + 24,00 = 24,00 + 24,00 = R$ 48,00\n\nO menor total é o do petshop III. O IV tem o shitzu mais barato e desconto sobre o total, mas o poodle caro deixa a conta em R$ 45,00; e no II os 10% sobre o poodle valem só R$ 2,00, menos que os R$ 5,00 do III.\n\n**Resposta: C**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "179": {
+   "resolucao": "A ideia é usar semelhança de pirâmides: com o vértice para baixo, o líquido forma uma pirâmide semelhante ao tanque, e os volumes estão na razão do cubo das alturas.\n\nDados: capacidade 240 L = 0,24 m³; altura 2 m; vazão 0,015 m³/s.\n\nVolume de líquido com altura h:\nV(h) = 0,24 · (h ÷ 2)³ = 0,24 · h³ ÷ 8 = 0,03 · h³\n\nVolume despejado até o instante t:\nV = 0,015 · t\n\nIgualando:\n0,03 · h³ = 0,015 · t\nh³ = t ÷ 2\nh = ∛(t ÷ 2)\n\nConferindo: o tanque enche em 0,24 ÷ 0,015 = 16 s, e ∛(16 ÷ 2) = ∛8 = 2 m, a altura total.\n\nO erro mais comum é tratar a altura como proporcional ao volume (h proporcional a t), esquecendo que a razão entre volumes é o cubo da razão entre alturas.\n\n**Resposta: A**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "180": {
+   "resolucao": "A ideia é que a escala precisa servir para as duas dimensões ao mesmo tempo; vale a mais restritiva.\n\nObra: 3,6 m = 360 cm de altura e 7,8 m = 780 cm de comprimento.\nTela: 20 cm por 30 cm. A dimensão maior da obra vai na maior da tela.\n\nAltura: 360 ÷ 20 = 18 → precisaria reduzir no mínimo 18 vezes\nComprimento: 780 ÷ 30 = 26 → precisaria reduzir no mínimo 26 vezes\n\nPara caber inteira e na maior área possível, usa-se a redução de 26 vezes: escala 1 : 26.\nCom ela: 360 ÷ 26 ≈ 13,8 cm de altura e 780 ÷ 26 = 30 cm de comprimento (cabe).\n\nA armadilha é 1 : 18: a altura ficaria 20 cm, mas o comprimento ficaria 780 ÷ 18 ≈ 43,3 cm, maior que a tela.\n\n**Resposta: E**",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -15,12 +15,36 @@
   ];
 
   const IDIOMAS = { ingles: 'Inglês', espanhol: 'Espanhol' };
-  const ANOS_LOCAIS = [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]; // data/enem/<ano>.json
-  const ANOS_PADRAO = [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009];
+  // Aplicações extras são provas próprias do ano, com chave em texto (data/enem/2024-reaplicacao.json,
+  // ids enem:2024-reaplicacao:91); a regular continua número.
+  const APLICACOES = { reaplicacao: 'reaplicação', belem: 'aplicação de Belém' };
+  const PROVAS_EXTRAS = ['2025-reaplicacao', '2025-belem', '2024-reaplicacao', '2023-reaplicacao', '2022-reaplicacao', '2021-reaplicacao'];
+  const ANOS_LOCAIS = [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011].concat(PROVAS_EXTRAS); // data/enem/<prova>.json
+  const ANOS_PADRAO = ordenarProvas([2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009].concat(PROVAS_EXTRAS));
+
+  function anoDaProva(prova) { return parseInt(prova, 10); }
+
+  // "ENEM 2024" ou "ENEM 2024 · reaplicação"
+  function rotulo(prova) {
+    const aplicacao = typeof prova === 'string' ? APLICACOES[prova.split('-')[1]] : null;
+    return `ENEM ${anoDaProva(prova)}${aplicacao ? ' · ' + aplicacao : ''}`;
+  }
+
+  // Mais recente primeiro; no mesmo ano, a regular antes das outras aplicações.
+  function ordenarProvas(provas) {
+    return provas.slice().sort((a, b) => anoDaProva(b) - anoDaProva(a) || (typeof a === 'string') - (typeof b === 'string')
+      || String(b).localeCompare(String(a)));
+  }
+
+  // Valor vindo de um <select> ou do localStorage: número para a regular, texto para as outras.
+  function provaDoValor(valor) {
+    return /^\d{4}$/.test(String(valor)) ? +valor : String(valor);
+  }
 
   // A área vem da posição da questão na prova. O campo "discipline" da API tem
   // rótulos errados em todos os anos (dezenas de questões caem em ciencias-humanas).
-  function ordemAreas(ano) {
+  function ordemAreas(prova) {
+    const ano = anoDaProva(prova);
     if (ano >= 2017) return ['linguagens', 'humanas', 'natureza', 'matematica'];
     if (ano >= 2010) return ['humanas', 'natureza', 'linguagens', 'matematica'];
     return ['natureza', 'humanas', 'linguagens', 'matematica'];
@@ -223,7 +247,7 @@
   async function listarAnos() {
     const provas = await listarProvas();
     const anos = new Set(ANOS_LOCAIS.concat(provas.map(p => p.ano)));
-    return provas.length ? [...anos].sort((a, b) => b - a) : ANOS_PADRAO;
+    return provas.length ? ordenarProvas([...anos]) : ANOS_PADRAO;
   }
 
   async function idiomasDoAno(ano) {
@@ -254,5 +278,5 @@
     return falhas;
   }
 
-  BQ.enem = { falhasDaFonte, AREAS, IDIOMAS, ANOS_PADRAO, ANOS_LOCAIS, POR_AREA, anosComResolucao, carregarResolucoes, faixa, areaDoNumero, carregarArea, carregarRedacao, listarAnos };
+  BQ.enem = { falhasDaFonte, rotulo, provaDoValor, anoDaProva, PROVAS_EXTRAS, AREAS, IDIOMAS, ANOS_PADRAO, ANOS_LOCAIS, POR_AREA, anosComResolucao, carregarResolucoes, faixa, areaDoNumero, carregarArea, carregarRedacao, listarAnos };
 })();

@@ -35,7 +35,7 @@ def renderizar(doc, recortes, destino):
 def main():
     if len(sys.argv) < 2:
         sys.exit('uso: python3 ferramentas/resolucoes/preparar.py <ano> [pasta de saída]')
-    ano = int(sys.argv[1])
+    ano = int(sys.argv[1]) if sys.argv[1].isdigit() else sys.argv[1]  # ou "2024-reaplicacao", "2025-belem"
     destino = Path(sys.argv[2]) if len(sys.argv) > 2 else RAIZ / 'trabalho' / 'resolucoes' / f'enem-{ano}'
     destino.mkdir(parents=True, exist_ok=True)
 

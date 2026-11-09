@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2010_ciencias-humanas-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:13": {
+   "resposta": "**Relação interespecífica**: entre a **abelha e a madressilva** há **mutualismo**: a abelha retira néctar (alimento) da flor e, ao visitá-la, faz a polinização. Outras respostas aceitáveis: **predação** entre o gato e o rato (o gato caça ratos), ou entre o rato e as abelhas (os ratos destroem os ninhos e comem larvas e mel).\n\n**Cadeia alimentar implícita**:\n\nmadressilva → abelha → rato → gato\n\nMadressilva: **produtor** (1º nível trófico), faz fotossíntese.\nAbelha: **consumidor primário** (2º nível), alimenta-se do néctar.\nRato: **consumidor secundário** (3º nível), destrói os ninhos e se alimenta das abelhas (larvas).\nGato: **consumidor terciário** (4º nível), preda os ratos.\n\nO raciocínio de Darwin mostra o efeito em cascata: sem gato, os ratos aumentam, as abelhas diminuem e, com elas, a polinização das flores. O cachorro não entra na cadeia, porque, segundo o diálogo, não caça ratos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "As duas explicações estão **incorretas**.\n\n**Mudança de cor**: não se trata de mutação. A mudança ocorre em todas as flores, todos os dias, sempre na mesma sequência, o que é incompatível com mutações, que são raras, aleatórias e não dirigidas. O fenômeno é uma **alteração fisiológica e bioquímica** normal das pétalas, como a síntese ou a modificação de pigmentos (antocianinas) influenciada pela luz, pela temperatura e por variações de pH nas células ao longo do dia, um processo determinado pelos próprios genes da planta.\n\n**Transmissão hereditária**: mesmo que houvesse mutação nas pétalas, ela ocorreria em **células somáticas**, que não originam gametas. Só são herdadas as alterações presentes nas células da linhagem germinativa, das quais se formam o grão de pólen (nas anteras) e o óvulo (no ovário). A ideia do estudante repete o erro lamarckista da herança de caracteres adquiridos. As sementes darão origem a plantas iguais à mãe, com flores que se abrem brancas e ficam rosadas ao longo do dia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "O leite vira iogurte por **fermentação lática**, feita por bactérias lácticas (como *Lactobacillus bulgaricus* e *Streptococcus thermophilus*). Elas degradam a **lactose** do leite e obtêm energia por fermentação anaeróbia, produzindo **ácido lático**. O ácido baixa o pH, o que faz a **caseína** (proteína do leite) coagular, dando ao produto a consistência firme e o sabor azedo do iogurte; a acidez também inibe outros micro-organismos.\n\nA **colherinha de iogurte pronto** funciona como **inóculo** (fermento): contém as bactérias lácticas vivas que vão se multiplicar no leite e realizar a fermentação. Sem ela, o leite não teria as bactérias certas.\n\nO **aquecedor com termostato** mantém a **temperatura ideal** para o metabolismo e a reprodução das bactérias (em torno de 40 a 45 °C), na qual suas enzimas funcionam melhor. Temperatura baixa tornaria a fermentação muito lenta, e temperatura alta demais mataria as bactérias ou desnaturaria suas enzimas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**Velocidade máxima ≈ 34 m/s** e **energia cinética máxima ≈ 87 kJ** (com g = 10 m/s²).\n\nSem forças dissipativas, a energia mecânica se conserva; a velocidade é máxima no ponto mais baixo. O desnível entre o ponto mais alto e o mais baixo é:\n\nh = 60 − 2 = 58 m\n\nEnergia potencial perdida = energia cinética ganha:\n\nm · g · h = m · v² ÷ 2\nv = √(2 · g · h) = √(2 · 10 · 58) = √1160 ≈ 34 m/s\n\nA energia cinética máxima, para os três jovens juntos (m = 3 × 50 = 150 kg):\n\nEc = m · g · h = 150 · 10 · 58 = 87.000 J = 87 kJ\n\nO enunciado não dá g; com g = 9,8 m/s², v ≈ 33,7 m/s e Ec ≈ 85 kJ. Se for considerado um só participante (50 kg), a energia cinética dele é 29 kJ.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**A razão é Uᴬ/Uᴮ = 4/3.**\n\nA energia interna de um gás perfeito depende só da temperatura absoluta e é proporcional a n · T; pela equação de Clapeyron, p · V = n · R · T, logo a energia interna é proporcional ao produto p · V (para gás monoatômico, U = 3/2 · p · V).\n\nDo gráfico:\n\nEstado A: p · V = 4P · V = 4PV\nEstado B: p · V = P · 3V = 3PV\n\nUᴬ ÷ Uᴮ = 4PV ÷ 3PV = 4/3\n\nComo a massa não varia, a temperatura em A é 4/3 da temperatura em B: o gás esfriou na transformação e sua energia interna diminuiu, independentemente do caminho seguido entre A e B.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**R ≈ 1,8 Ω.**\n\nCalor necessário para aquecer 1 L (1.000 g) de água de 20 °C até 100 °C:\n\nQ = m · c · Δθ = 1000 · 1 · 80 = 80.000 cal = 320.000 J\n\nSó 80% da energia elétrica vira calor útil, então a energia elétrica consumida em 1 min (60 s) é:\n\nE = 320.000 ÷ 0,8 = 400.000 J\n\nPotência elétrica:\n\nP = E ÷ Δt = 400.000 ÷ 60 ≈ 6.667 W\n\nResistência:\n\nP = U² ÷ R → R = U² ÷ P = 110² ÷ 6.667 = 12.100 ÷ 6.667 ≈ 1,8 Ω\n\n(O valor exato é 1,815 Ω.) A resistência é pequena porque o aquecedor precisa de uma potência muito alta para ferver 1 litro de água em apenas um minuto.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**Equação balanceada**:\n\n2 N₂H₄ + N₂O₄ → 3 N₂ + 4 H₂O\n\nConferência: N: 4 + 2 = 6 = 3 × 2; H: 8 = 4 × 2; O: 4 = 4 × 1.\n\n**Reagente redutor**: a **hidrazina (N₂H₄)**, pois o nitrogênio passa de Nox −2 para 0 (oxida-se); no N₂O₄, o nitrogênio vai de +4 para 0 (reduz-se), sendo o oxidante.\n\n**Estrutura de Lewis da hidrazina**: os dois nitrogênios ligam-se entre si por ligação simples, e cada um se liga a dois hidrogênios e conserva um par de elétrons não ligante:\n\nH₂N̈–N̈H₂, ou seja, H–N(–H)–N(–H)–H, com um par isolado em cada N.\n\nCada nitrogênio (5 elétrons de valência) fica com o octeto: três pares compartilhados (duas ligações N–H e uma N–N) e um par livre; cada hidrogênio fica com dois elétrons. Na prova, desenhe os pares eletrônicos como pontos ou traços em torno dos átomos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**Cerca de 211 g de NaOH no mês (0,8 g por análise).**\n\nÁcido etanoico (CH₃COOH) em cada amostra de 25 mL de vinagre a 4,8% (m/v):\n\nm = 4,8 g/100 mL × 25 mL = 1,2 g\n\nMassa molar do ácido: 2·12 + 4·1 + 2·16 = 60 g/mol\nn(ácido) = 1,2 ÷ 60 = 0,020 mol\n\nNeutralização (1 : 1):\n\nCH₃COOH + NaOH → CH₃COONa + H₂O\nn(NaOH) = 0,020 mol (volume de titulante = 0,020 ÷ 1,0 = 20 mL)\n\nMassa molar do NaOH: 23 + 16 + 1 = 40 g/mol\nm(NaOH) por análise = 0,020 × 40 = 0,80 g\n\nNo mês (264 análises = 22 dias × 4 lotes × 3 análises):\n\nm = 264 × 0,80 = 211,2 g de NaOH\n\nEquivale a 9,6 g por dia de trabalho.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**Não atendem ao requisito o benzeno de Dewar e o fulveno.**\n\nO número de produtos monoclorados é igual ao número de tipos de hidrogênios não equivalentes na molécula.\n\n**Benzeno de Kekulé**: os 6 hidrogênios são equivalentes → 1 produto. **Prismano**: os 6 carbonos, cada um com um H, ocupam posições equivalentes nos vértices do prisma → 1 produto. Ambos atendem.\n\n**Benzeno de Dewar** (dois anéis de quatro carbonos unidos por uma ligação simples central, cada anel com uma dupla): há 2 tipos de H, os dos 2 carbonos da ponte (cabeça de ponte, sp³) e os dos 4 carbonos das duplas. Produtos: 1-cloro (Cl no carbono da ponte) e 2-cloro (Cl em carbono da dupla) → **2 produtos**.\n\n**Fulveno** (anel de cinco carbonos com duas duplas e um grupo =CH₂ exocíclico): há 3 tipos de H, os do CH₂ exocíclico, os dos carbonos do anel vizinhos ao carbono ligado ao CH₂ (posições 2 e 5) e os dos carbonos mais afastados (posições 3 e 4). Produtos: ClCH= ligado ao anel (6-cloro), 2-clorofulveno e 3-clorofulveno → **3 produtos**.\n\nNa prova, desenhe cada produto colocando o Cl no lugar de um H de cada tipo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**As outras raízes são 2a e −a.**\n\nPelas relações de Girard, para x³ − (2a − 1)x² − a(a + 1)x + 2a²(a − 1) = 0, com raízes (a − 1), r e s:\n\nSoma: (a − 1) + r + s = 2a − 1 → r + s = a\nProduto: (a − 1) · r · s = −2a²(a − 1) → r · s = −2a² (para a ≠ 1)\n\nr e s são raízes de y² − a·y − 2a² = 0:\n\ny = [a ± √(a² + 8a²)] ÷ 2 = (a ± 3a) ÷ 2 → y = 2a ou y = −a\n\nConferência pela soma dos produtos dois a dois:\n\n(a − 1)(2a) + (a − 1)(−a) + (2a)(−a) = 2a² − 2a − a² + a − 2a² = −a² − a = −a(a + 1) ✓\n\n(Também se chega ao resultado dividindo o polinômio por x − (a − 1) com o dispositivo de Briot-Ruffini, o que dá x² − a·x − 2a²; o caso a = 1 dá raízes 0, 2 e −1, coerente com a resposta.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**P = 4/13 ≈ 30,8%.**\n\nÉ uma probabilidade condicional: o espaço amostral fica reduzido às peças defeituosas.\n\nDefeituosas de A: 2% de 2.000 = 40\nDefeituosas de B: 3% de 3.000 = 90\nTotal de defeituosas: 40 + 90 = 130\n\nP(A | defeituosa) = 40 ÷ 130 = 4/13 ≈ 0,308\n\nO erro comum é responder 2/5 (a fração da produção feita por A) ou 2%: a informação de que a peça é defeituosa muda a probabilidade, porque B, além de produzir mais, tem taxa de defeitos maior.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**h = 7,7 m.**\n\nChuva total no ano, pelo gráfico (jan 100, fev 100, mar 300, abr 100, mai 50, dez 50 mm; demais meses sem chuva):\n\n100 + 100 + 300 + 100 + 50 + 50 = 700 mm → 700 L por m²\n\nÁrea do telhado que capta a chuva (projeção horizontal, igual à planta da casa):\n\nA = 8 × 10 = 80 m²\n\nVolume anual:\n\nV = 700 L/m² × 80 m² = 56.000 L = 56 m³\n\nAcrescido de 10%:\n\nV' = 56 × 1,1 = 61,6 m³\n\nA cisterna é um prisma de base 4 m × 2 m = 8 m²:\n\n8 · h = 61,6 → h = 7,7 m\n\nA chuva cai na vertical, por isso conta a área horizontal coberta (80 m²), não a área inclinada das águas do telhado.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

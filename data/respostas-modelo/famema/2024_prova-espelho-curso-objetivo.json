@@ -3,6 +3,46 @@
  "gerado_em": "2026-11-08",
  "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
  "questoes": {
+  "0:1": {
+   "resposta": "**a)** O metal do KClO₃ é o potássio, que pertence ao grupo 1, dos **metais alcalinos**. O cloro-35 tem número atômico 17, então tem **18 nêutrons**:\n\nn = A – Z = 35 – 17 = 18\n\n**b)** Equação balanceada:\n\n8 KClO₃(s) + C₁₂H₂₂O₁₁(s) → 12 CO₂(g) + 11 H₂O(g) + 8 KCl(s)\n\n(Conferindo: 8 K, 8 Cl, 12 C, 22 H e 35 O de cada lado.)\n\nMassa cristalizada: **125 g** de KClO₃. Lendo o gráfico, o coeficiente de solubilidade é cerca de 30 g/100 g de água a 70 °C e cerca de 5 g/100 g de água a 10 °C.\n\nem 100 g de água: 30 – 5 = 25 g cristalizam\nem 500 g de água: 25 × 5 = 125 g\n\nA solução saturada a 70 °C, ao ser resfriada, passa a dissolver menos sal, e o excesso se deposita como cristais.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:2": {
+   "resposta": "**a)** No Ho₂O₃ o hólmio tem número de oxidação **+3**:\n\n2 · x + 3 · (–2) = 0 → x = +3\n\nÉ um **óxido básico**: reage com ácido (HCl), formando sal e água, e não reage com base (é estável em NaOH).\n\nHo₂O₃ + 6 HCl → 2 HoCl₃ + 3 H₂O\n\n**b)** A meia-vida do hólmio-166 é de cerca de **27 horas**. De 0 a 81 h a atividade cai de 300 MBq para 37,5 MBq:\n\n300 → 150 → 75 → 37,5 MBq: 3 meias-vidas\nt½ = 81 h ÷ 3 = 27 h\n\n(O dado de 40 h confirma: 300 × (1/2)^(40/27) ≈ 107 MBq.)\n\nEquação de decaimento (Z = 67 para o hólmio, consultado na tabela periódica): na emissão beta, o número atômico aumenta uma unidade e o número de massa não muda; a emissão gama não altera nenhum dos dois.\n\n¹⁶⁶₆₇Ho → ⁰₋₁β + ⁰₀γ + ¹⁶⁶₆₈Er\n\nO nuclídeo formado é o érbio-166.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:3": {
+   "resposta": "**a)** Massa molar da glicose (C = 12, H = 1, O = 16 g/mol):\n\nM = 6 · 12 + 12 · 1 + 6 · 16 = **180 g/mol**\n\nFórmula mínima: dividindo os índices de C₆H₁₂O₆ por 6, obtém-se **CH₂O**.\n\n**b)** O maior potencial de redução (O₂, +0,82 V) indica a redução no cátodo; a glicose é oxidada no ânodo, então a primeira semirreação é invertida. Igualando os elétrons (multiplicando a do O₂ por 6):\n\nânodo: C₆H₁₂O₆ + 6 H₂O → 6 CO₂ + 24 H⁺ + 24 e⁻\ncátodo: 6 O₂ + 24 H⁺ + 24 e⁻ → 12 H₂O\n\nEquação global:\n\n**C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O**\n\nddp = E°(cátodo) – E°(ânodo)\nddp = +0,82 – (–0,43)\nddp = **+1,25 V**\n\nMultiplicar a semirreação por 6 não altera o potencial, que é uma grandeza intensiva.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:4": {
+   "resposta": "**a)** O ácido levulínico (CH₃–CO–CH₂–CH₂–COOH) tem **2 carbonos primários**: o do CH₃ e o da carboxila, cada um ligado a apenas um outro carbono. O carbono da carbonila e os dois CH₂ estão ligados a dois carbonos (são secundários).\n\nO ácido β-acetilacrílico apresenta **isomeria geométrica (cis-trans)**: há uma ligação dupla C=C em que cada carbono tem dois ligantes diferentes (H e o grupo acetila de um lado; H e a carboxila do outro).\n\n**b)** Ocorre uma **esterificação** (reação de Fischer): o ácido carboxílico reage com o álcool, em meio ácido, formando éster e água.\n\nCH₃–CO–CH₂–CH₂–COOH + HO–CH₂–CH₃ ⇌ CH₃–CO–CH₂–CH₂–COO–CH₂–CH₃ + H₂O\n\nO produto é o **levulinato de etila** (4-oxopentanoato de etila), de fórmula estrutural CH₃–CO–CH₂–CH₂–COO–CH₂–CH₃, em que o grupo –OH da carboxila foi substituído pelo grupo –O–CH₂–CH₃.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:5": {
+   "resposta": "**a)** O gráfico representa a **meiose**: depois da duplicação do DNA na interfase (de 2x para 4x), a quantidade cai duas vezes (4x → 2x → x), produzindo células com metade do DNA da célula inicial. Em seres humanos, a meiose forma os **gametas** (espermatozoides e ovócitos/óvulos), células haploides.\n\n**b)** A síndrome de Down pode resultar da não disjunção dos cromossomos 21 na **fase 6** (anáfase I, em que os homólogos não se separam) ou na **fase 10** (anáfase II, em que as cromátides-irmãs não se separam). Qualquer uma das duas serve como resposta.\n\nContando as fases (1 = G1, 2 = S, 3 = G2, 4 a 7 = meiose I, 8 a 11 = meiose II), a fase 5 é a **metáfase I**. Nela, os pares de cromossomos homólogos se alinham na placa equatorial em orientação aleatória, o que leva à **segregação independente**: os gametas recebem combinações diferentes de cromossomos paternos e maternos. Somada à permutação (crossing-over) que ocorre na prófase I, essa recombinação aumenta a variabilidade genética da população.",
+   "confianca": "media",
+   "pendencia": "A identificação da fase 5 depende de contar as fases no gráfico: lida como metáfase I, a resposta é a segregação independente; se a banca considerar a fase 5 como parte da prófase I, a resposta esperada seria o crossing-over (citado como complemento)."
+  },
+  "0:6": {
+   "resposta": "**a)** Os protozoários são **unicelulares**: cada organismo é formado por uma única célula eucariótica. O texto cita **4 gêneros**: *Leishmania*, *Crithidia*, *Trypanosoma* e *Leptomonas*. (*Leishmania infantum* é uma espécie do gênero *Leishmania*, contado uma vez.)\n\n**b)** Na **leishmaniose visceral**, o vetor é o mosquito-palha (flebotomíneo, gênero *Lutzomyia*): a fêmea, ao picar e sugar o sangue, **inocula** as formas infectantes do protozoário diretamente na pele junto com a saliva.\n\nNa **doença de Chagas**, o vetor é o inseto barbeiro (triatomíneo): o *Trypanosoma cruzi* não é injetado pela picada, mas eliminado nas **fezes** do inseto, que ele deposita sobre a pele enquanto se alimenta. A pessoa se contamina quando, ao coçar, leva as fezes até a ferida da picada ou às mucosas (como a dos olhos).\n\nOu seja: na leishmaniose a transmissão ocorre pela picada (saliva); na doença de Chagas, pelas fezes contaminadas do vetor. (Na doença de Chagas também há transmissão oral, por alimentos contaminados com o barbeiro ou suas fezes.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:7": {
+   "resposta": "**a)** A antera é indicada pelo número **2** e a sépala pelo número **5**.\n\nPela figura, 1 é a pétala, 9 o estigma, 8 o estilete, 7 o ovário, 6 o óvulo, 3 o filete e 4 o receptáculo.\n\n**b)** A dupla fecundação consiste em duas fusões feitas pelos dois núcleos espermáticos levados pelo tubo polínico até o saco embrionário: um núcleo espermático fecunda a **oosfera**, formando o **zigoto** (2n), que dará origem ao embrião; o outro se funde aos **dois núcleos polares**, formando uma célula triploide (3n) que origina o **endosperma**, tecido de reserva nutritiva da semente.\n\nNo início da germinação o embrião ainda não tem folhas desenvolvidas nem clorofila para fazer fotossíntese em quantidade suficiente (em geral está enterrado, sem luz). Por isso ele se nutre das **reservas** acumuladas no endosperma ou nos cotilédones (amido, proteínas, lipídios), ou seja, tem nutrição heterotrófica até que as primeiras folhas comecem a fotossintetizar.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:8": {
+   "resposta": "**a)** A glicose é usada na **respiração celular aeróbia**, que ocorre no citoplasma (glicólise) e nas mitocôndrias (ciclo de Krebs e cadeia respiratória/fosforilação oxidativa), produzindo ATP. Outro hormônio pancreático que regula a glicemia é o **glucagon**, que eleva a glicose no sangue (a somatostatina também participa).\n\n**b)** A insulina não \"quebra\" as moléculas de glicose. Sua função é **facilitar a entrada da glicose nas células** (por exemplo, musculares e adiposas, ao aumentar a quantidade de transportadores de glicose na membrana) e estimular o armazenamento da glicose como glicogênio no fígado e nos músculos, **reduzindo a glicemia**.\n\nNo diabetes tipo 2 a pessoa produz insulina, mas há **resistência à insulina**: os receptores de insulina na membrana das células estão em menor número ou respondem mal ao hormônio (falha na sinalização), e a glicose não entra nas células, acumulando-se no sangue.",
+   "confianca": "alta",
+   "pendencia": null
+  },
   "2:1": {
    "resposta": "A questão pede a **leitura da sequência narrativa** da tirinha. Os quadrinhos mostram a cena de trás para a frente: no primeiro, o personagem está cravado no chão ao pé do penhasco; no segundo e no terceiro, ele sobe pelo ar; no último, está de volta ao alto, em pé, inteiro. É uma queda \"rebobinada\", como um filme passado ao contrário.\n\nA fala \"Infelizmente na vida real isto não é possível!\" revela o desejo frustrado: poder desfazer o que aconteceu, voltar no tempo e anular um erro irreversível. Ou seja, ele queria que o tempo fosse reversível.\n\nA (C) é tentadora, mas a tirinha não mostra o tempo passando devagar, e sim andando para trás. As demais (tempo obscuro, previsível ou inexistente) não têm apoio nas imagens.\n\n**Resposta: E**",
    "confianca": "alta",

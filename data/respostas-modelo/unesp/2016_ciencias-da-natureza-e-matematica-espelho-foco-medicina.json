@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2016_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:13": {
+   "resposta": "Fruto, na definição botânica, é o ovário desenvolvido (e amadurecido) da flor das angiospermas, geralmente após a fecundação, que envolve e protege as sementes (os óvulos fecundados e desenvolvidos). É formado pelo pericarpo (epicarpo, mesocarpo e endocarpo) e pelas sementes.\n\nNem toda fruta é um fruto porque \"fruta\" é um termo popular para qualquer estrutura vegetal comestível, geralmente doce e carnosa, e algumas delas se desenvolvem a partir de outras partes da flor que não o ovário. São os pseudofrutos: no caju, a parte suculenta é o pedúnculo floral desenvolvido (o fruto verdadeiro é a \"castanha\"); na maçã e na pera, a parte comestível é o receptáculo floral (o fruto verdadeiro é a parte central, com as sementes); no morango, também o receptáculo, com os frutos (aquênios) na superfície.\n\nImportância dos frutos na diversificação das angiospermas: o fruto protege as sementes e, sobretudo, favorece a sua dispersão. Frutos carnosos atraem animais que os comem e eliminam as sementes longe da planta-mãe (zoocoria); outros têm adaptações para dispersão pelo vento ou pela água. Isso diminui a competição com a planta-mãe e permite a colonização de novos ambientes, o que contribuiu para que as angiospermas se espalhassem e se diversificassem, tornando-se o grupo vegetal com maior número de espécies, muitas vezes em coevolução com os animais dispersores.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "Amostra A (água pura): o volume celular dos paramécios praticamente não se altera, mas a atividade dos vacúolos contráteis aumenta (contraem-se com maior frequência). A água do lago já é hipotônica em relação ao citoplasma, e a adição de água pura a torna ainda mais diluída; assim, entra mais água por osmose, e os vacúolos contráteis passam a eliminar o excesso com mais rapidez, mantendo o volume da célula e evitando que ela estoure.\n\nAmostra B (solução saturada de NaCl): o volume celular diminui (os paramécios murcham) e a atividade dos vacúolos contráteis diminui até praticamente parar. A adição da solução saturada torna o meio hipertônico em relação ao citoplasma; a célula passa a perder água por osmose, e não há excesso de água a ser eliminado, de modo que os vacúolos deixam de trabalhar. Com perda intensa de água, os paramécios podem até morrer.\n\nJustificativa geral: o vacúolo contrátil é uma organela osmorreguladora dos protozoários de água doce, que bombeia para fora, com gasto de energia, a água que entra continuamente por osmose.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "O mecanismo que protege o corpo do calor excessivo é a termorregulação comandada pelo hipotálamo. Quando a temperatura sobe, ocorrem a vasodilatação periférica (os vasos da pele se dilatam e aumentam o fluxo de sangue na superfície, o que facilita a perda de calor para o ambiente) e a sudorese: as glândulas sudoríparas liberam suor, cuja evaporação retira calor da pele (o calor latente de vaporização da água), resfriando o corpo.\n\nConsequências da hipotermia no metabolismo celular: com a queda da temperatura corporal, a atividade das enzimas diminui, porque as reações catalisadas por elas ficam mais lentas (menor energia cinética das moléculas e menor frequência de encontros entre enzima e substrato). As enzimas humanas funcionam melhor perto de 37 °C (temperatura ótima). Com a atividade enzimática reduzida, cai a velocidade das reações do metabolismo, em especial da respiração celular (glicólise, ciclo de Krebs e cadeia respiratória), e a produção de energia (ATP) diminui. Faltando ATP, ficam comprometidas funções vitais como a contração muscular (inclusive do coração), o transporte ativo e a atividade nervosa, o que pode levar a confusão mental, arritmias, perda de consciência e morte. Inicialmente o corpo tenta compensar com tremores (calafrios) e vasoconstrição, mas, em exposição prolongada ao frio intenso, esses mecanismos não bastam.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "Semirreações (nas condições da reação, o ferro é oxidado e o H⁺ do ácido é reduzido):\n\nOxidação (ânodo): Fe (s) → Fe²⁺ (aq) + 2e⁻\nRedução (cátodo): 2 H⁺ (aq) + 2e⁻ → H₂ (g)\n\nEquação global: Fe (s) + 2 H⁺ (aq) → Fe²⁺ (aq) + H₂ (g)\nou, na forma molecular: Fe (s) + H₂SO₄ (aq) → FeSO₄ (aq) + H₂ (g)\n\nForça eletromotriz da célula:\nΔE° = E°(redução, cátodo) − E°(redução, ânodo)\nΔE° = 0,00 V − (−0,44 V)\nΔE° = +0,44 V\n\nJustificativa: o par Fe²⁺/Fe tem potencial de redução menor (−0,44 V) que o par H⁺/H₂ (0,00 V); por isso o ferro se oxida espontaneamente, liberando gás hidrogênio, e o H⁺ se reduz. O ΔE° positivo confirma que a reação é espontânea.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "Equação global de formação do sal hidratado:\nFe (s) + H₂SO₄ (aq) + 7 H₂O (l) → FeSO₄·7H₂O (s) + H₂ (g)\n\nMassa de ferro puro:\nm(Fe) = 14,29 g × 0,98 = 14,0042 g ≈ 14,00 g\n\nQuantidade de ferro:\nn(Fe) = 14,0042 g ÷ 56,0 g/mol ≈ 0,250 mol\n\nMassa molar do FeSO₄·7H₂O:\nM = 56 + 32 + 4·16 + 7·18 = 278 g/mol\n\nComo a proporção é 1 mol de Fe para 1 mol de FeSO₄·7H₂O (o ácido está em excesso, e o ferro é o reagente limitante), a massa teórica é:\nm(teórica) = 0,250 mol × 278 g/mol ≈ 69,5 g\n\nRendimento:\nR = 52,13 g ÷ 69,52 g × 100% ≈ 75%\n\nO rendimento da reação foi de aproximadamente 75%. Parte do produto se perde, por exemplo, por permanecer dissolvida na água-mãe após a cristalização e na lavagem.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "Entalpia de ionização do HCN: ΔH = +10,4 kcal/mol (processo endotérmico).\n\nEtapas usadas (Lei de Hess):\n\nNeutralização do HCN pelo NaOH (medida no experimento; o HCN, muito fraco, está praticamente não ionizado):\nHCN (aq) + OH⁻ (aq) → CN⁻ (aq) + H₂O (l)   ΔH₁ = −2,9 kcal/mol\n(na forma molecular: HCN (aq) + NaOH (aq) → NaCN (aq) + H₂O (l))\n\nNeutralização de ácido forte por base forte (invertida):\nH⁺ (aq) + OH⁻ (aq) → H₂O (l)   ΔH₂ = −13,3 kcal/mol\nInvertendo: H₂O (l) → H⁺ (aq) + OH⁻ (aq)   ΔH = +13,3 kcal/mol\n\nSomando a primeira equação com a segunda invertida (OH⁻ e H₂O se cancelam):\nHCN (aq) → H⁺ (aq) + CN⁻ (aq)\nΔH(ionização) = −2,9 + 13,3 = +10,4 kcal/mol\n\nInterpretação: a neutralização do HCN libera menos calor que a de um ácido forte porque parte da energia liberada na formação da água é consumida na ionização do ácido fraco, que absorve 10,4 kcal por mol.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "Energia potencial elástica: Eₑ = 0,5 J. Aceleração do rapaz: a = 0,1 m/s².\n\nEnergia potencial elástica (mola distendida x = 20 cm = 0,20 m):\nEₑ = k·x² ÷ 2\nEₑ = 25 × (0,20)² ÷ 2\nEₑ = 25 × 0,04 ÷ 2 = 0,5 J\n\nAceleração do rapaz:\nA mola distendida puxa o carrinho para a direita com força\nF = k·x = 25 × 0,20 = 5 N\nComo o carrinho fica em repouso (sem deslizar sobre o solo), essa força é equilibrada pela força de atrito que os pés do rapaz exercem sobre a plataforma, de 5 N, para a esquerda. Pela 3ª lei de Newton (ação e reação), a plataforma exerce sobre o rapaz uma força de atrito de 5 N para a direita, que é a resultante sobre ele:\nF = m·a\n5 = 50·a\na = 0,1 m/s²\n\nO rapaz deve, portanto, manter uma aceleração constante de 0,1 m/s², para a direita, para que a mola continue distendida de 20 cm com o carrinho parado.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "Força do gás sobre o êmbolo: F = 2.000 N. Trabalho: W ≈ 133 J (exatamente 400/3 J).\n\nPressão do gás (êmbolo em equilíbrio, movimento uniforme):\nA = 100 cm² = 1,0 × 10⁻² m²\nPeso do corpo: P = m·g = 100 × 10 = 1.000 N\np(gás) = p(atm) + P ÷ A\np(gás) = 1,0 × 10⁵ + 1.000 ÷ 1,0 × 10⁻² = 1,0 × 10⁵ + 1,0 × 10⁵ = 2,0 × 10⁵ N/m²\n\nForça do gás sobre o êmbolo:\nF = p·A = 2,0 × 10⁵ × 1,0 × 10⁻² = 2,0 × 10³ N\n\nDeslocamento (transformação isobárica, V = A·h):\nh₁ ÷ T₁ = h₂ ÷ T₂, com T₁ = 27 + 273 = 300 K e T₂ = 67 + 273 = 340 K\n50 ÷ 300 = h₂ ÷ 340\nh₂ = 50 × 340 ÷ 300 ≈ 56,7 cm\nΔh = h₂ − h₁ ≈ 6,67 cm = 1/15 m ≈ 6,67 × 10⁻² m\n\nTrabalho realizado pela força do gás:\nW = F·Δh = 2.000 × (1/15) = 400/3 J ≈ 133 J\n\n(Equivalente: W = p·ΔV = 2,0 × 10⁵ × 1,0 × 10⁻² × 1/15 ≈ 133 J.)",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "Amperímetro: 0,15 A. Voltímetro: 6 V.\n\nLeitura da figura 2: o gerador de 12 V está ligado entre os vértices B e C. Entre esses dois pontos há três ramos em paralelo: o fio BC (80 Ω), em série com o amperímetro; o caminho B–D–C (fios BD e DC, 80 Ω + 80 Ω = 160 Ω), com o voltímetro ligado em paralelo ao fio DC; e o caminho B–E–C (fios BE e EC, 160 Ω). Instrumentos ideais: o amperímetro tem resistência nula e o voltímetro não desvia corrente.\n\nAmperímetro (corrente no fio BC, sob 12 V):\ni = U ÷ R = 12 ÷ 80 = 0,15 A\n\nVoltímetro (tensão no fio DC):\nCorrente no ramo B–D–C: i' = 12 ÷ 160 = 0,075 A\nU(DC) = R·i' = 80 × 0,075 = 6 V\n(Os dois fios do ramo são iguais, então a tensão de 12 V se divide igualmente: 6 V em cada um.)",
+   "confianca": "media",
+   "pendencia": "A resposta depende de ler na figura que o gerador está ligado entre B e C e que o voltímetro fica em paralelo com o fio DC; a imagem é pequena, mas é a leitura mais coerente com o desenho."
+  },
+  "0:22": {
+   "resposta": "Banco B: R$ 2.000,00; banco C: R$ 3.000,00. Ângulos: α = 87°, β = 162°, γ = 111°.\n\nBanco A (R$ 1.000,00): baixo risco 80% → 800; médio 15% → 150; alto 5% → 50.\n\nSejam b e c os valores aplicados nos bancos B e C:\nb + c = 6.000 − 1.000 = 5.000\nBaixo risco: 800 + 0,20·b + 0,50·c = 2.700 → 0,20·b + 0,50·c = 1.900\nSubstituindo b = 5.000 − c:\n0,20·(5.000 − c) + 0,50·c = 1.900\n1.000 + 0,30·c = 1.900\nc = 3.000 e b = 2.000\n\nConferência: médio risco 150 + 0,70 × 2.000 + 0,10 × 3.000 = 150 + 1.400 + 300 = 1.850 ✓; alto risco 50 + 0,10 × 2.000 + 0,40 × 3.000 = 50 + 200 + 1.200 = 1.450 ✓.\n\nÂngulos do gráfico (proporcionais aos valores, 360° para R$ 6.000,00):\nα (alto risco) = 1.450 ÷ 6.000 × 360° = 87°\nβ (baixo risco) = 2.700 ÷ 6.000 × 360° = 162°\nγ (médio risco) = 1.850 ÷ 6.000 × 360° = 111°\nSoma: 87° + 162° + 111° = 360° ✓",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**População que se extingue:** cerca de 17,4 milhões de insetos.\n\nf(x) = 0 → x² − 16x − 24 = 0\nΔ = 256 + 96 = 352 → √352 = 4√22\nx = (16 ± 4√22) ÷ 2 = 8 ± 2√22\nComo x > 0: x = 8 + 2√22 ≈ 8 + 2 · 4,7 = 17,4 (milhões)\n\nA outra raiz, 8 − 2√22 ≈ −1,4, é negativa e não serve para população.\n\n**Sustentabilidade máxima:** x = 4/3 ≈ 1,33 milhão de insetos.\n\nA diferença entre a população do ano seguinte e a atual é\ng(x) = f(x) − x = −(3/40)x² + (6/5)x + 9/5 − x = −(3/40)x² + (1/5)x + 9/5\n\nÉ uma parábola com concavidade para baixo; o máximo está no vértice:\nx = −b ÷ (2a) = −(1/5) ÷ (2 · (−3/40)) = (1/5) ÷ (3/20) = 4/3\n\nNesse ponto a diferença é g(4/3) = 29/15 ≈ 1,93 milhão de insetos a mais no ano seguinte. Atenção: o ponto de sustentabilidade máxima não é o vértice de f (x = 8), e sim o de f(x) − x.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**Formato Letra-Letra-Algarismo-Algarismo-Algarismo-Letra-Letra:** 26⁴ · 10³ placas.\n\nCada uma das 4 posições de letra admite 26 opções e cada uma das 3 posições de algarismo admite 10 (repetição permitida), pelo princípio multiplicativo:\n26 · 26 · 10 · 10 · 10 · 26 · 26 = 26⁴ · 10³ (= 456.976.000)\n\n**Total em qualquer ordem:** C(7,3) · 26⁴ · 10³ = 7!/(4! · 3!) · 26⁴ · 10³ = 35 · 26⁴ · 10³ placas.\n\nPrimeiro escolhem-se quais 3 das 7 posições ficam com algarismos (as outras 4 são letras): C(7,3) = 35 maneiras, que é o número de permutações com repetição de LLLLAAA, 7!/(4! · 3!). Para cada disposição, há 26⁴ · 10³ preenchimentos. O total é 35 · 26⁴ · 10³ (cerca de 1,6 · 10¹⁰), deixado em notação de produto e fatorial, como pede o enunciado.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2015_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:13": {
+   "resposta": "**Tratamento adequado: soro antiofídico.** O soro contém **anticorpos prontos** (produzidos em outro animal, geralmente cavalos, inoculado com o veneno) que neutralizam imediatamente as toxinas já presentes no organismo. É uma **imunização passiva**, de ação rápida, que é o que se precisa numa picada, em que o veneno age em minutos ou horas.\n\nA vacina não serve, porque provoca uma **imunização ativa**: contém antígenos que estimulam o próprio organismo a produzir anticorpos e células de memória, um processo que leva dias a semanas. Ela é preventiva, não curativa.\n\n**Sim, é importante saber a espécie (ou ao menos o gênero) da cobra.** Os anticorpos são **específicos** para os antígenos (toxinas) do veneno que os originou, e venenos de cobras diferentes têm composição e efeitos diferentes. Por isso existem soros específicos: antibotrópico (jararaca), anticrotálico (cascavel), antielapídico (coral), antilaquético (surucucu), além de soros polivalentes. Identificar a serpente permite aplicar o soro correto, na dose adequada, e evitar aplicar soro desnecessariamente quando a cobra não é peçonhenta.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**Por que o risco é maior**: primos-irmãos têm avós em comum e, por isso, maior probabilidade de terem herdado **o mesmo alelo recessivo** de um ancestral comum. Alelos recessivos raros costumam ficar \"escondidos\" em heterozigotos (portadores saudáveis), por isso a doença não se manifesta nos pais nem nos avós. Num casamento consanguíneo, aumenta a chance de os dois cônjuges serem portadores do mesmo alelo e de o filho receber duas cópias dele, tornando-se homozigoto recessivo e manifestando a doença.\n\n**Probabilidade**: seja A o alelo normal e a o alelo da doença.\n\nDarwin: mãe Aa × pai AA → P(Darwin ser Aa) = 1/2\n\nEmma: pai Aa × mãe AA → P(Emma ser Aa) = 1/2\n\nSe ambos forem Aa: Aa × Aa → P(filho aa) = 1/4\n\nP(primeiro filho doente) = 1/2 × 1/2 × 1/4 = **1/16** (6,25%)\n\nNote que Darwin e Emma são normais (nenhum avô é aa, então nenhum dos dois pode ser aa), e por isso só é preciso calcular a chance de cada um ser portador.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "**Sim, os resultados são os esperados.** Pela composição dada, o ovo de 60 g tem cerca de 36 g de clara (60%), 18 g de gema (30%) e 6 g de casca (10%). Ao final, pintinho (38 g) e casca (4 g) somam 42 g, ou seja, cerca de 18 g a menos que o ovo inteiro.\n\n60 − (38 + 4) = 18 g\n\n**Processos biológicos**:\n\n1. **Respiração celular do embrião**: durante o desenvolvimento, o embrião usa a gema e a clara como fonte de energia e de matéria-prima. Parte dessa matéria orgânica é oxidada na respiração aeróbia, e o **CO₂ e o vapor de água** produzidos saem do ovo pelos **poros da casca**, que é permeável a gases (o O₂ entra pelo mesmo caminho). Há também perda de água por evaporação. Essa matéria que deixa o ovo explica a massa \"perdida\".\n\n2. **Retirada de cálcio da casca**: a casca é feita principalmente de carbonato de cálcio (CaCO₃). O embrião absorve cálcio da casca, por meio da membrana corioalantoica, para formar o esqueleto ósseo. Por isso a casca passa de 6 g para 4 g, e esses 2 g foram incorporados ao corpo do pintinho.\n\nAssim, a massa do pintinho vem da gema, da clara e de parte da casca, descontada a matéria eliminada como gás e vapor; a conservação da massa vale para o sistema todo, incluindo os gases trocados com o ambiente. Restos de membranas e anexos embrionários que ficam na casca também entram na conta.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "**Massa de CuSO₄**: 63,8 g (usando Cu = 63,5; S = 32; O = 16).\n\nMassa molar: M(CuSO₄) = 63,5 + 32 + 4 × 16 = 159,5 g/mol\n\nQuantidade de matéria: n = C × V = 1,00 mol/L × 0,400 L = 0,400 mol\n\nMassa: m = n × M = 0,400 × 159,5 ≈ **63,8 g**\n\n**Equação de dissociação**:\n\nCuSO₄(s) → Cu²⁺(aq) + SO₄²⁻(aq)\n\nO cálculo considera o sal anidro. Se a tabela da prova trouxer massas atômicas um pouco diferentes (por exemplo Cu = 63,55 e S = 32,1), o resultado fica em torno de 63,9 g; se fosse usado o sulfato de cobre penta-hidratado (CuSO₄·5H₂O, 249,5 g/mol), seriam cerca de 99,8 g, mas o enunciado fala em sulfato de cobre (CuSO₄).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "**Equação global**: o zinco, de menor potencial de redução, é o ânodo e se oxida; os íons Cu²⁺ da solução de CuSO₄ se reduzem sobre a placa de cobre (cátodo).\n\nÂnodo: Zn(s) → Zn²⁺(aq) + 2e⁻\n\nCátodo: Cu²⁺(aq) + 2e⁻ → Cu(s)\n\nGlobal: **Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)**\n\n**ddp teórica**:\n\nddp de cada pilha: ΔE° = E°(cátodo) − E°(ânodo) = +0,34 − (−0,76) = 1,10 V\n\nTrês pilhas em série somam as ddps: 3 × 1,10 = **3,30 V**\n\nEsse é o valor teórico nas condições-padrão; na prática a ddp é menor por causa da resistência interna e das concentrações diferentes de 1 mol/L, o que explica a lâmpada de 1,5 V acender.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "**Meia-vida: 10 h (600 min).** A concentração de sacarose cai à metade a cada 10 h: de 0,12 para 0,06 mol/L em 10 h e de 0,06 para 0,03 mol/L em mais 10 h. Como o tempo para reduzir à metade é constante, a meia-vida é 10 h (comportamento de cinética de primeira ordem).\n\n**Velocidade média entre 600 e 1 200 min**: esse intervalo corresponde a 10 h e 20 h, quando a concentração vai de 0,06 para 0,03 mol/L.\n\nv = |Δ[sacarose]| ÷ Δt\n\nv = (0,06 − 0,03) ÷ (1 200 − 600)\n\nv = 0,03 ÷ 600\n\nv = **5 × 10⁻⁵ mol · L⁻¹ · min⁻¹**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**Perda de energia mecânica: 19%.** A massa da esfera não é dada, então a perda não pode ser expressa em joules, apenas em porcentagem (o \"em J\" do enunciado é incompatível com o pedido de perda percentual).\n\nNa colisão, a velocidade passa de 20 m/s para 18 m/s (em módulo). A energia mecânica no instante da colisão é só cinética:\n\nAntes: E₁ = m · 20² ÷ 2 = 200m\n\nDepois: E₂ = m · 18² ÷ 2 = 162m\n\nPerda percentual = (200m − 162m) ÷ 200m = 38 ÷ 200 = 0,19 = **19%**\n\n**Distância total: 36,2 m.** No gráfico v × t, a distância é a área sob a curva.\n\nQueda (0 a 2 s): d₁ = 2 × 20 ÷ 2 = 20 m\n\nSubida: tempo até parar = 18 ÷ 10 = 1,8 s, então T = 2 + 1,8 = 3,8 s\n\nd₂ = 1,8 × 18 ÷ 2 = 16,2 m\n\nTotal: d = 20 + 16,2 = **36,2 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**Distância d = 0,8 m.** A imagem da parede AB num espelho plano fica a 2,5 m atrás do espelho (simétrica). A distância dos olhos até essa imagem é a distância dos olhos ao espelho mais 2,5 m:\n\nd + 2,5 = 3,3\n\nd = **0,8 m**\n\n**Deslocamento mínimo para cima: 0,15 m (15 cm).** Num espelho plano, um raio que vai de um ponto do corpo ao olho reflete no espelho numa altura igual à **média** entre a altura do ponto e a dos olhos (pela semelhança de triângulos, o ponto de reflexão fica na metade do caminho, já que objeto e imagem estão à mesma distância do espelho). Sendo h a altura dos olhos:\n\nhoje, a borda superior do espelho está em (h + 1,5) ÷ 2, pois o ponto mais alto visto é o detalhe a 1,5 m;\n\npara ver o topo da cabeça, ela deve estar em (h + 1,8) ÷ 2.\n\nDeslocamento = (h + 1,8) ÷ 2 − (h + 1,5) ÷ 2 = 0,3 ÷ 2 = **0,15 m**\n\nA altura dos olhos não interfere no resultado. Como o espelho é maior que o mínimo, ao subir 15 cm sua borda inferior (que estava no chão) fica a 0,15 m, ainda abaixo de h ÷ 2, e a pessoa continua vendo os pés.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**Geometria**: fio 2, P e fio 1 formam um triângulo retângulo em P (40 cm e 30 cm), então a distância entre os fios é √(40² + 30²) = 50 cm, que é o diâmetro da circunferência. C é o ponto médio: está a 25 cm de cada fio.\n\nCampo de um fio longo: B = μ₀ · i ÷ (2π · r) = 2 × 10⁻⁷ · i ÷ r\n\n**No centro C: 5,6 × 10⁻⁶ T.**\n\nB₁ = 2 × 10⁻⁷ × 9 ÷ 0,25 = 7,2 × 10⁻⁶ T\n\nB₂ = 2 × 10⁻⁷ × 16 ÷ 0,25 = 12,8 × 10⁻⁶ T\n\nC está sobre o segmento que une os fios e as correntes têm o mesmo sentido; pela regra da mão direita, os dois campos têm a mesma direção (perpendicular ao segmento) e sentidos opostos:\n\nB(C) = 12,8 × 10⁻⁶ − 7,2 × 10⁻⁶ = **5,6 × 10⁻⁶ T**\n\n**No ponto P: 1,0 × 10⁻⁵ T.**\n\nB₁ = 2 × 10⁻⁷ × 9 ÷ 0,30 = 6,0 × 10⁻⁶ T (perpendicular ao segmento vertical P–fio 1, portanto horizontal)\n\nB₂ = 2 × 10⁻⁷ × 16 ÷ 0,40 = 8,0 × 10⁻⁶ T (perpendicular ao segmento horizontal fio 2–P, portanto vertical)\n\nOs vetores são perpendiculares entre si:\n\nB(P) = √((6,0 × 10⁻⁶)² + (8,0 × 10⁻⁶)²) = **1,0 × 10⁻⁵ T**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**Comprimento da pista de André: 150 m.**\n\nTrecho reto: AD = BC = 98 m (ABCD é retângulo).\n\nArco A'D: raio ED = 30 m e ângulo α = 72° = 2π/5 rad.\n\ncomprimento = 30 × 2π/5 = 12π = 12 × 3 = 36 m\n\nTrecho A'D': como B', A' e E estão alinhados e A'B'C'D' é retângulo, EA' é perpendicular a A'D', e o triângulo EA'D' é retângulo em A', com EA' = 30 m (raio) e ED' = 34 m.\n\nA'D' = √(34² − 30²) = √(1 156 − 900) = √256 = 16 m\n\nTotal de André: 98 + 36 + 16 = **150 m**\n\n**Distância FB: 12 m.**\n\nRaio do arco de Fábio: EC = ED + DC = 30 + 10 = 40 m (DC = AB = 10 m).\n\nArco B'C: 40 × 2π/5 = 16π = 16 × 3 = 48 m\n\nTrecho B'C' = A'D' = 16 m\n\nO percurso de Fábio também deve medir 150 m:\n\nFC + 48 + 16 = 150 → FC = 86 m\n\nFB = BC − FC = 98 − 86 = **12 m**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**Kₙ se aproxima de 1.**\n\nCada raiz quadrada é uma potência de expoente 1/2, e cada fator novo fica sob uma raiz a mais. Para n raízes:\n\n√(a · √(a · … √a)) = a^(1/2 + 1/4 + 1/8 + … + 1/2ⁿ)\n\nO expoente é a soma de uma progressão geométrica de razão 1/2:\n\n1/2 + 1/4 + … + 1/2ⁿ = 1 − 1/2ⁿ\n\nLogo Kₙ = 3^(1 − 1/2ⁿ) − 2^(1 − 1/2ⁿ).\n\nQuando n → +∞, 1/2ⁿ → 0 e o expoente tende a 1 (soma da PG infinita: (1/2) ÷ (1 − 1/2) = 1):\n\nKₙ → 3¹ − 2¹ = **1**",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**Probabilidade com 4 pessoas entre eles: 3/28** (cerca de 10,7%).\n\nConsidere apenas as posições de Renato e Alice na fila de 8 lugares (as outras pessoas não alteram a probabilidade). Há 8 × 7 = 56 maneiras igualmente prováveis de ocupar duas posições, com a ordem importando.\n\nHaver exatamente 4 pessoas entre eles significa que suas posições diferem em 5. Os pares possíveis são (1, 6), (2, 7) e (3, 8): 3 pares, e cada um pode ter Renato ou Alice na frente, o que dá 3 × 2 = 6 casos.\n\nP = 6 ÷ 56 = **3/28**\n\n**Generalização para m pessoas entre eles (1 ≤ m ≤ 6)**: as posições diferem em m + 1. A primeira posição do par pode ser 1, 2, …, 8 − (m + 1), ou seja, há 7 − m pares, cada um em 2 ordens:\n\nP(m) = 2 · (7 − m) ÷ 56 = **(7 − m) ÷ 28**\n\nConferindo: m = 4 dá 3/28; m = 6 dá 1/28 (só nas pontas da fila). O mesmo resultado sai contando filas completas: 2 · (7 − m) · 6! ÷ 8!.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

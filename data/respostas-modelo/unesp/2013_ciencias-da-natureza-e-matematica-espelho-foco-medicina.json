@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2013_ciencias-da-natureza-e-matematica-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:13": {
+   "resposta": "O elemento é o **nitrogênio (N)**. O gás N₂ forma cerca de 78% do ar, mas as plantas não conseguem usá-lo nessa forma, por causa da tripla ligação muito estável; elas só absorvem o nitrogênio combinado, sobretudo como **nitrato (NO₃⁻)** e **amônio (NH₄⁺)**, que é pouco disponível em solos pobres como o das plantas carnívoras.\n\nAs plantas não carnívoras obtêm o nitrogênio **pela absorção, através das raízes, de compostos nitrogenados do solo**, formados no **ciclo do nitrogênio**:\n\n**Fixação biológica**: bactérias fixadoras, de vida livre (Azotobacter, cianobactérias) ou **simbiontes nos nódulos das raízes de leguminosas** (Rhizobium), convertem N₂ em amônia (NH₃ → NH₄⁺), aproveitada pela planta.\n\n**Amonificação**: decompositores transformam proteínas e excretas de seres mortos em amônia.\n\n**Nitrificação**: bactérias quimiossintetizantes oxidam amônia a nitrito (Nitrosomonas) e o nitrito a nitrato (Nitrobacter), a forma mais absorvida pelas raízes.\n\nContribuem ainda a fixação por descargas elétricas (relâmpagos) e a adubação nitrogenada feita pelo homem. Absorvido, o nitrogênio é usado na síntese de aminoácidos, proteínas e bases nitrogenadas dos ácidos nucleicos.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:14": {
+   "resposta": "**Lamarck** explicaria a cegueira dos tuco-tucos pela **lei do uso e desuso** e pela **herança dos caracteres adquiridos**. Vivendo em túneis subterrâneos e escuros e tendo hábitos noturnos, esses animais quase não usariam os olhos; pelo desuso, os olhos se atrofiariam ao longo da vida de cada indivíduo, e essa atrofia adquirida seria transmitida aos descendentes, acumulando-se de geração em geração até a cegueira. Por isso Darwin diz que Lamarck se alegraria com o fato.\n\nA **teoria evolutiva moderna (teoria sintética)** rejeita a herança de caracteres adquiridos: modificações do corpo durante a vida não alteram o DNA das células reprodutivas. A explicação é outra: na população sempre existe **variabilidade genética**, produzida por **mutações** e recombinação, que surgem ao acaso, sem relação com a necessidade. Indivíduos com olhos reduzidos ou não funcionais podem surgir por mutação. No ambiente subterrâneo e escuro, a visão não traz vantagem, e os olhos são estruturas delicadas, sujeitas a lesões e infecções com a terra, além de gastarem energia; assim, a **seleção natural** não elimina essas variantes e pode até favorecê-las, por sobreviverem e se reproduzirem tanto ou mais que os outros. Ao longo de gerações aumenta, na população, a frequência dos genes ligados à redução dos olhos. O ambiente não cria a característica; apenas seleciona variações já existentes.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:15": {
+   "resposta": "A recomendação vale para **todos os que têm 60 anos ou mais, inclusive os já vacinados em anos anteriores**: a vacina contra a gripe deve ser tomada **todo ano**.\n\nJustificativa pelas características antigênicas do vírus: o vírus influenza tem genoma de **RNA**, que sofre **mutações com alta frequência**, e seu material genético é segmentado, o que permite recombinação entre linhagens. Com isso, mudam continuamente os **antígenos de superfície**, as glicoproteínas **hemaglutinina (H)** e **neuraminidase (N)**. A cada temporada circulam variantes diferentes, e os anticorpos e células de memória produzidos contra as cepas do ano anterior podem não reconhecê-las. Por isso a composição da vacina é **atualizada anualmente**, de acordo com as cepas previstas para a temporada. Além disso, a proteção conferida pela vacina diminui com o tempo, ainda mais em idosos, cujo sistema imunitário responde menos (imunossenescência), e esse grupo tem maior risco de complicações graves.\n\nComo a vacina protege: ela contém vírus **inativados** ou fragmentos deles, com os antígenos das cepas previstas, incapazes de causar a doença. Ao recebê-la, o organismo desenvolve **imunização ativa**: os linfócitos reconhecem os antígenos, os linfócitos B produzem **anticorpos específicos** e formam-se **células de memória**. Se a pessoa entrar em contato com o vírus correspondente, a resposta imune secundária é rápida e intensa, neutralizando o vírus antes que a doença se instale ou reduzindo sua gravidade.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:16": {
+   "resposta": "A taurina não é rigorosamente um aminoácido porque **não possui o grupo carboxila (–COOH)**. Um aminoácido, por definição, tem na mesma molécula um grupo amino (–NH₂) e um grupo **ácido carboxílico**; na taurina, a função ácida é dada por um grupo **ácido sulfônico (–SO₃H)**. Ela é o ácido 2-aminoetanossulfônico, e por isso é chamada de substância análoga aos aminoácidos (aminoácido sulfônico). Além disso, o grupo amino está no carbono β, e não no carbono α vizinho ao grupo ácido, como nos aminoácidos que formam as proteínas.\n\nEm água com pH 7, o grupo sulfônico, ácido forte, perde o próton (vira –SO₃⁻) e o grupo amino, básico, recebe um próton (vira –NH₃⁺). A transferência interna do H⁺ forma o íon dipolar (zwitterion), com carga total zero:\n\nHO–SO₂–CH₂–CH₂–NH₂ (aq) → ⁻O–SO₂–CH₂–CH₂–NH₃⁺ (aq)\n\nou, de forma condensada: HO₃S–CH₂CH₂–NH₂ ⇌ ⁻O₃S–CH₂CH₂–NH₃⁺\n\nTambém é aceitável escrever a ionização em duas etapas com a água (–SO₃H + H₂O → –SO₃⁻ + H₃O⁺ e –NH₂ + H₃O⁺ → –NH₃⁺ + H₂O), cujo resultado global é o mesmo sal interno.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:17": {
+   "resposta": "A reação na presença do catalisador é representada pela **curva II**.\n\nO catalisador oferece um **novo mecanismo** (caminho de reação) com **menor energia de ativação**: o \"pico\" da curva, que corresponde ao complexo ativado, fica mais baixo em II do que em I. Com uma barreira menor, uma fração maior das colisões é efetiva e a reação fica **mais rápida**. O catalisador não é consumido no processo.\n\nA **variação de entalpia (ΔH) é a mesma** nas duas situações. O ΔH depende apenas da diferença entre a entalpia dos produtos e a dos reagentes (ΔH = H produtos − H reagentes), e o catalisador não altera os estados inicial e final; no gráfico, as duas curvas partem do mesmo nível dos reagentes e terminam no mesmo nível dos produtos. Como os produtos estão em nível de energia **mais baixo** que os reagentes, a reação é **exotérmica (ΔH < 0)**, com ou sem catalisador.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:18": {
+   "resposta": "A solução que produz o registro é a de **nitrato de prata (AgNO₃)**.\n\nAo entrar em contato com o NaCl deixado pelo suor nas cristas da impressão digital, os íons Ag⁺ reagem com os íons Cl⁻ e formam **cloreto de prata**, sal **insolúvel** que precipita exatamente no desenho das linhas:\n\nNaCl (aq) + AgNO₃ (aq) → AgCl (s) + NaNO₃ (aq)\nou, na forma iônica: Ag⁺ (aq) + Cl⁻ (aq) → AgCl (s)\n\nO AgCl é **fotossensível** (por isso a secagem em câmara escura). Exposto à luz solar, ele se decompõe, e os íons prata são reduzidos a **prata metálica**, finamente dividida, de cor escura, que revela a impressão (o mesmo princípio da fotografia em filme):\n\n2 AgCl (s) → 2 Ag (s) + Cl₂ (g)   (luz)\n\nCom o **KNO₃** isso não acontece: KNO₃ e NaCl não formam nenhum produto insolúvel (sais de sódio, potássio, nitratos e o KCl são solúveis), ou seja, não há reação de precipitação, e nenhum composto sensível à luz fica retido sobre as linhas da impressão.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:19": {
+   "resposta": "**Energia potencial elástica inicial: 0,75 J. Velocidade de A: 0,5 m/s, no mesmo sentido do movimento inicial.**\n\nAntes do disparo, a energia mecânica do sistema é a cinética dos dois carrinhos (massa total 6 kg) somada à energia elástica da mola comprimida:\n\nEc = m·v²/2 = 6 · 1² / 2 = 3 J\nEpe = Emec − Ec = 3,75 − 3 = 0,75 J\n\nVelocidade de A: as forças da mola são internas e não há atrito, então a **quantidade de movimento do sistema se conserva**:\n\nQ antes = (mA + mB) · v = 6 · 1 = 6 kg·m/s\nQ depois = mA · vA + mB · vB = 3 · vA + 3 · 1,5\n6 = 3 · vA + 4,5 → vA = 0,5 m/s\n\nO valor positivo indica que A continua andando para a direita, mais devagar. Conferência pela energia, já que a mola totalmente distendida não guarda mais energia e não há atrito: 3 · 0,5² / 2 + 3 · 1,5² / 2 = 0,375 + 3,375 = 3,75 J, igual à energia mecânica inicial.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:20": {
+   "resposta": "**Trabalho na expansão AB: 2,8 × 10⁵ J (280 kJ). Variação de energia interna em DA: +20 kJ (2,0 × 10⁴ J).**\n\nTrabalho em AB (isobárica): τ = p · ΔV\nτAB = 4,0 × 10⁵ · (1,0 − 0,3) = 2,8 × 10⁵ J = 280 kJ\n\nPara DA, use a primeira lei (ΔU = Q − τ) em cada etapa e o fato de que, num ciclo, a variação total de energia interna é nula.\n\nAB: ΔUAB = 400 − 280 = +120 kJ\nBC (isotérmica, gás ideal): ΔUBC = 0\nCD (isobárica, compressão): τCD = 2,0 × 10⁵ · (0,5 − 2,0) = −3,0 × 10⁵ J = −300 kJ\nΔUCD = Q − τ = −440 − (−300) = −140 kJ\n\nCiclo: ΔUAB + ΔUBC + ΔUCD + ΔUDA = 0\n120 + 0 − 140 + ΔUDA = 0 → ΔUDA = +20 kJ\n\nFaz sentido: em DA o gás é comprimido sem trocar calor (Q = 0), então o trabalho recebido, 20 kJ, vira aumento de energia interna, e a temperatura sobe de D para A.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:21": {
+   "resposta": "**Os íons positivos incidem em C₁ e os negativos em C₂. A relação é m₁/m₂ = 1/2.**\n\nSentido da força: a força magnética é perpendicular à velocidade e ao campo, com sentido dado pela regra da mão direita (ou do tapa) para carga positiva e oposto para carga negativa. Na fenda, a velocidade aponta para cima, no plano da figura, e o campo sai do plano. Para uma carga positiva, a força aponta para a **direita**, e a trajetória curva para a direita, chegando a **C₁**. Para a carga negativa, a força tem sentido oposto, para a **esquerda**, e o íon atinge **C₂**. Logo, q₁ > 0 e q₂ < 0.\n\nRelação das massas: a força magnética é a resultante centrípeta do movimento circular uniforme.\n\n|q| · v · B = m · v² / R → R = m · v / (|q| · B)\n\nOs dois íons entram com a mesma velocidade, no mesmo campo e com cargas de mesmo módulo, então o raio é proporcional à massa:\n\nm₁ / m₂ = R₁ / R₂ = R₁ / (2 · R₁) = 1/2\n\nO íon de massa m₂ tem o dobro da massa do íon de massa m₁.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:22": {
+   "resposta": "**São 210 números.**\n\nOs primos positivos menores que 30 são: 2, 3, 5, 7, 11, 13, 17, 19, 23 e 29, ou seja, **10 primos**.\n\nCada número procurado é o produto de **4 desses primos, distintos**. Pelo Teorema Fundamental da Aritmética, a decomposição em fatores primos é única: escolhas diferentes de quatro primos sempre geram números diferentes, e a ordem dos fatores não muda o produto. Por exemplo, 2 · 3 · 5 · 7 = 210 e 3 · 5 · 7 · 2 são o mesmo número. Portanto, basta contar quantos grupos de 4 primos podem ser escolhidos entre os 10, uma **combinação simples**:\n\nC(10, 4) = 10! / (4! · 6!)\nC(10, 4) = (10 · 9 · 8 · 7) / (4 · 3 · 2 · 1)\nC(10, 4) = 5040 / 24 = 210\n\nO erro mais comum é usar arranjo (10 · 9 · 8 · 7 = 5040), contando como diferentes produtos que só trocam a ordem dos fatores.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:23": {
+   "resposta": "**O ângulo ABC mede aproximadamente 41°.**\n\nPontos A e C: substituindo x² = y + 1 na equação da circunferência:\n\ny + 1 + y² = 7 → y² + y − 6 = 0 → y = 2 ou y = −3\n\ny = −3 daria x² = −2, impossível; logo y = 2 e x² = 3, x = ±√3. Assim, A(−√3, 2) e C(√3, 2).\n\nO triângulo ABC é isósceles, simétrico em relação ao eixo y. Seja M(0, 2) o ponto médio de AC e α = ângulo MBC, metade de ABC. No triângulo retângulo BMC:\n\nMC = √3 e BM = 2 − (−√7) = 2 + √7\ntg α = √3 / (2 + √7)\n\nPela tangente do arco duplo, tg(ABC) = tg 2α = 2·tg α / (1 − tg²α):\n\ntg²α = 3 / (2 + √7)² = 3 / (11 + 4√7)\n1 − tg²α = (8 + 4√7) / (11 + 4√7)\ntg 2α = [2√3 / (2 + √7)] · [(11 + 4√7) / (8 + 4√7)]\nComo (2 + √7)(8 + 4√7) = 44 + 16√7 = 4(11 + 4√7):\ntg 2α = 2√3 / 4 = √3 / 2\n\nEntão cotg(ABC) = 2/√3 = 2√3/3 ≈ tg 49°. Como a cotangente de um ângulo agudo é a tangente do seu complementar, 90° − ABC ≈ 49°, ou seja, ABC ≈ 41°. Conferindo numericamente: tg α ≈ 0,373, α ≈ 20,4° e 2α ≈ 40,9°.\n\nAtenção: o resultado não é 49°; a tangente dada corresponde ao complemento do ângulo pedido.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:24": {
+   "resposta": "**O mínimo ocorre em x = 2π/3 e x = 4π/3**, onde f vale −3/4.\n\nIdeia: escrever f só em função de cos x e estudar uma função do 2º grau.\n\nComo sen²x = 1 − cos²x, temos cos(2x) = cos²x − (1 − cos²x) = 2cos²x − 1. Então:\n\nf(x) = cos x + ½ · (2cos²x − 1)\nf(x) = cos²x + cos x − ½\n\nFazendo u = cos x, com −1 ≤ u ≤ 1: g(u) = u² + u − ½, parábola com concavidade para cima. O mínimo está no vértice:\n\nu = −b / (2a) = −1/2, que pertence ao intervalo [−1, 1]\ng(−1/2) = 1/4 − 1/2 − 1/2 = −3/4\n\nAgora, cos x = −1/2 com 0 ≤ x ≤ 2π: x = 2π/3 (2º quadrante, 120°) ou x = 4π/3 (3º quadrante, 240°).\n\nErro comum: supor que o mínimo ocorre onde cos x é mínimo (x = π); ali f(π) = 1 − 1 − ½ = −½, maior que −3/4.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

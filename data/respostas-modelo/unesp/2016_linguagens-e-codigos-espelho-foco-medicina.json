@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2016_linguagens-e-codigos-espelho-foco-medicina.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:25": {
+   "resposta": "O autor atribui essa perspectiva **ao poeta**, que, segundo ele, \"é mais completo\" que o botânico e o jurista.\n\nOs dois pontos de vista são:\n\n**Estético (a beleza):** o poeta vê a árvore pela sua graça, força, formosura e colorido, isto é, pelo que ela oferece aos sentidos e à contemplação, e não pela sua estrutura, utilidade ou valor comercial.\n\n**Antropomórfico:** o poeta encara a árvore \"de pontos de vista comuns à humanidade\", atribuindo-lhe traços humanos e projetando nela sentimentos e associações; sente tudo o que ela lembra, sugere e evoca, das impressões mais espontâneas às mais vagas.\n\nDessa união resulta, para o autor, uma noção \"humana\", direta e viva da árvore, tão verdadeira quanto a científica ou a jurídica.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "**Relação sintática:** os termos sublinhados são **objetos diretos** do verbo \"estuda\" (transitivo direto): o botânico estuda o quê? O nascimento, o crescimento, a reprodução, a nutrição, a morte. Formam um objeto direto composto (o \"lhe\" é complemento de valor possessivo: estuda o nascimento *dela*, da árvore).\n\n**Critério semântico:** a enumeração segue a **ordem cronológica do ciclo de vida** da árvore, do começo ao fim: nascimento → crescimento → reprodução → … → morte.\n\n**Substantivo que rompe a organização:** **\"a nutrição\"**. A nutrição não é uma etapa da vida que vem depois da reprodução; é um processo contínuo, presente desde o nascimento até a morte. Colocada entre a reprodução e a morte, quebra a sequência temporal dos demais termos.",
+   "confianca": "media",
+   "pendencia": "Critério e termo deduzidos do enunciado; outra leitura possível seria apontar a reprodução, mas a nutrição é a que menos cabe numa sequência de fases."
+  },
+  "0:27": {
+   "resposta": "Para Amadeu Amaral, o **botânico** vê a árvore de modo **objetivo, analítico e científico**: reduz tudo \"a um esquema\", decompõe-na em raiz, tronco e fronde, descreve e classifica suas funções vitais e não lhe dá importância maior que a de qualquer outro vegetal (o carvalho \"vale tanto como a relva\"). É um olhar que dispensa beleza e sentimento.\n\nO **poeta**, ao contrário, tem um olhar **subjetivo, estético e humano**: vê a árvore em sua graça, força e formosura, sente o que ela lembra, sugere e evoca, e a encara com traços humanos (ângulo antropomórfico).\n\nA diferença fundamental, portanto, é entre o conhecimento racional e esquemático da ciência e a apreensão sensível e emotiva da poesia. O autor justifica que a visão do poeta é \"mais completa\" porque dá uma noção \"humana\", direta e viva da árvore, \"pelo menos tão verdadeira quanto qualquer outra\", ou seja, não é inferior ao saber científico, apenas de outra natureza.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "**Intenção:** o ruralista quer **justificar o desmatamento** e a ocupação da área pelo agronegócio, apresentando-se como vítima e a floresta como invasora, para defender a flexibilização da proteção ambiental no Novo Código Florestal.\n\n**Ponto de vista lógico:** o argumento é **absurdo, uma inversão**. Se a floresta está ali \"há milhares de anos\", ela é anterior a qualquer proprietário; quem ocupou o espaço dela foi o homem, e não o contrário. A própria fala se contradiz: não se pode invadir uma terra que só depois passou a ter dono. A ironia do chargista está justamente em pôr na boca da personagem \"Que absurdo!\", quando o absurdo é o raciocínio dela.\n\n**Ponto de vista ético:** o argumento é **condenável**, porque coloca o interesse econômico privado (o lucro do agronegócio) acima da preservação de um bem coletivo e do equilíbrio ambiental. Trata a natureza apenas como obstáculo e \"terra\" a explorar, aproximando-se do olhar que o texto de Amadeu Amaral resume no grito \"Quanta lenha!\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "**Contraste:** o poema opõe os **animais irracionais** (\"alimárias\" da terra, da água e do ar) ao **homem racional**. Os brutos jamais esquecem as leis que Deus lhes deu e as obedecem; o homem, \"racional, próvido e astuto\", usa sua razão e sua astúcia para praticar obras contrárias às leis divinas. O paradoxo é que a razão, que deveria elevá-lo, o torna mais desobediente que os animais. Daí a conclusão irônica do eu lírico: pede a Deus que o faça \"fera\", para ver se assim obedece melhor.\n\n**Movimento literário:** **Barroco** (século XVII). Além da data (Dom Francisco Manuel de Melo, 1608-1666), o enquadram: a temática religiosa e o diálogo com Deus, típicos da poesia sacra barroca; o jogo de antíteses (razão × instinto, homem × fera, lembrar × esquecer); o raciocínio engenhoso e argumentativo, próprio do conceptismo; a forma do soneto com linguagem rebuscada e inversões sintáticas (hipérbatos), como em \"Das leis que lhes pusestes ordinárias\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "**Primeiro verso (\"Quando vejo, Senhor, que às alimárias\"):** o \"que\" é **conjunção subordinativa integrante**. Sua função é introduzir a oração subordinada substantiva objetiva direta (\"que às alimárias… não lhe esquece jamais o alto estatuto…\"), que completa o sentido do verbo \"vejo\" (vejo o quê?). Não exerce função sintática dentro da oração que inicia; apenas a liga à principal.\n\n**Quarto verso (\"Das leis que lhes pusestes ordinárias\"):** o \"que\" é **pronome relativo**. Retoma o substantivo \"leis\" e introduz a oração subordinada adjetiva restritiva. Dentro dessa oração, funciona como **objeto direto** de \"pusestes\": vós pusestes as leis (que) às alimárias como ordinárias (\"lhes\" é objeto indireto e \"ordinárias\" é predicativo do objeto).\n\nUm teste simples para distinguir: o relativo pode ser trocado por \"as quais\" (\"das leis as quais lhes pusestes\"); a integrante, não, mas a oração que ela introduz pode ser trocada por \"isso\" (\"quando vejo isso\").",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:31": {
+   "resposta": "**Reescrita em discurso direto:**\n\nCamilo disse a Rita:\n— É imprudente andar por essas casas.\n\n(Também é aceitável inserir um vocativo e um verbo de elocução depois da fala: \"— Rita, é imprudente andar por essas casas — disse Camilo.\")\n\n**Ajustes feitos:**\n\nOs pronomes foram substituídos pelos nomes: \"[Ele]\" → Camilo; \"lhe\" → a Rita.\n\nA conjunção integrante \"que\" desaparece, e a fala passa a vir depois de dois-pontos e travessão (ou entre aspas), em linha própria.\n\nO verbo \"era\", no pretérito imperfeito do indicativo, passa para o **presente**, \"é\", porque no discurso direto a personagem fala no momento da enunciação.\n\nO demonstrativo \"essas\" pode ser mantido, pois na fala de Camilo ele remete às casas mencionadas por Rita na conversa (as das cartomantes).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "**Os dois entes abstratos:** **a virtude** e **o interesse**, no pensamento atribuído a Rita: a virtude \"é preguiçosa e avara, não gasta tempo nem papel; só o interesse é ativo e pródigo\".\n\n**Justificativa:** a ambos são atribuídos traços próprios de pessoas. A virtude é chamada de preguiçosa e avara e \"não gasta tempo nem papel\", como alguém que não se dá ao trabalho de escrever cartas; o interesse é ativo e pródigo, como quem se empenha e gasta à vontade. Com isso Rita explica as cartas anônimas: quem as escreve não é alguém virtuoso preocupado com a moral, mas um pretendente movido por despeito e interesse.\n\n**Figura de retórica:** **prosopopeia**, também chamada **personificação**.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "Segundo o primeiro parágrafo, a enciclopédia é notável porque surge **num momento em que tradições, histórias, culturas e conhecimentos indígenas estão desaparecendo** pelo mundo, o que o texto chama de uma das grandes tragédias da nossa época.\n\nLínguas e mitologias inteiras estão se perdendo, e alguns grupos indígenas chegam a se extinguir. Nesse cenário, um povo amazônico (os Matsés, do Brasil e do Peru) consegue o oposto: registrar por escrito, numa obra de 500 páginas, o seu saber medicinal tradicional. A enciclopédia, compilada por cinco pajés com ajuda da ONG Acaté, descreve cada planta usada na medicina Matsés para tratar uma enorme variedade de doenças.\n\nOu seja, o feito chama a atenção por preservar um conhecimento que, em outras comunidades, está se apagando.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "Segundo o texto, os Matsés imprimiram a enciclopédia **somente na língua nativa** por duas razões:\n\n**Proteger o conhecimento:** garantir que o saber medicinal não fosse **roubado por empresas ou pesquisadores**, como já aconteceu no passado (a chamada biopirataria). Escrita na língua Matsés, a obra fica inacessível a quem é de fora.\n\n**Servir à própria comunidade:** a enciclopédia foi pensada como um **guia para formar novos e jovens pajés** na tradição e como forma de **registrar o conhecimento dos pajés vivos antes que eles morram**.\n\nO texto acrescenta ainda que é a primeira vez que pajés de uma tribo amazônica fazem uma transcrição completa do seu saber medicinal \"em sua própria língua e palavras\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "A motivação foi **a morte de um dos mais renomados curandeiros anciãos dos Matsés antes que ele pudesse transmitir o seu conhecimento**. Esse fato levou a Acaté e a liderança Matsés a concluir que \"era a hora\" e a dar prioridade à enciclopédia, **antes que outros anciãos morressem e levassem consigo o saber ancestral**.\n\nPor trás disso está a preocupação mais ampla expressa por Herndon: o conhecimento sobre plantas medicinais está desaparecendo depressa entre os povos indígenas e, como ninguém o registra por escrito, os maiores prejudicados são os próprios indígenas. A iniciativa pretende, assim, preservar esse saber e servir de modelo para que outras culturas indígenas protejam seu conhecimento ancestral.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "Hugh Baker sugere duas coisas:\n\n**Registrar os direitos autorais (copyright) da enciclopédia no maior número possível de jurisdições** (países), para proteger tanto o conhecimento medicinal quanto as informações biológicas e botânicas: as espécies de plantas, fungos, insetos e animais que existem na região da tribo.\n\n**Exigir contrapartidas das empresas farmacêuticas** que quiserem lucrar com esse conhecimento: elas teriam de **pagar royalties aos Matsés** e também **consultá-los**, numa interação significativa, sobre como pretendem explorar qualquer recurso pelo qual se interessem.\n\nEm resumo, ele propõe proteção legal da propriedade intelectual indígena e participação dos Matsés nos lucros e nas decisões sobre o uso do seu saber.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "indice": "data/questoes/unesp/2010-2_2-dia-da-2-fase-espelho-curso-objetivo.json",
+ "gerado_em": "2026-11-08",
+ "origem": "Geradas por IA (Claude) a partir da imagem do caderno. Não há resposta oficial publicada. Sem revisão humana.",
+ "questoes": {
+  "0:25": {
+   "resposta": "O narrador dispensava a ajuda do colega mais velho no desenho **porque gostava da matéria e tinha facilidade com ela**: achava graça em percorrer os traços caprichosos e se divertia com a geometria miúda \"como um brinquedo\". Para ele, o desenho era prazer e diversão, e não esforço; aprendia sozinho, por gosto e aptidão.\n\nIsso o diferencia da atitude diante da tabuada e do sistema métrico, em que também prescindia do colega, mas por outra razão, oposta: por desinteresse e resignação, pois tinha perdido a esperança de passar de medíocre nos cálculos e deixara a primazia nos números para Maurílio ou outro qualquer. E diferencia-o ainda da doutrina cristã, matéria em que dependia das explicações de Sanches, ouvidas com curiosidade, mas também com desconfiança e ironia.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:26": {
+   "resposta": "As duas entidades são **Deus** (o \"Altíssimo\", ligado ao céu) e **Satanás** (o demônio).\n\n**Deus** aparece associado aos valores do **bem**: a grandeza divina, o céu \"aberto\", a fé, as criações consagradas, a salvação e a virtude.\n\n**Satanás** aparece associado aos valores opostos, do **mal**: o pecado, a Tentação, o Mal, o medo e a condenação (o purgatório e as \"manifestações de Satanás no mundo\"). O narrador nota, com ironia, que Sanches se demorava justamente nessa parte, nos pecados e nas fantasias do demônio, aumentando-lhe até a cauda, mais para seduzir e impressionar o menino do que para assustá-lo.",
+   "confianca": "media",
+   "pendencia": "O texto permite outras leituras para as duas entidades (por exemplo, céu e purgatório); a resposta usa o par Deus e Satanás, que é o mais evidente no parágrafo."
+  },
+  "0:27": {
+   "resposta": "O narrador emprega **agouro no sentido original, neutro e até positivo, de prognóstico ou previsão**, e não de presságio ruim.\n\nOs elementos do contexto comprovam isso: o agouro \"sorria-me\", verbo que indica algo agradável e favorável; ele anunciava um \"magnífico futuro\", expressão claramente positiva; e vinha como consequência do bom preparo do menino, que em dois meses tinha \"vencido por alto\" toda a matéria do curso. Ou seja, tudo indicava uma previsão de sucesso escolar.\n\nA ideia de desgraça só aparece depois, com a conjunção temporal \"quando veio a fatalidade desandar a roda\": é a fatalidade, e não o agouro, que interrompe o futuro promissor.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:28": {
+   "resposta": "O jogo de palavras está no duplo sentido de **carne**: carne como **corpo, sensualidade, desejo sexual** (o sentido religioso de \"pecado da carne\", ligado à castidade, à luxúria e ao sexto e nono mandamentos) e carne como **alimento**, a carne de vaca (o *beef*).\n\nO narrador, menino ingênuo, só conhecia a carne \"condenada pela quaresma\", ou seja, a carne de comer, proibida em dias de jejum e abstinência, e por isso entendia que a \"pobre carne do *beef*\" era inimiga da alma. Quando o preceptor o corrige, explicando que se tratava de outra carne, a do corpo, o narrador ironiza, dizendo que essa outra carne era \"guisada de modo especial e muito especialmente trinchada\", isto é, aplica ao sentido sexual o vocabulário da culinária.\n\nO efeito é humorístico e crítico: com a confusão entre os dois sentidos, ele zomba dos \"monopolistas do bacalhau\" (quem lucrava com a abstinência de carne) e dos preceitos rígidos da moral religiosa, que chamava de calúnias à \"inocente carne\".",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:29": {
+   "resposta": "No segundo período, Murilo Mendes trata a liberdade no **plano político**, como um problema de **conciliação entre liberdade e autoridade**: para ele, equilibrar a liberdade dos indivíduos com a autoridade do Estado (o poder, a ordem) é um dos problemas políticos mais importantes.\n\nAssim, enquanto Patativa denuncia concretamente a falta de liberdade do povo pobre (que não pode reclamar nem expor suas razões, sem liberdade de imprensa), Murilo aborda a questão de modo abstrato e teórico: a liberdade não é tratada como algo a ser simplesmente conquistado pelos oprimidos, mas como um valor que precisa ser harmonizado com a autoridade, sem que uma anule a outra, para que se chegue à harmonia social de que fala o primeiro período.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:30": {
+   "resposta": "Uma reescrita possível da terceira estrofe na norma culta:\n\nEstas pequenas pessoas,\nEstes filhos do abandono,\nQue vivem vagando à toa\nComo objetos sem dono,\nDe maneira que horroriza,\nDeitados pelas marquises,\nDormindo aqui e acolá\nNo mais penoso desamparo,\nSão, deste Brasil de Baixo,\nA classe dos marginais.\n\nO que foi corrigido: a ortografia que imita a fala (\"pessoa\" → pessoas, \"fio\" → filhos, \"manêra\" → maneira, \"marquiza\" → marquise, \"Dromindo\" → Dormindo, \"aculá\" → acolá, \"Brasi de Baxo\" → Brasil de Baixo, \"crasse\" → classe, \"marginá\" → marginais); a concordância nominal, com marca de plural em todas as palavras (\"pequenas pessoas\", \"objetos\", \"marginais\"); e a concordância verbal (\"veve\" → vivem, concordando com \"pessoas\"; \"É\" → São, concordando com o sujeito plural). \"Relaxo\", forma popular, pode ser trocado por desamparo ou desleixo.",
+   "confianca": "media",
+   "pendencia": "É uma reescrita: há mais de uma versão correta (por exemplo, na escolha da palavra que substitui \"relaxo\")."
+  },
+  "0:31": {
+   "resposta": "Murilo Mendes sugere que a harmonia social, o \"bem de cada um\", só será alcançada pela **execução de um código espiritual e moral** que atenda **ao mesmo tempo ao bem coletivo e ao bem individual**.\n\nA comparação com a sexta estrofe de Patativa mostra caminhos diferentes para o mesmo ideal. No poema, o \"Brasil de cada um\" virá da subida do Brasil de Baixo, isto é, de uma transformação social que acabe com o abandono e a sujeição do povo e torne a liberdade de imprensa legal e comum. Murilo, por sua vez, não fala em inversão das classes: propõe uma solução de fundo ético e espiritual, um conjunto de normas morais capaz de conciliar o interesse de todos com o de cada indivíduo, complementado, no restante do fragmento, pela justiça social (melhoria para todos sem distinção e apropriação coletiva dos instrumentos de trabalho).",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:32": {
+   "resposta": "Nos versos de Patativa, o verbo **não concorda com o sujeito no plural**: em \"os carro põe\", o sujeito tem a marca de plural só no artigo (\"os\"), e o verbo fica no singular (\"põe\"); em \"eles fosse\", o pronome está no plural e o verbo no singular (\"fosse\").\n\nNa norma culta, o verbo concorda em número e pessoa com o sujeito, e a marca de plural aparece em todas as palavras: \"Onde os **carros põem** o lixo, / Como se eles **fossem bichos**\".\n\nA forma usada pelo poeta reproduz uma regra do português popular, em que o plural é indicado uma vez só, geralmente no primeiro elemento (o determinante), e as demais palavras ficam no singular; é um traço de variação linguística, e não simples erro, que o poeta usa para estilizar a fala do povo.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:33": {
+   "resposta": "**Não; segundo o texto, raramente consideramos os valores humanos.** Ao projetar e implementar tecnologias computacionais, a maioria se concentra em fazer a máquina funcionar de modo confiável, eficiente e correto.\n\nO texto aponta duas razões possíveis: talvez acreditemos que a tecnologia é **neutra em relação a valores** (\"value-neutral technology\"), ou talvez achemos que as questões de valores **pertencem apenas** a cientistas sociais, filósofos ou formuladores de políticas públicas, e não aos projetistas de sistemas.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:34": {
+   "resposta": "No primeiro parágrafo, a autora cita como exemplos de valores humanos a **liberdade de expressão**, os **direitos de propriedade**, a **responsabilidade** (no sentido de prestação de contas, \"accountability\"), a **privacidade** e a **autonomia**.\n\nEla observa que esses valores são controversos, o que levanta a questão de saber com que base alguns deles se sobrepõem a outros no projeto de hardware, algoritmos e bancos de dados. Mencionam-se também, de forma geral, os valores morais e sociais que os projetistas transmitem em seu trabalho.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:35": {
+   "resposta": "**Primeira lacuna: (4) Neither belief is correct. Segunda lacuna: (2) Let us consider two examples.**\n\nNa primeira lacuna, a autora acabou de apresentar duas crenças (\"Perhaps we believe…\" duas vezes: a de que a tecnologia é neutra e a de que valores são assunto só de cientistas sociais e filósofos). A frase (4), \"nenhuma das duas crenças está correta\", refuta ambas e prepara a afirmação seguinte, de que os projetistas necessariamente transmitem valores morais e sociais.\n\nNa segunda lacuna, depois da pergunta \"Does technology have values?\", o texto apresenta exatamente dois exemplos: os snowmobiles nas comunidades inuítes e o e-mail (\"Now a computer example\"). Por isso cabe (2), \"consideremos dois exemplos\". A (5) não serve porque fala em um só exemplo; a (1) fala em três argumentos; e a (3) contradiz a tese da autora.",
+   "confianca": "alta",
+   "pendencia": null
+  },
+  "0:36": {
+   "resposta": "**Não. A autora acredita que as inovações tecnológicas não existem separadas dos valores humanos**; por isso, a resposta à primeira pergunta é negativa, e não há trecho que defenda o contrário.\n\nO que o texto deixa explícito é justamente a posição oposta, sobretudo na frase que conclui os exemplos: \"technological innovations do not stand apart from human values\" (as inovações tecnológicas não estão à parte dos valores humanos). A mesma ideia aparece no primeiro parágrafo, quando ela afirma que os projetistas de sistemas, em seu trabalho, necessariamente transmitem valores morais e sociais, e no fim, quando diz que não podemos determinar rigidamente os valores que surgirão, mas também não podemos abdicar da responsabilidade.\n\nOs exemplos confirmam: os snowmobiles mudaram símbolos de status e a economia dos inuítes, e o e-mail, ao não mostrar a posição do remetente, ajudou a romper hierarquias.",
+   "confianca": "alta",
+   "pendencia": null
+  }
+ }
+}
